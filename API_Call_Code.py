@@ -5,6 +5,7 @@ import random
 import requests
 import pandas as pd
 import argparse
+from urllib.parse import quote
 from enum import Enum
 
 class FetchMode(Enum):
@@ -17,6 +18,98 @@ class FetchMode(Enum):
             return cls(mode_str.lower())
         except ValueError:
             raise ValueError(f"Invalid mode: {mode_str}. Must be either 'all' or 'random'")
+
+
+def get_openalex_auth_params():
+    """
+    Centralized OpenAlex auth/contact parameters.
+    """
+    return {
+        "mailto": "motasim.mauthoor@mail.mcgill.ca",
+        # "api_key": "NBSiCAJ7YnSROz92irdWhr"
+    }
+
+
+def fetch_work(identifier):
+    """
+    Fetch a single work from OpenAlex by OpenAlex ID, URL, or DOI.
+
+    Args:
+    identifier (str): e.g. 'W123...', 'https://openalex.org/W123...',
+                      '10.xxxx/xxxx', or 'https://doi.org/...'
+
+    Returns:
+    dict: Work payload from OpenAlex.
+    """
+    if not identifier:
+        raise ValueError("identifier is required")
+
+    raw = identifier.strip()
+    lowered = raw.lower()
+
+    if lowered.startswith("https://openalex.org/"):
+        work_id = raw.split("/")[-1]
+        url = f"https://api.openalex.org/works/{work_id}"
+    elif lowered.startswith("w"):
+        url = f"https://api.openalex.org/works/{raw}"
+    elif lowered.startswith("https://doi.org/"):
+        doi = raw[len("https://doi.org/"):]
+        url = f"https://api.openalex.org/works/https://doi.org/{quote(doi, safe='/')}"
+    elif lowered.startswith("10."):
+        url = f"https://api.openalex.org/works/https://doi.org/{quote(raw, safe='/')}"
+    else:
+        raise ValueError(
+            "Unsupported identifier format. Use OpenAlex ID/URL or DOI."
+        )
+
+    response = requests.get(url, params=get_openalex_auth_params())
+    response.raise_for_status()
+    return response.json()
+
+
+def fetch_top_citation_abstracts(identifier, top_n=5, delay_seconds=0.05):
+    """
+    Given a paper, fetch abstracts of its top cited references.
+
+    "Top" is determined by each referenced work's cited_by_count.
+
+    Args:
+    identifier (str): Source paper OpenAlex ID/URL/DOI.
+    top_n (int): Number of referenced works to return.
+    delay_seconds (float): Delay between API calls to be polite with rate limits.
+
+    Returns:
+    list[dict]: Top references with title, cited_by_count and abstract.
+    """
+    if top_n < 1:
+        raise ValueError("top_n must be >= 1")
+
+    source_work = fetch_work(identifier)
+    referenced_works = source_work.get("referenced_works", []) or []
+
+    if not referenced_works:
+        return []
+
+    reference_payloads = []
+    for ref in referenced_works:
+        try:
+            ref_work = fetch_work(ref)
+            reference_payloads.append({
+                "id": ref_work.get("id"),
+                "title": ref_work.get("title"),
+                "cited_by_count": ref_work.get("cited_by_count", 0),
+                "abstract": extract_abstract(ref_work.get("abstract_inverted_index")),
+            })
+        except requests.exceptions.RequestException as e:
+            print(f"Skipping reference {ref} due to request error: {e}")
+        time.sleep(delay_seconds)
+
+    reference_payloads.sort(
+        key=lambda x: x.get("cited_by_count") or 0,
+        reverse=True
+    )
+
+    return reference_payloads[:top_n]
 
 
 def fetch_papers_with_mode(mode: FetchMode, query, max_papers=None, start_year=None, 
@@ -144,9 +237,18 @@ def fetch_papers(query, start_year=None, end_year=None, save_folder=None, percen
     all_results = []
     saved_results = []
     per_page = 200  # Maximum allowed by the API
+    filter_string = (
+    "institutions.country_code:ca," # Simplified country filter
+    "type:article," # Matches 'Work type'
+    "is_oa:true," # Open Access
+    "primary_topic.field.id:121," # Physics and Astronomy
+    "has_abstract:true"
+)
     params = {
-        "filter": f"title_and_abstract.search:{query}",
+        "filter": "authorships.countries:ca,type:article,open_access.is_oa:true,primary_topic.field.id:121,has_abstract:true",
         "per-page": per_page,
+        "mailto": "motasim.mauthoor@mail.mcgill.ca",
+        "api_key": "NBSiCAJ7YnSROz92irdWhr"
     }
     
     if start_year and end_year:
@@ -410,43 +512,71 @@ def main():
     """
     Main function to run the paper fetching and processing script.
     """
-    parser = argparse.ArgumentParser(description="Fetch and process academic papers based on search conditions.")
-    parser.add_argument("-m", "--mode", required=True, choices=['all', 'random'],
-                       help="Mode to fetch papers: 'all' for complete dataset, 'random' for random sampling")
-    parser.add_argument("-f", "--file", required=True,
-                       help="Path to the search conditions file")
-    parser.add_argument("-o", "--output", default=None,
-                       help="Output folder path (default: same name as input file)")
-    parser.add_argument("-p", "--percentage", type=float, default=1.0,
-                       help="Percentage of results to save in each batch (default: 100, minimal:0.01)")
-    parser.add_argument("-n", "--max_papers", type=int, default=None,
-                       help="Maximum number of papers to fetch (required for random mode)")
+    # parser = argparse.ArgumentParser(description="Fetch and process academic papers based on search conditions.")
+    # parser.add_argument("-m", "--mode", required=True, choices=['all', 'random'],
+    #                    help="Mode to fetch papers: 'all' for complete dataset, 'random' for random sampling")
+    # parser.add_argument("-f", "--file", required=True,
+    #                    help="Path to the search conditions file")
+    # parser.add_argument("-o", "--output", default=None,
+    #                    help="Output folder path (default: same name as input file)")
+    # parser.add_argument("-p", "--percentage", type=float, default=1.0,
+    #                    help="Percentage of results to save in each batch (default: 100, minimal:0.01)")
+    # parser.add_argument("-n", "--max_papers", type=int, default=None,
+    #                    help="Maximum number of papers to fetch (required for random mode)")
 
-    args = parser.parse_args()
+    # args = parser.parse_args()
 
-    if args.mode == 'random' and args.max_papers is None:
-        parser.error("--max_papers is required when using random mode")
+    # if args.mode == 'random' and args.max_papers is None:
+    #     parser.error("--max_papers is required when using random mode")
     
-    if args.percentage < 0.01 or args.percentage > 100:
-        parser.error("Percentage must be between 0.01 and 100")
+    # if args.percentage < 0.01 or args.percentage > 100:
+    #     parser.error("Percentage must be between 0.01 and 100")
 
-    # Process input file and set up output directory
-    start_year, end_year, query = process_search_file(args.file)
-    save_folder = args.output if args.output else os.path.splitext(args.file)[0]
+    # # Process input file and set up output directory
+    # start_year, end_year, query = process_search_file(args.file)
+    # save_folder = args.output if args.output else os.path.splitext(args.file)[0]
+
+    # try:
+    #     # Fetch papers based on mode
+    #     fetch_mode = FetchMode.from_string(args.mode)
+        
+    #     papers = fetch_papers_with_mode(
+    #         mode=fetch_mode,
+    #         query=query,
+    #         max_papers=args.max_papers,
+    #         start_year=start_year,
+    #         end_year=end_year,
+    #         save_folder=save_folder,
+    #         percentage=args.percentage / 100
+    #     )
+    save_path = r"C:\Users\mauth\OneDrive\Desktop\School\Winter 2026\PHYS 489"
+    
+    # Your target settings
+    my_query = "physics" # Or leave empty "" if you want ALL physics papers
+    start_year = "1900"
+    end_year = "2026"
+    
+    print(f"Starting fetch. Data will be saved to: {save_path}")
 
     try:
-        # Fetch papers based on mode
-        fetch_mode = FetchMode.from_string(args.mode)
-        
-        papers = fetch_papers_with_mode(
-            mode=fetch_mode,
-            query=query,
-            max_papers=args.max_papers,
+        # We call fetch_papers directly with your 3k goal
+        # The 'percentage=1' ensures we save 100% of what we find
+        results = fetch_papers(
+            query=my_query,
             start_year=start_year,
             end_year=end_year,
-            save_folder=save_folder,
-            percentage=args.percentage / 100
+            save_folder=save_path,
+            percentage=1.0
         )
+
+        if results:
+            # Final step: Merge everything into one master file
+            df = create_dataframe(results)
+            save_dataset(df, save_path, filename='physics_canada_master.csv')
+            print(f"Done! Total papers captured: {len(results)}")
+            
+    except Exception as e:
+        print(f"An error occurred: {e}")
 
         # Process and save results
         # if papers:
