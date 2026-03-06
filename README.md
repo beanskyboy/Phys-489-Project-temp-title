@@ -4,7 +4,19 @@ This is a research project on new metrics for evaluating research papers. We lim
 
 Steps:
 
-~ Pull as much data a possible from openAlex. I used an OpenAlex scraper for this. We are also writing scripts to do that. 
-~ Next we used the DOI's to check if the paper has been retracted using crossref or retraction watch.
+~ Pull as much data as possible from openAlex. I used an OpenAlex scraper for this. We are also writing scripts to do that.
+
+
+~ Next, we used the DOIs to check if the paper has been retracted using CrossRef or Retraction Watch.
+
+
 ~ Check if data is available (i.e RDM)
-~ Start comparing abstracts
+
+
+~ Start comparing abstracts using EmbeddingGemma
+
+
+~ Pull the H-index of authors and compare it to the calculated H-index based on their works available through OpenAlex
+
+
+~ Compare the Abstract vector embeddings of all of a given author's works with their H-index
