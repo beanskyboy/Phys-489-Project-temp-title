@@ -179,55 +179,56 @@ def calculate_similarity_matrix(abstracts_list):
     df = pd.DataFrame(similarity_matrix)
     return df
 
-def plot_similarities_vs_h_index(author_id):
+def plot_similarities_vs_h_index(author_ids):
     """
-    Plot the similarities from the author's works against their h-index.
+    Plot similarities of works versus h-index for multiple authors.
 
     Args:
-        author_id (str): The OpenAlex author identifier
+        author_ids (list[str]): List of OpenAlex author identifiers
     """
     import matplotlib.pyplot as plt
 
-    # Get h-index
-    h_index = get_h_index_from_author_id(author_id)
-    if h_index is None:
-        print("Could not retrieve h-index")
+    all_h = []
+    all_sims = []
+
+    for author_id in author_ids:
+        h_index = get_h_index_from_author_id(author_id)
+        if h_index is None:
+            print(f"Skipping {author_id}: could not retrieve h-index")
+            continue
+
+        abstracts = get_abstracts_from_author_id(author_id)
+        if not abstracts:
+            print(f"Skipping {author_id}: could not retrieve abstracts")
+            continue
+
+        sim_df = calculate_similarity_matrix(abstracts)
+        if sim_df is None or sim_df.empty:
+            print(f"Skipping {author_id}: similarity matrix empty")
+            continue
+
+        # extract upper triangle similarities
+        n = len(sim_df)
+        for i in range(n):
+            for j in range(i+1, n):
+                all_h.append(h_index)
+                all_sims.append(sim_df.iloc[i, j])
+
+    if not all_sims:
+        print("No similarity data available to plot")
         return
 
-    # Get abstracts
-    abstracts = get_abstracts_from_author_id(author_id)
-    if not abstracts:
-        print("Could not retrieve abstracts")
-        return
-
-    # Calculate similarity matrix
-    sim_df = calculate_similarity_matrix(abstracts)
-    if sim_df is None or sim_df.empty:
-        print("Could not compute similarity matrix")
-        return
-
-    # Extract upper triangle similarities (excluding diagonal)
-    similarities = []
-    n = len(sim_df)
-    for i in range(n):
-        for j in range(i+1, n):
-            similarities.append(sim_df.iloc[i, j])
-
-    if not similarities:
-        print("No similarities to plot")
-        return
-
-    # Plot
     plt.figure(figsize=(8, 6))
-    plt.scatter([h_index] * len(similarities), similarities, alpha=0.7)
+    plt.scatter(all_h, all_sims, alpha=0.7)
     plt.xlabel('H-Index')
     plt.ylabel('Cosine Similarity')
-    plt.title(f'Work Similarities vs H-Index for author {author_id}\n(H-Index: {h_index})')
+    plt.title('Work Similarities vs H-Index for multiple authors')
     plt.grid(True, alpha=0.3)
     plt.show()
+    plt.savefig('results.png')
 
-calculate_similarity_matrix(get_abstracts_from_author_id("a5025339678"))
-
-
+# chosen because they are the authors of https://openalex.org/works/W1973728792
+List_of_authors_ids = ['a5018142180','a5114002649','a5062597899','a5089292437','a5036537125','a5071633297','a5037335973']
+plot_similarities_vs_h_index(List_of_authors_ids)
 
 
