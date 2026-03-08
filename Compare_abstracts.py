@@ -1,11 +1,11 @@
 import ollama
-import requests
 import numpy as np
 import pandas as pd
 import json
 import os
 import hashlib
 
+# from sentence_transformers import SentenceTransformer, util
 from API_Call_Code import fetch_work, fetch_top_citation_abstracts, extract_abstract
 
 
@@ -14,10 +14,11 @@ EMBED_MODEL = "embeddinggemma"
 EMBED_CACHE_PATH = "embedding_cache.json"
 
 # 1. API Tool: Check if a paper is retracted (Example using a mock API)
-def check_retraction(paper_id):
-    # In a real scenario, you'd call an API like Crossref or Semantic Scholar.
-    print(f"[*] Checking retraction status for: {paper_id}")
-    return {"status": "clean"}
+# def check_retraction(paper_id):
+#     # In a real scenario, you'd call an API like Crossref or Semantic Scholar
+#     # For this example, we'll simulate a 'clean' status
+#     print(f"[*] Checking retraction status for: {paper_id}")
+#     return {"status": "clean"}
 
 # 2. Embedding Helper
 def load_embedding_cache(cache_path=EMBED_CACHE_PATH):
@@ -70,14 +71,7 @@ def run_research_pipeline(paper_id, top_n=5, embedding_cache=None):
     #     }
 
     # Step 2: Pull real abstract for target paper
-    try:
-        source_work = fetch_work(paper_id)
-    except requests.exceptions.RequestException as e:
-        return {
-            "paper_id": paper_id,
-            "error": f"Failed to fetch source paper from OpenAlex: {e}"
-        }
-
+    source_work = fetch_work(paper_id)
     main_abstract = extract_abstract(source_work.get("abstract_inverted_index"))
 
     if not main_abstract:
@@ -87,14 +81,7 @@ def run_research_pipeline(paper_id, top_n=5, embedding_cache=None):
         }
 
     # Step 3: Pull top-N referenced works and keep only those with abstracts
-    try:
-        references = fetch_top_citation_abstracts(paper_id, top_n=top_n)
-    except requests.exceptions.RequestException as e:
-        return {
-            "paper_id": paper_id,
-            "error": f"Failed to fetch top referenced works from OpenAlex: {e}"
-        }
-
+    references = fetch_top_citation_abstracts(paper_id, top_n=top_n)
     references = [r for r in references if r.get("abstract")]
 
     if not references:
@@ -104,22 +91,11 @@ def run_research_pipeline(paper_id, top_n=5, embedding_cache=None):
         }
 
     # Step 4: Embed and compute cosine similarities
-    try:
-        main_vec = get_vector(main_abstract, embedding_cache)
-    except Exception as e:
-        return {
-            "paper_id": paper_id,
-            "error": f"Failed to embed source abstract: {e}"
-        }
+    main_vec = get_vector(main_abstract, embedding_cache)
     
     similarities = []
     for ref in references:
-        try:
-            ref_vec = get_vector(ref["abstract"], embedding_cache)
-        except Exception as e:
-            print(f"{paper_id}: skipping reference {ref.get('id')} due to embedding error: {e}")
-            continue
-
+        ref_vec = get_vector(ref["abstract"], embedding_cache)
         score = cosine_similarity(main_vec, ref_vec)
         similarities.append({
             "reference_id": ref.get("id"),
@@ -128,16 +104,12 @@ def run_research_pipeline(paper_id, top_n=5, embedding_cache=None):
             "cosine_similarity": score
         })
 
-    if not similarities:
-        return {
-            "paper_id": paper_id,
-            "error": "No valid reference embeddings available for similarity analysis."
-        }
-
     avg_similarity = float(np.mean([item["cosine_similarity"] for item in similarities]))
     return {
         "paper_id": paper_id,
+        "paper_doi": source_work.get("doi"),
         "paper_title": source_work.get("title"),
+        "paper_abstract": main_abstract,
         "num_references_compared": len(similarities),
         "average_similarity": avg_similarity,
         "reference_similarities": similarities
@@ -145,43 +117,43 @@ def run_research_pipeline(paper_id, top_n=5, embedding_cache=None):
 
 
 
+
 def main():
     embedding_cache = load_embedding_cache()
-    file_path = r"C:\Users\mauth\OneDrive\Desktop\School\Winter 2026\PHYS 489\papers_batch_1.csv"
-    try:
-        df = pd.read_csv(file_path,encoding='latin1')
-    except Exception as e:
-        print(f"Failed to read CSV file: {e}")
-        return
-
-    if "id" not in df.columns:
-        print("CSV does not contain an 'id' column.")
-        return
-
+    file_path = r"C:\Users\mauth\OneDrive\Desktop\School\Winter 2026\PHYS 489\Acoustics and ultrasonics sample.csv"
+    df = pd.read_csv(file_path,encoding='latin1')
     ids = df['id'].dropna().tolist()[:5]
+    all_results = []
     for paper_id in ids:
-        try:
-            result = run_research_pipeline(paper_id, top_n=5, embedding_cache=embedding_cache)
-        except Exception as e:
-            print(f"{paper_id}: unexpected pipeline error: {e}")
-            continue
-
+        result = run_research_pipeline(paper_id, top_n=5, embedding_cache=embedding_cache)
         if "error" in result:
             print(f"{paper_id}: {result['error']}")
             continue
+
+        refs = result["reference_similarities"]
+        all_results.append({
+            "paper_id": result["paper_id"],
+            "paper_doi": result.get("paper_doi"),
+            "paper_title": result.get("paper_title"),
+            "paper_abstract": result.get("paper_abstract"),
+            "num_references_compared": len(refs),
+            "reference_ids": json.dumps([r.get("reference_id") for r in refs]),
+            "reference_titles": json.dumps([r.get("reference_title") for r in refs]),
+            "reference_similarity_scores": json.dumps([r.get("cosine_similarity") for r in refs]),
+            "average_similarity_score": result["average_similarity"]
+        })
 
         print(
             f"{paper_id} | avg similarity: {result['average_similarity']:.4f} "
             f"across {result['num_references_compared']} references"
         )
 
-    try:
-        save_embedding_cache(embedding_cache)
-    except Exception as e:
-        print(f"Failed to save embedding cache: {e}")
+    output_df = pd.DataFrame(all_results)
+    output_df.to_csv("all_paper_similarities.csv", index=False)
+    save_embedding_cache(embedding_cache)
   
 
-    
+  
  
 if __name__ == "__main__":
     main()

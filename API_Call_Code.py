@@ -67,7 +67,7 @@ def fetch_work(identifier):
     return response.json()
 
 
-def fetch_top_citation_abstracts(identifier, top_n=5, delay_seconds=0.05):
+def fetch_top_citation_abstracts(identifier, top_n=5, delay_seconds=0.05, require_abstract=True):
     """
     Given a paper, fetch abstracts of its top cited references.
 
@@ -80,6 +80,8 @@ def fetch_top_citation_abstracts(identifier, top_n=5, delay_seconds=0.05):
 
     Returns:
     list[dict]: Top references with title, cited_by_count and abstract.
+                If require_abstract=True, returns up to top_n items that
+                successfully fetched and contain abstracts.
     """
     if top_n < 1:
         raise ValueError("top_n must be >= 1")
@@ -96,6 +98,7 @@ def fetch_top_citation_abstracts(identifier, top_n=5, delay_seconds=0.05):
             ref_work = fetch_work(ref)
             reference_payloads.append({
                 "id": ref_work.get("id"),
+                "doi": ref_work.get("doi"),
                 "title": ref_work.get("title"),
                 "cited_by_count": ref_work.get("cited_by_count", 0),
                 "abstract": extract_abstract(ref_work.get("abstract_inverted_index")),
@@ -108,6 +111,11 @@ def fetch_top_citation_abstracts(identifier, top_n=5, delay_seconds=0.05):
         key=lambda x: x.get("cited_by_count") or 0,
         reverse=True
     )
+
+    if require_abstract:
+        with_abstract = [ref for ref in reference_payloads if ref.get("abstract")]
+        # Returns top_n abstracts when available, otherwise the max possible.
+        return with_abstract[:top_n]
 
     return reference_payloads[:top_n]
 
