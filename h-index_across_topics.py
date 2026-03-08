@@ -113,13 +113,11 @@ def get_abstracts_from_author_id(author_id):
     abstracts = []
     abstracts_with_text = 0
     for work in works:
-        title = work.get('title')
         abstract_index = work.get('abstract_inverted_index')
         abstract = invert_abstract_index(abstract_index) if abstract_index else None
         if abstract:
             abstracts_with_text += 1
         abstracts.append({
-            'title': title,
             'abstract': abstract
         })
 
@@ -160,7 +158,6 @@ def calculate_similarity_matrix(abstracts_list):
             vec = Compare_abstracts.get_vector(item['abstract'], embedding_cache)
             vectors.append(vec)
         except Exception:
-            print("issue")
             continue
 
     # Save updated cache
@@ -181,15 +178,18 @@ def calculate_similarity_matrix(abstracts_list):
 
 def plot_similarities_vs_h_index(author_ids):
     """
-    Plot similarities of works versus h-index for multiple authors.
+    Plot similarities of works versus h-index for multiple authors, including individual and average plots.
 
     Args:
         author_ids (list[str]): List of OpenAlex author identifiers
     """
     import matplotlib.pyplot as plt
+    import numpy as np
 
     all_h = []
     all_sims = []
+    avg_h = []
+    avg_sims = []
 
     for author_id in author_ids:
         h_index = get_h_index_from_author_id(author_id)
@@ -208,27 +208,47 @@ def plot_similarities_vs_h_index(author_ids):
             continue
 
         # extract upper triangle similarities
+        similarities = []
         n = len(sim_df)
         for i in range(n):
             for j in range(i+1, n):
+                sim_val = sim_df.iloc[i, j]
+                similarities.append(sim_val)
                 all_h.append(h_index)
-                all_sims.append(sim_df.iloc[i, j])
+                all_sims.append(sim_val)
+
+        if similarities:
+            avg_sim = np.mean(similarities)
+            avg_h.append(h_index)
+            avg_sims.append(avg_sim)
 
     if not all_sims:
         print("No similarity data available to plot")
         return
 
-    plt.figure(figsize=(8, 6))
-    plt.scatter(all_h, all_sims, alpha=0.7)
-    plt.xlabel('H-Index')
-    plt.ylabel('Cosine Similarity')
-    plt.title('Work Similarities vs H-Index for multiple authors')
-    plt.grid(True, alpha=0.3)
+    # Create subplots
+    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(12, 5))
+
+    # Individual similarities
+    ax1.scatter(all_h, all_sims, alpha=0.7)
+    ax1.set_xlabel('H-Index')
+    ax1.set_ylabel('Cosine Similarity')
+    ax1.set_title('Individual Work Similarities vs H-Index')
+    ax1.grid(True, alpha=0.3)
+
+    # Average similarities
+    ax2.scatter(avg_h, avg_sims, color='red', alpha=0.7)
+    ax2.set_xlabel('H-Index')
+    ax2.set_ylabel('Average Cosine Similarity')
+    ax2.set_title('Average Similarity vs H-Index')
+    ax2.grid(True, alpha=0.3)
+
+    plt.tight_layout()
     plt.show()
     plt.savefig('results.png')
 
 # chosen because they are the authors of https://openalex.org/works/W1973728792
-List_of_authors_ids = ['a5018142180','a5114002649','a5062597899','a5089292437','a5036537125','a5071633297','a5037335973']
+List_of_authors_ids = ['a5048442336','a5101834127','a5101839428','a5039389811','a5103029167','a5070615546','a5111998194','a5090620545','a5040277346','a5070728216','a5102956975','a5040143352','a5090620545','a5063905190','a5031796630','a5018142180','a5114002649','a5062597899','a5089292437','a5036537125','a5071633297','a5037335973']
 plot_similarities_vs_h_index(List_of_authors_ids)
 
 
