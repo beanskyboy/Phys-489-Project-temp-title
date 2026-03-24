@@ -10,6 +10,9 @@ from enum import Enum
 import Compare_abstracts
 import API_Call_Code
 import ollama
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
 
 response = ollama.embed(
     model='embeddinggemma',
@@ -134,9 +137,7 @@ def calculate_similarity_matrix(abstracts_list):
     Returns:
         pd.DataFrame: Similarity matrix with titles as indices and columns
     """
-    import Compare_abstracts
-    import pandas as pd
-    import numpy as np
+    
 
     # Load embedding cache
     embedding_cache = Compare_abstracts.load_embedding_cache(cache_path="\\embedding_cache.json")
@@ -183,8 +184,6 @@ def plot_similarities_vs_h_index(author_ids):
     Args:
         author_ids (list[str]): List of OpenAlex author identifiers
     """
-    import matplotlib.pyplot as plt
-    import numpy as np
 
     all_h = []
     all_sims = []
