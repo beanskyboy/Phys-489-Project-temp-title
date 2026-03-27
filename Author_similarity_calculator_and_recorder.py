@@ -595,7 +595,7 @@ def plot_similarities_vs_h_index(author_ids, h_index_cache=None,
 # --- Entry point ---
 
 # Fetch all McGill authors (reads from mcgill_authors.csv if it exists).
-mcgill_records = get_physics_astronomy_subset()
+mcgill_records = _load_csv_records("physics_subset.csv")
 
 if mcgill_records:
     LIST_OF_AUTHOR_IDS = [r["author_id"] for r in mcgill_records]
