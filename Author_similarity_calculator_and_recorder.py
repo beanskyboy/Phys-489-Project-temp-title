@@ -13,12 +13,23 @@ import pandas as pd
 import csv
 
 # --- Constants ---
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
 PARAMS = {
-    "api_key": "tTekBojph8alEiFnymyAwn",
-    "mailto": "benjamin.collins3@mail.mcgill.ca"
+    # "api_key": "tTekBojph8alEiFnymyAwn",
+    # "mailto": "benjamin.collins3@mail.mcgill.ca"
+    "api_key": "NBSiCAJ7YnSROz92irdWHr",
+    "mailto": "motasim.mauthoor@mail.mcgill.ca"
 }
 SESSION = requests.Session()  # Reuse TCP connections across all requests
 SESSION.params.update(PARAMS)
+
+
+def _resolve_local_path(path):
+    """Resolve project-local files relative to this script."""
+    if os.path.isabs(path):
+        return path
+    return os.path.join(BASE_DIR, path)
 
 
 # --- API Helpers ---
@@ -248,7 +259,7 @@ def get_mcgill_authors(output_csv="mcgill_authors.csv", max_workers=8, refresh=F
     return records
 
 def get_physics_astronomy_subset(
-    input_csv="mcgill_authors.csv",
+    input_csv="Phys-489-Project-temp-title\mcgill_authors.csv",
     output_csv="physics_subset.csv"
 ):
     """
@@ -448,6 +459,7 @@ def _process_author(author_id, cached_h_index=None, author_name=None):
 
 def _write_mcgill_csv(records, output_csv):
     """Rewrite the full mcgill_authors CSV, including any similarity columns."""
+    output_csv = _resolve_local_path(output_csv)
     fieldnames = [
         "author_id", "name", "fields_of_study",
         "publication_count", "h_index", "citation_count",
@@ -482,6 +494,7 @@ def plot_similarities_vs_h_index(author_ids, h_index_cache=None,
     """
     h_index_cache = h_index_cache or {}
     name_cache    = name_cache    or {}
+    output_csv = _resolve_local_path(output_csv)
 
     # Build a fast lookup from mcgill_records so we can write stats back
     # and skip authors that already have similarity data
