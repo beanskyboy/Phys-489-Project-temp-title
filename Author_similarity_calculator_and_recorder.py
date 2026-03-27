@@ -14,8 +14,8 @@ import csv
 
 # --- Constants ---
 PARAMS = {
-    "api_key": "tTekBojph8alEiFnymyAwn",
-    "mailto": "benjamin.collins3@mail.mcgill.ca"
+    "api_key": "NBSiCAJ7YnSROz92irdWHr",
+    "mailto": "motasim.mauthoor@mail.mcgill.ca"
 }
 SESSION = requests.Session()  # Reuse TCP connections across all requests
 SESSION.params.update(PARAMS)
