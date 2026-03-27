@@ -327,7 +327,7 @@ def calculate_similarity_matrix(abstracts_list, embedding_cache,
 
     save_files = author_name and author_id
     npz_path   = _similarity_npz_path(author_name, author_id) if save_files else None
-    csv_path   = _similarity_csv_path(author_name, author_id) if save_files else None
+    #csv_path   = _similarity_csv_path(author_name, author_id) if save_files else None
 
     # ── Cache hit: reconstruct DataFrame from .npz without re-embedding ───────
     if save_files and os.path.exists(npz_path):
@@ -364,11 +364,11 @@ def calculate_similarity_matrix(abstracts_list, embedding_cache,
         np.savez_compressed(npz_path, rows=rows, cols=cols, vals=vals, n=np.int32(n))
 
         # ── Write human-readable CSV (written once alongside the .npz) ───────
-        with open(csv_path, "w", newline="", encoding="utf-8") as f:
-            writer = csv.writer(f)
-            writer.writerow(["abstract_i", "abstract_j", "cosine_similarity"])
-            for r, c, v in zip(rows.tolist(), cols.tolist(), vals.tolist()):
-                writer.writerow([r, c, round(float(v), 6)])
+        #with open(csv_path, "w", newline="", encoding="utf-8") as f:
+        #    writer = csv.writer(f)
+        #    writer.writerow(["abstract_i", "abstract_j", "cosine_similarity"])
+        #    for r, c, v in zip(rows.tolist(), cols.tolist(), vals.tolist()):
+        #        writer.writerow([r, c, round(float(v), 6)])
 
     sim_f64 = sim_f32.astype(np.float64)
     return pd.DataFrame(sim_f64)
