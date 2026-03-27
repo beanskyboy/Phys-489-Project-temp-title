@@ -90,6 +90,15 @@ def run_research_pipeline(paper_id, top_n=5, embedding_cache=None):
             "error": "No referenced abstracts available for similarity analysis."
         }
 
+    if len(references) < top_n:
+        return {
+            "paper_id": paper_id,
+            "error": (
+                f"Only found {len(references)} referenced papers with abstracts; "
+                f"{top_n} are required for similarity analysis."
+            )
+        }
+
     # Step 4: Embed and compute cosine similarities
     main_vec = get_vector(main_abstract, embedding_cache)
     
@@ -120,9 +129,16 @@ def run_research_pipeline(paper_id, top_n=5, embedding_cache=None):
 
 def main():
     embedding_cache = load_embedding_cache()
-    file_path = r"C:\Users\mauth\OneDrive\Desktop\School\Winter 2026\PHYS 489\Acoustics and ultrasonics sample.csv"
-    df = pd.read_csv(file_path,encoding='latin1')
-    ids = df['id'].dropna().tolist()[:5]
+    file_path = r"C:\Users\mauth\OneDrive\Desktop\School\Winter 2026\PHYS 489\Data\Astronomy and Astrophysics sample.csv"
+    df = pd.read_csv(file_path, encoding="latin1")
+    df.columns = df.columns.str.strip().str.replace("\ufeff", "", regex=False)
+
+    if "id" not in df.columns:
+        raise KeyError(
+            f"Expected an 'id' column in {file_path}, but found: {list(df.columns)}"
+        )
+
+    ids = df["id"].dropna().tolist()[:20]
     all_results = []
     for paper_id in ids:
         result = run_research_pipeline(paper_id, top_n=5, embedding_cache=embedding_cache)
@@ -149,7 +165,7 @@ def main():
         )
 
     output_df = pd.DataFrame(all_results)
-    output_df.to_csv("all_paper_similarities.csv", index=False)
+    output_df.to_csv("Astronomy_and_Astrophysics_similarities(1).csv", index=False)
     save_embedding_cache(embedding_cache)
   
 
