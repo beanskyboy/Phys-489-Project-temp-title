@@ -14,8 +14,8 @@ import csv
 
 # --- Constants ---
 PARAMS = {
-    "api_key": "NBSiCAJ7YnSROz92irdWHr",
-    "mailto": "motasim.mauthoor@mail.mcgill.ca"
+    "api_key": "tTekBojph8alEiFnymyAwn",
+    "mailto": "benjamin.collins3@mail.mcgill.ca"
 }
 SESSION = requests.Session()  # Reuse TCP connections across all requests
 SESSION.params.update(PARAMS)
@@ -247,6 +247,62 @@ def get_mcgill_authors(output_csv="mcgill_authors.csv", max_workers=8, refresh=F
     print(f"Saved {len(records):,} author records to '{output_csv}'")
     return records
 
+def get_physics_astronomy_subset(
+    input_csv="mcgill_authors.csv",
+    output_csv="physics_subset.csv"
+):
+    """
+    Return a subset of McGill authors whose fields_of_study contains
+    'Physics and Astronomy'.
+
+    If output_csv exists, it is loaded and returned.
+    Otherwise, it is generated from input_csv and saved.
+
+    Args:
+        input_csv (str):   Source CSV (mcgill_authors.csv).
+        output_csv (str):  Cached subset CSV.
+
+    Returns:
+        list[dict]: Filtered author records.
+    """
+    # ── Case 1: subset already exists ───────────────────────────────────────
+    if os.path.exists(output_csv):
+        print(f"Loading cached physics subset from '{output_csv}'")
+        return _load_csv_records(output_csv)
+
+    # ── Case 2: build subset from full dataset ──────────────────────────────
+    if not os.path.exists(input_csv):
+        raise FileNotFoundError(
+            f"'{input_csv}' not found. Run get_mcgill_authors() first."
+        )
+
+    print(f"Generating physics subset from '{input_csv}' ...")
+
+    all_records = _load_csv_records(input_csv)
+
+    subset = [
+        r for r in all_records
+        if "Physics and Astronomy" in (r.get("fields_of_study") or "")
+    ]
+
+    print(f"Found {len(subset):,} Physics & Astronomy authors")
+
+    # ── Write subset CSV ────────────────────────────────────────────────────
+    if subset:
+        fieldnames = [
+            "author_id", "name", "fields_of_study",
+            "publication_count", "h_index", "citation_count",
+            "avg_self_similarity", "std_self_similarity",
+        ]
+
+        with open(output_csv, "w", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=fieldnames)
+            writer.writeheader()
+            writer.writerows(subset)
+
+        print(f"Saved subset to '{output_csv}'")
+
+    return subset
 
 # --- Embedding & Similarity ---
 
@@ -526,8 +582,7 @@ def plot_similarities_vs_h_index(author_ids, h_index_cache=None,
 # --- Entry point ---
 
 # Fetch all McGill authors (reads from mcgill_authors.csv if it exists).
-mcgill_records = get_mcgill_authors(output_csv="mcgill_authors_stats.csv")
-
+mcgill_records = get_physics_astronomy_subset()
 
 if mcgill_records:
     LIST_OF_AUTHOR_IDS = [r["author_id"] for r in mcgill_records]
