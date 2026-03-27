@@ -20,3 +20,18 @@ Steps:
 
 
 ~ Compare the Abstract vector embeddings of all of a given author's works with their H-index
+
+
+Plots to do:
+
+
+1  similarity between an author's works vs the difference in publication date
+
+
+2  author self similarity of works vs h-index (violin plot)
+
+
+3  self similarity vs age group
+
+
+4  compare/calculate std deviation and average of self similarity of each author
