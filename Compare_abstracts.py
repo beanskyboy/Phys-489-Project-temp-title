@@ -56,6 +56,116 @@ def cosine_similarity(vec_a, vec_b):
         return 0.0
     return float(np.dot(vec_a, vec_b) / denom)
 
+
+def normalize_columns(df):
+    df = df.copy()
+    df.columns = df.columns.str.strip().str.replace("\ufeff", "", regex=False)
+    return df
+
+
+def _extract_embeddings(response):
+    if isinstance(response, dict):
+        return response["embeddings"]
+    return response.embeddings
+
+
+def get_vectors_for_texts(texts, embedding_cache):
+    vectors = []
+    missing_texts = []
+    missing_keys = []
+
+    for text in texts:
+        key = _embedding_cache_key(text)
+        if key in embedding_cache:
+            vectors.append(np.array(embedding_cache[key], dtype=float))
+        else:
+            vectors.append(None)
+            missing_texts.append(text)
+            missing_keys.append(key)
+
+    if missing_texts:
+        response = ollama.embed(model=EMBED_MODEL, input=missing_texts)
+        embeddings = _extract_embeddings(response)
+        for key, embedding in zip(missing_keys, embeddings):
+            embedding_cache[key] = embedding
+
+        missing_iter = iter(
+            np.array(embedding_cache[key], dtype=float) for key in missing_keys
+        )
+        vectors = [next(missing_iter) if vec is None else vec for vec in vectors]
+
+    return vectors
+
+
+def run_similarity_pipeline(
+    file_path,
+    top_k=5,
+    output_path="dataset_top_k_similarities.csv",
+    embedding_cache=None,
+):
+    if embedding_cache is None:
+        embedding_cache = {}
+
+    df = pd.read_csv(file_path, encoding="latin1")
+    df = normalize_columns(df)
+
+    required_columns = {"id", "title", "abstract"}
+    missing_columns = required_columns - set(df.columns)
+    if missing_columns:
+        raise KeyError(
+            f"Missing required columns in {file_path}: {sorted(missing_columns)}"
+        )
+
+    working_df = df.dropna(subset=["id", "title", "abstract"]).copy()
+    working_df["abstract"] = working_df["abstract"].astype(str).str.strip()
+    working_df = working_df[working_df["abstract"] != ""].reset_index(drop=True)
+
+    if len(working_df) < 2:
+        raise ValueError("Need at least 2 papers with non-empty abstracts.")
+
+    top_k = max(1, min(top_k, len(working_df) - 1))
+
+    texts = working_df["abstract"].tolist()
+    vectors = get_vectors_for_texts(texts, embedding_cache)
+    matrix = np.vstack(vectors)
+
+    norms = np.linalg.norm(matrix, axis=1, keepdims=True)
+    norms[norms == 0] = 1e-12
+    normalized = matrix / norms
+    similarity_matrix = normalized @ normalized.T
+    np.fill_diagonal(similarity_matrix, -np.inf)
+
+    all_results = []
+    doi_present = "doi" in working_df.columns
+
+    for idx, row in working_df.iterrows():
+        neighbor_indices = np.argsort(similarity_matrix[idx])[::-1][:top_k]
+        neighbors = working_df.iloc[neighbor_indices]
+        scores = similarity_matrix[idx, neighbor_indices]
+
+        all_results.append({
+            "paper_id": row["id"],
+            "paper_doi": row["doi"] if doi_present else None,
+            "paper_title": row["title"],
+            "paper_abstract": row["abstract"],
+            "top_k": top_k,
+            "neighbor_ids": json.dumps(neighbors["id"].tolist()),
+            "neighbor_dois": json.dumps(
+                neighbors["doi"].tolist() if doi_present else [None] * len(neighbors)
+            ),
+            "neighbor_titles": json.dumps(neighbors["title"].tolist()),
+            "neighbor_abstracts": json.dumps(neighbors["abstract"].tolist()),
+            "neighbor_similarity_scores": json.dumps(
+                [float(score) for score in scores]
+            ),
+            "average_neighbor_similarity": float(np.mean(scores)),
+        })
+
+    output_df = pd.DataFrame(all_results)
+    output_df.to_csv(output_path, index=False)
+    save_embedding_cache(embedding_cache)
+    return output_df
+
 # 3. Main Logic
 def run_research_pipeline(paper_id, top_n=5, embedding_cache=None):
     if embedding_cache is None:
@@ -131,43 +241,52 @@ def run_research_pipeline(paper_id, top_n=5, embedding_cache=None):
 def main():
     embedding_cache = load_embedding_cache()
     file_path = r"C:\Users\mauth\OneDrive\Desktop\School\Winter 2026\PHYS 489\Data\Astronomy and Astrophysics sample.csv"
-    df = pd.read_csv(file_path, encoding="latin1")
-    df.columns = df.columns.str.strip().str.replace("\ufeff", "", regex=False)
+    # df = pd.read_csv(file_path, encoding="latin1")
+    # df.columns = df.columns.str.strip().str.replace("\ufeff", "", regex=False)
 
-    if "id" not in df.columns:
-        raise KeyError(
-            f"Expected an 'id' column in {file_path}, but found: {list(df.columns)}"
-        )
+    # if "id" not in df.columns:
+    #     raise KeyError(
+    #         f"Expected an 'id' column in {file_path}, but found: {list(df.columns)}"
+    #     )
 
-    ids = df["id"].dropna().tolist()[:20]
-    all_results = []
-    for paper_id in ids:
-        result = run_research_pipeline(paper_id, top_n=5, embedding_cache=embedding_cache)
-        if "error" in result:
-            print(f"{paper_id}: {result['error']}")
-            continue
+    # ids = df["id"].dropna().tolist()[:20]
+    # all_results = []
+    # for paper_id in ids:
+    #     result = run_research_pipeline(paper_id, top_n=5, embedding_cache=embedding_cache)
+    #     if "error" in result:
+    #         print(f"{paper_id}: {result['error']}")
+    #         continue
 
-        refs = result["reference_similarities"]
-        all_results.append({
-            "paper_id": result["paper_id"],
-            "paper_doi": result.get("paper_doi"),
-            "paper_title": result.get("paper_title"),
-            "paper_abstract": result.get("paper_abstract"),
-            "num_references_compared": len(refs),
-            "reference_ids": json.dumps([r.get("reference_id") for r in refs]),
-            "reference_titles": json.dumps([r.get("reference_title") for r in refs]),
-            "reference_similarity_scores": json.dumps([r.get("cosine_similarity") for r in refs]),
-            "average_similarity_score": result["average_similarity"]
-        })
+    #     refs = result["reference_similarities"]
+    #     all_results.append({
+    #         "paper_id": result["paper_id"],
+    #         "paper_doi": result.get("paper_doi"),
+    #         "paper_title": result.get("paper_title"),
+    #         "paper_abstract": result.get("paper_abstract"),
+    #         "num_references_compared": len(refs),
+    #         "reference_ids": json.dumps([r.get("reference_id") for r in refs]),
+    #         "reference_titles": json.dumps([r.get("reference_title") for r in refs]),
+    #         "reference_similarity_scores": json.dumps([r.get("cosine_similarity") for r in refs]),
+    #         "average_similarity_score": result["average_similarity"]
+    #     })
 
-        print(
-            f"{paper_id} | avg similarity: {result['average_similarity']:.4f} "
-            f"across {result['num_references_compared']} references"
-        )
+    #     print(
+    #         f"{paper_id} | avg similarity: {result['average_similarity']:.4f} "
+    #         f"across {result['num_references_compared']} references"
+    #     )
 
-    output_df = pd.DataFrame(all_results)
-    output_df.to_csv("Astronomy_and_Astrophysics_similarities(1).csv", index=False)
-    save_embedding_cache(embedding_cache)
+    # output_df = pd.DataFrame(all_results)
+    # output_df.to_csv("Astronomy_and_Astrophysics_similarities(1).csv", index=False)
+    # save_embedding_cache(embedding_cache)
+
+   
+    output_df = run_similarity_pipeline(
+        file_path=file_path,
+        top_k=5,
+        output_path="Astronomy_and_Astrophysics_top-k-neighbors.csv",
+        embedding_cache=embedding_cache,
+    )
+    print(f"Saved {len(output_df)} paper similarity rows.")
   
 
   
