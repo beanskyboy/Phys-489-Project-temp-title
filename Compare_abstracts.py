@@ -6,7 +6,7 @@ import os
 import hashlib
 
 from API_Call_Code import fetch_work, fetch_top_citation_abstracts, extract_abstract
-
+from sentence_transformers import SentenceTransformer
 
 
 EMBED_MODEL = "embeddinggemma"
@@ -88,10 +88,21 @@ def get_vectors_for_texts(texts, embedding_cache):
             missing_keys.append(key)
 
     if missing_texts:
-        response = ollama.embed(model=EMBED_MODEL, input=missing_texts)
-        embeddings = _extract_embeddings(response)
+
+        # Sentence-Transformers
+        model = SentenceTransformer("all-mpnet-base-v2")
+        embeddings = model.encode(missing_texts, convert_to_numpy=True)
+
+        #  Ollama 
+        # response = ollama.embed(model=EMBED_MODEL, input=missing_texts)
+        # embeddings = _extract_embeddings(response)
+
+       
+
         for key, embedding in zip(missing_keys, embeddings):
-            embedding_cache[key] = embedding
+            embedding_cache[key] = (
+                embedding.tolist() if isinstance(embedding, np.ndarray) else embedding
+            )
 
         missing_iter = iter(
             np.array(embedding_cache[key], dtype=float) for key in missing_keys
@@ -99,8 +110,6 @@ def get_vectors_for_texts(texts, embedding_cache):
         vectors = [next(missing_iter) if vec is None else vec for vec in vectors]
 
     return vectors
-
-
 
 
 
@@ -328,7 +337,7 @@ def run_research_pipeline(paper_id, top_n=5, embedding_cache=None):
 
 def main():
     embedding_cache = load_embedding_cache()
-    # file_path = r"C:\Users\mauth\OneDrive\Desktop\School\Winter 2026\PHYS 489\Data\Astronomy and Astrophysics sample.csv"
+    file_path = r"C:\Users\mauth\OneDrive\Desktop\School\Winter 2026\PHYS 489\Data\Astronomy and Astrophysics sample.csv"
     # df = pd.read_csv(file_path, encoding="latin1")
     # df.columns = df.columns.str.strip().str.replace("\ufeff", "", regex=False)
 
@@ -367,20 +376,21 @@ def main():
     # output_df.to_csv("Astronomy_and_Astrophysics_similarities(1).csv", index=False)
     # save_embedding_cache(embedding_cache)
 
-    # output_df = run_similarity_pipeline(
-    #     file_path=file_path,
-    #     top_k=5,
-    #     output_path="Astronomy_and_Astrophysics_top-k-neighbors.csv",
-    #     embedding_cache=embedding_cache,
-    # )
-    # print(f"Saved {len(output_df)} paper similarity rows.")
-  
-    output_df = run_similarity_test_csv(
-        file_path=r"C:\Users\mauth\PHYS 489\Phys-489-Project-temp-title\Similarity tests.csv",
-        output_path=r"C:\Users\mauth\PHYS 489\Phys-489-Project-temp-title\Similarity tests results_sentence-transformer_all-mpnet-base-v2.csv",
+#K nearest neighbors similarity pipeline for all papers in a dataset
+    output_df = run_similarity_pipeline(
+        file_path=file_path,
+        top_k=5,
+        output_path="Astronomy_and_Astrophysics_top-k-neighbors(sentence-transformers).csv",
         embedding_cache=embedding_cache,
     )
-    print(f"Updated {len(output_df)} similarity test rows in {r'C:\Users\mauth\PHYS 489\Phys-489-Project-temp-title\Similarity tests.csv'}.")
+    print(f"Saved {len(output_df)} paper similarity rows.")
+  
+    # output_df = run_similarity_test_csv(
+    #     file_path=r"C:\Users\mauth\PHYS 489\Phys-489-Project-temp-title\Similarity tests.csv",
+    #     output_path=r"C:\Users\mauth\PHYS 489\Phys-489-Project-temp-title\Similarity tests results_sentence-transformer_all-mpnet-base-v2.csv",
+    #     embedding_cache=embedding_cache,
+    # )
+    # print(f"Updated {len(output_df)} similarity test rows in {r'C:\Users\mauth\PHYS 489\Phys-489-Project-temp-title\Similarity tests.csv'}.")
   
   
  
