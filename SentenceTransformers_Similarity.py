@@ -94,18 +94,44 @@ AUTHORS_PAGE_SIZE = 200
 #   N distinct field names. Increase for more detail; decrease for a tidier CSV.
 MAX_FIELDS_OF_STUDY = 4
 
+ 
+# REQUIRED_FIELDS: set of field-of-study names an author must have at least one
+#   match against to be included in the analysis. Matching is case-insensitive
+#   and substring-based (e.g. "physics" matches "Condensed Matter Physics").
+#   Set to an empty set to disable filtering and include all fields:
+#       REQUIRED_FIELDS = set()
+REQUIRED_FIELDS = {
+    "Physics",
+    #"Astronomy",
+    #"Chemistry",
+    #"Mathematics",
+    #"Computer Science",
+    #"Engineering",
+    #"Earth and Planetary Sciences",
+    #"Materials Science",
+    #"Biology",
+}
+ 
+# PROCESSED_AUTHORS_LOG: path to a JSON file that records the IDs of every
+#   author that has been fully considered by the similarity pipeline (regardless
+#   of whether they had enough abstracts to produce a score). On subsequent
+#   runs, authors present in this log are skipped entirely — no API calls, no
+#   embedding work. Delete this file to reprocess all authors from scratch.
+PROCESSED_AUTHORS_LOG = "processed_authors.json"
+ 
 # =============================================================================
 # END OF CONFIGURATION -- do not edit below unless changing functionality
 # =============================================================================
-
+ 
 # Derived constants (built from config; not intended for direct editing)
 _OPENALEX_PARAMS = {"api_key": OPENALEX_API_KEY, "mailto": OPENALEX_MAILTO}
-
+ 
 SESSION = requests.Session()
 SESSION.params.update(_OPENALEX_PARAMS)
-
+ 
 _EMBED_MODEL = SentenceTransformer(SENTENCE_TRANSFORMER_MODEL)
-
+ 
+ 
 # -----------------------------------------------------------------------------
 # Embedding cache I/O -- owned here, not delegated to the old module, because:
 #   a) that module hashes keys with SHA-256; we store raw text as the key.
@@ -129,6 +155,30 @@ def _save_embedding_cache(cache):
     """Persist the embedding cache to EMBEDDING_CACHE_PATH."""
     with open(EMBEDDING_CACHE_PATH, "w", encoding="utf-8") as f:
         json.dump(cache, f)
+ 
+# -----------------------------------------------------------------------------
+# Processed-authors log I/O
+# A lightweight JSON set of author IDs that have been fully considered by the
+# similarity pipeline. Used by get_mcgill_authors to skip already-processed
+# authors on subsequent runs without re-fetching their works.
+# -----------------------------------------------------------------------------
+ 
+def _load_processed_authors():
+    """Return the set of already-processed author IDs, or an empty set."""
+    if not os.path.exists(PROCESSED_AUTHORS_LOG):
+        return set()
+    try:
+        with open(PROCESSED_AUTHORS_LOG, "r", encoding="utf-8") as f:
+            return set(json.load(f))
+    except (json.JSONDecodeError, OSError):
+        return set()
+ 
+ 
+def _save_processed_authors(author_ids):
+    """Persist the set of processed author IDs to PROCESSED_AUTHORS_LOG."""
+    with open(PROCESSED_AUTHORS_LOG, "w", encoding="utf-8") as f:
+        json.dump(sorted(author_ids), f)
+ 
  
 # Single source of truth for all column names in AUTHORS_CSV.
 # Every function that reads or writes that file uses this list, so adding a
@@ -220,6 +270,25 @@ def get_author_data(author_id, cached_h_index=None):
 # INSTITUTION AUTHOR DISCOVERY
 # =============================================================================
  
+def _author_matches_field_filter(author):
+    """
+    Return True if the author has at least one topic whose field (or subfield)
+    name contains any entry in REQUIRED_FIELDS (case-insensitive substring).
+    Always returns True when REQUIRED_FIELDS is empty.
+    """
+    if not REQUIRED_FIELDS:
+        return True
+    required_lower = {f.lower() for f in REQUIRED_FIELDS}
+    for topic_entry in author.get("topics", []):
+        field_name = (
+            topic_entry.get("field", {}).get("display_name", "")
+            or topic_entry.get("subfield", {}).get("display_name", "")
+        ).lower()
+        if any(req in field_name for req in required_lower):
+            return True
+    return False
+ 
+ 
 def _fetch_institution_author_page(cursor):
     """
     Fetch one cursor page of authors affiliated with INSTITUTION_ID.
@@ -307,41 +376,70 @@ def _write_authors_csv(records, csv_path):
  
 def get_mcgill_authors(refresh=False):
     """
-    Return author records for the configured INSTITUTION_ID, using AUTHORS_CSV
-    as a persistent cache.
+    Return author records for the configured INSTITUTION_ID, filtered by
+    REQUIRED_FIELDS, using AUTHORS_CSV as a persistent cache.
  
-    On the first run (or when refresh=True) the full OpenAlex cursor crawl is
-    executed and the CSV is written.  On subsequent runs the CSV is read
-    directly -- zero API calls are made for the author list.
+    Filtering: authors whose topics do not match any entry in REQUIRED_FIELDS
+    are discarded at crawl time (client-side, since OpenAlex does not support
+    field filtering on the /authors endpoint).
+ 
+    Skipping: authors whose IDs are already in PROCESSED_AUTHORS_LOG are
+    excluded from the returned list on subsequent runs, so the similarity
+    pipeline never re-processes them.  The full unfiltered CSV is still
+    returned so the caller can build the h-index / name caches correctly.
  
     Args:
-        refresh (bool): Force a fresh crawl even if AUTHORS_CSV already exists.
+        refresh (bool): Force a fresh API crawl even if AUTHORS_CSV exists.
+                        Does NOT clear PROCESSED_AUTHORS_LOG — delete that
+                        file manually to reprocess previously seen authors.
  
     Returns:
-        list[dict]: One dict per author containing all _AUTHORS_CSV_FIELDS keys.
+        list[dict]: One dict per author containing all _AUTHORS_CSV_FIELDS keys,
+                    filtered to REQUIRED_FIELDS and excluding already-processed
+                    authors (for pipeline use).
     """
+    processed = _load_processed_authors()
+ 
     if not refresh and os.path.exists(AUTHORS_CSV):
         records = _load_csv_records(AUTHORS_CSV)
+        already_done  = sum(1 for r in records if r["author_id"] in processed)
         print(
             f"Loaded {len(records):,} authors from cache '{AUTHORS_CSV}' "
-            f"(pass refresh=True to re-fetch)"
+            f"({already_done:,} already processed, "
+            f"pass refresh=True to re-fetch)"
         )
         return records
  
     print(f"Fetching author list for institution {INSTITUTION_ID} from OpenAlex ...")
  
-    all_raw = []
-    cursor  = "*"
+    all_raw      = []
+    cursor       = "*"
+    total_seen   = 0
+    field_skipped = 0
+ 
     while cursor:
         results, cursor = _fetch_institution_author_page(cursor)
         if not results:
             break
-        all_raw.extend(results)
-        print(f"  ... {len(all_raw):,} authors retrieved", end="\r")
-    print(f"\nTotal authors fetched: {len(all_raw):,}")
+        total_seen += len(results)
+        # Apply field-of-study filter client-side as pages arrive
+        matching = [a for a in results if _author_matches_field_filter(a)]
+        field_skipped += len(results) - len(matching)
+        all_raw.extend(matching)
+        print(
+            f"  ... {total_seen:,} authors scanned, "
+            f"{len(all_raw):,} match field filter",
+            end="\r",
+        )
+ 
+    print(
+        f"\nScanned {total_seen:,} authors total; "
+        f"{len(all_raw):,} match field filter "
+        f"({field_skipped:,} discarded)."
+    )
  
     if not all_raw:
-        print("No authors found -- check INSTITUTION_ID or network access.")
+        print("No authors found -- check INSTITUTION_ID, REQUIRED_FIELDS, or network.")
         return []
  
     records = []
@@ -508,14 +606,18 @@ def plot_similarities_vs_h_index(author_ids, h_index_cache=None,
     name_cache    = name_cache    or {}
     record_by_id  = {r["author_id"]: r for r in (mcgill_records or [])}
  
-    # Skip authors whose similarity stats are already recorded in the CSV
+    # Skip authors that are either already in the processed-authors log OR
+    # already have similarity stats in the CSV (handles both normal resumption
+    # and the case where the log was deleted but the CSV was not).
+    processed = _load_processed_authors()
     ids_to_process = [
         aid for aid in author_ids
-        if record_by_id.get(aid, {}).get("avg_self_similarity") in (None, "")
+        if aid not in processed
+        and record_by_id.get(aid, {}).get("avg_self_similarity") in (None, "")
     ]
     skipped = len(author_ids) - len(ids_to_process)
     if skipped:
-        print(f"Skipping {skipped:,} authors already processed in CSV")
+        print(f"Skipping {skipped:,} authors (already in log or CSV)")
  
     embedding_cache = _load_embedding_cache()
  
@@ -549,6 +651,12 @@ def plot_similarities_vs_h_index(author_ids, h_index_cache=None,
         # Record abstract_count regardless of whether the matrix can be built
         if author_id in record_by_id:
             record_by_id[author_id]["abstract_count"] = abstract_count
+ 
+        # Mark the author as processed now — even if they lack enough abstracts.
+        # Saving after each author means a crash mid-run won't cause reprocessing
+        # of already-completed authors when the script is restarted.
+        processed.add(author_id)
+        _save_processed_authors(processed)
  
         sim_df = calculate_similarity_matrix(
             [{"abstract": t} for t in unique_abstracts],
