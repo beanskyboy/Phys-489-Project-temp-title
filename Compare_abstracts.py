@@ -5,13 +5,17 @@ import json
 import os
 import hashlib
 
-# from sentence_transformers import SentenceTransformer, util
 from API_Call_Code import fetch_work, fetch_top_citation_abstracts, extract_abstract
 
 
 
 EMBED_MODEL = "embeddinggemma"
 EMBED_CACHE_PATH = "embedding_cache.json"
+SENTENCE_TRANSFORMER_MODEL = "all-mpnet-base-v2"
+
+# Pick the backend for run_similarity_test_csv by changing this line.
+# TEST_SIMILARITY_BACKEND = "ollama"
+TEST_SIMILARITY_BACKEND = "sentence_transformers"
 
 # 1. API Tool: Check if a paper is retracted (Example using a mock API)
 # def check_retraction(paper_id):
@@ -97,6 +101,9 @@ def get_vectors_for_texts(texts, embedding_cache):
     return vectors
 
 
+
+
+
 def run_similarity_pipeline(
     file_path,
     top_k=5,
@@ -165,6 +172,87 @@ def run_similarity_pipeline(
     output_df.to_csv(output_path, index=False)
     save_embedding_cache(embedding_cache)
     return output_df
+
+
+def run_similarity_test_csv(
+    file_path,
+    output_path=None,
+    embedding_cache=None,
+    backend=None,
+):
+    if embedding_cache is None:
+        embedding_cache = {}
+
+    df = pd.read_csv(file_path, encoding="latin1")
+    df = normalize_columns(df)
+
+    first_col = None
+    second_col = None
+    score_col = None
+
+    for candidate in ("first_sentence", "word1"):
+        if candidate in df.columns:
+            first_col = candidate
+            break
+
+    for candidate in ("second_sentence", "word2"):
+        if candidate in df.columns:
+            second_col = candidate
+            break
+
+    for candidate in ("similarity score", "similarity_score", "similarity"):
+        if candidate in df.columns:
+            score_col = candidate
+            break
+
+    if first_col is None or second_col is None:
+        raise KeyError(
+            "Expected sentence columns like "
+            "'first_sentence'/'second_sentence' or 'word1'/'word2'."
+        )
+
+    if score_col is None:
+        score_col = "similarity"
+        df[score_col] = np.nan
+
+    working_df = df.dropna(subset=[first_col, second_col]).copy()
+    working_df[first_col] = working_df[first_col].astype(str).str.strip()
+    working_df[second_col] = working_df[second_col].astype(str).str.strip()
+    working_df = working_df[
+        (working_df[first_col] != "") & (working_df[second_col] != "")
+    ].copy()
+
+    combined_texts = (
+        pd.concat([working_df[first_col], working_df[second_col]])
+        .drop_duplicates()
+        .tolist()
+    )
+    vectors = get_vectors_with_backend(
+        combined_texts,
+        embedding_cache=embedding_cache,
+        backend=backend,
+    )
+    text_to_vector = {
+        text: vector
+        for text, vector in zip(combined_texts, vectors)
+    }
+
+    scores = []
+    for _, row in working_df.iterrows():
+        vec_a = text_to_vector[row[first_col]]
+        vec_b = text_to_vector[row[second_col]]
+        scores.append(compute_similarity_score(vec_a, vec_b, backend=backend))
+
+    working_df[score_col] = scores
+    df.loc[working_df.index, score_col] = working_df[score_col]
+
+    if output_path is None:
+        output_path = file_path
+
+    df.to_csv(output_path, index=False)
+    if get_similarity_backend_name(backend) == "ollama":
+        save_embedding_cache(embedding_cache)
+    return df
 
 # 3. Main Logic
 def run_research_pipeline(paper_id, top_n=5, embedding_cache=None):
@@ -240,7 +328,7 @@ def run_research_pipeline(paper_id, top_n=5, embedding_cache=None):
 
 def main():
     embedding_cache = load_embedding_cache()
-    file_path = r"C:\Users\mauth\OneDrive\Desktop\School\Winter 2026\PHYS 489\Data\Astronomy and Astrophysics sample.csv"
+    # file_path = r"C:\Users\mauth\OneDrive\Desktop\School\Winter 2026\PHYS 489\Data\Astronomy and Astrophysics sample.csv"
     # df = pd.read_csv(file_path, encoding="latin1")
     # df.columns = df.columns.str.strip().str.replace("\ufeff", "", regex=False)
 
@@ -279,16 +367,21 @@ def main():
     # output_df.to_csv("Astronomy_and_Astrophysics_similarities(1).csv", index=False)
     # save_embedding_cache(embedding_cache)
 
-   
-    output_df = run_similarity_pipeline(
-        file_path=file_path,
-        top_k=5,
-        output_path="Astronomy_and_Astrophysics_top-k-neighbors.csv",
+    # output_df = run_similarity_pipeline(
+    #     file_path=file_path,
+    #     top_k=5,
+    #     output_path="Astronomy_and_Astrophysics_top-k-neighbors.csv",
+    #     embedding_cache=embedding_cache,
+    # )
+    # print(f"Saved {len(output_df)} paper similarity rows.")
+  
+    output_df = run_similarity_test_csv(
+        file_path=r"C:\Users\mauth\PHYS 489\Phys-489-Project-temp-title\Similarity tests.csv",
+        output_path=r"C:\Users\mauth\PHYS 489\Phys-489-Project-temp-title\Similarity tests results_sentence-transformer_all-mpnet-base-v2.csv",
         embedding_cache=embedding_cache,
     )
-    print(f"Saved {len(output_df)} paper similarity rows.")
+    print(f"Updated {len(output_df)} similarity test rows in {r'C:\Users\mauth\PHYS 489\Phys-489-Project-temp-title\Similarity tests.csv'}.")
   
-
   
  
 if __name__ == "__main__":

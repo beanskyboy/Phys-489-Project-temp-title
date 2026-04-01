@@ -2,7 +2,7 @@ author_id,name,fields_of_study,publication_count,h_index,citation_count,avg_self
 A5106511527,A. Warburton,Physics and Astronomy,2588,155,134221,0.558472,0.165148
 A5033176455,M. F. Watson,Physics and Astronomy,1510,127,85709,0.378204,0.192771
 A5114374383,M. S. Neubauer,Physics and Astronomy,1267,124,81762,0.413133,0.151852
-A5107858214,A. Robichaud-Véronneau,Physics and Astronomy,597,112,48218,0.724665,0.0
+A5107858214,A. Robichaud-Véronneau,Physics and Astronomy,597,112,48218,0.724665,0
 A5074282005,M. Dobbs,Physics and Astronomy,728,109,66535,0.46389,0.171635
 A5027865003,Y. Amaral Coutinho,Physics and Astronomy,928,102,40256,0.602254,0.114812
 A5038370602,D. Robinson,Physics and Astronomy,901,94,49011,0.284098,0.175928
@@ -22,7 +22,7 @@ A5110254517,Robert F. Hess,Neuroscience; Medicine; Physics and Astronomy,422,67,
 A5015974181,Charles Gale,Physics and Astronomy,486,65,17060,0.530381,0.130206
 A5108070380,E. Schmidt,Physics and Astronomy,164,63,11464,0.368171,0.112885
 A5007584535,B. Stelzer,Physics and Astronomy,710,63,16803,0.420166,0.197245
-A5107834009,D. MacQueen,Physics and Astronomy,227,63,18002,0.959365,0.0
+A5107834009,D. MacQueen,Physics and Astronomy,227,63,18002,0.959365,0
 A5002143962,Jonathan Sievers,Physics and Astronomy,252,61,13687,0.39242,0.190876
 A5059133010,Mike Strauss,"Biochemistry, Genetics and Molecular Biology; Medicine; Physics and Astronomy",236,60,13711,0.250691,0.117475
 A5014426396,James H. Clark,"Biochemistry, Genetics and Molecular Biology; Physics and Astronomy; Environmental Science",323,60,12981,0.25728,0.170635
@@ -81,7 +81,7 @@ A5047622900,Tao Liu,Physics and Astronomy; Engineering,631,40,7008,0.347729,0.15
 A5089121337,Michael Harris,Environmental Science; Engineering; Physics and Astronomy,183,40,4950,0.277454,0.159247
 A5056337685,Z. Altounian,Materials Science; Engineering; Physics and Astronomy,271,40,5873,0.47622,0.097346
 A5068822568,Prakash Panangaden,Computer Science; Physics and Astronomy,296,40,6917,0.409418,0.123249
-A5049946864,R. Hulsken,Physics and Astronomy,381,39,5480,0.161128,0.0
+A5049946864,R. Hulsken,Physics and Astronomy,381,39,5480,0.161128,0
 A5100337809,Qun Wang,Physics and Astronomy,384,39,6064,0.373595,0.162746
 A5015087614,Ronald Hesper,Physics and Astronomy; Engineering,164,39,19015,0.421117,0.181579
 A5111493602,R. Janicek,Physics and Astronomy,161,38,4891,0.647695,0.095297
@@ -91,7 +91,7 @@ A5056090906,R. J. Ward,Physics and Astronomy,350,38,5411,0.227408,0.172545
 A5062150520,Richard Léveillé,Physics and Astronomy; Engineering; Earth and Planetary Sciences,163,37,8910,0.399282,0.158658
 A5025476976,Z. Li,Physics and Astronomy,108,37,3403,0.368591,0.194665
 A5062386564,Emily Petroff,Physics and Astronomy,128,37,4908,0.566748,0.150675
-A5120644335,M. E. Nelson,Physics and Astronomy,162,36,4028,0.208862,0.0
+A5120644335,M. E. Nelson,Physics and Astronomy,162,36,4028,0.208862,0
 A5077723832,Songrui Zhao,Physics and Astronomy; Materials Science; Engineering,166,36,4887,0.571761,0.143566
 A5110211028,Frederick A. A. Kingdom,Neuroscience; Physics and Astronomy; Psychology,201,36,5542,0.484941,0.111337
 A5063048070,Simon Caron-Huot,Physics and Astronomy,105,36,3903,0.604198,0.084679
@@ -112,7 +112,7 @@ A5083588969,Shimin Hou,Engineering; Physics and Astronomy; Materials Science,198
 A5022196520,Bo Hu,Physics and Astronomy; Engineering; Materials Science,129,34,5935,0.297665,0.119782
 A5054196636,Curtis L. Baker,"Neuroscience; Physics and Astronomy; Biochemistry, Genetics and Molecular Biology",130,34,3844,0.525808,0.141951
 A5043944785,Byung Chan Eu,Physics and Astronomy; Engineering; Mathematics,310,34,4832,0.44423,0.116867
-A5109115036,I. Vollrath,Physics and Astronomy,72,33,3360,0.818186,0.0
+A5109115036,I. Vollrath,Physics and Astronomy,72,33,3360,0.818186,0
 A5059509454,Christopher C. Paige,Computer Science; Mathematics; Physics and Astronomy,83,33,11508,0.473407,0.115919
 A5101686848,Pengfei Guan,Mathematics; Physics and Astronomy,97,33,3529,0.345873,0.197441
 A5091032158,E. Macdonald,Physics and Astronomy; Earth and Planetary Sciences,57,33,5394,0.272121,0.170177
@@ -231,7 +231,7 @@ A5033448456,J. E. Crawford,Physics and Astronomy; Chemistry,51,18,985,0.377037,0
 A5112077522,F. Buchinger,Physics and Astronomy,37,18,1120,0.470707,0.122664
 A5074604653,James R. Clark,Computer Science; Earth and Planetary Sciences; Physics and Astronomy,63,18,932,0.212628,0.112333
 A5068846727,Adam G. Hendricks,"Biochemistry, Genetics and Molecular Biology; Physics and Astronomy",115,18,1917,0.379712,0.197954
-A5030466704,A. Khan,Physics and Astronomy; Earth and Planetary Sciences,24,18,2148,0.481942,0.0
+A5030466704,A. Khan,Physics and Astronomy; Earth and Planetary Sciences,24,18,2148,0.481942,0
 A5036448779,S.M. Collins,Health Professions; Physics and Astronomy; Environmental Science,115,18,1807,0.31785,0.152347
 A5118899220,Zhijun Liang,Physics and Astronomy; Computer Science,267,18,1585,0.273594,0.199681
 A5102898998,George Shenouda,Medicine; Physics and Astronomy,70,18,869,0.39132,0.1303
@@ -299,7 +299,7 @@ A5109515566,W. S. Ahmed,Physics and Astronomy,24,14,1097,0.542742,0.226897
 A5108958067,A. Curtis Hass,"Biochemistry, Genetics and Molecular Biology; Physics and Astronomy; Medicine",24,14,779,0.269674,0.111892
 A5108118394,V. Topor Pop,Physics and Astronomy; Engineering,61,14,487,0.52385,0.221877
 A5107937601,Xingguo Li,Physics and Astronomy; Computer Science,37,14,926,0.279499,0.155274
-A5110516731,Michael Stoebe,Physics and Astronomy; Computer Science,25,14,1446,0.579527,0.0
+A5110516731,Michael Stoebe,Physics and Astronomy; Computer Science,25,14,1446,0.579527,0
 A5017966581,Jonathan I. Saari,Materials Science; Engineering; Physics and Astronomy,18,14,641,0.516275,0.180666
 A5103252960,Matthew Cameron,Medicine; Physics and Astronomy,42,13,505,0.411166,0.187662
 A5106469484,T. Tolba,Physics and Astronomy,15,13,711,0.596172,0.133539
@@ -528,7 +528,7 @@ A5073906991,Simon Gauvin,Medicine; Physics and Astronomy,14,6,77,0.257885,0.1615
 A5059547116,X. Zhu,Engineering; Physics and Astronomy,14,6,213,0.399846,0.23802
 A5102707417,S. Yousef,Physics and Astronomy; Materials Science; Chemistry,11,6,96,0.281833,0.081381
 A5024973800,Kevin E. H. Anderson,Materials Science; Engineering; Physics and Astronomy,14,6,859,0.441344,0.245607
-A5065204025,Keiko Oyama Gannon,Materials Science; Chemistry; Physics and Astronomy,7,6,94,0.659344,0.0
+A5065204025,Keiko Oyama Gannon,Materials Science; Chemistry; Physics and Astronomy,7,6,94,0.659344,0
 A5086727250,Alexandra Neumann,Physics and Astronomy; Materials Science; Medicine,11,6,109,0.2179,0.219572
 A5076536252,Faiyaz Al Zamal,Physics and Astronomy; Computer Science; Decision Sciences,6,6,401,0.338191,0.091529
 A5006221518,Radu Comsa,Materials Science; Engineering; Physics and Astronomy,14,6,159,0.43791,0.10863
@@ -592,14 +592,14 @@ A5074558703,J. E. Chisham,Engineering; Physics and Astronomy; Materials Science,
 A5056970822,Vahid Shahabadi,Physics and Astronomy; Engineering; Earth and Planetary Sciences,11,5,138,0.609188,0.163795
 A5068915118,Eric Thul,Neuroscience; Computer Science; Physics and Astronomy,5,5,80,0.527747,0.250093
 A5043534089,Antoine Roy-Gobeil,Engineering; Physics and Astronomy; Chemistry,7,5,94,0.599527,0.148211
-A5066794657,John Mitry,Computer Science; Physics and Astronomy; Neuroscience,5,5,157,0.192372,0.0
+A5066794657,John Mitry,Computer Science; Physics and Astronomy; Neuroscience,5,5,157,0.192372,0
 A5021648384,Evan McNabb,Medicine; Engineering; Physics and Astronomy,29,5,111,0.377384,0.141055
 A5022678098,Nicolas Gastellu,Materials Science; Engineering; Physics and Astronomy,11,5,249,0.643637,0.194235
 A5114222163,R. Juran,Medicine; Physics and Astronomy; Engineering,16,5,135,0.340041,0.116416
 A5110340878,Adele Khavari,"Biochemistry, Genetics and Molecular Biology; Physics and Astronomy; Engineering",16,5,212,0.35316,0.213805
 A5017984102,Björn Morén,Physics and Astronomy; Medicine,20,5,102,0.436475,0.157432
 A5018804648,Oscar Ávila Åkerberg,Neuroscience; Physics and Astronomy; Computer Science,7,5,52,0.642276,0.0974
-A5051724665,D. Lascelles,Environmental Science; Engineering; Physics and Astronomy,6,5,99,0.996932,0.0
+A5051724665,D. Lascelles,Environmental Science; Engineering; Physics and Astronomy,6,5,99,0.996932,0
 A5086998206,Tristan L. Britt,Materials Science; Physics and Astronomy,16,5,94,0.541046,0.172205
 A5085952243,Parisa Moslemi,Physics and Astronomy; Engineering,16,5,75,0.592416,0.148063
 A5084266389,Ajaypal Singh Dhillon,Engineering; Physics and Astronomy,12,5,56,0.639936,0.116071
@@ -629,7 +629,7 @@ A5068763098,B. Parazin,Physics and Astronomy; Environmental Science; Earth and P
 A5004865418,Eli Martel,Physics and Astronomy; Materials Science; Engineering,9,5,86,0.495277,0.181323
 A5063312962,Ata Madanchi,"Materials Science; Physics and Astronomy; Economics, Econometrics and Finance",17,5,118,0.533649,0.190595
 A5051078337,Julien Bancheri,Physics and Astronomy; Medicine; Engineering,17,5,75,0.447421,0.117512
-A5057322523,S. Ray,Physics and Astronomy; Computer Science,8,5,82,0.606499,0.0
+A5057322523,S. Ray,Physics and Astronomy; Computer Science,8,5,82,0.606499,0
 A5111925043,Renato Costa,"Physics and Astronomy; Economics, Econometrics and Finance",7,5,107,0.621917,0.070385
 A5112257714,Kim Ma,Medicine; Physics and Astronomy; Engineering,25,5,74,0.341329,0.129688
 A5086628416,H. Rasiwala,Physics and Astronomy,18,5,204,0.605765,0.15057
@@ -666,7 +666,7 @@ A5011284754,M. M. Shapiro,Chemistry; Materials Science; Physics and Astronomy,10
 A5005394711,César Cañas,Computer Science; Physics and Astronomy,10,4,79,0.606625,0.121699
 A5047748550,Jennifer Glover,Physics and Astronomy; Earth and Planetary Sciences,14,4,46,0.311163,0.188396
 A5111516725,C. Gingras,Physics and Astronomy,11,4,189,0.36049,0.238669
-A5109866616,E. Lambert,Physics and Astronomy; Chemistry; Earth and Planetary Sciences,11,4,99,0.859184,0.0
+A5109866616,E. Lambert,Physics and Astronomy; Chemistry; Earth and Planetary Sciences,11,4,99,0.859184,0
 A5082421578,M. Louisa Newbury,Chemistry; Physics and Astronomy; Medicine,6,4,84,0.310194,0.118716
 A5079033798,Isabelle Jean,Physics and Astronomy; Engineering,6,4,62,0.320281,0.066833
 A5071783196,Kyriakos Moditis,Engineering; Physics and Astronomy,6,4,153,0.778857,0.021374
@@ -692,10 +692,10 @@ A5066944087,Tommy Reddad,Mathematics; Computer Science; Physics and Astronomy,9,
 A5066460181,Xiaoya Judy Wang,Physics and Astronomy; Materials Science,9,4,57,0.581515,0.206416
 A5066522105,Jeremie Choquette,Physics and Astronomy,5,4,114,0.655883,0.095449
 A5064182967,J. Park,Physics and Astronomy,5,4,216,0.514348,0.292087
-A5060129180,P.J. Boyle,Physics and Astronomy; Medicine,5,4,132,0.388815,0.0
+A5060129180,P.J. Boyle,Physics and Astronomy; Medicine,5,4,132,0.388815,0
 A5113542888,Jo rgen Vitting Andersen,Physics and Astronomy; Materials Science; Engineering,4,4,113,0.482163,0.051022
 A5029624614,Luc Dallaire,Medicine; Health Professions; Physics and Astronomy,7,4,417,0.442911,0.362004
-A5029458310,Matthias Westrich,Physics and Astronomy; Computer Science; Mathematics,7,4,74,0.619063,0.0
+A5029458310,Matthias Westrich,Physics and Astronomy; Computer Science; Mathematics,7,4,74,0.619063,0
 A5111844543,Marcel J. Sankeralli,Neuroscience; Physics and Astronomy; Psychology,4,4,237,0.769643,0.03735
 A5009284823,Aline Favero,Physics and Astronomy,11,4,37,0.577972,0.162985
 A5004823976,Heemal Parimoo,Physics and Astronomy; Materials Science; Engineering,11,4,43,0.776463,0.052485
@@ -718,7 +718,7 @@ A5105228718,P.-H. Beauchemin,Physics and Astronomy,4,4,188,0.693887,0.015332
 A5073260161,Amin Akhshi,Neuroscience; Computer Science; Physics and Astronomy,12,4,70,0.42321,0.230391
 A5069629252,Mirta Dumančić,Physics and Astronomy; Medicine,12,4,62,0.49776,0.108539
 A5002089446,Vanessa Di Lalla,Medicine; Physics and Astronomy,32,4,74,0.400774,0.184095
-A5038231647,Marcel J. Sankeralli,Neuroscience; Physics and Astronomy; Psychology,6,4,156,0.666679,0.0
+A5038231647,Marcel J. Sankeralli,Neuroscience; Physics and Astronomy; Psychology,6,4,156,0.666679,0
 A5054032094,Xuening Dong,Engineering; Neuroscience; Physics and Astronomy,12,4,61,0.463403,0.166651
 A5047045302,Roman Procyk,Mathematics; Physics and Astronomy; Chemistry,12,4,66,0.607002,0.304834
 A5033813657,Oscar Ávila-Ǻkerberg,Neuroscience; Physics and Astronomy; Computer Science,6,4,173,0.828678,0.026242
@@ -749,17 +749,17 @@ A5005061149,Gilbert J. Jaar,Engineering; Physics and Astronomy,4,4,135,0.605438,
 A5085124727,Boting Li,Physics and Astronomy; Engineering,24,4,85,0.343149,0.163137
 A5065341346,Wyatt A. Behn,Materials Science; Physics and Astronomy; Energy,24,4,114,0.489213,0.178999
 A5057284553,Jack Borthwick,Mathematics; Physics and Astronomy,24,4,65,0.517386,0.160694
-A5010866787,Isabelle Lavoie,Medicine; Physics and Astronomy,5,4,69,0.526073,0.0
+A5010866787,Isabelle Lavoie,Medicine; Physics and Astronomy,5,4,69,0.526073,0
 A5001582809,A.J. Rodolakis,Engineering; Physics and Astronomy,9,4,154,0.505024,0.175476
-A5077250653,Jayson Zhang,Materials Science; Physics and Astronomy; Medicine,4,4,39,0.490025,0.0
+A5077250653,Jayson Zhang,Materials Science; Physics and Astronomy; Medicine,4,4,39,0.490025,0
 A5112758953,M. Levin,Medicine; Neuroscience; Physics and Astronomy,18,4,145,0.222508,0.102305
 A5074136758,Chris Godbout,"Biochemistry, Genetics and Molecular Biology; Physics and Astronomy; Materials Science",4,4,297,0.48822,0.116849
-A5073075425,Benedict H. K. Lee,Engineering; Earth and Planetary Sciences; Physics and Astronomy,4,4,116,0.69557,0.0
+A5073075425,Benedict H. K. Lee,Engineering; Earth and Planetary Sciences; Physics and Astronomy,4,4,116,0.69557,0
 A5091177510,Li Cheng-Zhang,Physics and Astronomy; Materials Science; Engineering,13,4,87,0.609972,0.157559
 A5089147433,Elizabeth Ledwosinska,Materials Science; Physics and Astronomy; Engineering,10,4,420,0.450763,0.211786
 A5067845586,K. Oyama-Gannon,Physics and Astronomy; Materials Science,4,4,59,0.604799,0.071376
 A5112544991,J-L Meunier,Materials Science; Physics and Astronomy; Engineering,5,4,83,0.492577,0.088499
-A5111654094,Jacques Ouellet,Engineering; Physics and Astronomy,5,4,245,0.863507,0.0
+A5111654094,Jacques Ouellet,Engineering; Physics and Astronomy,5,4,245,0.863507,0
 A5047569438,M. A. Dobbs,Physics and Astronomy,8,4,43,0.627726,0.074543
 A5092829043,Vadym Bidula,Physics and Astronomy; Environmental Science; Engineering,7,4,76,0.695034,0.151119
 A5074667431,M. Dorica,Engineering; Physics and Astronomy,10,4,89,0.508962,0.187916
@@ -781,7 +781,7 @@ A5014870191,Z. Wang,Physics and Astronomy; Earth and Planetary Sciences,13,4,48,
 A5012854579,Sajjad Feizollah,Medicine; Chemistry; Physics and Astronomy,13,4,43,0.581788,0.132534
 A5027729132,Jad Alshami,Medicine; Physics and Astronomy; Materials Science,10,3,436,0.484837,0.222924
 A5016310337,Ziyuan Wang,Decision Sciences; Physics and Astronomy; Mathematics,8,3,643,0.524311,0.25812
-A5013486443,Stephen Kamp,Materials Science; Engineering; Physics and Astronomy,8,3,146,0.441004,0.0
+A5013486443,Stephen Kamp,Materials Science; Engineering; Physics and Astronomy,8,3,146,0.441004,0
 A5010871098,Yan Gobeil,Physics and Astronomy; Mathematics,8,3,157,0.55142,0.206083
 A5088363514,Till Hagedorn,Physics and Astronomy; Engineering,5,3,77,0.616704,0.07434
 A5086008126,Mohini Ramkaran,"Physics and Astronomy; Materials Science; Biochemistry, Genetics and Molecular Biology",5,3,24,0.428863,0.082254
@@ -791,7 +791,7 @@ A5008407585,Marwan Kanaan,Engineering; Physics and Astronomy; Social Sciences,8,
 A5012531555,C. Lund,Physics and Astronomy; Engineering,10,3,35,0.437603,0.090569
 A5011550255,George Tali,"Medicine; Biochemistry, Genetics and Molecular Biology; Physics and Astronomy",3,3,24,0.185444,0.063919
 A5081431027,Mehdi El Ouali,Physics and Astronomy; Engineering,5,3,77,0.569779,0.064059
-A5113570069,Dominique Lafleur,"Physics and Astronomy; Biochemistry, Genetics and Molecular Biology; Materials Science",3,3,37,0.54826,0.0
+A5113570069,Dominique Lafleur,"Physics and Astronomy; Biochemistry, Genetics and Molecular Biology; Materials Science",3,3,37,0.54826,0
 A5111547533,H. Vali,"Biochemistry, Genetics and Molecular Biology; Physics and Astronomy; Environmental Science",11,3,248,0.265924,0.148291
 A5078170561,Guillaume Payeur,Physics and Astronomy; Earth and Planetary Sciences,6,3,23,0.619021,0.205913
 A5027528549,Gerald Ratzer,Physics and Astronomy; Environmental Science; Computer Science,14,3,16,0.343514,0.227621
@@ -803,8 +803,8 @@ A5079689282,Shahriar Al Imam,Materials Science; Physics and Astronomy; Engineeri
 A5077871825,Frédéric Thomas-Dupuis,Engineering; Physics and Astronomy,5,3,18,0.597594,0.161129
 A5073281481,Viraj Meruliya,Physics and Astronomy; Mathematics,6,3,41,0.689695,0.12457
 A5058361140,David Salt,Arts and Humanities; Physics and Astronomy; Psychology,7,3,13,0.216907,0.038274
-A5054912561,Justine Schweizer,"Biochemistry, Genetics and Molecular Biology; Physics and Astronomy; Materials Science",7,3,45,0.035032,0.0
-A5111410718,Alex Crew,"Physics and Astronomy; Environmental Science; Biochemistry, Genetics and Molecular Biology",3,3,264,0.646054,0.0
+A5054912561,Justine Schweizer,"Biochemistry, Genetics and Molecular Biology; Physics and Astronomy; Materials Science",7,3,45,0.035032,0
+A5111410718,Alex Crew,"Physics and Astronomy; Environmental Science; Biochemistry, Genetics and Molecular Biology",3,3,264,0.646054,0
 A5076120888,J. Lee,Physics and Astronomy; Chemistry; Neuroscience,9,3,118,0.170225,0.120766
 A5068414160,Oulin Yu,Materials Science; Physics and Astronomy,11,3,64,0.564095,0.239847
 A5067109624,Rouzbeh Modarresi Yazdi,Physics and Astronomy,11,3,29,0.689766,0.137496
@@ -816,7 +816,7 @@ A5067053357,Hamidreza Memarzadeh Tehran,Engineering; Physics and Astronomy,6,3,2
 A5066062074,Md. A. H. Talukder,Engineering; Physics and Astronomy; Decision Sciences,6,3,28,0.500296,0.206481
 A5058132500,Simon Sehayek,"Biochemistry, Genetics and Molecular Biology; Physics and Astronomy; Neuroscience",11,3,53,0.539069,0.218589
 A5053806452,David Santiago Ayala Alvarez,Physics and Astronomy; Medicine,11,3,31,0.396333,0.181929
-A5000300667,G. R. Tait,Medicine; Engineering; Physics and Astronomy,3,3,29,0.365222,0.0
+A5000300667,G. R. Tait,Medicine; Engineering; Physics and Astronomy,3,3,29,0.365222,0
 A5059129992,Gursimranbir Singh,Earth and Planetary Sciences; Physics and Astronomy; Engineering,3,3,43,0.61228,0.155564
 A5043898358,Kuan-Wei Chen,Physics and Astronomy; Social Sciences,28,3,34,0.338752,0.156859
 A5068128527,Nona Abolfathi Nobari,Engineering; Physics and Astronomy; Chemistry,5,3,49,0.629393,0.159434
@@ -830,11 +830,11 @@ A5019162833,Aidan W. Schiff-Kearn,Engineering; Chemistry; Physics and Astronomy,
 A5019080598,William Fajzel,Physics and Astronomy; Social Sciences; Earth and Planetary Sciences,11,3,23,0.549586,0.209003
 A5061967559,S. Schaer,Physics and Astronomy,5,3,147,0.521204,0.228477
 A5061539976,Devon Rosner,Physics and Astronomy; Engineering,5,3,123,0.553334,0.235264
-A5033078371,J. Tyler,Physics and Astronomy; Engineering,7,3,120,0.604,0.0
+A5033078371,J. Tyler,Physics and Astronomy; Engineering,7,3,120,0.604,0
 A5031272570,S. Mahdavi,Engineering; Materials Science; Physics and Astronomy,7,3,44,0.452247,0.16389
 A5111957530,Richard Léveillé,Physics and Astronomy; Engineering; Environmental Science,4,3,929,0.508073,0.044794
-A5027768396,T. Wager,Physics and Astronomy; Engineering,7,3,167,0.785344,0.0
-A5109153340,R. Guenette,Physics and Astronomy,3,3,346,0.669596,0.0
+A5027768396,T. Wager,Physics and Astronomy; Engineering,7,3,167,0.785344,0
+A5109153340,R. Guenette,Physics and Astronomy,3,3,346,0.669596,0
 A5016102436,Bruno Taglietti,Engineering; Physics and Astronomy,11,3,26,0.446181,0.170591
 A5012448776,Steven Dahdah,Physics and Astronomy; Engineering; Computer Science,15,3,14,0.56971,0.147284
 A5056260349,Jean-Guy Villemure,Medicine; Physics and Astronomy,6,3,89,0.546724,0.207672
@@ -845,15 +845,15 @@ A5031973422,S. A. Ethier,Earth and Planetary Sciences; Physics and Astronomy,4,3
 A5001929820,Brady O'Connor,Physics and Astronomy; Environmental Science; Medicine,11,3,125,0.538713,0.139385
 A5112538820,Minette M. Mohan,Physics and Astronomy; Materials Science; Earth and Planetary Sciences,12,3,155,0.55424,0.083329
 A5111952636,Pen Yin,Medicine; Physics and Astronomy,12,3,175,0.280879,0.175838
-A5109099971,Olivia Jensen,Earth and Planetary Sciences; Physics and Astronomy; Environmental Science,4,3,174,0.373869,0.0
+A5109099971,Olivia Jensen,Earth and Planetary Sciences; Physics and Astronomy; Environmental Science,4,3,174,0.373869,0
 A5051901014,Louis‐Jacques Bourdages,Physics and Astronomy; Environmental Science; Decision Sciences,6,3,22,0.520864,0.234249
-A5107935823,The CHIME FRB Collaboration,Physics and Astronomy; Earth and Planetary Sciences; Engineering,4,3,162,0.661383,0.0
+A5107935823,The CHIME FRB Collaboration,Physics and Astronomy; Earth and Planetary Sciences; Engineering,4,3,162,0.661383,0
 A5102261562,Hyebin Jeon,Physics and Astronomy; Social Sciences,12,3,21,0.60902,0.186842
-A5047398118,Melvyn E. Best,Physics and Astronomy,5,3,14,0.317685,0.0
-A5046241901,G. -Z. Li,Physics and Astronomy; Engineering; Chemistry,5,3,22,0.51176,0.0
-A5046037357,K. Radtke,Physics and Astronomy; Medicine; Environmental Science,5,3,131,0.456212,0.0
-A5050185094,Daniel M. Racicot,Neuroscience; Computer Science; Physics and Astronomy,6,3,101,0.67467,0.0
-A5007434440,Steven Reiter,Engineering; Materials Science; Physics and Astronomy,7,3,35,0.793075,0.0
+A5047398118,Melvyn E. Best,Physics and Astronomy,5,3,14,0.317685,0
+A5046241901,G. -Z. Li,Physics and Astronomy; Engineering; Chemistry,5,3,22,0.51176,0
+A5046037357,K. Radtke,Physics and Astronomy; Medicine; Environmental Science,5,3,131,0.456212,0
+A5050185094,Daniel M. Racicot,Neuroscience; Computer Science; Physics and Astronomy,6,3,101,0.67467,0
+A5007434440,Steven Reiter,Engineering; Materials Science; Physics and Astronomy,7,3,35,0.793075,0
 A5045273485,John Nikolopoulos,Engineering; Physics and Astronomy,6,3,47,0.782433,0.060117
 A5024832558,V. C. Maripuri,Engineering; Chemical Engineering; Physics and Astronomy,4,3,67,0.607324,0.1515
 A5047356465,D. Filiatrault-Brosseau,Engineering; Physics and Astronomy,3,3,13,0.658943,0.0484
@@ -867,7 +867,7 @@ A5034434902,X. Chen,Materials Science; Physics and Astronomy,6,3,253,0.59341,0.1
 A5111780765,C. Dufour,Physics and Astronomy; Earth and Planetary Sciences; Computer Science,8,3,58,0.465036,0.350884
 A5043610661,Maria-Iulia Comanici,Engineering; Physics and Astronomy,5,3,28,0.739851,0.076055
 A5017899649,Prakash Panagaden,Computer Science; Physics and Astronomy,4,3,78,0.426019,0.049481
-A5017686805,Eléonore Haberer,Medicine; Physics and Astronomy,4,3,66,0.210497,0.0
+A5017686805,Eléonore Haberer,Medicine; Physics and Astronomy,4,3,66,0.210497,0
 A5033780559,Aayushi Kulshrestha,Social Sciences; Computer Science; Physics and Astronomy,6,3,24,0.532161,0.180063
 A5064645370,Bill P. Truong,Physics and Astronomy; Materials Science,9,3,47,0.596223,0.108397
 A5039227536,Lisa McBride,Physics and Astronomy; Engineering; Earth and Planetary Sciences,3,3,181,0.565636,0.016506
@@ -878,15 +878,15 @@ A5012201902,H. B. Wang,Materials Science; Physics and Astronomy; Chemistry,4,3,1
 A5052960629,Anusar Farooqui,Engineering; Physics and Astronomy; Earth and Planetary Sciences,9,3,16,0.404455,0.112247
 A5035668759,Laurent Guenin,Engineering; Physics and Astronomy,3,3,25,0.541675,0.046867
 A5109408805,A. Even,Physics and Astronomy; Materials Science; Social Sciences,8,3,170,0.397841,0.128328
-A5105250129,Kenneth J. Ragan,Physics and Astronomy; Computer Science,8,3,233,0.786427,0.0
+A5105250129,Kenneth J. Ragan,Physics and Astronomy; Computer Science,8,3,233,0.786427,0
 A5022090967,Janet L. Gordon,"Environmental Science; Physics and Astronomy; Biochemistry, Genetics and Molecular Biology",12,3,117,0.193748,0.073206
 A5018687381,Nirmalya Brahma,Physics and Astronomy,12,3,40,0.576289,0.137936
 A5021724570,R. Abdouche,Physics and Astronomy; Engineering; Materials Science,6,3,55,0.682982,0.04529
 A5020551693,Anne-Sophie Lucier,Physics and Astronomy; Engineering,6,3,114,0.691536,0.105927
 A5018342447,Jean A. Baldwin,"Physics and Astronomy; Materials Science; Biochemistry, Genetics and Molecular Biology",6,3,209,0.575784,0.149383
 A5016965199,Niloufar Faghihi,Materials Science; Physics and Astronomy; Engineering,6,3,45,0.557426,0.222088
-A5034294417,Nathaniel Leslie,Chemistry; Physics and Astronomy; Materials Science,3,3,26,0.807989,0.0
-A5039221027,Raymond H. Putra,Computer Science; Physics and Astronomy,9,3,55,0.554746,0.0
+A5034294417,Nathaniel Leslie,Chemistry; Physics and Astronomy; Materials Science,3,3,26,0.807989,0
+A5039221027,Raymond H. Putra,Computer Science; Physics and Astronomy,9,3,55,0.554746,0
 A5037309384,Vincent Comeau,Physics and Astronomy; Earth and Planetary Sciences,9,3,23,0.648427,0.143501
 A5011661741,A Liu,Physics and Astronomy; Engineering; Neuroscience,6,3,32,0.509791,0.306249
 A5087880874,Noha Kheder,Engineering; Physics and Astronomy,8,3,52,0.696651,0.093827
@@ -894,12 +894,12 @@ A5010557896,A. Bourque,Physics and Astronomy,4,3,47,0.660123,0.105385
 A5074885877,Pavel Vitushinsky,Physics and Astronomy; Materials Science; Computer Science,8,3,134,0.597805,0.297742
 A5019655590,Kathy Yim,Engineering; Physics and Astronomy,5,3,128,0.510986,0.15238
 A5087366402,Tanmoy Saha,Engineering; Physics and Astronomy,4,3,24,0.628694,0.076275
-A5016344087,A. Cumming,Physics and Astronomy,5,3,1286,0.306409,0.0
+A5016344087,A. Cumming,Physics and Astronomy,5,3,1286,0.306409,0
 A5069925979,Jonathan Kalinowski,Physics and Astronomy; Medicine,23,3,18,0.4045,0.093568
 A5015707606,Anh-Khoi Trinh,Physics and Astronomy,9,3,70,0.582116,0.258092
 A5013789548,Haile Baye Kassahun,Medicine; Engineering; Physics and Astronomy,9,3,33,0.471975,0.172521
 A5069253275,Jason Lepore,Engineering; Environmental Science; Physics and Astronomy,8,3,39,0.562965,0.176396
-A5083598322,Mario Douyon de Azevedo,Engineering; Physics and Astronomy; Materials Science,4,3,16,0.454531,0.0
+A5083598322,Mario Douyon de Azevedo,Engineering; Physics and Astronomy; Materials Science,4,3,16,0.454531,0
 A5006981025,Guy Légère,Chemical Engineering; Physics and Astronomy; Engineering,6,3,24,0.297079,0.084415
 A5006477125,M.A. Sekerka-Bajbus,Engineering; Physics and Astronomy,6,3,16,0.608829,0.102092
 A5006008773,S. Bohloul,Physics and Astronomy; Materials Science; Engineering,6,3,87,0.543733,0.032198
@@ -910,27 +910,27 @@ A5005263577,Jenaes Sivasundarampillai,Physics and Astronomy; Materials Science; 
 A5003445409,Sheema Khan,Materials Science; Physics and Astronomy; Chemistry,4,3,98,0.622255,0.061455
 A5002270338,Mathieu César,Engineering; Materials Science; Physics and Astronomy,4,3,231,0.643821,0.157325
 A5042798773,G. Al Makdessi,Physics and Astronomy; Engineering; Earth and Planetary Sciences,17,3,44,0.811433,0.33627
-A5111889538,B. Jean-Claude,"Chemistry; Physics and Astronomy; Biochemistry, Genetics and Molecular Biology",10,3,26,0.188498,0.0
+A5111889538,B. Jean-Claude,"Chemistry; Physics and Astronomy; Biochemistry, Genetics and Molecular Biology",10,3,26,0.188498,0
 A5079123866,Shaziana Kaderali,"Physics and Astronomy; Biochemistry, Genetics and Molecular Biology",4,3,44,0.504138,0.324453
 A5078303414,K. Sofia,Physics and Astronomy,4,3,25,0.545688,0.143202
-A5078040085,W. S. Weng,Engineering; Materials Science; Physics and Astronomy,4,3,33,0.587809,0.0
-A5025993026,Brayden Mon,Physics and Astronomy,3,3,22,0.656646,0.0
+A5078040085,W. S. Weng,Engineering; Materials Science; Physics and Astronomy,4,3,33,0.587809,0
+A5025993026,Brayden Mon,Physics and Astronomy,3,3,22,0.656646,0
 A5113489844,John Thomas Nicolson,Earth and Planetary Sciences; Engineering; Physics and Astronomy,7,3,59,0.83596,0.108602
 A5003237491,Zhe Yao,Engineering; Computer Science; Physics and Astronomy,5,3,47,0.354963,0.27202
 A5073375877,A. Jesion,Materials Science; Physics and Astronomy; Engineering,4,3,20,0.550102,0.099336
 A5071936305,Alexandre Sobolevski,"Neuroscience; Biochemistry, Genetics and Molecular Biology; Physics and Astronomy",4,3,63,0.691574,0.206889
-A5071712839,S. J. Lee,Physics and Astronomy; Mathematics,4,3,17,0.408692,0.0
+A5071712839,S. J. Lee,Physics and Astronomy; Mathematics,4,3,17,0.408692,0
 A5022058240,Stefan A. Andreev,Physics and Astronomy; Materials Science; Engineering,3,3,431,0.471198,0.028116
 A5109625420,Yihua Shen,Immunology and Microbiology; Materials Science; Physics and Astronomy,7,3,38,0.222813,0.081018
-A5019995414,Andrew E. Sikora,Physics and Astronomy; Earth and Planetary Sciences; Engineering,3,3,506,0.961331,0.0
+A5019995414,Andrew E. Sikora,Physics and Astronomy; Earth and Planetary Sciences; Engineering,3,3,506,0.961331,0
 A5102018924,Junzhi Liu,Engineering; Physics and Astronomy; Materials Science,7,3,19,0.497911,0.275171
-A5019431051,N Desaulniers-Soucy,Physics and Astronomy; Engineering; Medicine,3,3,27,0.649845,0.0
+A5019431051,N Desaulniers-Soucy,Physics and Astronomy; Engineering; Medicine,3,3,27,0.649845,0
 A5092885516,Varun Muralidharan,Physics and Astronomy; Earth and Planetary Sciences,7,3,29,0.58716,0.191405
 A5092829042,Francis McGee,Physics and Astronomy; Environmental Science; Earth and Planetary Sciences,7,3,71,0.700725,0.143659
 A5075841685,Iman Jebellat,Physics and Astronomy; Engineering; Computer Science,13,3,47,0.520882,0.2504
 A5073845314,Youngeun Hwang,Medicine; Neuroscience; Physics and Astronomy,13,3,35,0.549379,0.182658
 A5065824178,Michael Richard,Physics and Astronomy,10,3,161,0.424963,0.256279
-A5109773182,Zixiao Zhang,Materials Science; Physics and Astronomy; Energy,5,3,24,0.381522,0.0
+A5109773182,Zixiao Zhang,Materials Science; Physics and Astronomy; Energy,5,3,24,0.381522,0
 A5092120698,Kim Morel,Physics and Astronomy; Chemistry; Earth and Planetary Sciences,7,3,112,0.707659,0.123519
 A5092081643,Rodrigo T. Paulino,Physics and Astronomy; Engineering; Materials Science,7,3,11,0.38052,0.252916
 A5087901616,Minoo Erfani Joorabchi,Decision Sciences; Physics and Astronomy; Computer Science,7,3,19,0.31786,0.233712
@@ -945,30 +945,30 @@ A5020772795,B. Bahamin,Engineering; Physics and Astronomy,8,3,32,0.661118,0.1494
 A5071528315,Fangyi Guo,Physics and Astronomy; Medicine,7,3,70,0.262858,0.241054
 A5063713455,Eve-Marie Dumas,"Materials Science; Biochemistry, Genetics and Molecular Biology; Physics and Astronomy",4,2,96,0.467412,0.152892
 A5062927451,Arda Balkancı,Materials Science; Physics and Astronomy; Engineering,4,2,78,0.795116,0.144875
-A5060592483,E Patricia Egerszegi,Medicine; Physics and Astronomy,2,2,61,0.19984,0.0
+A5060592483,E Patricia Egerszegi,Medicine; Physics and Astronomy,2,2,61,0.19984,0
 A5086291929,Numa Karolinski,Physics and Astronomy,5,2,14,0.644394,0.226946
 A5061618630,Nicole Mulyk,Physics and Astronomy; Engineering,4,2,70,0.585869,0.225868
-A5013312928,Song Pu,Physics and Astronomy; Engineering,3,2,66,0.290536,0.0
-A5091216155,J K P Lee,Physics and Astronomy; Engineering,2,2,37,0.462468,0.0
+A5013312928,Song Pu,Physics and Astronomy; Engineering,3,2,66,0.290536,0
+A5091216155,J K P Lee,Physics and Astronomy; Engineering,2,2,37,0.462468,0
 A5081479784,Amir Akbari,Physics and Astronomy; Computer Science; Engineering,5,2,14,0.62834,0.070837
 A5057417615,Caroline Niquette,Earth and Planetary Sciences; Physics and Astronomy; Engineering,4,2,19,0.454601,0.254413
 A5116294173,Benton Qiu,Engineering; Physics and Astronomy,9,2,28,0.586794,0.120298
 A5112348347,Zsombor Balassy,"Medicine; Biochemistry, Genetics and Molecular Biology; Physics and Astronomy",9,2,16,0.468131,0.143685
 A5111206660,Mélodie Cyr,Medicine; Physics and Astronomy,9,2,9,0.488822,0.206857
-A5085876299,D. Ray,Physics and Astronomy,6,2,10,0.361535,0.0
-A5091141075,Tamoghna Agasti,Physics and Astronomy; Social Sciences; Environmental Science,2,2,5,1.0,0.0
+A5085876299,D. Ray,Physics and Astronomy,6,2,10,0.361535,0
+A5091141075,Tamoghna Agasti,Physics and Astronomy; Social Sciences; Environmental Science,2,2,5,1,0
 A5066310812,Lise Guichaoua,Materials Science; Engineering; Physics and Astronomy,14,2,79,0.338646,0.175687
-A5009731390,E. Filotas,Physics and Astronomy; Mathematics,3,2,61,0.747879,0.0
-A5113637883,Corey Miles,Engineering; Physics and Astronomy,3,2,66,0.201652,0.0
-A5009109319,A Ludwig,Physics and Astronomy; Engineering,3,2,52,0.802372,0.0
-A5008178277,Anne D. Skriver,"Medicine; Biochemistry, Genetics and Molecular Biology; Physics and Astronomy",3,2,57,0.701329,0.0
+A5009731390,E. Filotas,Physics and Astronomy; Mathematics,3,2,61,0.747879,0
+A5113637883,Corey Miles,Engineering; Physics and Astronomy,3,2,66,0.201652,0
+A5009109319,A Ludwig,Physics and Astronomy; Engineering,3,2,52,0.802372,0
+A5008178277,Anne D. Skriver,"Medicine; Biochemistry, Genetics and Molecular Biology; Physics and Astronomy",3,2,57,0.701329,0
 A5054708348,B. Mirican,Engineering; Physics and Astronomy; Computer Science,4,2,5,0.671752,0.069585
 A5053740892,Víctor D. Díaz-Martínez,Physics and Astronomy; Medicine; Engineering,4,2,70,0.459271,0.071495
-A5026382826,T. McElroy,Physics and Astronomy,2,2,6,0.701829,0.0
-A5089330879,J. O. Ström‐Olson,Physics and Astronomy; Materials Science; Engineering,2,2,393,0.52054,0.0
-A5025945380,C.J. Thompson,Medicine; Physics and Astronomy,2,2,11,0.451014,0.0
-A5025849235,Yishi Xu,Social Sciences; Physics and Astronomy; Medicine,2,2,44,0.703843,0.0
-A5058240965,Paulina E. Sikorska,Physics and Astronomy; Environmental Science; Engineering,2,2,12,0.504748,0.0
+A5026382826,T. McElroy,Physics and Astronomy,2,2,6,0.701829,0
+A5089330879,J. O. Ström‐Olson,Physics and Astronomy; Materials Science; Engineering,2,2,393,0.52054,0
+A5025945380,C.J. Thompson,Medicine; Physics and Astronomy,2,2,11,0.451014,0
+A5025849235,Yishi Xu,Social Sciences; Physics and Astronomy; Medicine,2,2,44,0.703843,0
+A5058240965,Paulina E. Sikorska,Physics and Astronomy; Environmental Science; Engineering,2,2,12,0.504748,0
 A5041263689,Michele N. Woodland,Physics and Astronomy,14,2,17,0.434693,0.206224
 A5032576346,Elizabeth Collins–Woodfin,Physics and Astronomy; Mathematics; Computer Science,14,2,7,0.526855,0.193738
 A5079578366,Rosa Rodríguez-Mota,Physics and Astronomy; Engineering,6,2,10,0.487954,0.171361
@@ -976,58 +976,58 @@ A5005384640,Tapabrata Mukherjee,Engineering; Physics and Astronomy,3,2,6,0.77638
 A5060709157,L. Rudolph,Physics and Astronomy; Environmental Science; Medicine,7,2,23,0.79638,0.134184
 A5086398788,Shuo Wen,Social Sciences; Physics and Astronomy; Computer Science,9,2,10,0.360766,0.135374
 A5081383842,J. Willard,Mathematics; Physics and Astronomy; Computer Science,9,2,6,0.377474,0.22346
-A5048938506,Rien Moerland,Medicine; Psychology; Physics and Astronomy,4,2,49,0.217466,0.0
+A5048938506,Rien Moerland,Medicine; Psychology; Physics and Astronomy,4,2,49,0.217466,0
 A5080888730,Alexander Logozzo,Environmental Science; Physics and Astronomy; Chemistry,9,2,25,0.588008,0.212075
 A5076958612,Isabelle Dummer,"Physics and Astronomy; Medicine; Biochemistry, Genetics and Molecular Biology",6,2,23,0.40854,0.213331
-A5079452990,Mikkel K. Jorgensen,Physics and Astronomy; Engineering,5,2,22,0.799424,0.0
+A5079452990,Mikkel K. Jorgensen,Physics and Astronomy; Engineering,5,2,22,0.799424,0
 A5077850863,Samy Coulombe,"Biochemistry, Genetics and Molecular Biology; Physics and Astronomy; Computer Science",5,2,33,0.308686,0.353631
 A5074155813,Lawrence A. Herman,Physics and Astronomy; Engineering; Earth and Planetary Sciences,6,2,72,0.331427,0.293235
-A5024014678,S Asselin,Materials Science; Physics and Astronomy; Environmental Science,2,2,8,0.260669,0.0
+A5024014678,S Asselin,Materials Science; Physics and Astronomy; Environmental Science,2,2,8,0.260669,0
 A5059670356,Nicholas Zicha,Engineering; Physics and Astronomy,7,2,18,0.656362,0.13816
-A5004705781,D. Villeneuve,Engineering; Physics and Astronomy; Computer Science,3,2,9,0.563215,0.0
+A5004705781,D. Villeneuve,Engineering; Physics and Astronomy; Computer Science,3,2,9,0.563215,0
 A5058740108,Adrian Ngoly,Physics and Astronomy; Engineering; Computer Science,7,2,15,0.596304,0.13517
-A5004270074,Vladimir Timochevski,Engineering; Physics and Astronomy,3,2,7,0.525288,0.0
+A5004270074,Vladimir Timochevski,Engineering; Physics and Astronomy,3,2,7,0.525288,0
 A5055825507,Razieh Shirzadkhani,Physics and Astronomy; Engineering; Computer Science,7,2,94,0.455395,0.230599
-A5002968736,Marty Kurylowicz,"Biochemistry, Genetics and Molecular Biology; Engineering; Physics and Astronomy",3,2,84,0.555472,0.0
+A5002968736,Marty Kurylowicz,"Biochemistry, Genetics and Molecular Biology; Engineering; Physics and Astronomy",3,2,84,0.555472,0
 A5075982784,M. Rouble,Physics and Astronomy,9,2,7,0.597073,0.089802
-A5110189806,Reinhart Richter,Physics and Astronomy; Materials Science,3,2,31,0.618244,0.0
-A5055299039,Xunhao Li,Computer Science; Physics and Astronomy,2,2,6,0.806538,0.0
-A5022599020,Ganesharam Balagopal,Physics and Astronomy; Materials Science; Engineering,2,2,6,0.610378,0.0
+A5110189806,Reinhart Richter,Physics and Astronomy; Materials Science,3,2,31,0.618244,0
+A5055299039,Xunhao Li,Computer Science; Physics and Astronomy,2,2,6,0.806538,0
+A5022599020,Ganesharam Balagopal,Physics and Astronomy; Materials Science; Engineering,2,2,6,0.610378,0
 A5051633186,Will Tyndall,Physics and Astronomy; Environmental Science; Engineering,7,2,73,0.63457,0.208497
 A5043080008,Eitan Buffaz,Physics and Astronomy; Computer Science; Earth and Planetary Sciences,4,2,21,0.896655,0.060911
 A5048059159,Azin Esmaelbeigi,Physics and Astronomy; Neuroscience; Medicine,7,2,8,0.496845,0.281039
 A5047814028,T. Zold,Engineering; Physics and Astronomy,7,2,14,0.52412,0.116639
 A5040996646,D. V. O’Donnell,Physics and Astronomy,4,2,46,0.634473,0.165603
 A5040779410,Avital S. Cherniawsky,Neuroscience; Physics and Astronomy; Decision Sciences,4,2,63,0.751248,0.051107
-A5087730818,Joel Ibrahim Kreps,Psychology; Physics and Astronomy; Arts and Humanities,2,2,8,0.938013,0.0
-A5114075427,Lisa McBride,Physics and Astronomy; Environmental Science; Engineering,2,2,6,0.936051,0.0
+A5087730818,Joel Ibrahim Kreps,Psychology; Physics and Astronomy; Arts and Humanities,2,2,8,0.938013,0
+A5114075427,Lisa McBride,Physics and Astronomy; Environmental Science; Engineering,2,2,6,0.936051,0
 A5044776098,Laurence Liang,Medicine; Computer Science; Physics and Astronomy,7,2,11,0.296199,0.293715
 A5064691433,Jeff Arrington,Physics and Astronomy; Medicine; Engineering,6,2,95,0.295714,0.318202
 A5063560777,S. Gemmrich,Physics and Astronomy; Engineering; Mathematics,6,2,15,0.320654,0.29001
 A5059987943,E.S. Bieler,Physics and Astronomy; Engineering; Materials Science,6,2,94,0.41458,0.069621
-A5087050906,Karim Aguenaou,Materials Science; Physics and Astronomy; Earth and Planetary Sciences,2,2,9,0.495532,0.0
+A5087050906,Karim Aguenaou,Materials Science; Physics and Astronomy; Earth and Planetary Sciences,2,2,9,0.495532,0
 A5040327254,Farid Kachra,Engineering; Physics and Astronomy,4,2,17,0.942421,0.021204
-A5055648377,Dan-Cornelius Savu,Physics and Astronomy; Earth and Planetary Sciences; Engineering,3,2,12,0.551899,0.0
+A5055648377,Dan-Cornelius Savu,Physics and Astronomy; Earth and Planetary Sciences; Engineering,3,2,12,0.551899,0
 A5121792377,Anonymous,Physics and Astronomy,85,2,12,0.390287,0.124732
-A5050992691,Tyler Finethy,Computer Science; Physics and Astronomy; Social Sciences,2,2,217,0.602311,0.0
-A5050614327,Zhida Yan,Physics and Astronomy,2,2,14,0.689274,0.0
-A5053317450,J. R. Francoeur,Physics and Astronomy; Medicine; Engineering,3,2,41,0.086856,0.0
+A5050992691,Tyler Finethy,Computer Science; Physics and Astronomy; Social Sciences,2,2,217,0.602311,0
+A5050614327,Zhida Yan,Physics and Astronomy,2,2,14,0.689274,0
+A5053317450,J. R. Francoeur,Physics and Astronomy; Medicine; Engineering,3,2,41,0.086856,0
 A5053262175,Ung-In Cho,Earth and Planetary Sciences; Physics and Astronomy,3,2,19,0.426545,0.141838
 A5037636977,Parham Ghasemloo Gheidari,Computer Science; Physics and Astronomy; Psychology,4,2,15,0.709617,0.035847
 A5036815798,Mai Jacob Peng,Computer Science; Physics and Astronomy,4,2,13,0.403391,0.081097
-A5035253735,J. Barrette,Physics and Astronomy; Materials Science,4,2,69,0.563912,0.0
+A5035253735,J. Barrette,Physics and Astronomy; Materials Science,4,2,69,0.563912,0
 A5111929477,Alfred Tze-Mun Leung,Engineering; Physics and Astronomy; Medicine,4,2,30,0.506789,0.227911
-A5020615819,A. Kunysz,"Physics and Astronomy; Medicine; Biochemistry, Genetics and Molecular Biology",2,2,21,0.225376,0.0
-A5084394944,Alex Cai,"Biochemistry, Genetics and Molecular Biology; Psychology; Physics and Astronomy",2,2,8,0.180905,0.0
+A5020615819,A. Kunysz,"Physics and Astronomy; Medicine; Biochemistry, Genetics and Molecular Biology",2,2,21,0.225376,0
+A5084394944,Alex Cai,"Biochemistry, Genetics and Molecular Biology; Psychology; Physics and Astronomy",2,2,8,0.180905,0
 A5057229190,Anne Imouza,Social Sciences; Physics and Astronomy; Computer Science,6,2,33,0.476483,0.20641
 A5111385938,F. A A Kingdom,Neuroscience; Physics and Astronomy; Psychology,4,2,32,0.561377,0.072067
-A5019792310,J. Ping Liu,Physics and Astronomy; Materials Science,2,2,23,0.602332,0.0
-A5019705946,Adel Al-Amodi,"Biochemistry, Genetics and Molecular Biology; Engineering; Physics and Astronomy",2,2,8,0.686596,0.0
-A5051265032,Juno Garrah,Environmental Science; Earth and Planetary Sciences; Physics and Astronomy,3,2,16,0.323959,0.0
+A5019792310,J. Ping Liu,Physics and Astronomy; Materials Science,2,2,23,0.602332,0
+A5019705946,Adel Al-Amodi,"Biochemistry, Genetics and Molecular Biology; Engineering; Physics and Astronomy",2,2,8,0.686596,0
+A5051265032,Juno Garrah,Environmental Science; Earth and Planetary Sciences; Physics and Astronomy,3,2,16,0.323959,0
 A5050450812,S. Garneau,Physics and Astronomy; Environmental Science; Earth and Planetary Sciences,3,2,19,0.370015,0.175249
-A5082257393,M. T. Mehmetoḡlu,Engineering; Physics and Astronomy,2,2,27,0.748039,0.0
-A5082255076,Melissa Baiocchi,Physics and Astronomy; Medicine,2,2,31,0.217223,0.0
-A5050594315,Alexandra E. Bernstein,"Physics and Astronomy; Biochemistry, Genetics and Molecular Biology; Medicine",5,2,69,0.069142,0.0
+A5082257393,M. T. Mehmetoḡlu,Engineering; Physics and Astronomy,2,2,27,0.748039,0
+A5082255076,Melissa Baiocchi,Physics and Astronomy; Medicine,2,2,31,0.217223,0
+A5050594315,Alexandra E. Bernstein,"Physics and Astronomy; Biochemistry, Genetics and Molecular Biology; Medicine",5,2,69,0.069142,0
 A5091501884,J. S. Marshall,Physics and Astronomy; Engineering,16,2,4,0.238146,0.095858
 A5049886783,J. Zhang,Physics and Astronomy; Earth and Planetary Sciences; Agricultural and Biological Sciences,3,2,14,0.45759,0.267729
 A5017349183,Ambrish M. Raghoonundun,Physics and Astronomy; Earth and Planetary Sciences,7,2,50,0.725992,0.094132
@@ -1035,46 +1035,46 @@ A5049490135,Julien Mounthanyvong,Physics and Astronomy; Social Sciences; Environ
 A5109477266,Krijn DeVries,Engineering; Physics and Astronomy; Materials Science,4,2,286,0.134679,0.061814
 A5016625907,Henry Ling,Physics and Astronomy; Materials Science,7,2,21,0.720419,0.196677
 A5049082925,L. Goutte,Materials Science; Physics and Astronomy,3,2,5,0.782297,0.123874
-A5026726540,J. Kröger,"Physics and Astronomy; Agricultural and Biological Sciences; Biochemistry, Genetics and Molecular Biology",4,2,14,0.162864,0.0
+A5026726540,J. Kröger,"Physics and Astronomy; Agricultural and Biological Sciences; Biochemistry, Genetics and Molecular Biology",4,2,14,0.162864,0
 A5026581118,M. Sutton,Engineering; Materials Science; Physics and Astronomy,4,2,59,0.516844,0.106264
-A5048368710,G. Wang,Physics and Astronomy,3,2,67,0.971345,0.0
+A5048368710,G. Wang,Physics and Astronomy,3,2,67,0.971345,0
 A5103791413,Buzatu Adrian,Physics and Astronomy; Computer Science,3,2,7,0.784682,0.018792
-A5018311181,M. Sanielevici,Physics and Astronomy,2,2,23,0.78069,0.0
+A5018311181,M. Sanielevici,Physics and Astronomy,2,2,23,0.78069,0
 A5105891512,Thomas R Wright,Physics and Astronomy; Computer Science,12,2,11,0.533215,0.254341
 A5067708306,E. R. Pounder,Physics and Astronomy; Engineering,16,2,4,0.238146,0.095858
 A5049018118,Rifat Nazneen,Engineering; Physics and Astronomy,5,2,6,0.605289,0.119261
-A5015602358,Jihane Eid,Physics and Astronomy; Medicine,2,2,30,0.09264,0.0
+A5015602358,Jihane Eid,Physics and Astronomy; Medicine,2,2,30,0.09264,0
 A5046270760,Mark C. Abraao York,Physics and Astronomy,3,2,94,0.680529,0.203274
 A5046039497,Rigel Zifkin,Materials Science; Physics and Astronomy; Engineering,3,2,22,0.655515,0.19285
 A5022755119,Ann-Lauriene Haag,"Physics and Astronomy; Biochemistry, Genetics and Molecular Biology; Engineering",4,2,31,0.65094,0.049078
-A5080222400,H B Wang,Materials Science; Physics and Astronomy,2,2,41,0.642771,0.0
-A5079589904,L.R. Ryner,Materials Science; Engineering; Physics and Astronomy,2,2,12,0.973973,0.0
-A5047742703,M. Bonin,Physics and Astronomy; Materials Science,2,2,18,0.278467,0.0
-A5047629437,S.-J. Lee,Physics and Astronomy; Chemistry,2,2,87,0.715214,0.0
-A5110073765,Annie Sénéchal,"Biochemistry, Genetics and Molecular Biology; Dentistry; Physics and Astronomy",2,2,47,0.830124,0.0
+A5080222400,H B Wang,Materials Science; Physics and Astronomy,2,2,41,0.642771,0
+A5079589904,L.R. Ryner,Materials Science; Engineering; Physics and Astronomy,2,2,12,0.973973,0
+A5047742703,M. Bonin,Physics and Astronomy; Materials Science,2,2,18,0.278467,0
+A5047629437,S.-J. Lee,Physics and Astronomy; Chemistry,2,2,87,0.715214,0
+A5110073765,Annie Sénéchal,"Biochemistry, Genetics and Molecular Biology; Dentistry; Physics and Astronomy",2,2,47,0.830124,0
 A5041800635,Qiu Shi Wang,Physics and Astronomy; Mathematics,6,2,15,0.557963,0.218171
 A5041629933,E. Ballantyne,Engineering; Physics and Astronomy; Earth and Planetary Sciences,6,2,17,0.593346,0.086936
-A5043472555,Paul Robert Chouha,Computer Science; Physics and Astronomy,3,2,14,0.341643,0.0
-A5043056565,Karl Peter Russell,Mathematics; Physics and Astronomy; Engineering,3,2,31,0.461187,0.0
+A5043472555,Paul Robert Chouha,Computer Science; Physics and Astronomy,3,2,14,0.341643,0
+A5043056565,Karl Peter Russell,Mathematics; Physics and Astronomy; Engineering,3,2,31,0.461187,0
 A5022447807,J.C.W. Ho,Engineering; Physics and Astronomy,4,2,15,0.712871,0.087
 A5022255288,Carlos Valero,Physics and Astronomy; Mathematics,4,2,22,0.614919,0.074557
-A5019179801,Sebastian V. Morales,"Biochemistry, Genetics and Molecular Biology; Medicine; Physics and Astronomy",4,2,113,0.170102,0.0
-A5035754789,Carolyn Young,Physics and Astronomy; Computer Science; Engineering,6,2,91,0.556484,0.0
-A5091894462,Mohsen Shahryari,Materials Science; Chemical Engineering; Physics and Astronomy,3,2,33,0.637358,0.0
+A5019179801,Sebastian V. Morales,"Biochemistry, Genetics and Molecular Biology; Medicine; Physics and Astronomy",4,2,113,0.170102,0
+A5035754789,Carolyn Young,Physics and Astronomy; Computer Science; Engineering,6,2,91,0.556484,0
+A5091894462,Mohsen Shahryari,Materials Science; Chemical Engineering; Physics and Astronomy,3,2,33,0.637358,0
 A5040574584,A. K. Dutt-mazumder,Physics and Astronomy; Medicine,3,2,21,0.277635,0.306074
 A5040412016,Tanya Monga,Physics and Astronomy; Chemical Engineering; Engineering,3,2,206,0.458159,0.251601
 A5043372131,Sam Lumley,Social Sciences; Computer Science; Physics and Astronomy,5,2,54,0.859175,0.099232
-A5041534092,Marcia E. Knutt,Physics and Astronomy; Computer Science; Arts and Humanities,5,2,39,0.12907,0.0
-A5045333035,D. Zhabinsky,Engineering; Physics and Astronomy; Earth and Planetary Sciences,2,2,175,0.960488,0.0
+A5041534092,Marcia E. Knutt,Physics and Astronomy; Computer Science; Arts and Humanities,5,2,39,0.12907,0
+A5045333035,D. Zhabinsky,Engineering; Physics and Astronomy; Earth and Planetary Sciences,2,2,175,0.960488,0
 A5018569585,Gailing Fan,Physics and Astronomy; Earth and Planetary Sciences; Engineering,4,2,116,0.618048,0.094658
 A5033647078,H. Sewalls,Physics and Astronomy; Earth and Planetary Sciences; Engineering,6,2,29,0.603071,0.213868
 A5090348583,Y. S. Liu,Engineering; Physics and Astronomy,3,2,23,0.620874,0.03345
 A5089718447,S. Jeon,Physics and Astronomy,3,2,16,0.758362,0.160363
 A5028152775,Z. Berkson-Korenberg,Physics and Astronomy; Mathematics,6,2,5,0.692694,0.136713
-A5043251504,Jacques van Dyk,Physics and Astronomy; Engineering,2,2,74,0.569722,0.0
-A5108132511,S. O’Brien,Physics and Astronomy,2,2,24,0.647914,0.0
-A5107854847,D. Hanson,Physics and Astronomy,2,2,302,0.668924,0.0
-A5107356201,Jean F. Cliche,Physics and Astronomy,2,2,34,0.76455,0.0
+A5043251504,Jacques van Dyk,Physics and Astronomy; Engineering,2,2,74,0.569722,0
+A5108132511,S. O’Brien,Physics and Astronomy,2,2,24,0.647914,0
+A5107854847,D. Hanson,Physics and Astronomy,2,2,302,0.668924,0
+A5107356201,Jean F. Cliche,Physics and Astronomy,2,2,34,0.76455,0
 A5037208664,F. Manero,Engineering; Chemistry; Physics and Astronomy,3,2,17,0.231785,0.130177
 A5102633231,Mohan Agrawal,Physics and Astronomy; Earth and Planetary Sciences; Engineering,4,2,5,0.329812,0.277286
 A5050742770,Bae-Kyun Kim,Materials Science; Engineering; Physics and Astronomy,9,2,60,0.27716,0.102571
@@ -1083,32 +1083,32 @@ A5035682209,Simon Silva-Da Cruz,Physics and Astronomy; Engineering,3,2,42,0.8057
 A5032823726,Darren Flynn-Primrose,Mathematics; Physics and Astronomy; Medicine,5,2,30,0.520606,0.107291
 A5019195272,S. Majidi,Physics and Astronomy; Environmental Science,6,2,26,0.554,0.071047
 A5018819106,Wellington Avelino,Engineering; Physics and Astronomy,6,2,27,0.444263,0.169553
-A5105781839,S. Carron,Physics and Astronomy,2,2,65,0.740667,0.0
-A5105780878,G. Tešić,Physics and Astronomy,2,2,132,0.55637,0.0
+A5105781839,S. Carron,Physics and Astronomy,2,2,65,0.740667,0
+A5105780878,G. Tešić,Physics and Astronomy,2,2,132,0.55637,0
 A5102210102,Yang Lan,Social Sciences; Engineering; Physics and Astronomy,8,2,30,0.321679,0.074943
 A5034311375,Sehr Moosabhoy,Physics and Astronomy; Engineering,3,2,7,0.565532,0.155156
 A5092529483,Sébastien Quetin,Medicine; Physics and Astronomy; Computer Science,8,2,9,0.461654,0.108563
-A5033205329,Federico Keszti,Physics and Astronomy; Medicine; Engineering,3,2,24,0.698626,0.0
+A5033205329,Federico Keszti,Physics and Astronomy; Medicine; Engineering,3,2,24,0.698626,0
 A5025394983,Jana Kurrek,Computer Science; Social Sciences; Physics and Astronomy,5,2,41,0.466688,0.325747
 A5040855885,Alex Dunyak,Mathematics; Physics and Astronomy; Engineering,9,2,9,0.640943,0.189547
 A5033925034,K. Y. Chen,Physics and Astronomy; Engineering,9,2,13,0.367954,0.254877
 A5009903805,Helal Hossain Dhali,Social Sciences; Mathematics; Physics and Astronomy,16,2,28,0.345973,0.143458
-A5073807047,L. G. S. Newsham,Medicine; Physics and Astronomy; Neuroscience,2,2,422,0.317316,0.0
-A5073352641,Timothy D. Keding,Physics and Astronomy; Computer Science; Environmental Science,2,2,84,0.333253,0.0
+A5073807047,L. G. S. Newsham,Medicine; Physics and Astronomy; Neuroscience,2,2,422,0.317316,0
+A5073352641,Timothy D. Keding,Physics and Astronomy; Computer Science; Environmental Science,2,2,84,0.333253,0
 A5012490607,S. Al Kharusi,Physics and Astronomy,6,2,9,0.641259,0.082356
-A5032874572,Mitchell Kurnell,Engineering; Physics and Astronomy; Computer Science,3,2,8,0.483641,0.0
-A5032660064,David T 'etreault-La Roche,Physics and Astronomy; Materials Science; Engineering,3,2,57,0.288071,0.0
+A5032874572,Mitchell Kurnell,Engineering; Physics and Astronomy; Computer Science,3,2,8,0.483641,0
+A5032660064,David T 'etreault-La Roche,Physics and Astronomy; Materials Science; Engineering,3,2,57,0.288071,0
 A5092825728,Sarah Rourke,Physics and Astronomy; Earth and Planetary Sciences,4,2,24,0.966471,0.01503
-A5010386776,Deven Parekh,Physics and Astronomy; Computer Science; Social Sciences,2,2,19,0.267979,0.0
-A5010357738,P. Bartzakos,Medicine; Physics and Astronomy,2,2,68,0.757441,0.0
+A5010386776,Deven Parekh,Physics and Astronomy; Computer Science; Social Sciences,2,2,19,0.267979,0
+A5010357738,P. Bartzakos,Medicine; Physics and Astronomy,2,2,68,0.757441,0
 A5091349042,B. Frison,Engineering; Physics and Astronomy; Materials Science,4,2,12,0.834185,0.041757
 A5090079731,Adriel Arsenault,"Biochemistry, Genetics and Molecular Biology; Engineering; Physics and Astronomy",4,2,35,0.806705,0.036663
 A5024373573,Mark Daly,Health Professions; Medicine; Physics and Astronomy,5,2,15,0.376842,0.019762
-A5011348398,Bassam Fadlallah,Physics and Astronomy; Medicine,4,2,28,0.849403,0.0
-A5009557660,R. Briend,Physics and Astronomy; Engineering,2,2,25,0.458499,0.0
-A5072363777,S. Kecani,Medicine; Physics and Astronomy,2,2,11,0.451014,0.0
-A5009010392,H. MacLeish,Medicine; Physics and Astronomy,2,2,246,0.198734,0.0
-A5072074992,P. I. Martinez Berumen,Materials Science; Physics and Astronomy,2,2,5,0.362705,0.0
+A5011348398,Bassam Fadlallah,Physics and Astronomy; Medicine,4,2,28,0.849403,0
+A5009557660,R. Briend,Physics and Astronomy; Engineering,2,2,25,0.458499,0
+A5072363777,S. Kecani,Medicine; Physics and Astronomy,2,2,11,0.451014,0
+A5009010392,H. MacLeish,Medicine; Physics and Astronomy,2,2,246,0.198734,0
+A5072074992,P. I. Martinez Berumen,Materials Science; Physics and Astronomy,2,2,5,0.362705,0
 A5072500695,Fumika Kondo,Engineering; Neuroscience; Physics and Astronomy,8,2,38,0.269452,0.197481
 A5019848475,Ali A Atiia,"Biochemistry, Genetics and Molecular Biology; Physics and Astronomy; Social Sciences",5,2,7,0.619419,0.227483
 A5018749302,F. Cayouette,Physics and Astronomy; Medicine; Engineering,5,2,55,0.612616,0.161069
@@ -1116,35 +1116,35 @@ A5087267184,M. Heffernan,Physics and Astronomy,4,2,16,0.71789,0.142187
 A5014893199,Andrew Mckenna,"Physics and Astronomy; Economics, Econometrics and Finance; Materials Science",9,2,12,0.333043,0.326052
 A5083695365,Karishma Moorthy,Physics and Astronomy; Engineering; Computer Science,3,2,15,0.64687,0.238718
 A5083694648,Tyler Werner,Physics and Astronomy,3,2,16,0.748394,0.113544
-A5082933292,Nadejda Mas,Physics and Astronomy; Materials Science; Arts and Humanities,3,2,42,0.769139,0.0
-A5039483708,D. P. Liu,Materials Science; Physics and Astronomy,2,2,206,0.751968,0.0
-A5070731595,Martin Cyr,Medicine; Neuroscience; Physics and Astronomy,2,2,78,0.870295,0.0
-A5084887105,Julia Albers,Medicine; Physics and Astronomy,4,2,6,0.17105,0.0
+A5082933292,Nadejda Mas,Physics and Astronomy; Materials Science; Arts and Humanities,3,2,42,0.769139,0
+A5039483708,D. P. Liu,Materials Science; Physics and Astronomy,2,2,206,0.751968,0
+A5070731595,Martin Cyr,Medicine; Neuroscience; Physics and Astronomy,2,2,78,0.870295,0
+A5084887105,Julia Albers,Medicine; Physics and Astronomy,4,2,6,0.17105,0
 A5006241083,Dan Vatnik,Computer Science; Physics and Astronomy; Materials Science,4,2,35,0.508025,0.482934
 A5009424046,F. Lepine,"Earth and Planetary Sciences; Physics and Astronomy; Biochemistry, Genetics and Molecular Biology",6,2,24,0.360199,0.285074
-A5030108698,Busra Tugce Gurbuz,"Neuroscience; Physics and Astronomy; Biochemistry, Genetics and Molecular Biology",3,2,8,0.514863,0.0
-A5029926401,Nicholas G. Zacharopoulos,Medicine; Physics and Astronomy,3,2,61,0.265808,0.0
+A5030108698,Busra Tugce Gurbuz,"Neuroscience; Physics and Astronomy; Biochemistry, Genetics and Molecular Biology",3,2,8,0.514863,0
+A5029926401,Nicholas G. Zacharopoulos,Medicine; Physics and Astronomy,3,2,61,0.265808,0
 A5013291540,Oscar Boyadjian,"Materials Science; Physics and Astronomy; Biochemistry, Genetics and Molecular Biology",5,2,14,0.506899,0.246771
 A5029335536,N. H. Kim,Engineering; Physics and Astronomy,3,2,29,0.595347,0.071745
 A5080653987,G. Batan,Medicine; Physics and Astronomy,3,2,86,0.780969,0.109025
-A5006861653,Hawley Snell,Physics and Astronomy; Chemistry; Earth and Planetary Sciences,2,2,10,0.61692,0.0
-A5006616591,G. Shenouda,Medicine; Physics and Astronomy,2,2,192,0.408032,0.0
+A5006861653,Hawley Snell,Physics and Astronomy; Chemistry; Earth and Planetary Sciences,2,2,10,0.61692,0
+A5006616591,G. Shenouda,Medicine; Physics and Astronomy,2,2,192,0.408032,0
 A5005782934,Brandon Ruffolo,Materials Science; Earth and Planetary Sciences; Physics and Astronomy,4,2,17,0.714188,0.143239
-A5069747082,Andrew Jung,Engineering; Physics and Astronomy,2,2,40,0.986551,0.0
-A5081636670,M.R. Koknaeva,Engineering; Materials Science; Physics and Astronomy,4,2,30,0.461889,0.0
+A5069747082,Andrew Jung,Engineering; Physics and Astronomy,2,2,40,0.986551,0
+A5081636670,M.R. Koknaeva,Engineering; Materials Science; Physics and Astronomy,4,2,30,0.461889,0
 A5081551488,Paria Makaremi-Esfarjani,Engineering; Physics and Astronomy; Materials Science,4,2,7,0.807092,0.132088
 A5027326201,Deuscies Chang-Ou,Neuroscience; Medicine; Physics and Astronomy,3,2,28,0.34266,0.225717
 A5003408221,Mathias N. Larrouturou,Physics and Astronomy; Engineering,4,2,4,0.476636,0.078263
-A5068973582,Paul J. L. Charlton,Physics and Astronomy; Computer Science,2,2,40,0.506814,0.0
+A5068973582,Paul J. L. Charlton,Physics and Astronomy; Computer Science,2,2,40,0.506814,0
 A5002395206,Raphaël Hardy,"Physics and Astronomy; Biochemistry, Genetics and Molecular Biology; Earth and Planetary Sciences",6,2,14,0.872771,0.062191
 A5009464898,I‐Huang Tsai,Medicine; Physics and Astronomy; Neuroscience,5,2,170,0.352576,0.116925
 A5008920821,Hamed Layeghi,Engineering; Physics and Astronomy; Computer Science,5,2,96,0.433991,0.2696
 A5007761446,C. Heyraud,Earth and Planetary Sciences; Environmental Science; Physics and Astronomy,5,2,12,0.404033,0.137166
-A5102886681,Shan Gao,Physics and Astronomy,2,2,41,0.302103,0.0
-A5102112804,Yi-Lu Chang,Physics and Astronomy; Engineering; Materials Science,2,2,84,0.753816,0.0
+A5102886681,Shan Gao,Physics and Astronomy,2,2,41,0.302103,0
+A5102112804,Yi-Lu Chang,Physics and Astronomy; Engineering; Materials Science,2,2,84,0.753816,0
 A5111778266,K. T. Mullen,Neuroscience; Physics and Astronomy; Psychology,7,2,28,0.389508,0.253656
-A5037200100,Cynthia V. Wilson,Earth and Planetary Sciences; Environmental Science; Physics and Astronomy,2,2,44,0.513915,0.0
-A5036822632,K. Murray,Physics and Astronomy,2,2,6,0.701829,0.0
+A5037200100,Cynthia V. Wilson,Earth and Planetary Sciences; Environmental Science; Physics and Astronomy,2,2,44,0.513915,0
+A5036822632,K. Murray,Physics and Astronomy,2,2,6,0.701829,0
 A5005477591,Pierre Lesté-Lasserre,Chemistry; Physics and Astronomy,5,2,56,0.494197,0.357656
 A5071747827,Donovan Blais,Decision Sciences; Physics and Astronomy; Engineering,4,2,9,0.615713,0.284807
 A5023093025,Jason Cakiroglu,"Biochemistry, Genetics and Molecular Biology; Physics and Astronomy; Medicine",3,2,37,0.276732,0.028885
@@ -1154,311 +1154,311 @@ A5001824266,Natalie Fortier,Computer Science; Physics and Astronomy; Engineering
 A5089662501,Logan Richard,Computer Science; Physics and Astronomy; Mathematics,13,2,50,0.221816,0.089901
 A5083651801,Jonathan Boretsky,Computer Science; Physics and Astronomy; Mathematics,13,2,6,0.54408,0.16262
 A5080154219,Antoine Savard,Earth and Planetary Sciences; Physics and Astronomy,13,2,7,0.702799,0.279031
-A5072826190,César Daniel Rodríguez Rosenblueth,Materials Science; Physics and Astronomy; Engineering,3,2,45,0.781497,0.0
-A5085279201,E. Rosenthall,Mathematics; Computer Science; Physics and Astronomy,10,2,5,0.250863,0.0
-A5111727379,A. Scott,"Physics and Astronomy; Medicine; Biochemistry, Genetics and Molecular Biology",5,2,136,0.169305,0.0
+A5072826190,César Daniel Rodríguez Rosenblueth,Materials Science; Physics and Astronomy; Engineering,3,2,45,0.781497,0
+A5085279201,E. Rosenthall,Mathematics; Computer Science; Physics and Astronomy,10,2,5,0.250863,0
+A5111727379,A. Scott,"Physics and Astronomy; Medicine; Biochemistry, Genetics and Molecular Biology",5,2,136,0.169305,0
 A5049635675,Jonathan Love,Mathematics; Computer Science; Physics and Astronomy,8,2,44,0.61374,0.087251
 A5019306007,D. Jolly,Medicine; Physics and Astronomy,3,2,12,0.479381,0.086034
 A5047265160,Bohdan Kulinich,Physics and Astronomy; Mathematics,8,2,12,0.739589,0.100973
-A5064768643,X. Chen,Physics and Astronomy; Materials Science,2,2,7,0.516755,0.0
+A5064768643,X. Chen,Physics and Astronomy; Materials Science,2,2,7,0.516755,0
 A5071148617,Nicolas Dubuc,Engineering; Physics and Astronomy,3,2,10,0.3854,0.214087
 A5071034253,A. Peccia,Mathematics; Physics and Astronomy; Environmental Science,3,2,114,0.500108,0.03711
-A5003779884,F. N. Choudhury,Physics and Astronomy,2,2,21,0.692122,0.0
+A5003779884,F. N. Choudhury,Physics and Astronomy,2,2,21,0.692122,0
 A5067198441,Henri Lamarre,Social Sciences; Arts and Humanities; Physics and Astronomy,4,2,23,0.364704,0.218565
-A5064134225,Lucy Coyle,Engineering; Computer Science; Physics and Astronomy,2,2,96,1.0,0.0
+A5064134225,Lucy Coyle,Engineering; Computer Science; Physics and Astronomy,2,2,96,1,0
 A5041108314,Robert Main,Physics and Astronomy; Social Sciences; Engineering,8,2,5,0.264239,0.191856
-A5063846197,Laura Brennan,"Environmental Science; Biochemistry, Genetics and Molecular Biology; Physics and Astronomy",2,2,27,0.535918,0.0
-A5033371344,K. T. Lee,Engineering; Materials Science; Physics and Astronomy,2,2,32,1.0,0.0
+A5063846197,Laura Brennan,"Environmental Science; Biochemistry, Genetics and Molecular Biology; Physics and Astronomy",2,2,27,0.535918,0
+A5033371344,K. T. Lee,Engineering; Materials Science; Physics and Astronomy,2,2,32,1,0
 A5051653138,Eamon Egan,Physics and Astronomy,10,2,6,0.422127,0.159969
 A5103223460,Zhengshu Yan,Engineering; Environmental Science; Physics and Astronomy,5,2,31,0.450129,0.09834
 A5032566692,Harry Glickman,Physics and Astronomy; Medicine,8,2,27,0.421407,0.033315
-A5062375985,Kelly Chan-Yam,"Environmental Science; Physics and Astronomy; Biochemistry, Genetics and Molecular Biology",2,2,123,0.637495,0.0
+A5062375985,Kelly Chan-Yam,"Environmental Science; Physics and Astronomy; Biochemistry, Genetics and Molecular Biology",2,2,123,0.637495,0
 A5027550324,Wataru Ishizuka,Physics and Astronomy,13,2,15,0.532748,0.078528
 A5101238547,Luowei Yan,Neuroscience; Physics and Astronomy; Medicine,5,2,9,0.566057,0.26595
-A5000685681,W. D. English,Chemistry; Physics and Astronomy,2,2,14,0.251499,0.0
-A5061043056,Ahmed Kira,Engineering; Physics and Astronomy,2,2,12,0.693768,0.0
-A5093817094,Caitlyn Dewar,Physics and Astronomy,2,2,45,0.999465,0.0
+A5000685681,W. D. English,Chemistry; Physics and Astronomy,2,2,14,0.251499,0
+A5061043056,Ahmed Kira,Engineering; Physics and Astronomy,2,2,12,0.693768,0
+A5093817094,Caitlyn Dewar,Physics and Astronomy,2,2,45,0.999465,0
 A5025078271,Mahesh Herath,Physics and Astronomy; Earth and Planetary Sciences,13,2,13,0.579047,0.15943
-A5030107517,M J Rosenblum,Medicine; Physics and Astronomy,2,2,88,0.393942,0.0
-A5029865283,D. Pavlasek,Engineering; Physics and Astronomy,2,2,37,0.627618,0.0
+A5030107517,M J Rosenblum,Medicine; Physics and Astronomy,2,2,88,0.393942,0
+A5029865283,D. Pavlasek,Engineering; Physics and Astronomy,2,2,37,0.627618,0
 A5063607236,Jesse Rieb,Earth and Planetary Sciences; Physics and Astronomy; Agricultural and Biological Sciences,4,1,6,0.531609,0.112267
 A5124224972,Anonymous,Physics and Astronomy,146,1,6,0.282349,0.133909
-A5092574603,Michael Jafs,Physics and Astronomy,2,1,11,0.990656,0.0
+A5092574603,Michael Jafs,Physics and Astronomy,2,1,11,0.990656,0
 A5060997720,EB Podgorsak,Physics and Astronomy; Medicine; Decision Sciences,4,1,2,0.466484,0.049016
 A5092207172,Khalid Al-Naemi,"Biochemistry, Genetics and Molecular Biology; Physics and Astronomy",6,1,32,0.608719,0.269486
 A5120058342,Ben Coull-Neveu,Physics and Astronomy,3,1,2,0.672804,0.22593
-A5059842069,Alexandra Tcheng,Engineering; Computer Science; Physics and Astronomy,4,1,2,0.811249,0.0
+A5059842069,Alexandra Tcheng,Engineering; Computer Science; Physics and Astronomy,4,1,2,0.811249,0
 A5119487661,Clément Fortin,Physics and Astronomy; Chemistry,3,1,1,0.79387,0.145591
 A5059365924,Quentin Stoyel,Physics and Astronomy; Materials Science; Engineering,4,1,5,0.271155,0.173024
-A5123140286,Rustam Z. Khaliullin,Materials Science; Physics and Astronomy; Chemistry,2,1,1,0.998116,0.0
-A5027411374,C.J. Thompson,Medicine; Physics and Astronomy; Engineering,2,1,1,0.412622,0.0
+A5123140286,Rustam Z. Khaliullin,Materials Science; Physics and Astronomy; Chemistry,2,1,1,0.998116,0
+A5027411374,C.J. Thompson,Medicine; Physics and Astronomy; Engineering,2,1,1,0.412622,0
 A5002744550,Robin Khanfir,"Mathematics; Physics and Astronomy; Economics, Econometrics and Finance",19,1,4,0.510022,0.154288
-A5121009651,Lucas Fernandes da Silva,"Biochemistry, Genetics and Molecular Biology; Materials Science; Physics and Astronomy",2,1,1,0.042452,0.0
-A5119858629,Rachel Darlinger,Physics and Astronomy; Engineering,2,1,7,0.652433,0.0
-A5090583850,B. Harack,Physics and Astronomy; Engineering,2,1,1,0.733959,0.0
-A5068892414,Alistair Barton,Neuroscience; Physics and Astronomy; Medicine,3,1,28,0.142208,0.0
+A5121009651,Lucas Fernandes da Silva,"Biochemistry, Genetics and Molecular Biology; Materials Science; Physics and Astronomy",2,1,1,0.042452,0
+A5119858629,Rachel Darlinger,Physics and Astronomy; Engineering,2,1,7,0.652433,0
+A5090583850,B. Harack,Physics and Astronomy; Engineering,2,1,1,0.733959,0
+A5068892414,Alistair Barton,Neuroscience; Physics and Astronomy; Medicine,3,1,28,0.142208,0
 A5009019451,Geoffrey N. Pratt,"Social Sciences; Physics and Astronomy; Economics, Econometrics and Finance",3,1,3,0.183286,0.057709
 A5113106602,Gabriel R. Dubé,Engineering; Physics and Astronomy,3,1,1,0.758153,0.049647
 A5056097856,Polina Titova,Physics and Astronomy; Computer Science; Environmental Science,4,1,1,0.385597,0.255045
-A5055757215,H. Rasiwala,Physics and Astronomy; Chemistry,4,1,1,0.519023,0.0
+A5055757215,H. Rasiwala,Physics and Astronomy; Chemistry,4,1,1,0.519023,0
 A5054074722,Gabriel Crudele,Computer Science; Mathematics; Physics and Astronomy,4,1,2,0.581263,0.16409
-A5066812209,S. A. Gorji Zadeh,Engineering; Physics and Astronomy; Computer Science,3,1,13,0.685078,0.0
-A5119410145,Wenke Xia,Physics and Astronomy; Engineering,2,1,2,0.596774,0.0
-A5089370148,Félix-Antoine Valin,Physics and Astronomy,2,1,18,0.807211,0.0
-A5089187685,Sara Froehlich,Physics and Astronomy; Mathematics,2,1,31,0.386072,0.0
-A5088924839,Kit M. Gerodias,"Physics and Astronomy; Biochemistry, Genetics and Molecular Biology",2,1,1,0.208476,0.0
-A5118865028,Patrick Janulewicz,Physics and Astronomy; Engineering,2,1,1,0.974315,0.0
+A5066812209,S. A. Gorji Zadeh,Engineering; Physics and Astronomy; Computer Science,3,1,13,0.685078,0
+A5119410145,Wenke Xia,Physics and Astronomy; Engineering,2,1,2,0.596774,0
+A5089370148,Félix-Antoine Valin,Physics and Astronomy,2,1,18,0.807211,0
+A5089187685,Sara Froehlich,Physics and Astronomy; Mathematics,2,1,31,0.386072,0
+A5088924839,Kit M. Gerodias,"Physics and Astronomy; Biochemistry, Genetics and Molecular Biology",2,1,1,0.208476,0
+A5118865028,Patrick Janulewicz,Physics and Astronomy; Engineering,2,1,1,0.974315,0
 A5067078913,M. Heffernan,Physics and Astronomy,7,1,12,0.698177,0.068042
 A5112024772,G. Yu,Engineering; Physics and Astronomy; Medicine,3,1,42,0.245287,0.103761
 A5048918391,T.S. Roseanu,Engineering; Physics and Astronomy,4,1,3,0.679756,0.09086
-A5056747210,Sandrina Coquet,Earth and Planetary Sciences; Physics and Astronomy; Chemistry,2,1,57,1.0,0.0
-A5056630897,Cédrick Perron,Physics and Astronomy,2,1,7,0.994697,0.0
+A5056747210,Sandrina Coquet,Earth and Planetary Sciences; Physics and Astronomy; Chemistry,2,1,57,1,0
+A5056630897,Cédrick Perron,Physics and Astronomy,2,1,7,0.994697,0
 A5073967031,Declan Persram,Physics and Astronomy,6,1,83,0.675498,0.205324
-A5056264836,C. Gale,Physics and Astronomy,2,1,14,0.985099,0.0
+A5056264836,C. Gale,Physics and Astronomy,2,1,14,0.985099,0
 A5077149455,Yushu Zhao,Engineering; Physics and Astronomy,5,1,4,0.592715,0.133099
 A5004141424,D. Plant,Engineering; Physics and Astronomy,3,1,1,0.47842,0.068985
 A5071744488,Maryam Rahbaran,Medicine; Physics and Astronomy,11,1,2,0.495843,0.104938
-A5023538524,J. K. P. Lee,Physics and Astronomy; Engineering,2,1,27,0.342628,0.0
-A5074820867,H. Aoid,Earth and Planetary Sciences; Physics and Astronomy; Environmental Science,5,1,2,0.817158,0.0
-A5070823912,Zun Wang,Physics and Astronomy; Earth and Planetary Sciences; Computer Science,5,1,8,0.365346,0.0
-A5053735859,M.J. Hinse,Medicine; Physics and Astronomy; Engineering,2,1,4,0.982208,0.0
-A5053492889,Mehryar Keshavarz,Physics and Astronomy; Medicine,2,1,1,0.935791,0.0
-A5053401184,Wei Ruo-ya,Engineering; Computer Science; Physics and Astronomy,2,1,2,0.402782,0.0
-A5021736193,Zahra Karim Aghaloo,Computer Science; Physics and Astronomy; Medicine,2,1,20,0.470096,0.0
-A5114112359,Hosne Mobarok Shamim,Engineering; Materials Science; Physics and Astronomy,2,1,40,0.312395,0.0
-A5114101158,Qiqi Zhong,"Business, Management and Accounting; Engineering; Physics and Astronomy",2,1,1,0.144701,0.0
-A5087557921,S. Sˇuba,Physics and Astronomy,2,1,1,1.0,0.0
-A5114011954,Jorge Jorge Dulanto,Physics and Astronomy; Engineering,2,1,2,0.239365,0.0
-A5052899521,H.P. Wang,Engineering; Materials Science; Physics and Astronomy,2,1,8,0.494102,0.0
+A5023538524,J. K. P. Lee,Physics and Astronomy; Engineering,2,1,27,0.342628,0
+A5074820867,H. Aoid,Earth and Planetary Sciences; Physics and Astronomy; Environmental Science,5,1,2,0.817158,0
+A5070823912,Zun Wang,Physics and Astronomy; Earth and Planetary Sciences; Computer Science,5,1,8,0.365346,0
+A5053735859,M.J. Hinse,Medicine; Physics and Astronomy; Engineering,2,1,4,0.982208,0
+A5053492889,Mehryar Keshavarz,Physics and Astronomy; Medicine,2,1,1,0.935791,0
+A5053401184,Wei Ruo-ya,Engineering; Computer Science; Physics and Astronomy,2,1,2,0.402782,0
+A5021736193,Zahra Karim Aghaloo,Computer Science; Physics and Astronomy; Medicine,2,1,20,0.470096,0
+A5114112359,Hosne Mobarok Shamim,Engineering; Materials Science; Physics and Astronomy,2,1,40,0.312395,0
+A5114101158,Qiqi Zhong,"Business, Management and Accounting; Engineering; Physics and Astronomy",2,1,1,0.144701,0
+A5087557921,S. Sˇuba,Physics and Astronomy,2,1,1,1,0
+A5114011954,Jorge Jorge Dulanto,Physics and Astronomy; Engineering,2,1,2,0.239365,0
+A5052899521,H.P. Wang,Engineering; Materials Science; Physics and Astronomy,2,1,8,0.494102,0
 A5046273757,M. Rouble,Physics and Astronomy; Engineering,7,1,6,0.629831,0.123737
 A5119890993,Roman Akhmetshyn,Physics and Astronomy,4,1,1,0.869536,0.076249
-A5113670583,Susana Campos Martins,"Physics and Astronomy; Economics, Econometrics and Finance; Social Sciences",2,1,5,0.105993,0.0
-A5113244705,Song‐Yang Zhang,Physics and Astronomy; Materials Science; Neuroscience,2,1,6,0.076418,0.0
-A5086156454,N. J. Hopkins,Engineering; Chemistry; Physics and Astronomy,2,1,68,0.122233,0.0
-A5065823448,Olivia Mendelson,Agricultural and Biological Sciences; Psychology; Physics and Astronomy,5,1,3,0.170633,0.0
+A5113670583,Susana Campos Martins,"Physics and Astronomy; Economics, Econometrics and Finance; Social Sciences",2,1,5,0.105993,0
+A5113244705,Song‐Yang Zhang,Physics and Astronomy; Materials Science; Neuroscience,2,1,6,0.076418,0
+A5086156454,N. J. Hopkins,Engineering; Chemistry; Physics and Astronomy,2,1,68,0.122233,0
+A5065823448,Olivia Mendelson,Agricultural and Biological Sciences; Psychology; Physics and Astronomy,5,1,3,0.170633,0
 A5040158275,Kuo-Lee Li,"Social Sciences; Physics and Astronomy; Business, Management and Accounting",7,1,1,0.433421,0.308301
-A5055854897,Jaarli Suviranta,Materials Science; Physics and Astronomy; Engineering,3,1,7,0.657749,0.0
-A5085791087,C. K. Day,Physics and Astronomy; Engineering,2,1,3,0.512799,0.0
-A5112593009,DE Sheeran,Engineering; Physics and Astronomy; Earth and Planetary Sciences,2,1,2,0.450359,0.0
+A5055854897,Jaarli Suviranta,Materials Science; Physics and Astronomy; Engineering,3,1,7,0.657749,0
+A5085791087,C. K. Day,Physics and Astronomy; Engineering,2,1,3,0.512799,0
+A5112593009,DE Sheeran,Engineering; Physics and Astronomy; Earth and Planetary Sciences,2,1,2,0.450359,0
 A5059605289,Sasha Bell,Mathematics; Physics and Astronomy; Medicine,5,1,10,0.53451,0.037324
-A5058502967,Johann Gest,Engineering; Physics and Astronomy,5,1,10,0.728998,0.0
+A5058502967,Johann Gest,Engineering; Physics and Astronomy,5,1,10,0.728998,0
 A5054795996,Ming Lei,Physics and Astronomy; Engineering,3,1,4,0.736863,0.093213
-A5054644399,REES KASSEN,"Biochemistry, Genetics and Molecular Biology; Social Sciences; Physics and Astronomy",3,1,4,0.698981,0.0
-A5054244445,C. Rodenchuk,Materials Science; Physics and Astronomy; Engineering,3,1,95,0.199368,0.0
-A5050574197,Larissa Veryha,Physics and Astronomy; Materials Science,2,1,5,0.515259,0.0
-A5050347907,Rodrigo Chavez Zavaleta,Physics and Astronomy; Materials Science,2,1,5,0.992853,0.0
+A5054644399,REES KASSEN,"Biochemistry, Genetics and Molecular Biology; Social Sciences; Physics and Astronomy",3,1,4,0.698981,0
+A5054244445,C. Rodenchuk,Materials Science; Physics and Astronomy; Engineering,3,1,95,0.199368,0
+A5050574197,Larissa Veryha,Physics and Astronomy; Materials Science,2,1,5,0.515259,0
+A5050347907,Rodrigo Chavez Zavaleta,Physics and Astronomy; Materials Science,2,1,5,0.992853,0
 A5113076179,Bailey Forster,Physics and Astronomy,4,1,2,0.84132,0.108233
-A5112817224,Valérie Orsat,Physics and Astronomy; Engineering; Medicine,4,1,1,0.160219,0.0
-A5111854455,Daniel O'Donnell,Physics and Astronomy; Chemistry; Medicine,2,1,48,0.175725,0.0
-A5058011862,A. Thibodeau-Antonacci,Physics and Astronomy; Medicine; Computer Science,5,1,6,0.28777,0.0
+A5112817224,Valérie Orsat,Physics and Astronomy; Engineering; Medicine,4,1,1,0.160219,0
+A5111854455,Daniel O'Donnell,Physics and Astronomy; Chemistry; Medicine,2,1,48,0.175725,0
+A5058011862,A. Thibodeau-Antonacci,Physics and Astronomy; Medicine; Computer Science,5,1,6,0.28777,0
 A5055469980,Anan Lu,Physics and Astronomy; Environmental Science,5,1,19,0.203468,0.262848
 A5055268991,Felix Fehse,Physics and Astronomy; Computer Science; Engineering,5,1,2,0.658009,0.171387
-A5082955986,Pierre-Olivier Tardif,Engineering; Physics and Astronomy,2,1,17,0.731948,0.0
-A5033476516,Mimi Lafleur,Physics and Astronomy; Social Sciences; Mathematics,4,1,2,1.0,0.0
+A5082955986,Pierre-Olivier Tardif,Engineering; Physics and Astronomy,2,1,17,0.731948,0
+A5033476516,Mimi Lafleur,Physics and Astronomy; Social Sciences; Mathematics,4,1,2,1,0
 A5032823022,Nicolas Fortier,Physics and Astronomy; Earth and Planetary Sciences,4,1,9,0.488011,0.363896
-A5032513068,Kevin Constantineau,Physics and Astronomy; Engineering,4,1,2,0.629134,0.0
+A5032513068,Kevin Constantineau,Physics and Astronomy; Engineering,4,1,2,0.629134,0
 A5052608131,F. Kingdom,Neuroscience; Physics and Astronomy; Engineering,3,1,2,0.524875,0.049964
-A5020151504,Patrick Munroe,"Economics, Econometrics and Finance; Mathematics; Physics and Astronomy",2,1,3,0.309186,0.0
-A5019817351,Gabrielle A. Mitchell,Physics and Astronomy,2,1,5,1.0,0.0
+A5020151504,Patrick Munroe,"Economics, Econometrics and Finance; Mathematics; Physics and Astronomy",2,1,3,0.309186,0
+A5019817351,Gabrielle A. Mitchell,Physics and Astronomy,2,1,5,1,0
 A5106276165,Ella Iles,Physics and Astronomy,3,1,4,0.61432,0.270257
 A5111044369,Zach Hockenbery,Physics and Astronomy; Engineering; Health Professions,4,1,1,0.779506,0.154079
-A5019078728,Zhongan Lin,Physics and Astronomy,2,1,36,1.0,0.0
+A5019078728,Zhongan Lin,Physics and Astronomy,2,1,36,1,0
 A5122847694,Afrokk Khan,Physics and Astronomy,12,1,1,0.623933,0.237494
-A5082795715,C. Park,Physics and Astronomy,2,1,124,0.914106,0.0
-A5082634376,Tracey Webb,Earth and Planetary Sciences; Environmental Science; Physics and Astronomy,2,1,4,0.242005,0.0
+A5082795715,C. Park,Physics and Astronomy,2,1,124,0.914106,0
+A5082634376,Tracey Webb,Earth and Planetary Sciences; Environmental Science; Physics and Astronomy,2,1,4,0.242005,0
 A5052203665,Yue Lei,Mathematics; Physics and Astronomy,5,1,4,0.224059,0.095976
-A5082124188,S. Lovejoy,"Earth and Planetary Sciences; Physics and Astronomy; Economics, Econometrics and Finance",2,1,7,0.596759,0.0
+A5082124188,S. Lovejoy,"Earth and Planetary Sciences; Physics and Astronomy; Economics, Econometrics and Finance",2,1,7,0.596759,0
 A5025698567,Mahadi Masnad,Engineering; Physics and Astronomy,4,1,4,0.462341,0.075274
-A5103910487,Joseph Wheeler,"Social Sciences; Economics, Econometrics and Finance; Physics and Astronomy",3,1,3,0.437696,0.0
-A5102998351,Jiaxing Ma,Physics and Astronomy; Engineering,3,1,1,0.524523,0.0
-A5016907287,W. Rowles,Physics and Astronomy; Engineering; Social Sciences,2,1,8,0.055997,0.0
-A5049424334,Omar Al Aryani,Physics and Astronomy; Engineering,6,1,15,0.281785,0.0
+A5103910487,Joseph Wheeler,"Social Sciences; Economics, Econometrics and Finance; Physics and Astronomy",3,1,3,0.437696,0
+A5102998351,Jiaxing Ma,Physics and Astronomy; Engineering,3,1,1,0.524523,0
+A5016907287,W. Rowles,Physics and Astronomy; Engineering; Social Sciences,2,1,8,0.055997,0
+A5049424334,Omar Al Aryani,Physics and Astronomy; Engineering,6,1,15,0.281785,0
 A5005386962,L Archambault,Physics and Astronomy; Medicine,7,1,3,0.469988,0.080417
 A5107813148,E. Kriz,Physics and Astronomy; Earth and Planetary Sciences; Engineering,4,1,5,0.572031,0.05957
-A5111312076,Albert Yian Zhang,Physics and Astronomy,2,1,5,0.98252,0.0
-A5111312075,Benjamin David,Physics and Astronomy,2,1,5,0.98252,0.0
+A5111312076,Albert Yian Zhang,Physics and Astronomy,2,1,5,0.98252,0
+A5111312075,Benjamin David,Physics and Astronomy,2,1,5,0.98252,0
 A5106786166,Luca Valsan,Physics and Astronomy; Mathematics,4,1,1,0.708137,0.206378
 A5099282343,A. Silberztein,Physics and Astronomy; Materials Science; Engineering,3,1,3,0.939697,0.037271
 A5106493135,Christian Sprang,Medicine; Physics and Astronomy; Chemistry,4,1,2,0.696625,0.07154
-A5016101353,Phillip Todd,Physics and Astronomy,2,1,36,1.0,0.0
+A5016101353,Phillip Todd,Physics and Astronomy,2,1,36,1,0
 A5022762694,Md Hosne Mobarak Shamim,Engineering; Materials Science; Physics and Astronomy,4,1,3,0.722448,0.112934
-A5045544337,R. Collister,Environmental Science; Physics and Astronomy; Health Professions,3,1,2,0.560897,0.0
-A5078687604,Samskruthi Ganjam,Physics and Astronomy; Engineering,2,1,14,0.985852,0.0
-A5015346071,Yun Hua,Materials Science; Engineering; Physics and Astronomy,2,1,128,0.997854,0.0
+A5045544337,R. Collister,Environmental Science; Physics and Astronomy; Health Professions,3,1,2,0.560897,0
+A5078687604,Samskruthi Ganjam,Physics and Astronomy; Engineering,2,1,14,0.985852,0
+A5015346071,Yun Hua,Materials Science; Engineering; Physics and Astronomy,2,1,128,0.997854,0
 A5094196414,Louis Lortie,"Computer Science; Physics and Astronomy; Economics, Econometrics and Finance",3,1,2,0.928457,0.041693
-A5014841843,F. Poitevin,Physics and Astronomy; Materials Science,2,1,3,0.991576,0.0
+A5014841843,F. Poitevin,Physics and Astronomy; Materials Science,2,1,3,0.991576,0
 A5093808818,Siera Riel,Engineering; Physics and Astronomy,3,1,1,0.758153,0.049647
 A5093734276,Sam N. R. Bovey,Materials Science; Physics and Astronomy,3,1,5,0.94533,0.03522
 A5042458775,Nizamuddin Hussain,Engineering; Physics and Astronomy,3,1,1,0.837093,0.070017
-A5046658694,Gabriel Martine La Boissonière,Materials Science; Physics and Astronomy; Engineering,2,1,6,0.621478,0.0
-A5045849112,Richard Kelson,Environmental Science; Physics and Astronomy; Earth and Planetary Sciences,2,1,18,0.81357,0.0
-A5014309671,Feras S. J. Michael,Physics and Astronomy; Engineering; Materials Science,2,1,5,0.52977,0.0
-A5041755901,S. Al Kharusi,Environmental Science; Physics and Astronomy; Health Professions,3,1,2,0.560897,0.0
-A5076871314,John A. Linton,"Earth and Planetary Sciences; Physics and Astronomy; Economics, Econometrics and Finance",2,1,5,0.473635,0.0
+A5046658694,Gabriel Martine La Boissonière,Materials Science; Physics and Astronomy; Engineering,2,1,6,0.621478,0
+A5045849112,Richard Kelson,Environmental Science; Physics and Astronomy; Earth and Planetary Sciences,2,1,18,0.81357,0
+A5014309671,Feras S. J. Michael,Physics and Astronomy; Engineering; Materials Science,2,1,5,0.52977,0
+A5041755901,S. Al Kharusi,Environmental Science; Physics and Astronomy; Health Professions,3,1,2,0.560897,0
+A5076871314,John A. Linton,"Earth and Planetary Sciences; Physics and Astronomy; Economics, Econometrics and Finance",2,1,5,0.473635,0
 A5092228629,Josephine La Macchia,Medicine; Physics and Astronomy; Engineering,3,1,8,0.432799,0.107209
 A5091667566,Manlin Zhang,Materials Science; Chemistry; Physics and Astronomy,3,1,1,0.640896,0.021382
-A5045059405,Lauren Libenson,Neuroscience; Physics and Astronomy; Psychology,2,1,36,0.80502,0.0
-A5044570862,Qizhong Lao,Engineering; Physics and Astronomy,2,1,4,0.429866,0.0
-A5108565048,Arakaparampil M. Mathai,Physics and Astronomy; Mathematics,2,1,4,0.460365,0.0
+A5045059405,Lauren Libenson,Neuroscience; Physics and Astronomy; Psychology,2,1,36,0.80502,0
+A5044570862,Qizhong Lao,Engineering; Physics and Astronomy,2,1,4,0.429866,0
+A5108565048,Arakaparampil M. Mathai,Physics and Astronomy; Mathematics,2,1,4,0.460365,0
 A5090770067,M. J. Bertrand,"Physics and Astronomy; Medicine; Biochemistry, Genetics and Molecular Biology",3,1,38,0.629549,0.126725
-A5012771783,Marya Sawaf,Physics and Astronomy; Medicine,2,1,1,0.935791,0.0
+A5012771783,Marya Sawaf,Physics and Astronomy; Medicine,2,1,1,0.935791,0
 A5041234108,Miguel Angel de la Fuente Lopez,Psychology; Environmental Science; Physics and Astronomy,33,1,3,0.224389,0.17222
-A5039843906,Odette Rios-Ibacache,Medicine; Physics and Astronomy,3,1,10,0.423258,0.0
+A5039843906,Odette Rios-Ibacache,Medicine; Physics and Astronomy,3,1,10,0.423258,0
 A5012324740,Alan E. L. Chuah,Engineering; Physics and Astronomy,4,1,6,0.632165,0.119711
 A5012117222,Dhvani Doshi,Physics and Astronomy; Chemistry; Earth and Planetary Sciences,4,1,9,0.535217,0.086345
-A5076337280,Noel Blais,"Physics and Astronomy; Medicine; Biochemistry, Genetics and Molecular Biology",2,1,7,0.769181,0.0
-A5075972442,Imam Maartense,Chemistry; Materials Science; Physics and Astronomy,2,1,1,0.692051,0.0
+A5076337280,Noel Blais,"Physics and Astronomy; Medicine; Biochemistry, Genetics and Molecular Biology",2,1,7,0.769181,0
+A5075972442,Imam Maartense,Chemistry; Materials Science; Physics and Astronomy,2,1,1,0.692051,0
 A5102655313,Hossein Jafarzadeh,Physics and Astronomy; Engineering; Computer Science,4,1,7,0.440461,0.030556
-A5100591678,Abdulaziz Karam Ali,Medicine; Physics and Astronomy,4,1,2,0.134678,0.0
+A5100591678,Abdulaziz Karam Ali,Medicine; Physics and Astronomy,4,1,2,0.134678,0
 A5099024679,Benjamin Cheung,Physics and Astronomy,4,1,7,0.861654,0.085019
 A5099024678,Sara Babic,Physics and Astronomy,4,1,7,0.861654,0.085019
-A5041677994,J. K. P. Lee,Physics and Astronomy; Chemistry,2,1,28,0.85657,0.0
+A5041677994,J. K. P. Lee,Physics and Astronomy; Chemistry,2,1,28,0.85657,0
 A5019167407,H. A. Allard,Physics and Astronomy; Environmental Science; Earth and Planetary Sciences,6,1,1,0.084674,0.054819
 A5093931946,Laurie Amen,Physics and Astronomy; Earth and Planetary Sciences,4,1,8,0.780254,0.097117
 A5093734275,Bahar Molavi,Materials Science; Physics and Astronomy,4,1,5,0.725841,0.128539
-A5075254948,R. Tabti,Physics and Astronomy,2,1,18,0.804305,0.0
-A5075100080,John O. Clayton,Physics and Astronomy,2,1,6,0.439049,0.0
-A5074750905,Yuze Kevin Liu,Physics and Astronomy; Materials Science; Computer Science,2,1,14,0.215072,0.0
+A5075254948,R. Tabti,Physics and Astronomy,2,1,18,0.804305,0
+A5075100080,John O. Clayton,Physics and Astronomy,2,1,6,0.439049,0
+A5074750905,Yuze Kevin Liu,Physics and Astronomy; Materials Science; Computer Science,2,1,14,0.215072,0
 A5093418566,Keivan Namjou,Physics and Astronomy,8,1,10,0.675534,0.128326
-A5074507972,Hongsun Seon,Engineering; Physics and Astronomy,2,1,5,0.895085,0.0
-A5033928792,G. Smecher,Physics and Astronomy; Medicine; Chemistry,3,1,2,0.506223,0.0
-A5074413411,Hariyanto Darmawan,"Biochemistry, Genetics and Molecular Biology; Materials Science; Physics and Astronomy",2,1,36,0.773162,0.0
-A5074061547,Harold Roussel,Physics and Astronomy; Computer Science,2,1,36,0.645113,0.0
-A5033262675,Mark Romer,Decision Sciences; Physics and Astronomy; Engineering,3,1,62,0.17561,0.0
-A5041052306,M. Lopez-Ayon,Physics and Astronomy; Chemical Engineering; Engineering,2,1,11,0.692114,0.0
+A5074507972,Hongsun Seon,Engineering; Physics and Astronomy,2,1,5,0.895085,0
+A5033928792,G. Smecher,Physics and Astronomy; Medicine; Chemistry,3,1,2,0.506223,0
+A5074413411,Hariyanto Darmawan,"Biochemistry, Genetics and Molecular Biology; Materials Science; Physics and Astronomy",2,1,36,0.773162,0
+A5074061547,Harold Roussel,Physics and Astronomy; Computer Science,2,1,36,0.645113,0
+A5033262675,Mark Romer,Decision Sciences; Physics and Astronomy; Engineering,3,1,62,0.17561,0
+A5041052306,M. Lopez-Ayon,Physics and Astronomy; Chemical Engineering; Engineering,2,1,11,0.692114,0
 A5034528043,Sanghyeon Song,Earth and Planetary Sciences; Physics and Astronomy; Environmental Science,9,1,25,0.45818,0.221597
 A5087655515,Tommy Cai,Physics and Astronomy; Engineering,3,1,9,0.828008,0.072155
-A5072812519,Ali Daher,Computer Science; Physics and Astronomy,2,1,6,0.862267,0.0
-A5072752401,L. R. Chen,Engineering; Physics and Astronomy,2,1,15,0.557904,0.0
+A5072812519,Ali Daher,Computer Science; Physics and Astronomy,2,1,6,0.862267,0
+A5072752401,L. R. Chen,Engineering; Physics and Astronomy,2,1,15,0.557904,0
 A5093280614,Aleksandr Odelskii,Environmental Science; Materials Science; Physics and Astronomy,4,1,3,0.491768,0.165029
 A5092885825,Sebastien J. Avakian,Computer Science; Physics and Astronomy; Materials Science,4,1,2,0.686987,0.207155
 A5086494251,Logan Fairgrieve‐Park,Medicine; Engineering; Physics and Astronomy,8,1,41,0.419398,0.260306
 A5024630450,C. Gale,Physics and Astronomy; Computer Science,5,1,2,0.676568,0.083089
-A5008632282,Alexander Gass,Physics and Astronomy; Earth and Planetary Sciences; Chemistry,2,1,29,0.963678,0.0
+A5008632282,Alexander Gass,Physics and Astronomy; Earth and Planetary Sciences; Chemistry,2,1,29,0.963678,0
 A5021512115,Farimah Poursafaei,Physics and Astronomy; Computer Science; Engineering,9,1,33,0.539857,0.1444
 A5084527356,Dennis Kan,Engineering; Physics and Astronomy,3,1,2,0.712485,0.111192
-A5007809781,Margaret Bruna,Physics and Astronomy; Earth and Planetary Sciences,2,1,3,0.968016,0.0
-A5039341177,M. Angeles Laguna Gomez,Engineering; Physics and Astronomy; Environmental Science,2,1,7,0.379074,0.0
-A5038816552,L. Parameswaran,Engineering; Medicine; Physics and Astronomy,2,1,393,0.657938,0.0
-A5105402742,Khadija Iqbal,Physics and Astronomy; Materials Science; Chemistry,2,1,19,0.165898,0.0
-A5081887178,G. L. Moore,Physics and Astronomy; Engineering,3,1,6,0.353394,0.0
-A5006734899,J. -F. Cliche,Physics and Astronomy,2,1,4,0.49407,0.0
-A5006305661,Harrisonn Griffin,Physics and Astronomy; Chemical Engineering,2,1,10,0.990233,0.0
-A5005801433,M. A. Dobbs,Physics and Astronomy; Earth and Planetary Sciences,2,1,11,0.566779,0.0
+A5007809781,Margaret Bruna,Physics and Astronomy; Earth and Planetary Sciences,2,1,3,0.968016,0
+A5039341177,M. Angeles Laguna Gomez,Engineering; Physics and Astronomy; Environmental Science,2,1,7,0.379074,0
+A5038816552,L. Parameswaran,Engineering; Medicine; Physics and Astronomy,2,1,393,0.657938,0
+A5105402742,Khadija Iqbal,Physics and Astronomy; Materials Science; Chemistry,2,1,19,0.165898,0
+A5081887178,G. L. Moore,Physics and Astronomy; Engineering,3,1,6,0.353394,0
+A5006734899,J. -F. Cliche,Physics and Astronomy,2,1,4,0.49407,0
+A5006305661,Harrisonn Griffin,Physics and Astronomy; Chemical Engineering,2,1,10,0.990233,0
+A5005801433,M. A. Dobbs,Physics and Astronomy; Earth and Planetary Sciences,2,1,11,0.566779,0
 A5002680736,Cuc T K Lý,Physics and Astronomy,4,1,1,0.650821,0.225906
-A5079308883,Mélisande Fortin Boisvert,Physics and Astronomy; Mathematics,4,1,2,0.658364,0.0
+A5079308883,Mélisande Fortin Boisvert,Physics and Astronomy; Mathematics,4,1,2,0.658364,0
 A5026112239,Dylan Caverly,Engineering; Decision Sciences; Physics and Astronomy,3,1,4,0.399015,0.049654
-A5078772742,Philippe St. Jean,Computer Science; Medicine; Physics and Astronomy,3,1,7,0.573732,0.0
+A5078772742,Philippe St. Jean,Computer Science; Medicine; Physics and Astronomy,3,1,7,0.573732,0
 A5009209328,Da-Xi Li,Physics and Astronomy; Mathematics,5,1,10,0.794067,0.041779
 A5123461384,Damiano Pasini,Engineering; Physics and Astronomy,5,1,1,0.520669,0.080903
 A5115028397,Simon Bernier,Engineering; Physics and Astronomy,7,1,17,0.615157,0.190577
-A5102294292,Cai Yi,"Physics and Astronomy; Biochemistry, Genetics and Molecular Biology; Agricultural and Biological Sciences",2,1,1,0.060674,0.0
-A5067825661,T. Pereg-Barnea,Physics and Astronomy; Computer Science,2,1,1,0.53586,0.0
-A5101801959,Yi-bo Zhong,Physics and Astronomy; Engineering,2,1,13,0.32505,0.0
-A5101292855,Yonger Xie,Chemistry; Engineering; Physics and Astronomy,2,1,3,0.536359,0.0
-A5067192077,V. Milthers,"Physics and Astronomy; Environmental Science; Biochemistry, Genetics and Molecular Biology",2,1,9,0.285566,0.0
-A5037525166,Avya Stolow,"Physics and Astronomy; Engineering; Biochemistry, Genetics and Molecular Biology",2,1,15,0.249035,0.0
-A5037409328,E. L. Chuah,Physics and Astronomy; Engineering; Materials Science,2,1,5,0.52977,0.0
+A5102294292,Cai Yi,"Physics and Astronomy; Biochemistry, Genetics and Molecular Biology; Agricultural and Biological Sciences",2,1,1,0.060674,0
+A5067825661,T. Pereg-Barnea,Physics and Astronomy; Computer Science,2,1,1,0.53586,0
+A5101801959,Yi-bo Zhong,Physics and Astronomy; Engineering,2,1,13,0.32505,0
+A5101292855,Yonger Xie,Chemistry; Engineering; Physics and Astronomy,2,1,3,0.536359,0
+A5067192077,V. Milthers,"Physics and Astronomy; Environmental Science; Biochemistry, Genetics and Molecular Biology",2,1,9,0.285566,0
+A5037525166,Avya Stolow,"Physics and Astronomy; Engineering; Biochemistry, Genetics and Molecular Biology",2,1,15,0.249035,0
+A5037409328,E. L. Chuah,Physics and Astronomy; Engineering; Materials Science,2,1,5,0.52977,0
 A5007353024,C. Chambers,Physics and Astronomy,5,1,1,0.410332,0.102658
 A5109654719,Yujing Zou,Medicine; Physics and Astronomy,10,1,1,0.422702,0.222438
-A5076345669,J. Thorgrimson,Computer Science; Physics and Astronomy,3,1,8,0.591751,0.0
+A5076345669,J. Thorgrimson,Computer Science; Physics and Astronomy,3,1,8,0.591751,0
 A5073455547,Jack Tisdell,Physics and Astronomy; Computer Science; Neuroscience,4,1,2,0.859869,0.092074
 A5071517000,C. Sabau,Medicine; Physics and Astronomy; Engineering,4,1,1,0.515996,0.231982
 A5118814404,Evan Davies-Velie,Physics and Astronomy,5,1,8,0.738085,0.112048
-A5116121096,Martina Elia Vitoloni,Physics and Astronomy; Medicine; Environmental Science,5,1,2,0.52027,0.0
-A5066229240,C. Kim,Physics and Astronomy,2,1,62,0.25141,0.0
-A5100257831,Samir Goorachurn,Physics and Astronomy,2,1,4,0.984532,0.0
-A5100019001,Christopher Barbarie,Physics and Astronomy; Earth and Planetary Sciences; Engineering,2,1,2,0.649181,0.0
-A5099282342,F. Boivin,Materials Science; Physics and Astronomy,2,1,3,0.992406,0.0
+A5116121096,Martina Elia Vitoloni,Physics and Astronomy; Medicine; Environmental Science,5,1,2,0.52027,0
+A5066229240,C. Kim,Physics and Astronomy,2,1,62,0.25141,0
+A5100257831,Samir Goorachurn,Physics and Astronomy,2,1,4,0.984532,0
+A5100019001,Christopher Barbarie,Physics and Astronomy; Earth and Planetary Sciences; Engineering,2,1,2,0.649181,0
+A5099282342,F. Boivin,Materials Science; Physics and Astronomy,2,1,3,0.992406,0
 A5069658613,A. Aram,Physics and Astronomy; Engineering,4,1,5,0.528048,0.107191
 A5072779196,Poupak Kermani,Medicine; Physics and Astronomy; Health Professions,3,1,1,0.859702,0.07861
 A5019609707,Jake Elituv,Physics and Astronomy,3,1,3,0.89158,0.060156
-A5097357870,Marco Mignacca,Computer Science; Engineering; Physics and Astronomy,2,1,3,0.998248,0.0
-A5096893022,Cassandra Diggiss,Neuroscience; Physics and Astronomy; Psychology,2,1,1,0.95152,0.0
-A5034839665,Sabrina Côté Maldonado,Physics and Astronomy; Computer Science; Medicine,2,1,2,0.967152,0.0
-A5034592106,Jessica Pawly,Nursing; Physics and Astronomy; Environmental Science,2,1,4,0.98788,0.0
-A5071897009,Ioulia Kvasnikova,Physics and Astronomy,3,1,21,0.550838,0.0
+A5097357870,Marco Mignacca,Computer Science; Engineering; Physics and Astronomy,2,1,3,0.998248,0
+A5096893022,Cassandra Diggiss,Neuroscience; Physics and Astronomy; Psychology,2,1,1,0.95152,0
+A5034839665,Sabrina Côté Maldonado,Physics and Astronomy; Computer Science; Medicine,2,1,2,0.967152,0
+A5034592106,Jessica Pawly,Nursing; Physics and Astronomy; Environmental Science,2,1,4,0.98788,0
+A5071897009,Ioulia Kvasnikova,Physics and Astronomy,3,1,21,0.550838,0
 A5015957882,G. Wang,Physics and Astronomy; Neuroscience; Engineering,3,1,174,0.236154,0.18907
 A5108920299,Dominic Blanco,"Computer Science; Biochemistry, Genetics and Molecular Biology; Physics and Astronomy",5,1,1,0.546863,0.268692
 A5014351984,Taylor Dibblee-Barkman,Physics and Astronomy; Engineering,3,1,184,0.701261,0.195666
-A5033025508,C. Park,Physics and Astronomy,2,1,82,1.0,0.0
-A5032412667,S. Pecknold,"Earth and Planetary Sciences; Physics and Astronomy; Economics, Econometrics and Finance",2,1,7,0.596759,0.0
+A5033025508,C. Park,Physics and Astronomy,2,1,82,1,0
+A5032412667,S. Pecknold,"Earth and Planetary Sciences; Physics and Astronomy; Economics, Econometrics and Finance",2,1,7,0.596759,0
 A5114425299,Sandhya Rottoo,Physics and Astronomy; Medicine,6,1,4,0.451939,0.132888
 A5106492571,Polina Blinova,Physics and Astronomy; Engineering,5,1,1,0.931466,0.050448
 A5084598118,Bayar Goswami,Physics and Astronomy; Social Sciences; Environmental Science,7,1,14,0.615865,0.182231
 A5083430210,Calista Biondic,Physics and Astronomy; Decision Sciences; Engineering,7,1,4,0.612934,0.191874
-A5002731219,S. C. Nowicki,Physics and Astronomy; Chemistry; Environmental Science,2,1,3,0.449828,0.0
+A5002731219,S. C. Nowicki,Physics and Astronomy; Chemistry; Environmental Science,2,1,3,0.449828,0
 A5031179979,Jeanne Brown,Psychology; Social Sciences; Physics and Astronomy,8,1,74,0.649437,0.160104
-A5031854116,M. Liu,Medicine; Physics and Astronomy; Neuroscience,2,1,3,0.317324,0.0
+A5031854116,M. Liu,Medicine; Physics and Astronomy; Neuroscience,2,1,3,0.317324,0
 A5111352897,Morgan J. Maher,Physics and Astronomy; Engineering,6,1,6,0.561076,0.011845
 A5093751351,Rouzbeh Modarresi-Yazdi,Physics and Astronomy,5,1,18,0.694429,0.142408
 A5093232017,Kayla O'Sullivan‐Steben,Physics and Astronomy; Computer Science; Medicine,5,1,5,0.500909,0.141713
 A5027255206,Artem Kalmykov,Mathematics; Physics and Astronomy,8,1,3,0.683857,0.11235
-A5061569485,Dasen Ye,Physics and Astronomy; Mathematics,2,1,2,0.992133,0.0
-A5060768300,Yoshihiko Ngai,Materials Science; Physics and Astronomy; Engineering,2,1,3,0.268982,0.0
-A5093577350,Gebrehiwot Zewedi,Engineering; Physics and Astronomy,2,1,4,0.841704,0.0
-A5030732277,Ron Belyansky,Physics and Astronomy; Chemical Engineering,2,1,10,0.990233,0.0
-A5030584762,Jean-Claude. Anctil,Physics and Astronomy; Medicine,2,1,40,0.831102,0.0
-A5030034217,D Cortés-Poza,Physics and Astronomy; Engineering,2,1,1,0.520405,0.0
+A5061569485,Dasen Ye,Physics and Astronomy; Mathematics,2,1,2,0.992133,0
+A5060768300,Yoshihiko Ngai,Materials Science; Physics and Astronomy; Engineering,2,1,3,0.268982,0
+A5093577350,Gebrehiwot Zewedi,Engineering; Physics and Astronomy,2,1,4,0.841704,0
+A5030732277,Ron Belyansky,Physics and Astronomy; Chemical Engineering,2,1,10,0.990233,0
+A5030584762,Jean-Claude. Anctil,Physics and Astronomy; Medicine,2,1,40,0.831102,0
+A5030034217,D Cortés-Poza,Physics and Astronomy; Engineering,2,1,1,0.520405,0
 A5128993954,Yan Su,Physics and Astronomy; Engineering; Energy,3,0,0,0.343451,0.122161
-A5123765425,Oliver Guy,Physics and Astronomy; Computer Science; Psychology,2,0,0,0.16812,0.0
+A5123765425,Oliver Guy,Physics and Astronomy; Computer Science; Psychology,2,0,0,0.16812,0
 A5123592513,Shayan Hajhashemi,"Biochemistry, Genetics and Molecular Biology; Physics and Astronomy; Mathematics",3,0,0,0.711879,0.203733
-A5123519110,Peter Watson,Physics and Astronomy; Medicine; Agricultural and Biological Sciences,3,0,0,1.0,0.0
+A5123519110,Peter Watson,Physics and Astronomy; Medicine; Agricultural and Biological Sciences,3,0,0,1,0
 A5120637396,Reishi Maeta,Computer Science; Physics and Astronomy; Mathematics,3,0,0,0.671256,0.232457
 A5070240483,D Milroy,Physics and Astronomy; Medicine; Engineering,3,0,0,0.6575,0.166654
-A5091536537,M. David,Computer Science; Physics and Astronomy; Health Professions,2,0,0,0.999709,0.0
-A5122152658,R. Brandenberger,Physics and Astronomy,2,0,0,0.751433,0.0
-A5121958556,B. Nicolas Cowan,Physics and Astronomy,2,0,0,0.582958,0.0
-A5119889493,Nicolas Desjardins-Proulx,Engineering; Medicine; Physics and Astronomy,2,0,0,0.945121,0.0
-A5119146596,Nicolas Bosteels,Engineering; Physics and Astronomy; Computer Science,2,0,0,0.921476,0.0
-A5057608073,S. O. Rapagna,Health Professions; Neuroscience; Physics and Astronomy,2,0,0,1.0,0.0
+A5091536537,M. David,Computer Science; Physics and Astronomy; Health Professions,2,0,0,0.999709,0
+A5122152658,R. Brandenberger,Physics and Astronomy,2,0,0,0.751433,0
+A5121958556,B. Nicolas Cowan,Physics and Astronomy,2,0,0,0.582958,0
+A5119889493,Nicolas Desjardins-Proulx,Engineering; Medicine; Physics and Astronomy,2,0,0,0.945121,0
+A5119146596,Nicolas Bosteels,Engineering; Physics and Astronomy; Computer Science,2,0,0,0.921476,0
+A5057608073,S. O. Rapagna,Health Professions; Neuroscience; Physics and Astronomy,2,0,0,1,0
 A5093129982,Caelan Atamanchuk,Physics and Astronomy; Mathematics; Computer Science,11,0,0,0.608147,0.12215
-A5063800380,Joel Phillips,Engineering; Physics and Astronomy,3,0,0,0.079181,0.0
-A5063580534,B.U. Nguyen,Physics and Astronomy; Computer Science,3,0,0,0.549844,0.0
-A5056075493,Jinghao Qiao,Engineering; Materials Science; Physics and Astronomy,2,0,0,0.67969,0.0
+A5063800380,Joel Phillips,Engineering; Physics and Astronomy,3,0,0,0.079181,0
+A5063580534,B.U. Nguyen,Physics and Astronomy; Computer Science,3,0,0,0.549844,0
+A5056075493,Jinghao Qiao,Engineering; Materials Science; Physics and Astronomy,2,0,0,0.67969,0
 A5005155358,Clara Wang,Neuroscience; Physics and Astronomy; Engineering,3,0,0,0.324849,0.189263
-A5004104719,Aqueel Shahid,Medicine; Physics and Astronomy,3,0,0,0.668791,0.0
+A5004104719,Aqueel Shahid,Medicine; Physics and Astronomy,3,0,0,0.668791,0
 A5110619362,Ralph O. Jr. Moyer,Physics and Astronomy; Materials Science; Chemical Engineering,3,0,0,0.42803,0.209441
 A5043525271,S Lee,Physics and Astronomy; Medicine; Engineering,4,0,0,0.479354,0.178049
-A5069061472,P.C. Watson,Engineering; Physics and Astronomy,6,0,0,0.270194,0.0
+A5069061472,P.C. Watson,Engineering; Physics and Astronomy,6,0,0,0.270194,0
 A5068131340,Laurent René de Cotret,Engineering; Materials Science; Physics and Astronomy,6,0,0,0.511278,0.038006
 A5123269852,Félix St-Amour,Environmental Science; Physics and Astronomy; Earth and Planetary Sciences,4,0,0,0.328292,0.302146
 A5109556766,Songrui Zhao,"Physics and Astronomy; Biochemistry, Genetics and Molecular Biology; Engineering",3,0,0,0.307501,0.189331
-A5037558733,Andrea J Harrington,Physics and Astronomy; Social Sciences; Engineering,4,0,0,0.169634,0.0
-A5020459081,Daria Gipsman,Computer Science; Engineering; Physics and Astronomy,2,0,0,0.780024,0.0
-A5050505835,A. Kumar,Physics and Astronomy; Computer Science; Decision Sciences,3,0,0,0.774274,0.0
-A5082129751,Claudia I. Bielecki,Physics and Astronomy,2,0,0,0.985249,0.0
-A5101148026,Michael C. Mackey,Physics and Astronomy; Arts and Humanities; Decision Sciences,3,0,0,0.087174,0.0
-A5111524348,Anthonin Reihlac,Medicine; Physics and Astronomy; Engineering,2,0,0,0.593497,0.0
+A5037558733,Andrea J Harrington,Physics and Astronomy; Social Sciences; Engineering,4,0,0,0.169634,0
+A5020459081,Daria Gipsman,Computer Science; Engineering; Physics and Astronomy,2,0,0,0.780024,0
+A5050505835,A. Kumar,Physics and Astronomy; Computer Science; Decision Sciences,3,0,0,0.774274,0
+A5082129751,Claudia I. Bielecki,Physics and Astronomy,2,0,0,0.985249,0
+A5101148026,Michael C. Mackey,Physics and Astronomy; Arts and Humanities; Decision Sciences,3,0,0,0.087174,0
+A5111524348,Anthonin Reihlac,Medicine; Physics and Astronomy; Engineering,2,0,0,0.593497,0
 A5107628585,Julia Pasiecznik,Environmental Science; Chemistry; Physics and Astronomy,4,0,0,0.678328,0.198637
-A5109793243,Luyao Xie,Engineering; Physics and Astronomy; Materials Science,2,0,0,0.683499,0.0
+A5109793243,Luyao Xie,Engineering; Physics and Astronomy; Materials Science,2,0,0,0.683499,0
 A5093047927,Jacob Chmura,Computer Science; Physics and Astronomy; Social Sciences,3,0,0,0.399991,0.13492
-A5076301247,John H. S. Lee,Engineering; Physics and Astronomy,2,0,0,0.546685,0.0
+A5076301247,John H. S. Lee,Engineering; Physics and Astronomy,2,0,0,0.546685,0
 A5096942655,Tanya Matitia,Physics and Astronomy; Earth and Planetary Sciences; Social Sciences,4,0,0,0.94504,0.038863
 A5032051260,J. Chapleau,Physics and Astronomy; Medicine,5,0,0,0.640487,0.250019
 A5091655402,S. Jeon,Physics and Astronomy; Computer Science,4,0,0,0.635269,0.099072
-A5007244204,Albert Orozco,Computer Science; Physics and Astronomy; Social Sciences,2,0,0,0.665401,0.0
-A5039404266,W. A. Coish,Computer Science; Physics and Astronomy; Health Professions,2,0,0,0.999709,0.0
-A5038408501,Ghalia Alyazidi,Materials Science; Medicine; Physics and Astronomy,2,0,0,0.284228,0.0
-A5079386438,Fiona Gurr,Physics and Astronomy; Social Sciences; Engineering,3,0,0,0.147615,0.0
-A5122914869,Ming Mei,Mathematics; Engineering; Physics and Astronomy,5,0,0,0.921045,0.0
-A5103414353,J. B. Holmes,Physics and Astronomy; Medicine; Computer Science,2,0,0,0.133538,0.0
-A5102703842,Hazem Hassan,Mathematics; Physics and Astronomy; Computer Science,2,0,0,0.878043,0.0
+A5007244204,Albert Orozco,Computer Science; Physics and Astronomy; Social Sciences,2,0,0,0.665401,0
+A5039404266,W. A. Coish,Computer Science; Physics and Astronomy; Health Professions,2,0,0,0.999709,0
+A5038408501,Ghalia Alyazidi,Materials Science; Medicine; Physics and Astronomy,2,0,0,0.284228,0
+A5079386438,Fiona Gurr,Physics and Astronomy; Social Sciences; Engineering,3,0,0,0.147615,0
+A5122914869,Ming Mei,Mathematics; Engineering; Physics and Astronomy,5,0,0,0.921045,0
+A5103414353,J. B. Holmes,Physics and Astronomy; Medicine; Computer Science,2,0,0,0.133538,0
+A5102703842,Hazem Hassan,Mathematics; Physics and Astronomy; Computer Science,2,0,0,0.878043,0
 A5003525493,Michel Godin,Chemical Engineering; Engineering; Physics and Astronomy,5,0,0,0.465899,0.377666
 A5114305901,Benazir Khurshid,Materials Science; Engineering; Physics and Astronomy,5,0,0,0.36475,0.10862
-A5099269082,Sofia Stellatou,Physics and Astronomy; Engineering; Social Sciences,2,0,0,0.77918,0.0
-A5098937063,J. Mainville,Physics and Astronomy; Mathematics; Materials Science,2,0,0,0.899398,0.0
+A5099269082,Sofia Stellatou,Physics and Astronomy; Engineering; Social Sciences,2,0,0,0.77918,0
+A5098937063,J. Mainville,Physics and Astronomy; Mathematics; Materials Science,2,0,0,0.899398,0
 A5073023023,Qihua David Zhang,Physics and Astronomy; Materials Science; Engineering,3,0,0,0.64959,0.048424
 A5099566251,Michel Adamič,Physics and Astronomy; Engineering,7,0,0,0.687122,0.140171
 A5018329618,Marc-Antoine Leclerc,"Physics and Astronomy; Biochemistry, Genetics and Molecular Biology; Materials Science",3,0,0,0.267493,0.062056
 A5043937268,Paul Scholz,Physics and Astronomy; Earth and Planetary Sciences; Engineering,8,0,0,0.81669,0.152434
 A5089763294,Jessica Gauthier,Physics and Astronomy; Materials Science,7,0,0,0.108225,0.076238
-A5129024272,Shaun Lovejoy,"Environmental Science; Physics and Astronomy; Economics, Econometrics and Finance",2,0,0,0.415825,0.0
-A5062809627,Michele Ann Jenkins,Physics and Astronomy; Social Sciences,2,0,0,1.0,0.0
-A5094537677,Öğretim Üyesi,Physics and Astronomy; Arts and Humanities; Psychology,2,0,0,0.381841,0.0
-A5031173834,L.R. Chen,Engineering; Physics and Astronomy,2,0,0,0.833161,0.0
-A5094346017,Christopher Lachance-Brais,Physics and Astronomy; Engineering,2,0,0,1.0,0.0
-A5093815891,Xavier Duchesne,Engineering; Physics and Astronomy,2,0,0,0.372671,0.0
-A5093445537,Mathieu B. César,Physics and Astronomy; Engineering; Materials Science,2,0,0,1.0,0.0
-A5030544392,J. Kim,Environmental Science; Physics and Astronomy; Agricultural and Biological Sciences,2,0,0,0.245722,0.0
-A5030051461,David I. McIntosh,Mathematics; Arts and Humanities; Physics and Astronomy,2,0,0,0.22343,0.0
+A5129024272,Shaun Lovejoy,"Environmental Science; Physics and Astronomy; Economics, Econometrics and Finance",2,0,0,0.415825,0
+A5062809627,Michele Ann Jenkins,Physics and Astronomy; Social Sciences,2,0,0,1,0
+A5094537677,Öğretim Üyesi,Physics and Astronomy; Arts and Humanities; Psychology,2,0,0,0.381841,0
+A5031173834,L.R. Chen,Engineering; Physics and Astronomy,2,0,0,0.833161,0
+A5094346017,Christopher Lachance-Brais,Physics and Astronomy; Engineering,2,0,0,1,0
+A5093815891,Xavier Duchesne,Engineering; Physics and Astronomy,2,0,0,0.372671,0
+A5093445537,Mathieu B. César,Physics and Astronomy; Engineering; Materials Science,2,0,0,1,0
+A5030544392,J. Kim,Environmental Science; Physics and Astronomy; Agricultural and Biological Sciences,2,0,0,0.245722,0
+A5030051461,David I. McIntosh,Mathematics; Arts and Humanities; Physics and Astronomy,2,0,0,0.22343,0

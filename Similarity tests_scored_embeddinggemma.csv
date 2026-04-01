@@ -1,0 +1,12 @@
+first_sentence,second_sentence,Pairs,Embedding Gemma,Sentence transformers,Spacy
+The quick brown fox jumps.,The quick brown fox jumps.,Identical,1,1,1
+A person is slicing an onion.,Someone is cutting an onion.,Synonyms,0.9385159,0.925557059,0.95082283
+The movie was incredible.,The film was great.,Synonyms,0.799761085,0.865220841,0.948588014
+I forgot my password.,How do I recover my password?,Synonyms,0.836711788,0.745863433,0.907055259
+He is a professional athlete.,He plays sports for a living.,Synonyms,0.799138356,0.790294999,0.871811509
+I love eating green apples.,I enjoy eating red apples.,Synonyms,0.81326723,0.825197162,0.966565549
+The cat ate the mouse.,The mouse ate the cat.,Antonym,0.977415789,0.960512958,1
+Python is a programming language.,A python is a large snake.,Homonym,0.587478022,0.596703901,0.811872363
+The bank is closed today.,I sat on the river bank.,Homonym,0.323705338,0.148610499,0.841388881
+The sky is blue today.,I need to buy new shoes.,Unrelated,0.426133777,0.089312631,0.711321115
+Stock prices are rising.,Please pass the salt.,Unrelated,0.374608211,0.014917066,0.602197707
