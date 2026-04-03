@@ -699,6 +699,13 @@ def plot_similarities_vs_h_index(author_ids, h_index_cache=None,
         print("No new similarity data to plot.")
         return
  
+
+
+
+
+    # Plot generation section
+    # edit the following to create different plots as desired
+
     fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(12, 5))
  
     ax1.scatter(all_h, all_sims, alpha=0.7)
