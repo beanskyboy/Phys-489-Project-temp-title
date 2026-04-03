@@ -1,379 +1,352 @@
-abstract_i,abstract_j,cosine_similarity
-0,1,0.41155
-0,2,0.376711
-0,3,0.345966
-0,4,0.393897
-0,5,-0.014073
-0,6,0.372406
-0,7,0.356467
-0,8,0.316161
-0,9,0.232213
-0,10,0.103968
-0,11,0.297697
-0,12,0.302225
-0,13,0.473308
-0,14,0.349057
-0,15,0.521918
-0,16,0.397759
-0,17,0.62815
-0,18,0.359782
-0,19,0.390522
-0,20,0.215915
-0,21,0.285293
-0,22,0.692444
-0,23,0.282323
-0,24,0.319687
-0,25,0.397121
-0,26,0.370292
-0,27,0.739886
-1,2,0.466036
-1,3,0.421144
-1,4,0.540305
-1,5,0.05919
-1,6,0.31891
-1,7,0.488855
-1,8,0.391433
-1,9,0.430074
-1,10,0.098494
-1,11,0.329716
-1,12,0.453623
-1,13,0.481944
-1,14,0.360203
-1,15,0.458712
-1,16,0.463287
-1,17,0.513525
-1,18,0.517626
-1,19,0.513604
-1,20,0.005591
-1,21,0.351114
-1,22,0.334477
-1,23,0.251902
-1,24,0.335231
-1,25,0.410564
-1,26,0.440533
-1,27,0.363516
-2,3,0.424341
-2,4,0.554165
-2,5,0.000808
-2,6,0.473442
-2,7,0.573624
-2,8,0.457658
-2,9,0.471033
-2,10,0.083058
-2,11,0.30359
-2,12,0.355335
-2,13,0.475315
-2,14,0.390188
-2,15,0.432246
-2,16,0.446793
-2,17,0.38416
-2,18,0.532899
-2,19,0.559189
-2,20,-0.02163
-2,21,0.391502
-2,22,0.280467
-2,23,0.320699
-2,24,0.49213
-2,25,0.541601
-2,26,0.412498
-2,27,0.361489
-3,4,0.674914
-3,5,-0.007039
-3,6,0.508439
-3,7,0.509781
-3,8,0.556312
-3,9,0.376194
-3,10,0.063302
-3,11,0.482429
-3,12,0.7268
-3,13,0.436384
-3,14,0.469524
-3,15,0.379121
-3,16,0.623269
-3,17,0.375343
-3,18,0.603987
-3,19,0.469348
-3,20,-0.057674
-3,21,0.698178
-3,22,0.260646
-3,23,0.603162
-3,24,0.584908
-3,25,0.628067
-3,26,0.620179
-3,27,0.292735
-4,5,0.01812
-4,6,0.597515
-4,7,0.823523
-4,8,0.652273
-4,9,0.441427
-4,10,0.118683
-4,11,0.562242
-4,12,0.510831
-4,13,0.471871
-4,14,0.68618
-4,15,0.362151
-4,16,0.740865
-4,17,0.398056
-4,18,0.778462
-4,19,0.460479
-4,20,-0.098506
-4,21,0.664199
-4,22,0.228402
-4,23,0.530968
-4,24,0.588952
-4,25,0.676295
-4,26,0.719976
-4,27,0.347272
-5,6,-0.025458
-5,7,0.04858
-5,8,0.074883
-5,9,0.002964
-5,10,0.240175
-5,11,0.030317
-5,12,0.032903
-5,13,0.077266
-5,14,0.027181
-5,15,-0.018313
-5,16,-0.011076
-5,17,0.008939
-5,18,-0.00992
-5,19,0.052109
-5,20,-0.024847
-5,21,-0.030428
-5,22,-0.056267
-5,23,-0.01127
-5,24,0.015279
-5,25,0.002308
-5,26,-0.004834
-5,27,0.061202
-6,7,0.565765
-6,8,0.499763
-6,9,0.50487
-6,10,0.109883
-6,11,0.551025
-6,12,0.356325
-6,13,0.478853
-6,14,0.612267
-6,15,0.325814
-6,16,0.536173
-6,17,0.425816
-6,18,0.59071
-6,19,0.345362
-6,20,-0.004117
-6,21,0.4935
-6,22,0.297132
-6,23,0.624189
-6,24,0.604582
-6,25,0.58942
-6,26,0.549684
-6,27,0.370624
-7,8,0.664981
-7,9,0.471331
-7,10,0.096968
-7,11,0.44288
-7,12,0.376384
-7,13,0.434963
-7,14,0.671517
-7,15,0.28997
-7,16,0.631675
-7,17,0.304316
-7,18,0.707551
-7,19,0.478707
-7,20,-0.092641
-7,21,0.491367
-7,22,0.19029
-7,23,0.487044
-7,24,0.542796
-7,25,0.537596
-7,26,0.625338
-7,27,0.275657
-8,9,0.365345
-8,10,0.063406
-8,11,0.393088
-8,12,0.485238
-8,13,0.38493
-8,14,0.580809
-8,15,0.226003
-8,16,0.561892
-8,17,0.324322
-8,18,0.577934
-8,19,0.487554
-8,20,-0.033491
-8,21,0.449264
-8,22,0.1836
-8,23,0.473531
-8,24,0.612142
-8,25,0.47071
-8,26,0.617281
-8,27,0.270013
-9,10,0.034047
-9,11,0.351712
-9,12,0.343976
-9,13,0.531382
-9,14,0.42092
-9,15,0.304984
-9,16,0.528147
-9,17,0.338438
-9,18,0.471926
-9,19,0.396547
-9,20,-0.028955
-9,21,0.378466
-9,22,0.176311
-9,23,0.413693
-9,24,0.426936
-9,25,0.510521
-9,26,0.34267
-9,27,0.192383
-10,11,0.13183
-10,12,0.091643
-10,13,0.175242
-10,14,0.133399
-10,15,0.042373
-10,16,0.082836
-10,17,0.091252
-10,18,0.084213
-10,19,0.051868
-10,20,0.024211
-10,21,0.084445
-10,22,0.036484
-10,23,0.079956
-10,24,0.059701
-10,25,0.049994
-10,26,0.073473
-10,27,0.113005
-11,12,0.304565
-11,13,0.468521
-11,14,0.537095
-11,15,0.319928
-11,16,0.561135
-11,17,0.25827
-11,18,0.652384
-11,19,0.323033
-11,20,-0.040653
-11,21,0.504287
-11,22,0.273728
-11,23,0.535645
-11,24,0.592061
-11,25,0.623007
-11,26,0.518709
-11,27,0.3474
-12,13,0.380979
-12,14,0.365525
-12,15,0.448765
-12,16,0.471617
-12,17,0.434576
-12,18,0.429797
-12,19,0.466412
-12,20,-0.100727
-12,21,0.479129
-12,22,0.246252
-12,23,0.431584
-12,24,0.36366
-12,25,0.425915
-12,26,0.496701
-12,27,0.288559
-13,14,0.439032
-13,15,0.525536
-13,16,0.463762
-13,17,0.538728
-13,18,0.571695
-13,19,0.519682
-13,20,0.005276
-13,21,0.427977
-13,22,0.419321
-13,23,0.432215
-13,24,0.49715
-13,25,0.533448
-13,26,0.428332
-13,27,0.513375
-14,15,0.315122
-14,16,0.5491
-14,17,0.359268
-14,18,0.615067
-14,19,0.355979
-14,20,-0.047487
-14,21,0.522645
-14,22,0.203129
-14,23,0.533179
-14,24,0.571515
-14,25,0.555054
-14,26,0.615041
-14,27,0.341212
-15,16,0.437638
-15,17,0.670316
-15,18,0.407082
-15,19,0.548776
-15,20,0.006873
-15,21,0.372439
-15,22,0.514828
-15,23,0.287134
-15,24,0.375833
-15,25,0.515003
-15,26,0.33699
-15,27,0.475745
-16,17,0.420525
-16,18,0.717696
-16,19,0.495472
-16,20,-0.0836
-16,21,0.686946
-16,22,0.269432
-16,23,0.511579
-16,24,0.58783
-16,25,0.748051
-16,26,0.634368
-16,27,0.291295
-17,18,0.393884
-17,19,0.465985
-17,20,0.080718
-17,21,0.358566
-17,22,0.52159
-17,23,0.331369
-17,24,0.387074
-17,25,0.464875
-17,26,0.411876
-17,27,0.552617
-18,19,0.495933
-18,20,-0.131163
-18,21,0.613278
-18,22,0.249017
-18,23,0.573587
-18,24,0.611659
-18,25,0.681763
-18,26,0.604193
-18,27,0.314197
-19,20,-0.003838
-19,21,0.407074
-19,22,0.293305
-19,23,0.324949
-19,24,0.502889
-19,25,0.501243
-19,26,0.435915
-19,27,0.335026
-20,21,-0.065357
-20,22,0.305498
-20,23,-0.016031
-20,24,-0.022372
-20,25,-0.120949
-20,26,-0.112265
-20,27,0.113505
-21,22,0.202875
-21,23,0.625579
-21,24,0.622812
-21,25,0.702206
-21,26,0.646668
-21,27,0.253628
-22,23,0.157199
-22,24,0.296893
-22,25,0.298465
-22,26,0.265176
-22,27,0.557976
-23,24,0.590463
-23,25,0.610336
-23,26,0.588247
-23,27,0.249267
-24,25,0.607613
-24,26,0.613785
-24,27,0.352172
-25,26,0.65249
-25,27,0.373822
-26,27,0.324639
+title_i,title_j,cosine_similarity
+Lectures on Elementary Particles and Quantum Field Theory,"Supergravity and the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix",0.533448
+Lectures on Elementary Particles and Quantum Field Theory,One-Loop Renormalizability of Pure Supergravity and of Maxwell-Einstein Theory in Extended Supergravity,0.463762
+Lectures on Elementary Particles and Quantum Field Theory,Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field,0.005276
+Lectures on Elementary Particles and Quantum Field Theory,"Errata: Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field [J. Acoust. Soc. Am. <b>31</b>, 595 (1959)]",0.077266
+Lectures on Elementary Particles and Quantum Field Theory,"Zero Value for the Three-Loop<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>Function in<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:mn>4</mml:mn><mml:mn/></mml:math>Supersymmetric Yang-Mills Theory",0.434963
+Lectures on Elementary Particles and Quantum Field Theory,"Background-field method versus normal field theory in explicit examples: One-loop divergences in the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix and Green's functions for Yang-Mills and gravitational fields",0.481944
+Lectures on Elementary Particles and Quantum Field Theory,Gravitational Born amplitudes and kinematical constraints,0.525536
+Lectures on Elementary Particles and Quantum Field Theory,Theory of Low-Energy Nucleon-Nucleon Scattering,0.513375
+Lectures on Elementary Particles and Quantum Field Theory,Three-Particle Contributions to Elastic Scattering,0.419321
+Lectures on Elementary Particles and Quantum Field Theory,Supergravity corrections to electromagnetic form factors: a superspace calculation,0.428332
+Lectures on Elementary Particles and Quantum Field Theory,Gravitational corrections to lepton-lepton coulomb scattering,0.538728
+Lectures on Elementary Particles and Quantum Field Theory,On-shell counterterms and nonlinear invariances,0.531382
+Lectures on Elementary Particles and Quantum Field Theory,Reggeization and the question of higher-loop renormalizability of gravitation,0.519682
+Lectures on Elementary Particles and Quantum Field Theory,Solvable extensions of two-dimensional gravity,0.436384
+Lectures on Elementary Particles and Quantum Field Theory,"Superspace, or One thousand and one lessons in supersymmetry",0.175242
+Lectures on Elementary Particles and Quantum Field Theory,Fourth-Order Nucleon-Nucleon Dispersion Relations,0.473308
+Lectures on Elementary Particles and Quantum Field Theory,LOOP CALCULATIONS IN TWO-DIMENSIONAL NONLOCAL FIELD THEORIES,0.380979
+Lectures on Elementary Particles and Quantum Field Theory,Reggeization of scalars and dual model structure of Yang-Mills theory,0.475315
+Lectures on Elementary Particles and Quantum Field Theory,"Quantum (2,2) supergravity",0.427977
+Lectures on Elementary Particles and Quantum Field Theory,Nonanticommutative superspace and N= 1/2 WZ model,0.432215
+Lectures on Elementary Particles and Quantum Field Theory,Recent Developments in Supersymmetry and Supergravity,0.571695
+Lectures on Elementary Particles and Quantum Field Theory,Applications of superfield Feynman diagrams,0.471871
+Lectures on Elementary Particles and Quantum Field Theory,SUPERGRAPHS AND APPLICATIONS,0.439032
+Lectures on Elementary Particles and Quantum Field Theory,Lagrangian description of N=2 minimal models as critical points of\n Landau-Ginzburg theories.,0.49715
+Lectures on Elementary Particles and Quantum Field Theory,Effective Kähler Potentials,0.38493
+Lectures on Elementary Particles and Quantum Field Theory,"Supersymmetry, supergravity, superstrings '86 : proceedings of the Trieste Spring School, 7-15 April, 1986",0.468521
+"Supergravity and the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix",One-Loop Renormalizability of Pure Supergravity and of Maxwell-Einstein Theory in Extended Supergravity,0.748051
+"Supergravity and the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix",Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field,-0.120949
+"Supergravity and the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix","Errata: Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field [J. Acoust. Soc. Am. <b>31</b>, 595 (1959)]",0.002308
+"Supergravity and the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix","Zero Value for the Three-Loop<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>Function in<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:mn>4</mml:mn><mml:mn/></mml:math>Supersymmetric Yang-Mills Theory",0.537596
+"Supergravity and the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix","Background-field method versus normal field theory in explicit examples: One-loop divergences in the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix and Green's functions for Yang-Mills and gravitational fields",0.410564
+"Supergravity and the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix",Gravitational Born amplitudes and kinematical constraints,0.515003
+"Supergravity and the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix",Theory of Low-Energy Nucleon-Nucleon Scattering,0.373822
+"Supergravity and the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix",Three-Particle Contributions to Elastic Scattering,0.298465
+"Supergravity and the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix",Supergravity corrections to electromagnetic form factors: a superspace calculation,0.65249
+"Supergravity and the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix",Gravitational corrections to lepton-lepton coulomb scattering,0.464875
+"Supergravity and the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix",On-shell counterterms and nonlinear invariances,0.510521
+"Supergravity and the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix",Reggeization and the question of higher-loop renormalizability of gravitation,0.501243
+"Supergravity and the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix",Solvable extensions of two-dimensional gravity,0.628067
+"Supergravity and the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix","Superspace, or One thousand and one lessons in supersymmetry",0.049994
+"Supergravity and the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix",Fourth-Order Nucleon-Nucleon Dispersion Relations,0.397121
+"Supergravity and the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix",LOOP CALCULATIONS IN TWO-DIMENSIONAL NONLOCAL FIELD THEORIES,0.425915
+"Supergravity and the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix",Reggeization of scalars and dual model structure of Yang-Mills theory,0.541601
+"Supergravity and the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix","Quantum (2,2) supergravity",0.702206
+"Supergravity and the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix",Nonanticommutative superspace and N= 1/2 WZ model,0.610336
+"Supergravity and the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix",Recent Developments in Supersymmetry and Supergravity,0.681763
+"Supergravity and the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix",Applications of superfield Feynman diagrams,0.676295
+"Supergravity and the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix",SUPERGRAPHS AND APPLICATIONS,0.555054
+"Supergravity and the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix",Lagrangian description of N=2 minimal models as critical points of\n Landau-Ginzburg theories.,0.607613
+"Supergravity and the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix",Effective Kähler Potentials,0.47071
+"Supergravity and the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix","Supersymmetry, supergravity, superstrings '86 : proceedings of the Trieste Spring School, 7-15 April, 1986",0.623007
+One-Loop Renormalizability of Pure Supergravity and of Maxwell-Einstein Theory in Extended Supergravity,Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field,-0.0836
+One-Loop Renormalizability of Pure Supergravity and of Maxwell-Einstein Theory in Extended Supergravity,"Errata: Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field [J. Acoust. Soc. Am. <b>31</b>, 595 (1959)]",-0.011076
+One-Loop Renormalizability of Pure Supergravity and of Maxwell-Einstein Theory in Extended Supergravity,"Zero Value for the Three-Loop<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>Function in<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:mn>4</mml:mn><mml:mn/></mml:math>Supersymmetric Yang-Mills Theory",0.631675
+One-Loop Renormalizability of Pure Supergravity and of Maxwell-Einstein Theory in Extended Supergravity,"Background-field method versus normal field theory in explicit examples: One-loop divergences in the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix and Green's functions for Yang-Mills and gravitational fields",0.463287
+One-Loop Renormalizability of Pure Supergravity and of Maxwell-Einstein Theory in Extended Supergravity,Gravitational Born amplitudes and kinematical constraints,0.437638
+One-Loop Renormalizability of Pure Supergravity and of Maxwell-Einstein Theory in Extended Supergravity,Theory of Low-Energy Nucleon-Nucleon Scattering,0.291295
+One-Loop Renormalizability of Pure Supergravity and of Maxwell-Einstein Theory in Extended Supergravity,Three-Particle Contributions to Elastic Scattering,0.269432
+One-Loop Renormalizability of Pure Supergravity and of Maxwell-Einstein Theory in Extended Supergravity,Supergravity corrections to electromagnetic form factors: a superspace calculation,0.634368
+One-Loop Renormalizability of Pure Supergravity and of Maxwell-Einstein Theory in Extended Supergravity,Gravitational corrections to lepton-lepton coulomb scattering,0.420525
+One-Loop Renormalizability of Pure Supergravity and of Maxwell-Einstein Theory in Extended Supergravity,On-shell counterterms and nonlinear invariances,0.528147
+One-Loop Renormalizability of Pure Supergravity and of Maxwell-Einstein Theory in Extended Supergravity,Reggeization and the question of higher-loop renormalizability of gravitation,0.495472
+One-Loop Renormalizability of Pure Supergravity and of Maxwell-Einstein Theory in Extended Supergravity,Solvable extensions of two-dimensional gravity,0.623269
+One-Loop Renormalizability of Pure Supergravity and of Maxwell-Einstein Theory in Extended Supergravity,"Superspace, or One thousand and one lessons in supersymmetry",0.082836
+One-Loop Renormalizability of Pure Supergravity and of Maxwell-Einstein Theory in Extended Supergravity,Fourth-Order Nucleon-Nucleon Dispersion Relations,0.397759
+One-Loop Renormalizability of Pure Supergravity and of Maxwell-Einstein Theory in Extended Supergravity,LOOP CALCULATIONS IN TWO-DIMENSIONAL NONLOCAL FIELD THEORIES,0.471617
+One-Loop Renormalizability of Pure Supergravity and of Maxwell-Einstein Theory in Extended Supergravity,Reggeization of scalars and dual model structure of Yang-Mills theory,0.446793
+One-Loop Renormalizability of Pure Supergravity and of Maxwell-Einstein Theory in Extended Supergravity,"Quantum (2,2) supergravity",0.686946
+One-Loop Renormalizability of Pure Supergravity and of Maxwell-Einstein Theory in Extended Supergravity,Nonanticommutative superspace and N= 1/2 WZ model,0.511579
+One-Loop Renormalizability of Pure Supergravity and of Maxwell-Einstein Theory in Extended Supergravity,Recent Developments in Supersymmetry and Supergravity,0.717696
+One-Loop Renormalizability of Pure Supergravity and of Maxwell-Einstein Theory in Extended Supergravity,Applications of superfield Feynman diagrams,0.740865
+One-Loop Renormalizability of Pure Supergravity and of Maxwell-Einstein Theory in Extended Supergravity,SUPERGRAPHS AND APPLICATIONS,0.5491
+One-Loop Renormalizability of Pure Supergravity and of Maxwell-Einstein Theory in Extended Supergravity,Lagrangian description of N=2 minimal models as critical points of\n Landau-Ginzburg theories.,0.58783
+One-Loop Renormalizability of Pure Supergravity and of Maxwell-Einstein Theory in Extended Supergravity,Effective Kähler Potentials,0.561892
+One-Loop Renormalizability of Pure Supergravity and of Maxwell-Einstein Theory in Extended Supergravity,"Supersymmetry, supergravity, superstrings '86 : proceedings of the Trieste Spring School, 7-15 April, 1986",0.561135
+Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field,"Errata: Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field [J. Acoust. Soc. Am. <b>31</b>, 595 (1959)]",-0.024847
+Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field,"Zero Value for the Three-Loop<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>Function in<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:mn>4</mml:mn><mml:mn/></mml:math>Supersymmetric Yang-Mills Theory",-0.092641
+Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field,"Background-field method versus normal field theory in explicit examples: One-loop divergences in the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix and Green's functions for Yang-Mills and gravitational fields",0.005591
+Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field,Gravitational Born amplitudes and kinematical constraints,0.006873
+Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field,Theory of Low-Energy Nucleon-Nucleon Scattering,0.113505
+Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field,Three-Particle Contributions to Elastic Scattering,0.305498
+Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field,Supergravity corrections to electromagnetic form factors: a superspace calculation,-0.112265
+Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field,Gravitational corrections to lepton-lepton coulomb scattering,0.080718
+Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field,On-shell counterterms and nonlinear invariances,-0.028955
+Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field,Reggeization and the question of higher-loop renormalizability of gravitation,-0.003838
+Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field,Solvable extensions of two-dimensional gravity,-0.057674
+Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field,"Superspace, or One thousand and one lessons in supersymmetry",0.024211
+Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field,Fourth-Order Nucleon-Nucleon Dispersion Relations,0.215915
+Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field,LOOP CALCULATIONS IN TWO-DIMENSIONAL NONLOCAL FIELD THEORIES,-0.100727
+Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field,Reggeization of scalars and dual model structure of Yang-Mills theory,-0.02163
+Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field,"Quantum (2,2) supergravity",-0.065357
+Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field,Nonanticommutative superspace and N= 1/2 WZ model,-0.016031
+Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field,Recent Developments in Supersymmetry and Supergravity,-0.131163
+Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field,Applications of superfield Feynman diagrams,-0.098506
+Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field,SUPERGRAPHS AND APPLICATIONS,-0.047487
+Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field,Lagrangian description of N=2 minimal models as critical points of\n Landau-Ginzburg theories.,-0.022372
+Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field,Effective Kähler Potentials,-0.033491
+Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field,"Supersymmetry, supergravity, superstrings '86 : proceedings of the Trieste Spring School, 7-15 April, 1986",-0.040653
+"Errata: Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field [J. Acoust. Soc. Am. <b>31</b>, 595 (1959)]","Zero Value for the Three-Loop<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>Function in<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:mn>4</mml:mn><mml:mn/></mml:math>Supersymmetric Yang-Mills Theory",0.04858
+"Errata: Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field [J. Acoust. Soc. Am. <b>31</b>, 595 (1959)]","Background-field method versus normal field theory in explicit examples: One-loop divergences in the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix and Green's functions for Yang-Mills and gravitational fields",0.05919
+"Errata: Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field [J. Acoust. Soc. Am. <b>31</b>, 595 (1959)]",Gravitational Born amplitudes and kinematical constraints,-0.018313
+"Errata: Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field [J. Acoust. Soc. Am. <b>31</b>, 595 (1959)]",Theory of Low-Energy Nucleon-Nucleon Scattering,0.061202
+"Errata: Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field [J. Acoust. Soc. Am. <b>31</b>, 595 (1959)]",Three-Particle Contributions to Elastic Scattering,-0.056267
+"Errata: Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field [J. Acoust. Soc. Am. <b>31</b>, 595 (1959)]",Supergravity corrections to electromagnetic form factors: a superspace calculation,-0.004834
+"Errata: Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field [J. Acoust. Soc. Am. <b>31</b>, 595 (1959)]",Gravitational corrections to lepton-lepton coulomb scattering,0.008939
+"Errata: Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field [J. Acoust. Soc. Am. <b>31</b>, 595 (1959)]",On-shell counterterms and nonlinear invariances,0.002964
+"Errata: Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field [J. Acoust. Soc. Am. <b>31</b>, 595 (1959)]",Reggeization and the question of higher-loop renormalizability of gravitation,0.052109
+"Errata: Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field [J. Acoust. Soc. Am. <b>31</b>, 595 (1959)]",Solvable extensions of two-dimensional gravity,-0.007039
+"Errata: Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field [J. Acoust. Soc. Am. <b>31</b>, 595 (1959)]","Superspace, or One thousand and one lessons in supersymmetry",0.240175
+"Errata: Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field [J. Acoust. Soc. Am. <b>31</b>, 595 (1959)]",Fourth-Order Nucleon-Nucleon Dispersion Relations,-0.014073
+"Errata: Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field [J. Acoust. Soc. Am. <b>31</b>, 595 (1959)]",LOOP CALCULATIONS IN TWO-DIMENSIONAL NONLOCAL FIELD THEORIES,0.032903
+"Errata: Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field [J. Acoust. Soc. Am. <b>31</b>, 595 (1959)]",Reggeization of scalars and dual model structure of Yang-Mills theory,0.000808
+"Errata: Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field [J. Acoust. Soc. Am. <b>31</b>, 595 (1959)]","Quantum (2,2) supergravity",-0.030428
+"Errata: Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field [J. Acoust. Soc. Am. <b>31</b>, 595 (1959)]",Nonanticommutative superspace and N= 1/2 WZ model,-0.01127
+"Errata: Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field [J. Acoust. Soc. Am. <b>31</b>, 595 (1959)]",Recent Developments in Supersymmetry and Supergravity,-0.00992
+"Errata: Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field [J. Acoust. Soc. Am. <b>31</b>, 595 (1959)]",Applications of superfield Feynman diagrams,0.01812
+"Errata: Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field [J. Acoust. Soc. Am. <b>31</b>, 595 (1959)]",SUPERGRAPHS AND APPLICATIONS,0.027181
+"Errata: Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field [J. Acoust. Soc. Am. <b>31</b>, 595 (1959)]",Lagrangian description of N=2 minimal models as critical points of\n Landau-Ginzburg theories.,0.015279
+"Errata: Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field [J. Acoust. Soc. Am. <b>31</b>, 595 (1959)]",Effective Kähler Potentials,0.074883
+"Errata: Absorption of Sound by a Strip of Absorptive Material in a Diffuse Sound Field [J. Acoust. Soc. Am. <b>31</b>, 595 (1959)]","Supersymmetry, supergravity, superstrings '86 : proceedings of the Trieste Spring School, 7-15 April, 1986",0.030317
+"Zero Value for the Three-Loop<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>Function in<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:mn>4</mml:mn><mml:mn/></mml:math>Supersymmetric Yang-Mills Theory","Background-field method versus normal field theory in explicit examples: One-loop divergences in the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix and Green's functions for Yang-Mills and gravitational fields",0.488855
+"Zero Value for the Three-Loop<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>Function in<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:mn>4</mml:mn><mml:mn/></mml:math>Supersymmetric Yang-Mills Theory",Gravitational Born amplitudes and kinematical constraints,0.28997
+"Zero Value for the Three-Loop<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>Function in<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:mn>4</mml:mn><mml:mn/></mml:math>Supersymmetric Yang-Mills Theory",Theory of Low-Energy Nucleon-Nucleon Scattering,0.275657
+"Zero Value for the Three-Loop<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>Function in<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:mn>4</mml:mn><mml:mn/></mml:math>Supersymmetric Yang-Mills Theory",Three-Particle Contributions to Elastic Scattering,0.19029
+"Zero Value for the Three-Loop<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>Function in<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:mn>4</mml:mn><mml:mn/></mml:math>Supersymmetric Yang-Mills Theory",Supergravity corrections to electromagnetic form factors: a superspace calculation,0.625338
+"Zero Value for the Three-Loop<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>Function in<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:mn>4</mml:mn><mml:mn/></mml:math>Supersymmetric Yang-Mills Theory",Gravitational corrections to lepton-lepton coulomb scattering,0.304316
+"Zero Value for the Three-Loop<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>Function in<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:mn>4</mml:mn><mml:mn/></mml:math>Supersymmetric Yang-Mills Theory",On-shell counterterms and nonlinear invariances,0.471331
+"Zero Value for the Three-Loop<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>Function in<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:mn>4</mml:mn><mml:mn/></mml:math>Supersymmetric Yang-Mills Theory",Reggeization and the question of higher-loop renormalizability of gravitation,0.478707
+"Zero Value for the Three-Loop<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>Function in<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:mn>4</mml:mn><mml:mn/></mml:math>Supersymmetric Yang-Mills Theory",Solvable extensions of two-dimensional gravity,0.509781
+"Zero Value for the Three-Loop<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>Function in<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:mn>4</mml:mn><mml:mn/></mml:math>Supersymmetric Yang-Mills Theory","Superspace, or One thousand and one lessons in supersymmetry",0.096968
+"Zero Value for the Three-Loop<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>Function in<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:mn>4</mml:mn><mml:mn/></mml:math>Supersymmetric Yang-Mills Theory",Fourth-Order Nucleon-Nucleon Dispersion Relations,0.356467
+"Zero Value for the Three-Loop<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>Function in<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:mn>4</mml:mn><mml:mn/></mml:math>Supersymmetric Yang-Mills Theory",LOOP CALCULATIONS IN TWO-DIMENSIONAL NONLOCAL FIELD THEORIES,0.376384
+"Zero Value for the Three-Loop<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>Function in<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:mn>4</mml:mn><mml:mn/></mml:math>Supersymmetric Yang-Mills Theory",Reggeization of scalars and dual model structure of Yang-Mills theory,0.573624
+"Zero Value for the Three-Loop<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>Function in<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:mn>4</mml:mn><mml:mn/></mml:math>Supersymmetric Yang-Mills Theory","Quantum (2,2) supergravity",0.491367
+"Zero Value for the Three-Loop<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>Function in<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:mn>4</mml:mn><mml:mn/></mml:math>Supersymmetric Yang-Mills Theory",Nonanticommutative superspace and N= 1/2 WZ model,0.487044
+"Zero Value for the Three-Loop<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>Function in<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:mn>4</mml:mn><mml:mn/></mml:math>Supersymmetric Yang-Mills Theory",Recent Developments in Supersymmetry and Supergravity,0.707551
+"Zero Value for the Three-Loop<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>Function in<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:mn>4</mml:mn><mml:mn/></mml:math>Supersymmetric Yang-Mills Theory",Applications of superfield Feynman diagrams,0.823523
+"Zero Value for the Three-Loop<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>Function in<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:mn>4</mml:mn><mml:mn/></mml:math>Supersymmetric Yang-Mills Theory",SUPERGRAPHS AND APPLICATIONS,0.671517
+"Zero Value for the Three-Loop<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>Function in<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:mn>4</mml:mn><mml:mn/></mml:math>Supersymmetric Yang-Mills Theory",Lagrangian description of N=2 minimal models as critical points of\n Landau-Ginzburg theories.,0.542796
+"Zero Value for the Three-Loop<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>Function in<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:mn>4</mml:mn><mml:mn/></mml:math>Supersymmetric Yang-Mills Theory",Effective Kähler Potentials,0.664981
+"Zero Value for the Three-Loop<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>Function in<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:mn>4</mml:mn><mml:mn/></mml:math>Supersymmetric Yang-Mills Theory","Supersymmetry, supergravity, superstrings '86 : proceedings of the Trieste Spring School, 7-15 April, 1986",0.44288
+"Background-field method versus normal field theory in explicit examples: One-loop divergences in the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix and Green's functions for Yang-Mills and gravitational fields",Gravitational Born amplitudes and kinematical constraints,0.458712
+"Background-field method versus normal field theory in explicit examples: One-loop divergences in the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix and Green's functions for Yang-Mills and gravitational fields",Theory of Low-Energy Nucleon-Nucleon Scattering,0.363516
+"Background-field method versus normal field theory in explicit examples: One-loop divergences in the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix and Green's functions for Yang-Mills and gravitational fields",Three-Particle Contributions to Elastic Scattering,0.334477
+"Background-field method versus normal field theory in explicit examples: One-loop divergences in the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix and Green's functions for Yang-Mills and gravitational fields",Supergravity corrections to electromagnetic form factors: a superspace calculation,0.440533
+"Background-field method versus normal field theory in explicit examples: One-loop divergences in the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix and Green's functions for Yang-Mills and gravitational fields",Gravitational corrections to lepton-lepton coulomb scattering,0.513525
+"Background-field method versus normal field theory in explicit examples: One-loop divergences in the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix and Green's functions for Yang-Mills and gravitational fields",On-shell counterterms and nonlinear invariances,0.430074
+"Background-field method versus normal field theory in explicit examples: One-loop divergences in the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix and Green's functions for Yang-Mills and gravitational fields",Reggeization and the question of higher-loop renormalizability of gravitation,0.513604
+"Background-field method versus normal field theory in explicit examples: One-loop divergences in the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix and Green's functions for Yang-Mills and gravitational fields",Solvable extensions of two-dimensional gravity,0.421144
+"Background-field method versus normal field theory in explicit examples: One-loop divergences in the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix and Green's functions for Yang-Mills and gravitational fields","Superspace, or One thousand and one lessons in supersymmetry",0.098494
+"Background-field method versus normal field theory in explicit examples: One-loop divergences in the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix and Green's functions for Yang-Mills and gravitational fields",Fourth-Order Nucleon-Nucleon Dispersion Relations,0.41155
+"Background-field method versus normal field theory in explicit examples: One-loop divergences in the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix and Green's functions for Yang-Mills and gravitational fields",LOOP CALCULATIONS IN TWO-DIMENSIONAL NONLOCAL FIELD THEORIES,0.453623
+"Background-field method versus normal field theory in explicit examples: One-loop divergences in the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix and Green's functions for Yang-Mills and gravitational fields",Reggeization of scalars and dual model structure of Yang-Mills theory,0.466036
+"Background-field method versus normal field theory in explicit examples: One-loop divergences in the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix and Green's functions for Yang-Mills and gravitational fields","Quantum (2,2) supergravity",0.351114
+"Background-field method versus normal field theory in explicit examples: One-loop divergences in the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix and Green's functions for Yang-Mills and gravitational fields",Nonanticommutative superspace and N= 1/2 WZ model,0.251902
+"Background-field method versus normal field theory in explicit examples: One-loop divergences in the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix and Green's functions for Yang-Mills and gravitational fields",Recent Developments in Supersymmetry and Supergravity,0.517626
+"Background-field method versus normal field theory in explicit examples: One-loop divergences in the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix and Green's functions for Yang-Mills and gravitational fields",Applications of superfield Feynman diagrams,0.540305
+"Background-field method versus normal field theory in explicit examples: One-loop divergences in the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix and Green's functions for Yang-Mills and gravitational fields",SUPERGRAPHS AND APPLICATIONS,0.360203
+"Background-field method versus normal field theory in explicit examples: One-loop divergences in the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix and Green's functions for Yang-Mills and gravitational fields",Lagrangian description of N=2 minimal models as critical points of\n Landau-Ginzburg theories.,0.335231
+"Background-field method versus normal field theory in explicit examples: One-loop divergences in the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix and Green's functions for Yang-Mills and gravitational fields",Effective Kähler Potentials,0.391433
+"Background-field method versus normal field theory in explicit examples: One-loop divergences in the<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>S</mml:mi></mml:math>matrix and Green's functions for Yang-Mills and gravitational fields","Supersymmetry, supergravity, superstrings '86 : proceedings of the Trieste Spring School, 7-15 April, 1986",0.329716
+Gravitational Born amplitudes and kinematical constraints,Theory of Low-Energy Nucleon-Nucleon Scattering,0.475745
+Gravitational Born amplitudes and kinematical constraints,Three-Particle Contributions to Elastic Scattering,0.514828
+Gravitational Born amplitudes and kinematical constraints,Supergravity corrections to electromagnetic form factors: a superspace calculation,0.33699
+Gravitational Born amplitudes and kinematical constraints,Gravitational corrections to lepton-lepton coulomb scattering,0.670316
+Gravitational Born amplitudes and kinematical constraints,On-shell counterterms and nonlinear invariances,0.304984
+Gravitational Born amplitudes and kinematical constraints,Reggeization and the question of higher-loop renormalizability of gravitation,0.548776
+Gravitational Born amplitudes and kinematical constraints,Solvable extensions of two-dimensional gravity,0.379121
+Gravitational Born amplitudes and kinematical constraints,"Superspace, or One thousand and one lessons in supersymmetry",0.042373
+Gravitational Born amplitudes and kinematical constraints,Fourth-Order Nucleon-Nucleon Dispersion Relations,0.521918
+Gravitational Born amplitudes and kinematical constraints,LOOP CALCULATIONS IN TWO-DIMENSIONAL NONLOCAL FIELD THEORIES,0.448765
+Gravitational Born amplitudes and kinematical constraints,Reggeization of scalars and dual model structure of Yang-Mills theory,0.432246
+Gravitational Born amplitudes and kinematical constraints,"Quantum (2,2) supergravity",0.372439
+Gravitational Born amplitudes and kinematical constraints,Nonanticommutative superspace and N= 1/2 WZ model,0.287134
+Gravitational Born amplitudes and kinematical constraints,Recent Developments in Supersymmetry and Supergravity,0.407082
+Gravitational Born amplitudes and kinematical constraints,Applications of superfield Feynman diagrams,0.362151
+Gravitational Born amplitudes and kinematical constraints,SUPERGRAPHS AND APPLICATIONS,0.315122
+Gravitational Born amplitudes and kinematical constraints,Lagrangian description of N=2 minimal models as critical points of\n Landau-Ginzburg theories.,0.375833
+Gravitational Born amplitudes and kinematical constraints,Effective Kähler Potentials,0.226003
+Gravitational Born amplitudes and kinematical constraints,"Supersymmetry, supergravity, superstrings '86 : proceedings of the Trieste Spring School, 7-15 April, 1986",0.319928
+Theory of Low-Energy Nucleon-Nucleon Scattering,Three-Particle Contributions to Elastic Scattering,0.557976
+Theory of Low-Energy Nucleon-Nucleon Scattering,Supergravity corrections to electromagnetic form factors: a superspace calculation,0.324639
+Theory of Low-Energy Nucleon-Nucleon Scattering,Gravitational corrections to lepton-lepton coulomb scattering,0.552617
+Theory of Low-Energy Nucleon-Nucleon Scattering,On-shell counterterms and nonlinear invariances,0.192383
+Theory of Low-Energy Nucleon-Nucleon Scattering,Reggeization and the question of higher-loop renormalizability of gravitation,0.335026
+Theory of Low-Energy Nucleon-Nucleon Scattering,Solvable extensions of two-dimensional gravity,0.292735
+Theory of Low-Energy Nucleon-Nucleon Scattering,"Superspace, or One thousand and one lessons in supersymmetry",0.113005
+Theory of Low-Energy Nucleon-Nucleon Scattering,Fourth-Order Nucleon-Nucleon Dispersion Relations,0.739886
+Theory of Low-Energy Nucleon-Nucleon Scattering,LOOP CALCULATIONS IN TWO-DIMENSIONAL NONLOCAL FIELD THEORIES,0.288559
+Theory of Low-Energy Nucleon-Nucleon Scattering,Reggeization of scalars and dual model structure of Yang-Mills theory,0.361489
+Theory of Low-Energy Nucleon-Nucleon Scattering,"Quantum (2,2) supergravity",0.253628
+Theory of Low-Energy Nucleon-Nucleon Scattering,Nonanticommutative superspace and N= 1/2 WZ model,0.249267
+Theory of Low-Energy Nucleon-Nucleon Scattering,Recent Developments in Supersymmetry and Supergravity,0.314197
+Theory of Low-Energy Nucleon-Nucleon Scattering,Applications of superfield Feynman diagrams,0.347272
+Theory of Low-Energy Nucleon-Nucleon Scattering,SUPERGRAPHS AND APPLICATIONS,0.341212
+Theory of Low-Energy Nucleon-Nucleon Scattering,Lagrangian description of N=2 minimal models as critical points of\n Landau-Ginzburg theories.,0.352172
+Theory of Low-Energy Nucleon-Nucleon Scattering,Effective Kähler Potentials,0.270013
+Theory of Low-Energy Nucleon-Nucleon Scattering,"Supersymmetry, supergravity, superstrings '86 : proceedings of the Trieste Spring School, 7-15 April, 1986",0.3474
+Three-Particle Contributions to Elastic Scattering,Supergravity corrections to electromagnetic form factors: a superspace calculation,0.265176
+Three-Particle Contributions to Elastic Scattering,Gravitational corrections to lepton-lepton coulomb scattering,0.52159
+Three-Particle Contributions to Elastic Scattering,On-shell counterterms and nonlinear invariances,0.176311
+Three-Particle Contributions to Elastic Scattering,Reggeization and the question of higher-loop renormalizability of gravitation,0.293305
+Three-Particle Contributions to Elastic Scattering,Solvable extensions of two-dimensional gravity,0.260646
+Three-Particle Contributions to Elastic Scattering,"Superspace, or One thousand and one lessons in supersymmetry",0.036484
+Three-Particle Contributions to Elastic Scattering,Fourth-Order Nucleon-Nucleon Dispersion Relations,0.692444
+Three-Particle Contributions to Elastic Scattering,LOOP CALCULATIONS IN TWO-DIMENSIONAL NONLOCAL FIELD THEORIES,0.246252
+Three-Particle Contributions to Elastic Scattering,Reggeization of scalars and dual model structure of Yang-Mills theory,0.280467
+Three-Particle Contributions to Elastic Scattering,"Quantum (2,2) supergravity",0.202875
+Three-Particle Contributions to Elastic Scattering,Nonanticommutative superspace and N= 1/2 WZ model,0.157199
+Three-Particle Contributions to Elastic Scattering,Recent Developments in Supersymmetry and Supergravity,0.249017
+Three-Particle Contributions to Elastic Scattering,Applications of superfield Feynman diagrams,0.228402
+Three-Particle Contributions to Elastic Scattering,SUPERGRAPHS AND APPLICATIONS,0.203129
+Three-Particle Contributions to Elastic Scattering,Lagrangian description of N=2 minimal models as critical points of\n Landau-Ginzburg theories.,0.296893
+Three-Particle Contributions to Elastic Scattering,Effective Kähler Potentials,0.1836
+Three-Particle Contributions to Elastic Scattering,"Supersymmetry, supergravity, superstrings '86 : proceedings of the Trieste Spring School, 7-15 April, 1986",0.273728
+Supergravity corrections to electromagnetic form factors: a superspace calculation,Gravitational corrections to lepton-lepton coulomb scattering,0.411876
+Supergravity corrections to electromagnetic form factors: a superspace calculation,On-shell counterterms and nonlinear invariances,0.34267
+Supergravity corrections to electromagnetic form factors: a superspace calculation,Reggeization and the question of higher-loop renormalizability of gravitation,0.435915
+Supergravity corrections to electromagnetic form factors: a superspace calculation,Solvable extensions of two-dimensional gravity,0.620179
+Supergravity corrections to electromagnetic form factors: a superspace calculation,"Superspace, or One thousand and one lessons in supersymmetry",0.073473
+Supergravity corrections to electromagnetic form factors: a superspace calculation,Fourth-Order Nucleon-Nucleon Dispersion Relations,0.370292
+Supergravity corrections to electromagnetic form factors: a superspace calculation,LOOP CALCULATIONS IN TWO-DIMENSIONAL NONLOCAL FIELD THEORIES,0.496701
+Supergravity corrections to electromagnetic form factors: a superspace calculation,Reggeization of scalars and dual model structure of Yang-Mills theory,0.412498
+Supergravity corrections to electromagnetic form factors: a superspace calculation,"Quantum (2,2) supergravity",0.646668
+Supergravity corrections to electromagnetic form factors: a superspace calculation,Nonanticommutative superspace and N= 1/2 WZ model,0.588247
+Supergravity corrections to electromagnetic form factors: a superspace calculation,Recent Developments in Supersymmetry and Supergravity,0.604193
+Supergravity corrections to electromagnetic form factors: a superspace calculation,Applications of superfield Feynman diagrams,0.719976
+Supergravity corrections to electromagnetic form factors: a superspace calculation,SUPERGRAPHS AND APPLICATIONS,0.615041
+Supergravity corrections to electromagnetic form factors: a superspace calculation,Lagrangian description of N=2 minimal models as critical points of\n Landau-Ginzburg theories.,0.613785
+Supergravity corrections to electromagnetic form factors: a superspace calculation,Effective Kähler Potentials,0.617281
+Supergravity corrections to electromagnetic form factors: a superspace calculation,"Supersymmetry, supergravity, superstrings '86 : proceedings of the Trieste Spring School, 7-15 April, 1986",0.518709
+Gravitational corrections to lepton-lepton coulomb scattering,On-shell counterterms and nonlinear invariances,0.338438
+Gravitational corrections to lepton-lepton coulomb scattering,Reggeization and the question of higher-loop renormalizability of gravitation,0.465985
+Gravitational corrections to lepton-lepton coulomb scattering,Solvable extensions of two-dimensional gravity,0.375343
+Gravitational corrections to lepton-lepton coulomb scattering,"Superspace, or One thousand and one lessons in supersymmetry",0.091252
+Gravitational corrections to lepton-lepton coulomb scattering,Fourth-Order Nucleon-Nucleon Dispersion Relations,0.62815
+Gravitational corrections to lepton-lepton coulomb scattering,LOOP CALCULATIONS IN TWO-DIMENSIONAL NONLOCAL FIELD THEORIES,0.434576
+Gravitational corrections to lepton-lepton coulomb scattering,Reggeization of scalars and dual model structure of Yang-Mills theory,0.38416
+Gravitational corrections to lepton-lepton coulomb scattering,"Quantum (2,2) supergravity",0.358566
+Gravitational corrections to lepton-lepton coulomb scattering,Nonanticommutative superspace and N= 1/2 WZ model,0.331369
+Gravitational corrections to lepton-lepton coulomb scattering,Recent Developments in Supersymmetry and Supergravity,0.393884
+Gravitational corrections to lepton-lepton coulomb scattering,Applications of superfield Feynman diagrams,0.398056
+Gravitational corrections to lepton-lepton coulomb scattering,SUPERGRAPHS AND APPLICATIONS,0.359268
+Gravitational corrections to lepton-lepton coulomb scattering,Lagrangian description of N=2 minimal models as critical points of\n Landau-Ginzburg theories.,0.387074
+Gravitational corrections to lepton-lepton coulomb scattering,Effective Kähler Potentials,0.324322
+Gravitational corrections to lepton-lepton coulomb scattering,"Supersymmetry, supergravity, superstrings '86 : proceedings of the Trieste Spring School, 7-15 April, 1986",0.25827
+On-shell counterterms and nonlinear invariances,Reggeization and the question of higher-loop renormalizability of gravitation,0.396547
+On-shell counterterms and nonlinear invariances,Solvable extensions of two-dimensional gravity,0.376194
+On-shell counterterms and nonlinear invariances,"Superspace, or One thousand and one lessons in supersymmetry",0.034047
+On-shell counterterms and nonlinear invariances,Fourth-Order Nucleon-Nucleon Dispersion Relations,0.232213
+On-shell counterterms and nonlinear invariances,LOOP CALCULATIONS IN TWO-DIMENSIONAL NONLOCAL FIELD THEORIES,0.343976
+On-shell counterterms and nonlinear invariances,Reggeization of scalars and dual model structure of Yang-Mills theory,0.471033
+On-shell counterterms and nonlinear invariances,"Quantum (2,2) supergravity",0.378466
+On-shell counterterms and nonlinear invariances,Nonanticommutative superspace and N= 1/2 WZ model,0.413693
+On-shell counterterms and nonlinear invariances,Recent Developments in Supersymmetry and Supergravity,0.471926
+On-shell counterterms and nonlinear invariances,Applications of superfield Feynman diagrams,0.441427
+On-shell counterterms and nonlinear invariances,SUPERGRAPHS AND APPLICATIONS,0.42092
+On-shell counterterms and nonlinear invariances,Lagrangian description of N=2 minimal models as critical points of\n Landau-Ginzburg theories.,0.426936
+On-shell counterterms and nonlinear invariances,Effective Kähler Potentials,0.365345
+On-shell counterterms and nonlinear invariances,"Supersymmetry, supergravity, superstrings '86 : proceedings of the Trieste Spring School, 7-15 April, 1986",0.351712
+Reggeization and the question of higher-loop renormalizability of gravitation,Solvable extensions of two-dimensional gravity,0.469348
+Reggeization and the question of higher-loop renormalizability of gravitation,"Superspace, or One thousand and one lessons in supersymmetry",0.051868
+Reggeization and the question of higher-loop renormalizability of gravitation,Fourth-Order Nucleon-Nucleon Dispersion Relations,0.390522
+Reggeization and the question of higher-loop renormalizability of gravitation,LOOP CALCULATIONS IN TWO-DIMENSIONAL NONLOCAL FIELD THEORIES,0.466412
+Reggeization and the question of higher-loop renormalizability of gravitation,Reggeization of scalars and dual model structure of Yang-Mills theory,0.559189
+Reggeization and the question of higher-loop renormalizability of gravitation,"Quantum (2,2) supergravity",0.407074
+Reggeization and the question of higher-loop renormalizability of gravitation,Nonanticommutative superspace and N= 1/2 WZ model,0.324949
+Reggeization and the question of higher-loop renormalizability of gravitation,Recent Developments in Supersymmetry and Supergravity,0.495933
+Reggeization and the question of higher-loop renormalizability of gravitation,Applications of superfield Feynman diagrams,0.460479
+Reggeization and the question of higher-loop renormalizability of gravitation,SUPERGRAPHS AND APPLICATIONS,0.355979
+Reggeization and the question of higher-loop renormalizability of gravitation,Lagrangian description of N=2 minimal models as critical points of\n Landau-Ginzburg theories.,0.502889
+Reggeization and the question of higher-loop renormalizability of gravitation,Effective Kähler Potentials,0.487554
+Reggeization and the question of higher-loop renormalizability of gravitation,"Supersymmetry, supergravity, superstrings '86 : proceedings of the Trieste Spring School, 7-15 April, 1986",0.323033
+Solvable extensions of two-dimensional gravity,"Superspace, or One thousand and one lessons in supersymmetry",0.063302
+Solvable extensions of two-dimensional gravity,Fourth-Order Nucleon-Nucleon Dispersion Relations,0.345966
+Solvable extensions of two-dimensional gravity,LOOP CALCULATIONS IN TWO-DIMENSIONAL NONLOCAL FIELD THEORIES,0.7268
+Solvable extensions of two-dimensional gravity,Reggeization of scalars and dual model structure of Yang-Mills theory,0.424341
+Solvable extensions of two-dimensional gravity,"Quantum (2,2) supergravity",0.698178
+Solvable extensions of two-dimensional gravity,Nonanticommutative superspace and N= 1/2 WZ model,0.603162
+Solvable extensions of two-dimensional gravity,Recent Developments in Supersymmetry and Supergravity,0.603987
+Solvable extensions of two-dimensional gravity,Applications of superfield Feynman diagrams,0.674914
+Solvable extensions of two-dimensional gravity,SUPERGRAPHS AND APPLICATIONS,0.469524
+Solvable extensions of two-dimensional gravity,Lagrangian description of N=2 minimal models as critical points of\n Landau-Ginzburg theories.,0.584908
+Solvable extensions of two-dimensional gravity,Effective Kähler Potentials,0.556312
+Solvable extensions of two-dimensional gravity,"Supersymmetry, supergravity, superstrings '86 : proceedings of the Trieste Spring School, 7-15 April, 1986",0.482429
+"Superspace, or One thousand and one lessons in supersymmetry",Fourth-Order Nucleon-Nucleon Dispersion Relations,0.103968
+"Superspace, or One thousand and one lessons in supersymmetry",LOOP CALCULATIONS IN TWO-DIMENSIONAL NONLOCAL FIELD THEORIES,0.091643
+"Superspace, or One thousand and one lessons in supersymmetry",Reggeization of scalars and dual model structure of Yang-Mills theory,0.083058
+"Superspace, or One thousand and one lessons in supersymmetry","Quantum (2,2) supergravity",0.084445
+"Superspace, or One thousand and one lessons in supersymmetry",Nonanticommutative superspace and N= 1/2 WZ model,0.079956
+"Superspace, or One thousand and one lessons in supersymmetry",Recent Developments in Supersymmetry and Supergravity,0.084213
+"Superspace, or One thousand and one lessons in supersymmetry",Applications of superfield Feynman diagrams,0.118683
+"Superspace, or One thousand and one lessons in supersymmetry",SUPERGRAPHS AND APPLICATIONS,0.133399
+"Superspace, or One thousand and one lessons in supersymmetry",Lagrangian description of N=2 minimal models as critical points of\n Landau-Ginzburg theories.,0.059701
+"Superspace, or One thousand and one lessons in supersymmetry",Effective Kähler Potentials,0.063406
+"Superspace, or One thousand and one lessons in supersymmetry","Supersymmetry, supergravity, superstrings '86 : proceedings of the Trieste Spring School, 7-15 April, 1986",0.13183
+Fourth-Order Nucleon-Nucleon Dispersion Relations,LOOP CALCULATIONS IN TWO-DIMENSIONAL NONLOCAL FIELD THEORIES,0.302225
+Fourth-Order Nucleon-Nucleon Dispersion Relations,Reggeization of scalars and dual model structure of Yang-Mills theory,0.376711
+Fourth-Order Nucleon-Nucleon Dispersion Relations,"Quantum (2,2) supergravity",0.285293
+Fourth-Order Nucleon-Nucleon Dispersion Relations,Nonanticommutative superspace and N= 1/2 WZ model,0.282323
+Fourth-Order Nucleon-Nucleon Dispersion Relations,Recent Developments in Supersymmetry and Supergravity,0.359782
+Fourth-Order Nucleon-Nucleon Dispersion Relations,Applications of superfield Feynman diagrams,0.393897
+Fourth-Order Nucleon-Nucleon Dispersion Relations,SUPERGRAPHS AND APPLICATIONS,0.349057
+Fourth-Order Nucleon-Nucleon Dispersion Relations,Lagrangian description of N=2 minimal models as critical points of\n Landau-Ginzburg theories.,0.319687
+Fourth-Order Nucleon-Nucleon Dispersion Relations,Effective Kähler Potentials,0.316161
+Fourth-Order Nucleon-Nucleon Dispersion Relations,"Supersymmetry, supergravity, superstrings '86 : proceedings of the Trieste Spring School, 7-15 April, 1986",0.297697
+LOOP CALCULATIONS IN TWO-DIMENSIONAL NONLOCAL FIELD THEORIES,Reggeization of scalars and dual model structure of Yang-Mills theory,0.355335
+LOOP CALCULATIONS IN TWO-DIMENSIONAL NONLOCAL FIELD THEORIES,"Quantum (2,2) supergravity",0.479129
+LOOP CALCULATIONS IN TWO-DIMENSIONAL NONLOCAL FIELD THEORIES,Nonanticommutative superspace and N= 1/2 WZ model,0.431584
+LOOP CALCULATIONS IN TWO-DIMENSIONAL NONLOCAL FIELD THEORIES,Recent Developments in Supersymmetry and Supergravity,0.429797
+LOOP CALCULATIONS IN TWO-DIMENSIONAL NONLOCAL FIELD THEORIES,Applications of superfield Feynman diagrams,0.510831
+LOOP CALCULATIONS IN TWO-DIMENSIONAL NONLOCAL FIELD THEORIES,SUPERGRAPHS AND APPLICATIONS,0.365525
+LOOP CALCULATIONS IN TWO-DIMENSIONAL NONLOCAL FIELD THEORIES,Lagrangian description of N=2 minimal models as critical points of\n Landau-Ginzburg theories.,0.36366
+LOOP CALCULATIONS IN TWO-DIMENSIONAL NONLOCAL FIELD THEORIES,Effective Kähler Potentials,0.485238
+LOOP CALCULATIONS IN TWO-DIMENSIONAL NONLOCAL FIELD THEORIES,"Supersymmetry, supergravity, superstrings '86 : proceedings of the Trieste Spring School, 7-15 April, 1986",0.304565
+Reggeization of scalars and dual model structure of Yang-Mills theory,"Quantum (2,2) supergravity",0.391502
+Reggeization of scalars and dual model structure of Yang-Mills theory,Nonanticommutative superspace and N= 1/2 WZ model,0.320699
+Reggeization of scalars and dual model structure of Yang-Mills theory,Recent Developments in Supersymmetry and Supergravity,0.532899
+Reggeization of scalars and dual model structure of Yang-Mills theory,Applications of superfield Feynman diagrams,0.554165
+Reggeization of scalars and dual model structure of Yang-Mills theory,SUPERGRAPHS AND APPLICATIONS,0.390188
+Reggeization of scalars and dual model structure of Yang-Mills theory,Lagrangian description of N=2 minimal models as critical points of\n Landau-Ginzburg theories.,0.49213
+Reggeization of scalars and dual model structure of Yang-Mills theory,Effective Kähler Potentials,0.457658
+Reggeization of scalars and dual model structure of Yang-Mills theory,"Supersymmetry, supergravity, superstrings '86 : proceedings of the Trieste Spring School, 7-15 April, 1986",0.30359
+"Quantum (2,2) supergravity",Nonanticommutative superspace and N= 1/2 WZ model,0.625579
+"Quantum (2,2) supergravity",Recent Developments in Supersymmetry and Supergravity,0.613278
+"Quantum (2,2) supergravity",Applications of superfield Feynman diagrams,0.664199
+"Quantum (2,2) supergravity",SUPERGRAPHS AND APPLICATIONS,0.522645
+"Quantum (2,2) supergravity",Lagrangian description of N=2 minimal models as critical points of\n Landau-Ginzburg theories.,0.622812
+"Quantum (2,2) supergravity",Effective Kähler Potentials,0.449264
+"Quantum (2,2) supergravity","Supersymmetry, supergravity, superstrings '86 : proceedings of the Trieste Spring School, 7-15 April, 1986",0.504287
+Nonanticommutative superspace and N= 1/2 WZ model,Recent Developments in Supersymmetry and Supergravity,0.573587
+Nonanticommutative superspace and N= 1/2 WZ model,Applications of superfield Feynman diagrams,0.530968
+Nonanticommutative superspace and N= 1/2 WZ model,SUPERGRAPHS AND APPLICATIONS,0.533179
+Nonanticommutative superspace and N= 1/2 WZ model,Lagrangian description of N=2 minimal models as critical points of\n Landau-Ginzburg theories.,0.590463
+Nonanticommutative superspace and N= 1/2 WZ model,Effective Kähler Potentials,0.473531
+Nonanticommutative superspace and N= 1/2 WZ model,"Supersymmetry, supergravity, superstrings '86 : proceedings of the Trieste Spring School, 7-15 April, 1986",0.535645
+Recent Developments in Supersymmetry and Supergravity,Applications of superfield Feynman diagrams,0.778462
+Recent Developments in Supersymmetry and Supergravity,SUPERGRAPHS AND APPLICATIONS,0.615067
+Recent Developments in Supersymmetry and Supergravity,Lagrangian description of N=2 minimal models as critical points of\n Landau-Ginzburg theories.,0.611659
+Recent Developments in Supersymmetry and Supergravity,Effective Kähler Potentials,0.577934
+Recent Developments in Supersymmetry and Supergravity,"Supersymmetry, supergravity, superstrings '86 : proceedings of the Trieste Spring School, 7-15 April, 1986",0.652384
+Applications of superfield Feynman diagrams,SUPERGRAPHS AND APPLICATIONS,0.68618
+Applications of superfield Feynman diagrams,Lagrangian description of N=2 minimal models as critical points of\n Landau-Ginzburg theories.,0.588952
+Applications of superfield Feynman diagrams,Effective Kähler Potentials,0.652273
+Applications of superfield Feynman diagrams,"Supersymmetry, supergravity, superstrings '86 : proceedings of the Trieste Spring School, 7-15 April, 1986",0.562242
+SUPERGRAPHS AND APPLICATIONS,Lagrangian description of N=2 minimal models as critical points of\n Landau-Ginzburg theories.,0.571515
+SUPERGRAPHS AND APPLICATIONS,Effective Kähler Potentials,0.580809
+SUPERGRAPHS AND APPLICATIONS,"Supersymmetry, supergravity, superstrings '86 : proceedings of the Trieste Spring School, 7-15 April, 1986",0.537095
+Lagrangian description of N=2 minimal models as critical points of\n Landau-Ginzburg theories.,Effective Kähler Potentials,0.612142
+Lagrangian description of N=2 minimal models as critical points of\n Landau-Ginzburg theories.,"Supersymmetry, supergravity, superstrings '86 : proceedings of the Trieste Spring School, 7-15 April, 1986",0.592061
+Effective Kähler Potentials,"Supersymmetry, supergravity, superstrings '86 : proceedings of the Trieste Spring School, 7-15 April, 1986",0.393088

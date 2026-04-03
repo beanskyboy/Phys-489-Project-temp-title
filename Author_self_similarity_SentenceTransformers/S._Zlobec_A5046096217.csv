@@ -1,0 +1,947 @@
+title_i,title_j,cosine_similarity
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,Bilevel convex programming models,0.101627
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,Jensen's inequality for nonconvex functions ∗,0.127049
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,On two simple decompositions of Lipschitz functions,0.268755
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,0.228426
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,Optimality in nonlinear programming: A feasible directions approach,0.090782
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,Stable parametric programming<sup>*</sup>,0.104344
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,Characterization of convexifiable functions,0.147625
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,Optimality conditions for convex semi‐infinite programming problems,0.163963
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,Input optimization: III. optimal realizations of multiobjective models,0.135858
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,Estimating convexifiers in continuous optimization,0.103369
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,Convexifiable functions in integral calculus,0.07068
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,L'Hôpital's rule without derivatives,0.035754
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,0.195544
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,0.234921
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,Technical Note—Explicit Solutions of Interval Linear Programs,0.152301
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,Survey of input optimization,0.053955
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,Calculating the best approximate solution of an operator equation,0.225906
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,Optimization: a Journal of Mathematical Programming and Operations Research,0.14716
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,Approaches to the Theory of Optimization (J. Ponstein),0.221831
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,Characterizing fixed points,0.202192
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,0.138787
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,Regions of stability for ill-posed convex programs,0.115119
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,Two characterizations of Pareto minima in convex multicriteria optimization,0.16804
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,Constraint qualifications in input optimisation,0.124516
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,0.162672
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,Stable Planning by Linear and Convex Models <sup>2/3</sup>,0.028935
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,Duality in convex programming: a linearization approach<sup>1</sup>,0.17577
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,The marginal value formula in input optimization,0.091986
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,On minimization subject to cone constraints,0.124635
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,A New Class of Feasible Direction Methods.,0.056859
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,Parametric programming: An illustrative mini encyclopedia ∗,0.136912
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,New regions of stability in input optimization,0.118042
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,LFS functions in multi-objective programming,0.124913
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,Convex Parametric Programming in Abstract Spaces,0.087527
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,The marginal value formula on regions of stability,0.049555
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,Regions of stability for ill-posed convex programs: An addendum,0.097491
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.331614
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,Modelling with twice continuously differentiable functions,0.144691
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,Separation property of continuously differentiable functions,0.115532
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.188337
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.176903
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,Parametric Decompositions of Continuous Functions,0.20528
+An Explicit Form of the Moore–Penrose Inverse of an Arbitrary Complex Matrix,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.037624
+Bilevel convex programming models,Jensen's inequality for nonconvex functions ∗,0.312746
+Bilevel convex programming models,On two simple decompositions of Lipschitz functions,0.52554
+Bilevel convex programming models,On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,0.112457
+Bilevel convex programming models,Optimality in nonlinear programming: A feasible directions approach,0.577641
+Bilevel convex programming models,Stable parametric programming<sup>*</sup>,0.571132
+Bilevel convex programming models,Characterization of convexifiable functions,0.610823
+Bilevel convex programming models,Optimality conditions for convex semi‐infinite programming problems,0.575036
+Bilevel convex programming models,Input optimization: III. optimal realizations of multiobjective models,0.535175
+Bilevel convex programming models,Estimating convexifiers in continuous optimization,0.658235
+Bilevel convex programming models,Convexifiable functions in integral calculus,0.377662
+Bilevel convex programming models,L'Hôpital's rule without derivatives,0.156987
+Bilevel convex programming models,Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,0.454112
+Bilevel convex programming models,Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,0.446616
+Bilevel convex programming models,Technical Note—Explicit Solutions of Interval Linear Programs,0.39412
+Bilevel convex programming models,Survey of input optimization,0.582041
+Bilevel convex programming models,Calculating the best approximate solution of an operator equation,0.272975
+Bilevel convex programming models,Optimization: a Journal of Mathematical Programming and Operations Research,0.502165
+Bilevel convex programming models,Approaches to the Theory of Optimization (J. Ponstein),0.460441
+Bilevel convex programming models,Characterizing fixed points,0.254466
+Bilevel convex programming models,Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,0.511518
+Bilevel convex programming models,Regions of stability for ill-posed convex programs,0.564597
+Bilevel convex programming models,Two characterizations of Pareto minima in convex multicriteria optimization,0.404111
+Bilevel convex programming models,Constraint qualifications in input optimisation,0.44742
+Bilevel convex programming models,Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,0.490748
+Bilevel convex programming models,Stable Planning by Linear and Convex Models <sup>2/3</sup>,0.372658
+Bilevel convex programming models,Duality in convex programming: a linearization approach<sup>1</sup>,0.554775
+Bilevel convex programming models,The marginal value formula in input optimization,0.543164
+Bilevel convex programming models,On minimization subject to cone constraints,0.495698
+Bilevel convex programming models,A New Class of Feasible Direction Methods.,0.513533
+Bilevel convex programming models,Parametric programming: An illustrative mini encyclopedia ∗,0.628477
+Bilevel convex programming models,New regions of stability in input optimization,0.517053
+Bilevel convex programming models,LFS functions in multi-objective programming,0.435273
+Bilevel convex programming models,Convex Parametric Programming in Abstract Spaces,0.585419
+Bilevel convex programming models,The marginal value formula on regions of stability,0.574618
+Bilevel convex programming models,Regions of stability for ill-posed convex programs: An addendum,0.55343
+Bilevel convex programming models,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.240894
+Bilevel convex programming models,Modelling with twice continuously differentiable functions,0.509014
+Bilevel convex programming models,Separation property of continuously differentiable functions,0.366543
+Bilevel convex programming models,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.410003
+Bilevel convex programming models,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.510641
+Bilevel convex programming models,Parametric Decompositions of Continuous Functions,0.603214
+Bilevel convex programming models,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.246684
+Jensen's inequality for nonconvex functions ∗,On two simple decompositions of Lipschitz functions,0.482852
+Jensen's inequality for nonconvex functions ∗,On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,0.113018
+Jensen's inequality for nonconvex functions ∗,Optimality in nonlinear programming: A feasible directions approach,0.309462
+Jensen's inequality for nonconvex functions ∗,Stable parametric programming<sup>*</sup>,0.311799
+Jensen's inequality for nonconvex functions ∗,Characterization of convexifiable functions,0.567523
+Jensen's inequality for nonconvex functions ∗,Optimality conditions for convex semi‐infinite programming problems,0.371769
+Jensen's inequality for nonconvex functions ∗,Input optimization: III. optimal realizations of multiobjective models,0.322854
+Jensen's inequality for nonconvex functions ∗,Estimating convexifiers in continuous optimization,0.488707
+Jensen's inequality for nonconvex functions ∗,Convexifiable functions in integral calculus,0.724759
+Jensen's inequality for nonconvex functions ∗,L'Hôpital's rule without derivatives,0.30156
+Jensen's inequality for nonconvex functions ∗,Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,0.341309
+Jensen's inequality for nonconvex functions ∗,Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,0.326518
+Jensen's inequality for nonconvex functions ∗,Technical Note—Explicit Solutions of Interval Linear Programs,0.268726
+Jensen's inequality for nonconvex functions ∗,Survey of input optimization,0.21324
+Jensen's inequality for nonconvex functions ∗,Calculating the best approximate solution of an operator equation,0.097562
+Jensen's inequality for nonconvex functions ∗,Optimization: a Journal of Mathematical Programming and Operations Research,0.274429
+Jensen's inequality for nonconvex functions ∗,Approaches to the Theory of Optimization (J. Ponstein),0.257452
+Jensen's inequality for nonconvex functions ∗,Characterizing fixed points,0.376537
+Jensen's inequality for nonconvex functions ∗,Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,0.368605
+Jensen's inequality for nonconvex functions ∗,Regions of stability for ill-posed convex programs,0.322136
+Jensen's inequality for nonconvex functions ∗,Two characterizations of Pareto minima in convex multicriteria optimization,0.297636
+Jensen's inequality for nonconvex functions ∗,Constraint qualifications in input optimisation,0.283101
+Jensen's inequality for nonconvex functions ∗,Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,0.285584
+Jensen's inequality for nonconvex functions ∗,Stable Planning by Linear and Convex Models <sup>2/3</sup>,0.113974
+Jensen's inequality for nonconvex functions ∗,Duality in convex programming: a linearization approach<sup>1</sup>,0.315999
+Jensen's inequality for nonconvex functions ∗,The marginal value formula in input optimization,0.255296
+Jensen's inequality for nonconvex functions ∗,On minimization subject to cone constraints,0.279556
+Jensen's inequality for nonconvex functions ∗,A New Class of Feasible Direction Methods.,0.256017
+Jensen's inequality for nonconvex functions ∗,Parametric programming: An illustrative mini encyclopedia ∗,0.234266
+Jensen's inequality for nonconvex functions ∗,New regions of stability in input optimization,0.310437
+Jensen's inequality for nonconvex functions ∗,LFS functions in multi-objective programming,0.320128
+Jensen's inequality for nonconvex functions ∗,Convex Parametric Programming in Abstract Spaces,0.383543
+Jensen's inequality for nonconvex functions ∗,The marginal value formula on regions of stability,0.361564
+Jensen's inequality for nonconvex functions ∗,Regions of stability for ill-posed convex programs: An addendum,0.403967
+Jensen's inequality for nonconvex functions ∗,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.165143
+Jensen's inequality for nonconvex functions ∗,Modelling with twice continuously differentiable functions,0.522243
+Jensen's inequality for nonconvex functions ∗,Separation property of continuously differentiable functions,0.610917
+Jensen's inequality for nonconvex functions ∗,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.250615
+Jensen's inequality for nonconvex functions ∗,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.488772
+Jensen's inequality for nonconvex functions ∗,Parametric Decompositions of Continuous Functions,0.55749
+Jensen's inequality for nonconvex functions ∗,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.102014
+On two simple decompositions of Lipschitz functions,On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,0.245415
+On two simple decompositions of Lipschitz functions,Optimality in nonlinear programming: A feasible directions approach,0.543203
+On two simple decompositions of Lipschitz functions,Stable parametric programming<sup>*</sup>,0.553064
+On two simple decompositions of Lipschitz functions,Characterization of convexifiable functions,0.770576
+On two simple decompositions of Lipschitz functions,Optimality conditions for convex semi‐infinite programming problems,0.513337
+On two simple decompositions of Lipschitz functions,Input optimization: III. optimal realizations of multiobjective models,0.467085
+On two simple decompositions of Lipschitz functions,Estimating convexifiers in continuous optimization,0.655578
+On two simple decompositions of Lipschitz functions,Convexifiable functions in integral calculus,0.504517
+On two simple decompositions of Lipschitz functions,L'Hôpital's rule without derivatives,0.331215
+On two simple decompositions of Lipschitz functions,Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,0.549089
+On two simple decompositions of Lipschitz functions,Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,0.574536
+On two simple decompositions of Lipschitz functions,Technical Note—Explicit Solutions of Interval Linear Programs,0.454726
+On two simple decompositions of Lipschitz functions,Survey of input optimization,0.449911
+On two simple decompositions of Lipschitz functions,Calculating the best approximate solution of an operator equation,0.292982
+On two simple decompositions of Lipschitz functions,Optimization: a Journal of Mathematical Programming and Operations Research,0.369649
+On two simple decompositions of Lipschitz functions,Approaches to the Theory of Optimization (J. Ponstein),0.38196
+On two simple decompositions of Lipschitz functions,Characterizing fixed points,0.360731
+On two simple decompositions of Lipschitz functions,Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,0.481785
+On two simple decompositions of Lipschitz functions,Regions of stability for ill-posed convex programs,0.545521
+On two simple decompositions of Lipschitz functions,Two characterizations of Pareto minima in convex multicriteria optimization,0.414196
+On two simple decompositions of Lipschitz functions,Constraint qualifications in input optimisation,0.413599
+On two simple decompositions of Lipschitz functions,Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,0.52976
+On two simple decompositions of Lipschitz functions,Stable Planning by Linear and Convex Models <sup>2/3</sup>,0.360702
+On two simple decompositions of Lipschitz functions,Duality in convex programming: a linearization approach<sup>1</sup>,0.530455
+On two simple decompositions of Lipschitz functions,The marginal value formula in input optimization,0.431602
+On two simple decompositions of Lipschitz functions,On minimization subject to cone constraints,0.484495
+On two simple decompositions of Lipschitz functions,A New Class of Feasible Direction Methods.,0.468741
+On two simple decompositions of Lipschitz functions,Parametric programming: An illustrative mini encyclopedia ∗,0.494806
+On two simple decompositions of Lipschitz functions,New regions of stability in input optimization,0.510469
+On two simple decompositions of Lipschitz functions,LFS functions in multi-objective programming,0.415488
+On two simple decompositions of Lipschitz functions,Convex Parametric Programming in Abstract Spaces,0.547125
+On two simple decompositions of Lipschitz functions,The marginal value formula on regions of stability,0.560818
+On two simple decompositions of Lipschitz functions,Regions of stability for ill-posed convex programs: An addendum,0.513297
+On two simple decompositions of Lipschitz functions,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.291889
+On two simple decompositions of Lipschitz functions,Modelling with twice continuously differentiable functions,0.551079
+On two simple decompositions of Lipschitz functions,Separation property of continuously differentiable functions,0.59007
+On two simple decompositions of Lipschitz functions,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.523192
+On two simple decompositions of Lipschitz functions,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.627653
+On two simple decompositions of Lipschitz functions,Parametric Decompositions of Continuous Functions,0.8424
+On two simple decompositions of Lipschitz functions,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.116509
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,Optimality in nonlinear programming: A feasible directions approach,0.014412
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,Stable parametric programming<sup>*</sup>,0.149043
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,Characterization of convexifiable functions,0.149205
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,Optimality conditions for convex semi‐infinite programming problems,0.066893
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,Input optimization: III. optimal realizations of multiobjective models,0.071886
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,Estimating convexifiers in continuous optimization,0.214837
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,Convexifiable functions in integral calculus,0.109364
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,L'Hôpital's rule without derivatives,0.233472
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,0.091676
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,0.145746
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,Technical Note—Explicit Solutions of Interval Linear Programs,0.152776
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,Survey of input optimization,0.165821
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,Calculating the best approximate solution of an operator equation,0.276057
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,Optimization: a Journal of Mathematical Programming and Operations Research,0.197227
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,Approaches to the Theory of Optimization (J. Ponstein),0.35232
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,Characterizing fixed points,0.235769
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,0.00648
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,Regions of stability for ill-posed convex programs,0.150564
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,Two characterizations of Pareto minima in convex multicriteria optimization,0.092844
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,Constraint qualifications in input optimisation,0.197075
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,0.142464
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,Stable Planning by Linear and Convex Models <sup>2/3</sup>,0.052479
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,Duality in convex programming: a linearization approach<sup>1</sup>,0.054584
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,The marginal value formula in input optimization,0.194718
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,On minimization subject to cone constraints,0.04043
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,A New Class of Feasible Direction Methods.,0.053815
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,Parametric programming: An illustrative mini encyclopedia ∗,0.160789
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,New regions of stability in input optimization,0.119608
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,LFS functions in multi-objective programming,0.065673
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,Convex Parametric Programming in Abstract Spaces,0.004111
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,The marginal value formula on regions of stability,0.08803
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,Regions of stability for ill-posed convex programs: An addendum,0.132509
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.336575
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,Modelling with twice continuously differentiable functions,0.21088
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,Separation property of continuously differentiable functions,0.1914
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.278794
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.301396
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,Parametric Decompositions of Continuous Functions,0.155252
+On a Method of Weierstraß for the Simultaneous Calculation of the Roots of a Polynomial,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.116956
+Optimality in nonlinear programming: A feasible directions approach,Stable parametric programming<sup>*</sup>,0.62043
+Optimality in nonlinear programming: A feasible directions approach,Characterization of convexifiable functions,0.613076
+Optimality in nonlinear programming: A feasible directions approach,Optimality conditions for convex semi‐infinite programming problems,0.673273
+Optimality in nonlinear programming: A feasible directions approach,Input optimization: III. optimal realizations of multiobjective models,0.599588
+Optimality in nonlinear programming: A feasible directions approach,Estimating convexifiers in continuous optimization,0.673357
+Optimality in nonlinear programming: A feasible directions approach,Convexifiable functions in integral calculus,0.322331
+Optimality in nonlinear programming: A feasible directions approach,L'Hôpital's rule without derivatives,0.074267
+Optimality in nonlinear programming: A feasible directions approach,Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,0.584151
+Optimality in nonlinear programming: A feasible directions approach,Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,0.595565
+Optimality in nonlinear programming: A feasible directions approach,Technical Note—Explicit Solutions of Interval Linear Programs,0.407453
+Optimality in nonlinear programming: A feasible directions approach,Survey of input optimization,0.509473
+Optimality in nonlinear programming: A feasible directions approach,Calculating the best approximate solution of an operator equation,0.264827
+Optimality in nonlinear programming: A feasible directions approach,Optimization: a Journal of Mathematical Programming and Operations Research,0.411291
+Optimality in nonlinear programming: A feasible directions approach,Approaches to the Theory of Optimization (J. Ponstein),0.409194
+Optimality in nonlinear programming: A feasible directions approach,Characterizing fixed points,0.27257
+Optimality in nonlinear programming: A feasible directions approach,Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,0.702194
+Optimality in nonlinear programming: A feasible directions approach,Regions of stability for ill-posed convex programs,0.720891
+Optimality in nonlinear programming: A feasible directions approach,Two characterizations of Pareto minima in convex multicriteria optimization,0.431565
+Optimality in nonlinear programming: A feasible directions approach,Constraint qualifications in input optimisation,0.46645
+Optimality in nonlinear programming: A feasible directions approach,Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,0.758915
+Optimality in nonlinear programming: A feasible directions approach,Stable Planning by Linear and Convex Models <sup>2/3</sup>,0.456899
+Optimality in nonlinear programming: A feasible directions approach,Duality in convex programming: a linearization approach<sup>1</sup>,0.676381
+Optimality in nonlinear programming: A feasible directions approach,The marginal value formula in input optimization,0.558096
+Optimality in nonlinear programming: A feasible directions approach,On minimization subject to cone constraints,0.593698
+Optimality in nonlinear programming: A feasible directions approach,A New Class of Feasible Direction Methods.,0.711897
+Optimality in nonlinear programming: A feasible directions approach,Parametric programming: An illustrative mini encyclopedia ∗,0.449585
+Optimality in nonlinear programming: A feasible directions approach,New regions of stability in input optimization,0.576891
+Optimality in nonlinear programming: A feasible directions approach,LFS functions in multi-objective programming,0.456029
+Optimality in nonlinear programming: A feasible directions approach,Convex Parametric Programming in Abstract Spaces,0.653324
+Optimality in nonlinear programming: A feasible directions approach,The marginal value formula on regions of stability,0.654561
+Optimality in nonlinear programming: A feasible directions approach,Regions of stability for ill-posed convex programs: An addendum,0.62016
+Optimality in nonlinear programming: A feasible directions approach,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.133953
+Optimality in nonlinear programming: A feasible directions approach,Modelling with twice continuously differentiable functions,0.425782
+Optimality in nonlinear programming: A feasible directions approach,Separation property of continuously differentiable functions,0.381568
+Optimality in nonlinear programming: A feasible directions approach,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.514667
+Optimality in nonlinear programming: A feasible directions approach,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.400573
+Optimality in nonlinear programming: A feasible directions approach,Parametric Decompositions of Continuous Functions,0.638734
+Optimality in nonlinear programming: A feasible directions approach,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.170005
+Stable parametric programming<sup>*</sup>,Characterization of convexifiable functions,0.584352
+Stable parametric programming<sup>*</sup>,Optimality conditions for convex semi‐infinite programming problems,0.525645
+Stable parametric programming<sup>*</sup>,Input optimization: III. optimal realizations of multiobjective models,0.500808
+Stable parametric programming<sup>*</sup>,Estimating convexifiers in continuous optimization,0.567711
+Stable parametric programming<sup>*</sup>,Convexifiable functions in integral calculus,0.263377
+Stable parametric programming<sup>*</sup>,L'Hôpital's rule without derivatives,0.168428
+Stable parametric programming<sup>*</sup>,Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,0.440848
+Stable parametric programming<sup>*</sup>,Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,0.440837
+Stable parametric programming<sup>*</sup>,Technical Note—Explicit Solutions of Interval Linear Programs,0.454932
+Stable parametric programming<sup>*</sup>,Survey of input optimization,0.491201
+Stable parametric programming<sup>*</sup>,Calculating the best approximate solution of an operator equation,0.239295
+Stable parametric programming<sup>*</sup>,Optimization: a Journal of Mathematical Programming and Operations Research,0.442984
+Stable parametric programming<sup>*</sup>,Approaches to the Theory of Optimization (J. Ponstein),0.363976
+Stable parametric programming<sup>*</sup>,Characterizing fixed points,0.339622
+Stable parametric programming<sup>*</sup>,Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,0.5327
+Stable parametric programming<sup>*</sup>,Regions of stability for ill-posed convex programs,0.64894
+Stable parametric programming<sup>*</sup>,Two characterizations of Pareto minima in convex multicriteria optimization,0.400722
+Stable parametric programming<sup>*</sup>,Constraint qualifications in input optimisation,0.431457
+Stable parametric programming<sup>*</sup>,Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,0.593028
+Stable parametric programming<sup>*</sup>,Stable Planning by Linear and Convex Models <sup>2/3</sup>,0.506739
+Stable parametric programming<sup>*</sup>,Duality in convex programming: a linearization approach<sup>1</sup>,0.551308
+Stable parametric programming<sup>*</sup>,The marginal value formula in input optimization,0.525089
+Stable parametric programming<sup>*</sup>,On minimization subject to cone constraints,0.493646
+Stable parametric programming<sup>*</sup>,A New Class of Feasible Direction Methods.,0.579487
+Stable parametric programming<sup>*</sup>,Parametric programming: An illustrative mini encyclopedia ∗,0.567544
+Stable parametric programming<sup>*</sup>,New regions of stability in input optimization,0.682457
+Stable parametric programming<sup>*</sup>,LFS functions in multi-objective programming,0.452152
+Stable parametric programming<sup>*</sup>,Convex Parametric Programming in Abstract Spaces,0.7445
+Stable parametric programming<sup>*</sup>,The marginal value formula on regions of stability,0.648545
+Stable parametric programming<sup>*</sup>,Regions of stability for ill-posed convex programs: An addendum,0.543402
+Stable parametric programming<sup>*</sup>,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.132986
+Stable parametric programming<sup>*</sup>,Modelling with twice continuously differentiable functions,0.405068
+Stable parametric programming<sup>*</sup>,Separation property of continuously differentiable functions,0.402456
+Stable parametric programming<sup>*</sup>,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.536774
+Stable parametric programming<sup>*</sup>,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.426957
+Stable parametric programming<sup>*</sup>,Parametric Decompositions of Continuous Functions,0.630241
+Stable parametric programming<sup>*</sup>,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.215772
+Characterization of convexifiable functions,Optimality conditions for convex semi‐infinite programming problems,0.601615
+Characterization of convexifiable functions,Input optimization: III. optimal realizations of multiobjective models,0.493954
+Characterization of convexifiable functions,Estimating convexifiers in continuous optimization,0.763613
+Characterization of convexifiable functions,Convexifiable functions in integral calculus,0.589037
+Characterization of convexifiable functions,L'Hôpital's rule without derivatives,0.335409
+Characterization of convexifiable functions,Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,0.527184
+Characterization of convexifiable functions,Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,0.535517
+Characterization of convexifiable functions,Technical Note—Explicit Solutions of Interval Linear Programs,0.474023
+Characterization of convexifiable functions,Survey of input optimization,0.471637
+Characterization of convexifiable functions,Calculating the best approximate solution of an operator equation,0.240549
+Characterization of convexifiable functions,Optimization: a Journal of Mathematical Programming and Operations Research,0.457046
+Characterization of convexifiable functions,Approaches to the Theory of Optimization (J. Ponstein),0.43217
+Characterization of convexifiable functions,Characterizing fixed points,0.39045
+Characterization of convexifiable functions,Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,0.570256
+Characterization of convexifiable functions,Regions of stability for ill-posed convex programs,0.583294
+Characterization of convexifiable functions,Two characterizations of Pareto minima in convex multicriteria optimization,0.462608
+Characterization of convexifiable functions,Constraint qualifications in input optimisation,0.465486
+Characterization of convexifiable functions,Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,0.590188
+Characterization of convexifiable functions,Stable Planning by Linear and Convex Models <sup>2/3</sup>,0.39544
+Characterization of convexifiable functions,Duality in convex programming: a linearization approach<sup>1</sup>,0.618176
+Characterization of convexifiable functions,The marginal value formula in input optimization,0.481457
+Characterization of convexifiable functions,On minimization subject to cone constraints,0.513343
+Characterization of convexifiable functions,A New Class of Feasible Direction Methods.,0.564091
+Characterization of convexifiable functions,Parametric programming: An illustrative mini encyclopedia ∗,0.495799
+Characterization of convexifiable functions,New regions of stability in input optimization,0.534323
+Characterization of convexifiable functions,LFS functions in multi-objective programming,0.494034
+Characterization of convexifiable functions,Convex Parametric Programming in Abstract Spaces,0.575984
+Characterization of convexifiable functions,The marginal value formula on regions of stability,0.581044
+Characterization of convexifiable functions,Regions of stability for ill-posed convex programs: An addendum,0.596419
+Characterization of convexifiable functions,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.182141
+Characterization of convexifiable functions,Modelling with twice continuously differentiable functions,0.617952
+Characterization of convexifiable functions,Separation property of continuously differentiable functions,0.593459
+Characterization of convexifiable functions,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.517148
+Characterization of convexifiable functions,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.658599
+Characterization of convexifiable functions,Parametric Decompositions of Continuous Functions,0.813824
+Characterization of convexifiable functions,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.112183
+Optimality conditions for convex semi‐infinite programming problems,Input optimization: III. optimal realizations of multiobjective models,0.544982
+Optimality conditions for convex semi‐infinite programming problems,Estimating convexifiers in continuous optimization,0.627188
+Optimality conditions for convex semi‐infinite programming problems,Convexifiable functions in integral calculus,0.340012
+Optimality conditions for convex semi‐infinite programming problems,L'Hôpital's rule without derivatives,0.166136
+Optimality conditions for convex semi‐infinite programming problems,Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,0.60687
+Optimality conditions for convex semi‐infinite programming problems,Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,0.612206
+Optimality conditions for convex semi‐infinite programming problems,Technical Note—Explicit Solutions of Interval Linear Programs,0.492366
+Optimality conditions for convex semi‐infinite programming problems,Survey of input optimization,0.472634
+Optimality conditions for convex semi‐infinite programming problems,Calculating the best approximate solution of an operator equation,0.200307
+Optimality conditions for convex semi‐infinite programming problems,Optimization: a Journal of Mathematical Programming and Operations Research,0.45967
+Optimality conditions for convex semi‐infinite programming problems,Approaches to the Theory of Optimization (J. Ponstein),0.452408
+Optimality conditions for convex semi‐infinite programming problems,Characterizing fixed points,0.324138
+Optimality conditions for convex semi‐infinite programming problems,Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,0.659954
+Optimality conditions for convex semi‐infinite programming problems,Regions of stability for ill-posed convex programs,0.55901
+Optimality conditions for convex semi‐infinite programming problems,Two characterizations of Pareto minima in convex multicriteria optimization,0.48518
+Optimality conditions for convex semi‐infinite programming problems,Constraint qualifications in input optimisation,0.526621
+Optimality conditions for convex semi‐infinite programming problems,Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,0.574852
+Optimality conditions for convex semi‐infinite programming problems,Stable Planning by Linear and Convex Models <sup>2/3</sup>,0.350239
+Optimality conditions for convex semi‐infinite programming problems,Duality in convex programming: a linearization approach<sup>1</sup>,0.647793
+Optimality conditions for convex semi‐infinite programming problems,The marginal value formula in input optimization,0.433515
+Optimality conditions for convex semi‐infinite programming problems,On minimization subject to cone constraints,0.614631
+Optimality conditions for convex semi‐infinite programming problems,A New Class of Feasible Direction Methods.,0.544018
+Optimality conditions for convex semi‐infinite programming problems,Parametric programming: An illustrative mini encyclopedia ∗,0.416606
+Optimality conditions for convex semi‐infinite programming problems,New regions of stability in input optimization,0.489916
+Optimality conditions for convex semi‐infinite programming problems,LFS functions in multi-objective programming,0.498939
+Optimality conditions for convex semi‐infinite programming problems,Convex Parametric Programming in Abstract Spaces,0.57136
+Optimality conditions for convex semi‐infinite programming problems,The marginal value formula on regions of stability,0.51859
+Optimality conditions for convex semi‐infinite programming problems,Regions of stability for ill-posed convex programs: An addendum,0.521493
+Optimality conditions for convex semi‐infinite programming problems,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.135491
+Optimality conditions for convex semi‐infinite programming problems,Modelling with twice continuously differentiable functions,0.433795
+Optimality conditions for convex semi‐infinite programming problems,Separation property of continuously differentiable functions,0.419534
+Optimality conditions for convex semi‐infinite programming problems,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.462102
+Optimality conditions for convex semi‐infinite programming problems,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.426167
+Optimality conditions for convex semi‐infinite programming problems,Parametric Decompositions of Continuous Functions,0.613309
+Optimality conditions for convex semi‐infinite programming problems,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.178786
+Input optimization: III. optimal realizations of multiobjective models,Estimating convexifiers in continuous optimization,0.52802
+Input optimization: III. optimal realizations of multiobjective models,Convexifiable functions in integral calculus,0.290737
+Input optimization: III. optimal realizations of multiobjective models,L'Hôpital's rule without derivatives,0.175355
+Input optimization: III. optimal realizations of multiobjective models,Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,0.465572
+Input optimization: III. optimal realizations of multiobjective models,Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,0.462366
+Input optimization: III. optimal realizations of multiobjective models,Technical Note—Explicit Solutions of Interval Linear Programs,0.350984
+Input optimization: III. optimal realizations of multiobjective models,Survey of input optimization,0.563649
+Input optimization: III. optimal realizations of multiobjective models,Calculating the best approximate solution of an operator equation,0.186744
+Input optimization: III. optimal realizations of multiobjective models,Optimization: a Journal of Mathematical Programming and Operations Research,0.400343
+Input optimization: III. optimal realizations of multiobjective models,Approaches to the Theory of Optimization (J. Ponstein),0.43462
+Input optimization: III. optimal realizations of multiobjective models,Characterizing fixed points,0.389403
+Input optimization: III. optimal realizations of multiobjective models,Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,0.494596
+Input optimization: III. optimal realizations of multiobjective models,Regions of stability for ill-posed convex programs,0.594109
+Input optimization: III. optimal realizations of multiobjective models,Two characterizations of Pareto minima in convex multicriteria optimization,0.549337
+Input optimization: III. optimal realizations of multiobjective models,Constraint qualifications in input optimisation,0.428931
+Input optimization: III. optimal realizations of multiobjective models,Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,0.550133
+Input optimization: III. optimal realizations of multiobjective models,Stable Planning by Linear and Convex Models <sup>2/3</sup>,0.422623
+Input optimization: III. optimal realizations of multiobjective models,Duality in convex programming: a linearization approach<sup>1</sup>,0.565026
+Input optimization: III. optimal realizations of multiobjective models,The marginal value formula in input optimization,0.474079
+Input optimization: III. optimal realizations of multiobjective models,On minimization subject to cone constraints,0.407016
+Input optimization: III. optimal realizations of multiobjective models,A New Class of Feasible Direction Methods.,0.394643
+Input optimization: III. optimal realizations of multiobjective models,Parametric programming: An illustrative mini encyclopedia ∗,0.44765
+Input optimization: III. optimal realizations of multiobjective models,New regions of stability in input optimization,0.554165
+Input optimization: III. optimal realizations of multiobjective models,LFS functions in multi-objective programming,0.559479
+Input optimization: III. optimal realizations of multiobjective models,Convex Parametric Programming in Abstract Spaces,0.598341
+Input optimization: III. optimal realizations of multiobjective models,The marginal value formula on regions of stability,0.63975
+Input optimization: III. optimal realizations of multiobjective models,Regions of stability for ill-posed convex programs: An addendum,0.627714
+Input optimization: III. optimal realizations of multiobjective models,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.181834
+Input optimization: III. optimal realizations of multiobjective models,Modelling with twice continuously differentiable functions,0.389523
+Input optimization: III. optimal realizations of multiobjective models,Separation property of continuously differentiable functions,0.355561
+Input optimization: III. optimal realizations of multiobjective models,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.50193
+Input optimization: III. optimal realizations of multiobjective models,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.411798
+Input optimization: III. optimal realizations of multiobjective models,Parametric Decompositions of Continuous Functions,0.549448
+Input optimization: III. optimal realizations of multiobjective models,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.32041
+Estimating convexifiers in continuous optimization,Convexifiable functions in integral calculus,0.537143
+Estimating convexifiers in continuous optimization,L'Hôpital's rule without derivatives,0.237186
+Estimating convexifiers in continuous optimization,Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,0.531175
+Estimating convexifiers in continuous optimization,Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,0.547044
+Estimating convexifiers in continuous optimization,Technical Note—Explicit Solutions of Interval Linear Programs,0.4639
+Estimating convexifiers in continuous optimization,Survey of input optimization,0.506558
+Estimating convexifiers in continuous optimization,Calculating the best approximate solution of an operator equation,0.265937
+Estimating convexifiers in continuous optimization,Optimization: a Journal of Mathematical Programming and Operations Research,0.505584
+Estimating convexifiers in continuous optimization,Approaches to the Theory of Optimization (J. Ponstein),0.446284
+Estimating convexifiers in continuous optimization,Characterizing fixed points,0.355084
+Estimating convexifiers in continuous optimization,Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,0.530215
+Estimating convexifiers in continuous optimization,Regions of stability for ill-posed convex programs,0.633584
+Estimating convexifiers in continuous optimization,Two characterizations of Pareto minima in convex multicriteria optimization,0.413875
+Estimating convexifiers in continuous optimization,Constraint qualifications in input optimisation,0.516238
+Estimating convexifiers in continuous optimization,Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,0.622494
+Estimating convexifiers in continuous optimization,Stable Planning by Linear and Convex Models <sup>2/3</sup>,0.39142
+Estimating convexifiers in continuous optimization,Duality in convex programming: a linearization approach<sup>1</sup>,0.617334
+Estimating convexifiers in continuous optimization,The marginal value formula in input optimization,0.521888
+Estimating convexifiers in continuous optimization,On minimization subject to cone constraints,0.508995
+Estimating convexifiers in continuous optimization,A New Class of Feasible Direction Methods.,0.566202
+Estimating convexifiers in continuous optimization,Parametric programming: An illustrative mini encyclopedia ∗,0.505304
+Estimating convexifiers in continuous optimization,New regions of stability in input optimization,0.539066
+Estimating convexifiers in continuous optimization,LFS functions in multi-objective programming,0.454064
+Estimating convexifiers in continuous optimization,Convex Parametric Programming in Abstract Spaces,0.566723
+Estimating convexifiers in continuous optimization,The marginal value formula on regions of stability,0.633145
+Estimating convexifiers in continuous optimization,Regions of stability for ill-posed convex programs: An addendum,0.62897
+Estimating convexifiers in continuous optimization,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.201756
+Estimating convexifiers in continuous optimization,Modelling with twice continuously differentiable functions,0.622213
+Estimating convexifiers in continuous optimization,Separation property of continuously differentiable functions,0.564971
+Estimating convexifiers in continuous optimization,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.498697
+Estimating convexifiers in continuous optimization,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.619925
+Estimating convexifiers in continuous optimization,Parametric Decompositions of Continuous Functions,0.729912
+Estimating convexifiers in continuous optimization,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.162846
+Convexifiable functions in integral calculus,L'Hôpital's rule without derivatives,0.363771
+Convexifiable functions in integral calculus,Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,0.320225
+Convexifiable functions in integral calculus,Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,0.29222
+Convexifiable functions in integral calculus,Technical Note—Explicit Solutions of Interval Linear Programs,0.247063
+Convexifiable functions in integral calculus,Survey of input optimization,0.247851
+Convexifiable functions in integral calculus,Calculating the best approximate solution of an operator equation,0.180083
+Convexifiable functions in integral calculus,Optimization: a Journal of Mathematical Programming and Operations Research,0.287778
+Convexifiable functions in integral calculus,Approaches to the Theory of Optimization (J. Ponstein),0.256511
+Convexifiable functions in integral calculus,Characterizing fixed points,0.351312
+Convexifiable functions in integral calculus,Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,0.336236
+Convexifiable functions in integral calculus,Regions of stability for ill-posed convex programs,0.282418
+Convexifiable functions in integral calculus,Two characterizations of Pareto minima in convex multicriteria optimization,0.210744
+Convexifiable functions in integral calculus,Constraint qualifications in input optimisation,0.265951
+Convexifiable functions in integral calculus,Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,0.231626
+Convexifiable functions in integral calculus,Stable Planning by Linear and Convex Models <sup>2/3</sup>,0.144105
+Convexifiable functions in integral calculus,Duality in convex programming: a linearization approach<sup>1</sup>,0.288874
+Convexifiable functions in integral calculus,The marginal value formula in input optimization,0.249903
+Convexifiable functions in integral calculus,On minimization subject to cone constraints,0.290258
+Convexifiable functions in integral calculus,A New Class of Feasible Direction Methods.,0.292838
+Convexifiable functions in integral calculus,Parametric programming: An illustrative mini encyclopedia ∗,0.238402
+Convexifiable functions in integral calculus,New regions of stability in input optimization,0.253305
+Convexifiable functions in integral calculus,LFS functions in multi-objective programming,0.262786
+Convexifiable functions in integral calculus,Convex Parametric Programming in Abstract Spaces,0.332665
+Convexifiable functions in integral calculus,The marginal value formula on regions of stability,0.343289
+Convexifiable functions in integral calculus,Regions of stability for ill-posed convex programs: An addendum,0.395111
+Convexifiable functions in integral calculus,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.161746
+Convexifiable functions in integral calculus,Modelling with twice continuously differentiable functions,0.5408
+Convexifiable functions in integral calculus,Separation property of continuously differentiable functions,0.595033
+Convexifiable functions in integral calculus,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.203033
+Convexifiable functions in integral calculus,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.512606
+Convexifiable functions in integral calculus,Parametric Decompositions of Continuous Functions,0.515567
+Convexifiable functions in integral calculus,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.147937
+L'Hôpital's rule without derivatives,Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,0.217549
+L'Hôpital's rule without derivatives,Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,0.234391
+L'Hôpital's rule without derivatives,Technical Note—Explicit Solutions of Interval Linear Programs,0.204339
+L'Hôpital's rule without derivatives,Survey of input optimization,0.172731
+L'Hôpital's rule without derivatives,Calculating the best approximate solution of an operator equation,0.202391
+L'Hôpital's rule without derivatives,Optimization: a Journal of Mathematical Programming and Operations Research,0.171025
+L'Hôpital's rule without derivatives,Approaches to the Theory of Optimization (J. Ponstein),0.245504
+L'Hôpital's rule without derivatives,Characterizing fixed points,0.207103
+L'Hôpital's rule without derivatives,Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,0.130523
+L'Hôpital's rule without derivatives,Regions of stability for ill-posed convex programs,0.174767
+L'Hôpital's rule without derivatives,Two characterizations of Pareto minima in convex multicriteria optimization,0.191389
+L'Hôpital's rule without derivatives,Constraint qualifications in input optimisation,0.216439
+L'Hôpital's rule without derivatives,Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,0.139599
+L'Hôpital's rule without derivatives,Stable Planning by Linear and Convex Models <sup>2/3</sup>,0.120193
+L'Hôpital's rule without derivatives,Duality in convex programming: a linearization approach<sup>1</sup>,0.113914
+L'Hôpital's rule without derivatives,The marginal value formula in input optimization,0.2343
+L'Hôpital's rule without derivatives,On minimization subject to cone constraints,0.212501
+L'Hôpital's rule without derivatives,A New Class of Feasible Direction Methods.,0.10831
+L'Hôpital's rule without derivatives,Parametric programming: An illustrative mini encyclopedia ∗,0.15496
+L'Hôpital's rule without derivatives,New regions of stability in input optimization,0.230227
+L'Hôpital's rule without derivatives,LFS functions in multi-objective programming,0.191217
+L'Hôpital's rule without derivatives,Convex Parametric Programming in Abstract Spaces,0.184661
+L'Hôpital's rule without derivatives,The marginal value formula on regions of stability,0.233702
+L'Hôpital's rule without derivatives,Regions of stability for ill-posed convex programs: An addendum,0.331971
+L'Hôpital's rule without derivatives,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.228331
+L'Hôpital's rule without derivatives,Modelling with twice continuously differentiable functions,0.401396
+L'Hôpital's rule without derivatives,Separation property of continuously differentiable functions,0.430039
+L'Hôpital's rule without derivatives,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.181223
+L'Hôpital's rule without derivatives,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.439647
+L'Hôpital's rule without derivatives,Parametric Decompositions of Continuous Functions,0.31822
+L'Hôpital's rule without derivatives,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.133503
+Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,0.940187
+Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,Technical Note—Explicit Solutions of Interval Linear Programs,0.36425
+Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,Survey of input optimization,0.413784
+Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,Calculating the best approximate solution of an operator equation,0.433578
+Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,Optimization: a Journal of Mathematical Programming and Operations Research,0.416625
+Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,Approaches to the Theory of Optimization (J. Ponstein),0.479623
+Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,Characterizing fixed points,0.28453
+Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,0.673785
+Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,Regions of stability for ill-posed convex programs,0.534254
+Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,Two characterizations of Pareto minima in convex multicriteria optimization,0.383762
+Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,Constraint qualifications in input optimisation,0.454014
+Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,0.561186
+Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,Stable Planning by Linear and Convex Models <sup>2/3</sup>,0.299396
+Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,Duality in convex programming: a linearization approach<sup>1</sup>,0.556592
+Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,The marginal value formula in input optimization,0.40365
+Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,On minimization subject to cone constraints,0.636135
+Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,A New Class of Feasible Direction Methods.,0.49429
+Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,Parametric programming: An illustrative mini encyclopedia ∗,0.36643
+Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,New regions of stability in input optimization,0.451891
+Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,LFS functions in multi-objective programming,0.408648
+Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,Convex Parametric Programming in Abstract Spaces,0.565044
+Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,The marginal value formula on regions of stability,0.507084
+Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,Regions of stability for ill-posed convex programs: An addendum,0.512405
+Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.20787
+Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,Modelling with twice continuously differentiable functions,0.40688
+Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,Separation property of continuously differentiable functions,0.426728
+Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.430902
+Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.47154
+Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,Parametric Decompositions of Continuous Functions,0.592624
+Asymptotic Kuhn–Tucker Conditions for Mathematical Programming Problems in a Banach Space,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.134378
+Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,Technical Note—Explicit Solutions of Interval Linear Programs,0.395288
+Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,Survey of input optimization,0.414656
+Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,Calculating the best approximate solution of an operator equation,0.44518
+Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,Optimization: a Journal of Mathematical Programming and Operations Research,0.41321
+Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,Approaches to the Theory of Optimization (J. Ponstein),0.471963
+Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,Characterizing fixed points,0.296998
+Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,0.659631
+Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,Regions of stability for ill-posed convex programs,0.546148
+Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,Two characterizations of Pareto minima in convex multicriteria optimization,0.379616
+Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,Constraint qualifications in input optimisation,0.477348
+Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,0.574426
+Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,Stable Planning by Linear and Convex Models <sup>2/3</sup>,0.287226
+Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,Duality in convex programming: a linearization approach<sup>1</sup>,0.563854
+Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,The marginal value formula in input optimization,0.411579
+Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,On minimization subject to cone constraints,0.566311
+Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,A New Class of Feasible Direction Methods.,0.481982
+Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,Parametric programming: An illustrative mini encyclopedia ∗,0.374271
+Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,New regions of stability in input optimization,0.457845
+Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,LFS functions in multi-objective programming,0.405824
+Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,Convex Parametric Programming in Abstract Spaces,0.544465
+Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,The marginal value formula on regions of stability,0.522884
+Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,Regions of stability for ill-posed convex programs: An addendum,0.518295
+Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.217967
+Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,Modelling with twice continuously differentiable functions,0.416562
+Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,Separation property of continuously differentiable functions,0.414742
+Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.476936
+Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.492777
+Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,Parametric Decompositions of Continuous Functions,0.584641
+Extensions of Asymptotic Kuhn–Tucker Conditions in Mathematical Programming,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.137601
+Technical Note—Explicit Solutions of Interval Linear Programs,Survey of input optimization,0.392919
+Technical Note—Explicit Solutions of Interval Linear Programs,Calculating the best approximate solution of an operator equation,0.181733
+Technical Note—Explicit Solutions of Interval Linear Programs,Optimization: a Journal of Mathematical Programming and Operations Research,0.449474
+Technical Note—Explicit Solutions of Interval Linear Programs,Approaches to the Theory of Optimization (J. Ponstein),0.372848
+Technical Note—Explicit Solutions of Interval Linear Programs,Characterizing fixed points,0.40015
+Technical Note—Explicit Solutions of Interval Linear Programs,Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,0.325059
+Technical Note—Explicit Solutions of Interval Linear Programs,Regions of stability for ill-posed convex programs,0.456425
+Technical Note—Explicit Solutions of Interval Linear Programs,Two characterizations of Pareto minima in convex multicriteria optimization,0.39188
+Technical Note—Explicit Solutions of Interval Linear Programs,Constraint qualifications in input optimisation,0.410771
+Technical Note—Explicit Solutions of Interval Linear Programs,Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,0.417504
+Technical Note—Explicit Solutions of Interval Linear Programs,Stable Planning by Linear and Convex Models <sup>2/3</sup>,0.445741
+Technical Note—Explicit Solutions of Interval Linear Programs,Duality in convex programming: a linearization approach<sup>1</sup>,0.400363
+Technical Note—Explicit Solutions of Interval Linear Programs,The marginal value formula in input optimization,0.368905
+Technical Note—Explicit Solutions of Interval Linear Programs,On minimization subject to cone constraints,0.372382
+Technical Note—Explicit Solutions of Interval Linear Programs,A New Class of Feasible Direction Methods.,0.327931
+Technical Note—Explicit Solutions of Interval Linear Programs,Parametric programming: An illustrative mini encyclopedia ∗,0.45123
+Technical Note—Explicit Solutions of Interval Linear Programs,New regions of stability in input optimization,0.400646
+Technical Note—Explicit Solutions of Interval Linear Programs,LFS functions in multi-objective programming,0.282344
+Technical Note—Explicit Solutions of Interval Linear Programs,Convex Parametric Programming in Abstract Spaces,0.400088
+Technical Note—Explicit Solutions of Interval Linear Programs,The marginal value formula on regions of stability,0.40068
+Technical Note—Explicit Solutions of Interval Linear Programs,Regions of stability for ill-posed convex programs: An addendum,0.303057
+Technical Note—Explicit Solutions of Interval Linear Programs,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.120979
+Technical Note—Explicit Solutions of Interval Linear Programs,Modelling with twice continuously differentiable functions,0.321867
+Technical Note—Explicit Solutions of Interval Linear Programs,Separation property of continuously differentiable functions,0.27387
+Technical Note—Explicit Solutions of Interval Linear Programs,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.484774
+Technical Note—Explicit Solutions of Interval Linear Programs,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.392584
+Technical Note—Explicit Solutions of Interval Linear Programs,Parametric Decompositions of Continuous Functions,0.4416
+Technical Note—Explicit Solutions of Interval Linear Programs,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.237736
+Survey of input optimization,Calculating the best approximate solution of an operator equation,0.310938
+Survey of input optimization,Optimization: a Journal of Mathematical Programming and Operations Research,0.585282
+Survey of input optimization,Approaches to the Theory of Optimization (J. Ponstein),0.576027
+Survey of input optimization,Characterizing fixed points,0.391923
+Survey of input optimization,Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,0.428201
+Survey of input optimization,Regions of stability for ill-posed convex programs,0.532954
+Survey of input optimization,Two characterizations of Pareto minima in convex multicriteria optimization,0.439185
+Survey of input optimization,Constraint qualifications in input optimisation,0.626257
+Survey of input optimization,Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,0.463768
+Survey of input optimization,Stable Planning by Linear and Convex Models <sup>2/3</sup>,0.554926
+Survey of input optimization,Duality in convex programming: a linearization approach<sup>1</sup>,0.416223
+Survey of input optimization,The marginal value formula in input optimization,0.692778
+Survey of input optimization,On minimization subject to cone constraints,0.469385
+Survey of input optimization,A New Class of Feasible Direction Methods.,0.445487
+Survey of input optimization,Parametric programming: An illustrative mini encyclopedia ∗,0.572765
+Survey of input optimization,New regions of stability in input optimization,0.664151
+Survey of input optimization,LFS functions in multi-objective programming,0.392984
+Survey of input optimization,Convex Parametric Programming in Abstract Spaces,0.512424
+Survey of input optimization,The marginal value formula on regions of stability,0.535894
+Survey of input optimization,Regions of stability for ill-posed convex programs: An addendum,0.498154
+Survey of input optimization,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.248952
+Survey of input optimization,Modelling with twice continuously differentiable functions,0.467373
+Survey of input optimization,Separation property of continuously differentiable functions,0.244593
+Survey of input optimization,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.520806
+Survey of input optimization,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.439125
+Survey of input optimization,Parametric Decompositions of Continuous Functions,0.459024
+Survey of input optimization,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.314901
+Calculating the best approximate solution of an operator equation,Optimization: a Journal of Mathematical Programming and Operations Research,0.260105
+Calculating the best approximate solution of an operator equation,Approaches to the Theory of Optimization (J. Ponstein),0.357467
+Calculating the best approximate solution of an operator equation,Characterizing fixed points,0.130323
+Calculating the best approximate solution of an operator equation,Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,0.347903
+Calculating the best approximate solution of an operator equation,Regions of stability for ill-posed convex programs,0.271264
+Calculating the best approximate solution of an operator equation,Two characterizations of Pareto minima in convex multicriteria optimization,0.105503
+Calculating the best approximate solution of an operator equation,Constraint qualifications in input optimisation,0.196701
+Calculating the best approximate solution of an operator equation,Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,0.282983
+Calculating the best approximate solution of an operator equation,Stable Planning by Linear and Convex Models <sup>2/3</sup>,0.114361
+Calculating the best approximate solution of an operator equation,Duality in convex programming: a linearization approach<sup>1</sup>,0.161022
+Calculating the best approximate solution of an operator equation,The marginal value formula in input optimization,0.329519
+Calculating the best approximate solution of an operator equation,On minimization subject to cone constraints,0.23085
+Calculating the best approximate solution of an operator equation,A New Class of Feasible Direction Methods.,0.190494
+Calculating the best approximate solution of an operator equation,Parametric programming: An illustrative mini encyclopedia ∗,0.205966
+Calculating the best approximate solution of an operator equation,New regions of stability in input optimization,0.298779
+Calculating the best approximate solution of an operator equation,LFS functions in multi-objective programming,0.11122
+Calculating the best approximate solution of an operator equation,Convex Parametric Programming in Abstract Spaces,0.363747
+Calculating the best approximate solution of an operator equation,The marginal value formula on regions of stability,0.307734
+Calculating the best approximate solution of an operator equation,Regions of stability for ill-posed convex programs: An addendum,0.208606
+Calculating the best approximate solution of an operator equation,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.328703
+Calculating the best approximate solution of an operator equation,Modelling with twice continuously differentiable functions,0.185279
+Calculating the best approximate solution of an operator equation,Separation property of continuously differentiable functions,0.162796
+Calculating the best approximate solution of an operator equation,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.252246
+Calculating the best approximate solution of an operator equation,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.315255
+Calculating the best approximate solution of an operator equation,Parametric Decompositions of Continuous Functions,0.277865
+Calculating the best approximate solution of an operator equation,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.11482
+Optimization: a Journal of Mathematical Programming and Operations Research,Approaches to the Theory of Optimization (J. Ponstein),0.679136
+Optimization: a Journal of Mathematical Programming and Operations Research,Characterizing fixed points,0.422977
+Optimization: a Journal of Mathematical Programming and Operations Research,Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,0.394478
+Optimization: a Journal of Mathematical Programming and Operations Research,Regions of stability for ill-posed convex programs,0.493628
+Optimization: a Journal of Mathematical Programming and Operations Research,Two characterizations of Pareto minima in convex multicriteria optimization,0.430029
+Optimization: a Journal of Mathematical Programming and Operations Research,Constraint qualifications in input optimisation,0.437623
+Optimization: a Journal of Mathematical Programming and Operations Research,Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,0.400098
+Optimization: a Journal of Mathematical Programming and Operations Research,Stable Planning by Linear and Convex Models <sup>2/3</sup>,0.410265
+Optimization: a Journal of Mathematical Programming and Operations Research,Duality in convex programming: a linearization approach<sup>1</sup>,0.360344
+Optimization: a Journal of Mathematical Programming and Operations Research,The marginal value formula in input optimization,0.523295
+Optimization: a Journal of Mathematical Programming and Operations Research,On minimization subject to cone constraints,0.425031
+Optimization: a Journal of Mathematical Programming and Operations Research,A New Class of Feasible Direction Methods.,0.348689
+Optimization: a Journal of Mathematical Programming and Operations Research,Parametric programming: An illustrative mini encyclopedia ∗,0.620457
+Optimization: a Journal of Mathematical Programming and Operations Research,New regions of stability in input optimization,0.470431
+Optimization: a Journal of Mathematical Programming and Operations Research,LFS functions in multi-objective programming,0.35354
+Optimization: a Journal of Mathematical Programming and Operations Research,Convex Parametric Programming in Abstract Spaces,0.427418
+Optimization: a Journal of Mathematical Programming and Operations Research,The marginal value formula on regions of stability,0.411117
+Optimization: a Journal of Mathematical Programming and Operations Research,Regions of stability for ill-posed convex programs: An addendum,0.445188
+Optimization: a Journal of Mathematical Programming and Operations Research,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.291071
+Optimization: a Journal of Mathematical Programming and Operations Research,Modelling with twice continuously differentiable functions,0.42417
+Optimization: a Journal of Mathematical Programming and Operations Research,Separation property of continuously differentiable functions,0.266642
+Optimization: a Journal of Mathematical Programming and Operations Research,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.433919
+Optimization: a Journal of Mathematical Programming and Operations Research,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.440238
+Optimization: a Journal of Mathematical Programming and Operations Research,Parametric Decompositions of Continuous Functions,0.425439
+Optimization: a Journal of Mathematical Programming and Operations Research,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.243151
+Approaches to the Theory of Optimization (J. Ponstein),Characterizing fixed points,0.361724
+Approaches to the Theory of Optimization (J. Ponstein),Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,0.424928
+Approaches to the Theory of Optimization (J. Ponstein),Regions of stability for ill-posed convex programs,0.433048
+Approaches to the Theory of Optimization (J. Ponstein),Two characterizations of Pareto minima in convex multicriteria optimization,0.437788
+Approaches to the Theory of Optimization (J. Ponstein),Constraint qualifications in input optimisation,0.534897
+Approaches to the Theory of Optimization (J. Ponstein),Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,0.385114
+Approaches to the Theory of Optimization (J. Ponstein),Stable Planning by Linear and Convex Models <sup>2/3</sup>,0.289062
+Approaches to the Theory of Optimization (J. Ponstein),Duality in convex programming: a linearization approach<sup>1</sup>,0.374163
+Approaches to the Theory of Optimization (J. Ponstein),The marginal value formula in input optimization,0.566712
+Approaches to the Theory of Optimization (J. Ponstein),On minimization subject to cone constraints,0.429007
+Approaches to the Theory of Optimization (J. Ponstein),A New Class of Feasible Direction Methods.,0.355015
+Approaches to the Theory of Optimization (J. Ponstein),Parametric programming: An illustrative mini encyclopedia ∗,0.52276
+Approaches to the Theory of Optimization (J. Ponstein),New regions of stability in input optimization,0.454911
+Approaches to the Theory of Optimization (J. Ponstein),LFS functions in multi-objective programming,0.397744
+Approaches to the Theory of Optimization (J. Ponstein),Convex Parametric Programming in Abstract Spaces,0.361048
+Approaches to the Theory of Optimization (J. Ponstein),The marginal value formula on regions of stability,0.345239
+Approaches to the Theory of Optimization (J. Ponstein),Regions of stability for ill-posed convex programs: An addendum,0.464811
+Approaches to the Theory of Optimization (J. Ponstein),{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.458203
+Approaches to the Theory of Optimization (J. Ponstein),Modelling with twice continuously differentiable functions,0.426459
+Approaches to the Theory of Optimization (J. Ponstein),Separation property of continuously differentiable functions,0.26485
+Approaches to the Theory of Optimization (J. Ponstein),STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.47156
+Approaches to the Theory of Optimization (J. Ponstein),ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.443364
+Approaches to the Theory of Optimization (J. Ponstein),Parametric Decompositions of Continuous Functions,0.413624
+Approaches to the Theory of Optimization (J. Ponstein),INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.13856
+Characterizing fixed points,Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,0.330929
+Characterizing fixed points,Regions of stability for ill-posed convex programs,0.350673
+Characterizing fixed points,Two characterizations of Pareto minima in convex multicriteria optimization,0.455176
+Characterizing fixed points,Constraint qualifications in input optimisation,0.421261
+Characterizing fixed points,Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,0.279151
+Characterizing fixed points,Stable Planning by Linear and Convex Models <sup>2/3</sup>,0.32503
+Characterizing fixed points,Duality in convex programming: a linearization approach<sup>1</sup>,0.299052
+Characterizing fixed points,The marginal value formula in input optimization,0.302743
+Characterizing fixed points,On minimization subject to cone constraints,0.243041
+Characterizing fixed points,A New Class of Feasible Direction Methods.,0.136748
+Characterizing fixed points,Parametric programming: An illustrative mini encyclopedia ∗,0.338499
+Characterizing fixed points,New regions of stability in input optimization,0.440859
+Characterizing fixed points,LFS functions in multi-objective programming,0.271184
+Characterizing fixed points,Convex Parametric Programming in Abstract Spaces,0.358222
+Characterizing fixed points,The marginal value formula on regions of stability,0.360745
+Characterizing fixed points,Regions of stability for ill-posed convex programs: An addendum,0.371783
+Characterizing fixed points,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.165376
+Characterizing fixed points,Modelling with twice continuously differentiable functions,0.411787
+Characterizing fixed points,Separation property of continuously differentiable functions,0.391844
+Characterizing fixed points,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.422623
+Characterizing fixed points,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.468909
+Characterizing fixed points,Parametric Decompositions of Continuous Functions,0.314128
+Characterizing fixed points,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.253138
+Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,Regions of stability for ill-posed convex programs,0.567147
+Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,Two characterizations of Pareto minima in convex multicriteria optimization,0.470454
+Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,Constraint qualifications in input optimisation,0.548175
+Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,0.641534
+Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,Stable Planning by Linear and Convex Models <sup>2/3</sup>,0.335514
+Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,Duality in convex programming: a linearization approach<sup>1</sup>,0.670062
+Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,The marginal value formula in input optimization,0.462614
+Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,On minimization subject to cone constraints,0.647321
+Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,A New Class of Feasible Direction Methods.,0.584712
+Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,Parametric programming: An illustrative mini encyclopedia ∗,0.411854
+Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,New regions of stability in input optimization,0.493389
+Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,LFS functions in multi-objective programming,0.467967
+Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,Convex Parametric Programming in Abstract Spaces,0.727847
+Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,The marginal value formula on regions of stability,0.506646
+Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,Regions of stability for ill-posed convex programs: An addendum,0.516336
+Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.065856
+Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,Modelling with twice continuously differentiable functions,0.387165
+Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,Separation property of continuously differentiable functions,0.434791
+Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.461047
+Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.475344
+Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,Parametric Decompositions of Continuous Functions,0.568594
+Complete characterization of optimality for convex programming in banach spaces<sup>†</sup>,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.155641
+Regions of stability for ill-posed convex programs,Two characterizations of Pareto minima in convex multicriteria optimization,0.46838
+Regions of stability for ill-posed convex programs,Constraint qualifications in input optimisation,0.477582
+Regions of stability for ill-posed convex programs,Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,0.741678
+Regions of stability for ill-posed convex programs,Stable Planning by Linear and Convex Models <sup>2/3</sup>,0.490598
+Regions of stability for ill-posed convex programs,Duality in convex programming: a linearization approach<sup>1</sup>,0.585739
+Regions of stability for ill-posed convex programs,The marginal value formula in input optimization,0.554759
+Regions of stability for ill-posed convex programs,On minimization subject to cone constraints,0.464817
+Regions of stability for ill-posed convex programs,A New Class of Feasible Direction Methods.,0.51607
+Regions of stability for ill-posed convex programs,Parametric programming: An illustrative mini encyclopedia ∗,0.471245
+Regions of stability for ill-posed convex programs,New regions of stability in input optimization,0.66406
+Regions of stability for ill-posed convex programs,LFS functions in multi-objective programming,0.451349
+Regions of stability for ill-posed convex programs,Convex Parametric Programming in Abstract Spaces,0.604265
+Regions of stability for ill-posed convex programs,The marginal value formula on regions of stability,0.701639
+Regions of stability for ill-posed convex programs,Regions of stability for ill-posed convex programs: An addendum,0.710359
+Regions of stability for ill-posed convex programs,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.226778
+Regions of stability for ill-posed convex programs,Modelling with twice continuously differentiable functions,0.496279
+Regions of stability for ill-posed convex programs,Separation property of continuously differentiable functions,0.418501
+Regions of stability for ill-posed convex programs,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.550954
+Regions of stability for ill-posed convex programs,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.442086
+Regions of stability for ill-posed convex programs,Parametric Decompositions of Continuous Functions,0.60791
+Regions of stability for ill-posed convex programs,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.255909
+Two characterizations of Pareto minima in convex multicriteria optimization,Constraint qualifications in input optimisation,0.530032
+Two characterizations of Pareto minima in convex multicriteria optimization,Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,0.475459
+Two characterizations of Pareto minima in convex multicriteria optimization,Stable Planning by Linear and Convex Models <sup>2/3</sup>,0.31666
+Two characterizations of Pareto minima in convex multicriteria optimization,Duality in convex programming: a linearization approach<sup>1</sup>,0.496506
+Two characterizations of Pareto minima in convex multicriteria optimization,The marginal value formula in input optimization,0.393159
+Two characterizations of Pareto minima in convex multicriteria optimization,On minimization subject to cone constraints,0.487802
+Two characterizations of Pareto minima in convex multicriteria optimization,A New Class of Feasible Direction Methods.,0.38106
+Two characterizations of Pareto minima in convex multicriteria optimization,Parametric programming: An illustrative mini encyclopedia ∗,0.432219
+Two characterizations of Pareto minima in convex multicriteria optimization,New regions of stability in input optimization,0.519364
+Two characterizations of Pareto minima in convex multicriteria optimization,LFS functions in multi-objective programming,0.604258
+Two characterizations of Pareto minima in convex multicriteria optimization,Convex Parametric Programming in Abstract Spaces,0.420768
+Two characterizations of Pareto minima in convex multicriteria optimization,The marginal value formula on regions of stability,0.410109
+Two characterizations of Pareto minima in convex multicriteria optimization,Regions of stability for ill-posed convex programs: An addendum,0.478967
+Two characterizations of Pareto minima in convex multicriteria optimization,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.197236
+Two characterizations of Pareto minima in convex multicriteria optimization,Modelling with twice continuously differentiable functions,0.419019
+Two characterizations of Pareto minima in convex multicriteria optimization,Separation property of continuously differentiable functions,0.328929
+Two characterizations of Pareto minima in convex multicriteria optimization,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.4915
+Two characterizations of Pareto minima in convex multicriteria optimization,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.438465
+Two characterizations of Pareto minima in convex multicriteria optimization,Parametric Decompositions of Continuous Functions,0.392245
+Two characterizations of Pareto minima in convex multicriteria optimization,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.168319
+Constraint qualifications in input optimisation,Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,0.450195
+Constraint qualifications in input optimisation,Stable Planning by Linear and Convex Models <sup>2/3</sup>,0.398111
+Constraint qualifications in input optimisation,Duality in convex programming: a linearization approach<sup>1</sup>,0.496063
+Constraint qualifications in input optimisation,The marginal value formula in input optimization,0.497241
+Constraint qualifications in input optimisation,On minimization subject to cone constraints,0.571676
+Constraint qualifications in input optimisation,A New Class of Feasible Direction Methods.,0.435724
+Constraint qualifications in input optimisation,Parametric programming: An illustrative mini encyclopedia ∗,0.474964
+Constraint qualifications in input optimisation,New regions of stability in input optimization,0.588376
+Constraint qualifications in input optimisation,LFS functions in multi-objective programming,0.423989
+Constraint qualifications in input optimisation,Convex Parametric Programming in Abstract Spaces,0.463241
+Constraint qualifications in input optimisation,The marginal value formula on regions of stability,0.40583
+Constraint qualifications in input optimisation,Regions of stability for ill-posed convex programs: An addendum,0.450369
+Constraint qualifications in input optimisation,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.149999
+Constraint qualifications in input optimisation,Modelling with twice continuously differentiable functions,0.407976
+Constraint qualifications in input optimisation,Separation property of continuously differentiable functions,0.362066
+Constraint qualifications in input optimisation,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.5508
+Constraint qualifications in input optimisation,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.460262
+Constraint qualifications in input optimisation,Parametric Decompositions of Continuous Functions,0.44155
+Constraint qualifications in input optimisation,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.185616
+Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,Stable Planning by Linear and Convex Models <sup>2/3</sup>,0.438556
+Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,Duality in convex programming: a linearization approach<sup>1</sup>,0.630526
+Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,The marginal value formula in input optimization,0.506622
+Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,On minimization subject to cone constraints,0.612123
+Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,A New Class of Feasible Direction Methods.,0.617585
+Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,Parametric programming: An illustrative mini encyclopedia ∗,0.446422
+Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,New regions of stability in input optimization,0.590709
+Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,LFS functions in multi-objective programming,0.428395
+Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,Convex Parametric Programming in Abstract Spaces,0.621605
+Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,The marginal value formula on regions of stability,0.570225
+Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,Regions of stability for ill-posed convex programs: An addendum,0.564426
+Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.170417
+Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,Modelling with twice continuously differentiable functions,0.38694
+Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,Separation property of continuously differentiable functions,0.37193
+Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.592809
+Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.431223
+Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,Parametric Decompositions of Continuous Functions,0.56631
+Stabilization and determination of the set of minimal binding constraints in convex programming<sup>1</sup>,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.118081
+Stable Planning by Linear and Convex Models <sup>2/3</sup>,Duality in convex programming: a linearization approach<sup>1</sup>,0.408113
+Stable Planning by Linear and Convex Models <sup>2/3</sup>,The marginal value formula in input optimization,0.412603
+Stable Planning by Linear and Convex Models <sup>2/3</sup>,On minimization subject to cone constraints,0.36897
+Stable Planning by Linear and Convex Models <sup>2/3</sup>,A New Class of Feasible Direction Methods.,0.419898
+Stable Planning by Linear and Convex Models <sup>2/3</sup>,Parametric programming: An illustrative mini encyclopedia ∗,0.452193
+Stable Planning by Linear and Convex Models <sup>2/3</sup>,New regions of stability in input optimization,0.420084
+Stable Planning by Linear and Convex Models <sup>2/3</sup>,LFS functions in multi-objective programming,0.299787
+Stable Planning by Linear and Convex Models <sup>2/3</sup>,Convex Parametric Programming in Abstract Spaces,0.407966
+Stable Planning by Linear and Convex Models <sup>2/3</sup>,The marginal value formula on regions of stability,0.392099
+Stable Planning by Linear and Convex Models <sup>2/3</sup>,Regions of stability for ill-posed convex programs: An addendum,0.378155
+Stable Planning by Linear and Convex Models <sup>2/3</sup>,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.064327
+Stable Planning by Linear and Convex Models <sup>2/3</sup>,Modelling with twice continuously differentiable functions,0.237522
+Stable Planning by Linear and Convex Models <sup>2/3</sup>,Separation property of continuously differentiable functions,0.179083
+Stable Planning by Linear and Convex Models <sup>2/3</sup>,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.470086
+Stable Planning by Linear and Convex Models <sup>2/3</sup>,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.257818
+Stable Planning by Linear and Convex Models <sup>2/3</sup>,Parametric Decompositions of Continuous Functions,0.384738
+Stable Planning by Linear and Convex Models <sup>2/3</sup>,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.265015
+Duality in convex programming: a linearization approach<sup>1</sup>,The marginal value formula in input optimization,0.476037
+Duality in convex programming: a linearization approach<sup>1</sup>,On minimization subject to cone constraints,0.507995
+Duality in convex programming: a linearization approach<sup>1</sup>,A New Class of Feasible Direction Methods.,0.600593
+Duality in convex programming: a linearization approach<sup>1</sup>,Parametric programming: An illustrative mini encyclopedia ∗,0.43006
+Duality in convex programming: a linearization approach<sup>1</sup>,New regions of stability in input optimization,0.483319
+Duality in convex programming: a linearization approach<sup>1</sup>,LFS functions in multi-objective programming,0.488742
+Duality in convex programming: a linearization approach<sup>1</sup>,Convex Parametric Programming in Abstract Spaces,0.566041
+Duality in convex programming: a linearization approach<sup>1</sup>,The marginal value formula on regions of stability,0.559299
+Duality in convex programming: a linearization approach<sup>1</sup>,Regions of stability for ill-posed convex programs: An addendum,0.581226
+Duality in convex programming: a linearization approach<sup>1</sup>,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.117079
+Duality in convex programming: a linearization approach<sup>1</sup>,Modelling with twice continuously differentiable functions,0.35988
+Duality in convex programming: a linearization approach<sup>1</sup>,Separation property of continuously differentiable functions,0.362083
+Duality in convex programming: a linearization approach<sup>1</sup>,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.536331
+Duality in convex programming: a linearization approach<sup>1</sup>,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.390231
+Duality in convex programming: a linearization approach<sup>1</sup>,Parametric Decompositions of Continuous Functions,0.582405
+Duality in convex programming: a linearization approach<sup>1</sup>,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.136013
+The marginal value formula in input optimization,On minimization subject to cone constraints,0.469001
+The marginal value formula in input optimization,A New Class of Feasible Direction Methods.,0.41988
+The marginal value formula in input optimization,Parametric programming: An illustrative mini encyclopedia ∗,0.518842
+The marginal value formula in input optimization,New regions of stability in input optimization,0.636494
+The marginal value formula in input optimization,LFS functions in multi-objective programming,0.377366
+The marginal value formula in input optimization,Convex Parametric Programming in Abstract Spaces,0.518882
+The marginal value formula in input optimization,The marginal value formula on regions of stability,0.658162
+The marginal value formula in input optimization,Regions of stability for ill-posed convex programs: An addendum,0.597681
+The marginal value formula in input optimization,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.272125
+The marginal value formula in input optimization,Modelling with twice continuously differentiable functions,0.480547
+The marginal value formula in input optimization,Separation property of continuously differentiable functions,0.282117
+The marginal value formula in input optimization,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.542271
+The marginal value formula in input optimization,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.488242
+The marginal value formula in input optimization,Parametric Decompositions of Continuous Functions,0.481256
+The marginal value formula in input optimization,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.253964
+On minimization subject to cone constraints,A New Class of Feasible Direction Methods.,0.562308
+On minimization subject to cone constraints,Parametric programming: An illustrative mini encyclopedia ∗,0.429269
+On minimization subject to cone constraints,New regions of stability in input optimization,0.475504
+On minimization subject to cone constraints,LFS functions in multi-objective programming,0.40973
+On minimization subject to cone constraints,Convex Parametric Programming in Abstract Spaces,0.543786
+On minimization subject to cone constraints,The marginal value formula on regions of stability,0.421654
+On minimization subject to cone constraints,Regions of stability for ill-posed convex programs: An addendum,0.439441
+On minimization subject to cone constraints,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.095565
+On minimization subject to cone constraints,Modelling with twice continuously differentiable functions,0.369649
+On minimization subject to cone constraints,Separation property of continuously differentiable functions,0.387574
+On minimization subject to cone constraints,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.445859
+On minimization subject to cone constraints,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.437171
+On minimization subject to cone constraints,Parametric Decompositions of Continuous Functions,0.529383
+On minimization subject to cone constraints,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.077066
+A New Class of Feasible Direction Methods.,Parametric programming: An illustrative mini encyclopedia ∗,0.379307
+A New Class of Feasible Direction Methods.,New regions of stability in input optimization,0.412861
+A New Class of Feasible Direction Methods.,LFS functions in multi-objective programming,0.438292
+A New Class of Feasible Direction Methods.,Convex Parametric Programming in Abstract Spaces,0.478576
+A New Class of Feasible Direction Methods.,The marginal value formula on regions of stability,0.457164
+A New Class of Feasible Direction Methods.,Regions of stability for ill-posed convex programs: An addendum,0.448139
+A New Class of Feasible Direction Methods.,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.093635
+A New Class of Feasible Direction Methods.,Modelling with twice continuously differentiable functions,0.396364
+A New Class of Feasible Direction Methods.,Separation property of continuously differentiable functions,0.34945
+A New Class of Feasible Direction Methods.,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.373814
+A New Class of Feasible Direction Methods.,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.402032
+A New Class of Feasible Direction Methods.,Parametric Decompositions of Continuous Functions,0.548638
+A New Class of Feasible Direction Methods.,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.066479
+Parametric programming: An illustrative mini encyclopedia ∗,New regions of stability in input optimization,0.474477
+Parametric programming: An illustrative mini encyclopedia ∗,LFS functions in multi-objective programming,0.39598
+Parametric programming: An illustrative mini encyclopedia ∗,Convex Parametric Programming in Abstract Spaces,0.555714
+Parametric programming: An illustrative mini encyclopedia ∗,The marginal value formula on regions of stability,0.399162
+Parametric programming: An illustrative mini encyclopedia ∗,Regions of stability for ill-posed convex programs: An addendum,0.388433
+Parametric programming: An illustrative mini encyclopedia ∗,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.261697
+Parametric programming: An illustrative mini encyclopedia ∗,Modelling with twice continuously differentiable functions,0.382786
+Parametric programming: An illustrative mini encyclopedia ∗,Separation property of continuously differentiable functions,0.268383
+Parametric programming: An illustrative mini encyclopedia ∗,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.525491
+Parametric programming: An illustrative mini encyclopedia ∗,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.435341
+Parametric programming: An illustrative mini encyclopedia ∗,Parametric Decompositions of Continuous Functions,0.516413
+Parametric programming: An illustrative mini encyclopedia ∗,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.238693
+New regions of stability in input optimization,LFS functions in multi-objective programming,0.425364
+New regions of stability in input optimization,Convex Parametric Programming in Abstract Spaces,0.664453
+New regions of stability in input optimization,The marginal value formula on regions of stability,0.70221
+New regions of stability in input optimization,Regions of stability for ill-posed convex programs: An addendum,0.669583
+New regions of stability in input optimization,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.22026
+New regions of stability in input optimization,Modelling with twice continuously differentiable functions,0.509885
+New regions of stability in input optimization,Separation property of continuously differentiable functions,0.412431
+New regions of stability in input optimization,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.554026
+New regions of stability in input optimization,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.490228
+New regions of stability in input optimization,Parametric Decompositions of Continuous Functions,0.565457
+New regions of stability in input optimization,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.142755
+LFS functions in multi-objective programming,Convex Parametric Programming in Abstract Spaces,0.405821
+LFS functions in multi-objective programming,The marginal value formula on regions of stability,0.424836
+LFS functions in multi-objective programming,Regions of stability for ill-posed convex programs: An addendum,0.472607
+LFS functions in multi-objective programming,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.160404
+LFS functions in multi-objective programming,Modelling with twice continuously differentiable functions,0.403885
+LFS functions in multi-objective programming,Separation property of continuously differentiable functions,0.372835
+LFS functions in multi-objective programming,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.327095
+LFS functions in multi-objective programming,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.444065
+LFS functions in multi-objective programming,Parametric Decompositions of Continuous Functions,0.506401
+LFS functions in multi-objective programming,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.064768
+Convex Parametric Programming in Abstract Spaces,The marginal value formula on regions of stability,0.65875
+Convex Parametric Programming in Abstract Spaces,Regions of stability for ill-posed convex programs: An addendum,0.572006
+Convex Parametric Programming in Abstract Spaces,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.145702
+Convex Parametric Programming in Abstract Spaces,Modelling with twice continuously differentiable functions,0.407489
+Convex Parametric Programming in Abstract Spaces,Separation property of continuously differentiable functions,0.4315
+Convex Parametric Programming in Abstract Spaces,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.509474
+Convex Parametric Programming in Abstract Spaces,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.457808
+Convex Parametric Programming in Abstract Spaces,Parametric Decompositions of Continuous Functions,0.645082
+Convex Parametric Programming in Abstract Spaces,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.252747
+The marginal value formula on regions of stability,Regions of stability for ill-posed convex programs: An addendum,0.72062
+The marginal value formula on regions of stability,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.167009
+The marginal value formula on regions of stability,Modelling with twice continuously differentiable functions,0.503555
+The marginal value formula on regions of stability,Separation property of continuously differentiable functions,0.457807
+The marginal value formula on regions of stability,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.48914
+The marginal value formula on regions of stability,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.519921
+The marginal value formula on regions of stability,Parametric Decompositions of Continuous Functions,0.631113
+The marginal value formula on regions of stability,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.257087
+Regions of stability for ill-posed convex programs: An addendum,{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),0.206801
+Regions of stability for ill-posed convex programs: An addendum,Modelling with twice continuously differentiable functions,0.507803
+Regions of stability for ill-posed convex programs: An addendum,Separation property of continuously differentiable functions,0.449649
+Regions of stability for ill-posed convex programs: An addendum,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.471905
+Regions of stability for ill-posed convex programs: An addendum,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.534063
+Regions of stability for ill-posed convex programs: An addendum,Parametric Decompositions of Continuous Functions,0.586645
+Regions of stability for ill-posed convex programs: An addendum,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.184139
+{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),Modelling with twice continuously differentiable functions,0.298305
+{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),Separation property of continuously differentiable functions,0.0494
+{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.129054
+{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.212909
+{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),Parametric Decompositions of Continuous Functions,0.214043
+{2}-Inverses and Their Statistical Application (Albert J. Getson and Francis C. Hsuan),INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.197992
+Modelling with twice continuously differentiable functions,Separation property of continuously differentiable functions,0.696423
+Modelling with twice continuously differentiable functions,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.310702
+Modelling with twice continuously differentiable functions,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.673073
+Modelling with twice continuously differentiable functions,Parametric Decompositions of Continuous Functions,0.580289
+Modelling with twice continuously differentiable functions,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.195217
+Separation property of continuously differentiable functions,STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,0.298966
+Separation property of continuously differentiable functions,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.661972
+Separation property of continuously differentiable functions,Parametric Decompositions of Continuous Functions,0.64184
+Separation property of continuously differentiable functions,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.036136
+STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,0.406044
+STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,Parametric Decompositions of Continuous Functions,0.471837
+STRUCTURAL OPTIMA IN NONLINEAR PROGRAMMING,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.272202
+ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,Parametric Decompositions of Continuous Functions,0.643859
+ON THE DERIVATIVE OF SMOOTH MEANINGFUL FUNCTIONS,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.124329
+Parametric Decompositions of Continuous Functions,INFLUENCE OF FISCAL POLICY IN TRANSITIONAL ENVIRONMENT,0.131331

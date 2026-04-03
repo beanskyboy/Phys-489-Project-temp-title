@@ -1,0 +1,11 @@
+title_i,title_j,cosine_similarity
+High-Dimensional Uncertainty Quantification Using Stochastic Galerkin and Tensor Decomposition,Tensor Train Optimization for Polynomial Chaos for High Dimensional Uncertainty Quantification,0.726845
+High-Dimensional Uncertainty Quantification Using Stochastic Galerkin and Tensor Decomposition,Tensor Train Newton Optimization for Polynomial Chaos for High-Dimensional Uncertainty Quantification,0.629967
+High-Dimensional Uncertainty Quantification Using Stochastic Galerkin and Tensor Decomposition,Analysis of Temporal and Spatial Characteristics of Precipitation in a Certain Basin,0.138962
+High-Dimensional Uncertainty Quantification Using Stochastic Galerkin and Tensor Decomposition,Uncertainty Quantification Using Riemannian Tensor Train Completion for Polynomial Chaos,0.677172
+Tensor Train Optimization for Polynomial Chaos for High Dimensional Uncertainty Quantification,Tensor Train Newton Optimization for Polynomial Chaos for High-Dimensional Uncertainty Quantification,0.912673
+Tensor Train Optimization for Polynomial Chaos for High Dimensional Uncertainty Quantification,Analysis of Temporal and Spatial Characteristics of Precipitation in a Certain Basin,0.108841
+Tensor Train Optimization for Polynomial Chaos for High Dimensional Uncertainty Quantification,Uncertainty Quantification Using Riemannian Tensor Train Completion for Polynomial Chaos,0.868908
+Tensor Train Newton Optimization for Polynomial Chaos for High-Dimensional Uncertainty Quantification,Analysis of Temporal and Spatial Characteristics of Precipitation in a Certain Basin,0.090425
+Tensor Train Newton Optimization for Polynomial Chaos for High-Dimensional Uncertainty Quantification,Uncertainty Quantification Using Riemannian Tensor Train Completion for Polynomial Chaos,0.830734
+Analysis of Temporal and Spatial Characteristics of Precipitation in a Certain Basin,Uncertainty Quantification Using Riemannian Tensor Train Completion for Polynomial Chaos,0.124747

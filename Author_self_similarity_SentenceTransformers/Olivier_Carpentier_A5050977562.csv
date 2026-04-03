@@ -1,0 +1,16 @@
+title_i,title_j,cosine_similarity
+Adiabatic Coupler With Design-Intended Splitting Ratio,"Net 212.5 Gbit/s Transmission in O-band With a SiP MZM, One Driver and Linear Equalization",0.253
+Adiabatic Coupler With Design-Intended Splitting Ratio,"Highly Sensitive, 112 Gb/s O-band Waveguide Coupled Silicon-Germanium Avalanche Photodetectors",0.429625
+Adiabatic Coupler With Design-Intended Splitting Ratio,High Gain-Bandwidth Waveguide Coupled Silicon Germanium Avalanche Photodiode,0.395236
+Adiabatic Coupler With Design-Intended Splitting Ratio,A 4-lane 400 Gb/s silicon photonic transceiver for intra-datacenter optical interconnects,0.399552
+Adiabatic Coupler With Design-Intended Splitting Ratio,23-dB average isolation using a silicon photonic Mach-Zehnder modulator,0.501878
+"Net 212.5 Gbit/s Transmission in O-band With a SiP MZM, One Driver and Linear Equalization","Highly Sensitive, 112 Gb/s O-band Waveguide Coupled Silicon-Germanium Avalanche Photodetectors",0.463384
+"Net 212.5 Gbit/s Transmission in O-band With a SiP MZM, One Driver and Linear Equalization",High Gain-Bandwidth Waveguide Coupled Silicon Germanium Avalanche Photodiode,0.297008
+"Net 212.5 Gbit/s Transmission in O-band With a SiP MZM, One Driver and Linear Equalization",A 4-lane 400 Gb/s silicon photonic transceiver for intra-datacenter optical interconnects,0.447956
+"Net 212.5 Gbit/s Transmission in O-band With a SiP MZM, One Driver and Linear Equalization",23-dB average isolation using a silicon photonic Mach-Zehnder modulator,0.351292
+"Highly Sensitive, 112 Gb/s O-band Waveguide Coupled Silicon-Germanium Avalanche Photodetectors",High Gain-Bandwidth Waveguide Coupled Silicon Germanium Avalanche Photodiode,0.56401
+"Highly Sensitive, 112 Gb/s O-band Waveguide Coupled Silicon-Germanium Avalanche Photodetectors",A 4-lane 400 Gb/s silicon photonic transceiver for intra-datacenter optical interconnects,0.584407
+"Highly Sensitive, 112 Gb/s O-band Waveguide Coupled Silicon-Germanium Avalanche Photodetectors",23-dB average isolation using a silicon photonic Mach-Zehnder modulator,0.444978
+High Gain-Bandwidth Waveguide Coupled Silicon Germanium Avalanche Photodiode,A 4-lane 400 Gb/s silicon photonic transceiver for intra-datacenter optical interconnects,0.468743
+High Gain-Bandwidth Waveguide Coupled Silicon Germanium Avalanche Photodiode,23-dB average isolation using a silicon photonic Mach-Zehnder modulator,0.45194
+A 4-lane 400 Gb/s silicon photonic transceiver for intra-datacenter optical interconnects,23-dB average isolation using a silicon photonic Mach-Zehnder modulator,0.477806

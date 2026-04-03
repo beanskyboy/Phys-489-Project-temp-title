@@ -1,0 +1,22 @@
+title_i,title_j,cosine_similarity
+DETECT2000: an improved Monte-Carlo simulator for the computer aided design of photon sensing devices,Anode position and last dynode timing circuits for dual-layer BGO scintillator with PS-PMT based modular PET detectors,0.534379
+DETECT2000: an improved Monte-Carlo simulator for the computer aided design of photon sensing devices,Monte Carlo modeling of scintillator crystal performance for stratified PET detectors with DETECT2000,0.583636
+DETECT2000: an improved Monte-Carlo simulator for the computer aided design of photon sensing devices,Monte Carlo simulation using DETECT2000 of a multilayered scintillation block and fit to experimental data,0.664689
+DETECT2000: an improved Monte-Carlo simulator for the computer aided design of photon sensing devices,A new surface parameterization for modeling thin layers of reflector material in the DETECT2000 optical modeling program,0.619958
+DETECT2000: an improved Monte-Carlo simulator for the computer aided design of photon sensing devices,Design of front-end electronic circuits for dedicated PET detectors,0.53194
+DETECT2000: an improved Monte-Carlo simulator for the computer aided design of photon sensing devices,Generic Real-Time Tracking Method on Semi-Dynamic Scenes,0.093672
+Anode position and last dynode timing circuits for dual-layer BGO scintillator with PS-PMT based modular PET detectors,Monte Carlo modeling of scintillator crystal performance for stratified PET detectors with DETECT2000,0.670393
+Anode position and last dynode timing circuits for dual-layer BGO scintillator with PS-PMT based modular PET detectors,Monte Carlo simulation using DETECT2000 of a multilayered scintillation block and fit to experimental data,0.627939
+Anode position and last dynode timing circuits for dual-layer BGO scintillator with PS-PMT based modular PET detectors,A new surface parameterization for modeling thin layers of reflector material in the DETECT2000 optical modeling program,0.383371
+Anode position and last dynode timing circuits for dual-layer BGO scintillator with PS-PMT based modular PET detectors,Design of front-end electronic circuits for dedicated PET detectors,0.933927
+Anode position and last dynode timing circuits for dual-layer BGO scintillator with PS-PMT based modular PET detectors,Generic Real-Time Tracking Method on Semi-Dynamic Scenes,0.113762
+Monte Carlo modeling of scintillator crystal performance for stratified PET detectors with DETECT2000,Monte Carlo simulation using DETECT2000 of a multilayered scintillation block and fit to experimental data,0.811103
+Monte Carlo modeling of scintillator crystal performance for stratified PET detectors with DETECT2000,A new surface parameterization for modeling thin layers of reflector material in the DETECT2000 optical modeling program,0.551534
+Monte Carlo modeling of scintillator crystal performance for stratified PET detectors with DETECT2000,Design of front-end electronic circuits for dedicated PET detectors,0.644112
+Monte Carlo modeling of scintillator crystal performance for stratified PET detectors with DETECT2000,Generic Real-Time Tracking Method on Semi-Dynamic Scenes,0.112896
+Monte Carlo simulation using DETECT2000 of a multilayered scintillation block and fit to experimental data,A new surface parameterization for modeling thin layers of reflector material in the DETECT2000 optical modeling program,0.616088
+Monte Carlo simulation using DETECT2000 of a multilayered scintillation block and fit to experimental data,Design of front-end electronic circuits for dedicated PET detectors,0.593171
+Monte Carlo simulation using DETECT2000 of a multilayered scintillation block and fit to experimental data,Generic Real-Time Tracking Method on Semi-Dynamic Scenes,0.12619
+A new surface parameterization for modeling thin layers of reflector material in the DETECT2000 optical modeling program,Design of front-end electronic circuits for dedicated PET detectors,0.406135
+A new surface parameterization for modeling thin layers of reflector material in the DETECT2000 optical modeling program,Generic Real-Time Tracking Method on Semi-Dynamic Scenes,0.129302
+Design of front-end electronic circuits for dedicated PET detectors,Generic Real-Time Tracking Method on Semi-Dynamic Scenes,0.149466

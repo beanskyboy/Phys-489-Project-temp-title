@@ -1,277 +1,254 @@
-abstract_i,abstract_j,cosine_similarity
-0,1,0.379875
-0,2,0.35882
-0,3,0.327022
-0,4,0.270913
-0,5,0.703684
-0,6,0.399515
-0,7,0.340003
-0,8,0.320819
-0,9,0.325177
-0,10,0.28726
-0,11,0.300857
-0,12,0.330707
-0,13,0.223289
-0,14,0.304934
-0,15,0.458741
-0,16,0.1006
-0,17,0.136219
-0,18,0.324634
-0,19,0.343824
-0,20,0.019751
-0,21,0.338769
-0,22,0.299396
-0,23,0.243303
-1,2,0.423568
-1,3,0.471334
-1,4,0.567537
-1,5,0.045874
-1,6,0.420659
-1,7,0.317658
-1,8,0.364683
-1,9,0.290525
-1,10,0.161947
-1,11,0.237649
-1,12,0.407849
-1,13,0.207652
-1,14,0.290945
-1,15,0.458584
-1,16,0.008521
-1,17,0.302476
-1,18,0.645051
-1,19,0.397108
-1,20,0.072079
-1,21,0.324473
-1,22,0.160659
-1,23,0.318024
-2,3,0.615747
-2,4,0.433582
-2,5,0.102594
-2,6,0.445112
-2,7,0.495835
-2,8,0.530554
-2,9,0.167113
-2,10,0.352912
-2,11,0.308514
-2,12,0.515718
-2,13,0.363178
-2,14,0.422982
-2,15,0.398389
-2,16,0.037537
-2,17,0.292522
-2,18,0.472371
-2,19,0.502746
-2,20,0.060086
-2,21,0.631543
-2,22,0.21756
-2,23,0.396438
-3,4,0.416363
-3,5,0.075477
-3,6,0.393186
-3,7,0.396467
-3,8,0.474599
-3,9,0.277515
-3,10,0.28675
-3,11,0.313454
-3,12,0.363115
-3,13,0.276687
-3,14,0.31975
-3,15,0.426532
-3,16,0.090041
-3,17,0.25657
-3,18,0.542033
-3,19,0.319742
-3,20,0.008772
-3,21,0.395988
-3,22,0.195877
-3,23,0.293873
-4,5,-0.011337
-4,6,0.374449
-4,7,0.337569
-4,8,0.455233
-4,9,0.256154
-4,10,0.27465
-4,11,0.350245
-4,12,0.380229
-4,13,0.268569
-4,14,0.419847
-4,15,0.315987
-4,16,0.043475
-4,17,0.560327
-4,18,0.794214
-4,19,0.347949
-4,20,0.032718
-4,21,0.32895
-4,22,0.189706
-4,23,0.378282
-5,6,0.175047
-5,7,0.148179
-5,8,0.048293
-5,9,0.184527
-5,10,0.12041
-5,11,0.129937
-5,12,0.00953
-5,13,0.054507
-5,14,0.065203
-5,15,0.221748
-5,16,0.075731
-5,17,0.079105
-5,18,0.046493
-5,19,0.109973
-5,20,-0.008086
-5,21,0.071641
-5,22,0.19868
-5,23,-0.002497
-6,7,0.365421
-6,8,0.430374
-6,9,0.06219
-6,10,0.291298
-6,11,0.138563
-6,12,0.353011
-6,13,0.204592
-6,14,0.30616
-6,15,0.427081
-6,16,0.028542
-6,17,0.075983
-6,18,0.363098
-6,19,0.444382
-6,20,0.099603
-6,21,0.457923
-6,22,0.145811
-6,23,0.558375
-7,8,0.612139
-7,9,0.199709
-7,10,0.370375
-7,11,0.347249
-7,12,0.412479
-7,13,0.248846
-7,14,0.3477
-7,15,0.446385
-7,16,0.094274
-7,17,0.23366
-7,18,0.3445
-7,19,0.451221
-7,20,0.065515
-7,21,0.504547
-7,22,0.227805
-7,23,0.232985
-8,9,0.133434
-8,10,0.385771
-8,11,0.230644
-8,12,0.46207
-8,13,0.302275
-8,14,0.333012
-8,15,0.414931
-8,16,0.059331
-8,17,0.19212
-8,18,0.380139
-8,19,0.484083
-8,20,0.047534
-8,21,0.535435
-8,22,0.151753
-8,23,0.257111
-9,10,0.218312
-9,11,0.58958
-9,12,0.151776
-9,13,0.256657
-9,14,0.28748
-9,15,0.151927
-9,16,0.121954
-9,17,0.271137
-9,18,0.310379
-9,19,0.133158
-9,20,-0.027587
-9,21,0.140196
-9,22,0.187234
-9,23,0.153491
-10,11,0.25218
-10,12,0.333856
-10,13,0.46363
-10,14,0.266362
-10,15,0.426699
-10,16,0.045755
-10,17,0.123859
-10,18,0.280984
-10,19,0.396025
-10,20,0.041079
-10,21,0.364275
-10,22,0.454451
-10,23,0.176293
-11,12,0.133073
-11,13,0.301337
-11,14,0.390891
-11,15,0.150631
-11,16,0.139691
-11,17,0.427099
-11,18,0.356973
-11,19,0.167085
-11,20,-0.016041
-11,21,0.230553
-11,22,0.258858
-11,23,0.194276
-12,13,0.300668
-12,14,0.305767
-12,15,0.380384
-12,16,0.050214
-12,17,0.136987
-12,18,0.374366
-12,19,0.739861
-12,20,0.061206
-12,21,0.588918
-12,22,0.18468
-12,23,0.261846
-13,14,0.322011
-13,15,0.315053
-13,16,0.025461
-13,17,0.189244
-13,18,0.257319
-13,19,0.312928
-13,20,-0.045394
-13,21,0.3321
-13,22,0.258018
-13,23,0.229508
-14,15,0.227295
-14,16,0.105941
-14,17,0.376538
-14,18,0.390384
-14,19,0.340502
-14,20,-0.083648
-14,21,0.394358
-14,22,0.138032
-14,23,0.337813
-15,16,0.015342
-15,17,0.071342
-15,18,0.382792
-15,19,0.401663
-15,20,0.053361
-15,21,0.359597
-15,22,0.296606
-15,23,0.29462
-16,17,0.062368
-16,18,0.040998
-16,19,0.067283
-16,20,-0.080851
-16,21,0.063
-16,22,0.027684
-16,23,-0.030092
-17,18,0.568852
-17,19,0.099131
-17,20,-0.043402
-17,21,0.138378
-17,22,0.216937
-17,23,0.219867
-18,19,0.336442
-18,20,0.049711
-18,21,0.342447
-18,22,0.198921
-18,23,0.294636
-19,20,0.093741
-19,21,0.607978
-19,22,0.136225
-19,23,0.297344
-20,21,0.094951
-20,22,-0.023651
-20,23,0.018872
-21,22,0.098486
-21,23,0.300993
-22,23,0.107805
+title_i,title_j,cosine_similarity
+Stereotactic Ablative Radiotherapy for the Comprehensive Treatment of Oligometastatic Cancers: Long-Term Results of the SABR-COMET Phase II Randomized Trial,Screening for depression in head and neck cancer,0.107805
+Stereotactic Ablative Radiotherapy for the Comprehensive Treatment of Oligometastatic Cancers: Long-Term Results of the SABR-COMET Phase II Randomized Trial,Safety and Feasibility of Using Magnetic Resonance Imaging Criteria to Identify Patients With “Good Prognosis” Rectal Cancer Eligible for Primary Surgery,0.027684
+Stereotactic Ablative Radiotherapy for the Comprehensive Treatment of Oligometastatic Cancers: Long-Term Results of the SABR-COMET Phase II Randomized Trial,Radiation-Induced Fibrosis in Patients with Head and Neck Cancer: A Review of Pathogenesis and Clinical Outcomes,0.145811
+Stereotactic Ablative Radiotherapy for the Comprehensive Treatment of Oligometastatic Cancers: Long-Term Results of the SABR-COMET Phase II Randomized Trial,Bayesian network ensemble as a multivariate strategy to predict radiation pneumonitis risk,0.216937
+Stereotactic Ablative Radiotherapy for the Comprehensive Treatment of Oligometastatic Cancers: Long-Term Results of the SABR-COMET Phase II Randomized Trial,Phase <scp>II</scp> trial of short‐course radiotherapy followed by delayed surgery for locoregionally advanced rectal cancer,0.18468
+Stereotactic Ablative Radiotherapy for the Comprehensive Treatment of Oligometastatic Cancers: Long-Term Results of the SABR-COMET Phase II Randomized Trial,Identifying Barriers to Accrual in Radiation Oncology Randomized Trials,0.138032
+Stereotactic Ablative Radiotherapy for the Comprehensive Treatment of Oligometastatic Cancers: Long-Term Results of the SABR-COMET Phase II Randomized Trial,Stereotactic Arrhythmia Radioablation for Ventricular Tachycardia: Single Center First Experiences,0.19868
+Stereotactic Ablative Radiotherapy for the Comprehensive Treatment of Oligometastatic Cancers: Long-Term Results of the SABR-COMET Phase II Randomized Trial,Nonoperative management protocol for locally advanced rectal cancer,0.258018
+Stereotactic Ablative Radiotherapy for the Comprehensive Treatment of Oligometastatic Cancers: Long-Term Results of the SABR-COMET Phase II Randomized Trial,Stereotactic ablative radiotherapy before resection to avoid delay for early‐stage lung cancer or oligometastases during the COVID‐19 pandemic: Pathologic outcomes from the SABR‐BRIDGE protocol,0.454451
+Stereotactic Ablative Radiotherapy for the Comprehensive Treatment of Oligometastatic Cancers: Long-Term Results of the SABR-COMET Phase II Randomized Trial,Long-term Outcomes of Induction Carboplatin and Gemcitabine Followed by Concurrent Radiotherapy With Low-dose Paclitaxel and Gemcitabine for Stage III Non–small-cell Lung Cancer,0.227805
+Stereotactic Ablative Radiotherapy for the Comprehensive Treatment of Oligometastatic Cancers: Long-Term Results of the SABR-COMET Phase II Randomized Trial,Eastern Canadian Gastrointestinal Cancer Consensus Conference 2016,0.098486
+Stereotactic Ablative Radiotherapy for the Comprehensive Treatment of Oligometastatic Cancers: Long-Term Results of the SABR-COMET Phase II Randomized Trial,Analytical modelling of regional radiotherapy dose response of lung,0.160659
+Stereotactic Ablative Radiotherapy for the Comprehensive Treatment of Oligometastatic Cancers: Long-Term Results of the SABR-COMET Phase II Randomized Trial,The conversion of electroanatomic maps for compatibility with treatment planning systems in cardiac radioablation target volume definition,0.187234
+Stereotactic Ablative Radiotherapy for the Comprehensive Treatment of Oligometastatic Cancers: Long-Term Results of the SABR-COMET Phase II Randomized Trial,Interim efficacy analysis of the phase 2 dose de-escalation trial of stereotactic arrhythmia radioablation for ventricular tachycardia (StAR-VT),0.299396
+Stereotactic Ablative Radiotherapy for the Comprehensive Treatment of Oligometastatic Cancers: Long-Term Results of the SABR-COMET Phase II Randomized Trial,Interactions of Amphiphilic Polyelectrolytes and Neutral Polymeric Micelles:  A Study by Nonradiative Energy Transfer,-0.023651
+Stereotactic Ablative Radiotherapy for the Comprehensive Treatment of Oligometastatic Cancers: Long-Term Results of the SABR-COMET Phase II Randomized Trial,WE‐E‐BRE‐05: Ensemble of Graphical Models for Predicting Radiation Pneumontis Risk,0.189706
+Stereotactic Ablative Radiotherapy for the Comprehensive Treatment of Oligometastatic Cancers: Long-Term Results of the SABR-COMET Phase II Randomized Trial,Modeling of Radiation Pneumonitis after Lung Stereotactic Body Radiotherapy: A Bayesian Network Approach,0.198921
+Stereotactic Ablative Radiotherapy for the Comprehensive Treatment of Oligometastatic Cancers: Long-Term Results of the SABR-COMET Phase II Randomized Trial,Conformal therapy improves the therapeutic index in patients treated with radiation therapy and concurrent chemotherapy,0.136225
+Stereotactic Ablative Radiotherapy for the Comprehensive Treatment of Oligometastatic Cancers: Long-Term Results of the SABR-COMET Phase II Randomized Trial,"Can combined chemo-radiation be started after induction chemotherapy in the curative treatment of stage III non-small cell lung carcinoma (NSCLC)? A multicenter, phase II study 5-year update.",0.151753
+Stereotactic Ablative Radiotherapy for the Comprehensive Treatment of Oligometastatic Cancers: Long-Term Results of the SABR-COMET Phase II Randomized Trial,The integration of electroanatomic maps into cardiac radioablation treatment planning: A systematic review,0.258858
+Stereotactic Ablative Radiotherapy for the Comprehensive Treatment of Oligometastatic Cancers: Long-Term Results of the SABR-COMET Phase II Randomized Trial,50 INFLUENCE OF KRAS MUTATIONS ON TREATMENT OUTCOMES IN NON-SMALL CELL LUNG CANCER PATIENTS WITH BRAIN METASTASIS TREATED WITH STEREOTACTIC RADIOSURGERY,0.195877
+Stereotactic Ablative Radiotherapy for the Comprehensive Treatment of Oligometastatic Cancers: Long-Term Results of the SABR-COMET Phase II Randomized Trial,Assessment of toxicity in patients with ultra-central thoracic tumours treated with stereotactic body radiotherapy with a dose of 50 Gy in 5 fractions,0.296606
+Screening for depression in head and neck cancer,Safety and Feasibility of Using Magnetic Resonance Imaging Criteria to Identify Patients With “Good Prognosis” Rectal Cancer Eligible for Primary Surgery,-0.030092
+Screening for depression in head and neck cancer,Radiation-Induced Fibrosis in Patients with Head and Neck Cancer: A Review of Pathogenesis and Clinical Outcomes,0.558375
+Screening for depression in head and neck cancer,Bayesian network ensemble as a multivariate strategy to predict radiation pneumonitis risk,0.219867
+Screening for depression in head and neck cancer,Phase <scp>II</scp> trial of short‐course radiotherapy followed by delayed surgery for locoregionally advanced rectal cancer,0.261846
+Screening for depression in head and neck cancer,Identifying Barriers to Accrual in Radiation Oncology Randomized Trials,0.337813
+Screening for depression in head and neck cancer,Stereotactic Arrhythmia Radioablation for Ventricular Tachycardia: Single Center First Experiences,-0.002497
+Screening for depression in head and neck cancer,Nonoperative management protocol for locally advanced rectal cancer,0.229508
+Screening for depression in head and neck cancer,Stereotactic ablative radiotherapy before resection to avoid delay for early‐stage lung cancer or oligometastases during the COVID‐19 pandemic: Pathologic outcomes from the SABR‐BRIDGE protocol,0.176293
+Screening for depression in head and neck cancer,Long-term Outcomes of Induction Carboplatin and Gemcitabine Followed by Concurrent Radiotherapy With Low-dose Paclitaxel and Gemcitabine for Stage III Non–small-cell Lung Cancer,0.232985
+Screening for depression in head and neck cancer,Eastern Canadian Gastrointestinal Cancer Consensus Conference 2016,0.300993
+Screening for depression in head and neck cancer,Analytical modelling of regional radiotherapy dose response of lung,0.318024
+Screening for depression in head and neck cancer,The conversion of electroanatomic maps for compatibility with treatment planning systems in cardiac radioablation target volume definition,0.153491
+Screening for depression in head and neck cancer,Interim efficacy analysis of the phase 2 dose de-escalation trial of stereotactic arrhythmia radioablation for ventricular tachycardia (StAR-VT),0.243303
+Screening for depression in head and neck cancer,Interactions of Amphiphilic Polyelectrolytes and Neutral Polymeric Micelles:  A Study by Nonradiative Energy Transfer,0.018872
+Screening for depression in head and neck cancer,WE‐E‐BRE‐05: Ensemble of Graphical Models for Predicting Radiation Pneumontis Risk,0.378282
+Screening for depression in head and neck cancer,Modeling of Radiation Pneumonitis after Lung Stereotactic Body Radiotherapy: A Bayesian Network Approach,0.294636
+Screening for depression in head and neck cancer,Conformal therapy improves the therapeutic index in patients treated with radiation therapy and concurrent chemotherapy,0.297344
+Screening for depression in head and neck cancer,"Can combined chemo-radiation be started after induction chemotherapy in the curative treatment of stage III non-small cell lung carcinoma (NSCLC)? A multicenter, phase II study 5-year update.",0.257111
+Screening for depression in head and neck cancer,The integration of electroanatomic maps into cardiac radioablation treatment planning: A systematic review,0.194276
+Screening for depression in head and neck cancer,50 INFLUENCE OF KRAS MUTATIONS ON TREATMENT OUTCOMES IN NON-SMALL CELL LUNG CANCER PATIENTS WITH BRAIN METASTASIS TREATED WITH STEREOTACTIC RADIOSURGERY,0.293873
+Screening for depression in head and neck cancer,Assessment of toxicity in patients with ultra-central thoracic tumours treated with stereotactic body radiotherapy with a dose of 50 Gy in 5 fractions,0.29462
+Safety and Feasibility of Using Magnetic Resonance Imaging Criteria to Identify Patients With “Good Prognosis” Rectal Cancer Eligible for Primary Surgery,Radiation-Induced Fibrosis in Patients with Head and Neck Cancer: A Review of Pathogenesis and Clinical Outcomes,0.028542
+Safety and Feasibility of Using Magnetic Resonance Imaging Criteria to Identify Patients With “Good Prognosis” Rectal Cancer Eligible for Primary Surgery,Bayesian network ensemble as a multivariate strategy to predict radiation pneumonitis risk,0.062368
+Safety and Feasibility of Using Magnetic Resonance Imaging Criteria to Identify Patients With “Good Prognosis” Rectal Cancer Eligible for Primary Surgery,Phase <scp>II</scp> trial of short‐course radiotherapy followed by delayed surgery for locoregionally advanced rectal cancer,0.050214
+Safety and Feasibility of Using Magnetic Resonance Imaging Criteria to Identify Patients With “Good Prognosis” Rectal Cancer Eligible for Primary Surgery,Identifying Barriers to Accrual in Radiation Oncology Randomized Trials,0.105941
+Safety and Feasibility of Using Magnetic Resonance Imaging Criteria to Identify Patients With “Good Prognosis” Rectal Cancer Eligible for Primary Surgery,Stereotactic Arrhythmia Radioablation for Ventricular Tachycardia: Single Center First Experiences,0.075731
+Safety and Feasibility of Using Magnetic Resonance Imaging Criteria to Identify Patients With “Good Prognosis” Rectal Cancer Eligible for Primary Surgery,Nonoperative management protocol for locally advanced rectal cancer,0.025461
+Safety and Feasibility of Using Magnetic Resonance Imaging Criteria to Identify Patients With “Good Prognosis” Rectal Cancer Eligible for Primary Surgery,Stereotactic ablative radiotherapy before resection to avoid delay for early‐stage lung cancer or oligometastases during the COVID‐19 pandemic: Pathologic outcomes from the SABR‐BRIDGE protocol,0.045755
+Safety and Feasibility of Using Magnetic Resonance Imaging Criteria to Identify Patients With “Good Prognosis” Rectal Cancer Eligible for Primary Surgery,Long-term Outcomes of Induction Carboplatin and Gemcitabine Followed by Concurrent Radiotherapy With Low-dose Paclitaxel and Gemcitabine for Stage III Non–small-cell Lung Cancer,0.094274
+Safety and Feasibility of Using Magnetic Resonance Imaging Criteria to Identify Patients With “Good Prognosis” Rectal Cancer Eligible for Primary Surgery,Eastern Canadian Gastrointestinal Cancer Consensus Conference 2016,0.063
+Safety and Feasibility of Using Magnetic Resonance Imaging Criteria to Identify Patients With “Good Prognosis” Rectal Cancer Eligible for Primary Surgery,Analytical modelling of regional radiotherapy dose response of lung,0.008521
+Safety and Feasibility of Using Magnetic Resonance Imaging Criteria to Identify Patients With “Good Prognosis” Rectal Cancer Eligible for Primary Surgery,The conversion of electroanatomic maps for compatibility with treatment planning systems in cardiac radioablation target volume definition,0.121954
+Safety and Feasibility of Using Magnetic Resonance Imaging Criteria to Identify Patients With “Good Prognosis” Rectal Cancer Eligible for Primary Surgery,Interim efficacy analysis of the phase 2 dose de-escalation trial of stereotactic arrhythmia radioablation for ventricular tachycardia (StAR-VT),0.1006
+Safety and Feasibility of Using Magnetic Resonance Imaging Criteria to Identify Patients With “Good Prognosis” Rectal Cancer Eligible for Primary Surgery,Interactions of Amphiphilic Polyelectrolytes and Neutral Polymeric Micelles:  A Study by Nonradiative Energy Transfer,-0.080851
+Safety and Feasibility of Using Magnetic Resonance Imaging Criteria to Identify Patients With “Good Prognosis” Rectal Cancer Eligible for Primary Surgery,WE‐E‐BRE‐05: Ensemble of Graphical Models for Predicting Radiation Pneumontis Risk,0.043475
+Safety and Feasibility of Using Magnetic Resonance Imaging Criteria to Identify Patients With “Good Prognosis” Rectal Cancer Eligible for Primary Surgery,Modeling of Radiation Pneumonitis after Lung Stereotactic Body Radiotherapy: A Bayesian Network Approach,0.040998
+Safety and Feasibility of Using Magnetic Resonance Imaging Criteria to Identify Patients With “Good Prognosis” Rectal Cancer Eligible for Primary Surgery,Conformal therapy improves the therapeutic index in patients treated with radiation therapy and concurrent chemotherapy,0.067283
+Safety and Feasibility of Using Magnetic Resonance Imaging Criteria to Identify Patients With “Good Prognosis” Rectal Cancer Eligible for Primary Surgery,"Can combined chemo-radiation be started after induction chemotherapy in the curative treatment of stage III non-small cell lung carcinoma (NSCLC)? A multicenter, phase II study 5-year update.",0.059331
+Safety and Feasibility of Using Magnetic Resonance Imaging Criteria to Identify Patients With “Good Prognosis” Rectal Cancer Eligible for Primary Surgery,The integration of electroanatomic maps into cardiac radioablation treatment planning: A systematic review,0.139691
+Safety and Feasibility of Using Magnetic Resonance Imaging Criteria to Identify Patients With “Good Prognosis” Rectal Cancer Eligible for Primary Surgery,50 INFLUENCE OF KRAS MUTATIONS ON TREATMENT OUTCOMES IN NON-SMALL CELL LUNG CANCER PATIENTS WITH BRAIN METASTASIS TREATED WITH STEREOTACTIC RADIOSURGERY,0.090041
+Safety and Feasibility of Using Magnetic Resonance Imaging Criteria to Identify Patients With “Good Prognosis” Rectal Cancer Eligible for Primary Surgery,Assessment of toxicity in patients with ultra-central thoracic tumours treated with stereotactic body radiotherapy with a dose of 50 Gy in 5 fractions,0.015342
+Radiation-Induced Fibrosis in Patients with Head and Neck Cancer: A Review of Pathogenesis and Clinical Outcomes,Bayesian network ensemble as a multivariate strategy to predict radiation pneumonitis risk,0.075983
+Radiation-Induced Fibrosis in Patients with Head and Neck Cancer: A Review of Pathogenesis and Clinical Outcomes,Phase <scp>II</scp> trial of short‐course radiotherapy followed by delayed surgery for locoregionally advanced rectal cancer,0.353011
+Radiation-Induced Fibrosis in Patients with Head and Neck Cancer: A Review of Pathogenesis and Clinical Outcomes,Identifying Barriers to Accrual in Radiation Oncology Randomized Trials,0.30616
+Radiation-Induced Fibrosis in Patients with Head and Neck Cancer: A Review of Pathogenesis and Clinical Outcomes,Stereotactic Arrhythmia Radioablation for Ventricular Tachycardia: Single Center First Experiences,0.175047
+Radiation-Induced Fibrosis in Patients with Head and Neck Cancer: A Review of Pathogenesis and Clinical Outcomes,Nonoperative management protocol for locally advanced rectal cancer,0.204592
+Radiation-Induced Fibrosis in Patients with Head and Neck Cancer: A Review of Pathogenesis and Clinical Outcomes,Stereotactic ablative radiotherapy before resection to avoid delay for early‐stage lung cancer or oligometastases during the COVID‐19 pandemic: Pathologic outcomes from the SABR‐BRIDGE protocol,0.291298
+Radiation-Induced Fibrosis in Patients with Head and Neck Cancer: A Review of Pathogenesis and Clinical Outcomes,Long-term Outcomes of Induction Carboplatin and Gemcitabine Followed by Concurrent Radiotherapy With Low-dose Paclitaxel and Gemcitabine for Stage III Non–small-cell Lung Cancer,0.365421
+Radiation-Induced Fibrosis in Patients with Head and Neck Cancer: A Review of Pathogenesis and Clinical Outcomes,Eastern Canadian Gastrointestinal Cancer Consensus Conference 2016,0.457923
+Radiation-Induced Fibrosis in Patients with Head and Neck Cancer: A Review of Pathogenesis and Clinical Outcomes,Analytical modelling of regional radiotherapy dose response of lung,0.420659
+Radiation-Induced Fibrosis in Patients with Head and Neck Cancer: A Review of Pathogenesis and Clinical Outcomes,The conversion of electroanatomic maps for compatibility with treatment planning systems in cardiac radioablation target volume definition,0.06219
+Radiation-Induced Fibrosis in Patients with Head and Neck Cancer: A Review of Pathogenesis and Clinical Outcomes,Interim efficacy analysis of the phase 2 dose de-escalation trial of stereotactic arrhythmia radioablation for ventricular tachycardia (StAR-VT),0.399515
+Radiation-Induced Fibrosis in Patients with Head and Neck Cancer: A Review of Pathogenesis and Clinical Outcomes,Interactions of Amphiphilic Polyelectrolytes and Neutral Polymeric Micelles:  A Study by Nonradiative Energy Transfer,0.099603
+Radiation-Induced Fibrosis in Patients with Head and Neck Cancer: A Review of Pathogenesis and Clinical Outcomes,WE‐E‐BRE‐05: Ensemble of Graphical Models for Predicting Radiation Pneumontis Risk,0.374449
+Radiation-Induced Fibrosis in Patients with Head and Neck Cancer: A Review of Pathogenesis and Clinical Outcomes,Modeling of Radiation Pneumonitis after Lung Stereotactic Body Radiotherapy: A Bayesian Network Approach,0.363098
+Radiation-Induced Fibrosis in Patients with Head and Neck Cancer: A Review of Pathogenesis and Clinical Outcomes,Conformal therapy improves the therapeutic index in patients treated with radiation therapy and concurrent chemotherapy,0.444382
+Radiation-Induced Fibrosis in Patients with Head and Neck Cancer: A Review of Pathogenesis and Clinical Outcomes,"Can combined chemo-radiation be started after induction chemotherapy in the curative treatment of stage III non-small cell lung carcinoma (NSCLC)? A multicenter, phase II study 5-year update.",0.430374
+Radiation-Induced Fibrosis in Patients with Head and Neck Cancer: A Review of Pathogenesis and Clinical Outcomes,The integration of electroanatomic maps into cardiac radioablation treatment planning: A systematic review,0.138563
+Radiation-Induced Fibrosis in Patients with Head and Neck Cancer: A Review of Pathogenesis and Clinical Outcomes,50 INFLUENCE OF KRAS MUTATIONS ON TREATMENT OUTCOMES IN NON-SMALL CELL LUNG CANCER PATIENTS WITH BRAIN METASTASIS TREATED WITH STEREOTACTIC RADIOSURGERY,0.393186
+Radiation-Induced Fibrosis in Patients with Head and Neck Cancer: A Review of Pathogenesis and Clinical Outcomes,Assessment of toxicity in patients with ultra-central thoracic tumours treated with stereotactic body radiotherapy with a dose of 50 Gy in 5 fractions,0.427081
+Bayesian network ensemble as a multivariate strategy to predict radiation pneumonitis risk,Phase <scp>II</scp> trial of short‐course radiotherapy followed by delayed surgery for locoregionally advanced rectal cancer,0.136987
+Bayesian network ensemble as a multivariate strategy to predict radiation pneumonitis risk,Identifying Barriers to Accrual in Radiation Oncology Randomized Trials,0.376538
+Bayesian network ensemble as a multivariate strategy to predict radiation pneumonitis risk,Stereotactic Arrhythmia Radioablation for Ventricular Tachycardia: Single Center First Experiences,0.079105
+Bayesian network ensemble as a multivariate strategy to predict radiation pneumonitis risk,Nonoperative management protocol for locally advanced rectal cancer,0.189244
+Bayesian network ensemble as a multivariate strategy to predict radiation pneumonitis risk,Stereotactic ablative radiotherapy before resection to avoid delay for early‐stage lung cancer or oligometastases during the COVID‐19 pandemic: Pathologic outcomes from the SABR‐BRIDGE protocol,0.123859
+Bayesian network ensemble as a multivariate strategy to predict radiation pneumonitis risk,Long-term Outcomes of Induction Carboplatin and Gemcitabine Followed by Concurrent Radiotherapy With Low-dose Paclitaxel and Gemcitabine for Stage III Non–small-cell Lung Cancer,0.23366
+Bayesian network ensemble as a multivariate strategy to predict radiation pneumonitis risk,Eastern Canadian Gastrointestinal Cancer Consensus Conference 2016,0.138378
+Bayesian network ensemble as a multivariate strategy to predict radiation pneumonitis risk,Analytical modelling of regional radiotherapy dose response of lung,0.302476
+Bayesian network ensemble as a multivariate strategy to predict radiation pneumonitis risk,The conversion of electroanatomic maps for compatibility with treatment planning systems in cardiac radioablation target volume definition,0.271137
+Bayesian network ensemble as a multivariate strategy to predict radiation pneumonitis risk,Interim efficacy analysis of the phase 2 dose de-escalation trial of stereotactic arrhythmia radioablation for ventricular tachycardia (StAR-VT),0.136219
+Bayesian network ensemble as a multivariate strategy to predict radiation pneumonitis risk,Interactions of Amphiphilic Polyelectrolytes and Neutral Polymeric Micelles:  A Study by Nonradiative Energy Transfer,-0.043402
+Bayesian network ensemble as a multivariate strategy to predict radiation pneumonitis risk,WE‐E‐BRE‐05: Ensemble of Graphical Models for Predicting Radiation Pneumontis Risk,0.560327
+Bayesian network ensemble as a multivariate strategy to predict radiation pneumonitis risk,Modeling of Radiation Pneumonitis after Lung Stereotactic Body Radiotherapy: A Bayesian Network Approach,0.568852
+Bayesian network ensemble as a multivariate strategy to predict radiation pneumonitis risk,Conformal therapy improves the therapeutic index in patients treated with radiation therapy and concurrent chemotherapy,0.099131
+Bayesian network ensemble as a multivariate strategy to predict radiation pneumonitis risk,"Can combined chemo-radiation be started after induction chemotherapy in the curative treatment of stage III non-small cell lung carcinoma (NSCLC)? A multicenter, phase II study 5-year update.",0.19212
+Bayesian network ensemble as a multivariate strategy to predict radiation pneumonitis risk,The integration of electroanatomic maps into cardiac radioablation treatment planning: A systematic review,0.427099
+Bayesian network ensemble as a multivariate strategy to predict radiation pneumonitis risk,50 INFLUENCE OF KRAS MUTATIONS ON TREATMENT OUTCOMES IN NON-SMALL CELL LUNG CANCER PATIENTS WITH BRAIN METASTASIS TREATED WITH STEREOTACTIC RADIOSURGERY,0.25657
+Bayesian network ensemble as a multivariate strategy to predict radiation pneumonitis risk,Assessment of toxicity in patients with ultra-central thoracic tumours treated with stereotactic body radiotherapy with a dose of 50 Gy in 5 fractions,0.071342
+Phase <scp>II</scp> trial of short‐course radiotherapy followed by delayed surgery for locoregionally advanced rectal cancer,Identifying Barriers to Accrual in Radiation Oncology Randomized Trials,0.305767
+Phase <scp>II</scp> trial of short‐course radiotherapy followed by delayed surgery for locoregionally advanced rectal cancer,Stereotactic Arrhythmia Radioablation for Ventricular Tachycardia: Single Center First Experiences,0.00953
+Phase <scp>II</scp> trial of short‐course radiotherapy followed by delayed surgery for locoregionally advanced rectal cancer,Nonoperative management protocol for locally advanced rectal cancer,0.300668
+Phase <scp>II</scp> trial of short‐course radiotherapy followed by delayed surgery for locoregionally advanced rectal cancer,Stereotactic ablative radiotherapy before resection to avoid delay for early‐stage lung cancer or oligometastases during the COVID‐19 pandemic: Pathologic outcomes from the SABR‐BRIDGE protocol,0.333856
+Phase <scp>II</scp> trial of short‐course radiotherapy followed by delayed surgery for locoregionally advanced rectal cancer,Long-term Outcomes of Induction Carboplatin and Gemcitabine Followed by Concurrent Radiotherapy With Low-dose Paclitaxel and Gemcitabine for Stage III Non–small-cell Lung Cancer,0.412479
+Phase <scp>II</scp> trial of short‐course radiotherapy followed by delayed surgery for locoregionally advanced rectal cancer,Eastern Canadian Gastrointestinal Cancer Consensus Conference 2016,0.588918
+Phase <scp>II</scp> trial of short‐course radiotherapy followed by delayed surgery for locoregionally advanced rectal cancer,Analytical modelling of regional radiotherapy dose response of lung,0.407849
+Phase <scp>II</scp> trial of short‐course radiotherapy followed by delayed surgery for locoregionally advanced rectal cancer,The conversion of electroanatomic maps for compatibility with treatment planning systems in cardiac radioablation target volume definition,0.151776
+Phase <scp>II</scp> trial of short‐course radiotherapy followed by delayed surgery for locoregionally advanced rectal cancer,Interim efficacy analysis of the phase 2 dose de-escalation trial of stereotactic arrhythmia radioablation for ventricular tachycardia (StAR-VT),0.330707
+Phase <scp>II</scp> trial of short‐course radiotherapy followed by delayed surgery for locoregionally advanced rectal cancer,Interactions of Amphiphilic Polyelectrolytes and Neutral Polymeric Micelles:  A Study by Nonradiative Energy Transfer,0.061206
+Phase <scp>II</scp> trial of short‐course radiotherapy followed by delayed surgery for locoregionally advanced rectal cancer,WE‐E‐BRE‐05: Ensemble of Graphical Models for Predicting Radiation Pneumontis Risk,0.380229
+Phase <scp>II</scp> trial of short‐course radiotherapy followed by delayed surgery for locoregionally advanced rectal cancer,Modeling of Radiation Pneumonitis after Lung Stereotactic Body Radiotherapy: A Bayesian Network Approach,0.374366
+Phase <scp>II</scp> trial of short‐course radiotherapy followed by delayed surgery for locoregionally advanced rectal cancer,Conformal therapy improves the therapeutic index in patients treated with radiation therapy and concurrent chemotherapy,0.739861
+Phase <scp>II</scp> trial of short‐course radiotherapy followed by delayed surgery for locoregionally advanced rectal cancer,"Can combined chemo-radiation be started after induction chemotherapy in the curative treatment of stage III non-small cell lung carcinoma (NSCLC)? A multicenter, phase II study 5-year update.",0.46207
+Phase <scp>II</scp> trial of short‐course radiotherapy followed by delayed surgery for locoregionally advanced rectal cancer,The integration of electroanatomic maps into cardiac radioablation treatment planning: A systematic review,0.133073
+Phase <scp>II</scp> trial of short‐course radiotherapy followed by delayed surgery for locoregionally advanced rectal cancer,50 INFLUENCE OF KRAS MUTATIONS ON TREATMENT OUTCOMES IN NON-SMALL CELL LUNG CANCER PATIENTS WITH BRAIN METASTASIS TREATED WITH STEREOTACTIC RADIOSURGERY,0.363115
+Phase <scp>II</scp> trial of short‐course radiotherapy followed by delayed surgery for locoregionally advanced rectal cancer,Assessment of toxicity in patients with ultra-central thoracic tumours treated with stereotactic body radiotherapy with a dose of 50 Gy in 5 fractions,0.380384
+Identifying Barriers to Accrual in Radiation Oncology Randomized Trials,Stereotactic Arrhythmia Radioablation for Ventricular Tachycardia: Single Center First Experiences,0.065203
+Identifying Barriers to Accrual in Radiation Oncology Randomized Trials,Nonoperative management protocol for locally advanced rectal cancer,0.322011
+Identifying Barriers to Accrual in Radiation Oncology Randomized Trials,Stereotactic ablative radiotherapy before resection to avoid delay for early‐stage lung cancer or oligometastases during the COVID‐19 pandemic: Pathologic outcomes from the SABR‐BRIDGE protocol,0.266362
+Identifying Barriers to Accrual in Radiation Oncology Randomized Trials,Long-term Outcomes of Induction Carboplatin and Gemcitabine Followed by Concurrent Radiotherapy With Low-dose Paclitaxel and Gemcitabine for Stage III Non–small-cell Lung Cancer,0.3477
+Identifying Barriers to Accrual in Radiation Oncology Randomized Trials,Eastern Canadian Gastrointestinal Cancer Consensus Conference 2016,0.394358
+Identifying Barriers to Accrual in Radiation Oncology Randomized Trials,Analytical modelling of regional radiotherapy dose response of lung,0.290945
+Identifying Barriers to Accrual in Radiation Oncology Randomized Trials,The conversion of electroanatomic maps for compatibility with treatment planning systems in cardiac radioablation target volume definition,0.28748
+Identifying Barriers to Accrual in Radiation Oncology Randomized Trials,Interim efficacy analysis of the phase 2 dose de-escalation trial of stereotactic arrhythmia radioablation for ventricular tachycardia (StAR-VT),0.304934
+Identifying Barriers to Accrual in Radiation Oncology Randomized Trials,Interactions of Amphiphilic Polyelectrolytes and Neutral Polymeric Micelles:  A Study by Nonradiative Energy Transfer,-0.083648
+Identifying Barriers to Accrual in Radiation Oncology Randomized Trials,WE‐E‐BRE‐05: Ensemble of Graphical Models for Predicting Radiation Pneumontis Risk,0.419847
+Identifying Barriers to Accrual in Radiation Oncology Randomized Trials,Modeling of Radiation Pneumonitis after Lung Stereotactic Body Radiotherapy: A Bayesian Network Approach,0.390384
+Identifying Barriers to Accrual in Radiation Oncology Randomized Trials,Conformal therapy improves the therapeutic index in patients treated with radiation therapy and concurrent chemotherapy,0.340502
+Identifying Barriers to Accrual in Radiation Oncology Randomized Trials,"Can combined chemo-radiation be started after induction chemotherapy in the curative treatment of stage III non-small cell lung carcinoma (NSCLC)? A multicenter, phase II study 5-year update.",0.333012
+Identifying Barriers to Accrual in Radiation Oncology Randomized Trials,The integration of electroanatomic maps into cardiac radioablation treatment planning: A systematic review,0.390891
+Identifying Barriers to Accrual in Radiation Oncology Randomized Trials,50 INFLUENCE OF KRAS MUTATIONS ON TREATMENT OUTCOMES IN NON-SMALL CELL LUNG CANCER PATIENTS WITH BRAIN METASTASIS TREATED WITH STEREOTACTIC RADIOSURGERY,0.31975
+Identifying Barriers to Accrual in Radiation Oncology Randomized Trials,Assessment of toxicity in patients with ultra-central thoracic tumours treated with stereotactic body radiotherapy with a dose of 50 Gy in 5 fractions,0.227295
+Stereotactic Arrhythmia Radioablation for Ventricular Tachycardia: Single Center First Experiences,Nonoperative management protocol for locally advanced rectal cancer,0.054507
+Stereotactic Arrhythmia Radioablation for Ventricular Tachycardia: Single Center First Experiences,Stereotactic ablative radiotherapy before resection to avoid delay for early‐stage lung cancer or oligometastases during the COVID‐19 pandemic: Pathologic outcomes from the SABR‐BRIDGE protocol,0.12041
+Stereotactic Arrhythmia Radioablation for Ventricular Tachycardia: Single Center First Experiences,Long-term Outcomes of Induction Carboplatin and Gemcitabine Followed by Concurrent Radiotherapy With Low-dose Paclitaxel and Gemcitabine for Stage III Non–small-cell Lung Cancer,0.148179
+Stereotactic Arrhythmia Radioablation for Ventricular Tachycardia: Single Center First Experiences,Eastern Canadian Gastrointestinal Cancer Consensus Conference 2016,0.071641
+Stereotactic Arrhythmia Radioablation for Ventricular Tachycardia: Single Center First Experiences,Analytical modelling of regional radiotherapy dose response of lung,0.045874
+Stereotactic Arrhythmia Radioablation for Ventricular Tachycardia: Single Center First Experiences,The conversion of electroanatomic maps for compatibility with treatment planning systems in cardiac radioablation target volume definition,0.184527
+Stereotactic Arrhythmia Radioablation for Ventricular Tachycardia: Single Center First Experiences,Interim efficacy analysis of the phase 2 dose de-escalation trial of stereotactic arrhythmia radioablation for ventricular tachycardia (StAR-VT),0.703684
+Stereotactic Arrhythmia Radioablation for Ventricular Tachycardia: Single Center First Experiences,Interactions of Amphiphilic Polyelectrolytes and Neutral Polymeric Micelles:  A Study by Nonradiative Energy Transfer,-0.008086
+Stereotactic Arrhythmia Radioablation for Ventricular Tachycardia: Single Center First Experiences,WE‐E‐BRE‐05: Ensemble of Graphical Models for Predicting Radiation Pneumontis Risk,-0.011337
+Stereotactic Arrhythmia Radioablation for Ventricular Tachycardia: Single Center First Experiences,Modeling of Radiation Pneumonitis after Lung Stereotactic Body Radiotherapy: A Bayesian Network Approach,0.046493
+Stereotactic Arrhythmia Radioablation for Ventricular Tachycardia: Single Center First Experiences,Conformal therapy improves the therapeutic index in patients treated with radiation therapy and concurrent chemotherapy,0.109973
+Stereotactic Arrhythmia Radioablation for Ventricular Tachycardia: Single Center First Experiences,"Can combined chemo-radiation be started after induction chemotherapy in the curative treatment of stage III non-small cell lung carcinoma (NSCLC)? A multicenter, phase II study 5-year update.",0.048293
+Stereotactic Arrhythmia Radioablation for Ventricular Tachycardia: Single Center First Experiences,The integration of electroanatomic maps into cardiac radioablation treatment planning: A systematic review,0.129937
+Stereotactic Arrhythmia Radioablation for Ventricular Tachycardia: Single Center First Experiences,50 INFLUENCE OF KRAS MUTATIONS ON TREATMENT OUTCOMES IN NON-SMALL CELL LUNG CANCER PATIENTS WITH BRAIN METASTASIS TREATED WITH STEREOTACTIC RADIOSURGERY,0.075477
+Stereotactic Arrhythmia Radioablation for Ventricular Tachycardia: Single Center First Experiences,Assessment of toxicity in patients with ultra-central thoracic tumours treated with stereotactic body radiotherapy with a dose of 50 Gy in 5 fractions,0.221748
+Nonoperative management protocol for locally advanced rectal cancer,Stereotactic ablative radiotherapy before resection to avoid delay for early‐stage lung cancer or oligometastases during the COVID‐19 pandemic: Pathologic outcomes from the SABR‐BRIDGE protocol,0.46363
+Nonoperative management protocol for locally advanced rectal cancer,Long-term Outcomes of Induction Carboplatin and Gemcitabine Followed by Concurrent Radiotherapy With Low-dose Paclitaxel and Gemcitabine for Stage III Non–small-cell Lung Cancer,0.248846
+Nonoperative management protocol for locally advanced rectal cancer,Eastern Canadian Gastrointestinal Cancer Consensus Conference 2016,0.3321
+Nonoperative management protocol for locally advanced rectal cancer,Analytical modelling of regional radiotherapy dose response of lung,0.207652
+Nonoperative management protocol for locally advanced rectal cancer,The conversion of electroanatomic maps for compatibility with treatment planning systems in cardiac radioablation target volume definition,0.256657
+Nonoperative management protocol for locally advanced rectal cancer,Interim efficacy analysis of the phase 2 dose de-escalation trial of stereotactic arrhythmia radioablation for ventricular tachycardia (StAR-VT),0.223289
+Nonoperative management protocol for locally advanced rectal cancer,Interactions of Amphiphilic Polyelectrolytes and Neutral Polymeric Micelles:  A Study by Nonradiative Energy Transfer,-0.045394
+Nonoperative management protocol for locally advanced rectal cancer,WE‐E‐BRE‐05: Ensemble of Graphical Models for Predicting Radiation Pneumontis Risk,0.268569
+Nonoperative management protocol for locally advanced rectal cancer,Modeling of Radiation Pneumonitis after Lung Stereotactic Body Radiotherapy: A Bayesian Network Approach,0.257319
+Nonoperative management protocol for locally advanced rectal cancer,Conformal therapy improves the therapeutic index in patients treated with radiation therapy and concurrent chemotherapy,0.312928
+Nonoperative management protocol for locally advanced rectal cancer,"Can combined chemo-radiation be started after induction chemotherapy in the curative treatment of stage III non-small cell lung carcinoma (NSCLC)? A multicenter, phase II study 5-year update.",0.302275
+Nonoperative management protocol for locally advanced rectal cancer,The integration of electroanatomic maps into cardiac radioablation treatment planning: A systematic review,0.301337
+Nonoperative management protocol for locally advanced rectal cancer,50 INFLUENCE OF KRAS MUTATIONS ON TREATMENT OUTCOMES IN NON-SMALL CELL LUNG CANCER PATIENTS WITH BRAIN METASTASIS TREATED WITH STEREOTACTIC RADIOSURGERY,0.276687
+Nonoperative management protocol for locally advanced rectal cancer,Assessment of toxicity in patients with ultra-central thoracic tumours treated with stereotactic body radiotherapy with a dose of 50 Gy in 5 fractions,0.315053
+Stereotactic ablative radiotherapy before resection to avoid delay for early‐stage lung cancer or oligometastases during the COVID‐19 pandemic: Pathologic outcomes from the SABR‐BRIDGE protocol,Long-term Outcomes of Induction Carboplatin and Gemcitabine Followed by Concurrent Radiotherapy With Low-dose Paclitaxel and Gemcitabine for Stage III Non–small-cell Lung Cancer,0.370375
+Stereotactic ablative radiotherapy before resection to avoid delay for early‐stage lung cancer or oligometastases during the COVID‐19 pandemic: Pathologic outcomes from the SABR‐BRIDGE protocol,Eastern Canadian Gastrointestinal Cancer Consensus Conference 2016,0.364275
+Stereotactic ablative radiotherapy before resection to avoid delay for early‐stage lung cancer or oligometastases during the COVID‐19 pandemic: Pathologic outcomes from the SABR‐BRIDGE protocol,Analytical modelling of regional radiotherapy dose response of lung,0.161947
+Stereotactic ablative radiotherapy before resection to avoid delay for early‐stage lung cancer or oligometastases during the COVID‐19 pandemic: Pathologic outcomes from the SABR‐BRIDGE protocol,The conversion of electroanatomic maps for compatibility with treatment planning systems in cardiac radioablation target volume definition,0.218312
+Stereotactic ablative radiotherapy before resection to avoid delay for early‐stage lung cancer or oligometastases during the COVID‐19 pandemic: Pathologic outcomes from the SABR‐BRIDGE protocol,Interim efficacy analysis of the phase 2 dose de-escalation trial of stereotactic arrhythmia radioablation for ventricular tachycardia (StAR-VT),0.28726
+Stereotactic ablative radiotherapy before resection to avoid delay for early‐stage lung cancer or oligometastases during the COVID‐19 pandemic: Pathologic outcomes from the SABR‐BRIDGE protocol,Interactions of Amphiphilic Polyelectrolytes and Neutral Polymeric Micelles:  A Study by Nonradiative Energy Transfer,0.041079
+Stereotactic ablative radiotherapy before resection to avoid delay for early‐stage lung cancer or oligometastases during the COVID‐19 pandemic: Pathologic outcomes from the SABR‐BRIDGE protocol,WE‐E‐BRE‐05: Ensemble of Graphical Models for Predicting Radiation Pneumontis Risk,0.27465
+Stereotactic ablative radiotherapy before resection to avoid delay for early‐stage lung cancer or oligometastases during the COVID‐19 pandemic: Pathologic outcomes from the SABR‐BRIDGE protocol,Modeling of Radiation Pneumonitis after Lung Stereotactic Body Radiotherapy: A Bayesian Network Approach,0.280984
+Stereotactic ablative radiotherapy before resection to avoid delay for early‐stage lung cancer or oligometastases during the COVID‐19 pandemic: Pathologic outcomes from the SABR‐BRIDGE protocol,Conformal therapy improves the therapeutic index in patients treated with radiation therapy and concurrent chemotherapy,0.396025
+Stereotactic ablative radiotherapy before resection to avoid delay for early‐stage lung cancer or oligometastases during the COVID‐19 pandemic: Pathologic outcomes from the SABR‐BRIDGE protocol,"Can combined chemo-radiation be started after induction chemotherapy in the curative treatment of stage III non-small cell lung carcinoma (NSCLC)? A multicenter, phase II study 5-year update.",0.385771
+Stereotactic ablative radiotherapy before resection to avoid delay for early‐stage lung cancer or oligometastases during the COVID‐19 pandemic: Pathologic outcomes from the SABR‐BRIDGE protocol,The integration of electroanatomic maps into cardiac radioablation treatment planning: A systematic review,0.25218
+Stereotactic ablative radiotherapy before resection to avoid delay for early‐stage lung cancer or oligometastases during the COVID‐19 pandemic: Pathologic outcomes from the SABR‐BRIDGE protocol,50 INFLUENCE OF KRAS MUTATIONS ON TREATMENT OUTCOMES IN NON-SMALL CELL LUNG CANCER PATIENTS WITH BRAIN METASTASIS TREATED WITH STEREOTACTIC RADIOSURGERY,0.28675
+Stereotactic ablative radiotherapy before resection to avoid delay for early‐stage lung cancer or oligometastases during the COVID‐19 pandemic: Pathologic outcomes from the SABR‐BRIDGE protocol,Assessment of toxicity in patients with ultra-central thoracic tumours treated with stereotactic body radiotherapy with a dose of 50 Gy in 5 fractions,0.426699
+Long-term Outcomes of Induction Carboplatin and Gemcitabine Followed by Concurrent Radiotherapy With Low-dose Paclitaxel and Gemcitabine for Stage III Non–small-cell Lung Cancer,Eastern Canadian Gastrointestinal Cancer Consensus Conference 2016,0.504547
+Long-term Outcomes of Induction Carboplatin and Gemcitabine Followed by Concurrent Radiotherapy With Low-dose Paclitaxel and Gemcitabine for Stage III Non–small-cell Lung Cancer,Analytical modelling of regional radiotherapy dose response of lung,0.317658
+Long-term Outcomes of Induction Carboplatin and Gemcitabine Followed by Concurrent Radiotherapy With Low-dose Paclitaxel and Gemcitabine for Stage III Non–small-cell Lung Cancer,The conversion of electroanatomic maps for compatibility with treatment planning systems in cardiac radioablation target volume definition,0.199709
+Long-term Outcomes of Induction Carboplatin and Gemcitabine Followed by Concurrent Radiotherapy With Low-dose Paclitaxel and Gemcitabine for Stage III Non–small-cell Lung Cancer,Interim efficacy analysis of the phase 2 dose de-escalation trial of stereotactic arrhythmia radioablation for ventricular tachycardia (StAR-VT),0.340003
+Long-term Outcomes of Induction Carboplatin and Gemcitabine Followed by Concurrent Radiotherapy With Low-dose Paclitaxel and Gemcitabine for Stage III Non–small-cell Lung Cancer,Interactions of Amphiphilic Polyelectrolytes and Neutral Polymeric Micelles:  A Study by Nonradiative Energy Transfer,0.065515
+Long-term Outcomes of Induction Carboplatin and Gemcitabine Followed by Concurrent Radiotherapy With Low-dose Paclitaxel and Gemcitabine for Stage III Non–small-cell Lung Cancer,WE‐E‐BRE‐05: Ensemble of Graphical Models for Predicting Radiation Pneumontis Risk,0.337569
+Long-term Outcomes of Induction Carboplatin and Gemcitabine Followed by Concurrent Radiotherapy With Low-dose Paclitaxel and Gemcitabine for Stage III Non–small-cell Lung Cancer,Modeling of Radiation Pneumonitis after Lung Stereotactic Body Radiotherapy: A Bayesian Network Approach,0.3445
+Long-term Outcomes of Induction Carboplatin and Gemcitabine Followed by Concurrent Radiotherapy With Low-dose Paclitaxel and Gemcitabine for Stage III Non–small-cell Lung Cancer,Conformal therapy improves the therapeutic index in patients treated with radiation therapy and concurrent chemotherapy,0.451221
+Long-term Outcomes of Induction Carboplatin and Gemcitabine Followed by Concurrent Radiotherapy With Low-dose Paclitaxel and Gemcitabine for Stage III Non–small-cell Lung Cancer,"Can combined chemo-radiation be started after induction chemotherapy in the curative treatment of stage III non-small cell lung carcinoma (NSCLC)? A multicenter, phase II study 5-year update.",0.612139
+Long-term Outcomes of Induction Carboplatin and Gemcitabine Followed by Concurrent Radiotherapy With Low-dose Paclitaxel and Gemcitabine for Stage III Non–small-cell Lung Cancer,The integration of electroanatomic maps into cardiac radioablation treatment planning: A systematic review,0.347249
+Long-term Outcomes of Induction Carboplatin and Gemcitabine Followed by Concurrent Radiotherapy With Low-dose Paclitaxel and Gemcitabine for Stage III Non–small-cell Lung Cancer,50 INFLUENCE OF KRAS MUTATIONS ON TREATMENT OUTCOMES IN NON-SMALL CELL LUNG CANCER PATIENTS WITH BRAIN METASTASIS TREATED WITH STEREOTACTIC RADIOSURGERY,0.396467
+Long-term Outcomes of Induction Carboplatin and Gemcitabine Followed by Concurrent Radiotherapy With Low-dose Paclitaxel and Gemcitabine for Stage III Non–small-cell Lung Cancer,Assessment of toxicity in patients with ultra-central thoracic tumours treated with stereotactic body radiotherapy with a dose of 50 Gy in 5 fractions,0.446385
+Eastern Canadian Gastrointestinal Cancer Consensus Conference 2016,Analytical modelling of regional radiotherapy dose response of lung,0.324473
+Eastern Canadian Gastrointestinal Cancer Consensus Conference 2016,The conversion of electroanatomic maps for compatibility with treatment planning systems in cardiac radioablation target volume definition,0.140196
+Eastern Canadian Gastrointestinal Cancer Consensus Conference 2016,Interim efficacy analysis of the phase 2 dose de-escalation trial of stereotactic arrhythmia radioablation for ventricular tachycardia (StAR-VT),0.338769
+Eastern Canadian Gastrointestinal Cancer Consensus Conference 2016,Interactions of Amphiphilic Polyelectrolytes and Neutral Polymeric Micelles:  A Study by Nonradiative Energy Transfer,0.094951
+Eastern Canadian Gastrointestinal Cancer Consensus Conference 2016,WE‐E‐BRE‐05: Ensemble of Graphical Models for Predicting Radiation Pneumontis Risk,0.32895
+Eastern Canadian Gastrointestinal Cancer Consensus Conference 2016,Modeling of Radiation Pneumonitis after Lung Stereotactic Body Radiotherapy: A Bayesian Network Approach,0.342447
+Eastern Canadian Gastrointestinal Cancer Consensus Conference 2016,Conformal therapy improves the therapeutic index in patients treated with radiation therapy and concurrent chemotherapy,0.607978
+Eastern Canadian Gastrointestinal Cancer Consensus Conference 2016,"Can combined chemo-radiation be started after induction chemotherapy in the curative treatment of stage III non-small cell lung carcinoma (NSCLC)? A multicenter, phase II study 5-year update.",0.535435
+Eastern Canadian Gastrointestinal Cancer Consensus Conference 2016,The integration of electroanatomic maps into cardiac radioablation treatment planning: A systematic review,0.230553
+Eastern Canadian Gastrointestinal Cancer Consensus Conference 2016,50 INFLUENCE OF KRAS MUTATIONS ON TREATMENT OUTCOMES IN NON-SMALL CELL LUNG CANCER PATIENTS WITH BRAIN METASTASIS TREATED WITH STEREOTACTIC RADIOSURGERY,0.395988
+Eastern Canadian Gastrointestinal Cancer Consensus Conference 2016,Assessment of toxicity in patients with ultra-central thoracic tumours treated with stereotactic body radiotherapy with a dose of 50 Gy in 5 fractions,0.359597
+Analytical modelling of regional radiotherapy dose response of lung,The conversion of electroanatomic maps for compatibility with treatment planning systems in cardiac radioablation target volume definition,0.290525
+Analytical modelling of regional radiotherapy dose response of lung,Interim efficacy analysis of the phase 2 dose de-escalation trial of stereotactic arrhythmia radioablation for ventricular tachycardia (StAR-VT),0.379875
+Analytical modelling of regional radiotherapy dose response of lung,Interactions of Amphiphilic Polyelectrolytes and Neutral Polymeric Micelles:  A Study by Nonradiative Energy Transfer,0.072079
+Analytical modelling of regional radiotherapy dose response of lung,WE‐E‐BRE‐05: Ensemble of Graphical Models for Predicting Radiation Pneumontis Risk,0.567537
+Analytical modelling of regional radiotherapy dose response of lung,Modeling of Radiation Pneumonitis after Lung Stereotactic Body Radiotherapy: A Bayesian Network Approach,0.645051
+Analytical modelling of regional radiotherapy dose response of lung,Conformal therapy improves the therapeutic index in patients treated with radiation therapy and concurrent chemotherapy,0.397108
+Analytical modelling of regional radiotherapy dose response of lung,"Can combined chemo-radiation be started after induction chemotherapy in the curative treatment of stage III non-small cell lung carcinoma (NSCLC)? A multicenter, phase II study 5-year update.",0.364683
+Analytical modelling of regional radiotherapy dose response of lung,The integration of electroanatomic maps into cardiac radioablation treatment planning: A systematic review,0.237649
+Analytical modelling of regional radiotherapy dose response of lung,50 INFLUENCE OF KRAS MUTATIONS ON TREATMENT OUTCOMES IN NON-SMALL CELL LUNG CANCER PATIENTS WITH BRAIN METASTASIS TREATED WITH STEREOTACTIC RADIOSURGERY,0.471334
+Analytical modelling of regional radiotherapy dose response of lung,Assessment of toxicity in patients with ultra-central thoracic tumours treated with stereotactic body radiotherapy with a dose of 50 Gy in 5 fractions,0.458584
+The conversion of electroanatomic maps for compatibility with treatment planning systems in cardiac radioablation target volume definition,Interim efficacy analysis of the phase 2 dose de-escalation trial of stereotactic arrhythmia radioablation for ventricular tachycardia (StAR-VT),0.325177
+The conversion of electroanatomic maps for compatibility with treatment planning systems in cardiac radioablation target volume definition,Interactions of Amphiphilic Polyelectrolytes and Neutral Polymeric Micelles:  A Study by Nonradiative Energy Transfer,-0.027587
+The conversion of electroanatomic maps for compatibility with treatment planning systems in cardiac radioablation target volume definition,WE‐E‐BRE‐05: Ensemble of Graphical Models for Predicting Radiation Pneumontis Risk,0.256154
+The conversion of electroanatomic maps for compatibility with treatment planning systems in cardiac radioablation target volume definition,Modeling of Radiation Pneumonitis after Lung Stereotactic Body Radiotherapy: A Bayesian Network Approach,0.310379
+The conversion of electroanatomic maps for compatibility with treatment planning systems in cardiac radioablation target volume definition,Conformal therapy improves the therapeutic index in patients treated with radiation therapy and concurrent chemotherapy,0.133158
+The conversion of electroanatomic maps for compatibility with treatment planning systems in cardiac radioablation target volume definition,"Can combined chemo-radiation be started after induction chemotherapy in the curative treatment of stage III non-small cell lung carcinoma (NSCLC)? A multicenter, phase II study 5-year update.",0.133434
+The conversion of electroanatomic maps for compatibility with treatment planning systems in cardiac radioablation target volume definition,The integration of electroanatomic maps into cardiac radioablation treatment planning: A systematic review,0.58958
+The conversion of electroanatomic maps for compatibility with treatment planning systems in cardiac radioablation target volume definition,50 INFLUENCE OF KRAS MUTATIONS ON TREATMENT OUTCOMES IN NON-SMALL CELL LUNG CANCER PATIENTS WITH BRAIN METASTASIS TREATED WITH STEREOTACTIC RADIOSURGERY,0.277515
+The conversion of electroanatomic maps for compatibility with treatment planning systems in cardiac radioablation target volume definition,Assessment of toxicity in patients with ultra-central thoracic tumours treated with stereotactic body radiotherapy with a dose of 50 Gy in 5 fractions,0.151927
+Interim efficacy analysis of the phase 2 dose de-escalation trial of stereotactic arrhythmia radioablation for ventricular tachycardia (StAR-VT),Interactions of Amphiphilic Polyelectrolytes and Neutral Polymeric Micelles:  A Study by Nonradiative Energy Transfer,0.019751
+Interim efficacy analysis of the phase 2 dose de-escalation trial of stereotactic arrhythmia radioablation for ventricular tachycardia (StAR-VT),WE‐E‐BRE‐05: Ensemble of Graphical Models for Predicting Radiation Pneumontis Risk,0.270913
+Interim efficacy analysis of the phase 2 dose de-escalation trial of stereotactic arrhythmia radioablation for ventricular tachycardia (StAR-VT),Modeling of Radiation Pneumonitis after Lung Stereotactic Body Radiotherapy: A Bayesian Network Approach,0.324634
+Interim efficacy analysis of the phase 2 dose de-escalation trial of stereotactic arrhythmia radioablation for ventricular tachycardia (StAR-VT),Conformal therapy improves the therapeutic index in patients treated with radiation therapy and concurrent chemotherapy,0.343824
+Interim efficacy analysis of the phase 2 dose de-escalation trial of stereotactic arrhythmia radioablation for ventricular tachycardia (StAR-VT),"Can combined chemo-radiation be started after induction chemotherapy in the curative treatment of stage III non-small cell lung carcinoma (NSCLC)? A multicenter, phase II study 5-year update.",0.320819
+Interim efficacy analysis of the phase 2 dose de-escalation trial of stereotactic arrhythmia radioablation for ventricular tachycardia (StAR-VT),The integration of electroanatomic maps into cardiac radioablation treatment planning: A systematic review,0.300857
+Interim efficacy analysis of the phase 2 dose de-escalation trial of stereotactic arrhythmia radioablation for ventricular tachycardia (StAR-VT),50 INFLUENCE OF KRAS MUTATIONS ON TREATMENT OUTCOMES IN NON-SMALL CELL LUNG CANCER PATIENTS WITH BRAIN METASTASIS TREATED WITH STEREOTACTIC RADIOSURGERY,0.327022
+Interim efficacy analysis of the phase 2 dose de-escalation trial of stereotactic arrhythmia radioablation for ventricular tachycardia (StAR-VT),Assessment of toxicity in patients with ultra-central thoracic tumours treated with stereotactic body radiotherapy with a dose of 50 Gy in 5 fractions,0.458741
+Interactions of Amphiphilic Polyelectrolytes and Neutral Polymeric Micelles:  A Study by Nonradiative Energy Transfer,WE‐E‐BRE‐05: Ensemble of Graphical Models for Predicting Radiation Pneumontis Risk,0.032718
+Interactions of Amphiphilic Polyelectrolytes and Neutral Polymeric Micelles:  A Study by Nonradiative Energy Transfer,Modeling of Radiation Pneumonitis after Lung Stereotactic Body Radiotherapy: A Bayesian Network Approach,0.049711
+Interactions of Amphiphilic Polyelectrolytes and Neutral Polymeric Micelles:  A Study by Nonradiative Energy Transfer,Conformal therapy improves the therapeutic index in patients treated with radiation therapy and concurrent chemotherapy,0.093741
+Interactions of Amphiphilic Polyelectrolytes and Neutral Polymeric Micelles:  A Study by Nonradiative Energy Transfer,"Can combined chemo-radiation be started after induction chemotherapy in the curative treatment of stage III non-small cell lung carcinoma (NSCLC)? A multicenter, phase II study 5-year update.",0.047534
+Interactions of Amphiphilic Polyelectrolytes and Neutral Polymeric Micelles:  A Study by Nonradiative Energy Transfer,The integration of electroanatomic maps into cardiac radioablation treatment planning: A systematic review,-0.016041
+Interactions of Amphiphilic Polyelectrolytes and Neutral Polymeric Micelles:  A Study by Nonradiative Energy Transfer,50 INFLUENCE OF KRAS MUTATIONS ON TREATMENT OUTCOMES IN NON-SMALL CELL LUNG CANCER PATIENTS WITH BRAIN METASTASIS TREATED WITH STEREOTACTIC RADIOSURGERY,0.008772
+Interactions of Amphiphilic Polyelectrolytes and Neutral Polymeric Micelles:  A Study by Nonradiative Energy Transfer,Assessment of toxicity in patients with ultra-central thoracic tumours treated with stereotactic body radiotherapy with a dose of 50 Gy in 5 fractions,0.053361
+WE‐E‐BRE‐05: Ensemble of Graphical Models for Predicting Radiation Pneumontis Risk,Modeling of Radiation Pneumonitis after Lung Stereotactic Body Radiotherapy: A Bayesian Network Approach,0.794214
+WE‐E‐BRE‐05: Ensemble of Graphical Models for Predicting Radiation Pneumontis Risk,Conformal therapy improves the therapeutic index in patients treated with radiation therapy and concurrent chemotherapy,0.347949
+WE‐E‐BRE‐05: Ensemble of Graphical Models for Predicting Radiation Pneumontis Risk,"Can combined chemo-radiation be started after induction chemotherapy in the curative treatment of stage III non-small cell lung carcinoma (NSCLC)? A multicenter, phase II study 5-year update.",0.455233
+WE‐E‐BRE‐05: Ensemble of Graphical Models for Predicting Radiation Pneumontis Risk,The integration of electroanatomic maps into cardiac radioablation treatment planning: A systematic review,0.350245
+WE‐E‐BRE‐05: Ensemble of Graphical Models for Predicting Radiation Pneumontis Risk,50 INFLUENCE OF KRAS MUTATIONS ON TREATMENT OUTCOMES IN NON-SMALL CELL LUNG CANCER PATIENTS WITH BRAIN METASTASIS TREATED WITH STEREOTACTIC RADIOSURGERY,0.416363
+WE‐E‐BRE‐05: Ensemble of Graphical Models for Predicting Radiation Pneumontis Risk,Assessment of toxicity in patients with ultra-central thoracic tumours treated with stereotactic body radiotherapy with a dose of 50 Gy in 5 fractions,0.315987
+Modeling of Radiation Pneumonitis after Lung Stereotactic Body Radiotherapy: A Bayesian Network Approach,Conformal therapy improves the therapeutic index in patients treated with radiation therapy and concurrent chemotherapy,0.336442
+Modeling of Radiation Pneumonitis after Lung Stereotactic Body Radiotherapy: A Bayesian Network Approach,"Can combined chemo-radiation be started after induction chemotherapy in the curative treatment of stage III non-small cell lung carcinoma (NSCLC)? A multicenter, phase II study 5-year update.",0.380139
+Modeling of Radiation Pneumonitis after Lung Stereotactic Body Radiotherapy: A Bayesian Network Approach,The integration of electroanatomic maps into cardiac radioablation treatment planning: A systematic review,0.356973
+Modeling of Radiation Pneumonitis after Lung Stereotactic Body Radiotherapy: A Bayesian Network Approach,50 INFLUENCE OF KRAS MUTATIONS ON TREATMENT OUTCOMES IN NON-SMALL CELL LUNG CANCER PATIENTS WITH BRAIN METASTASIS TREATED WITH STEREOTACTIC RADIOSURGERY,0.542033
+Modeling of Radiation Pneumonitis after Lung Stereotactic Body Radiotherapy: A Bayesian Network Approach,Assessment of toxicity in patients with ultra-central thoracic tumours treated with stereotactic body radiotherapy with a dose of 50 Gy in 5 fractions,0.382792
+Conformal therapy improves the therapeutic index in patients treated with radiation therapy and concurrent chemotherapy,"Can combined chemo-radiation be started after induction chemotherapy in the curative treatment of stage III non-small cell lung carcinoma (NSCLC)? A multicenter, phase II study 5-year update.",0.484083
+Conformal therapy improves the therapeutic index in patients treated with radiation therapy and concurrent chemotherapy,The integration of electroanatomic maps into cardiac radioablation treatment planning: A systematic review,0.167085
+Conformal therapy improves the therapeutic index in patients treated with radiation therapy and concurrent chemotherapy,50 INFLUENCE OF KRAS MUTATIONS ON TREATMENT OUTCOMES IN NON-SMALL CELL LUNG CANCER PATIENTS WITH BRAIN METASTASIS TREATED WITH STEREOTACTIC RADIOSURGERY,0.319742
+Conformal therapy improves the therapeutic index in patients treated with radiation therapy and concurrent chemotherapy,Assessment of toxicity in patients with ultra-central thoracic tumours treated with stereotactic body radiotherapy with a dose of 50 Gy in 5 fractions,0.401663
+"Can combined chemo-radiation be started after induction chemotherapy in the curative treatment of stage III non-small cell lung carcinoma (NSCLC)? A multicenter, phase II study 5-year update.",The integration of electroanatomic maps into cardiac radioablation treatment planning: A systematic review,0.230644
+"Can combined chemo-radiation be started after induction chemotherapy in the curative treatment of stage III non-small cell lung carcinoma (NSCLC)? A multicenter, phase II study 5-year update.",50 INFLUENCE OF KRAS MUTATIONS ON TREATMENT OUTCOMES IN NON-SMALL CELL LUNG CANCER PATIENTS WITH BRAIN METASTASIS TREATED WITH STEREOTACTIC RADIOSURGERY,0.474599
+"Can combined chemo-radiation be started after induction chemotherapy in the curative treatment of stage III non-small cell lung carcinoma (NSCLC)? A multicenter, phase II study 5-year update.",Assessment of toxicity in patients with ultra-central thoracic tumours treated with stereotactic body radiotherapy with a dose of 50 Gy in 5 fractions,0.414931
+The integration of electroanatomic maps into cardiac radioablation treatment planning: A systematic review,50 INFLUENCE OF KRAS MUTATIONS ON TREATMENT OUTCOMES IN NON-SMALL CELL LUNG CANCER PATIENTS WITH BRAIN METASTASIS TREATED WITH STEREOTACTIC RADIOSURGERY,0.313454
+The integration of electroanatomic maps into cardiac radioablation treatment planning: A systematic review,Assessment of toxicity in patients with ultra-central thoracic tumours treated with stereotactic body radiotherapy with a dose of 50 Gy in 5 fractions,0.150631
+50 INFLUENCE OF KRAS MUTATIONS ON TREATMENT OUTCOMES IN NON-SMALL CELL LUNG CANCER PATIENTS WITH BRAIN METASTASIS TREATED WITH STEREOTACTIC RADIOSURGERY,Assessment of toxicity in patients with ultra-central thoracic tumours treated with stereotactic body radiotherapy with a dose of 50 Gy in 5 fractions,0.426532

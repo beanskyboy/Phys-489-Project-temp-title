@@ -1,0 +1,12 @@
+first_sentence,second_sentence,similarity score
+The quick brown fox jumps.,The quick brown fox jumps.,1
+A person is slicing an onion.,Someone is cutting an onion.,0.972410743
+The movie was incredible.,The film was great.,0.934852132
+I forgot my password.,How do I recover my password?,0.870850932
+He is a professional athlete.,He plays sports for a living.,0.922265556
+I love eating green apples.,I enjoy eating red apples.,0.91178625
+The cat ate the mouse.,The mouse ate the cat.,0.989289771
+Python is a programming language.,A python is a large snake.,0.8552392
+The bank is closed today.,I sat on the river bank.,0.755052711
+The sky is blue today.,I need to buy new shoes.,0.740878192
+Stock prices are rising.,Please pass the salt.,0.667346756

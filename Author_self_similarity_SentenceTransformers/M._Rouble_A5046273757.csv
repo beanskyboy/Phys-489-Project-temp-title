@@ -1,0 +1,11 @@
+title_i,title_j,cosine_similarity
+SPT-3G D1: Constraints on inflationary gravitational waves with two years of SPT-3G data,Detection of Thermal Emission at Millimeter Wavelengths from Low-Earth Orbit Satellites,0.500067
+SPT-3G D1: Constraints on inflationary gravitational waves with two years of SPT-3G data,Pointing Accuracy Improvements for the South Pole Telescope with Machine Learning,0.374432
+SPT-3G D1: Constraints on inflationary gravitational waves with two years of SPT-3G data,Development of an MKID Frequency-to-Pixel LED Mapper for SPT-3G+,0.535111
+SPT-3G D1: Constraints on inflationary gravitational waves with two years of SPT-3G data,SPT-SLIM: A Line Intensity Mapping Pathfinder for the South Pole Telescope,0.567136
+Detection of Thermal Emission at Millimeter Wavelengths from Low-Earth Orbit Satellites,Pointing Accuracy Improvements for the South Pole Telescope with Machine Learning,0.515179
+Detection of Thermal Emission at Millimeter Wavelengths from Low-Earth Orbit Satellites,Development of an MKID Frequency-to-Pixel LED Mapper for SPT-3G+,0.61409
+Detection of Thermal Emission at Millimeter Wavelengths from Low-Earth Orbit Satellites,SPT-SLIM: A Line Intensity Mapping Pathfinder for the South Pole Telescope,0.608635
+Pointing Accuracy Improvements for the South Pole Telescope with Machine Learning,Development of an MKID Frequency-to-Pixel LED Mapper for SPT-3G+,0.393456
+Pointing Accuracy Improvements for the South Pole Telescope with Machine Learning,SPT-SLIM: A Line Intensity Mapping Pathfinder for the South Pole Telescope,0.443763
+Development of an MKID Frequency-to-Pixel LED Mapper for SPT-3G+,SPT-SLIM: A Line Intensity Mapping Pathfinder for the South Pole Telescope,0.697083

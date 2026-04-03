@@ -1,0 +1,22 @@
+title_i,title_j,cosine_similarity
+A Metaheuristic for Amortized Search in High-Dimensional Parameter Spaces,A Metaheuristic for Amortized Search in High-Dimensional Parameter Spaces.,1.0
+A Metaheuristic for Amortized Search in High-Dimensional Parameter Spaces,A Hypothesis-First Framework for Mechanistic Modeling in Neuroimaging,0.538106
+A Metaheuristic for Amortized Search in High-Dimensional Parameter Spaces,The Cortical Temporal Axis: MEG-Based Cross-Frequency Gradients with Biological Anchors,0.307977
+A Metaheuristic for Amortized Search in High-Dimensional Parameter Spaces,"Distributed neurophysiological dynamics link perception, action, and language in schizophrenia",0.108236
+A Metaheuristic for Amortized Search in High-Dimensional Parameter Spaces,Resting Magnetoencephalography Alterations in Severe Mental Illnesses: A Systematic Review,0.167484
+A Metaheuristic for Amortized Search in High-Dimensional Parameter Spaces,Resting Magnetoencephalography (MEG) Abnormalities in Severe Mental Illnesses: A Systematic Review,0.066345
+A Metaheuristic for Amortized Search in High-Dimensional Parameter Spaces.,A Hypothesis-First Framework for Mechanistic Modeling in Neuroimaging,0.538106
+A Metaheuristic for Amortized Search in High-Dimensional Parameter Spaces.,The Cortical Temporal Axis: MEG-Based Cross-Frequency Gradients with Biological Anchors,0.307977
+A Metaheuristic for Amortized Search in High-Dimensional Parameter Spaces.,"Distributed neurophysiological dynamics link perception, action, and language in schizophrenia",0.108236
+A Metaheuristic for Amortized Search in High-Dimensional Parameter Spaces.,Resting Magnetoencephalography Alterations in Severe Mental Illnesses: A Systematic Review,0.167484
+A Metaheuristic for Amortized Search in High-Dimensional Parameter Spaces.,Resting Magnetoencephalography (MEG) Abnormalities in Severe Mental Illnesses: A Systematic Review,0.066345
+A Hypothesis-First Framework for Mechanistic Modeling in Neuroimaging,The Cortical Temporal Axis: MEG-Based Cross-Frequency Gradients with Biological Anchors,0.490447
+A Hypothesis-First Framework for Mechanistic Modeling in Neuroimaging,"Distributed neurophysiological dynamics link perception, action, and language in schizophrenia",0.442025
+A Hypothesis-First Framework for Mechanistic Modeling in Neuroimaging,Resting Magnetoencephalography Alterations in Severe Mental Illnesses: A Systematic Review,0.395184
+A Hypothesis-First Framework for Mechanistic Modeling in Neuroimaging,Resting Magnetoencephalography (MEG) Abnormalities in Severe Mental Illnesses: A Systematic Review,0.350897
+The Cortical Temporal Axis: MEG-Based Cross-Frequency Gradients with Biological Anchors,"Distributed neurophysiological dynamics link perception, action, and language in schizophrenia",0.532959
+The Cortical Temporal Axis: MEG-Based Cross-Frequency Gradients with Biological Anchors,Resting Magnetoencephalography Alterations in Severe Mental Illnesses: A Systematic Review,0.670446
+The Cortical Temporal Axis: MEG-Based Cross-Frequency Gradients with Biological Anchors,Resting Magnetoencephalography (MEG) Abnormalities in Severe Mental Illnesses: A Systematic Review,0.529456
+"Distributed neurophysiological dynamics link perception, action, and language in schizophrenia",Resting Magnetoencephalography Alterations in Severe Mental Illnesses: A Systematic Review,0.681072
+"Distributed neurophysiological dynamics link perception, action, and language in schizophrenia",Resting Magnetoencephalography (MEG) Abnormalities in Severe Mental Illnesses: A Systematic Review,0.594383
+Resting Magnetoencephalography Alterations in Severe Mental Illnesses: A Systematic Review,Resting Magnetoencephalography (MEG) Abnormalities in Severe Mental Illnesses: A Systematic Review,0.794773

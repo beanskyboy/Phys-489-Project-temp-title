@@ -1,0 +1,37 @@
+title_i,title_j,cosine_similarity
+Homodyne detection is optimal for quantum interferometry with path-entangled coherent states,Non-Markovian transient spectroscopy in cavity QED,0.471852
+Homodyne detection is optimal for quantum interferometry with path-entangled coherent states,Photonic Which-Path Entangler Based on Longitudinal Cavity-Qubit Coupling,0.615009
+Homodyne detection is optimal for quantum interferometry with path-entangled coherent states,Flying-cat parity checks for quantum error correction,0.72461
+Homodyne detection is optimal for quantum interferometry with path-entangled coherent states,Constructing Coherent States for the Rational Extensions of the Harmonic Oscillator Potential,0.252654
+Homodyne detection is optimal for quantum interferometry with path-entangled coherent states,Dimensionality reduction for closed-loop quantum gate calibration,0.497135
+Homodyne detection is optimal for quantum interferometry with path-entangled coherent states,Quantum information processing in modular cavity QED architectures,0.664916
+Homodyne detection is optimal for quantum interferometry with path-entangled coherent states,Protocols for inter-module two-qubit gates mediated by time-bin encoded photons,0.452557
+Homodyne detection is optimal for quantum interferometry with path-entangled coherent states,Loss-tolerant parallelized Bell-state generation with a hybrid cat qudit,0.584479
+Non-Markovian transient spectroscopy in cavity QED,Photonic Which-Path Entangler Based on Longitudinal Cavity-Qubit Coupling,0.493317
+Non-Markovian transient spectroscopy in cavity QED,Flying-cat parity checks for quantum error correction,0.509332
+Non-Markovian transient spectroscopy in cavity QED,Constructing Coherent States for the Rational Extensions of the Harmonic Oscillator Potential,0.263682
+Non-Markovian transient spectroscopy in cavity QED,Dimensionality reduction for closed-loop quantum gate calibration,0.424119
+Non-Markovian transient spectroscopy in cavity QED,Quantum information processing in modular cavity QED architectures,0.726171
+Non-Markovian transient spectroscopy in cavity QED,Protocols for inter-module two-qubit gates mediated by time-bin encoded photons,0.485938
+Non-Markovian transient spectroscopy in cavity QED,Loss-tolerant parallelized Bell-state generation with a hybrid cat qudit,0.45806
+Photonic Which-Path Entangler Based on Longitudinal Cavity-Qubit Coupling,Flying-cat parity checks for quantum error correction,0.596973
+Photonic Which-Path Entangler Based on Longitudinal Cavity-Qubit Coupling,Constructing Coherent States for the Rational Extensions of the Harmonic Oscillator Potential,0.22288
+Photonic Which-Path Entangler Based on Longitudinal Cavity-Qubit Coupling,Dimensionality reduction for closed-loop quantum gate calibration,0.443145
+Photonic Which-Path Entangler Based on Longitudinal Cavity-Qubit Coupling,Quantum information processing in modular cavity QED architectures,0.743483
+Photonic Which-Path Entangler Based on Longitudinal Cavity-Qubit Coupling,Protocols for inter-module two-qubit gates mediated by time-bin encoded photons,0.611552
+Photonic Which-Path Entangler Based on Longitudinal Cavity-Qubit Coupling,Loss-tolerant parallelized Bell-state generation with a hybrid cat qudit,0.671194
+Flying-cat parity checks for quantum error correction,Constructing Coherent States for the Rational Extensions of the Harmonic Oscillator Potential,0.357123
+Flying-cat parity checks for quantum error correction,Dimensionality reduction for closed-loop quantum gate calibration,0.579791
+Flying-cat parity checks for quantum error correction,Quantum information processing in modular cavity QED architectures,0.725829
+Flying-cat parity checks for quantum error correction,Protocols for inter-module two-qubit gates mediated by time-bin encoded photons,0.521275
+Flying-cat parity checks for quantum error correction,Loss-tolerant parallelized Bell-state generation with a hybrid cat qudit,0.691051
+Constructing Coherent States for the Rational Extensions of the Harmonic Oscillator Potential,Dimensionality reduction for closed-loop quantum gate calibration,0.185583
+Constructing Coherent States for the Rational Extensions of the Harmonic Oscillator Potential,Quantum information processing in modular cavity QED architectures,0.278884
+Constructing Coherent States for the Rational Extensions of the Harmonic Oscillator Potential,Protocols for inter-module two-qubit gates mediated by time-bin encoded photons,0.172869
+Constructing Coherent States for the Rational Extensions of the Harmonic Oscillator Potential,Loss-tolerant parallelized Bell-state generation with a hybrid cat qudit,0.275573
+Dimensionality reduction for closed-loop quantum gate calibration,Quantum information processing in modular cavity QED architectures,0.601222
+Dimensionality reduction for closed-loop quantum gate calibration,Protocols for inter-module two-qubit gates mediated by time-bin encoded photons,0.568851
+Dimensionality reduction for closed-loop quantum gate calibration,Loss-tolerant parallelized Bell-state generation with a hybrid cat qudit,0.558448
+Quantum information processing in modular cavity QED architectures,Protocols for inter-module two-qubit gates mediated by time-bin encoded photons,0.668163
+Quantum information processing in modular cavity QED architectures,Loss-tolerant parallelized Bell-state generation with a hybrid cat qudit,0.696169
+Protocols for inter-module two-qubit gates mediated by time-bin encoded photons,Loss-tolerant parallelized Bell-state generation with a hybrid cat qudit,0.680433

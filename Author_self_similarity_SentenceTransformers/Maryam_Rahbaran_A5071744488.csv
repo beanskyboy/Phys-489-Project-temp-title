@@ -1,0 +1,16 @@
+title_i,title_j,cosine_similarity
+RapidBrachyIVBT: A dosimetry software for patient‐specific intravascular brachytherapy dose calculations on optical coherence tomography images,Cupping correction for partial rotation dental conebeam CT,0.352635
+RapidBrachyIVBT: A dosimetry software for patient‐specific intravascular brachytherapy dose calculations on optical coherence tomography images,PO0310,0.619836
+RapidBrachyIVBT: A dosimetry software for patient‐specific intravascular brachytherapy dose calculations on optical coherence tomography images,Monte Carlo-based dosimetry and optimization of a custom alpha cell irradiation setup,0.598752
+RapidBrachyIVBT: A dosimetry software for patient‐specific intravascular brachytherapy dose calculations on optical coherence tomography images,Dosimetric evaluation of unlaminated radiochromic films exposed to an Americium‐241 source using measurements and Monte Carlo simulations,0.600069
+RapidBrachyIVBT: A dosimetry software for patient‐specific intravascular brachytherapy dose calculations on optical coherence tomography images,Dosimetric characterization of a <sup>90</sup> Sr <sup>90</sup> Y Pterygium applicator with radiochromic film and Monte Carlo Simulations,0.637856
+Cupping correction for partial rotation dental conebeam CT,PO0310,0.414528
+Cupping correction for partial rotation dental conebeam CT,Monte Carlo-based dosimetry and optimization of a custom alpha cell irradiation setup,0.271836
+Cupping correction for partial rotation dental conebeam CT,Dosimetric evaluation of unlaminated radiochromic films exposed to an Americium‐241 source using measurements and Monte Carlo simulations,0.277593
+Cupping correction for partial rotation dental conebeam CT,Dosimetric characterization of a <sup>90</sup> Sr <sup>90</sup> Y Pterygium applicator with radiochromic film and Monte Carlo Simulations,0.35992
+PO0310,Monte Carlo-based dosimetry and optimization of a custom alpha cell irradiation setup,0.391812
+PO0310,Dosimetric evaluation of unlaminated radiochromic films exposed to an Americium‐241 source using measurements and Monte Carlo simulations,0.406503
+PO0310,Dosimetric characterization of a <sup>90</sup> Sr <sup>90</sup> Y Pterygium applicator with radiochromic film and Monte Carlo Simulations,0.531859
+Monte Carlo-based dosimetry and optimization of a custom alpha cell irradiation setup,Dosimetric evaluation of unlaminated radiochromic films exposed to an Americium‐241 source using measurements and Monte Carlo simulations,0.6614
+Monte Carlo-based dosimetry and optimization of a custom alpha cell irradiation setup,Dosimetric characterization of a <sup>90</sup> Sr <sup>90</sup> Y Pterygium applicator with radiochromic film and Monte Carlo Simulations,0.756313
+Dosimetric evaluation of unlaminated radiochromic films exposed to an Americium‐241 source using measurements and Monte Carlo simulations,Dosimetric characterization of a <sup>90</sup> Sr <sup>90</sup> Y Pterygium applicator with radiochromic film and Monte Carlo Simulations,0.684471

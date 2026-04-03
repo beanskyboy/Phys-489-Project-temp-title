@@ -1,0 +1,37 @@
+title_i,title_j,cosine_similarity
+Dose distributions in dynamic stereotactic radiosurgery,Broad beam and narrow beam attenuation in Lipowitz's metal,0.445781
+Dose distributions in dynamic stereotactic radiosurgery,Dose distributions in radiosurgery,0.884127
+Dose distributions in dynamic stereotactic radiosurgery,Electron dose rate and photon contamination in electron arc therapy,0.432923
+Dose distributions in dynamic stereotactic radiosurgery,The influence of beam parameters on percentage depth dose in electron arc therapy,0.630341
+Dose distributions in dynamic stereotactic radiosurgery,The effect of lead attenuators on dose in homogeneous phantoms,0.590138
+Dose distributions in dynamic stereotactic radiosurgery,Calculation of dose in homogeneous phantoms for partially attenuated photon beams,0.544293
+Dose distributions in dynamic stereotactic radiosurgery,Electron arc dose distributions as a function of beam energy,0.574834
+Dose distributions in dynamic stereotactic radiosurgery,"Calculation of dose profiles in homogeneous phantoms for irregular, partially attenuated, photon beams",0.627112
+Broad beam and narrow beam attenuation in Lipowitz's metal,Dose distributions in radiosurgery,0.52001
+Broad beam and narrow beam attenuation in Lipowitz's metal,Electron dose rate and photon contamination in electron arc therapy,0.530717
+Broad beam and narrow beam attenuation in Lipowitz's metal,The influence of beam parameters on percentage depth dose in electron arc therapy,0.518868
+Broad beam and narrow beam attenuation in Lipowitz's metal,The effect of lead attenuators on dose in homogeneous phantoms,0.756273
+Broad beam and narrow beam attenuation in Lipowitz's metal,Calculation of dose in homogeneous phantoms for partially attenuated photon beams,0.62872
+Broad beam and narrow beam attenuation in Lipowitz's metal,Electron arc dose distributions as a function of beam energy,0.586998
+Broad beam and narrow beam attenuation in Lipowitz's metal,"Calculation of dose profiles in homogeneous phantoms for irregular, partially attenuated, photon beams",0.652492
+Dose distributions in radiosurgery,Electron dose rate and photon contamination in electron arc therapy,0.509962
+Dose distributions in radiosurgery,The influence of beam parameters on percentage depth dose in electron arc therapy,0.66806
+Dose distributions in radiosurgery,The effect of lead attenuators on dose in homogeneous phantoms,0.629925
+Dose distributions in radiosurgery,Calculation of dose in homogeneous phantoms for partially attenuated photon beams,0.594983
+Dose distributions in radiosurgery,Electron arc dose distributions as a function of beam energy,0.646457
+Dose distributions in radiosurgery,"Calculation of dose profiles in homogeneous phantoms for irregular, partially attenuated, photon beams",0.633587
+Electron dose rate and photon contamination in electron arc therapy,The influence of beam parameters on percentage depth dose in electron arc therapy,0.730821
+Electron dose rate and photon contamination in electron arc therapy,The effect of lead attenuators on dose in homogeneous phantoms,0.56626
+Electron dose rate and photon contamination in electron arc therapy,Calculation of dose in homogeneous phantoms for partially attenuated photon beams,0.552622
+Electron dose rate and photon contamination in electron arc therapy,Electron arc dose distributions as a function of beam energy,0.744144
+Electron dose rate and photon contamination in electron arc therapy,"Calculation of dose profiles in homogeneous phantoms for irregular, partially attenuated, photon beams",0.540208
+The influence of beam parameters on percentage depth dose in electron arc therapy,The effect of lead attenuators on dose in homogeneous phantoms,0.578594
+The influence of beam parameters on percentage depth dose in electron arc therapy,Calculation of dose in homogeneous phantoms for partially attenuated photon beams,0.609589
+The influence of beam parameters on percentage depth dose in electron arc therapy,Electron arc dose distributions as a function of beam energy,0.833179
+The influence of beam parameters on percentage depth dose in electron arc therapy,"Calculation of dose profiles in homogeneous phantoms for irregular, partially attenuated, photon beams",0.648768
+The effect of lead attenuators on dose in homogeneous phantoms,Calculation of dose in homogeneous phantoms for partially attenuated photon beams,0.838259
+The effect of lead attenuators on dose in homogeneous phantoms,Electron arc dose distributions as a function of beam energy,0.595922
+The effect of lead attenuators on dose in homogeneous phantoms,"Calculation of dose profiles in homogeneous phantoms for irregular, partially attenuated, photon beams",0.840801
+Calculation of dose in homogeneous phantoms for partially attenuated photon beams,Electron arc dose distributions as a function of beam energy,0.566767
+Calculation of dose in homogeneous phantoms for partially attenuated photon beams,"Calculation of dose profiles in homogeneous phantoms for irregular, partially attenuated, photon beams",0.88158
+Electron arc dose distributions as a function of beam energy,"Calculation of dose profiles in homogeneous phantoms for irregular, partially attenuated, photon beams",0.598494

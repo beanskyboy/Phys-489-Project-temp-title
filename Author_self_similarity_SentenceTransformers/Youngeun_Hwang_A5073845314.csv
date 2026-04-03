@@ -1,0 +1,56 @@
+title_i,title_j,cosine_similarity
+Multimodal precision MRI of the individual human brain at ultra-high fields,Errors according to the number of registered markers used in navigation-assisted surgery of the mandible,0.208134
+Multimodal precision MRI of the individual human brain at ultra-high fields,Finding Cortical Subregions Regarding the Dorsal Language Pathway Based on the Structural Connectivity,0.493456
+Multimodal precision MRI of the individual human brain at ultra-high fields,Track-Density Ratio Mapping With Fiber Types in the Cerebral Cortex Using Diffusion-Weighted MRI,0.630816
+Multimodal precision MRI of the individual human brain at ultra-high fields,Cingulum bundle connectivity considering the double-layered cingulate cortex using diffusion-weighted MRI,0.590744
+Multimodal precision MRI of the individual human brain at ultra-high fields,Finding Cortical Subregions Regarding the Dorsal Language Pathway Based\n on the Structural Connectivity,0.397493
+Multimodal precision MRI of the individual human brain at ultra-high fields,A Unified Imaging-Histology Framework for Superficial White Matter Architecture Studies in the Human Brain,0.759008
+Multimodal precision MRI of the individual human brain at ultra-high fields,A multimodal processing workflow for ultrahigh-field MRI data,0.817817
+Multimodal precision MRI of the individual human brain at ultra-high fields,Precision neuroimaging and connectomics: individual human brain at ultra-high fields,0.877532
+Multimodal precision MRI of the individual human brain at ultra-high fields,Intracortical microstructure profiling: a versatile method for indexing cortical lamination,0.672526
+Multimodal precision MRI of the individual human brain at ultra-high fields,State dependent shifts in large scale functional topographies,0.705283
+Errors according to the number of registered markers used in navigation-assisted surgery of the mandible,Finding Cortical Subregions Regarding the Dorsal Language Pathway Based on the Structural Connectivity,0.177016
+Errors according to the number of registered markers used in navigation-assisted surgery of the mandible,Track-Density Ratio Mapping With Fiber Types in the Cerebral Cortex Using Diffusion-Weighted MRI,0.362235
+Errors according to the number of registered markers used in navigation-assisted surgery of the mandible,Cingulum bundle connectivity considering the double-layered cingulate cortex using diffusion-weighted MRI,0.292977
+Errors according to the number of registered markers used in navigation-assisted surgery of the mandible,Finding Cortical Subregions Regarding the Dorsal Language Pathway Based\n on the Structural Connectivity,0.245155
+Errors according to the number of registered markers used in navigation-assisted surgery of the mandible,A Unified Imaging-Histology Framework for Superficial White Matter Architecture Studies in the Human Brain,0.258444
+Errors according to the number of registered markers used in navigation-assisted surgery of the mandible,A multimodal processing workflow for ultrahigh-field MRI data,0.302858
+Errors according to the number of registered markers used in navigation-assisted surgery of the mandible,Precision neuroimaging and connectomics: individual human brain at ultra-high fields,0.201097
+Errors according to the number of registered markers used in navigation-assisted surgery of the mandible,Intracortical microstructure profiling: a versatile method for indexing cortical lamination,0.30095
+Errors according to the number of registered markers used in navigation-assisted surgery of the mandible,State dependent shifts in large scale functional topographies,0.133158
+Finding Cortical Subregions Regarding the Dorsal Language Pathway Based on the Structural Connectivity,Track-Density Ratio Mapping With Fiber Types in the Cerebral Cortex Using Diffusion-Weighted MRI,0.700918
+Finding Cortical Subregions Regarding the Dorsal Language Pathway Based on the Structural Connectivity,Cingulum bundle connectivity considering the double-layered cingulate cortex using diffusion-weighted MRI,0.651076
+Finding Cortical Subregions Regarding the Dorsal Language Pathway Based on the Structural Connectivity,Finding Cortical Subregions Regarding the Dorsal Language Pathway Based\n on the Structural Connectivity,0.919653
+Finding Cortical Subregions Regarding the Dorsal Language Pathway Based on the Structural Connectivity,A Unified Imaging-Histology Framework for Superficial White Matter Architecture Studies in the Human Brain,0.485256
+Finding Cortical Subregions Regarding the Dorsal Language Pathway Based on the Structural Connectivity,A multimodal processing workflow for ultrahigh-field MRI data,0.445753
+Finding Cortical Subregions Regarding the Dorsal Language Pathway Based on the Structural Connectivity,Precision neuroimaging and connectomics: individual human brain at ultra-high fields,0.470997
+Finding Cortical Subregions Regarding the Dorsal Language Pathway Based on the Structural Connectivity,Intracortical microstructure profiling: a versatile method for indexing cortical lamination,0.454632
+Finding Cortical Subregions Regarding the Dorsal Language Pathway Based on the Structural Connectivity,State dependent shifts in large scale functional topographies,0.557214
+Track-Density Ratio Mapping With Fiber Types in the Cerebral Cortex Using Diffusion-Weighted MRI,Cingulum bundle connectivity considering the double-layered cingulate cortex using diffusion-weighted MRI,0.741261
+Track-Density Ratio Mapping With Fiber Types in the Cerebral Cortex Using Diffusion-Weighted MRI,Finding Cortical Subregions Regarding the Dorsal Language Pathway Based\n on the Structural Connectivity,0.62757
+Track-Density Ratio Mapping With Fiber Types in the Cerebral Cortex Using Diffusion-Weighted MRI,A Unified Imaging-Histology Framework for Superficial White Matter Architecture Studies in the Human Brain,0.617329
+Track-Density Ratio Mapping With Fiber Types in the Cerebral Cortex Using Diffusion-Weighted MRI,A multimodal processing workflow for ultrahigh-field MRI data,0.585276
+Track-Density Ratio Mapping With Fiber Types in the Cerebral Cortex Using Diffusion-Weighted MRI,Precision neuroimaging and connectomics: individual human brain at ultra-high fields,0.543807
+Track-Density Ratio Mapping With Fiber Types in the Cerebral Cortex Using Diffusion-Weighted MRI,Intracortical microstructure profiling: a versatile method for indexing cortical lamination,0.551969
+Track-Density Ratio Mapping With Fiber Types in the Cerebral Cortex Using Diffusion-Weighted MRI,State dependent shifts in large scale functional topographies,0.558796
+Cingulum bundle connectivity considering the double-layered cingulate cortex using diffusion-weighted MRI,Finding Cortical Subregions Regarding the Dorsal Language Pathway Based\n on the Structural Connectivity,0.612103
+Cingulum bundle connectivity considering the double-layered cingulate cortex using diffusion-weighted MRI,A Unified Imaging-Histology Framework for Superficial White Matter Architecture Studies in the Human Brain,0.616713
+Cingulum bundle connectivity considering the double-layered cingulate cortex using diffusion-weighted MRI,A multimodal processing workflow for ultrahigh-field MRI data,0.544852
+Cingulum bundle connectivity considering the double-layered cingulate cortex using diffusion-weighted MRI,Precision neuroimaging and connectomics: individual human brain at ultra-high fields,0.54361
+Cingulum bundle connectivity considering the double-layered cingulate cortex using diffusion-weighted MRI,Intracortical microstructure profiling: a versatile method for indexing cortical lamination,0.55627
+Cingulum bundle connectivity considering the double-layered cingulate cortex using diffusion-weighted MRI,State dependent shifts in large scale functional topographies,0.553761
+Finding Cortical Subregions Regarding the Dorsal Language Pathway Based\n on the Structural Connectivity,A Unified Imaging-Histology Framework for Superficial White Matter Architecture Studies in the Human Brain,0.43481
+Finding Cortical Subregions Regarding the Dorsal Language Pathway Based\n on the Structural Connectivity,A multimodal processing workflow for ultrahigh-field MRI data,0.354746
+Finding Cortical Subregions Regarding the Dorsal Language Pathway Based\n on the Structural Connectivity,Precision neuroimaging and connectomics: individual human brain at ultra-high fields,0.395106
+Finding Cortical Subregions Regarding the Dorsal Language Pathway Based\n on the Structural Connectivity,Intracortical microstructure profiling: a versatile method for indexing cortical lamination,0.407307
+Finding Cortical Subregions Regarding the Dorsal Language Pathway Based\n on the Structural Connectivity,State dependent shifts in large scale functional topographies,0.479586
+A Unified Imaging-Histology Framework for Superficial White Matter Architecture Studies in the Human Brain,A multimodal processing workflow for ultrahigh-field MRI data,0.668307
+A Unified Imaging-Histology Framework for Superficial White Matter Architecture Studies in the Human Brain,Precision neuroimaging and connectomics: individual human brain at ultra-high fields,0.656381
+A Unified Imaging-Histology Framework for Superficial White Matter Architecture Studies in the Human Brain,Intracortical microstructure profiling: a versatile method for indexing cortical lamination,0.776072
+A Unified Imaging-Histology Framework for Superficial White Matter Architecture Studies in the Human Brain,State dependent shifts in large scale functional topographies,0.627216
+A multimodal processing workflow for ultrahigh-field MRI data,Precision neuroimaging and connectomics: individual human brain at ultra-high fields,0.777786
+A multimodal processing workflow for ultrahigh-field MRI data,Intracortical microstructure profiling: a versatile method for indexing cortical lamination,0.659056
+A multimodal processing workflow for ultrahigh-field MRI data,State dependent shifts in large scale functional topographies,0.579462
+Precision neuroimaging and connectomics: individual human brain at ultra-high fields,Intracortical microstructure profiling: a versatile method for indexing cortical lamination,0.633037
+Precision neuroimaging and connectomics: individual human brain at ultra-high fields,State dependent shifts in large scale functional topographies,0.729022
+Intracortical microstructure profiling: a versatile method for indexing cortical lamination,State dependent shifts in large scale functional topographies,0.571691

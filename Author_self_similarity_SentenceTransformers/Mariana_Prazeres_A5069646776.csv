@@ -1,0 +1,11 @@
+title_i,title_j,cosine_similarity
+"Explicit solutions of one-dimensional, first-order, stationary mean-field games with congestion",Stochastic Gradient Descent with Polyak's Learning Rate,0.116693
+"Explicit solutions of one-dimensional, first-order, stationary mean-field games with congestion",Explicit Solutions for One-Dimensional Mean-Field Games,0.899304
+"Explicit solutions of one-dimensional, first-order, stationary mean-field games with congestion",One-dimensional stationary mean-field games with local coupling,0.751101
+"Explicit solutions of one-dimensional, first-order, stationary mean-field games with congestion","First order mean field games - explicit solutions, perturbations and connection with classical mechanics",0.756428
+Stochastic Gradient Descent with Polyak's Learning Rate,Explicit Solutions for One-Dimensional Mean-Field Games,0.14519
+Stochastic Gradient Descent with Polyak's Learning Rate,One-dimensional stationary mean-field games with local coupling,0.076013
+Stochastic Gradient Descent with Polyak's Learning Rate,"First order mean field games - explicit solutions, perturbations and connection with classical mechanics",0.169763
+Explicit Solutions for One-Dimensional Mean-Field Games,One-dimensional stationary mean-field games with local coupling,0.765834
+Explicit Solutions for One-Dimensional Mean-Field Games,"First order mean field games - explicit solutions, perturbations and connection with classical mechanics",0.791935
+One-dimensional stationary mean-field games with local coupling,"First order mean field games - explicit solutions, perturbations and connection with classical mechanics",0.82284

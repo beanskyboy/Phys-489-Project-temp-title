@@ -1,0 +1,106 @@
+title_i,title_j,cosine_similarity
+Density Embedded VB/MM:  A Hybrid ab Initio VB/MM with Electrostatic Embedding,The Impact of Native State Switching on Protein Sequence Evolution,0.232239
+Density Embedded VB/MM:  A Hybrid ab Initio VB/MM with Electrostatic Embedding,Nature of Long-Range Evolutionary Constraint in Enzymes: Insights from Comparison to Pseudoenzymes with Similar Structures,0.327761
+Density Embedded VB/MM:  A Hybrid ab Initio VB/MM with Electrostatic Embedding,Quantifying evolutionary importance of protein sites: A Tale of two measures,0.380787
+Density Embedded VB/MM:  A Hybrid ab Initio VB/MM with Electrostatic Embedding,A VB/MM View of the Identity S<sub>N</sub>2 Valence-Bond State Correlation Diagram in Aqueous Solution,0.745982
+Density Embedded VB/MM:  A Hybrid ab Initio VB/MM with Electrostatic Embedding,VB/MM Protein Landscapes: A Study of the S<sub>N</sub>2 Reaction in Haloalkane Dehalogenase,0.79705
+Density Embedded VB/MM:  A Hybrid ab Initio VB/MM with Electrostatic Embedding,Challenges within the Linear Response Approximation When Studying Enzyme Catalysis and Effects of Mutations,0.567263
+Density Embedded VB/MM:  A Hybrid ab Initio VB/MM with Electrostatic Embedding,Effect of Protein-Polarized Ligand Charges on Relative Protein Ligand Binding Affinities,0.682087
+Density Embedded VB/MM:  A Hybrid ab Initio VB/MM with Electrostatic Embedding,VB/MM—The Validity of the Underlying Approximations,0.85931
+Density Embedded VB/MM:  A Hybrid ab Initio VB/MM with Electrostatic Embedding,Valence Bond‐Based Hybrid Quantum Mechanics Molecular Mechanics Approaches and Proper Inclusion of the Effect of the Surroundings,0.806302
+Density Embedded VB/MM:  A Hybrid ab Initio VB/MM with Electrostatic Embedding,Valence Bond and Enzyme Catalysis: A Time To Break Down and a Time To Build Up,0.547025
+Density Embedded VB/MM:  A Hybrid ab Initio VB/MM with Electrostatic Embedding,Using Pseudoenzymes to Probe Evolutionary Design Principles of Enzymes,0.341661
+Density Embedded VB/MM:  A Hybrid ab Initio VB/MM with Electrostatic Embedding,Implementing Protein-Polarized Ligand Charges into Relative Protein Ligand Binding Affinities Calculations,0.684462
+Density Embedded VB/MM:  A Hybrid ab Initio VB/MM with Electrostatic Embedding,Non-catalytic binding sites induce weaker long-range evolutionary rate gradients than catalytic sites in enzymes,0.363192
+Density Embedded VB/MM:  A Hybrid ab Initio VB/MM with Electrostatic Embedding,The Impact of Disorder–Order Switching on Protein Sequence Evolution,0.236137
+The Impact of Native State Switching on Protein Sequence Evolution,Nature of Long-Range Evolutionary Constraint in Enzymes: Insights from Comparison to Pseudoenzymes with Similar Structures,0.619333
+The Impact of Native State Switching on Protein Sequence Evolution,Quantifying evolutionary importance of protein sites: A Tale of two measures,0.642866
+The Impact of Native State Switching on Protein Sequence Evolution,A VB/MM View of the Identity S<sub>N</sub>2 Valence-Bond State Correlation Diagram in Aqueous Solution,0.225799
+The Impact of Native State Switching on Protein Sequence Evolution,VB/MM Protein Landscapes: A Study of the S<sub>N</sub>2 Reaction in Haloalkane Dehalogenase,0.218434
+The Impact of Native State Switching on Protein Sequence Evolution,Challenges within the Linear Response Approximation When Studying Enzyme Catalysis and Effects of Mutations,0.287048
+The Impact of Native State Switching on Protein Sequence Evolution,Effect of Protein-Polarized Ligand Charges on Relative Protein Ligand Binding Affinities,0.341813
+The Impact of Native State Switching on Protein Sequence Evolution,VB/MM—The Validity of the Underlying Approximations,0.230719
+The Impact of Native State Switching on Protein Sequence Evolution,Valence Bond‐Based Hybrid Quantum Mechanics Molecular Mechanics Approaches and Proper Inclusion of the Effect of the Surroundings,0.269825
+The Impact of Native State Switching on Protein Sequence Evolution,Valence Bond and Enzyme Catalysis: A Time To Break Down and a Time To Build Up,0.390816
+The Impact of Native State Switching on Protein Sequence Evolution,Using Pseudoenzymes to Probe Evolutionary Design Principles of Enzymes,0.549707
+The Impact of Native State Switching on Protein Sequence Evolution,Implementing Protein-Polarized Ligand Charges into Relative Protein Ligand Binding Affinities Calculations,0.342325
+The Impact of Native State Switching on Protein Sequence Evolution,Non-catalytic binding sites induce weaker long-range evolutionary rate gradients than catalytic sites in enzymes,0.61162
+The Impact of Native State Switching on Protein Sequence Evolution,The Impact of Disorder–Order Switching on Protein Sequence Evolution,0.893993
+Nature of Long-Range Evolutionary Constraint in Enzymes: Insights from Comparison to Pseudoenzymes with Similar Structures,Quantifying evolutionary importance of protein sites: A Tale of two measures,0.739033
+Nature of Long-Range Evolutionary Constraint in Enzymes: Insights from Comparison to Pseudoenzymes with Similar Structures,A VB/MM View of the Identity S<sub>N</sub>2 Valence-Bond State Correlation Diagram in Aqueous Solution,0.289258
+Nature of Long-Range Evolutionary Constraint in Enzymes: Insights from Comparison to Pseudoenzymes with Similar Structures,VB/MM Protein Landscapes: A Study of the S<sub>N</sub>2 Reaction in Haloalkane Dehalogenase,0.420226
+Nature of Long-Range Evolutionary Constraint in Enzymes: Insights from Comparison to Pseudoenzymes with Similar Structures,Challenges within the Linear Response Approximation When Studying Enzyme Catalysis and Effects of Mutations,0.596802
+Nature of Long-Range Evolutionary Constraint in Enzymes: Insights from Comparison to Pseudoenzymes with Similar Structures,Effect of Protein-Polarized Ligand Charges on Relative Protein Ligand Binding Affinities,0.387037
+Nature of Long-Range Evolutionary Constraint in Enzymes: Insights from Comparison to Pseudoenzymes with Similar Structures,VB/MM—The Validity of the Underlying Approximations,0.342182
+Nature of Long-Range Evolutionary Constraint in Enzymes: Insights from Comparison to Pseudoenzymes with Similar Structures,Valence Bond‐Based Hybrid Quantum Mechanics Molecular Mechanics Approaches and Proper Inclusion of the Effect of the Surroundings,0.452435
+Nature of Long-Range Evolutionary Constraint in Enzymes: Insights from Comparison to Pseudoenzymes with Similar Structures,Valence Bond and Enzyme Catalysis: A Time To Break Down and a Time To Build Up,0.670014
+Nature of Long-Range Evolutionary Constraint in Enzymes: Insights from Comparison to Pseudoenzymes with Similar Structures,Using Pseudoenzymes to Probe Evolutionary Design Principles of Enzymes,0.911772
+Nature of Long-Range Evolutionary Constraint in Enzymes: Insights from Comparison to Pseudoenzymes with Similar Structures,Implementing Protein-Polarized Ligand Charges into Relative Protein Ligand Binding Affinities Calculations,0.386265
+Nature of Long-Range Evolutionary Constraint in Enzymes: Insights from Comparison to Pseudoenzymes with Similar Structures,Non-catalytic binding sites induce weaker long-range evolutionary rate gradients than catalytic sites in enzymes,0.874336
+Nature of Long-Range Evolutionary Constraint in Enzymes: Insights from Comparison to Pseudoenzymes with Similar Structures,The Impact of Disorder–Order Switching on Protein Sequence Evolution,0.599735
+Quantifying evolutionary importance of protein sites: A Tale of two measures,A VB/MM View of the Identity S<sub>N</sub>2 Valence-Bond State Correlation Diagram in Aqueous Solution,0.333559
+Quantifying evolutionary importance of protein sites: A Tale of two measures,VB/MM Protein Landscapes: A Study of the S<sub>N</sub>2 Reaction in Haloalkane Dehalogenase,0.457571
+Quantifying evolutionary importance of protein sites: A Tale of two measures,Challenges within the Linear Response Approximation When Studying Enzyme Catalysis and Effects of Mutations,0.565522
+Quantifying evolutionary importance of protein sites: A Tale of two measures,Effect of Protein-Polarized Ligand Charges on Relative Protein Ligand Binding Affinities,0.473899
+Quantifying evolutionary importance of protein sites: A Tale of two measures,VB/MM—The Validity of the Underlying Approximations,0.419112
+Quantifying evolutionary importance of protein sites: A Tale of two measures,Valence Bond‐Based Hybrid Quantum Mechanics Molecular Mechanics Approaches and Proper Inclusion of the Effect of the Surroundings,0.457694
+Quantifying evolutionary importance of protein sites: A Tale of two measures,Valence Bond and Enzyme Catalysis: A Time To Break Down and a Time To Build Up,0.614409
+Quantifying evolutionary importance of protein sites: A Tale of two measures,Using Pseudoenzymes to Probe Evolutionary Design Principles of Enzymes,0.726694
+Quantifying evolutionary importance of protein sites: A Tale of two measures,Implementing Protein-Polarized Ligand Charges into Relative Protein Ligand Binding Affinities Calculations,0.472961
+Quantifying evolutionary importance of protein sites: A Tale of two measures,Non-catalytic binding sites induce weaker long-range evolutionary rate gradients than catalytic sites in enzymes,0.811489
+Quantifying evolutionary importance of protein sites: A Tale of two measures,The Impact of Disorder–Order Switching on Protein Sequence Evolution,0.693231
+A VB/MM View of the Identity S<sub>N</sub>2 Valence-Bond State Correlation Diagram in Aqueous Solution,VB/MM Protein Landscapes: A Study of the S<sub>N</sub>2 Reaction in Haloalkane Dehalogenase,0.679335
+A VB/MM View of the Identity S<sub>N</sub>2 Valence-Bond State Correlation Diagram in Aqueous Solution,Challenges within the Linear Response Approximation When Studying Enzyme Catalysis and Effects of Mutations,0.440409
+A VB/MM View of the Identity S<sub>N</sub>2 Valence-Bond State Correlation Diagram in Aqueous Solution,Effect of Protein-Polarized Ligand Charges on Relative Protein Ligand Binding Affinities,0.5259
+A VB/MM View of the Identity S<sub>N</sub>2 Valence-Bond State Correlation Diagram in Aqueous Solution,VB/MM—The Validity of the Underlying Approximations,0.67046
+A VB/MM View of the Identity S<sub>N</sub>2 Valence-Bond State Correlation Diagram in Aqueous Solution,Valence Bond‐Based Hybrid Quantum Mechanics Molecular Mechanics Approaches and Proper Inclusion of the Effect of the Surroundings,0.748112
+A VB/MM View of the Identity S<sub>N</sub>2 Valence-Bond State Correlation Diagram in Aqueous Solution,Valence Bond and Enzyme Catalysis: A Time To Break Down and a Time To Build Up,0.458755
+A VB/MM View of the Identity S<sub>N</sub>2 Valence-Bond State Correlation Diagram in Aqueous Solution,Using Pseudoenzymes to Probe Evolutionary Design Principles of Enzymes,0.317974
+A VB/MM View of the Identity S<sub>N</sub>2 Valence-Bond State Correlation Diagram in Aqueous Solution,Implementing Protein-Polarized Ligand Charges into Relative Protein Ligand Binding Affinities Calculations,0.525782
+A VB/MM View of the Identity S<sub>N</sub>2 Valence-Bond State Correlation Diagram in Aqueous Solution,Non-catalytic binding sites induce weaker long-range evolutionary rate gradients than catalytic sites in enzymes,0.340439
+A VB/MM View of the Identity S<sub>N</sub>2 Valence-Bond State Correlation Diagram in Aqueous Solution,The Impact of Disorder–Order Switching on Protein Sequence Evolution,0.208158
+VB/MM Protein Landscapes: A Study of the S<sub>N</sub>2 Reaction in Haloalkane Dehalogenase,Challenges within the Linear Response Approximation When Studying Enzyme Catalysis and Effects of Mutations,0.600887
+VB/MM Protein Landscapes: A Study of the S<sub>N</sub>2 Reaction in Haloalkane Dehalogenase,Effect of Protein-Polarized Ligand Charges on Relative Protein Ligand Binding Affinities,0.560043
+VB/MM Protein Landscapes: A Study of the S<sub>N</sub>2 Reaction in Haloalkane Dehalogenase,VB/MM—The Validity of the Underlying Approximations,0.741146
+VB/MM Protein Landscapes: A Study of the S<sub>N</sub>2 Reaction in Haloalkane Dehalogenase,Valence Bond‐Based Hybrid Quantum Mechanics Molecular Mechanics Approaches and Proper Inclusion of the Effect of the Surroundings,0.751455
+VB/MM Protein Landscapes: A Study of the S<sub>N</sub>2 Reaction in Haloalkane Dehalogenase,Valence Bond and Enzyme Catalysis: A Time To Break Down and a Time To Build Up,0.706205
+VB/MM Protein Landscapes: A Study of the S<sub>N</sub>2 Reaction in Haloalkane Dehalogenase,Using Pseudoenzymes to Probe Evolutionary Design Principles of Enzymes,0.429789
+VB/MM Protein Landscapes: A Study of the S<sub>N</sub>2 Reaction in Haloalkane Dehalogenase,Implementing Protein-Polarized Ligand Charges into Relative Protein Ligand Binding Affinities Calculations,0.561755
+VB/MM Protein Landscapes: A Study of the S<sub>N</sub>2 Reaction in Haloalkane Dehalogenase,Non-catalytic binding sites induce weaker long-range evolutionary rate gradients than catalytic sites in enzymes,0.455947
+VB/MM Protein Landscapes: A Study of the S<sub>N</sub>2 Reaction in Haloalkane Dehalogenase,The Impact of Disorder–Order Switching on Protein Sequence Evolution,0.198262
+Challenges within the Linear Response Approximation When Studying Enzyme Catalysis and Effects of Mutations,Effect of Protein-Polarized Ligand Charges on Relative Protein Ligand Binding Affinities,0.584194
+Challenges within the Linear Response Approximation When Studying Enzyme Catalysis and Effects of Mutations,VB/MM—The Validity of the Underlying Approximations,0.603372
+Challenges within the Linear Response Approximation When Studying Enzyme Catalysis and Effects of Mutations,Valence Bond‐Based Hybrid Quantum Mechanics Molecular Mechanics Approaches and Proper Inclusion of the Effect of the Surroundings,0.63907
+Challenges within the Linear Response Approximation When Studying Enzyme Catalysis and Effects of Mutations,Valence Bond and Enzyme Catalysis: A Time To Break Down and a Time To Build Up,0.650736
+Challenges within the Linear Response Approximation When Studying Enzyme Catalysis and Effects of Mutations,Using Pseudoenzymes to Probe Evolutionary Design Principles of Enzymes,0.576075
+Challenges within the Linear Response Approximation When Studying Enzyme Catalysis and Effects of Mutations,Implementing Protein-Polarized Ligand Charges into Relative Protein Ligand Binding Affinities Calculations,0.585245
+Challenges within the Linear Response Approximation When Studying Enzyme Catalysis and Effects of Mutations,Non-catalytic binding sites induce weaker long-range evolutionary rate gradients than catalytic sites in enzymes,0.601242
+Challenges within the Linear Response Approximation When Studying Enzyme Catalysis and Effects of Mutations,The Impact of Disorder–Order Switching on Protein Sequence Evolution,0.278123
+Effect of Protein-Polarized Ligand Charges on Relative Protein Ligand Binding Affinities,VB/MM—The Validity of the Underlying Approximations,0.681263
+Effect of Protein-Polarized Ligand Charges on Relative Protein Ligand Binding Affinities,Valence Bond‐Based Hybrid Quantum Mechanics Molecular Mechanics Approaches and Proper Inclusion of the Effect of the Surroundings,0.569545
+Effect of Protein-Polarized Ligand Charges on Relative Protein Ligand Binding Affinities,Valence Bond and Enzyme Catalysis: A Time To Break Down and a Time To Build Up,0.552598
+Effect of Protein-Polarized Ligand Charges on Relative Protein Ligand Binding Affinities,Using Pseudoenzymes to Probe Evolutionary Design Principles of Enzymes,0.361275
+Effect of Protein-Polarized Ligand Charges on Relative Protein Ligand Binding Affinities,Implementing Protein-Polarized Ligand Charges into Relative Protein Ligand Binding Affinities Calculations,0.999205
+Effect of Protein-Polarized Ligand Charges on Relative Protein Ligand Binding Affinities,Non-catalytic binding sites induce weaker long-range evolutionary rate gradients than catalytic sites in enzymes,0.434209
+Effect of Protein-Polarized Ligand Charges on Relative Protein Ligand Binding Affinities,The Impact of Disorder–Order Switching on Protein Sequence Evolution,0.323727
+VB/MM—The Validity of the Underlying Approximations,Valence Bond‐Based Hybrid Quantum Mechanics Molecular Mechanics Approaches and Proper Inclusion of the Effect of the Surroundings,0.761332
+VB/MM—The Validity of the Underlying Approximations,Valence Bond and Enzyme Catalysis: A Time To Break Down and a Time To Build Up,0.54923
+VB/MM—The Validity of the Underlying Approximations,Using Pseudoenzymes to Probe Evolutionary Design Principles of Enzymes,0.344913
+VB/MM—The Validity of the Underlying Approximations,Implementing Protein-Polarized Ligand Charges into Relative Protein Ligand Binding Affinities Calculations,0.682691
+VB/MM—The Validity of the Underlying Approximations,Non-catalytic binding sites induce weaker long-range evolutionary rate gradients than catalytic sites in enzymes,0.387086
+VB/MM—The Validity of the Underlying Approximations,The Impact of Disorder–Order Switching on Protein Sequence Evolution,0.226051
+Valence Bond‐Based Hybrid Quantum Mechanics Molecular Mechanics Approaches and Proper Inclusion of the Effect of the Surroundings,Valence Bond and Enzyme Catalysis: A Time To Break Down and a Time To Build Up,0.602315
+Valence Bond‐Based Hybrid Quantum Mechanics Molecular Mechanics Approaches and Proper Inclusion of the Effect of the Surroundings,Using Pseudoenzymes to Probe Evolutionary Design Principles of Enzymes,0.459785
+Valence Bond‐Based Hybrid Quantum Mechanics Molecular Mechanics Approaches and Proper Inclusion of the Effect of the Surroundings,Implementing Protein-Polarized Ligand Charges into Relative Protein Ligand Binding Affinities Calculations,0.573177
+Valence Bond‐Based Hybrid Quantum Mechanics Molecular Mechanics Approaches and Proper Inclusion of the Effect of the Surroundings,Non-catalytic binding sites induce weaker long-range evolutionary rate gradients than catalytic sites in enzymes,0.477261
+Valence Bond‐Based Hybrid Quantum Mechanics Molecular Mechanics Approaches and Proper Inclusion of the Effect of the Surroundings,The Impact of Disorder–Order Switching on Protein Sequence Evolution,0.278252
+Valence Bond and Enzyme Catalysis: A Time To Break Down and a Time To Build Up,Using Pseudoenzymes to Probe Evolutionary Design Principles of Enzymes,0.687808
+Valence Bond and Enzyme Catalysis: A Time To Break Down and a Time To Build Up,Implementing Protein-Polarized Ligand Charges into Relative Protein Ligand Binding Affinities Calculations,0.553721
+Valence Bond and Enzyme Catalysis: A Time To Break Down and a Time To Build Up,Non-catalytic binding sites induce weaker long-range evolutionary rate gradients than catalytic sites in enzymes,0.671813
+Valence Bond and Enzyme Catalysis: A Time To Break Down and a Time To Build Up,The Impact of Disorder–Order Switching on Protein Sequence Evolution,0.366976
+Using Pseudoenzymes to Probe Evolutionary Design Principles of Enzymes,Implementing Protein-Polarized Ligand Charges into Relative Protein Ligand Binding Affinities Calculations,0.361804
+Using Pseudoenzymes to Probe Evolutionary Design Principles of Enzymes,Non-catalytic binding sites induce weaker long-range evolutionary rate gradients than catalytic sites in enzymes,0.856654
+Using Pseudoenzymes to Probe Evolutionary Design Principles of Enzymes,The Impact of Disorder–Order Switching on Protein Sequence Evolution,0.542746
+Implementing Protein-Polarized Ligand Charges into Relative Protein Ligand Binding Affinities Calculations,Non-catalytic binding sites induce weaker long-range evolutionary rate gradients than catalytic sites in enzymes,0.433393
+Implementing Protein-Polarized Ligand Charges into Relative Protein Ligand Binding Affinities Calculations,The Impact of Disorder–Order Switching on Protein Sequence Evolution,0.324408
+Non-catalytic binding sites induce weaker long-range evolutionary rate gradients than catalytic sites in enzymes,The Impact of Disorder–Order Switching on Protein Sequence Evolution,0.595603

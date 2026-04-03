@@ -1,0 +1,4 @@
+title_i,title_j,cosine_similarity
+Penalty weight tuning in high dose rate brachytherapy using multi-objective Bayesian optimization,Automatic catheter digitization in breast brachytherapy,0.440892
+Penalty weight tuning in high dose rate brachytherapy using multi-objective Bayesian optimization,A data-driven approach to model spatial dose characteristics for catheter placement of high dose-rate brachytherapy for prostate cancer,0.503729
+Automatic catheter digitization in breast brachytherapy,A data-driven approach to model spatial dose characteristics for catheter placement of high dose-rate brachytherapy for prostate cancer,0.464258

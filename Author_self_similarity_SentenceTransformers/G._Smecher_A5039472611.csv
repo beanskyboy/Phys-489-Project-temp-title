@@ -1,667 +1,667 @@
-abstract_i,abstract_j,cosine_similarity
-0,1,0.526656
-0,2,0.648455
-0,3,0.586964
-0,4,0.475897
-0,5,0.549217
-0,6,0.659627
-0,7,0.521217
-0,8,0.514519
-0,9,0.667397
-0,10,0.672737
-0,11,0.656558
-0,12,0.657546
-0,13,0.601982
-0,14,0.512778
-0,15,0.111438
-0,16,0.291873
-0,17,0.005349
-0,18,0.642203
-0,19,0.547395
-0,20,0.476738
-0,21,0.628166
-0,22,0.524567
-0,23,0.60856
-0,24,0.082381
-0,25,0.689481
-0,26,0.623027
-0,27,0.003036
-0,28,0.013615
-0,29,0.474046
-0,30,0.256573
-0,31,0.610949
-0,32,0.51986
-0,33,0.578134
-0,34,0.417905
-0,35,0.122819
-0,36,0.03373
-1,2,0.731407
-1,3,0.67392
-1,4,0.421301
-1,5,0.435889
-1,6,0.66532
-1,7,0.305785
-1,8,0.571528
-1,9,0.693178
-1,10,0.65678
-1,11,0.753621
-1,12,0.651021
-1,13,0.51207
-1,14,0.511604
-1,15,0.037058
-1,16,0.277543
-1,17,-0.008198
-1,18,0.741433
-1,19,0.630614
-1,20,0.554948
-1,21,0.658996
-1,22,0.368082
-1,23,0.674746
-1,24,0.193976
-1,25,0.556354
-1,26,0.657795
-1,27,0.016033
-1,28,0.09626
-1,29,0.333947
-1,30,0.102852
-1,31,0.67355
-1,32,0.641571
-1,33,0.598664
-1,34,0.373781
-1,35,0.058844
-1,36,0.002573
-2,3,0.638632
-2,4,0.450256
-2,5,0.4992
-2,6,0.659283
-2,7,0.349212
-2,8,0.608899
-2,9,0.77588
-2,10,0.742778
-2,11,0.86123
-2,12,0.742316
-2,13,0.587866
-2,14,0.553581
-2,15,0.072193
-2,16,0.25505
-2,17,-0.008281
-2,18,0.817567
-2,19,0.634779
-2,20,0.568715
-2,21,0.720487
-2,22,0.445795
-2,23,0.660475
-2,24,0.176073
-2,25,0.637329
-2,26,0.645224
-2,27,-0.036394
-2,28,0.036051
-2,29,0.392477
-2,30,0.16275
-2,31,0.677368
-2,32,0.684023
-2,33,0.608979
-2,34,0.384729
-2,35,0.032958
-2,36,-0.003598
-3,4,0.320109
-3,5,0.403847
-3,6,0.803168
-3,7,0.321833
-3,8,0.593673
-3,9,0.705483
-3,10,0.647388
-3,11,0.744246
-3,12,0.687297
-3,13,0.522977
-3,14,0.515431
-3,15,0.022153
-3,16,0.274846
-3,17,0.055615
-3,18,0.710212
-3,19,0.74703
-3,20,0.400084
-3,21,0.800143
-3,22,0.418149
-3,23,0.777325
-3,24,0.114942
-3,25,0.660009
-3,26,0.768641
-3,27,-0.013733
-3,28,-0.008414
-3,29,0.418117
-3,30,0.164531
-3,31,0.574312
-3,32,0.602831
-3,33,0.491022
-3,34,0.34048
-3,35,0.043645
-3,36,0.041702
-4,5,0.624344
-4,6,0.264505
-4,7,0.491449
-4,8,0.209887
-4,9,0.453237
-4,10,0.51701
-4,11,0.360197
-4,12,0.489722
-4,13,0.446303
-4,14,0.471468
-4,15,0.104358
-4,16,0.514885
-4,17,0.242895
-4,18,0.469236
-4,19,0.334118
-4,20,0.406294
-4,21,0.349046
-4,22,0.532766
-4,23,0.376071
-4,24,0.214397
-4,25,0.276217
-4,26,0.393637
-4,27,-0.034814
-4,28,0.091393
-4,29,0.473097
-4,30,0.32009
-4,31,0.431232
-4,32,0.298103
-4,33,0.371975
-4,34,0.518019
-4,35,-0.015079
-4,36,0.002712
-5,6,0.365466
-5,7,0.540042
-5,8,0.305595
-5,9,0.487743
-5,10,0.478594
-5,11,0.44956
-5,12,0.473647
-5,13,0.496632
-5,14,0.564512
-5,15,0.204498
-5,16,0.548774
-5,17,0.462625
-5,18,0.55749
-5,19,0.413202
-5,20,0.446914
-5,21,0.439762
-5,22,0.655226
-5,23,0.425285
-5,24,0.104228
-5,25,0.336431
-5,26,0.425121
-5,27,0.092115
-5,28,0.021195
-5,29,0.621806
-5,30,0.566072
-5,31,0.556319
-5,32,0.345991
-5,33,0.438162
-5,34,0.8223
-5,35,0.019705
-5,36,0.146907
-6,7,0.320615
-6,8,0.681131
-6,9,0.728926
-6,10,0.624892
-6,11,0.721699
-6,12,0.684811
-6,13,0.51285
-6,14,0.487078
-6,15,0.060974
-6,16,0.198732
-6,17,-0.013028
-6,18,0.641768
-6,19,0.841898
-6,20,0.38288
-6,21,0.864748
-6,22,0.389161
-6,23,0.803298
-6,24,0.146725
-6,25,0.714808
-6,26,0.783538
-6,27,-0.024612
-6,28,0.013923
-6,29,0.37232
-6,30,0.146412
-6,31,0.543307
-6,32,0.650024
-6,33,0.473228
-6,34,0.273852
-6,35,0.031302
-6,36,-0.022659
-7,8,0.291575
-7,9,0.405537
-7,10,0.356316
-7,11,0.355967
-7,12,0.318829
-7,13,0.335886
-7,14,0.573165
-7,15,0.025003
-7,16,0.415683
-7,17,0.366383
-7,18,0.431861
-7,19,0.302648
-7,20,0.185431
-7,21,0.305691
-7,22,0.687558
-7,23,0.33624
-7,24,0.107486
-7,25,0.322675
-7,26,0.333625
-7,27,-0.04807
-7,28,0.022633
-7,29,0.754249
-7,30,0.549654
-7,31,0.347038
-7,32,0.265711
-7,33,0.242934
-7,34,0.502663
-7,35,0.051479
-7,36,0.023402
-8,9,0.536331
-8,10,0.544525
-8,11,0.619791
-8,12,0.53272
-8,13,0.405894
-8,14,0.456601
-8,15,0.018934
-8,16,0.151661
-8,17,0.011291
-8,18,0.612516
-8,19,0.619923
-8,20,0.343138
-8,21,0.639789
-8,22,0.385036
-8,23,0.534607
-8,24,0.036502
-8,25,0.476858
-8,26,0.523493
-8,27,-0.034209
-8,28,-0.070453
-8,29,0.342672
-8,30,0.179734
-8,31,0.427099
-8,32,0.746962
-8,33,0.407127
-8,34,0.237002
-8,35,0.053154
-8,36,-0.015385
-9,10,0.753424
-9,11,0.798353
-9,12,0.788885
-9,13,0.610237
-9,14,0.540362
-9,15,0.046119
-9,16,0.273354
-9,17,-0.003737
-9,18,0.753106
-9,19,0.70335
-9,20,0.500941
-9,21,0.770564
-9,22,0.444346
-9,23,0.810222
-9,24,0.251198
-9,25,0.782789
-9,26,0.831236
-9,27,-0.027792
-9,28,0.056617
-9,29,0.433467
-9,30,0.159335
-9,31,0.658282
-9,32,0.641077
-9,33,0.619217
-9,34,0.399375
-9,35,0.048691
-9,36,-0.00381
-10,11,0.752798
-10,12,0.910584
-10,13,0.527879
-10,14,0.457384
-10,15,0.048682
-10,16,0.26373
-10,17,-0.021367
-10,18,0.657493
-10,19,0.620298
-10,20,0.533127
-10,21,0.659935
-10,22,0.419512
-10,23,0.713205
-10,24,0.250418
-10,25,0.69203
-10,26,0.751636
-10,27,-0.022688
-10,28,0.052284
-10,29,0.404906
-10,30,0.105928
-10,31,0.620558
-10,32,0.591197
-10,33,0.594234
-10,34,0.343044
-10,35,0.078778
-10,36,-0.036553
-11,12,0.78197
-11,13,0.5794
-11,14,0.584869
-11,15,0.062847
-11,16,0.254814
-11,17,-0.000177
-11,18,0.824702
-11,19,0.695812
-11,20,0.497976
-11,21,0.721922
-11,22,0.438485
-11,23,0.73321
-11,24,0.152535
-11,25,0.753634
-11,26,0.714071
-11,27,-0.029412
-11,28,0.000156
-11,29,0.420258
-11,30,0.176431
-11,31,0.679826
-11,32,0.66552
-11,33,0.594956
-11,34,0.37672
-11,35,0.063586
-11,36,0.002053
-12,13,0.528872
-12,14,0.461036
-12,15,0.053229
-12,16,0.259292
-12,17,0.012333
-12,18,0.65123
-12,19,0.703492
-12,20,0.521696
-12,21,0.725797
-12,22,0.401621
-12,23,0.777013
-12,24,0.191923
-12,25,0.772297
-12,26,0.78395
-12,27,-0.033089
-12,28,0.069449
-12,29,0.401906
-12,30,0.13901
-12,31,0.6143
-12,32,0.59047
-12,33,0.591749
-12,34,0.375469
-12,35,0.032241
-12,36,-0.025969
-13,14,0.49464
-13,15,0.009126
-13,16,0.344327
-13,17,-0.002415
-13,18,0.635521
-13,19,0.504266
-13,20,0.665522
-13,21,0.55669
-13,22,0.483141
-13,23,0.546822
-13,24,0.144871
-13,25,0.453471
-13,26,0.596406
-13,27,-0.016348
-13,28,0.003213
-13,29,0.357255
-13,30,0.171566
-13,31,0.737351
-13,32,0.488777
-13,33,0.603941
-13,34,0.441716
-13,35,0.099657
-13,36,-0.011742
-14,15,0.069932
-14,16,0.534069
-14,17,0.282435
-14,18,0.612966
-14,19,0.525555
-14,20,0.378834
-14,21,0.549496
-14,22,0.819869
-14,23,0.493993
-14,24,0.078708
-14,25,0.411026
-14,26,0.488053
-14,27,-0.016452
-14,28,-0.019588
-14,29,0.596651
-14,30,0.425081
-14,31,0.52873
-14,32,0.45428
-14,33,0.42074
-14,34,0.528495
-14,35,0.020057
-14,36,0.044852
-15,16,0.196868
-15,17,-0.039776
-15,18,0.032331
-15,19,0.050692
-15,20,0.054969
-15,21,0.059358
-15,22,0.101357
-15,23,0.0476
-15,24,0.080859
-15,25,0.022787
-15,26,0.033118
-15,27,0.195877
-15,28,0.033754
-15,29,0.094228
-15,30,0.072697
-15,31,0.044706
-15,32,0.019236
-15,33,0.07107
-15,34,0.101009
-15,35,0.006564
-15,36,0.286216
-16,17,0.308761
-16,18,0.288898
-16,19,0.243995
-16,20,0.341636
-16,21,0.240832
-16,22,0.540161
-16,23,0.248531
-16,24,0.094435
-16,25,0.223443
-16,26,0.253788
-16,27,0.283782
-16,28,0.040698
-16,29,0.463777
-16,30,0.358917
-16,31,0.383436
-16,32,0.165572
-16,33,0.249553
-16,34,0.570448
-16,35,0.001116
-16,36,0.333916
-17,18,0.068808
-17,19,0.050907
-17,20,0.013743
-17,21,0.039083
-17,22,0.296333
-17,23,-0.002077
-17,24,-0.008691
-17,25,-0.011711
-17,26,-0.043118
-17,27,0.075634
-17,28,-0.006326
-17,29,0.347795
-17,30,0.717553
-17,31,0.073409
-17,32,-0.034062
-17,33,-0.004108
-17,34,0.545723
-17,35,-0.038763
-17,36,0.143595
-18,19,0.635362
-18,20,0.48661
-18,21,0.694105
-18,22,0.527908
-18,23,0.666206
-18,24,0.170729
-18,25,0.579673
-18,26,0.661347
-18,27,-0.069887
-18,28,0.014047
-18,29,0.482822
-18,30,0.230437
-18,31,0.697407
-18,32,0.651739
-18,33,0.565479
-18,34,0.462496
-18,35,0.021036
-18,36,-0.022177
-19,20,0.370702
-19,21,0.884701
-19,22,0.451835
-19,23,0.781615
-19,24,0.117803
-19,25,0.658862
-19,26,0.790356
-19,27,-0.054029
-19,28,-0.012674
-19,29,0.393335
-19,30,0.204681
-19,31,0.534091
-19,32,0.671607
-19,33,0.480837
-19,34,0.345352
-19,35,-0.010794
-19,36,-0.036707
-20,21,0.453745
-20,22,0.363904
-20,23,0.419774
-20,24,0.173187
-20,25,0.391773
-20,26,0.459182
-20,27,0.041578
-20,28,-0.011401
-20,29,0.268064
-20,30,0.082298
-20,31,0.701702
-20,32,0.440199
-20,33,0.698663
-20,34,0.382801
-20,35,0.134734
-20,36,0.033865
-21,22,0.462471
-21,23,0.783481
-21,24,0.128741
-21,25,0.695055
-21,26,0.802808
-21,27,-0.064009
-21,28,0.032767
-21,29,0.385603
-21,30,0.185145
-21,31,0.600449
-21,32,0.696856
-21,33,0.565405
-21,34,0.356899
-21,35,0.045048
-21,36,-0.030967
-22,23,0.413171
-22,24,0.035651
-22,25,0.32233
-22,26,0.422031
-22,27,-0.012216
-22,28,-0.011479
-22,29,0.723315
-22,30,0.498862
-22,31,0.466087
-22,32,0.389677
-22,33,0.371953
-22,34,0.520751
-22,35,0.007078
-22,36,0.028923
-23,24,0.281116
-23,25,0.71006
-23,26,0.952756
-23,27,-0.024211
-23,28,0.050837
-23,29,0.373709
-23,30,0.120355
-23,31,0.587613
-23,32,0.594539
-23,33,0.514174
-23,34,0.337545
-23,35,0.058064
-23,36,0.029214
-24,25,0.160249
-24,26,0.275762
-24,27,0.036024
-24,28,0.061614
-24,29,0.100473
-24,30,0.007586
-24,31,0.190605
-24,32,0.080233
-24,33,0.144889
-24,34,0.116925
-24,35,0.0188
-24,36,0.046147
-25,26,0.727261
-25,27,-0.030141
-25,28,0.031248
-25,29,0.358738
-25,30,0.109589
-25,31,0.581001
-25,32,0.504876
-25,33,0.549252
-25,34,0.281578
-25,35,0.069007
-25,36,-0.027174
-26,27,-0.007785
-26,28,0.051525
-26,29,0.38252
-26,30,0.076376
-26,31,0.592357
-26,32,0.606492
-26,33,0.559368
-26,34,0.323977
-26,35,0.044418
-26,36,0.01012
-27,28,0.037131
-27,29,0.038256
-27,30,0.037498
-27,31,-0.012663
-27,32,-0.057382
-27,33,0.056369
-27,34,0.114408
-27,35,-0.011823
-27,36,0.622189
-28,29,0.001936
-28,30,-0.012924
-28,31,-0.008395
-28,32,0.019339
-28,33,0.003587
-28,34,0.003809
-28,35,0.164561
-28,36,-0.008545
-29,30,0.490936
-29,31,0.398403
-29,32,0.305104
-29,33,0.291715
-29,34,0.524674
-29,35,0.013743
-29,36,0.100459
-30,31,0.21417
-30,32,0.123754
-30,33,0.076147
-30,34,0.556927
-30,35,-0.00724
-30,36,0.138811
-31,32,0.524797
-31,33,0.688804
-31,34,0.491054
-31,35,0.109004
-31,36,0.008649
-32,33,0.520867
-32,34,0.252294
-32,35,-0.007293
-32,36,-0.053089
-33,34,0.36249
-33,35,0.093847
-33,36,-0.010664
-34,35,0.036369
-34,36,0.25735
-35,36,-0.013207
+title_i,title_j,cosine_similarity
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,0.864748
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,0.770564
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,0.639789
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope","Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",0.694105
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,0.884701
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,0.695055
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",CMB Polarization B-mode Delensing with SPTpol and Herschel,0.800143
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",Searching for anisotropic cosmic birefringence with polarization data from SPTpol,0.696856
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,0.802808
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.659935
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,0.565405
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,0.720487
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,0.55669
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,0.658996
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",The EBEX Balloon-borne Experiment—Detectors and Readout,0.549496
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope","Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",0.600449
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,0.349046
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,0.462471
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,0.356899
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope","Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",0.032767
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",Self-hosted placement for massively parallel processor arrays,-0.064009
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",An automatic control interface for network-accessible embedded instruments,0.059358
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,0.783481
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",Rapid synthesis and simulation of computational circuits in an MPPA,-0.030967
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",Particle Physics with the Cosmic Microwave Background with SPT-3G,0.628166
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.725797
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",Crossing-point estimation for sampled random signals,0.128741
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.240832
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,0.045048
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,0.453745
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope","The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",0.385603
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,0.439762
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,0.185145
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.721922
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,0.039083
+"Detection of<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-Mode Polarization in the Cosmic Microwave Background with Data from the South Pole Telescope",Readout noise of digital frequency multiplexed TES detectors for CUPID,0.305691
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,0.728926
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,0.681131
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",0.641768
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,0.841898
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,0.714808
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,CMB Polarization B-mode Delensing with SPTpol and Herschel,0.803168
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,Searching for anisotropic cosmic birefringence with polarization data from SPTpol,0.650024
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,0.783538
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.624892
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,0.473228
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,0.659283
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,0.51285
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,0.66532
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,The EBEX Balloon-borne Experiment—Detectors and Readout,0.487078
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",0.543307
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,0.264505
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,0.389161
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,0.273852
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",0.013923
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,Self-hosted placement for massively parallel processor arrays,-0.024612
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,An automatic control interface for network-accessible embedded instruments,0.060974
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,0.803298
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,Rapid synthesis and simulation of computational circuits in an MPPA,-0.022659
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,Particle Physics with the Cosmic Microwave Background with SPT-3G,0.659627
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.684811
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,Crossing-point estimation for sampled random signals,0.146725
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.198732
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,0.031302
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,0.38288
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,"The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",0.37232
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,0.365466
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,0.146412
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.721699
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,-0.013028
+Measurement of the Cosmic Microwave Background Polarization Lensing Power Spectrum with the POLARBEAR Experiment,Readout noise of digital frequency multiplexed TES detectors for CUPID,0.320615
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,0.536331
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",0.753106
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,0.70335
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,0.782789
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,CMB Polarization B-mode Delensing with SPTpol and Herschel,0.705483
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,Searching for anisotropic cosmic birefringence with polarization data from SPTpol,0.641077
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,0.831236
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.753424
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,0.619217
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,0.77588
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,0.610237
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,0.693178
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,The EBEX Balloon-borne Experiment—Detectors and Readout,0.540362
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",0.658282
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,0.453237
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,0.444346
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,0.399375
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",0.056617
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,Self-hosted placement for massively parallel processor arrays,-0.027792
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,An automatic control interface for network-accessible embedded instruments,0.046119
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,0.810222
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,Rapid synthesis and simulation of computational circuits in an MPPA,-0.00381
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,Particle Physics with the Cosmic Microwave Background with SPT-3G,0.667397
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.788885
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,Crossing-point estimation for sampled random signals,0.251198
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.273354
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,0.048691
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,0.500941
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,"The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",0.433467
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,0.487743
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,0.159335
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.798353
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,-0.003737
+A Measurement of the Cosmic Microwave Background Lensing Potential and Power Spectrum from 500 deg<sup>2</sup> of SPTpol Temperature and Polarization Data,Readout noise of digital frequency multiplexed TES detectors for CUPID,0.405537
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",0.612516
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,0.619923
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,0.476858
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,CMB Polarization B-mode Delensing with SPTpol and Herschel,0.593673
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,Searching for anisotropic cosmic birefringence with polarization data from SPTpol,0.746962
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,0.523493
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.544525
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,0.407127
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,0.608899
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,0.405894
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,0.571528
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,The EBEX Balloon-borne Experiment—Detectors and Readout,0.456601
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",0.427099
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,0.209887
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,0.385036
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,0.237002
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",-0.070453
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,Self-hosted placement for massively parallel processor arrays,-0.034209
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,An automatic control interface for network-accessible embedded instruments,0.018934
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,0.534607
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,Rapid synthesis and simulation of computational circuits in an MPPA,-0.015385
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,Particle Physics with the Cosmic Microwave Background with SPT-3G,0.514519
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.53272
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,Crossing-point estimation for sampled random signals,0.036502
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.151661
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,0.053154
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,0.343138
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,"The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",0.342672
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,0.305595
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,0.179734
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.619791
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,0.011291
+POLARBEAR constraints on cosmic birefringence and primordial magnetic fields,Readout noise of digital frequency multiplexed TES detectors for CUPID,0.291575
+"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,0.635362
+"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,0.579673
+"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",CMB Polarization B-mode Delensing with SPTpol and Herschel,0.710212
+"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",Searching for anisotropic cosmic birefringence with polarization data from SPTpol,0.651739
+"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,0.661347
+"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.657493
+"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,0.565479
+"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,0.817567
+"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,0.635521
+"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,0.741433
+"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",The EBEX Balloon-borne Experiment—Detectors and Readout,0.612966
+"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data","Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",0.697407
+"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,0.469236
+"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,0.527908
+"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,0.462496
+"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data","Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",0.014047
+"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",Self-hosted placement for massively parallel processor arrays,-0.069887
+"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",An automatic control interface for network-accessible embedded instruments,0.032331
+"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,0.666206
+"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",Rapid synthesis and simulation of computational circuits in an MPPA,-0.022177
+"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",Particle Physics with the Cosmic Microwave Background with SPT-3G,0.642203
+"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.65123
+"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",Crossing-point estimation for sampled random signals,0.170729
+"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.288898
+"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,0.021036
+"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,0.48661
+"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data","The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",0.482822
+"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,0.55749
+"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,0.230437
+"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.824702
+"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,0.068808
+"Measurements of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>B</mml:mi></mml:math>-mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",Readout noise of digital frequency multiplexed TES detectors for CUPID,0.431861
+Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,0.658862
+Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,CMB Polarization B-mode Delensing with SPTpol and Herschel,0.74703
+Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,Searching for anisotropic cosmic birefringence with polarization data from SPTpol,0.671607
+Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,0.790356
+Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.620298
+Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,0.480837
+Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,0.634779
+Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,0.504266
+Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,0.630614
+Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,The EBEX Balloon-borne Experiment—Detectors and Readout,0.525555
+Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",0.534091
+Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,0.334118
+Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,0.451835
+Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,0.345352
+Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",-0.012674
+Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,Self-hosted placement for massively parallel processor arrays,-0.054029
+Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,An automatic control interface for network-accessible embedded instruments,0.050692
+Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,0.781615
+Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,Rapid synthesis and simulation of computational circuits in an MPPA,-0.036707
+Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,Particle Physics with the Cosmic Microwave Background with SPT-3G,0.547395
+Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.703492
+Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,Crossing-point estimation for sampled random signals,0.117803
+Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.243995
+Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,-0.010794
+Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,0.370702
+Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,"The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",0.393335
+Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,0.413202
+Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,0.204681
+Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.695812
+Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,0.050907
+Evidence for Gravitational Lensing of the Cosmic Microwave Background Polarization from Cross-Correlation with the Cosmic Infrared Background,Readout noise of digital frequency multiplexed TES detectors for CUPID,0.302648
+Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,CMB Polarization B-mode Delensing with SPTpol and Herschel,0.660009
+Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,Searching for anisotropic cosmic birefringence with polarization data from SPTpol,0.504876
+Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,0.727261
+Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.69203
+Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,0.549252
+Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,0.637329
+Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,0.453471
+Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,0.556354
+Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,The EBEX Balloon-borne Experiment—Detectors and Readout,0.411026
+Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",0.581001
+Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,0.276217
+Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,0.32233
+Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,0.281578
+Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",0.031248
+Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,Self-hosted placement for massively parallel processor arrays,-0.030141
+Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,An automatic control interface for network-accessible embedded instruments,0.022787
+Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,0.71006
+Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,Rapid synthesis and simulation of computational circuits in an MPPA,-0.027174
+Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,Particle Physics with the Cosmic Microwave Background with SPT-3G,0.689481
+Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.772297
+Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,Crossing-point estimation for sampled random signals,0.160249
+Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.223443
+Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,0.069007
+Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,0.391773
+Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,"The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",0.358738
+Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,0.336431
+Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,0.109589
+Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.753634
+Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,-0.011711
+Constraints on Cosmological Parameters from the 500 deg<sup>2</sup> SPTPOL Lensing Power Spectrum,Readout noise of digital frequency multiplexed TES detectors for CUPID,0.322675
+CMB Polarization B-mode Delensing with SPTpol and Herschel,Searching for anisotropic cosmic birefringence with polarization data from SPTpol,0.602831
+CMB Polarization B-mode Delensing with SPTpol and Herschel,Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,0.768641
+CMB Polarization B-mode Delensing with SPTpol and Herschel,Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.647388
+CMB Polarization B-mode Delensing with SPTpol and Herschel,Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,0.491022
+CMB Polarization B-mode Delensing with SPTpol and Herschel,MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,0.638632
+CMB Polarization B-mode Delensing with SPTpol and Herschel,MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,0.522977
+CMB Polarization B-mode Delensing with SPTpol and Herschel,Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,0.67392
+CMB Polarization B-mode Delensing with SPTpol and Herschel,The EBEX Balloon-borne Experiment—Detectors and Readout,0.515431
+CMB Polarization B-mode Delensing with SPTpol and Herschel,"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",0.574312
+CMB Polarization B-mode Delensing with SPTpol and Herschel,Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,0.320109
+CMB Polarization B-mode Delensing with SPTpol and Herschel,First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,0.418149
+CMB Polarization B-mode Delensing with SPTpol and Herschel,RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,0.34048
+CMB Polarization B-mode Delensing with SPTpol and Herschel,"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",-0.008414
+CMB Polarization B-mode Delensing with SPTpol and Herschel,Self-hosted placement for massively parallel processor arrays,-0.013733
+CMB Polarization B-mode Delensing with SPTpol and Herschel,An automatic control interface for network-accessible embedded instruments,0.022153
+CMB Polarization B-mode Delensing with SPTpol and Herschel,Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,0.777325
+CMB Polarization B-mode Delensing with SPTpol and Herschel,Rapid synthesis and simulation of computational circuits in an MPPA,0.041702
+CMB Polarization B-mode Delensing with SPTpol and Herschel,Particle Physics with the Cosmic Microwave Background with SPT-3G,0.586964
+CMB Polarization B-mode Delensing with SPTpol and Herschel,Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.687297
+CMB Polarization B-mode Delensing with SPTpol and Herschel,Crossing-point estimation for sampled random signals,0.114942
+CMB Polarization B-mode Delensing with SPTpol and Herschel,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.274846
+CMB Polarization B-mode Delensing with SPTpol and Herschel,Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,0.043645
+CMB Polarization B-mode Delensing with SPTpol and Herschel,Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,0.400084
+CMB Polarization B-mode Delensing with SPTpol and Herschel,"The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",0.418117
+CMB Polarization B-mode Delensing with SPTpol and Herschel,The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,0.403847
+CMB Polarization B-mode Delensing with SPTpol and Herschel,A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,0.164531
+CMB Polarization B-mode Delensing with SPTpol and Herschel,Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.744246
+CMB Polarization B-mode Delensing with SPTpol and Herschel,<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,0.055615
+CMB Polarization B-mode Delensing with SPTpol and Herschel,Readout noise of digital frequency multiplexed TES detectors for CUPID,0.321833
+Searching for anisotropic cosmic birefringence with polarization data from SPTpol,Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,0.606492
+Searching for anisotropic cosmic birefringence with polarization data from SPTpol,Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.591197
+Searching for anisotropic cosmic birefringence with polarization data from SPTpol,Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,0.520867
+Searching for anisotropic cosmic birefringence with polarization data from SPTpol,MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,0.684023
+Searching for anisotropic cosmic birefringence with polarization data from SPTpol,MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,0.488777
+Searching for anisotropic cosmic birefringence with polarization data from SPTpol,Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,0.641571
+Searching for anisotropic cosmic birefringence with polarization data from SPTpol,The EBEX Balloon-borne Experiment—Detectors and Readout,0.45428
+Searching for anisotropic cosmic birefringence with polarization data from SPTpol,"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",0.524797
+Searching for anisotropic cosmic birefringence with polarization data from SPTpol,Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,0.298103
+Searching for anisotropic cosmic birefringence with polarization data from SPTpol,First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,0.389677
+Searching for anisotropic cosmic birefringence with polarization data from SPTpol,RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,0.252294
+Searching for anisotropic cosmic birefringence with polarization data from SPTpol,"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",0.019339
+Searching for anisotropic cosmic birefringence with polarization data from SPTpol,Self-hosted placement for massively parallel processor arrays,-0.057382
+Searching for anisotropic cosmic birefringence with polarization data from SPTpol,An automatic control interface for network-accessible embedded instruments,0.019236
+Searching for anisotropic cosmic birefringence with polarization data from SPTpol,Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,0.594539
+Searching for anisotropic cosmic birefringence with polarization data from SPTpol,Rapid synthesis and simulation of computational circuits in an MPPA,-0.053089
+Searching for anisotropic cosmic birefringence with polarization data from SPTpol,Particle Physics with the Cosmic Microwave Background with SPT-3G,0.51986
+Searching for anisotropic cosmic birefringence with polarization data from SPTpol,Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.59047
+Searching for anisotropic cosmic birefringence with polarization data from SPTpol,Crossing-point estimation for sampled random signals,0.080233
+Searching for anisotropic cosmic birefringence with polarization data from SPTpol,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.165572
+Searching for anisotropic cosmic birefringence with polarization data from SPTpol,Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,-0.007293
+Searching for anisotropic cosmic birefringence with polarization data from SPTpol,Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,0.440199
+Searching for anisotropic cosmic birefringence with polarization data from SPTpol,"The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",0.305104
+Searching for anisotropic cosmic birefringence with polarization data from SPTpol,The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,0.345991
+Searching for anisotropic cosmic birefringence with polarization data from SPTpol,A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,0.123754
+Searching for anisotropic cosmic birefringence with polarization data from SPTpol,Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.66552
+Searching for anisotropic cosmic birefringence with polarization data from SPTpol,<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,-0.034062
+Searching for anisotropic cosmic birefringence with polarization data from SPTpol,Readout noise of digital frequency multiplexed TES detectors for CUPID,0.265711
+Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.751636
+Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,0.559368
+Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,0.645224
+Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,0.596406
+Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,0.657795
+Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,The EBEX Balloon-borne Experiment—Detectors and Readout,0.488053
+Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",0.592357
+Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,0.393637
+Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,0.422031
+Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,0.323977
+Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",0.051525
+Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,Self-hosted placement for massively parallel processor arrays,-0.007785
+Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,An automatic control interface for network-accessible embedded instruments,0.033118
+Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,0.952756
+Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,Rapid synthesis and simulation of computational circuits in an MPPA,0.01012
+Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,Particle Physics with the Cosmic Microwave Background with SPT-3G,0.623027
+Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.78395
+Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,Crossing-point estimation for sampled random signals,0.275762
+Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.253788
+Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,0.044418
+Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,0.459182
+Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,"The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",0.38252
+Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,0.425121
+Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,0.076376
+Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.714071
+Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,-0.043118
+Optimal Cosmic Microwave Background Lensing Reconstruction and Parameter Estimation with SPTpol Data,Readout noise of digital frequency multiplexed TES detectors for CUPID,0.333625
+Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,0.594234
+Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,0.742778
+Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,0.527879
+Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,0.65678
+Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,The EBEX Balloon-borne Experiment—Detectors and Readout,0.457384
+Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",0.620558
+Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,0.51701
+Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,0.419512
+Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,0.343044
+Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",0.052284
+Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,Self-hosted placement for massively parallel processor arrays,-0.022688
+Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,An automatic control interface for network-accessible embedded instruments,0.048682
+Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,0.713205
+Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,Rapid synthesis and simulation of computational circuits in an MPPA,-0.036553
+Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,Particle Physics with the Cosmic Microwave Background with SPT-3G,0.672737
+Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.910584
+Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,Crossing-point estimation for sampled random signals,0.250418
+Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.26373
+Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,0.078778
+Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,0.533127
+Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,"The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",0.404906
+Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,0.478594
+Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,0.105928
+Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.752798
+Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,-0.021367
+Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,Readout noise of digital frequency multiplexed TES detectors for CUPID,0.356316
+Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,0.608979
+Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,0.603941
+Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,0.598664
+Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,The EBEX Balloon-borne Experiment—Detectors and Readout,0.42074
+Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",0.688804
+Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,0.371975
+Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,0.371953
+Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,0.36249
+Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",0.003587
+Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,Self-hosted placement for massively parallel processor arrays,0.056369
+Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,An automatic control interface for network-accessible embedded instruments,0.07107
+Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,0.514174
+Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,Rapid synthesis and simulation of computational circuits in an MPPA,-0.010664
+Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,Particle Physics with the Cosmic Microwave Background with SPT-3G,0.578134
+Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.591749
+Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,Crossing-point estimation for sampled random signals,0.144889
+Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.249553
+Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,0.093847
+Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,0.698663
+Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,"The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",0.291715
+Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,0.438162
+Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,0.076147
+Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.594956
+Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,-0.004108
+Galaxy Clusters Selected via the Sunyaev–Zel’dovich Effect in the SPTpol 100-square-degree Survey,Readout noise of digital frequency multiplexed TES detectors for CUPID,0.242934
+MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,0.587866
+MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,0.731407
+MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,The EBEX Balloon-borne Experiment—Detectors and Readout,0.553581
+MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",0.677368
+MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,0.450256
+MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,0.445795
+MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,0.384729
+MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",0.036051
+MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,Self-hosted placement for massively parallel processor arrays,-0.036394
+MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,An automatic control interface for network-accessible embedded instruments,0.072193
+MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,0.660475
+MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,Rapid synthesis and simulation of computational circuits in an MPPA,-0.003598
+MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,Particle Physics with the Cosmic Microwave Background with SPT-3G,0.648455
+MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.742316
+MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,Crossing-point estimation for sampled random signals,0.176073
+MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.25505
+MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,0.032958
+MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,0.568715
+MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,"The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",0.392477
+MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,0.4992
+MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,0.16275
+MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.86123
+MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,-0.008281
+MEASUREMENTS OF E-MODE POLARIZATION AND TEMPERATURE-E-MODE CORRELATION IN THE COSMIC MICROWAVE BACKGROUND FROM 100 SQUARE DEGREES OF SPTPOL DATA,Readout noise of digital frequency multiplexed TES detectors for CUPID,0.349212
+MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,0.51207
+MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,The EBEX Balloon-borne Experiment—Detectors and Readout,0.49464
+MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",0.737351
+MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,0.446303
+MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,0.483141
+MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,0.441716
+MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",0.003213
+MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,Self-hosted placement for massively parallel processor arrays,-0.016348
+MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,An automatic control interface for network-accessible embedded instruments,0.009126
+MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,0.546822
+MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,Rapid synthesis and simulation of computational circuits in an MPPA,-0.011742
+MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,Particle Physics with the Cosmic Microwave Background with SPT-3G,0.601982
+MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.528872
+MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,Crossing-point estimation for sampled random signals,0.144871
+MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.344327
+MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,0.099657
+MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,0.665522
+MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,"The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",0.357255
+MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,0.496632
+MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,0.171566
+MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.5794
+MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,-0.002415
+MILLIMETER TRANSIENT POINT SOURCES IN THE SPTpol 100 SQUARE DEGREE SURVEY,Readout noise of digital frequency multiplexed TES detectors for CUPID,0.335886
+Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,The EBEX Balloon-borne Experiment—Detectors and Readout,0.511604
+Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",0.67355
+Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,0.421301
+Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,0.368082
+Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,0.373781
+Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",0.09626
+Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,Self-hosted placement for massively parallel processor arrays,0.016033
+Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,An automatic control interface for network-accessible embedded instruments,0.037058
+Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,0.674746
+Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,Rapid synthesis and simulation of computational circuits in an MPPA,0.002573
+Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,Particle Physics with the Cosmic Microwave Background with SPT-3G,0.526656
+Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.651021
+Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,Crossing-point estimation for sampled random signals,0.193976
+Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.277543
+Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,0.058844
+Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,0.554948
+Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,"The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",0.333947
+Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,0.435889
+Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,0.102852
+Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.753621
+Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,-0.008198
+Fractional polarization of extragalactic sources in the 500 deg2 SPTpol survey,Readout noise of digital frequency multiplexed TES detectors for CUPID,0.305785
+The EBEX Balloon-borne Experiment—Detectors and Readout,"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",0.52873
+The EBEX Balloon-borne Experiment—Detectors and Readout,Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,0.471468
+The EBEX Balloon-borne Experiment—Detectors and Readout,First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,0.819869
+The EBEX Balloon-borne Experiment—Detectors and Readout,RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,0.528495
+The EBEX Balloon-borne Experiment—Detectors and Readout,"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",-0.019588
+The EBEX Balloon-borne Experiment—Detectors and Readout,Self-hosted placement for massively parallel processor arrays,-0.016452
+The EBEX Balloon-borne Experiment—Detectors and Readout,An automatic control interface for network-accessible embedded instruments,0.069932
+The EBEX Balloon-borne Experiment—Detectors and Readout,Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,0.493993
+The EBEX Balloon-borne Experiment—Detectors and Readout,Rapid synthesis and simulation of computational circuits in an MPPA,0.044852
+The EBEX Balloon-borne Experiment—Detectors and Readout,Particle Physics with the Cosmic Microwave Background with SPT-3G,0.512778
+The EBEX Balloon-borne Experiment—Detectors and Readout,Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.461036
+The EBEX Balloon-borne Experiment—Detectors and Readout,Crossing-point estimation for sampled random signals,0.078708
+The EBEX Balloon-borne Experiment—Detectors and Readout,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.534069
+The EBEX Balloon-borne Experiment—Detectors and Readout,Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,0.020057
+The EBEX Balloon-borne Experiment—Detectors and Readout,Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,0.378834
+The EBEX Balloon-borne Experiment—Detectors and Readout,"The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",0.596651
+The EBEX Balloon-borne Experiment—Detectors and Readout,The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,0.564512
+The EBEX Balloon-borne Experiment—Detectors and Readout,A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,0.425081
+The EBEX Balloon-borne Experiment—Detectors and Readout,Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.584869
+The EBEX Balloon-borne Experiment—Detectors and Readout,<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,0.282435
+The EBEX Balloon-borne Experiment—Detectors and Readout,Readout noise of digital frequency multiplexed TES detectors for CUPID,0.573165
+"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,0.431232
+"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,0.466087
+"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,0.491054
+"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State","Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",-0.008395
+"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",Self-hosted placement for massively parallel processor arrays,-0.012663
+"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",An automatic control interface for network-accessible embedded instruments,0.044706
+"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,0.587613
+"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",Rapid synthesis and simulation of computational circuits in an MPPA,0.008649
+"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",Particle Physics with the Cosmic Microwave Background with SPT-3G,0.610949
+"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.6143
+"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",Crossing-point estimation for sampled random signals,0.190605
+"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.383436
+"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,0.109004
+"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,0.701702
+"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State","The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",0.398403
+"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,0.556319
+"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,0.21417
+"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.679826
+"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,0.073409
+"Simultaneous Millimeter-wave, Gamma-Ray, and Optical Monitoring of the Blazar PKS 2326-502 during a Flaring State",Readout noise of digital frequency multiplexed TES detectors for CUPID,0.347038
+Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,0.532766
+Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,0.518019
+Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",0.091393
+Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,Self-hosted placement for massively parallel processor arrays,-0.034814
+Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,An automatic control interface for network-accessible embedded instruments,0.104358
+Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,0.376071
+Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,Rapid synthesis and simulation of computational circuits in an MPPA,0.002712
+Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,Particle Physics with the Cosmic Microwave Background with SPT-3G,0.475897
+Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.489722
+Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,Crossing-point estimation for sampled random signals,0.214397
+Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.514885
+Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,-0.015079
+Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,0.406294
+Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,"The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",0.473097
+Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,0.624344
+Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,0.32009
+Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.360197
+Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,0.242895
+Performance and characterization of the SPT-3G digital frequency multiplexed readout system using an improved noise and crosstalk model,Readout noise of digital frequency multiplexed TES detectors for CUPID,0.491449
+First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,0.520751
+First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",-0.011479
+First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,Self-hosted placement for massively parallel processor arrays,-0.012216
+First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,An automatic control interface for network-accessible embedded instruments,0.101357
+First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,0.413171
+First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,Rapid synthesis and simulation of computational circuits in an MPPA,0.028923
+First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,Particle Physics with the Cosmic Microwave Background with SPT-3G,0.524567
+First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.401621
+First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,Crossing-point estimation for sampled random signals,0.035651
+First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.540161
+First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,0.007078
+First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,0.363904
+First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,"The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",0.723315
+First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,0.655226
+First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,0.498862
+First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.438485
+First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,0.296333
+First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,Readout noise of digital frequency multiplexed TES detectors for CUPID,0.687558
+RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",0.003809
+RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,Self-hosted placement for massively parallel processor arrays,0.114408
+RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,An automatic control interface for network-accessible embedded instruments,0.101009
+RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,0.337545
+RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,Rapid synthesis and simulation of computational circuits in an MPPA,0.25735
+RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,Particle Physics with the Cosmic Microwave Background with SPT-3G,0.417905
+RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.375469
+RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,Crossing-point estimation for sampled random signals,0.116925
+RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.570448
+RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,0.036369
+RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,0.382801
+RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,"The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",0.524674
+RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,0.8223
+RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,0.556927
+RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.37672
+RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,0.545723
+RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors,Readout noise of digital frequency multiplexed TES detectors for CUPID,0.502663
+"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",Self-hosted placement for massively parallel processor arrays,0.037131
+"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",An automatic control interface for network-accessible embedded instruments,0.033754
+"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,0.050837
+"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",Rapid synthesis and simulation of computational circuits in an MPPA,-0.008545
+"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",Particle Physics with the Cosmic Microwave Background with SPT-3G,0.013615
+"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.069449
+"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",Crossing-point estimation for sampled random signals,0.061614
+"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.040698
+"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,0.164561
+"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,-0.011401
+"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)","The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",0.001936
+"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,0.021195
+"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,-0.012924
+"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.000156
+"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,-0.006326
+"Erratum: “A Measurement of the Cosmic Microwave Background B-Mode Polarization Power Spectrum at Sub-degree Scales with POLARBEAR” (2014, ApJ, 794, 171)",Readout noise of digital frequency multiplexed TES detectors for CUPID,0.022633
+Self-hosted placement for massively parallel processor arrays,An automatic control interface for network-accessible embedded instruments,0.195877
+Self-hosted placement for massively parallel processor arrays,Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,-0.024211
+Self-hosted placement for massively parallel processor arrays,Rapid synthesis and simulation of computational circuits in an MPPA,0.622189
+Self-hosted placement for massively parallel processor arrays,Particle Physics with the Cosmic Microwave Background with SPT-3G,0.003036
+Self-hosted placement for massively parallel processor arrays,Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,-0.033089
+Self-hosted placement for massively parallel processor arrays,Crossing-point estimation for sampled random signals,0.036024
+Self-hosted placement for massively parallel processor arrays,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.283782
+Self-hosted placement for massively parallel processor arrays,Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,-0.011823
+Self-hosted placement for massively parallel processor arrays,Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,0.041578
+Self-hosted placement for massively parallel processor arrays,"The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",0.038256
+Self-hosted placement for massively parallel processor arrays,The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,0.092115
+Self-hosted placement for massively parallel processor arrays,A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,0.037498
+Self-hosted placement for massively parallel processor arrays,Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,-0.029412
+Self-hosted placement for massively parallel processor arrays,<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,0.075634
+Self-hosted placement for massively parallel processor arrays,Readout noise of digital frequency multiplexed TES detectors for CUPID,-0.04807
+An automatic control interface for network-accessible embedded instruments,Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,0.0476
+An automatic control interface for network-accessible embedded instruments,Rapid synthesis and simulation of computational circuits in an MPPA,0.286216
+An automatic control interface for network-accessible embedded instruments,Particle Physics with the Cosmic Microwave Background with SPT-3G,0.111438
+An automatic control interface for network-accessible embedded instruments,Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.053229
+An automatic control interface for network-accessible embedded instruments,Crossing-point estimation for sampled random signals,0.080859
+An automatic control interface for network-accessible embedded instruments,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.196868
+An automatic control interface for network-accessible embedded instruments,Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,0.006564
+An automatic control interface for network-accessible embedded instruments,Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,0.054969
+An automatic control interface for network-accessible embedded instruments,"The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",0.094228
+An automatic control interface for network-accessible embedded instruments,The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,0.204498
+An automatic control interface for network-accessible embedded instruments,A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,0.072697
+An automatic control interface for network-accessible embedded instruments,Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.062847
+An automatic control interface for network-accessible embedded instruments,<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,-0.039776
+An automatic control interface for network-accessible embedded instruments,Readout noise of digital frequency multiplexed TES detectors for CUPID,0.025003
+Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,Rapid synthesis and simulation of computational circuits in an MPPA,0.029214
+Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,Particle Physics with the Cosmic Microwave Background with SPT-3G,0.60856
+Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.777013
+Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,Crossing-point estimation for sampled random signals,0.281116
+Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.248531
+Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,0.058064
+Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,0.419774
+Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,"The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",0.373709
+Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,0.425285
+Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,0.120355
+Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.73321
+Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,-0.002077
+Optimal CMB Lensing Reconstruction and Parameter Estimation with SPTpol Data,Readout noise of digital frequency multiplexed TES detectors for CUPID,0.33624
+Rapid synthesis and simulation of computational circuits in an MPPA,Particle Physics with the Cosmic Microwave Background with SPT-3G,0.03373
+Rapid synthesis and simulation of computational circuits in an MPPA,Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,-0.025969
+Rapid synthesis and simulation of computational circuits in an MPPA,Crossing-point estimation for sampled random signals,0.046147
+Rapid synthesis and simulation of computational circuits in an MPPA,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.333916
+Rapid synthesis and simulation of computational circuits in an MPPA,Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,-0.013207
+Rapid synthesis and simulation of computational circuits in an MPPA,Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,0.033865
+Rapid synthesis and simulation of computational circuits in an MPPA,"The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",0.100459
+Rapid synthesis and simulation of computational circuits in an MPPA,The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,0.146907
+Rapid synthesis and simulation of computational circuits in an MPPA,A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,0.138811
+Rapid synthesis and simulation of computational circuits in an MPPA,Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.002053
+Rapid synthesis and simulation of computational circuits in an MPPA,<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,0.143595
+Rapid synthesis and simulation of computational circuits in an MPPA,Readout noise of digital frequency multiplexed TES detectors for CUPID,0.023402
+Particle Physics with the Cosmic Microwave Background with SPT-3G,Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,0.657546
+Particle Physics with the Cosmic Microwave Background with SPT-3G,Crossing-point estimation for sampled random signals,0.082381
+Particle Physics with the Cosmic Microwave Background with SPT-3G,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.291873
+Particle Physics with the Cosmic Microwave Background with SPT-3G,Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,0.122819
+Particle Physics with the Cosmic Microwave Background with SPT-3G,Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,0.476738
+Particle Physics with the Cosmic Microwave Background with SPT-3G,"The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",0.474046
+Particle Physics with the Cosmic Microwave Background with SPT-3G,The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,0.549217
+Particle Physics with the Cosmic Microwave Background with SPT-3G,A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,0.256573
+Particle Physics with the Cosmic Microwave Background with SPT-3G,Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.656558
+Particle Physics with the Cosmic Microwave Background with SPT-3G,<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,0.005349
+Particle Physics with the Cosmic Microwave Background with SPT-3G,Readout noise of digital frequency multiplexed TES detectors for CUPID,0.521217
+Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,Crossing-point estimation for sampled random signals,0.191923
+Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.259292
+Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,0.032241
+Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,0.521696
+Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,"The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",0.401906
+Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,0.473647
+Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,0.13901
+Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.78197
+Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,0.012333
+Testing the $\mathbfΛ$CDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G,Readout noise of digital frequency multiplexed TES detectors for CUPID,0.318829
+Crossing-point estimation for sampled random signals,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.094435
+Crossing-point estimation for sampled random signals,Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,0.0188
+Crossing-point estimation for sampled random signals,Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,0.173187
+Crossing-point estimation for sampled random signals,"The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",0.100473
+Crossing-point estimation for sampled random signals,The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,0.104228
+Crossing-point estimation for sampled random signals,A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,0.007586
+Crossing-point estimation for sampled random signals,Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.152535
+Crossing-point estimation for sampled random signals,<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,-0.008691
+Crossing-point estimation for sampled random signals,Readout noise of digital frequency multiplexed TES detectors for CUPID,0.107486
+Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,0.001116
+Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,0.341636
+Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,"The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",0.463777
+Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,0.548774
+Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,0.358917
+Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.254814
+Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,0.308761
+Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,Readout noise of digital frequency multiplexed TES detectors for CUPID,0.415683
+Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,0.134734
+Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,"The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",0.013743
+Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,0.019705
+Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,-0.00724
+Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.063586
+Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,-0.038763
+Cosmic Microwave Background B-Mode Polarization Experiment POLARBEAR-2,Readout noise of digital frequency multiplexed TES detectors for CUPID,0.051479
+Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,"The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",0.268064
+Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,0.446914
+Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,0.082298
+Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.497976
+Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,0.013743
+Flaring Stars in a Non-targeted mm-wave Survey with SPT-3G,Readout noise of digital frequency multiplexed TES detectors for CUPID,0.185431
+"The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,0.621806
+"The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,0.490936
+"The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.420258
+"The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,0.347795
+"The SQUID Controller Unit for the LiteBIRD Space Mission: Description, Functional Tests and Early Performance Assessment",Readout noise of digital frequency multiplexed TES detectors for CUPID,0.754249
+The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,0.566072
+The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.44956
+The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,0.462625
+The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors,Readout noise of digital frequency multiplexed TES detectors for CUPID,0.540042
+A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,0.176431
+A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,0.717553
+A first demonstration of active feedback control and multi-frequency imaging techniques for kinetic inductance detectors,Readout noise of digital frequency multiplexed TES detectors for CUPID,0.549655
+Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,-0.000177
+Measurements of the Temperature and E-mode Polarization of the Cosmic Microwave Background from the Full 500-square-degree SPTpol Dataset,Readout noise of digital frequency multiplexed TES detectors for CUPID,0.355967
+<i>In situ</i> control of the resonant frequency of kinetic inductance detectors with multiplexed readout,Readout noise of digital frequency multiplexed TES detectors for CUPID,0.366383

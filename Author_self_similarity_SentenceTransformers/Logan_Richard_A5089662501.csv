@@ -1,0 +1,16 @@
+title_i,title_j,cosine_similarity
+3D curvature attributes: a new approach for seismic interpretation,Trauma surgical educational opportunities in Canada: a week in the life of a trauma service,0.145961
+3D curvature attributes: a new approach for seismic interpretation,Differential Geometry and Relativity Theory,0.191763
+3D curvature attributes: a new approach for seismic interpretation,Celiac Disease and Bariatric Surgery: A Systematic Review of Current Literature,-0.016716
+3D curvature attributes: a new approach for seismic interpretation,Building homotheties through pinches,0.09017
+3D curvature attributes: a new approach for seismic interpretation,Decreasing paths of polygons,0.058079
+Trauma surgical educational opportunities in Canada: a week in the life of a trauma service,Differential Geometry and Relativity Theory,0.025035
+Trauma surgical educational opportunities in Canada: a week in the life of a trauma service,Celiac Disease and Bariatric Surgery: A Systematic Review of Current Literature,0.1357
+Trauma surgical educational opportunities in Canada: a week in the life of a trauma service,Building homotheties through pinches,0.015263
+Trauma surgical educational opportunities in Canada: a week in the life of a trauma service,Decreasing paths of polygons,0.009759
+Differential Geometry and Relativity Theory,Celiac Disease and Bariatric Surgery: A Systematic Review of Current Literature,0.007877
+Differential Geometry and Relativity Theory,Building homotheties through pinches,0.236228
+Differential Geometry and Relativity Theory,Decreasing paths of polygons,0.102652
+Celiac Disease and Bariatric Surgery: A Systematic Review of Current Literature,Building homotheties through pinches,-0.063512
+Celiac Disease and Bariatric Surgery: A Systematic Review of Current Literature,Decreasing paths of polygons,-0.075578
+Building homotheties through pinches,Decreasing paths of polygons,0.361312

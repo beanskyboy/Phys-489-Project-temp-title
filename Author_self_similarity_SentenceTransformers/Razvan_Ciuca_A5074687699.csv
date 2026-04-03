@@ -1,0 +1,11 @@
+title_i,title_j,cosine_similarity
+A Bayesian framework for cosmic string searches in CMB maps,A convolutional neural network for cosmic string detection in CMB temperature maps,0.887235
+A Bayesian framework for cosmic string searches in CMB maps,Information theoretic bounds on cosmic string detection in CMB maps with noise,0.832602
+A Bayesian framework for cosmic string searches in CMB maps,Inferring cosmic string tension through the neural network prediction of string locations in CMB maps,0.827001
+A Bayesian framework for cosmic string searches in CMB maps,Erratum: Information theoretic bounds on cosmic string detection in CMB maps with noise,0.658241
+A convolutional neural network for cosmic string detection in CMB temperature maps,Information theoretic bounds on cosmic string detection in CMB maps with noise,0.824401
+A convolutional neural network for cosmic string detection in CMB temperature maps,Inferring cosmic string tension through the neural network prediction of string locations in CMB maps,0.908505
+A convolutional neural network for cosmic string detection in CMB temperature maps,Erratum: Information theoretic bounds on cosmic string detection in CMB maps with noise,0.58764
+Information theoretic bounds on cosmic string detection in CMB maps with noise,Inferring cosmic string tension through the neural network prediction of string locations in CMB maps,0.781867
+Information theoretic bounds on cosmic string detection in CMB maps with noise,Erratum: Information theoretic bounds on cosmic string detection in CMB maps with noise,0.808333
+Inferring cosmic string tension through the neural network prediction of string locations in CMB maps,Erratum: Information theoretic bounds on cosmic string detection in CMB maps with noise,0.558934

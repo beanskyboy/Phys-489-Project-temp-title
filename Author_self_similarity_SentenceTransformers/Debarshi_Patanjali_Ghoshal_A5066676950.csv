@@ -1,0 +1,56 @@
+title_i,title_j,cosine_similarity
+Number Plate Recognition for use in different countries using an improved segmentation,Using invariance to extract signal from noise,0.092109
+Number Plate Recognition for use in different countries using an improved segmentation,Algebraic Parameter Estimation Using Kernel Representation of Linear Systems,0.071147
+Number Plate Recognition for use in different countries using an improved segmentation,Double-Sided kernel observer for linear time-varying systems,0.026586
+Number Plate Recognition for use in different countries using an improved segmentation,B-Splines in Joint Parameter and State Estimation in Linear Time-Varying Systems,0.108352
+Number Plate Recognition for use in different countries using an improved segmentation,Kernel-based adaptive multiple model target tracking,0.090876
+Number Plate Recognition for use in different countries using an improved segmentation,Finite-interval kernel-based identification and state estimation for LTI systems with noisy output data,0.089149
+Number Plate Recognition for use in different countries using an improved segmentation,Forward-backward kernel-based state and parameter estimation for linear systems of arbitrary order,0.067334
+Number Plate Recognition for use in different countries using an improved segmentation,Variational Approach to Joint Linear Model and State Estimation,-0.000419
+Number Plate Recognition for use in different countries using an improved segmentation,Algebraic Nonlinear Identification and Output Tracking Control of Synchronous Generator using Differential Flatness,0.101182
+Number Plate Recognition for use in different countries using an improved segmentation,"Finite Interval Estimation of LTI Systems Using Differential Invariance, Instrumental Variables, and Covariance Weighting",0.041729
+Using invariance to extract signal from noise,Algebraic Parameter Estimation Using Kernel Representation of Linear Systems,0.70953
+Using invariance to extract signal from noise,Double-Sided kernel observer for linear time-varying systems,0.66863
+Using invariance to extract signal from noise,B-Splines in Joint Parameter and State Estimation in Linear Time-Varying Systems,0.68898
+Using invariance to extract signal from noise,Kernel-based adaptive multiple model target tracking,0.57922
+Using invariance to extract signal from noise,Finite-interval kernel-based identification and state estimation for LTI systems with noisy output data,0.681993
+Using invariance to extract signal from noise,Forward-backward kernel-based state and parameter estimation for linear systems of arbitrary order,0.738378
+Using invariance to extract signal from noise,Variational Approach to Joint Linear Model and State Estimation,0.670896
+Using invariance to extract signal from noise,Algebraic Nonlinear Identification and Output Tracking Control of Synchronous Generator using Differential Flatness,0.504171
+Using invariance to extract signal from noise,"Finite Interval Estimation of LTI Systems Using Differential Invariance, Instrumental Variables, and Covariance Weighting",0.646452
+Algebraic Parameter Estimation Using Kernel Representation of Linear Systems,Double-Sided kernel observer for linear time-varying systems,0.641225
+Algebraic Parameter Estimation Using Kernel Representation of Linear Systems,B-Splines in Joint Parameter and State Estimation in Linear Time-Varying Systems,0.711741
+Algebraic Parameter Estimation Using Kernel Representation of Linear Systems,Kernel-based adaptive multiple model target tracking,0.585997
+Algebraic Parameter Estimation Using Kernel Representation of Linear Systems,Finite-interval kernel-based identification and state estimation for LTI systems with noisy output data,0.726508
+Algebraic Parameter Estimation Using Kernel Representation of Linear Systems,Forward-backward kernel-based state and parameter estimation for linear systems of arbitrary order,0.741407
+Algebraic Parameter Estimation Using Kernel Representation of Linear Systems,Variational Approach to Joint Linear Model and State Estimation,0.635985
+Algebraic Parameter Estimation Using Kernel Representation of Linear Systems,Algebraic Nonlinear Identification and Output Tracking Control of Synchronous Generator using Differential Flatness,0.464954
+Algebraic Parameter Estimation Using Kernel Representation of Linear Systems,"Finite Interval Estimation of LTI Systems Using Differential Invariance, Instrumental Variables, and Covariance Weighting",0.643722
+Double-Sided kernel observer for linear time-varying systems,B-Splines in Joint Parameter and State Estimation in Linear Time-Varying Systems,0.826218
+Double-Sided kernel observer for linear time-varying systems,Kernel-based adaptive multiple model target tracking,0.484642
+Double-Sided kernel observer for linear time-varying systems,Finite-interval kernel-based identification and state estimation for LTI systems with noisy output data,0.707021
+Double-Sided kernel observer for linear time-varying systems,Forward-backward kernel-based state and parameter estimation for linear systems of arbitrary order,0.684425
+Double-Sided kernel observer for linear time-varying systems,Variational Approach to Joint Linear Model and State Estimation,0.543902
+Double-Sided kernel observer for linear time-varying systems,Algebraic Nonlinear Identification and Output Tracking Control of Synchronous Generator using Differential Flatness,0.580103
+Double-Sided kernel observer for linear time-varying systems,"Finite Interval Estimation of LTI Systems Using Differential Invariance, Instrumental Variables, and Covariance Weighting",0.523618
+B-Splines in Joint Parameter and State Estimation in Linear Time-Varying Systems,Kernel-based adaptive multiple model target tracking,0.524783
+B-Splines in Joint Parameter and State Estimation in Linear Time-Varying Systems,Finite-interval kernel-based identification and state estimation for LTI systems with noisy output data,0.763498
+B-Splines in Joint Parameter and State Estimation in Linear Time-Varying Systems,Forward-backward kernel-based state and parameter estimation for linear systems of arbitrary order,0.72278
+B-Splines in Joint Parameter and State Estimation in Linear Time-Varying Systems,Variational Approach to Joint Linear Model and State Estimation,0.594606
+B-Splines in Joint Parameter and State Estimation in Linear Time-Varying Systems,Algebraic Nonlinear Identification and Output Tracking Control of Synchronous Generator using Differential Flatness,0.542598
+B-Splines in Joint Parameter and State Estimation in Linear Time-Varying Systems,"Finite Interval Estimation of LTI Systems Using Differential Invariance, Instrumental Variables, and Covariance Weighting",0.597231
+Kernel-based adaptive multiple model target tracking,Finite-interval kernel-based identification and state estimation for LTI systems with noisy output data,0.610414
+Kernel-based adaptive multiple model target tracking,Forward-backward kernel-based state and parameter estimation for linear systems of arbitrary order,0.554434
+Kernel-based adaptive multiple model target tracking,Variational Approach to Joint Linear Model and State Estimation,0.539319
+Kernel-based adaptive multiple model target tracking,Algebraic Nonlinear Identification and Output Tracking Control of Synchronous Generator using Differential Flatness,0.371968
+Kernel-based adaptive multiple model target tracking,"Finite Interval Estimation of LTI Systems Using Differential Invariance, Instrumental Variables, and Covariance Weighting",0.543864
+Finite-interval kernel-based identification and state estimation for LTI systems with noisy output data,Forward-backward kernel-based state and parameter estimation for linear systems of arbitrary order,0.805142
+Finite-interval kernel-based identification and state estimation for LTI systems with noisy output data,Variational Approach to Joint Linear Model and State Estimation,0.622865
+Finite-interval kernel-based identification and state estimation for LTI systems with noisy output data,Algebraic Nonlinear Identification and Output Tracking Control of Synchronous Generator using Differential Flatness,0.561806
+Finite-interval kernel-based identification and state estimation for LTI systems with noisy output data,"Finite Interval Estimation of LTI Systems Using Differential Invariance, Instrumental Variables, and Covariance Weighting",0.699726
+Forward-backward kernel-based state and parameter estimation for linear systems of arbitrary order,Variational Approach to Joint Linear Model and State Estimation,0.655995
+Forward-backward kernel-based state and parameter estimation for linear systems of arbitrary order,Algebraic Nonlinear Identification and Output Tracking Control of Synchronous Generator using Differential Flatness,0.573562
+Forward-backward kernel-based state and parameter estimation for linear systems of arbitrary order,"Finite Interval Estimation of LTI Systems Using Differential Invariance, Instrumental Variables, and Covariance Weighting",0.801536
+Variational Approach to Joint Linear Model and State Estimation,Algebraic Nonlinear Identification and Output Tracking Control of Synchronous Generator using Differential Flatness,0.440021
+Variational Approach to Joint Linear Model and State Estimation,"Finite Interval Estimation of LTI Systems Using Differential Invariance, Instrumental Variables, and Covariance Weighting",0.698449
+Algebraic Nonlinear Identification and Output Tracking Control of Synchronous Generator using Differential Flatness,"Finite Interval Estimation of LTI Systems Using Differential Invariance, Instrumental Variables, and Covariance Weighting",0.488427

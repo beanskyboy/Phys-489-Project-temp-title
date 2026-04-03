@@ -1,0 +1,7 @@
+title_i,title_j,cosine_similarity
+Poster — Thur Eve — 46: Image‐Based Scoring of Radiation Injury in Lung: Analysis of Sources of Uncertainties,WE‐E‐BRE‐05: Ensemble of Graphical Models for Predicting Radiation Pneumontis Risk,0.504699
+Poster — Thur Eve — 46: Image‐Based Scoring of Radiation Injury in Lung: Analysis of Sources of Uncertainties,SU‐E‐T‐276: Treatment Planning Strategies for Lung Injury Studies in Rat Models in 6 MV Delivery,0.532724
+Poster — Thur Eve — 46: Image‐Based Scoring of Radiation Injury in Lung: Analysis of Sources of Uncertainties,SU‐F‐R‐40: Robustness Test of Computed Tomography Textures of Lung Tissues to Varying Scanning Protocols Using a Realistic Phantom Environment,0.643722
+WE‐E‐BRE‐05: Ensemble of Graphical Models for Predicting Radiation Pneumontis Risk,SU‐E‐T‐276: Treatment Planning Strategies for Lung Injury Studies in Rat Models in 6 MV Delivery,0.405243
+WE‐E‐BRE‐05: Ensemble of Graphical Models for Predicting Radiation Pneumontis Risk,SU‐F‐R‐40: Robustness Test of Computed Tomography Textures of Lung Tissues to Varying Scanning Protocols Using a Realistic Phantom Environment,0.332493
+SU‐E‐T‐276: Treatment Planning Strategies for Lung Injury Studies in Rat Models in 6 MV Delivery,SU‐F‐R‐40: Robustness Test of Computed Tomography Textures of Lung Tissues to Varying Scanning Protocols Using a Realistic Phantom Environment,0.325608

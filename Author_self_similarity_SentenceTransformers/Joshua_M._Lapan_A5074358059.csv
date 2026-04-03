@@ -1,0 +1,56 @@
+title_i,title_j,cosine_similarity
+A Quantum Adiabatic Evolution Algorithm Applied to Random Instances of an NP-Complete Problem,Black hole scattering from monodromy,0.04926
+A Quantum Adiabatic Evolution Algorithm Applied to Random Instances of an NP-Complete Problem,Linear Models for Flux Vacua,0.012029
+A Quantum Adiabatic Evolution Algorithm Applied to Random Instances of an NP-Complete Problem,Black hole monodromy and conformal field theory,0.077239
+A Quantum Adiabatic Evolution Algorithm Applied to Random Instances of an NP-Complete Problem,Gauge/gravity duality in heterotic string theory,0.003083
+A Quantum Adiabatic Evolution Algorithm Applied to Random Instances of an NP-Complete Problem,String theory on warped AdS3 and Virasoro resonances,-0.013468
+A Quantum Adiabatic Evolution Algorithm Applied to Random Instances of an NP-Complete Problem,Towards the massless spectrum of non-Kähler heterotic compactifications,0.035477
+A Quantum Adiabatic Evolution Algorithm Applied to Random Instances of an NP-Complete Problem,Nearing the Horizon of a Heterotic String,0.024341
+A Quantum Adiabatic Evolution Algorithm Applied to Random Instances of an NP-Complete Problem,Two-Sphere Partition Functions and Gromov-Witten Invariants,0.024913
+A Quantum Adiabatic Evolution Algorithm Applied to Random Instances of an NP-Complete Problem,Falling D0-Branes in 2D Superstring Theory,0.115296
+A Quantum Adiabatic Evolution Algorithm Applied to Random Instances of an NP-Complete Problem,Towards the Massless Spectrum of Non-Kahler Heterotic Compactifications,0.033796
+Black hole scattering from monodromy,Linear Models for Flux Vacua,0.33188
+Black hole scattering from monodromy,Black hole monodromy and conformal field theory,0.651432
+Black hole scattering from monodromy,Gauge/gravity duality in heterotic string theory,0.285
+Black hole scattering from monodromy,String theory on warped AdS3 and Virasoro resonances,0.368081
+Black hole scattering from monodromy,Towards the massless spectrum of non-Kähler heterotic compactifications,0.418267
+Black hole scattering from monodromy,Nearing the Horizon of a Heterotic String,0.31878
+Black hole scattering from monodromy,Two-Sphere Partition Functions and Gromov-Witten Invariants,0.337097
+Black hole scattering from monodromy,Falling D0-Branes in 2D Superstring Theory,0.28775
+Black hole scattering from monodromy,Towards the Massless Spectrum of Non-Kahler Heterotic Compactifications,0.418203
+Linear Models for Flux Vacua,Black hole monodromy and conformal field theory,0.350142
+Linear Models for Flux Vacua,Gauge/gravity duality in heterotic string theory,0.627796
+Linear Models for Flux Vacua,String theory on warped AdS3 and Virasoro resonances,0.537159
+Linear Models for Flux Vacua,Towards the massless spectrum of non-Kähler heterotic compactifications,0.553432
+Linear Models for Flux Vacua,Nearing the Horizon of a Heterotic String,0.587338
+Linear Models for Flux Vacua,Two-Sphere Partition Functions and Gromov-Witten Invariants,0.660971
+Linear Models for Flux Vacua,Falling D0-Branes in 2D Superstring Theory,0.520701
+Linear Models for Flux Vacua,Towards the Massless Spectrum of Non-Kahler Heterotic Compactifications,0.553515
+Black hole monodromy and conformal field theory,Gauge/gravity duality in heterotic string theory,0.359115
+Black hole monodromy and conformal field theory,String theory on warped AdS3 and Virasoro resonances,0.424918
+Black hole monodromy and conformal field theory,Towards the massless spectrum of non-Kähler heterotic compactifications,0.291457
+Black hole monodromy and conformal field theory,Nearing the Horizon of a Heterotic String,0.366
+Black hole monodromy and conformal field theory,Two-Sphere Partition Functions and Gromov-Witten Invariants,0.293584
+Black hole monodromy and conformal field theory,Falling D0-Branes in 2D Superstring Theory,0.219661
+Black hole monodromy and conformal field theory,Towards the Massless Spectrum of Non-Kahler Heterotic Compactifications,0.291784
+Gauge/gravity duality in heterotic string theory,String theory on warped AdS3 and Virasoro resonances,0.620254
+Gauge/gravity duality in heterotic string theory,Towards the massless spectrum of non-Kähler heterotic compactifications,0.555177
+Gauge/gravity duality in heterotic string theory,Nearing the Horizon of a Heterotic String,0.656046
+Gauge/gravity duality in heterotic string theory,Two-Sphere Partition Functions and Gromov-Witten Invariants,0.639502
+Gauge/gravity duality in heterotic string theory,Falling D0-Branes in 2D Superstring Theory,0.594425
+Gauge/gravity duality in heterotic string theory,Towards the Massless Spectrum of Non-Kahler Heterotic Compactifications,0.552201
+String theory on warped AdS3 and Virasoro resonances,Towards the massless spectrum of non-Kähler heterotic compactifications,0.434897
+String theory on warped AdS3 and Virasoro resonances,Nearing the Horizon of a Heterotic String,0.720274
+String theory on warped AdS3 and Virasoro resonances,Two-Sphere Partition Functions and Gromov-Witten Invariants,0.529949
+String theory on warped AdS3 and Virasoro resonances,Falling D0-Branes in 2D Superstring Theory,0.518578
+String theory on warped AdS3 and Virasoro resonances,Towards the Massless Spectrum of Non-Kahler Heterotic Compactifications,0.433522
+Towards the massless spectrum of non-Kähler heterotic compactifications,Nearing the Horizon of a Heterotic String,0.468865
+Towards the massless spectrum of non-Kähler heterotic compactifications,Two-Sphere Partition Functions and Gromov-Witten Invariants,0.607838
+Towards the massless spectrum of non-Kähler heterotic compactifications,Falling D0-Branes in 2D Superstring Theory,0.404044
+Towards the massless spectrum of non-Kähler heterotic compactifications,Towards the Massless Spectrum of Non-Kahler Heterotic Compactifications,0.999359
+Nearing the Horizon of a Heterotic String,Two-Sphere Partition Functions and Gromov-Witten Invariants,0.527904
+Nearing the Horizon of a Heterotic String,Falling D0-Branes in 2D Superstring Theory,0.583035
+Nearing the Horizon of a Heterotic String,Towards the Massless Spectrum of Non-Kahler Heterotic Compactifications,0.466628
+Two-Sphere Partition Functions and Gromov-Witten Invariants,Falling D0-Branes in 2D Superstring Theory,0.494305
+Two-Sphere Partition Functions and Gromov-Witten Invariants,Towards the Massless Spectrum of Non-Kahler Heterotic Compactifications,0.611438
+Falling D0-Branes in 2D Superstring Theory,Towards the Massless Spectrum of Non-Kahler Heterotic Compactifications,0.399462

@@ -1,4 +1,4 @@
-abstract_i,abstract_j,cosine_similarity
-0,1,0.339396
-0,2,0.48392
-1,2,0.262191
+title_i,title_j,cosine_similarity
+High-level triggers in ATLAS,Study of the Radiation Hardness Performance of PiN diodes for the ATLAS Pixel Detector at the SLHC upgrade,0.48392
+High-level triggers in ATLAS,Bottom Production,0.339396
+Study of the Radiation Hardness Performance of PiN diodes for the ATLAS Pixel Detector at the SLHC upgrade,Bottom Production,0.262191

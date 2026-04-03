@@ -1,0 +1,16 @@
+title_i,title_j,cosine_similarity
+SU‐FF‐T‐363: Plastic Scintillator Preparation and Coupling in Scintillation Dosimetry,SU‐C‐304‐03: Experimental Investigation On the Accuracy of Plastic Scintillation Dosimeters in Small Fields,0.694994
+SU‐FF‐T‐363: Plastic Scintillator Preparation and Coupling in Scintillation Dosimetry,SU‐E‐T‐265: Reducing Pacemaker Doses with a Lead Sheet: A Multi‐Detector Study,0.28786
+SU‐FF‐T‐363: Plastic Scintillator Preparation and Coupling in Scintillation Dosimetry,WE‐G‐BRB‐06: Real‐Time Radiation Field Tracking Using Long Scintillating Fibers,0.570766
+SU‐FF‐T‐363: Plastic Scintillator Preparation and Coupling in Scintillation Dosimetry,Sci-Thur AM: Planning - 02: Validation of XiO's eMC module using Gafchromic EBT3 films and triple channel dosimetry,0.408999
+SU‐FF‐T‐363: Plastic Scintillator Preparation and Coupling in Scintillation Dosimetry,TH-C-T-617-09: Wide Energy Metallic Build-Up Caps for MOSFET Dosimeters: Monte Carlo Simulation and Experimental Study of Dose Correction Factors at Dmax,0.487824
+SU‐C‐304‐03: Experimental Investigation On the Accuracy of Plastic Scintillation Dosimeters in Small Fields,SU‐E‐T‐265: Reducing Pacemaker Doses with a Lead Sheet: A Multi‐Detector Study,0.316894
+SU‐C‐304‐03: Experimental Investigation On the Accuracy of Plastic Scintillation Dosimeters in Small Fields,WE‐G‐BRB‐06: Real‐Time Radiation Field Tracking Using Long Scintillating Fibers,0.513514
+SU‐C‐304‐03: Experimental Investigation On the Accuracy of Plastic Scintillation Dosimeters in Small Fields,Sci-Thur AM: Planning - 02: Validation of XiO's eMC module using Gafchromic EBT3 films and triple channel dosimetry,0.547285
+SU‐C‐304‐03: Experimental Investigation On the Accuracy of Plastic Scintillation Dosimeters in Small Fields,TH-C-T-617-09: Wide Energy Metallic Build-Up Caps for MOSFET Dosimeters: Monte Carlo Simulation and Experimental Study of Dose Correction Factors at Dmax,0.631143
+SU‐E‐T‐265: Reducing Pacemaker Doses with a Lead Sheet: A Multi‐Detector Study,WE‐G‐BRB‐06: Real‐Time Radiation Field Tracking Using Long Scintillating Fibers,0.321298
+SU‐E‐T‐265: Reducing Pacemaker Doses with a Lead Sheet: A Multi‐Detector Study,Sci-Thur AM: Planning - 02: Validation of XiO's eMC module using Gafchromic EBT3 films and triple channel dosimetry,0.406021
+SU‐E‐T‐265: Reducing Pacemaker Doses with a Lead Sheet: A Multi‐Detector Study,TH-C-T-617-09: Wide Energy Metallic Build-Up Caps for MOSFET Dosimeters: Monte Carlo Simulation and Experimental Study of Dose Correction Factors at Dmax,0.452494
+WE‐G‐BRB‐06: Real‐Time Radiation Field Tracking Using Long Scintillating Fibers,Sci-Thur AM: Planning - 02: Validation of XiO's eMC module using Gafchromic EBT3 films and triple channel dosimetry,0.317418
+WE‐G‐BRB‐06: Real‐Time Radiation Field Tracking Using Long Scintillating Fibers,TH-C-T-617-09: Wide Energy Metallic Build-Up Caps for MOSFET Dosimeters: Monte Carlo Simulation and Experimental Study of Dose Correction Factors at Dmax,0.377272
+Sci-Thur AM: Planning - 02: Validation of XiO's eMC module using Gafchromic EBT3 films and triple channel dosimetry,TH-C-T-617-09: Wide Energy Metallic Build-Up Caps for MOSFET Dosimeters: Monte Carlo Simulation and Experimental Study of Dose Correction Factors at Dmax,0.67075

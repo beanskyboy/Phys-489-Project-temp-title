@@ -1,529 +1,497 @@
-abstract_i,abstract_j,cosine_similarity
-0,1,0.65749
-0,2,0.723884
-0,3,0.612225
-0,4,0.693407
-0,5,0.671147
-0,6,0.630572
-0,7,0.745211
-0,8,0.536702
-0,9,0.594541
-0,10,0.672269
-0,11,0.718204
-0,12,0.584985
-0,13,0.539451
-0,14,0.555116
-0,15,0.376246
-0,16,0.431969
-0,17,0.61982
-0,18,0.739126
-0,19,0.544286
-0,20,0.29037
-0,21,0.775288
-0,22,0.487392
-0,23,0.407576
-0,24,0.289028
-0,25,0.688675
-0,26,0.772736
-0,27,0.765163
-0,28,0.754585
-0,29,0.61051
-0,30,0.830465
-0,31,0.747293
-0,32,0.721795
-1,2,0.648671
-1,3,0.653362
-1,4,0.597269
-1,5,0.607531
-1,6,0.531295
-1,7,0.62013
-1,8,0.498737
-1,9,0.593882
-1,10,0.601599
-1,11,0.477995
-1,12,0.592012
-1,13,0.343735
-1,14,0.509427
-1,15,0.450859
-1,16,0.421861
-1,17,0.622436
-1,18,0.646468
-1,19,0.504479
-1,20,0.277572
-1,21,0.607771
-1,22,0.405271
-1,23,0.393929
-1,24,0.253042
-1,25,0.586829
-1,26,0.662626
-1,27,0.667032
-1,28,0.563017
-1,29,0.621275
-1,30,0.592015
-1,31,0.599887
-1,32,0.484107
-2,3,0.616219
-2,4,0.739159
-2,5,0.572948
-2,6,0.634471
-2,7,0.687868
-2,8,0.540829
-2,9,0.628905
-2,10,0.758079
-2,11,0.679447
-2,12,0.577049
-2,13,0.42606
-2,14,0.559188
-2,15,0.431333
-2,16,0.452463
-2,17,0.656909
-2,18,0.762078
-2,19,0.500479
-2,20,0.29618
-2,21,0.807589
-2,22,0.486263
-2,23,0.384487
-2,24,0.232725
-2,25,0.669413
-2,26,0.793893
-2,27,0.712821
-2,28,0.630904
-2,29,0.620136
-2,30,0.720607
-2,31,0.684875
-2,32,0.68371
-3,4,0.567662
-3,5,0.622646
-3,6,0.48976
-3,7,0.567494
-3,8,0.548625
-3,9,0.647374
-3,10,0.616424
-3,11,0.49899
-3,12,0.588868
-3,13,0.27169
-3,14,0.51125
-3,15,0.67975
-3,16,0.442361
-3,17,0.663027
-3,18,0.653029
-3,19,0.437397
-3,20,0.225344
-3,21,0.605095
-3,22,0.41366
-3,23,0.363609
-3,24,0.282536
-3,25,0.502734
-3,26,0.682185
-3,27,0.617095
-3,28,0.51561
-3,29,0.691971
-3,30,0.559628
-3,31,0.534582
-3,32,0.49683
-4,5,0.583644
-4,6,0.613307
-4,7,0.681112
-4,8,0.49099
-4,9,0.596071
-4,10,0.703228
-4,11,0.608677
-4,12,0.563502
-4,13,0.334127
-4,14,0.498554
-4,15,0.414464
-4,16,0.409918
-4,17,0.678466
-4,18,0.76409
-4,19,0.487177
-4,20,0.274721
-4,21,0.723971
-4,22,0.355811
-4,23,0.335875
-4,24,0.270141
-4,25,0.610674
-4,26,0.721314
-4,27,0.74921
-4,28,0.648664
-4,29,0.618157
-4,30,0.665437
-4,31,0.707227
-4,32,0.611676
-5,6,0.625937
-5,7,0.54837
-5,8,0.553613
-5,9,0.646748
-5,10,0.681144
-5,11,0.511393
-5,12,0.735273
-5,13,0.340203
-5,14,0.514281
-5,15,0.512794
-5,16,0.441828
-5,17,0.675899
-5,18,0.650569
-5,19,0.471732
-5,20,0.260954
-5,21,0.606015
-5,22,0.52361
-5,23,0.372164
-5,24,0.185208
-5,25,0.598678
-5,26,0.603713
-5,27,0.597482
-5,28,0.60696
-5,29,0.628387
-5,30,0.583115
-5,31,0.555186
-5,32,0.509204
-6,7,0.555029
-6,8,0.424429
-6,9,0.565016
-6,10,0.650538
-6,11,0.636965
-6,12,0.587331
-6,13,0.512052
-6,14,0.55884
-6,15,0.368015
-6,16,0.381825
-6,17,0.644135
-6,18,0.630991
-6,19,0.444429
-6,20,0.376518
-6,21,0.646378
-6,22,0.459521
-6,23,0.33041
-6,24,0.244828
-6,25,0.702428
-6,26,0.503373
-6,27,0.620412
-6,28,0.69488
-6,29,0.516371
-6,30,0.579287
-6,31,0.601249
-6,32,0.638264
-7,8,0.554541
-7,9,0.57125
-7,10,0.656063
-7,11,0.587226
-7,12,0.439749
-7,13,0.412564
-7,14,0.557745
-7,15,0.388389
-7,16,0.495513
-7,17,0.593851
-7,18,0.678188
-7,19,0.567807
-7,20,0.287715
-7,21,0.657952
-7,22,0.43332
-7,23,0.426815
-7,24,0.340688
-7,25,0.65969
-7,26,0.762432
-7,27,0.710464
-7,28,0.618751
-7,29,0.632479
-7,30,0.658434
-7,31,0.766485
-7,32,0.591535
-8,9,0.618702
-8,10,0.60364
-8,11,0.453861
-8,12,0.513657
-8,13,0.183268
-8,14,0.391969
-8,15,0.551766
-8,16,0.2693
-8,17,0.627637
-8,18,0.524073
-8,19,0.345851
-8,20,0.239401
-8,21,0.556741
-8,22,0.443236
-8,23,0.299031
-8,24,0.105713
-8,25,0.451515
-8,26,0.573212
-8,27,0.471185
-8,28,0.402659
-8,29,0.550907
-8,30,0.470349
-8,31,0.561228
-8,32,0.460403
-9,10,0.617688
-9,11,0.510686
-9,12,0.621992
-9,13,0.284042
-9,14,0.425287
-9,15,0.540692
-9,16,0.406881
-9,17,0.873088
-9,18,0.662601
-9,19,0.424906
-9,20,0.288697
-9,21,0.602036
-9,22,0.474298
-9,23,0.408816
-9,24,0.210422
-9,25,0.533311
-9,26,0.709977
-9,27,0.579785
-9,28,0.537837
-9,29,0.659677
-9,30,0.571554
-9,31,0.53935
-9,32,0.508636
-10,11,0.620555
-10,12,0.678402
-10,13,0.383942
-10,14,0.566025
-10,15,0.495045
-10,16,0.468474
-10,17,0.705475
-10,18,0.75246
-10,19,0.460727
-10,20,0.313568
-10,21,0.675604
-10,22,0.507723
-10,23,0.351994
-10,24,0.24591
-10,25,0.634316
-10,26,0.664032
-10,27,0.697529
-10,28,0.567454
-10,29,0.672422
-10,30,0.588849
-10,31,0.651464
-10,32,0.621851
-11,12,0.516725
-11,13,0.558295
-11,14,0.508921
-11,15,0.355907
-11,16,0.371166
-11,17,0.546058
-11,18,0.649921
-11,19,0.458621
-11,20,0.317041
-11,21,0.73898
-11,22,0.539714
-11,23,0.405894
-11,24,0.243721
-11,25,0.675264
-11,26,0.62122
-11,27,0.671168
-11,28,0.667733
-11,29,0.561465
-11,30,0.756445
-11,31,0.61566
-11,32,0.996498
-12,13,0.341702
-12,14,0.465316
-12,15,0.520473
-12,16,0.353951
-12,17,0.657809
-12,18,0.604518
-12,19,0.386298
-12,20,0.349645
-12,21,0.598671
-12,22,0.465306
-12,23,0.323064
-12,24,0.140852
-12,25,0.551739
-12,26,0.55927
-12,27,0.543974
-12,28,0.543213
-12,29,0.572625
-12,30,0.559891
-12,31,0.487469
-12,32,0.521407
-13,14,0.488395
-13,15,0.196959
-13,16,0.356718
-13,17,0.345026
-13,18,0.48079
-13,19,0.465746
-13,20,0.209798
-13,21,0.3718
-13,22,0.230312
-13,23,0.329135
-13,24,0.270548
-13,25,0.583842
-13,26,0.403447
-13,27,0.429139
-13,28,0.526875
-13,29,0.327795
-13,30,0.611088
-13,31,0.407801
-13,32,0.551515
-14,15,0.337568
-14,16,0.434782
-14,17,0.498034
-14,18,0.620537
-14,19,0.497594
-14,20,0.16267
-14,21,0.533654
-14,22,0.328223
-14,23,0.37779
-14,24,0.234709
-14,25,0.620942
-14,26,0.525817
-14,27,0.660756
-14,28,0.578779
-14,29,0.465316
-14,30,0.557847
-14,31,0.578241
-14,32,0.501751
-15,16,0.375466
-15,17,0.528796
-15,18,0.478062
-15,19,0.323195
-15,20,0.300744
-15,21,0.445469
-15,22,0.349514
-15,23,0.328144
-15,24,0.214311
-15,25,0.433504
-15,26,0.474985
-15,27,0.407183
-15,28,0.352333
-15,29,0.510836
-15,30,0.375857
-15,31,0.380512
-15,32,0.358985
-16,17,0.404731
-16,18,0.452609
-16,19,0.760513
-16,20,0.148243
-16,21,0.387562
-16,22,0.389542
-16,23,0.74243
-16,24,0.284611
-16,25,0.482222
-16,26,0.496111
-16,27,0.439142
-16,28,0.394958
-16,29,0.492912
-16,30,0.373947
-16,31,0.420267
-16,32,0.373546
-17,18,0.747847
-17,19,0.451073
-17,20,0.2815
-17,21,0.650016
-17,22,0.48357
-17,23,0.375617
-17,24,0.220899
-17,25,0.5793
-17,26,0.699744
-17,27,0.662763
-17,28,0.602827
-17,29,0.685193
-17,30,0.584397
-17,31,0.600873
-17,32,0.542914
-18,19,0.506609
-18,20,0.251323
-18,21,0.74852
-18,22,0.43796
-18,23,0.390881
-18,24,0.257216
-18,25,0.644922
-18,26,0.77336
-18,27,0.77076
-18,28,0.663428
-18,29,0.68446
-18,30,0.73136
-18,31,0.673688
-18,32,0.64774
-19,20,0.185256
-19,21,0.416267
-19,22,0.404891
-19,23,0.717904
-19,24,0.334867
-19,25,0.546312
-19,26,0.534788
-19,27,0.496344
-19,28,0.50682
-19,29,0.455646
-19,30,0.531411
-19,31,0.468362
-19,32,0.464139
-20,21,0.301194
-20,22,0.272327
-20,23,0.179455
-20,24,0.258249
-20,25,0.316782
-20,26,0.253923
-20,27,0.301493
-20,28,0.30288
-20,29,0.217163
-20,30,0.250255
-20,31,0.229847
-20,32,0.328489
-21,22,0.50833
-21,23,0.369642
-21,24,0.163684
-21,25,0.738895
-21,26,0.77623
-21,27,0.772507
-21,28,0.656559
-21,29,0.630296
-21,30,0.744055
-21,31,0.705904
-21,32,0.745332
-22,23,0.416712
-22,24,0.219006
-22,25,0.401667
-22,26,0.466212
-22,27,0.37624
-22,28,0.475298
-22,29,0.455664
-22,30,0.460014
-22,31,0.426913
-22,32,0.539024
-23,24,0.302056
-23,25,0.456855
-23,26,0.46055
-23,27,0.415906
-23,28,0.400776
-23,29,0.394011
-23,30,0.35362
-23,31,0.380733
-23,32,0.411429
-24,25,0.202933
-24,26,0.249325
-24,27,0.294572
-24,28,0.241985
-24,29,0.243201
-24,30,0.257998
-24,31,0.28466
-24,32,0.242865
-25,26,0.642638
-25,27,0.772193
-25,28,0.729951
-25,29,0.557225
-25,30,0.681209
-25,31,0.690117
-25,32,0.674674
-26,27,0.753153
-26,28,0.672654
-26,29,0.689944
-26,30,0.767348
-26,31,0.692753
-26,32,0.624518
-27,28,0.74346
-27,29,0.654444
-27,30,0.715265
-27,31,0.789248
-27,32,0.672591
-28,29,0.535456
-28,30,0.751704
-28,31,0.682787
-28,32,0.668732
-29,30,0.585311
-29,31,0.59069
-29,32,0.561267
-30,31,0.695574
-30,32,0.75869
-31,32,0.616645
+title_i,title_j,cosine_similarity
+Ternary solar cells with a mixed face-on and edge-on orientation enable an unprecedented efficiency of 12.1%,Organic Photovoltaics with Multiple Donor–Acceptor Pairs,0.2815
+Ternary solar cells with a mixed face-on and edge-on orientation enable an unprecedented efficiency of 12.1%,CF<sub>3</sub>-Terminated Side Chain Enables Efficiencies Surpassing 18.2% and 16.1% in Small- and Large-Scale Manufacturing of Organic Solar Cells,0.217163
+Ternary solar cells with a mixed face-on and edge-on orientation enable an unprecedented efficiency of 12.1%,Siloxane Side Chains: A Universal Tool for Practical Applications of Organic Field-Effect Transistors,0.29037
+Ternary solar cells with a mixed face-on and edge-on orientation enable an unprecedented efficiency of 12.1%,Naphthalene as a Thermal‐Annealing‐Free Volatile Solid Additive in Non‐Fullerene Polymer Solar Cells with Improved Performance and Reproducibility,0.260954
+Ternary solar cells with a mixed face-on and edge-on orientation enable an unprecedented efficiency of 12.1%,A Role of Side-Chain Regiochemistry of Thienylene–Vinylene–Thienylene (TVT) in the Transistor Performance of Isomeric Polymers,0.316782
+Ternary solar cells with a mixed face-on and edge-on orientation enable an unprecedented efficiency of 12.1%,Volatilizable and cost-effective quinone-based solid additives for improving photovoltaic performance and morphological stability in non-fullerene polymer solar cells,0.349645
+Ternary solar cells with a mixed face-on and edge-on orientation enable an unprecedented efficiency of 12.1%,"Triisopropylsilyl‐Substituted Benzo[1,2‐<i>b</i>:4,5‐<i>c</i>′]dithiophene‐4,8‐dione‐Containing Copolymers with More Than 17% Efficiency in Organic Solar Cells",0.313568
+Ternary solar cells with a mixed face-on and edge-on orientation enable an unprecedented efficiency of 12.1%,Effect of Third Component on Efficiency and Stability in Ternary Organic Solar Cells: More than a Simple Superposition,0.288697
+Ternary solar cells with a mixed face-on and edge-on orientation enable an unprecedented efficiency of 12.1%,Highly efficient layer-by-layer large-scale manufacturing of polymer solar cells with minimized device-to-device variations by employing benzothiadiazole-based solid additives,0.272327
+Ternary solar cells with a mixed face-on and edge-on orientation enable an unprecedented efficiency of 12.1%,Multifaceted Role of a Dibutylhydroxytoluene Processing Additive in Enhancing the Efficiency and Stability of Planar Perovskite Solar Cells,0.300744
+Ternary solar cells with a mixed face-on and edge-on orientation enable an unprecedented efficiency of 12.1%,Ambipolar Passivated Back Surface Field Layer for Silicon Photovoltaics,0.239401
+Ternary solar cells with a mixed face-on and edge-on orientation enable an unprecedented efficiency of 12.1%,"An Ultrahigh Mobility in Isomorphic Fluorobenzo[<i>c</i>][1,2,5]thiadiazole‐Based Polymers",0.328489
+Ternary solar cells with a mixed face-on and edge-on orientation enable an unprecedented efficiency of 12.1%,"Chlorinated 2,1,3-Benzothiadiazole-Based Polymers for Organic Field-Effect Transistors",0.301194
+Ternary solar cells with a mixed face-on and edge-on orientation enable an unprecedented efficiency of 12.1%,Diazapentalene-Containing Ultralow-Band-Gap Copolymers for High-Performance Near-Infrared Organic Phototransistors,0.274721
+Ternary solar cells with a mixed face-on and edge-on orientation enable an unprecedented efficiency of 12.1%,Bioderived and Eco-Friendly Solvent-Processed High-Mobility Ambipolar Plastic Transistors through Controlled Irregularity of the Polymer Backbone,0.301493
+Ternary solar cells with a mixed face-on and edge-on orientation enable an unprecedented efficiency of 12.1%,Densely Packed Random Quarterpolymers Containing Two Donor and Two Acceptor Units: Controlling Absorption Ability and Molecular Interaction to Enable Enhanced Polymer Photovoltaic Devices,0.376518
+Ternary solar cells with a mixed face-on and edge-on orientation enable an unprecedented efficiency of 12.1%,Usefulness of Polar and Bulky Phosphonate Chain-End Solubilizing Groups in Polymeric Semiconductors,0.229847
+Ternary solar cells with a mixed face-on and edge-on orientation enable an unprecedented efficiency of 12.1%,Effects of the Polarity and Bulkiness of End-Functionalized Side Chains on the Charge Transport of Dicyanovinyl-End-Capped Diketopyrrolopyrrole-Based n-Type Small Molecules,0.287715
+Ternary solar cells with a mixed face-on and edge-on orientation enable an unprecedented efficiency of 12.1%,Low‐Temperature Processed Efficient and Reproducible Blade‐Coating Organic Photovoltaic Devices with <i>γ</i>‐Position Branched Inner Side Chains‐Containing Nonfullerene Acceptor,0.277572
+Ternary solar cells with a mixed face-on and edge-on orientation enable an unprecedented efficiency of 12.1%,Ion slippage through Li <sup>+</sup> -centered G-quadruplex,0.179455
+Ternary solar cells with a mixed face-on and edge-on orientation enable an unprecedented efficiency of 12.1%,Pechmann Dye‐Containing Diketopyrrolopyrrole‐Based Stretchable Polymer Semiconductors,0.30288
+Ternary solar cells with a mixed face-on and edge-on orientation enable an unprecedented efficiency of 12.1%,Guanine‐Based G‐Quadruplexes Templated by Various Cations toward Potential Use as Single‐Ion Conductors,0.148243
+Ternary solar cells with a mixed face-on and edge-on orientation enable an unprecedented efficiency of 12.1%,Rigid Fluorescent Indacenetetraone‐Based Semiconducting Polymers via Knoevenagel Condensation,0.251323
+Ternary solar cells with a mixed face-on and edge-on orientation enable an unprecedented efficiency of 12.1%,Viable Regiochemical Control in Semiconducting Polymers for Field-Effect Transistors: From High-Mobility Enhancement toward High Deformability,0.250255
+Ternary solar cells with a mixed face-on and edge-on orientation enable an unprecedented efficiency of 12.1%,Antioxidant Additive with a High Dielectric Constant for High Photo‐Oxidative Stabilization of Organic Solar Cells without Almost Sacrificing Initial High Efficiencies,0.225344
+Ternary solar cells with a mixed face-on and edge-on orientation enable an unprecedented efficiency of 12.1%,"Dithienosilole-<i>co</i>-5-fluoro-2,1,3-benzothiadiazole-containing regioisomeric polymers for organic field-effect transistors",0.209798
+Ternary solar cells with a mixed face-on and edge-on orientation enable an unprecedented efficiency of 12.1%,Understanding of copolymers containing pyridine and selenophene simultaneously and their polarity conversion in transistors,0.16267
+Ternary solar cells with a mixed face-on and edge-on orientation enable an unprecedented efficiency of 12.1%,An efficient lactone-to-lactam conversion for the synthesis of thiophene Pechmann lactam and the characterization of polymers thereof,0.258249
+Ternary solar cells with a mixed face-on and edge-on orientation enable an unprecedented efficiency of 12.1%,Advances in Discrete Length and Fused Conjugated Oligomers,0.29618
+Ternary solar cells with a mixed face-on and edge-on orientation enable an unprecedented efficiency of 12.1%,Investigation of Organic Conjugated Materials to Understand the Structure-Property Relationships for High-Performance Organic Electronics,0.253923
+Ternary solar cells with a mixed face-on and edge-on orientation enable an unprecedented efficiency of 12.1%,Shape‐Controlled Guanine Self‐Assemblies for Stable and Fast‐Ion Solid–Electrolyte Interphases in Sustainable Li Metal Batteries,0.185256
+Organic Photovoltaics with Multiple Donor–Acceptor Pairs,CF<sub>3</sub>-Terminated Side Chain Enables Efficiencies Surpassing 18.2% and 16.1% in Small- and Large-Scale Manufacturing of Organic Solar Cells,0.685193
+Organic Photovoltaics with Multiple Donor–Acceptor Pairs,Siloxane Side Chains: A Universal Tool for Practical Applications of Organic Field-Effect Transistors,0.61982
+Organic Photovoltaics with Multiple Donor–Acceptor Pairs,Naphthalene as a Thermal‐Annealing‐Free Volatile Solid Additive in Non‐Fullerene Polymer Solar Cells with Improved Performance and Reproducibility,0.675899
+Organic Photovoltaics with Multiple Donor–Acceptor Pairs,A Role of Side-Chain Regiochemistry of Thienylene–Vinylene–Thienylene (TVT) in the Transistor Performance of Isomeric Polymers,0.5793
+Organic Photovoltaics with Multiple Donor–Acceptor Pairs,Volatilizable and cost-effective quinone-based solid additives for improving photovoltaic performance and morphological stability in non-fullerene polymer solar cells,0.657809
+Organic Photovoltaics with Multiple Donor–Acceptor Pairs,"Triisopropylsilyl‐Substituted Benzo[1,2‐<i>b</i>:4,5‐<i>c</i>′]dithiophene‐4,8‐dione‐Containing Copolymers with More Than 17% Efficiency in Organic Solar Cells",0.705475
+Organic Photovoltaics with Multiple Donor–Acceptor Pairs,Effect of Third Component on Efficiency and Stability in Ternary Organic Solar Cells: More than a Simple Superposition,0.873088
+Organic Photovoltaics with Multiple Donor–Acceptor Pairs,Highly efficient layer-by-layer large-scale manufacturing of polymer solar cells with minimized device-to-device variations by employing benzothiadiazole-based solid additives,0.48357
+Organic Photovoltaics with Multiple Donor–Acceptor Pairs,Multifaceted Role of a Dibutylhydroxytoluene Processing Additive in Enhancing the Efficiency and Stability of Planar Perovskite Solar Cells,0.528796
+Organic Photovoltaics with Multiple Donor–Acceptor Pairs,Ambipolar Passivated Back Surface Field Layer for Silicon Photovoltaics,0.627637
+Organic Photovoltaics with Multiple Donor–Acceptor Pairs,"An Ultrahigh Mobility in Isomorphic Fluorobenzo[<i>c</i>][1,2,5]thiadiazole‐Based Polymers",0.542914
+Organic Photovoltaics with Multiple Donor–Acceptor Pairs,"Chlorinated 2,1,3-Benzothiadiazole-Based Polymers for Organic Field-Effect Transistors",0.650016
+Organic Photovoltaics with Multiple Donor–Acceptor Pairs,Diazapentalene-Containing Ultralow-Band-Gap Copolymers for High-Performance Near-Infrared Organic Phototransistors,0.678466
+Organic Photovoltaics with Multiple Donor–Acceptor Pairs,Bioderived and Eco-Friendly Solvent-Processed High-Mobility Ambipolar Plastic Transistors through Controlled Irregularity of the Polymer Backbone,0.662763
+Organic Photovoltaics with Multiple Donor–Acceptor Pairs,Densely Packed Random Quarterpolymers Containing Two Donor and Two Acceptor Units: Controlling Absorption Ability and Molecular Interaction to Enable Enhanced Polymer Photovoltaic Devices,0.644135
+Organic Photovoltaics with Multiple Donor–Acceptor Pairs,Usefulness of Polar and Bulky Phosphonate Chain-End Solubilizing Groups in Polymeric Semiconductors,0.600873
+Organic Photovoltaics with Multiple Donor–Acceptor Pairs,Effects of the Polarity and Bulkiness of End-Functionalized Side Chains on the Charge Transport of Dicyanovinyl-End-Capped Diketopyrrolopyrrole-Based n-Type Small Molecules,0.593851
+Organic Photovoltaics with Multiple Donor–Acceptor Pairs,Low‐Temperature Processed Efficient and Reproducible Blade‐Coating Organic Photovoltaic Devices with <i>γ</i>‐Position Branched Inner Side Chains‐Containing Nonfullerene Acceptor,0.622436
+Organic Photovoltaics with Multiple Donor–Acceptor Pairs,Ion slippage through Li <sup>+</sup> -centered G-quadruplex,0.375617
+Organic Photovoltaics with Multiple Donor–Acceptor Pairs,Pechmann Dye‐Containing Diketopyrrolopyrrole‐Based Stretchable Polymer Semiconductors,0.602827
+Organic Photovoltaics with Multiple Donor–Acceptor Pairs,Guanine‐Based G‐Quadruplexes Templated by Various Cations toward Potential Use as Single‐Ion Conductors,0.404731
+Organic Photovoltaics with Multiple Donor–Acceptor Pairs,Rigid Fluorescent Indacenetetraone‐Based Semiconducting Polymers via Knoevenagel Condensation,0.747847
+Organic Photovoltaics with Multiple Donor–Acceptor Pairs,Viable Regiochemical Control in Semiconducting Polymers for Field-Effect Transistors: From High-Mobility Enhancement toward High Deformability,0.584397
+Organic Photovoltaics with Multiple Donor–Acceptor Pairs,Antioxidant Additive with a High Dielectric Constant for High Photo‐Oxidative Stabilization of Organic Solar Cells without Almost Sacrificing Initial High Efficiencies,0.663027
+Organic Photovoltaics with Multiple Donor–Acceptor Pairs,"Dithienosilole-<i>co</i>-5-fluoro-2,1,3-benzothiadiazole-containing regioisomeric polymers for organic field-effect transistors",0.345026
+Organic Photovoltaics with Multiple Donor–Acceptor Pairs,Understanding of copolymers containing pyridine and selenophene simultaneously and their polarity conversion in transistors,0.498034
+Organic Photovoltaics with Multiple Donor–Acceptor Pairs,An efficient lactone-to-lactam conversion for the synthesis of thiophene Pechmann lactam and the characterization of polymers thereof,0.220899
+Organic Photovoltaics with Multiple Donor–Acceptor Pairs,Advances in Discrete Length and Fused Conjugated Oligomers,0.656909
+Organic Photovoltaics with Multiple Donor–Acceptor Pairs,Investigation of Organic Conjugated Materials to Understand the Structure-Property Relationships for High-Performance Organic Electronics,0.699744
+Organic Photovoltaics with Multiple Donor–Acceptor Pairs,Shape‐Controlled Guanine Self‐Assemblies for Stable and Fast‐Ion Solid–Electrolyte Interphases in Sustainable Li Metal Batteries,0.451073
+CF<sub>3</sub>-Terminated Side Chain Enables Efficiencies Surpassing 18.2% and 16.1% in Small- and Large-Scale Manufacturing of Organic Solar Cells,Siloxane Side Chains: A Universal Tool for Practical Applications of Organic Field-Effect Transistors,0.61051
+CF<sub>3</sub>-Terminated Side Chain Enables Efficiencies Surpassing 18.2% and 16.1% in Small- and Large-Scale Manufacturing of Organic Solar Cells,Naphthalene as a Thermal‐Annealing‐Free Volatile Solid Additive in Non‐Fullerene Polymer Solar Cells with Improved Performance and Reproducibility,0.628387
+CF<sub>3</sub>-Terminated Side Chain Enables Efficiencies Surpassing 18.2% and 16.1% in Small- and Large-Scale Manufacturing of Organic Solar Cells,A Role of Side-Chain Regiochemistry of Thienylene–Vinylene–Thienylene (TVT) in the Transistor Performance of Isomeric Polymers,0.557225
+CF<sub>3</sub>-Terminated Side Chain Enables Efficiencies Surpassing 18.2% and 16.1% in Small- and Large-Scale Manufacturing of Organic Solar Cells,Volatilizable and cost-effective quinone-based solid additives for improving photovoltaic performance and morphological stability in non-fullerene polymer solar cells,0.572625
+CF<sub>3</sub>-Terminated Side Chain Enables Efficiencies Surpassing 18.2% and 16.1% in Small- and Large-Scale Manufacturing of Organic Solar Cells,"Triisopropylsilyl‐Substituted Benzo[1,2‐<i>b</i>:4,5‐<i>c</i>′]dithiophene‐4,8‐dione‐Containing Copolymers with More Than 17% Efficiency in Organic Solar Cells",0.672422
+CF<sub>3</sub>-Terminated Side Chain Enables Efficiencies Surpassing 18.2% and 16.1% in Small- and Large-Scale Manufacturing of Organic Solar Cells,Effect of Third Component on Efficiency and Stability in Ternary Organic Solar Cells: More than a Simple Superposition,0.659677
+CF<sub>3</sub>-Terminated Side Chain Enables Efficiencies Surpassing 18.2% and 16.1% in Small- and Large-Scale Manufacturing of Organic Solar Cells,Highly efficient layer-by-layer large-scale manufacturing of polymer solar cells with minimized device-to-device variations by employing benzothiadiazole-based solid additives,0.455664
+CF<sub>3</sub>-Terminated Side Chain Enables Efficiencies Surpassing 18.2% and 16.1% in Small- and Large-Scale Manufacturing of Organic Solar Cells,Multifaceted Role of a Dibutylhydroxytoluene Processing Additive in Enhancing the Efficiency and Stability of Planar Perovskite Solar Cells,0.510836
+CF<sub>3</sub>-Terminated Side Chain Enables Efficiencies Surpassing 18.2% and 16.1% in Small- and Large-Scale Manufacturing of Organic Solar Cells,Ambipolar Passivated Back Surface Field Layer for Silicon Photovoltaics,0.550907
+CF<sub>3</sub>-Terminated Side Chain Enables Efficiencies Surpassing 18.2% and 16.1% in Small- and Large-Scale Manufacturing of Organic Solar Cells,"An Ultrahigh Mobility in Isomorphic Fluorobenzo[<i>c</i>][1,2,5]thiadiazole‐Based Polymers",0.561267
+CF<sub>3</sub>-Terminated Side Chain Enables Efficiencies Surpassing 18.2% and 16.1% in Small- and Large-Scale Manufacturing of Organic Solar Cells,"Chlorinated 2,1,3-Benzothiadiazole-Based Polymers for Organic Field-Effect Transistors",0.630296
+CF<sub>3</sub>-Terminated Side Chain Enables Efficiencies Surpassing 18.2% and 16.1% in Small- and Large-Scale Manufacturing of Organic Solar Cells,Diazapentalene-Containing Ultralow-Band-Gap Copolymers for High-Performance Near-Infrared Organic Phototransistors,0.618157
+CF<sub>3</sub>-Terminated Side Chain Enables Efficiencies Surpassing 18.2% and 16.1% in Small- and Large-Scale Manufacturing of Organic Solar Cells,Bioderived and Eco-Friendly Solvent-Processed High-Mobility Ambipolar Plastic Transistors through Controlled Irregularity of the Polymer Backbone,0.654444
+CF<sub>3</sub>-Terminated Side Chain Enables Efficiencies Surpassing 18.2% and 16.1% in Small- and Large-Scale Manufacturing of Organic Solar Cells,Densely Packed Random Quarterpolymers Containing Two Donor and Two Acceptor Units: Controlling Absorption Ability and Molecular Interaction to Enable Enhanced Polymer Photovoltaic Devices,0.516371
+CF<sub>3</sub>-Terminated Side Chain Enables Efficiencies Surpassing 18.2% and 16.1% in Small- and Large-Scale Manufacturing of Organic Solar Cells,Usefulness of Polar and Bulky Phosphonate Chain-End Solubilizing Groups in Polymeric Semiconductors,0.59069
+CF<sub>3</sub>-Terminated Side Chain Enables Efficiencies Surpassing 18.2% and 16.1% in Small- and Large-Scale Manufacturing of Organic Solar Cells,Effects of the Polarity and Bulkiness of End-Functionalized Side Chains on the Charge Transport of Dicyanovinyl-End-Capped Diketopyrrolopyrrole-Based n-Type Small Molecules,0.632479
+CF<sub>3</sub>-Terminated Side Chain Enables Efficiencies Surpassing 18.2% and 16.1% in Small- and Large-Scale Manufacturing of Organic Solar Cells,Low‐Temperature Processed Efficient and Reproducible Blade‐Coating Organic Photovoltaic Devices with <i>γ</i>‐Position Branched Inner Side Chains‐Containing Nonfullerene Acceptor,0.621275
+CF<sub>3</sub>-Terminated Side Chain Enables Efficiencies Surpassing 18.2% and 16.1% in Small- and Large-Scale Manufacturing of Organic Solar Cells,Ion slippage through Li <sup>+</sup> -centered G-quadruplex,0.394011
+CF<sub>3</sub>-Terminated Side Chain Enables Efficiencies Surpassing 18.2% and 16.1% in Small- and Large-Scale Manufacturing of Organic Solar Cells,Pechmann Dye‐Containing Diketopyrrolopyrrole‐Based Stretchable Polymer Semiconductors,0.535456
+CF<sub>3</sub>-Terminated Side Chain Enables Efficiencies Surpassing 18.2% and 16.1% in Small- and Large-Scale Manufacturing of Organic Solar Cells,Guanine‐Based G‐Quadruplexes Templated by Various Cations toward Potential Use as Single‐Ion Conductors,0.492912
+CF<sub>3</sub>-Terminated Side Chain Enables Efficiencies Surpassing 18.2% and 16.1% in Small- and Large-Scale Manufacturing of Organic Solar Cells,Rigid Fluorescent Indacenetetraone‐Based Semiconducting Polymers via Knoevenagel Condensation,0.68446
+CF<sub>3</sub>-Terminated Side Chain Enables Efficiencies Surpassing 18.2% and 16.1% in Small- and Large-Scale Manufacturing of Organic Solar Cells,Viable Regiochemical Control in Semiconducting Polymers for Field-Effect Transistors: From High-Mobility Enhancement toward High Deformability,0.585311
+CF<sub>3</sub>-Terminated Side Chain Enables Efficiencies Surpassing 18.2% and 16.1% in Small- and Large-Scale Manufacturing of Organic Solar Cells,Antioxidant Additive with a High Dielectric Constant for High Photo‐Oxidative Stabilization of Organic Solar Cells without Almost Sacrificing Initial High Efficiencies,0.691971
+CF<sub>3</sub>-Terminated Side Chain Enables Efficiencies Surpassing 18.2% and 16.1% in Small- and Large-Scale Manufacturing of Organic Solar Cells,"Dithienosilole-<i>co</i>-5-fluoro-2,1,3-benzothiadiazole-containing regioisomeric polymers for organic field-effect transistors",0.327795
+CF<sub>3</sub>-Terminated Side Chain Enables Efficiencies Surpassing 18.2% and 16.1% in Small- and Large-Scale Manufacturing of Organic Solar Cells,Understanding of copolymers containing pyridine and selenophene simultaneously and their polarity conversion in transistors,0.465316
+CF<sub>3</sub>-Terminated Side Chain Enables Efficiencies Surpassing 18.2% and 16.1% in Small- and Large-Scale Manufacturing of Organic Solar Cells,An efficient lactone-to-lactam conversion for the synthesis of thiophene Pechmann lactam and the characterization of polymers thereof,0.243201
+CF<sub>3</sub>-Terminated Side Chain Enables Efficiencies Surpassing 18.2% and 16.1% in Small- and Large-Scale Manufacturing of Organic Solar Cells,Advances in Discrete Length and Fused Conjugated Oligomers,0.620136
+CF<sub>3</sub>-Terminated Side Chain Enables Efficiencies Surpassing 18.2% and 16.1% in Small- and Large-Scale Manufacturing of Organic Solar Cells,Investigation of Organic Conjugated Materials to Understand the Structure-Property Relationships for High-Performance Organic Electronics,0.689944
+CF<sub>3</sub>-Terminated Side Chain Enables Efficiencies Surpassing 18.2% and 16.1% in Small- and Large-Scale Manufacturing of Organic Solar Cells,Shape‐Controlled Guanine Self‐Assemblies for Stable and Fast‐Ion Solid–Electrolyte Interphases in Sustainable Li Metal Batteries,0.455646
+Siloxane Side Chains: A Universal Tool for Practical Applications of Organic Field-Effect Transistors,Naphthalene as a Thermal‐Annealing‐Free Volatile Solid Additive in Non‐Fullerene Polymer Solar Cells with Improved Performance and Reproducibility,0.671147
+Siloxane Side Chains: A Universal Tool for Practical Applications of Organic Field-Effect Transistors,A Role of Side-Chain Regiochemistry of Thienylene–Vinylene–Thienylene (TVT) in the Transistor Performance of Isomeric Polymers,0.688675
+Siloxane Side Chains: A Universal Tool for Practical Applications of Organic Field-Effect Transistors,Volatilizable and cost-effective quinone-based solid additives for improving photovoltaic performance and morphological stability in non-fullerene polymer solar cells,0.584985
+Siloxane Side Chains: A Universal Tool for Practical Applications of Organic Field-Effect Transistors,"Triisopropylsilyl‐Substituted Benzo[1,2‐<i>b</i>:4,5‐<i>c</i>′]dithiophene‐4,8‐dione‐Containing Copolymers with More Than 17% Efficiency in Organic Solar Cells",0.672269
+Siloxane Side Chains: A Universal Tool for Practical Applications of Organic Field-Effect Transistors,Effect of Third Component on Efficiency and Stability in Ternary Organic Solar Cells: More than a Simple Superposition,0.594541
+Siloxane Side Chains: A Universal Tool for Practical Applications of Organic Field-Effect Transistors,Highly efficient layer-by-layer large-scale manufacturing of polymer solar cells with minimized device-to-device variations by employing benzothiadiazole-based solid additives,0.487392
+Siloxane Side Chains: A Universal Tool for Practical Applications of Organic Field-Effect Transistors,Multifaceted Role of a Dibutylhydroxytoluene Processing Additive in Enhancing the Efficiency and Stability of Planar Perovskite Solar Cells,0.376246
+Siloxane Side Chains: A Universal Tool for Practical Applications of Organic Field-Effect Transistors,Ambipolar Passivated Back Surface Field Layer for Silicon Photovoltaics,0.536702
+Siloxane Side Chains: A Universal Tool for Practical Applications of Organic Field-Effect Transistors,"An Ultrahigh Mobility in Isomorphic Fluorobenzo[<i>c</i>][1,2,5]thiadiazole‐Based Polymers",0.721795
+Siloxane Side Chains: A Universal Tool for Practical Applications of Organic Field-Effect Transistors,"Chlorinated 2,1,3-Benzothiadiazole-Based Polymers for Organic Field-Effect Transistors",0.775288
+Siloxane Side Chains: A Universal Tool for Practical Applications of Organic Field-Effect Transistors,Diazapentalene-Containing Ultralow-Band-Gap Copolymers for High-Performance Near-Infrared Organic Phototransistors,0.693407
+Siloxane Side Chains: A Universal Tool for Practical Applications of Organic Field-Effect Transistors,Bioderived and Eco-Friendly Solvent-Processed High-Mobility Ambipolar Plastic Transistors through Controlled Irregularity of the Polymer Backbone,0.765163
+Siloxane Side Chains: A Universal Tool for Practical Applications of Organic Field-Effect Transistors,Densely Packed Random Quarterpolymers Containing Two Donor and Two Acceptor Units: Controlling Absorption Ability and Molecular Interaction to Enable Enhanced Polymer Photovoltaic Devices,0.630572
+Siloxane Side Chains: A Universal Tool for Practical Applications of Organic Field-Effect Transistors,Usefulness of Polar and Bulky Phosphonate Chain-End Solubilizing Groups in Polymeric Semiconductors,0.747293
+Siloxane Side Chains: A Universal Tool for Practical Applications of Organic Field-Effect Transistors,Effects of the Polarity and Bulkiness of End-Functionalized Side Chains on the Charge Transport of Dicyanovinyl-End-Capped Diketopyrrolopyrrole-Based n-Type Small Molecules,0.745211
+Siloxane Side Chains: A Universal Tool for Practical Applications of Organic Field-Effect Transistors,Low‐Temperature Processed Efficient and Reproducible Blade‐Coating Organic Photovoltaic Devices with <i>γ</i>‐Position Branched Inner Side Chains‐Containing Nonfullerene Acceptor,0.65749
+Siloxane Side Chains: A Universal Tool for Practical Applications of Organic Field-Effect Transistors,Ion slippage through Li <sup>+</sup> -centered G-quadruplex,0.407576
+Siloxane Side Chains: A Universal Tool for Practical Applications of Organic Field-Effect Transistors,Pechmann Dye‐Containing Diketopyrrolopyrrole‐Based Stretchable Polymer Semiconductors,0.754585
+Siloxane Side Chains: A Universal Tool for Practical Applications of Organic Field-Effect Transistors,Guanine‐Based G‐Quadruplexes Templated by Various Cations toward Potential Use as Single‐Ion Conductors,0.431969
+Siloxane Side Chains: A Universal Tool for Practical Applications of Organic Field-Effect Transistors,Rigid Fluorescent Indacenetetraone‐Based Semiconducting Polymers via Knoevenagel Condensation,0.739126
+Siloxane Side Chains: A Universal Tool for Practical Applications of Organic Field-Effect Transistors,Viable Regiochemical Control in Semiconducting Polymers for Field-Effect Transistors: From High-Mobility Enhancement toward High Deformability,0.830465
+Siloxane Side Chains: A Universal Tool for Practical Applications of Organic Field-Effect Transistors,Antioxidant Additive with a High Dielectric Constant for High Photo‐Oxidative Stabilization of Organic Solar Cells without Almost Sacrificing Initial High Efficiencies,0.612225
+Siloxane Side Chains: A Universal Tool for Practical Applications of Organic Field-Effect Transistors,"Dithienosilole-<i>co</i>-5-fluoro-2,1,3-benzothiadiazole-containing regioisomeric polymers for organic field-effect transistors",0.539451
+Siloxane Side Chains: A Universal Tool for Practical Applications of Organic Field-Effect Transistors,Understanding of copolymers containing pyridine and selenophene simultaneously and their polarity conversion in transistors,0.555116
+Siloxane Side Chains: A Universal Tool for Practical Applications of Organic Field-Effect Transistors,An efficient lactone-to-lactam conversion for the synthesis of thiophene Pechmann lactam and the characterization of polymers thereof,0.289028
+Siloxane Side Chains: A Universal Tool for Practical Applications of Organic Field-Effect Transistors,Advances in Discrete Length and Fused Conjugated Oligomers,0.723884
+Siloxane Side Chains: A Universal Tool for Practical Applications of Organic Field-Effect Transistors,Investigation of Organic Conjugated Materials to Understand the Structure-Property Relationships for High-Performance Organic Electronics,0.772736
+Siloxane Side Chains: A Universal Tool for Practical Applications of Organic Field-Effect Transistors,Shape‐Controlled Guanine Self‐Assemblies for Stable and Fast‐Ion Solid–Electrolyte Interphases in Sustainable Li Metal Batteries,0.544286
+Naphthalene as a Thermal‐Annealing‐Free Volatile Solid Additive in Non‐Fullerene Polymer Solar Cells with Improved Performance and Reproducibility,A Role of Side-Chain Regiochemistry of Thienylene–Vinylene–Thienylene (TVT) in the Transistor Performance of Isomeric Polymers,0.598678
+Naphthalene as a Thermal‐Annealing‐Free Volatile Solid Additive in Non‐Fullerene Polymer Solar Cells with Improved Performance and Reproducibility,Volatilizable and cost-effective quinone-based solid additives for improving photovoltaic performance and morphological stability in non-fullerene polymer solar cells,0.735273
+Naphthalene as a Thermal‐Annealing‐Free Volatile Solid Additive in Non‐Fullerene Polymer Solar Cells with Improved Performance and Reproducibility,"Triisopropylsilyl‐Substituted Benzo[1,2‐<i>b</i>:4,5‐<i>c</i>′]dithiophene‐4,8‐dione‐Containing Copolymers with More Than 17% Efficiency in Organic Solar Cells",0.681144
+Naphthalene as a Thermal‐Annealing‐Free Volatile Solid Additive in Non‐Fullerene Polymer Solar Cells with Improved Performance and Reproducibility,Effect of Third Component on Efficiency and Stability in Ternary Organic Solar Cells: More than a Simple Superposition,0.646748
+Naphthalene as a Thermal‐Annealing‐Free Volatile Solid Additive in Non‐Fullerene Polymer Solar Cells with Improved Performance and Reproducibility,Highly efficient layer-by-layer large-scale manufacturing of polymer solar cells with minimized device-to-device variations by employing benzothiadiazole-based solid additives,0.52361
+Naphthalene as a Thermal‐Annealing‐Free Volatile Solid Additive in Non‐Fullerene Polymer Solar Cells with Improved Performance and Reproducibility,Multifaceted Role of a Dibutylhydroxytoluene Processing Additive in Enhancing the Efficiency and Stability of Planar Perovskite Solar Cells,0.512794
+Naphthalene as a Thermal‐Annealing‐Free Volatile Solid Additive in Non‐Fullerene Polymer Solar Cells with Improved Performance and Reproducibility,Ambipolar Passivated Back Surface Field Layer for Silicon Photovoltaics,0.553613
+Naphthalene as a Thermal‐Annealing‐Free Volatile Solid Additive in Non‐Fullerene Polymer Solar Cells with Improved Performance and Reproducibility,"An Ultrahigh Mobility in Isomorphic Fluorobenzo[<i>c</i>][1,2,5]thiadiazole‐Based Polymers",0.509204
+Naphthalene as a Thermal‐Annealing‐Free Volatile Solid Additive in Non‐Fullerene Polymer Solar Cells with Improved Performance and Reproducibility,"Chlorinated 2,1,3-Benzothiadiazole-Based Polymers for Organic Field-Effect Transistors",0.606015
+Naphthalene as a Thermal‐Annealing‐Free Volatile Solid Additive in Non‐Fullerene Polymer Solar Cells with Improved Performance and Reproducibility,Diazapentalene-Containing Ultralow-Band-Gap Copolymers for High-Performance Near-Infrared Organic Phototransistors,0.583644
+Naphthalene as a Thermal‐Annealing‐Free Volatile Solid Additive in Non‐Fullerene Polymer Solar Cells with Improved Performance and Reproducibility,Bioderived and Eco-Friendly Solvent-Processed High-Mobility Ambipolar Plastic Transistors through Controlled Irregularity of the Polymer Backbone,0.597482
+Naphthalene as a Thermal‐Annealing‐Free Volatile Solid Additive in Non‐Fullerene Polymer Solar Cells with Improved Performance and Reproducibility,Densely Packed Random Quarterpolymers Containing Two Donor and Two Acceptor Units: Controlling Absorption Ability and Molecular Interaction to Enable Enhanced Polymer Photovoltaic Devices,0.625937
+Naphthalene as a Thermal‐Annealing‐Free Volatile Solid Additive in Non‐Fullerene Polymer Solar Cells with Improved Performance and Reproducibility,Usefulness of Polar and Bulky Phosphonate Chain-End Solubilizing Groups in Polymeric Semiconductors,0.555186
+Naphthalene as a Thermal‐Annealing‐Free Volatile Solid Additive in Non‐Fullerene Polymer Solar Cells with Improved Performance and Reproducibility,Effects of the Polarity and Bulkiness of End-Functionalized Side Chains on the Charge Transport of Dicyanovinyl-End-Capped Diketopyrrolopyrrole-Based n-Type Small Molecules,0.54837
+Naphthalene as a Thermal‐Annealing‐Free Volatile Solid Additive in Non‐Fullerene Polymer Solar Cells with Improved Performance and Reproducibility,Low‐Temperature Processed Efficient and Reproducible Blade‐Coating Organic Photovoltaic Devices with <i>γ</i>‐Position Branched Inner Side Chains‐Containing Nonfullerene Acceptor,0.607531
+Naphthalene as a Thermal‐Annealing‐Free Volatile Solid Additive in Non‐Fullerene Polymer Solar Cells with Improved Performance and Reproducibility,Ion slippage through Li <sup>+</sup> -centered G-quadruplex,0.372164
+Naphthalene as a Thermal‐Annealing‐Free Volatile Solid Additive in Non‐Fullerene Polymer Solar Cells with Improved Performance and Reproducibility,Pechmann Dye‐Containing Diketopyrrolopyrrole‐Based Stretchable Polymer Semiconductors,0.60696
+Naphthalene as a Thermal‐Annealing‐Free Volatile Solid Additive in Non‐Fullerene Polymer Solar Cells with Improved Performance and Reproducibility,Guanine‐Based G‐Quadruplexes Templated by Various Cations toward Potential Use as Single‐Ion Conductors,0.441828
+Naphthalene as a Thermal‐Annealing‐Free Volatile Solid Additive in Non‐Fullerene Polymer Solar Cells with Improved Performance and Reproducibility,Rigid Fluorescent Indacenetetraone‐Based Semiconducting Polymers via Knoevenagel Condensation,0.650569
+Naphthalene as a Thermal‐Annealing‐Free Volatile Solid Additive in Non‐Fullerene Polymer Solar Cells with Improved Performance and Reproducibility,Viable Regiochemical Control in Semiconducting Polymers for Field-Effect Transistors: From High-Mobility Enhancement toward High Deformability,0.583115
+Naphthalene as a Thermal‐Annealing‐Free Volatile Solid Additive in Non‐Fullerene Polymer Solar Cells with Improved Performance and Reproducibility,Antioxidant Additive with a High Dielectric Constant for High Photo‐Oxidative Stabilization of Organic Solar Cells without Almost Sacrificing Initial High Efficiencies,0.622646
+Naphthalene as a Thermal‐Annealing‐Free Volatile Solid Additive in Non‐Fullerene Polymer Solar Cells with Improved Performance and Reproducibility,"Dithienosilole-<i>co</i>-5-fluoro-2,1,3-benzothiadiazole-containing regioisomeric polymers for organic field-effect transistors",0.340203
+Naphthalene as a Thermal‐Annealing‐Free Volatile Solid Additive in Non‐Fullerene Polymer Solar Cells with Improved Performance and Reproducibility,Understanding of copolymers containing pyridine and selenophene simultaneously and their polarity conversion in transistors,0.514281
+Naphthalene as a Thermal‐Annealing‐Free Volatile Solid Additive in Non‐Fullerene Polymer Solar Cells with Improved Performance and Reproducibility,An efficient lactone-to-lactam conversion for the synthesis of thiophene Pechmann lactam and the characterization of polymers thereof,0.185208
+Naphthalene as a Thermal‐Annealing‐Free Volatile Solid Additive in Non‐Fullerene Polymer Solar Cells with Improved Performance and Reproducibility,Advances in Discrete Length and Fused Conjugated Oligomers,0.572948
+Naphthalene as a Thermal‐Annealing‐Free Volatile Solid Additive in Non‐Fullerene Polymer Solar Cells with Improved Performance and Reproducibility,Investigation of Organic Conjugated Materials to Understand the Structure-Property Relationships for High-Performance Organic Electronics,0.603713
+Naphthalene as a Thermal‐Annealing‐Free Volatile Solid Additive in Non‐Fullerene Polymer Solar Cells with Improved Performance and Reproducibility,Shape‐Controlled Guanine Self‐Assemblies for Stable and Fast‐Ion Solid–Electrolyte Interphases in Sustainable Li Metal Batteries,0.471732
+A Role of Side-Chain Regiochemistry of Thienylene–Vinylene–Thienylene (TVT) in the Transistor Performance of Isomeric Polymers,Volatilizable and cost-effective quinone-based solid additives for improving photovoltaic performance and morphological stability in non-fullerene polymer solar cells,0.551739
+A Role of Side-Chain Regiochemistry of Thienylene–Vinylene–Thienylene (TVT) in the Transistor Performance of Isomeric Polymers,"Triisopropylsilyl‐Substituted Benzo[1,2‐<i>b</i>:4,5‐<i>c</i>′]dithiophene‐4,8‐dione‐Containing Copolymers with More Than 17% Efficiency in Organic Solar Cells",0.634316
+A Role of Side-Chain Regiochemistry of Thienylene–Vinylene–Thienylene (TVT) in the Transistor Performance of Isomeric Polymers,Effect of Third Component on Efficiency and Stability in Ternary Organic Solar Cells: More than a Simple Superposition,0.533311
+A Role of Side-Chain Regiochemistry of Thienylene–Vinylene–Thienylene (TVT) in the Transistor Performance of Isomeric Polymers,Highly efficient layer-by-layer large-scale manufacturing of polymer solar cells with minimized device-to-device variations by employing benzothiadiazole-based solid additives,0.401667
+A Role of Side-Chain Regiochemistry of Thienylene–Vinylene–Thienylene (TVT) in the Transistor Performance of Isomeric Polymers,Multifaceted Role of a Dibutylhydroxytoluene Processing Additive in Enhancing the Efficiency and Stability of Planar Perovskite Solar Cells,0.433504
+A Role of Side-Chain Regiochemistry of Thienylene–Vinylene–Thienylene (TVT) in the Transistor Performance of Isomeric Polymers,Ambipolar Passivated Back Surface Field Layer for Silicon Photovoltaics,0.451515
+A Role of Side-Chain Regiochemistry of Thienylene–Vinylene–Thienylene (TVT) in the Transistor Performance of Isomeric Polymers,"An Ultrahigh Mobility in Isomorphic Fluorobenzo[<i>c</i>][1,2,5]thiadiazole‐Based Polymers",0.674674
+A Role of Side-Chain Regiochemistry of Thienylene–Vinylene–Thienylene (TVT) in the Transistor Performance of Isomeric Polymers,"Chlorinated 2,1,3-Benzothiadiazole-Based Polymers for Organic Field-Effect Transistors",0.738895
+A Role of Side-Chain Regiochemistry of Thienylene–Vinylene–Thienylene (TVT) in the Transistor Performance of Isomeric Polymers,Diazapentalene-Containing Ultralow-Band-Gap Copolymers for High-Performance Near-Infrared Organic Phototransistors,0.610674
+A Role of Side-Chain Regiochemistry of Thienylene–Vinylene–Thienylene (TVT) in the Transistor Performance of Isomeric Polymers,Bioderived and Eco-Friendly Solvent-Processed High-Mobility Ambipolar Plastic Transistors through Controlled Irregularity of the Polymer Backbone,0.772193
+A Role of Side-Chain Regiochemistry of Thienylene–Vinylene–Thienylene (TVT) in the Transistor Performance of Isomeric Polymers,Densely Packed Random Quarterpolymers Containing Two Donor and Two Acceptor Units: Controlling Absorption Ability and Molecular Interaction to Enable Enhanced Polymer Photovoltaic Devices,0.702428
+A Role of Side-Chain Regiochemistry of Thienylene–Vinylene–Thienylene (TVT) in the Transistor Performance of Isomeric Polymers,Usefulness of Polar and Bulky Phosphonate Chain-End Solubilizing Groups in Polymeric Semiconductors,0.690117
+A Role of Side-Chain Regiochemistry of Thienylene–Vinylene–Thienylene (TVT) in the Transistor Performance of Isomeric Polymers,Effects of the Polarity and Bulkiness of End-Functionalized Side Chains on the Charge Transport of Dicyanovinyl-End-Capped Diketopyrrolopyrrole-Based n-Type Small Molecules,0.65969
+A Role of Side-Chain Regiochemistry of Thienylene–Vinylene–Thienylene (TVT) in the Transistor Performance of Isomeric Polymers,Low‐Temperature Processed Efficient and Reproducible Blade‐Coating Organic Photovoltaic Devices with <i>γ</i>‐Position Branched Inner Side Chains‐Containing Nonfullerene Acceptor,0.586829
+A Role of Side-Chain Regiochemistry of Thienylene–Vinylene–Thienylene (TVT) in the Transistor Performance of Isomeric Polymers,Ion slippage through Li <sup>+</sup> -centered G-quadruplex,0.456855
+A Role of Side-Chain Regiochemistry of Thienylene–Vinylene–Thienylene (TVT) in the Transistor Performance of Isomeric Polymers,Pechmann Dye‐Containing Diketopyrrolopyrrole‐Based Stretchable Polymer Semiconductors,0.729951
+A Role of Side-Chain Regiochemistry of Thienylene–Vinylene–Thienylene (TVT) in the Transistor Performance of Isomeric Polymers,Guanine‐Based G‐Quadruplexes Templated by Various Cations toward Potential Use as Single‐Ion Conductors,0.482222
+A Role of Side-Chain Regiochemistry of Thienylene–Vinylene–Thienylene (TVT) in the Transistor Performance of Isomeric Polymers,Rigid Fluorescent Indacenetetraone‐Based Semiconducting Polymers via Knoevenagel Condensation,0.644922
+A Role of Side-Chain Regiochemistry of Thienylene–Vinylene–Thienylene (TVT) in the Transistor Performance of Isomeric Polymers,Viable Regiochemical Control in Semiconducting Polymers for Field-Effect Transistors: From High-Mobility Enhancement toward High Deformability,0.681209
+A Role of Side-Chain Regiochemistry of Thienylene–Vinylene–Thienylene (TVT) in the Transistor Performance of Isomeric Polymers,Antioxidant Additive with a High Dielectric Constant for High Photo‐Oxidative Stabilization of Organic Solar Cells without Almost Sacrificing Initial High Efficiencies,0.502734
+A Role of Side-Chain Regiochemistry of Thienylene–Vinylene–Thienylene (TVT) in the Transistor Performance of Isomeric Polymers,"Dithienosilole-<i>co</i>-5-fluoro-2,1,3-benzothiadiazole-containing regioisomeric polymers for organic field-effect transistors",0.583842
+A Role of Side-Chain Regiochemistry of Thienylene–Vinylene–Thienylene (TVT) in the Transistor Performance of Isomeric Polymers,Understanding of copolymers containing pyridine and selenophene simultaneously and their polarity conversion in transistors,0.620942
+A Role of Side-Chain Regiochemistry of Thienylene–Vinylene–Thienylene (TVT) in the Transistor Performance of Isomeric Polymers,An efficient lactone-to-lactam conversion for the synthesis of thiophene Pechmann lactam and the characterization of polymers thereof,0.202933
+A Role of Side-Chain Regiochemistry of Thienylene–Vinylene–Thienylene (TVT) in the Transistor Performance of Isomeric Polymers,Advances in Discrete Length and Fused Conjugated Oligomers,0.669413
+A Role of Side-Chain Regiochemistry of Thienylene–Vinylene–Thienylene (TVT) in the Transistor Performance of Isomeric Polymers,Investigation of Organic Conjugated Materials to Understand the Structure-Property Relationships for High-Performance Organic Electronics,0.642638
+A Role of Side-Chain Regiochemistry of Thienylene–Vinylene–Thienylene (TVT) in the Transistor Performance of Isomeric Polymers,Shape‐Controlled Guanine Self‐Assemblies for Stable and Fast‐Ion Solid–Electrolyte Interphases in Sustainable Li Metal Batteries,0.546312
+Volatilizable and cost-effective quinone-based solid additives for improving photovoltaic performance and morphological stability in non-fullerene polymer solar cells,"Triisopropylsilyl‐Substituted Benzo[1,2‐<i>b</i>:4,5‐<i>c</i>′]dithiophene‐4,8‐dione‐Containing Copolymers with More Than 17% Efficiency in Organic Solar Cells",0.678402
+Volatilizable and cost-effective quinone-based solid additives for improving photovoltaic performance and morphological stability in non-fullerene polymer solar cells,Effect of Third Component on Efficiency and Stability in Ternary Organic Solar Cells: More than a Simple Superposition,0.621992
+Volatilizable and cost-effective quinone-based solid additives for improving photovoltaic performance and morphological stability in non-fullerene polymer solar cells,Highly efficient layer-by-layer large-scale manufacturing of polymer solar cells with minimized device-to-device variations by employing benzothiadiazole-based solid additives,0.465306
+Volatilizable and cost-effective quinone-based solid additives for improving photovoltaic performance and morphological stability in non-fullerene polymer solar cells,Multifaceted Role of a Dibutylhydroxytoluene Processing Additive in Enhancing the Efficiency and Stability of Planar Perovskite Solar Cells,0.520473
+Volatilizable and cost-effective quinone-based solid additives for improving photovoltaic performance and morphological stability in non-fullerene polymer solar cells,Ambipolar Passivated Back Surface Field Layer for Silicon Photovoltaics,0.513657
+Volatilizable and cost-effective quinone-based solid additives for improving photovoltaic performance and morphological stability in non-fullerene polymer solar cells,"An Ultrahigh Mobility in Isomorphic Fluorobenzo[<i>c</i>][1,2,5]thiadiazole‐Based Polymers",0.521407
+Volatilizable and cost-effective quinone-based solid additives for improving photovoltaic performance and morphological stability in non-fullerene polymer solar cells,"Chlorinated 2,1,3-Benzothiadiazole-Based Polymers for Organic Field-Effect Transistors",0.598671
+Volatilizable and cost-effective quinone-based solid additives for improving photovoltaic performance and morphological stability in non-fullerene polymer solar cells,Diazapentalene-Containing Ultralow-Band-Gap Copolymers for High-Performance Near-Infrared Organic Phototransistors,0.563502
+Volatilizable and cost-effective quinone-based solid additives for improving photovoltaic performance and morphological stability in non-fullerene polymer solar cells,Bioderived and Eco-Friendly Solvent-Processed High-Mobility Ambipolar Plastic Transistors through Controlled Irregularity of the Polymer Backbone,0.543974
+Volatilizable and cost-effective quinone-based solid additives for improving photovoltaic performance and morphological stability in non-fullerene polymer solar cells,Densely Packed Random Quarterpolymers Containing Two Donor and Two Acceptor Units: Controlling Absorption Ability and Molecular Interaction to Enable Enhanced Polymer Photovoltaic Devices,0.587331
+Volatilizable and cost-effective quinone-based solid additives for improving photovoltaic performance and morphological stability in non-fullerene polymer solar cells,Usefulness of Polar and Bulky Phosphonate Chain-End Solubilizing Groups in Polymeric Semiconductors,0.487469
+Volatilizable and cost-effective quinone-based solid additives for improving photovoltaic performance and morphological stability in non-fullerene polymer solar cells,Effects of the Polarity and Bulkiness of End-Functionalized Side Chains on the Charge Transport of Dicyanovinyl-End-Capped Diketopyrrolopyrrole-Based n-Type Small Molecules,0.439749
+Volatilizable and cost-effective quinone-based solid additives for improving photovoltaic performance and morphological stability in non-fullerene polymer solar cells,Low‐Temperature Processed Efficient and Reproducible Blade‐Coating Organic Photovoltaic Devices with <i>γ</i>‐Position Branched Inner Side Chains‐Containing Nonfullerene Acceptor,0.592012
+Volatilizable and cost-effective quinone-based solid additives for improving photovoltaic performance and morphological stability in non-fullerene polymer solar cells,Ion slippage through Li <sup>+</sup> -centered G-quadruplex,0.323064
+Volatilizable and cost-effective quinone-based solid additives for improving photovoltaic performance and morphological stability in non-fullerene polymer solar cells,Pechmann Dye‐Containing Diketopyrrolopyrrole‐Based Stretchable Polymer Semiconductors,0.543213
+Volatilizable and cost-effective quinone-based solid additives for improving photovoltaic performance and morphological stability in non-fullerene polymer solar cells,Guanine‐Based G‐Quadruplexes Templated by Various Cations toward Potential Use as Single‐Ion Conductors,0.353951
+Volatilizable and cost-effective quinone-based solid additives for improving photovoltaic performance and morphological stability in non-fullerene polymer solar cells,Rigid Fluorescent Indacenetetraone‐Based Semiconducting Polymers via Knoevenagel Condensation,0.604518
+Volatilizable and cost-effective quinone-based solid additives for improving photovoltaic performance and morphological stability in non-fullerene polymer solar cells,Viable Regiochemical Control in Semiconducting Polymers for Field-Effect Transistors: From High-Mobility Enhancement toward High Deformability,0.559891
+Volatilizable and cost-effective quinone-based solid additives for improving photovoltaic performance and morphological stability in non-fullerene polymer solar cells,Antioxidant Additive with a High Dielectric Constant for High Photo‐Oxidative Stabilization of Organic Solar Cells without Almost Sacrificing Initial High Efficiencies,0.588868
+Volatilizable and cost-effective quinone-based solid additives for improving photovoltaic performance and morphological stability in non-fullerene polymer solar cells,"Dithienosilole-<i>co</i>-5-fluoro-2,1,3-benzothiadiazole-containing regioisomeric polymers for organic field-effect transistors",0.341702
+Volatilizable and cost-effective quinone-based solid additives for improving photovoltaic performance and morphological stability in non-fullerene polymer solar cells,Understanding of copolymers containing pyridine and selenophene simultaneously and their polarity conversion in transistors,0.465316
+Volatilizable and cost-effective quinone-based solid additives for improving photovoltaic performance and morphological stability in non-fullerene polymer solar cells,An efficient lactone-to-lactam conversion for the synthesis of thiophene Pechmann lactam and the characterization of polymers thereof,0.140852
+Volatilizable and cost-effective quinone-based solid additives for improving photovoltaic performance and morphological stability in non-fullerene polymer solar cells,Advances in Discrete Length and Fused Conjugated Oligomers,0.577049
+Volatilizable and cost-effective quinone-based solid additives for improving photovoltaic performance and morphological stability in non-fullerene polymer solar cells,Investigation of Organic Conjugated Materials to Understand the Structure-Property Relationships for High-Performance Organic Electronics,0.55927
+Volatilizable and cost-effective quinone-based solid additives for improving photovoltaic performance and morphological stability in non-fullerene polymer solar cells,Shape‐Controlled Guanine Self‐Assemblies for Stable and Fast‐Ion Solid–Electrolyte Interphases in Sustainable Li Metal Batteries,0.386298
+"Triisopropylsilyl‐Substituted Benzo[1,2‐<i>b</i>:4,5‐<i>c</i>′]dithiophene‐4,8‐dione‐Containing Copolymers with More Than 17% Efficiency in Organic Solar Cells",Effect of Third Component on Efficiency and Stability in Ternary Organic Solar Cells: More than a Simple Superposition,0.617688
+"Triisopropylsilyl‐Substituted Benzo[1,2‐<i>b</i>:4,5‐<i>c</i>′]dithiophene‐4,8‐dione‐Containing Copolymers with More Than 17% Efficiency in Organic Solar Cells",Highly efficient layer-by-layer large-scale manufacturing of polymer solar cells with minimized device-to-device variations by employing benzothiadiazole-based solid additives,0.507723
+"Triisopropylsilyl‐Substituted Benzo[1,2‐<i>b</i>:4,5‐<i>c</i>′]dithiophene‐4,8‐dione‐Containing Copolymers with More Than 17% Efficiency in Organic Solar Cells",Multifaceted Role of a Dibutylhydroxytoluene Processing Additive in Enhancing the Efficiency and Stability of Planar Perovskite Solar Cells,0.495045
+"Triisopropylsilyl‐Substituted Benzo[1,2‐<i>b</i>:4,5‐<i>c</i>′]dithiophene‐4,8‐dione‐Containing Copolymers with More Than 17% Efficiency in Organic Solar Cells",Ambipolar Passivated Back Surface Field Layer for Silicon Photovoltaics,0.60364
+"Triisopropylsilyl‐Substituted Benzo[1,2‐<i>b</i>:4,5‐<i>c</i>′]dithiophene‐4,8‐dione‐Containing Copolymers with More Than 17% Efficiency in Organic Solar Cells","An Ultrahigh Mobility in Isomorphic Fluorobenzo[<i>c</i>][1,2,5]thiadiazole‐Based Polymers",0.621851
+"Triisopropylsilyl‐Substituted Benzo[1,2‐<i>b</i>:4,5‐<i>c</i>′]dithiophene‐4,8‐dione‐Containing Copolymers with More Than 17% Efficiency in Organic Solar Cells","Chlorinated 2,1,3-Benzothiadiazole-Based Polymers for Organic Field-Effect Transistors",0.675604
+"Triisopropylsilyl‐Substituted Benzo[1,2‐<i>b</i>:4,5‐<i>c</i>′]dithiophene‐4,8‐dione‐Containing Copolymers with More Than 17% Efficiency in Organic Solar Cells",Diazapentalene-Containing Ultralow-Band-Gap Copolymers for High-Performance Near-Infrared Organic Phototransistors,0.703228
+"Triisopropylsilyl‐Substituted Benzo[1,2‐<i>b</i>:4,5‐<i>c</i>′]dithiophene‐4,8‐dione‐Containing Copolymers with More Than 17% Efficiency in Organic Solar Cells",Bioderived and Eco-Friendly Solvent-Processed High-Mobility Ambipolar Plastic Transistors through Controlled Irregularity of the Polymer Backbone,0.697529
+"Triisopropylsilyl‐Substituted Benzo[1,2‐<i>b</i>:4,5‐<i>c</i>′]dithiophene‐4,8‐dione‐Containing Copolymers with More Than 17% Efficiency in Organic Solar Cells",Densely Packed Random Quarterpolymers Containing Two Donor and Two Acceptor Units: Controlling Absorption Ability and Molecular Interaction to Enable Enhanced Polymer Photovoltaic Devices,0.650538
+"Triisopropylsilyl‐Substituted Benzo[1,2‐<i>b</i>:4,5‐<i>c</i>′]dithiophene‐4,8‐dione‐Containing Copolymers with More Than 17% Efficiency in Organic Solar Cells",Usefulness of Polar and Bulky Phosphonate Chain-End Solubilizing Groups in Polymeric Semiconductors,0.651464
+"Triisopropylsilyl‐Substituted Benzo[1,2‐<i>b</i>:4,5‐<i>c</i>′]dithiophene‐4,8‐dione‐Containing Copolymers with More Than 17% Efficiency in Organic Solar Cells",Effects of the Polarity and Bulkiness of End-Functionalized Side Chains on the Charge Transport of Dicyanovinyl-End-Capped Diketopyrrolopyrrole-Based n-Type Small Molecules,0.656063
+"Triisopropylsilyl‐Substituted Benzo[1,2‐<i>b</i>:4,5‐<i>c</i>′]dithiophene‐4,8‐dione‐Containing Copolymers with More Than 17% Efficiency in Organic Solar Cells",Low‐Temperature Processed Efficient and Reproducible Blade‐Coating Organic Photovoltaic Devices with <i>γ</i>‐Position Branched Inner Side Chains‐Containing Nonfullerene Acceptor,0.601599
+"Triisopropylsilyl‐Substituted Benzo[1,2‐<i>b</i>:4,5‐<i>c</i>′]dithiophene‐4,8‐dione‐Containing Copolymers with More Than 17% Efficiency in Organic Solar Cells",Ion slippage through Li <sup>+</sup> -centered G-quadruplex,0.351994
+"Triisopropylsilyl‐Substituted Benzo[1,2‐<i>b</i>:4,5‐<i>c</i>′]dithiophene‐4,8‐dione‐Containing Copolymers with More Than 17% Efficiency in Organic Solar Cells",Pechmann Dye‐Containing Diketopyrrolopyrrole‐Based Stretchable Polymer Semiconductors,0.567454
+"Triisopropylsilyl‐Substituted Benzo[1,2‐<i>b</i>:4,5‐<i>c</i>′]dithiophene‐4,8‐dione‐Containing Copolymers with More Than 17% Efficiency in Organic Solar Cells",Guanine‐Based G‐Quadruplexes Templated by Various Cations toward Potential Use as Single‐Ion Conductors,0.468474
+"Triisopropylsilyl‐Substituted Benzo[1,2‐<i>b</i>:4,5‐<i>c</i>′]dithiophene‐4,8‐dione‐Containing Copolymers with More Than 17% Efficiency in Organic Solar Cells",Rigid Fluorescent Indacenetetraone‐Based Semiconducting Polymers via Knoevenagel Condensation,0.75246
+"Triisopropylsilyl‐Substituted Benzo[1,2‐<i>b</i>:4,5‐<i>c</i>′]dithiophene‐4,8‐dione‐Containing Copolymers with More Than 17% Efficiency in Organic Solar Cells",Viable Regiochemical Control in Semiconducting Polymers for Field-Effect Transistors: From High-Mobility Enhancement toward High Deformability,0.588849
+"Triisopropylsilyl‐Substituted Benzo[1,2‐<i>b</i>:4,5‐<i>c</i>′]dithiophene‐4,8‐dione‐Containing Copolymers with More Than 17% Efficiency in Organic Solar Cells",Antioxidant Additive with a High Dielectric Constant for High Photo‐Oxidative Stabilization of Organic Solar Cells without Almost Sacrificing Initial High Efficiencies,0.616424
+"Triisopropylsilyl‐Substituted Benzo[1,2‐<i>b</i>:4,5‐<i>c</i>′]dithiophene‐4,8‐dione‐Containing Copolymers with More Than 17% Efficiency in Organic Solar Cells","Dithienosilole-<i>co</i>-5-fluoro-2,1,3-benzothiadiazole-containing regioisomeric polymers for organic field-effect transistors",0.383942
+"Triisopropylsilyl‐Substituted Benzo[1,2‐<i>b</i>:4,5‐<i>c</i>′]dithiophene‐4,8‐dione‐Containing Copolymers with More Than 17% Efficiency in Organic Solar Cells",Understanding of copolymers containing pyridine and selenophene simultaneously and their polarity conversion in transistors,0.566025
+"Triisopropylsilyl‐Substituted Benzo[1,2‐<i>b</i>:4,5‐<i>c</i>′]dithiophene‐4,8‐dione‐Containing Copolymers with More Than 17% Efficiency in Organic Solar Cells",An efficient lactone-to-lactam conversion for the synthesis of thiophene Pechmann lactam and the characterization of polymers thereof,0.24591
+"Triisopropylsilyl‐Substituted Benzo[1,2‐<i>b</i>:4,5‐<i>c</i>′]dithiophene‐4,8‐dione‐Containing Copolymers with More Than 17% Efficiency in Organic Solar Cells",Advances in Discrete Length and Fused Conjugated Oligomers,0.758079
+"Triisopropylsilyl‐Substituted Benzo[1,2‐<i>b</i>:4,5‐<i>c</i>′]dithiophene‐4,8‐dione‐Containing Copolymers with More Than 17% Efficiency in Organic Solar Cells",Investigation of Organic Conjugated Materials to Understand the Structure-Property Relationships for High-Performance Organic Electronics,0.664032
+"Triisopropylsilyl‐Substituted Benzo[1,2‐<i>b</i>:4,5‐<i>c</i>′]dithiophene‐4,8‐dione‐Containing Copolymers with More Than 17% Efficiency in Organic Solar Cells",Shape‐Controlled Guanine Self‐Assemblies for Stable and Fast‐Ion Solid–Electrolyte Interphases in Sustainable Li Metal Batteries,0.460727
+Effect of Third Component on Efficiency and Stability in Ternary Organic Solar Cells: More than a Simple Superposition,Highly efficient layer-by-layer large-scale manufacturing of polymer solar cells with minimized device-to-device variations by employing benzothiadiazole-based solid additives,0.474298
+Effect of Third Component on Efficiency and Stability in Ternary Organic Solar Cells: More than a Simple Superposition,Multifaceted Role of a Dibutylhydroxytoluene Processing Additive in Enhancing the Efficiency and Stability of Planar Perovskite Solar Cells,0.540692
+Effect of Third Component on Efficiency and Stability in Ternary Organic Solar Cells: More than a Simple Superposition,Ambipolar Passivated Back Surface Field Layer for Silicon Photovoltaics,0.618702
+Effect of Third Component on Efficiency and Stability in Ternary Organic Solar Cells: More than a Simple Superposition,"An Ultrahigh Mobility in Isomorphic Fluorobenzo[<i>c</i>][1,2,5]thiadiazole‐Based Polymers",0.508636
+Effect of Third Component on Efficiency and Stability in Ternary Organic Solar Cells: More than a Simple Superposition,"Chlorinated 2,1,3-Benzothiadiazole-Based Polymers for Organic Field-Effect Transistors",0.602036
+Effect of Third Component on Efficiency and Stability in Ternary Organic Solar Cells: More than a Simple Superposition,Diazapentalene-Containing Ultralow-Band-Gap Copolymers for High-Performance Near-Infrared Organic Phototransistors,0.596071
+Effect of Third Component on Efficiency and Stability in Ternary Organic Solar Cells: More than a Simple Superposition,Bioderived and Eco-Friendly Solvent-Processed High-Mobility Ambipolar Plastic Transistors through Controlled Irregularity of the Polymer Backbone,0.579785
+Effect of Third Component on Efficiency and Stability in Ternary Organic Solar Cells: More than a Simple Superposition,Densely Packed Random Quarterpolymers Containing Two Donor and Two Acceptor Units: Controlling Absorption Ability and Molecular Interaction to Enable Enhanced Polymer Photovoltaic Devices,0.565016
+Effect of Third Component on Efficiency and Stability in Ternary Organic Solar Cells: More than a Simple Superposition,Usefulness of Polar and Bulky Phosphonate Chain-End Solubilizing Groups in Polymeric Semiconductors,0.53935
+Effect of Third Component on Efficiency and Stability in Ternary Organic Solar Cells: More than a Simple Superposition,Effects of the Polarity and Bulkiness of End-Functionalized Side Chains on the Charge Transport of Dicyanovinyl-End-Capped Diketopyrrolopyrrole-Based n-Type Small Molecules,0.57125
+Effect of Third Component on Efficiency and Stability in Ternary Organic Solar Cells: More than a Simple Superposition,Low‐Temperature Processed Efficient and Reproducible Blade‐Coating Organic Photovoltaic Devices with <i>γ</i>‐Position Branched Inner Side Chains‐Containing Nonfullerene Acceptor,0.593882
+Effect of Third Component on Efficiency and Stability in Ternary Organic Solar Cells: More than a Simple Superposition,Ion slippage through Li <sup>+</sup> -centered G-quadruplex,0.408816
+Effect of Third Component on Efficiency and Stability in Ternary Organic Solar Cells: More than a Simple Superposition,Pechmann Dye‐Containing Diketopyrrolopyrrole‐Based Stretchable Polymer Semiconductors,0.537837
+Effect of Third Component on Efficiency and Stability in Ternary Organic Solar Cells: More than a Simple Superposition,Guanine‐Based G‐Quadruplexes Templated by Various Cations toward Potential Use as Single‐Ion Conductors,0.406881
+Effect of Third Component on Efficiency and Stability in Ternary Organic Solar Cells: More than a Simple Superposition,Rigid Fluorescent Indacenetetraone‐Based Semiconducting Polymers via Knoevenagel Condensation,0.662601
+Effect of Third Component on Efficiency and Stability in Ternary Organic Solar Cells: More than a Simple Superposition,Viable Regiochemical Control in Semiconducting Polymers for Field-Effect Transistors: From High-Mobility Enhancement toward High Deformability,0.571554
+Effect of Third Component on Efficiency and Stability in Ternary Organic Solar Cells: More than a Simple Superposition,Antioxidant Additive with a High Dielectric Constant for High Photo‐Oxidative Stabilization of Organic Solar Cells without Almost Sacrificing Initial High Efficiencies,0.647374
+Effect of Third Component on Efficiency and Stability in Ternary Organic Solar Cells: More than a Simple Superposition,"Dithienosilole-<i>co</i>-5-fluoro-2,1,3-benzothiadiazole-containing regioisomeric polymers for organic field-effect transistors",0.284042
+Effect of Third Component on Efficiency and Stability in Ternary Organic Solar Cells: More than a Simple Superposition,Understanding of copolymers containing pyridine and selenophene simultaneously and their polarity conversion in transistors,0.425287
+Effect of Third Component on Efficiency and Stability in Ternary Organic Solar Cells: More than a Simple Superposition,An efficient lactone-to-lactam conversion for the synthesis of thiophene Pechmann lactam and the characterization of polymers thereof,0.210422
+Effect of Third Component on Efficiency and Stability in Ternary Organic Solar Cells: More than a Simple Superposition,Advances in Discrete Length and Fused Conjugated Oligomers,0.628905
+Effect of Third Component on Efficiency and Stability in Ternary Organic Solar Cells: More than a Simple Superposition,Investigation of Organic Conjugated Materials to Understand the Structure-Property Relationships for High-Performance Organic Electronics,0.709977
+Effect of Third Component on Efficiency and Stability in Ternary Organic Solar Cells: More than a Simple Superposition,Shape‐Controlled Guanine Self‐Assemblies for Stable and Fast‐Ion Solid–Electrolyte Interphases in Sustainable Li Metal Batteries,0.424906
+Highly efficient layer-by-layer large-scale manufacturing of polymer solar cells with minimized device-to-device variations by employing benzothiadiazole-based solid additives,Multifaceted Role of a Dibutylhydroxytoluene Processing Additive in Enhancing the Efficiency and Stability of Planar Perovskite Solar Cells,0.349514
+Highly efficient layer-by-layer large-scale manufacturing of polymer solar cells with minimized device-to-device variations by employing benzothiadiazole-based solid additives,Ambipolar Passivated Back Surface Field Layer for Silicon Photovoltaics,0.443236
+Highly efficient layer-by-layer large-scale manufacturing of polymer solar cells with minimized device-to-device variations by employing benzothiadiazole-based solid additives,"An Ultrahigh Mobility in Isomorphic Fluorobenzo[<i>c</i>][1,2,5]thiadiazole‐Based Polymers",0.539024
+Highly efficient layer-by-layer large-scale manufacturing of polymer solar cells with minimized device-to-device variations by employing benzothiadiazole-based solid additives,"Chlorinated 2,1,3-Benzothiadiazole-Based Polymers for Organic Field-Effect Transistors",0.50833
+Highly efficient layer-by-layer large-scale manufacturing of polymer solar cells with minimized device-to-device variations by employing benzothiadiazole-based solid additives,Diazapentalene-Containing Ultralow-Band-Gap Copolymers for High-Performance Near-Infrared Organic Phototransistors,0.355811
+Highly efficient layer-by-layer large-scale manufacturing of polymer solar cells with minimized device-to-device variations by employing benzothiadiazole-based solid additives,Bioderived and Eco-Friendly Solvent-Processed High-Mobility Ambipolar Plastic Transistors through Controlled Irregularity of the Polymer Backbone,0.37624
+Highly efficient layer-by-layer large-scale manufacturing of polymer solar cells with minimized device-to-device variations by employing benzothiadiazole-based solid additives,Densely Packed Random Quarterpolymers Containing Two Donor and Two Acceptor Units: Controlling Absorption Ability and Molecular Interaction to Enable Enhanced Polymer Photovoltaic Devices,0.459521
+Highly efficient layer-by-layer large-scale manufacturing of polymer solar cells with minimized device-to-device variations by employing benzothiadiazole-based solid additives,Usefulness of Polar and Bulky Phosphonate Chain-End Solubilizing Groups in Polymeric Semiconductors,0.426913
+Highly efficient layer-by-layer large-scale manufacturing of polymer solar cells with minimized device-to-device variations by employing benzothiadiazole-based solid additives,Effects of the Polarity and Bulkiness of End-Functionalized Side Chains on the Charge Transport of Dicyanovinyl-End-Capped Diketopyrrolopyrrole-Based n-Type Small Molecules,0.43332
+Highly efficient layer-by-layer large-scale manufacturing of polymer solar cells with minimized device-to-device variations by employing benzothiadiazole-based solid additives,Low‐Temperature Processed Efficient and Reproducible Blade‐Coating Organic Photovoltaic Devices with <i>γ</i>‐Position Branched Inner Side Chains‐Containing Nonfullerene Acceptor,0.405271
+Highly efficient layer-by-layer large-scale manufacturing of polymer solar cells with minimized device-to-device variations by employing benzothiadiazole-based solid additives,Ion slippage through Li <sup>+</sup> -centered G-quadruplex,0.416712
+Highly efficient layer-by-layer large-scale manufacturing of polymer solar cells with minimized device-to-device variations by employing benzothiadiazole-based solid additives,Pechmann Dye‐Containing Diketopyrrolopyrrole‐Based Stretchable Polymer Semiconductors,0.475298
+Highly efficient layer-by-layer large-scale manufacturing of polymer solar cells with minimized device-to-device variations by employing benzothiadiazole-based solid additives,Guanine‐Based G‐Quadruplexes Templated by Various Cations toward Potential Use as Single‐Ion Conductors,0.389542
+Highly efficient layer-by-layer large-scale manufacturing of polymer solar cells with minimized device-to-device variations by employing benzothiadiazole-based solid additives,Rigid Fluorescent Indacenetetraone‐Based Semiconducting Polymers via Knoevenagel Condensation,0.43796
+Highly efficient layer-by-layer large-scale manufacturing of polymer solar cells with minimized device-to-device variations by employing benzothiadiazole-based solid additives,Viable Regiochemical Control in Semiconducting Polymers for Field-Effect Transistors: From High-Mobility Enhancement toward High Deformability,0.460014
+Highly efficient layer-by-layer large-scale manufacturing of polymer solar cells with minimized device-to-device variations by employing benzothiadiazole-based solid additives,Antioxidant Additive with a High Dielectric Constant for High Photo‐Oxidative Stabilization of Organic Solar Cells without Almost Sacrificing Initial High Efficiencies,0.41366
+Highly efficient layer-by-layer large-scale manufacturing of polymer solar cells with minimized device-to-device variations by employing benzothiadiazole-based solid additives,"Dithienosilole-<i>co</i>-5-fluoro-2,1,3-benzothiadiazole-containing regioisomeric polymers for organic field-effect transistors",0.230312
+Highly efficient layer-by-layer large-scale manufacturing of polymer solar cells with minimized device-to-device variations by employing benzothiadiazole-based solid additives,Understanding of copolymers containing pyridine and selenophene simultaneously and their polarity conversion in transistors,0.328223
+Highly efficient layer-by-layer large-scale manufacturing of polymer solar cells with minimized device-to-device variations by employing benzothiadiazole-based solid additives,An efficient lactone-to-lactam conversion for the synthesis of thiophene Pechmann lactam and the characterization of polymers thereof,0.219006
+Highly efficient layer-by-layer large-scale manufacturing of polymer solar cells with minimized device-to-device variations by employing benzothiadiazole-based solid additives,Advances in Discrete Length and Fused Conjugated Oligomers,0.486263
+Highly efficient layer-by-layer large-scale manufacturing of polymer solar cells with minimized device-to-device variations by employing benzothiadiazole-based solid additives,Investigation of Organic Conjugated Materials to Understand the Structure-Property Relationships for High-Performance Organic Electronics,0.466212
+Highly efficient layer-by-layer large-scale manufacturing of polymer solar cells with minimized device-to-device variations by employing benzothiadiazole-based solid additives,Shape‐Controlled Guanine Self‐Assemblies for Stable and Fast‐Ion Solid–Electrolyte Interphases in Sustainable Li Metal Batteries,0.404891
+Multifaceted Role of a Dibutylhydroxytoluene Processing Additive in Enhancing the Efficiency and Stability of Planar Perovskite Solar Cells,Ambipolar Passivated Back Surface Field Layer for Silicon Photovoltaics,0.551766
+Multifaceted Role of a Dibutylhydroxytoluene Processing Additive in Enhancing the Efficiency and Stability of Planar Perovskite Solar Cells,"An Ultrahigh Mobility in Isomorphic Fluorobenzo[<i>c</i>][1,2,5]thiadiazole‐Based Polymers",0.358985
+Multifaceted Role of a Dibutylhydroxytoluene Processing Additive in Enhancing the Efficiency and Stability of Planar Perovskite Solar Cells,"Chlorinated 2,1,3-Benzothiadiazole-Based Polymers for Organic Field-Effect Transistors",0.445469
+Multifaceted Role of a Dibutylhydroxytoluene Processing Additive in Enhancing the Efficiency and Stability of Planar Perovskite Solar Cells,Diazapentalene-Containing Ultralow-Band-Gap Copolymers for High-Performance Near-Infrared Organic Phototransistors,0.414464
+Multifaceted Role of a Dibutylhydroxytoluene Processing Additive in Enhancing the Efficiency and Stability of Planar Perovskite Solar Cells,Bioderived and Eco-Friendly Solvent-Processed High-Mobility Ambipolar Plastic Transistors through Controlled Irregularity of the Polymer Backbone,0.407183
+Multifaceted Role of a Dibutylhydroxytoluene Processing Additive in Enhancing the Efficiency and Stability of Planar Perovskite Solar Cells,Densely Packed Random Quarterpolymers Containing Two Donor and Two Acceptor Units: Controlling Absorption Ability and Molecular Interaction to Enable Enhanced Polymer Photovoltaic Devices,0.368015
+Multifaceted Role of a Dibutylhydroxytoluene Processing Additive in Enhancing the Efficiency and Stability of Planar Perovskite Solar Cells,Usefulness of Polar and Bulky Phosphonate Chain-End Solubilizing Groups in Polymeric Semiconductors,0.380512
+Multifaceted Role of a Dibutylhydroxytoluene Processing Additive in Enhancing the Efficiency and Stability of Planar Perovskite Solar Cells,Effects of the Polarity and Bulkiness of End-Functionalized Side Chains on the Charge Transport of Dicyanovinyl-End-Capped Diketopyrrolopyrrole-Based n-Type Small Molecules,0.388389
+Multifaceted Role of a Dibutylhydroxytoluene Processing Additive in Enhancing the Efficiency and Stability of Planar Perovskite Solar Cells,Low‐Temperature Processed Efficient and Reproducible Blade‐Coating Organic Photovoltaic Devices with <i>γ</i>‐Position Branched Inner Side Chains‐Containing Nonfullerene Acceptor,0.450859
+Multifaceted Role of a Dibutylhydroxytoluene Processing Additive in Enhancing the Efficiency and Stability of Planar Perovskite Solar Cells,Ion slippage through Li <sup>+</sup> -centered G-quadruplex,0.328144
+Multifaceted Role of a Dibutylhydroxytoluene Processing Additive in Enhancing the Efficiency and Stability of Planar Perovskite Solar Cells,Pechmann Dye‐Containing Diketopyrrolopyrrole‐Based Stretchable Polymer Semiconductors,0.352333
+Multifaceted Role of a Dibutylhydroxytoluene Processing Additive in Enhancing the Efficiency and Stability of Planar Perovskite Solar Cells,Guanine‐Based G‐Quadruplexes Templated by Various Cations toward Potential Use as Single‐Ion Conductors,0.375466
+Multifaceted Role of a Dibutylhydroxytoluene Processing Additive in Enhancing the Efficiency and Stability of Planar Perovskite Solar Cells,Rigid Fluorescent Indacenetetraone‐Based Semiconducting Polymers via Knoevenagel Condensation,0.478062
+Multifaceted Role of a Dibutylhydroxytoluene Processing Additive in Enhancing the Efficiency and Stability of Planar Perovskite Solar Cells,Viable Regiochemical Control in Semiconducting Polymers for Field-Effect Transistors: From High-Mobility Enhancement toward High Deformability,0.375857
+Multifaceted Role of a Dibutylhydroxytoluene Processing Additive in Enhancing the Efficiency and Stability of Planar Perovskite Solar Cells,Antioxidant Additive with a High Dielectric Constant for High Photo‐Oxidative Stabilization of Organic Solar Cells without Almost Sacrificing Initial High Efficiencies,0.67975
+Multifaceted Role of a Dibutylhydroxytoluene Processing Additive in Enhancing the Efficiency and Stability of Planar Perovskite Solar Cells,"Dithienosilole-<i>co</i>-5-fluoro-2,1,3-benzothiadiazole-containing regioisomeric polymers for organic field-effect transistors",0.196959
+Multifaceted Role of a Dibutylhydroxytoluene Processing Additive in Enhancing the Efficiency and Stability of Planar Perovskite Solar Cells,Understanding of copolymers containing pyridine and selenophene simultaneously and their polarity conversion in transistors,0.337568
+Multifaceted Role of a Dibutylhydroxytoluene Processing Additive in Enhancing the Efficiency and Stability of Planar Perovskite Solar Cells,An efficient lactone-to-lactam conversion for the synthesis of thiophene Pechmann lactam and the characterization of polymers thereof,0.214311
+Multifaceted Role of a Dibutylhydroxytoluene Processing Additive in Enhancing the Efficiency and Stability of Planar Perovskite Solar Cells,Advances in Discrete Length and Fused Conjugated Oligomers,0.431333
+Multifaceted Role of a Dibutylhydroxytoluene Processing Additive in Enhancing the Efficiency and Stability of Planar Perovskite Solar Cells,Investigation of Organic Conjugated Materials to Understand the Structure-Property Relationships for High-Performance Organic Electronics,0.474985
+Multifaceted Role of a Dibutylhydroxytoluene Processing Additive in Enhancing the Efficiency and Stability of Planar Perovskite Solar Cells,Shape‐Controlled Guanine Self‐Assemblies for Stable and Fast‐Ion Solid–Electrolyte Interphases in Sustainable Li Metal Batteries,0.323195
+Ambipolar Passivated Back Surface Field Layer for Silicon Photovoltaics,"An Ultrahigh Mobility in Isomorphic Fluorobenzo[<i>c</i>][1,2,5]thiadiazole‐Based Polymers",0.460403
+Ambipolar Passivated Back Surface Field Layer for Silicon Photovoltaics,"Chlorinated 2,1,3-Benzothiadiazole-Based Polymers for Organic Field-Effect Transistors",0.556741
+Ambipolar Passivated Back Surface Field Layer for Silicon Photovoltaics,Diazapentalene-Containing Ultralow-Band-Gap Copolymers for High-Performance Near-Infrared Organic Phototransistors,0.49099
+Ambipolar Passivated Back Surface Field Layer for Silicon Photovoltaics,Bioderived and Eco-Friendly Solvent-Processed High-Mobility Ambipolar Plastic Transistors through Controlled Irregularity of the Polymer Backbone,0.471185
+Ambipolar Passivated Back Surface Field Layer for Silicon Photovoltaics,Densely Packed Random Quarterpolymers Containing Two Donor and Two Acceptor Units: Controlling Absorption Ability and Molecular Interaction to Enable Enhanced Polymer Photovoltaic Devices,0.424429
+Ambipolar Passivated Back Surface Field Layer for Silicon Photovoltaics,Usefulness of Polar and Bulky Phosphonate Chain-End Solubilizing Groups in Polymeric Semiconductors,0.561228
+Ambipolar Passivated Back Surface Field Layer for Silicon Photovoltaics,Effects of the Polarity and Bulkiness of End-Functionalized Side Chains on the Charge Transport of Dicyanovinyl-End-Capped Diketopyrrolopyrrole-Based n-Type Small Molecules,0.554541
+Ambipolar Passivated Back Surface Field Layer for Silicon Photovoltaics,Low‐Temperature Processed Efficient and Reproducible Blade‐Coating Organic Photovoltaic Devices with <i>γ</i>‐Position Branched Inner Side Chains‐Containing Nonfullerene Acceptor,0.498737
+Ambipolar Passivated Back Surface Field Layer for Silicon Photovoltaics,Ion slippage through Li <sup>+</sup> -centered G-quadruplex,0.299031
+Ambipolar Passivated Back Surface Field Layer for Silicon Photovoltaics,Pechmann Dye‐Containing Diketopyrrolopyrrole‐Based Stretchable Polymer Semiconductors,0.402659
+Ambipolar Passivated Back Surface Field Layer for Silicon Photovoltaics,Guanine‐Based G‐Quadruplexes Templated by Various Cations toward Potential Use as Single‐Ion Conductors,0.2693
+Ambipolar Passivated Back Surface Field Layer for Silicon Photovoltaics,Rigid Fluorescent Indacenetetraone‐Based Semiconducting Polymers via Knoevenagel Condensation,0.524073
+Ambipolar Passivated Back Surface Field Layer for Silicon Photovoltaics,Viable Regiochemical Control in Semiconducting Polymers for Field-Effect Transistors: From High-Mobility Enhancement toward High Deformability,0.470349
+Ambipolar Passivated Back Surface Field Layer for Silicon Photovoltaics,Antioxidant Additive with a High Dielectric Constant for High Photo‐Oxidative Stabilization of Organic Solar Cells without Almost Sacrificing Initial High Efficiencies,0.548625
+Ambipolar Passivated Back Surface Field Layer for Silicon Photovoltaics,"Dithienosilole-<i>co</i>-5-fluoro-2,1,3-benzothiadiazole-containing regioisomeric polymers for organic field-effect transistors",0.183268
+Ambipolar Passivated Back Surface Field Layer for Silicon Photovoltaics,Understanding of copolymers containing pyridine and selenophene simultaneously and their polarity conversion in transistors,0.391969
+Ambipolar Passivated Back Surface Field Layer for Silicon Photovoltaics,An efficient lactone-to-lactam conversion for the synthesis of thiophene Pechmann lactam and the characterization of polymers thereof,0.105713
+Ambipolar Passivated Back Surface Field Layer for Silicon Photovoltaics,Advances in Discrete Length and Fused Conjugated Oligomers,0.540829
+Ambipolar Passivated Back Surface Field Layer for Silicon Photovoltaics,Investigation of Organic Conjugated Materials to Understand the Structure-Property Relationships for High-Performance Organic Electronics,0.573212
+Ambipolar Passivated Back Surface Field Layer for Silicon Photovoltaics,Shape‐Controlled Guanine Self‐Assemblies for Stable and Fast‐Ion Solid–Electrolyte Interphases in Sustainable Li Metal Batteries,0.345851
+"An Ultrahigh Mobility in Isomorphic Fluorobenzo[<i>c</i>][1,2,5]thiadiazole‐Based Polymers","Chlorinated 2,1,3-Benzothiadiazole-Based Polymers for Organic Field-Effect Transistors",0.745332
+"An Ultrahigh Mobility in Isomorphic Fluorobenzo[<i>c</i>][1,2,5]thiadiazole‐Based Polymers",Diazapentalene-Containing Ultralow-Band-Gap Copolymers for High-Performance Near-Infrared Organic Phototransistors,0.611676
+"An Ultrahigh Mobility in Isomorphic Fluorobenzo[<i>c</i>][1,2,5]thiadiazole‐Based Polymers",Bioderived and Eco-Friendly Solvent-Processed High-Mobility Ambipolar Plastic Transistors through Controlled Irregularity of the Polymer Backbone,0.672591
+"An Ultrahigh Mobility in Isomorphic Fluorobenzo[<i>c</i>][1,2,5]thiadiazole‐Based Polymers",Densely Packed Random Quarterpolymers Containing Two Donor and Two Acceptor Units: Controlling Absorption Ability and Molecular Interaction to Enable Enhanced Polymer Photovoltaic Devices,0.638264
+"An Ultrahigh Mobility in Isomorphic Fluorobenzo[<i>c</i>][1,2,5]thiadiazole‐Based Polymers",Usefulness of Polar and Bulky Phosphonate Chain-End Solubilizing Groups in Polymeric Semiconductors,0.616645
+"An Ultrahigh Mobility in Isomorphic Fluorobenzo[<i>c</i>][1,2,5]thiadiazole‐Based Polymers",Effects of the Polarity and Bulkiness of End-Functionalized Side Chains on the Charge Transport of Dicyanovinyl-End-Capped Diketopyrrolopyrrole-Based n-Type Small Molecules,0.591535
+"An Ultrahigh Mobility in Isomorphic Fluorobenzo[<i>c</i>][1,2,5]thiadiazole‐Based Polymers",Low‐Temperature Processed Efficient and Reproducible Blade‐Coating Organic Photovoltaic Devices with <i>γ</i>‐Position Branched Inner Side Chains‐Containing Nonfullerene Acceptor,0.484107
+"An Ultrahigh Mobility in Isomorphic Fluorobenzo[<i>c</i>][1,2,5]thiadiazole‐Based Polymers",Ion slippage through Li <sup>+</sup> -centered G-quadruplex,0.411429
+"An Ultrahigh Mobility in Isomorphic Fluorobenzo[<i>c</i>][1,2,5]thiadiazole‐Based Polymers",Pechmann Dye‐Containing Diketopyrrolopyrrole‐Based Stretchable Polymer Semiconductors,0.668732
+"An Ultrahigh Mobility in Isomorphic Fluorobenzo[<i>c</i>][1,2,5]thiadiazole‐Based Polymers",Guanine‐Based G‐Quadruplexes Templated by Various Cations toward Potential Use as Single‐Ion Conductors,0.373546
+"An Ultrahigh Mobility in Isomorphic Fluorobenzo[<i>c</i>][1,2,5]thiadiazole‐Based Polymers",Rigid Fluorescent Indacenetetraone‐Based Semiconducting Polymers via Knoevenagel Condensation,0.64774
+"An Ultrahigh Mobility in Isomorphic Fluorobenzo[<i>c</i>][1,2,5]thiadiazole‐Based Polymers",Viable Regiochemical Control in Semiconducting Polymers for Field-Effect Transistors: From High-Mobility Enhancement toward High Deformability,0.75869
+"An Ultrahigh Mobility in Isomorphic Fluorobenzo[<i>c</i>][1,2,5]thiadiazole‐Based Polymers",Antioxidant Additive with a High Dielectric Constant for High Photo‐Oxidative Stabilization of Organic Solar Cells without Almost Sacrificing Initial High Efficiencies,0.49683
+"An Ultrahigh Mobility in Isomorphic Fluorobenzo[<i>c</i>][1,2,5]thiadiazole‐Based Polymers","Dithienosilole-<i>co</i>-5-fluoro-2,1,3-benzothiadiazole-containing regioisomeric polymers for organic field-effect transistors",0.551515
+"An Ultrahigh Mobility in Isomorphic Fluorobenzo[<i>c</i>][1,2,5]thiadiazole‐Based Polymers",Understanding of copolymers containing pyridine and selenophene simultaneously and their polarity conversion in transistors,0.501751
+"An Ultrahigh Mobility in Isomorphic Fluorobenzo[<i>c</i>][1,2,5]thiadiazole‐Based Polymers",An efficient lactone-to-lactam conversion for the synthesis of thiophene Pechmann lactam and the characterization of polymers thereof,0.242865
+"An Ultrahigh Mobility in Isomorphic Fluorobenzo[<i>c</i>][1,2,5]thiadiazole‐Based Polymers",Advances in Discrete Length and Fused Conjugated Oligomers,0.68371
+"An Ultrahigh Mobility in Isomorphic Fluorobenzo[<i>c</i>][1,2,5]thiadiazole‐Based Polymers",Investigation of Organic Conjugated Materials to Understand the Structure-Property Relationships for High-Performance Organic Electronics,0.624518
+"An Ultrahigh Mobility in Isomorphic Fluorobenzo[<i>c</i>][1,2,5]thiadiazole‐Based Polymers",Shape‐Controlled Guanine Self‐Assemblies for Stable and Fast‐Ion Solid–Electrolyte Interphases in Sustainable Li Metal Batteries,0.464139
+"Chlorinated 2,1,3-Benzothiadiazole-Based Polymers for Organic Field-Effect Transistors",Diazapentalene-Containing Ultralow-Band-Gap Copolymers for High-Performance Near-Infrared Organic Phototransistors,0.723971
+"Chlorinated 2,1,3-Benzothiadiazole-Based Polymers for Organic Field-Effect Transistors",Bioderived and Eco-Friendly Solvent-Processed High-Mobility Ambipolar Plastic Transistors through Controlled Irregularity of the Polymer Backbone,0.772507
+"Chlorinated 2,1,3-Benzothiadiazole-Based Polymers for Organic Field-Effect Transistors",Densely Packed Random Quarterpolymers Containing Two Donor and Two Acceptor Units: Controlling Absorption Ability and Molecular Interaction to Enable Enhanced Polymer Photovoltaic Devices,0.646378
+"Chlorinated 2,1,3-Benzothiadiazole-Based Polymers for Organic Field-Effect Transistors",Usefulness of Polar and Bulky Phosphonate Chain-End Solubilizing Groups in Polymeric Semiconductors,0.705904
+"Chlorinated 2,1,3-Benzothiadiazole-Based Polymers for Organic Field-Effect Transistors",Effects of the Polarity and Bulkiness of End-Functionalized Side Chains on the Charge Transport of Dicyanovinyl-End-Capped Diketopyrrolopyrrole-Based n-Type Small Molecules,0.657952
+"Chlorinated 2,1,3-Benzothiadiazole-Based Polymers for Organic Field-Effect Transistors",Low‐Temperature Processed Efficient and Reproducible Blade‐Coating Organic Photovoltaic Devices with <i>γ</i>‐Position Branched Inner Side Chains‐Containing Nonfullerene Acceptor,0.607771
+"Chlorinated 2,1,3-Benzothiadiazole-Based Polymers for Organic Field-Effect Transistors",Ion slippage through Li <sup>+</sup> -centered G-quadruplex,0.369642
+"Chlorinated 2,1,3-Benzothiadiazole-Based Polymers for Organic Field-Effect Transistors",Pechmann Dye‐Containing Diketopyrrolopyrrole‐Based Stretchable Polymer Semiconductors,0.656559
+"Chlorinated 2,1,3-Benzothiadiazole-Based Polymers for Organic Field-Effect Transistors",Guanine‐Based G‐Quadruplexes Templated by Various Cations toward Potential Use as Single‐Ion Conductors,0.387562
+"Chlorinated 2,1,3-Benzothiadiazole-Based Polymers for Organic Field-Effect Transistors",Rigid Fluorescent Indacenetetraone‐Based Semiconducting Polymers via Knoevenagel Condensation,0.74852
+"Chlorinated 2,1,3-Benzothiadiazole-Based Polymers for Organic Field-Effect Transistors",Viable Regiochemical Control in Semiconducting Polymers for Field-Effect Transistors: From High-Mobility Enhancement toward High Deformability,0.744055
+"Chlorinated 2,1,3-Benzothiadiazole-Based Polymers for Organic Field-Effect Transistors",Antioxidant Additive with a High Dielectric Constant for High Photo‐Oxidative Stabilization of Organic Solar Cells without Almost Sacrificing Initial High Efficiencies,0.605095
+"Chlorinated 2,1,3-Benzothiadiazole-Based Polymers for Organic Field-Effect Transistors","Dithienosilole-<i>co</i>-5-fluoro-2,1,3-benzothiadiazole-containing regioisomeric polymers for organic field-effect transistors",0.3718
+"Chlorinated 2,1,3-Benzothiadiazole-Based Polymers for Organic Field-Effect Transistors",Understanding of copolymers containing pyridine and selenophene simultaneously and their polarity conversion in transistors,0.533654
+"Chlorinated 2,1,3-Benzothiadiazole-Based Polymers for Organic Field-Effect Transistors",An efficient lactone-to-lactam conversion for the synthesis of thiophene Pechmann lactam and the characterization of polymers thereof,0.163684
+"Chlorinated 2,1,3-Benzothiadiazole-Based Polymers for Organic Field-Effect Transistors",Advances in Discrete Length and Fused Conjugated Oligomers,0.807589
+"Chlorinated 2,1,3-Benzothiadiazole-Based Polymers for Organic Field-Effect Transistors",Investigation of Organic Conjugated Materials to Understand the Structure-Property Relationships for High-Performance Organic Electronics,0.77623
+"Chlorinated 2,1,3-Benzothiadiazole-Based Polymers for Organic Field-Effect Transistors",Shape‐Controlled Guanine Self‐Assemblies for Stable and Fast‐Ion Solid–Electrolyte Interphases in Sustainable Li Metal Batteries,0.416267
+Diazapentalene-Containing Ultralow-Band-Gap Copolymers for High-Performance Near-Infrared Organic Phototransistors,Bioderived and Eco-Friendly Solvent-Processed High-Mobility Ambipolar Plastic Transistors through Controlled Irregularity of the Polymer Backbone,0.74921
+Diazapentalene-Containing Ultralow-Band-Gap Copolymers for High-Performance Near-Infrared Organic Phototransistors,Densely Packed Random Quarterpolymers Containing Two Donor and Two Acceptor Units: Controlling Absorption Ability and Molecular Interaction to Enable Enhanced Polymer Photovoltaic Devices,0.613307
+Diazapentalene-Containing Ultralow-Band-Gap Copolymers for High-Performance Near-Infrared Organic Phototransistors,Usefulness of Polar and Bulky Phosphonate Chain-End Solubilizing Groups in Polymeric Semiconductors,0.707227
+Diazapentalene-Containing Ultralow-Band-Gap Copolymers for High-Performance Near-Infrared Organic Phototransistors,Effects of the Polarity and Bulkiness of End-Functionalized Side Chains on the Charge Transport of Dicyanovinyl-End-Capped Diketopyrrolopyrrole-Based n-Type Small Molecules,0.681112
+Diazapentalene-Containing Ultralow-Band-Gap Copolymers for High-Performance Near-Infrared Organic Phototransistors,Low‐Temperature Processed Efficient and Reproducible Blade‐Coating Organic Photovoltaic Devices with <i>γ</i>‐Position Branched Inner Side Chains‐Containing Nonfullerene Acceptor,0.597269
+Diazapentalene-Containing Ultralow-Band-Gap Copolymers for High-Performance Near-Infrared Organic Phototransistors,Ion slippage through Li <sup>+</sup> -centered G-quadruplex,0.335875
+Diazapentalene-Containing Ultralow-Band-Gap Copolymers for High-Performance Near-Infrared Organic Phototransistors,Pechmann Dye‐Containing Diketopyrrolopyrrole‐Based Stretchable Polymer Semiconductors,0.648664
+Diazapentalene-Containing Ultralow-Band-Gap Copolymers for High-Performance Near-Infrared Organic Phototransistors,Guanine‐Based G‐Quadruplexes Templated by Various Cations toward Potential Use as Single‐Ion Conductors,0.409918
+Diazapentalene-Containing Ultralow-Band-Gap Copolymers for High-Performance Near-Infrared Organic Phototransistors,Rigid Fluorescent Indacenetetraone‐Based Semiconducting Polymers via Knoevenagel Condensation,0.76409
+Diazapentalene-Containing Ultralow-Band-Gap Copolymers for High-Performance Near-Infrared Organic Phototransistors,Viable Regiochemical Control in Semiconducting Polymers for Field-Effect Transistors: From High-Mobility Enhancement toward High Deformability,0.665437
+Diazapentalene-Containing Ultralow-Band-Gap Copolymers for High-Performance Near-Infrared Organic Phototransistors,Antioxidant Additive with a High Dielectric Constant for High Photo‐Oxidative Stabilization of Organic Solar Cells without Almost Sacrificing Initial High Efficiencies,0.567662
+Diazapentalene-Containing Ultralow-Band-Gap Copolymers for High-Performance Near-Infrared Organic Phototransistors,"Dithienosilole-<i>co</i>-5-fluoro-2,1,3-benzothiadiazole-containing regioisomeric polymers for organic field-effect transistors",0.334127
+Diazapentalene-Containing Ultralow-Band-Gap Copolymers for High-Performance Near-Infrared Organic Phototransistors,Understanding of copolymers containing pyridine and selenophene simultaneously and their polarity conversion in transistors,0.498554
+Diazapentalene-Containing Ultralow-Band-Gap Copolymers for High-Performance Near-Infrared Organic Phototransistors,An efficient lactone-to-lactam conversion for the synthesis of thiophene Pechmann lactam and the characterization of polymers thereof,0.270141
+Diazapentalene-Containing Ultralow-Band-Gap Copolymers for High-Performance Near-Infrared Organic Phototransistors,Advances in Discrete Length and Fused Conjugated Oligomers,0.739159
+Diazapentalene-Containing Ultralow-Band-Gap Copolymers for High-Performance Near-Infrared Organic Phototransistors,Investigation of Organic Conjugated Materials to Understand the Structure-Property Relationships for High-Performance Organic Electronics,0.721314
+Diazapentalene-Containing Ultralow-Band-Gap Copolymers for High-Performance Near-Infrared Organic Phototransistors,Shape‐Controlled Guanine Self‐Assemblies for Stable and Fast‐Ion Solid–Electrolyte Interphases in Sustainable Li Metal Batteries,0.487177
+Bioderived and Eco-Friendly Solvent-Processed High-Mobility Ambipolar Plastic Transistors through Controlled Irregularity of the Polymer Backbone,Densely Packed Random Quarterpolymers Containing Two Donor and Two Acceptor Units: Controlling Absorption Ability and Molecular Interaction to Enable Enhanced Polymer Photovoltaic Devices,0.620412
+Bioderived and Eco-Friendly Solvent-Processed High-Mobility Ambipolar Plastic Transistors through Controlled Irregularity of the Polymer Backbone,Usefulness of Polar and Bulky Phosphonate Chain-End Solubilizing Groups in Polymeric Semiconductors,0.789248
+Bioderived and Eco-Friendly Solvent-Processed High-Mobility Ambipolar Plastic Transistors through Controlled Irregularity of the Polymer Backbone,Effects of the Polarity and Bulkiness of End-Functionalized Side Chains on the Charge Transport of Dicyanovinyl-End-Capped Diketopyrrolopyrrole-Based n-Type Small Molecules,0.710464
+Bioderived and Eco-Friendly Solvent-Processed High-Mobility Ambipolar Plastic Transistors through Controlled Irregularity of the Polymer Backbone,Low‐Temperature Processed Efficient and Reproducible Blade‐Coating Organic Photovoltaic Devices with <i>γ</i>‐Position Branched Inner Side Chains‐Containing Nonfullerene Acceptor,0.667032
+Bioderived and Eco-Friendly Solvent-Processed High-Mobility Ambipolar Plastic Transistors through Controlled Irregularity of the Polymer Backbone,Ion slippage through Li <sup>+</sup> -centered G-quadruplex,0.415906
+Bioderived and Eco-Friendly Solvent-Processed High-Mobility Ambipolar Plastic Transistors through Controlled Irregularity of the Polymer Backbone,Pechmann Dye‐Containing Diketopyrrolopyrrole‐Based Stretchable Polymer Semiconductors,0.74346
+Bioderived and Eco-Friendly Solvent-Processed High-Mobility Ambipolar Plastic Transistors through Controlled Irregularity of the Polymer Backbone,Guanine‐Based G‐Quadruplexes Templated by Various Cations toward Potential Use as Single‐Ion Conductors,0.439142
+Bioderived and Eco-Friendly Solvent-Processed High-Mobility Ambipolar Plastic Transistors through Controlled Irregularity of the Polymer Backbone,Rigid Fluorescent Indacenetetraone‐Based Semiconducting Polymers via Knoevenagel Condensation,0.77076
+Bioderived and Eco-Friendly Solvent-Processed High-Mobility Ambipolar Plastic Transistors through Controlled Irregularity of the Polymer Backbone,Viable Regiochemical Control in Semiconducting Polymers for Field-Effect Transistors: From High-Mobility Enhancement toward High Deformability,0.715265
+Bioderived and Eco-Friendly Solvent-Processed High-Mobility Ambipolar Plastic Transistors through Controlled Irregularity of the Polymer Backbone,Antioxidant Additive with a High Dielectric Constant for High Photo‐Oxidative Stabilization of Organic Solar Cells without Almost Sacrificing Initial High Efficiencies,0.617095
+Bioderived and Eco-Friendly Solvent-Processed High-Mobility Ambipolar Plastic Transistors through Controlled Irregularity of the Polymer Backbone,"Dithienosilole-<i>co</i>-5-fluoro-2,1,3-benzothiadiazole-containing regioisomeric polymers for organic field-effect transistors",0.429139
+Bioderived and Eco-Friendly Solvent-Processed High-Mobility Ambipolar Plastic Transistors through Controlled Irregularity of the Polymer Backbone,Understanding of copolymers containing pyridine and selenophene simultaneously and their polarity conversion in transistors,0.660756
+Bioderived and Eco-Friendly Solvent-Processed High-Mobility Ambipolar Plastic Transistors through Controlled Irregularity of the Polymer Backbone,An efficient lactone-to-lactam conversion for the synthesis of thiophene Pechmann lactam and the characterization of polymers thereof,0.294572
+Bioderived and Eco-Friendly Solvent-Processed High-Mobility Ambipolar Plastic Transistors through Controlled Irregularity of the Polymer Backbone,Advances in Discrete Length and Fused Conjugated Oligomers,0.712821
+Bioderived and Eco-Friendly Solvent-Processed High-Mobility Ambipolar Plastic Transistors through Controlled Irregularity of the Polymer Backbone,Investigation of Organic Conjugated Materials to Understand the Structure-Property Relationships for High-Performance Organic Electronics,0.753153
+Bioderived and Eco-Friendly Solvent-Processed High-Mobility Ambipolar Plastic Transistors through Controlled Irregularity of the Polymer Backbone,Shape‐Controlled Guanine Self‐Assemblies for Stable and Fast‐Ion Solid–Electrolyte Interphases in Sustainable Li Metal Batteries,0.496344
+Densely Packed Random Quarterpolymers Containing Two Donor and Two Acceptor Units: Controlling Absorption Ability and Molecular Interaction to Enable Enhanced Polymer Photovoltaic Devices,Usefulness of Polar and Bulky Phosphonate Chain-End Solubilizing Groups in Polymeric Semiconductors,0.601249
+Densely Packed Random Quarterpolymers Containing Two Donor and Two Acceptor Units: Controlling Absorption Ability and Molecular Interaction to Enable Enhanced Polymer Photovoltaic Devices,Effects of the Polarity and Bulkiness of End-Functionalized Side Chains on the Charge Transport of Dicyanovinyl-End-Capped Diketopyrrolopyrrole-Based n-Type Small Molecules,0.555029
+Densely Packed Random Quarterpolymers Containing Two Donor and Two Acceptor Units: Controlling Absorption Ability and Molecular Interaction to Enable Enhanced Polymer Photovoltaic Devices,Low‐Temperature Processed Efficient and Reproducible Blade‐Coating Organic Photovoltaic Devices with <i>γ</i>‐Position Branched Inner Side Chains‐Containing Nonfullerene Acceptor,0.531295
+Densely Packed Random Quarterpolymers Containing Two Donor and Two Acceptor Units: Controlling Absorption Ability and Molecular Interaction to Enable Enhanced Polymer Photovoltaic Devices,Ion slippage through Li <sup>+</sup> -centered G-quadruplex,0.33041
+Densely Packed Random Quarterpolymers Containing Two Donor and Two Acceptor Units: Controlling Absorption Ability and Molecular Interaction to Enable Enhanced Polymer Photovoltaic Devices,Pechmann Dye‐Containing Diketopyrrolopyrrole‐Based Stretchable Polymer Semiconductors,0.69488
+Densely Packed Random Quarterpolymers Containing Two Donor and Two Acceptor Units: Controlling Absorption Ability and Molecular Interaction to Enable Enhanced Polymer Photovoltaic Devices,Guanine‐Based G‐Quadruplexes Templated by Various Cations toward Potential Use as Single‐Ion Conductors,0.381825
+Densely Packed Random Quarterpolymers Containing Two Donor and Two Acceptor Units: Controlling Absorption Ability and Molecular Interaction to Enable Enhanced Polymer Photovoltaic Devices,Rigid Fluorescent Indacenetetraone‐Based Semiconducting Polymers via Knoevenagel Condensation,0.630991
+Densely Packed Random Quarterpolymers Containing Two Donor and Two Acceptor Units: Controlling Absorption Ability and Molecular Interaction to Enable Enhanced Polymer Photovoltaic Devices,Viable Regiochemical Control in Semiconducting Polymers for Field-Effect Transistors: From High-Mobility Enhancement toward High Deformability,0.579287
+Densely Packed Random Quarterpolymers Containing Two Donor and Two Acceptor Units: Controlling Absorption Ability and Molecular Interaction to Enable Enhanced Polymer Photovoltaic Devices,Antioxidant Additive with a High Dielectric Constant for High Photo‐Oxidative Stabilization of Organic Solar Cells without Almost Sacrificing Initial High Efficiencies,0.48976
+Densely Packed Random Quarterpolymers Containing Two Donor and Two Acceptor Units: Controlling Absorption Ability and Molecular Interaction to Enable Enhanced Polymer Photovoltaic Devices,"Dithienosilole-<i>co</i>-5-fluoro-2,1,3-benzothiadiazole-containing regioisomeric polymers for organic field-effect transistors",0.512052
+Densely Packed Random Quarterpolymers Containing Two Donor and Two Acceptor Units: Controlling Absorption Ability and Molecular Interaction to Enable Enhanced Polymer Photovoltaic Devices,Understanding of copolymers containing pyridine and selenophene simultaneously and their polarity conversion in transistors,0.55884
+Densely Packed Random Quarterpolymers Containing Two Donor and Two Acceptor Units: Controlling Absorption Ability and Molecular Interaction to Enable Enhanced Polymer Photovoltaic Devices,An efficient lactone-to-lactam conversion for the synthesis of thiophene Pechmann lactam and the characterization of polymers thereof,0.244828
+Densely Packed Random Quarterpolymers Containing Two Donor and Two Acceptor Units: Controlling Absorption Ability and Molecular Interaction to Enable Enhanced Polymer Photovoltaic Devices,Advances in Discrete Length and Fused Conjugated Oligomers,0.634471
+Densely Packed Random Quarterpolymers Containing Two Donor and Two Acceptor Units: Controlling Absorption Ability and Molecular Interaction to Enable Enhanced Polymer Photovoltaic Devices,Investigation of Organic Conjugated Materials to Understand the Structure-Property Relationships for High-Performance Organic Electronics,0.503373
+Densely Packed Random Quarterpolymers Containing Two Donor and Two Acceptor Units: Controlling Absorption Ability and Molecular Interaction to Enable Enhanced Polymer Photovoltaic Devices,Shape‐Controlled Guanine Self‐Assemblies for Stable and Fast‐Ion Solid–Electrolyte Interphases in Sustainable Li Metal Batteries,0.444429
+Usefulness of Polar and Bulky Phosphonate Chain-End Solubilizing Groups in Polymeric Semiconductors,Effects of the Polarity and Bulkiness of End-Functionalized Side Chains on the Charge Transport of Dicyanovinyl-End-Capped Diketopyrrolopyrrole-Based n-Type Small Molecules,0.766485
+Usefulness of Polar and Bulky Phosphonate Chain-End Solubilizing Groups in Polymeric Semiconductors,Low‐Temperature Processed Efficient and Reproducible Blade‐Coating Organic Photovoltaic Devices with <i>γ</i>‐Position Branched Inner Side Chains‐Containing Nonfullerene Acceptor,0.599887
+Usefulness of Polar and Bulky Phosphonate Chain-End Solubilizing Groups in Polymeric Semiconductors,Ion slippage through Li <sup>+</sup> -centered G-quadruplex,0.380733
+Usefulness of Polar and Bulky Phosphonate Chain-End Solubilizing Groups in Polymeric Semiconductors,Pechmann Dye‐Containing Diketopyrrolopyrrole‐Based Stretchable Polymer Semiconductors,0.682787
+Usefulness of Polar and Bulky Phosphonate Chain-End Solubilizing Groups in Polymeric Semiconductors,Guanine‐Based G‐Quadruplexes Templated by Various Cations toward Potential Use as Single‐Ion Conductors,0.420267
+Usefulness of Polar and Bulky Phosphonate Chain-End Solubilizing Groups in Polymeric Semiconductors,Rigid Fluorescent Indacenetetraone‐Based Semiconducting Polymers via Knoevenagel Condensation,0.673688
+Usefulness of Polar and Bulky Phosphonate Chain-End Solubilizing Groups in Polymeric Semiconductors,Viable Regiochemical Control in Semiconducting Polymers for Field-Effect Transistors: From High-Mobility Enhancement toward High Deformability,0.695574
+Usefulness of Polar and Bulky Phosphonate Chain-End Solubilizing Groups in Polymeric Semiconductors,Antioxidant Additive with a High Dielectric Constant for High Photo‐Oxidative Stabilization of Organic Solar Cells without Almost Sacrificing Initial High Efficiencies,0.534582
+Usefulness of Polar and Bulky Phosphonate Chain-End Solubilizing Groups in Polymeric Semiconductors,"Dithienosilole-<i>co</i>-5-fluoro-2,1,3-benzothiadiazole-containing regioisomeric polymers for organic field-effect transistors",0.407801
+Usefulness of Polar and Bulky Phosphonate Chain-End Solubilizing Groups in Polymeric Semiconductors,Understanding of copolymers containing pyridine and selenophene simultaneously and their polarity conversion in transistors,0.578241
+Usefulness of Polar and Bulky Phosphonate Chain-End Solubilizing Groups in Polymeric Semiconductors,An efficient lactone-to-lactam conversion for the synthesis of thiophene Pechmann lactam and the characterization of polymers thereof,0.28466
+Usefulness of Polar and Bulky Phosphonate Chain-End Solubilizing Groups in Polymeric Semiconductors,Advances in Discrete Length and Fused Conjugated Oligomers,0.684875
+Usefulness of Polar and Bulky Phosphonate Chain-End Solubilizing Groups in Polymeric Semiconductors,Investigation of Organic Conjugated Materials to Understand the Structure-Property Relationships for High-Performance Organic Electronics,0.692753
+Usefulness of Polar and Bulky Phosphonate Chain-End Solubilizing Groups in Polymeric Semiconductors,Shape‐Controlled Guanine Self‐Assemblies for Stable and Fast‐Ion Solid–Electrolyte Interphases in Sustainable Li Metal Batteries,0.468362
+Effects of the Polarity and Bulkiness of End-Functionalized Side Chains on the Charge Transport of Dicyanovinyl-End-Capped Diketopyrrolopyrrole-Based n-Type Small Molecules,Low‐Temperature Processed Efficient and Reproducible Blade‐Coating Organic Photovoltaic Devices with <i>γ</i>‐Position Branched Inner Side Chains‐Containing Nonfullerene Acceptor,0.62013
+Effects of the Polarity and Bulkiness of End-Functionalized Side Chains on the Charge Transport of Dicyanovinyl-End-Capped Diketopyrrolopyrrole-Based n-Type Small Molecules,Ion slippage through Li <sup>+</sup> -centered G-quadruplex,0.426815
+Effects of the Polarity and Bulkiness of End-Functionalized Side Chains on the Charge Transport of Dicyanovinyl-End-Capped Diketopyrrolopyrrole-Based n-Type Small Molecules,Pechmann Dye‐Containing Diketopyrrolopyrrole‐Based Stretchable Polymer Semiconductors,0.618751
+Effects of the Polarity and Bulkiness of End-Functionalized Side Chains on the Charge Transport of Dicyanovinyl-End-Capped Diketopyrrolopyrrole-Based n-Type Small Molecules,Guanine‐Based G‐Quadruplexes Templated by Various Cations toward Potential Use as Single‐Ion Conductors,0.495513
+Effects of the Polarity and Bulkiness of End-Functionalized Side Chains on the Charge Transport of Dicyanovinyl-End-Capped Diketopyrrolopyrrole-Based n-Type Small Molecules,Rigid Fluorescent Indacenetetraone‐Based Semiconducting Polymers via Knoevenagel Condensation,0.678188
+Effects of the Polarity and Bulkiness of End-Functionalized Side Chains on the Charge Transport of Dicyanovinyl-End-Capped Diketopyrrolopyrrole-Based n-Type Small Molecules,Viable Regiochemical Control in Semiconducting Polymers for Field-Effect Transistors: From High-Mobility Enhancement toward High Deformability,0.658434
+Effects of the Polarity and Bulkiness of End-Functionalized Side Chains on the Charge Transport of Dicyanovinyl-End-Capped Diketopyrrolopyrrole-Based n-Type Small Molecules,Antioxidant Additive with a High Dielectric Constant for High Photo‐Oxidative Stabilization of Organic Solar Cells without Almost Sacrificing Initial High Efficiencies,0.567494
+Effects of the Polarity and Bulkiness of End-Functionalized Side Chains on the Charge Transport of Dicyanovinyl-End-Capped Diketopyrrolopyrrole-Based n-Type Small Molecules,"Dithienosilole-<i>co</i>-5-fluoro-2,1,3-benzothiadiazole-containing regioisomeric polymers for organic field-effect transistors",0.412564
+Effects of the Polarity and Bulkiness of End-Functionalized Side Chains on the Charge Transport of Dicyanovinyl-End-Capped Diketopyrrolopyrrole-Based n-Type Small Molecules,Understanding of copolymers containing pyridine and selenophene simultaneously and their polarity conversion in transistors,0.557745
+Effects of the Polarity and Bulkiness of End-Functionalized Side Chains on the Charge Transport of Dicyanovinyl-End-Capped Diketopyrrolopyrrole-Based n-Type Small Molecules,An efficient lactone-to-lactam conversion for the synthesis of thiophene Pechmann lactam and the characterization of polymers thereof,0.340688
+Effects of the Polarity and Bulkiness of End-Functionalized Side Chains on the Charge Transport of Dicyanovinyl-End-Capped Diketopyrrolopyrrole-Based n-Type Small Molecules,Advances in Discrete Length and Fused Conjugated Oligomers,0.687868
+Effects of the Polarity and Bulkiness of End-Functionalized Side Chains on the Charge Transport of Dicyanovinyl-End-Capped Diketopyrrolopyrrole-Based n-Type Small Molecules,Investigation of Organic Conjugated Materials to Understand the Structure-Property Relationships for High-Performance Organic Electronics,0.762432
+Effects of the Polarity and Bulkiness of End-Functionalized Side Chains on the Charge Transport of Dicyanovinyl-End-Capped Diketopyrrolopyrrole-Based n-Type Small Molecules,Shape‐Controlled Guanine Self‐Assemblies for Stable and Fast‐Ion Solid–Electrolyte Interphases in Sustainable Li Metal Batteries,0.567807
+Low‐Temperature Processed Efficient and Reproducible Blade‐Coating Organic Photovoltaic Devices with <i>γ</i>‐Position Branched Inner Side Chains‐Containing Nonfullerene Acceptor,Ion slippage through Li <sup>+</sup> -centered G-quadruplex,0.393929
+Low‐Temperature Processed Efficient and Reproducible Blade‐Coating Organic Photovoltaic Devices with <i>γ</i>‐Position Branched Inner Side Chains‐Containing Nonfullerene Acceptor,Pechmann Dye‐Containing Diketopyrrolopyrrole‐Based Stretchable Polymer Semiconductors,0.563017
+Low‐Temperature Processed Efficient and Reproducible Blade‐Coating Organic Photovoltaic Devices with <i>γ</i>‐Position Branched Inner Side Chains‐Containing Nonfullerene Acceptor,Guanine‐Based G‐Quadruplexes Templated by Various Cations toward Potential Use as Single‐Ion Conductors,0.421861
+Low‐Temperature Processed Efficient and Reproducible Blade‐Coating Organic Photovoltaic Devices with <i>γ</i>‐Position Branched Inner Side Chains‐Containing Nonfullerene Acceptor,Rigid Fluorescent Indacenetetraone‐Based Semiconducting Polymers via Knoevenagel Condensation,0.646468
+Low‐Temperature Processed Efficient and Reproducible Blade‐Coating Organic Photovoltaic Devices with <i>γ</i>‐Position Branched Inner Side Chains‐Containing Nonfullerene Acceptor,Viable Regiochemical Control in Semiconducting Polymers for Field-Effect Transistors: From High-Mobility Enhancement toward High Deformability,0.592015
+Low‐Temperature Processed Efficient and Reproducible Blade‐Coating Organic Photovoltaic Devices with <i>γ</i>‐Position Branched Inner Side Chains‐Containing Nonfullerene Acceptor,Antioxidant Additive with a High Dielectric Constant for High Photo‐Oxidative Stabilization of Organic Solar Cells without Almost Sacrificing Initial High Efficiencies,0.653362
+Low‐Temperature Processed Efficient and Reproducible Blade‐Coating Organic Photovoltaic Devices with <i>γ</i>‐Position Branched Inner Side Chains‐Containing Nonfullerene Acceptor,"Dithienosilole-<i>co</i>-5-fluoro-2,1,3-benzothiadiazole-containing regioisomeric polymers for organic field-effect transistors",0.343735
+Low‐Temperature Processed Efficient and Reproducible Blade‐Coating Organic Photovoltaic Devices with <i>γ</i>‐Position Branched Inner Side Chains‐Containing Nonfullerene Acceptor,Understanding of copolymers containing pyridine and selenophene simultaneously and their polarity conversion in transistors,0.509427
+Low‐Temperature Processed Efficient and Reproducible Blade‐Coating Organic Photovoltaic Devices with <i>γ</i>‐Position Branched Inner Side Chains‐Containing Nonfullerene Acceptor,An efficient lactone-to-lactam conversion for the synthesis of thiophene Pechmann lactam and the characterization of polymers thereof,0.253042
+Low‐Temperature Processed Efficient and Reproducible Blade‐Coating Organic Photovoltaic Devices with <i>γ</i>‐Position Branched Inner Side Chains‐Containing Nonfullerene Acceptor,Advances in Discrete Length and Fused Conjugated Oligomers,0.648671
+Low‐Temperature Processed Efficient and Reproducible Blade‐Coating Organic Photovoltaic Devices with <i>γ</i>‐Position Branched Inner Side Chains‐Containing Nonfullerene Acceptor,Investigation of Organic Conjugated Materials to Understand the Structure-Property Relationships for High-Performance Organic Electronics,0.662626
+Low‐Temperature Processed Efficient and Reproducible Blade‐Coating Organic Photovoltaic Devices with <i>γ</i>‐Position Branched Inner Side Chains‐Containing Nonfullerene Acceptor,Shape‐Controlled Guanine Self‐Assemblies for Stable and Fast‐Ion Solid–Electrolyte Interphases in Sustainable Li Metal Batteries,0.504479
+Ion slippage through Li <sup>+</sup> -centered G-quadruplex,Pechmann Dye‐Containing Diketopyrrolopyrrole‐Based Stretchable Polymer Semiconductors,0.400776
+Ion slippage through Li <sup>+</sup> -centered G-quadruplex,Guanine‐Based G‐Quadruplexes Templated by Various Cations toward Potential Use as Single‐Ion Conductors,0.74243
+Ion slippage through Li <sup>+</sup> -centered G-quadruplex,Rigid Fluorescent Indacenetetraone‐Based Semiconducting Polymers via Knoevenagel Condensation,0.390881
+Ion slippage through Li <sup>+</sup> -centered G-quadruplex,Viable Regiochemical Control in Semiconducting Polymers for Field-Effect Transistors: From High-Mobility Enhancement toward High Deformability,0.35362
+Ion slippage through Li <sup>+</sup> -centered G-quadruplex,Antioxidant Additive with a High Dielectric Constant for High Photo‐Oxidative Stabilization of Organic Solar Cells without Almost Sacrificing Initial High Efficiencies,0.363609
+Ion slippage through Li <sup>+</sup> -centered G-quadruplex,"Dithienosilole-<i>co</i>-5-fluoro-2,1,3-benzothiadiazole-containing regioisomeric polymers for organic field-effect transistors",0.329135
+Ion slippage through Li <sup>+</sup> -centered G-quadruplex,Understanding of copolymers containing pyridine and selenophene simultaneously and their polarity conversion in transistors,0.37779
+Ion slippage through Li <sup>+</sup> -centered G-quadruplex,An efficient lactone-to-lactam conversion for the synthesis of thiophene Pechmann lactam and the characterization of polymers thereof,0.302056
+Ion slippage through Li <sup>+</sup> -centered G-quadruplex,Advances in Discrete Length and Fused Conjugated Oligomers,0.384487
+Ion slippage through Li <sup>+</sup> -centered G-quadruplex,Investigation of Organic Conjugated Materials to Understand the Structure-Property Relationships for High-Performance Organic Electronics,0.46055
+Ion slippage through Li <sup>+</sup> -centered G-quadruplex,Shape‐Controlled Guanine Self‐Assemblies for Stable and Fast‐Ion Solid–Electrolyte Interphases in Sustainable Li Metal Batteries,0.717904
+Pechmann Dye‐Containing Diketopyrrolopyrrole‐Based Stretchable Polymer Semiconductors,Guanine‐Based G‐Quadruplexes Templated by Various Cations toward Potential Use as Single‐Ion Conductors,0.394958
+Pechmann Dye‐Containing Diketopyrrolopyrrole‐Based Stretchable Polymer Semiconductors,Rigid Fluorescent Indacenetetraone‐Based Semiconducting Polymers via Knoevenagel Condensation,0.663428
+Pechmann Dye‐Containing Diketopyrrolopyrrole‐Based Stretchable Polymer Semiconductors,Viable Regiochemical Control in Semiconducting Polymers for Field-Effect Transistors: From High-Mobility Enhancement toward High Deformability,0.751704
+Pechmann Dye‐Containing Diketopyrrolopyrrole‐Based Stretchable Polymer Semiconductors,Antioxidant Additive with a High Dielectric Constant for High Photo‐Oxidative Stabilization of Organic Solar Cells without Almost Sacrificing Initial High Efficiencies,0.51561
+Pechmann Dye‐Containing Diketopyrrolopyrrole‐Based Stretchable Polymer Semiconductors,"Dithienosilole-<i>co</i>-5-fluoro-2,1,3-benzothiadiazole-containing regioisomeric polymers for organic field-effect transistors",0.526875
+Pechmann Dye‐Containing Diketopyrrolopyrrole‐Based Stretchable Polymer Semiconductors,Understanding of copolymers containing pyridine and selenophene simultaneously and their polarity conversion in transistors,0.578779
+Pechmann Dye‐Containing Diketopyrrolopyrrole‐Based Stretchable Polymer Semiconductors,An efficient lactone-to-lactam conversion for the synthesis of thiophene Pechmann lactam and the characterization of polymers thereof,0.241985
+Pechmann Dye‐Containing Diketopyrrolopyrrole‐Based Stretchable Polymer Semiconductors,Advances in Discrete Length and Fused Conjugated Oligomers,0.630904
+Pechmann Dye‐Containing Diketopyrrolopyrrole‐Based Stretchable Polymer Semiconductors,Investigation of Organic Conjugated Materials to Understand the Structure-Property Relationships for High-Performance Organic Electronics,0.672654
+Pechmann Dye‐Containing Diketopyrrolopyrrole‐Based Stretchable Polymer Semiconductors,Shape‐Controlled Guanine Self‐Assemblies for Stable and Fast‐Ion Solid–Electrolyte Interphases in Sustainable Li Metal Batteries,0.50682
+Guanine‐Based G‐Quadruplexes Templated by Various Cations toward Potential Use as Single‐Ion Conductors,Rigid Fluorescent Indacenetetraone‐Based Semiconducting Polymers via Knoevenagel Condensation,0.452609
+Guanine‐Based G‐Quadruplexes Templated by Various Cations toward Potential Use as Single‐Ion Conductors,Viable Regiochemical Control in Semiconducting Polymers for Field-Effect Transistors: From High-Mobility Enhancement toward High Deformability,0.373947
+Guanine‐Based G‐Quadruplexes Templated by Various Cations toward Potential Use as Single‐Ion Conductors,Antioxidant Additive with a High Dielectric Constant for High Photo‐Oxidative Stabilization of Organic Solar Cells without Almost Sacrificing Initial High Efficiencies,0.442361
+Guanine‐Based G‐Quadruplexes Templated by Various Cations toward Potential Use as Single‐Ion Conductors,"Dithienosilole-<i>co</i>-5-fluoro-2,1,3-benzothiadiazole-containing regioisomeric polymers for organic field-effect transistors",0.356718
+Guanine‐Based G‐Quadruplexes Templated by Various Cations toward Potential Use as Single‐Ion Conductors,Understanding of copolymers containing pyridine and selenophene simultaneously and their polarity conversion in transistors,0.434782
+Guanine‐Based G‐Quadruplexes Templated by Various Cations toward Potential Use as Single‐Ion Conductors,An efficient lactone-to-lactam conversion for the synthesis of thiophene Pechmann lactam and the characterization of polymers thereof,0.284611
+Guanine‐Based G‐Quadruplexes Templated by Various Cations toward Potential Use as Single‐Ion Conductors,Advances in Discrete Length and Fused Conjugated Oligomers,0.452463
+Guanine‐Based G‐Quadruplexes Templated by Various Cations toward Potential Use as Single‐Ion Conductors,Investigation of Organic Conjugated Materials to Understand the Structure-Property Relationships for High-Performance Organic Electronics,0.496111
+Guanine‐Based G‐Quadruplexes Templated by Various Cations toward Potential Use as Single‐Ion Conductors,Shape‐Controlled Guanine Self‐Assemblies for Stable and Fast‐Ion Solid–Electrolyte Interphases in Sustainable Li Metal Batteries,0.760513
+Rigid Fluorescent Indacenetetraone‐Based Semiconducting Polymers via Knoevenagel Condensation,Viable Regiochemical Control in Semiconducting Polymers for Field-Effect Transistors: From High-Mobility Enhancement toward High Deformability,0.73136
+Rigid Fluorescent Indacenetetraone‐Based Semiconducting Polymers via Knoevenagel Condensation,Antioxidant Additive with a High Dielectric Constant for High Photo‐Oxidative Stabilization of Organic Solar Cells without Almost Sacrificing Initial High Efficiencies,0.653029
+Rigid Fluorescent Indacenetetraone‐Based Semiconducting Polymers via Knoevenagel Condensation,"Dithienosilole-<i>co</i>-5-fluoro-2,1,3-benzothiadiazole-containing regioisomeric polymers for organic field-effect transistors",0.48079
+Rigid Fluorescent Indacenetetraone‐Based Semiconducting Polymers via Knoevenagel Condensation,Understanding of copolymers containing pyridine and selenophene simultaneously and their polarity conversion in transistors,0.620537
+Rigid Fluorescent Indacenetetraone‐Based Semiconducting Polymers via Knoevenagel Condensation,An efficient lactone-to-lactam conversion for the synthesis of thiophene Pechmann lactam and the characterization of polymers thereof,0.257216
+Rigid Fluorescent Indacenetetraone‐Based Semiconducting Polymers via Knoevenagel Condensation,Advances in Discrete Length and Fused Conjugated Oligomers,0.762078
+Rigid Fluorescent Indacenetetraone‐Based Semiconducting Polymers via Knoevenagel Condensation,Investigation of Organic Conjugated Materials to Understand the Structure-Property Relationships for High-Performance Organic Electronics,0.77336
+Rigid Fluorescent Indacenetetraone‐Based Semiconducting Polymers via Knoevenagel Condensation,Shape‐Controlled Guanine Self‐Assemblies for Stable and Fast‐Ion Solid–Electrolyte Interphases in Sustainable Li Metal Batteries,0.506609
+Viable Regiochemical Control in Semiconducting Polymers for Field-Effect Transistors: From High-Mobility Enhancement toward High Deformability,Antioxidant Additive with a High Dielectric Constant for High Photo‐Oxidative Stabilization of Organic Solar Cells without Almost Sacrificing Initial High Efficiencies,0.559628
+Viable Regiochemical Control in Semiconducting Polymers for Field-Effect Transistors: From High-Mobility Enhancement toward High Deformability,"Dithienosilole-<i>co</i>-5-fluoro-2,1,3-benzothiadiazole-containing regioisomeric polymers for organic field-effect transistors",0.611088
+Viable Regiochemical Control in Semiconducting Polymers for Field-Effect Transistors: From High-Mobility Enhancement toward High Deformability,Understanding of copolymers containing pyridine and selenophene simultaneously and their polarity conversion in transistors,0.557847
+Viable Regiochemical Control in Semiconducting Polymers for Field-Effect Transistors: From High-Mobility Enhancement toward High Deformability,An efficient lactone-to-lactam conversion for the synthesis of thiophene Pechmann lactam and the characterization of polymers thereof,0.257998
+Viable Regiochemical Control in Semiconducting Polymers for Field-Effect Transistors: From High-Mobility Enhancement toward High Deformability,Advances in Discrete Length and Fused Conjugated Oligomers,0.720607
+Viable Regiochemical Control in Semiconducting Polymers for Field-Effect Transistors: From High-Mobility Enhancement toward High Deformability,Investigation of Organic Conjugated Materials to Understand the Structure-Property Relationships for High-Performance Organic Electronics,0.767348
+Viable Regiochemical Control in Semiconducting Polymers for Field-Effect Transistors: From High-Mobility Enhancement toward High Deformability,Shape‐Controlled Guanine Self‐Assemblies for Stable and Fast‐Ion Solid–Electrolyte Interphases in Sustainable Li Metal Batteries,0.531411
+Antioxidant Additive with a High Dielectric Constant for High Photo‐Oxidative Stabilization of Organic Solar Cells without Almost Sacrificing Initial High Efficiencies,"Dithienosilole-<i>co</i>-5-fluoro-2,1,3-benzothiadiazole-containing regioisomeric polymers for organic field-effect transistors",0.27169
+Antioxidant Additive with a High Dielectric Constant for High Photo‐Oxidative Stabilization of Organic Solar Cells without Almost Sacrificing Initial High Efficiencies,Understanding of copolymers containing pyridine and selenophene simultaneously and their polarity conversion in transistors,0.51125
+Antioxidant Additive with a High Dielectric Constant for High Photo‐Oxidative Stabilization of Organic Solar Cells without Almost Sacrificing Initial High Efficiencies,An efficient lactone-to-lactam conversion for the synthesis of thiophene Pechmann lactam and the characterization of polymers thereof,0.282536
+Antioxidant Additive with a High Dielectric Constant for High Photo‐Oxidative Stabilization of Organic Solar Cells without Almost Sacrificing Initial High Efficiencies,Advances in Discrete Length and Fused Conjugated Oligomers,0.616219
+Antioxidant Additive with a High Dielectric Constant for High Photo‐Oxidative Stabilization of Organic Solar Cells without Almost Sacrificing Initial High Efficiencies,Investigation of Organic Conjugated Materials to Understand the Structure-Property Relationships for High-Performance Organic Electronics,0.682185
+Antioxidant Additive with a High Dielectric Constant for High Photo‐Oxidative Stabilization of Organic Solar Cells without Almost Sacrificing Initial High Efficiencies,Shape‐Controlled Guanine Self‐Assemblies for Stable and Fast‐Ion Solid–Electrolyte Interphases in Sustainable Li Metal Batteries,0.437397
+"Dithienosilole-<i>co</i>-5-fluoro-2,1,3-benzothiadiazole-containing regioisomeric polymers for organic field-effect transistors",Understanding of copolymers containing pyridine and selenophene simultaneously and their polarity conversion in transistors,0.488395
+"Dithienosilole-<i>co</i>-5-fluoro-2,1,3-benzothiadiazole-containing regioisomeric polymers for organic field-effect transistors",An efficient lactone-to-lactam conversion for the synthesis of thiophene Pechmann lactam and the characterization of polymers thereof,0.270548
+"Dithienosilole-<i>co</i>-5-fluoro-2,1,3-benzothiadiazole-containing regioisomeric polymers for organic field-effect transistors",Advances in Discrete Length and Fused Conjugated Oligomers,0.42606
+"Dithienosilole-<i>co</i>-5-fluoro-2,1,3-benzothiadiazole-containing regioisomeric polymers for organic field-effect transistors",Investigation of Organic Conjugated Materials to Understand the Structure-Property Relationships for High-Performance Organic Electronics,0.403447
+"Dithienosilole-<i>co</i>-5-fluoro-2,1,3-benzothiadiazole-containing regioisomeric polymers for organic field-effect transistors",Shape‐Controlled Guanine Self‐Assemblies for Stable and Fast‐Ion Solid–Electrolyte Interphases in Sustainable Li Metal Batteries,0.465746
+Understanding of copolymers containing pyridine and selenophene simultaneously and their polarity conversion in transistors,An efficient lactone-to-lactam conversion for the synthesis of thiophene Pechmann lactam and the characterization of polymers thereof,0.234709
+Understanding of copolymers containing pyridine and selenophene simultaneously and their polarity conversion in transistors,Advances in Discrete Length and Fused Conjugated Oligomers,0.559188
+Understanding of copolymers containing pyridine and selenophene simultaneously and their polarity conversion in transistors,Investigation of Organic Conjugated Materials to Understand the Structure-Property Relationships for High-Performance Organic Electronics,0.525817
+Understanding of copolymers containing pyridine and selenophene simultaneously and their polarity conversion in transistors,Shape‐Controlled Guanine Self‐Assemblies for Stable and Fast‐Ion Solid–Electrolyte Interphases in Sustainable Li Metal Batteries,0.497594
+An efficient lactone-to-lactam conversion for the synthesis of thiophene Pechmann lactam and the characterization of polymers thereof,Advances in Discrete Length and Fused Conjugated Oligomers,0.232725
+An efficient lactone-to-lactam conversion for the synthesis of thiophene Pechmann lactam and the characterization of polymers thereof,Investigation of Organic Conjugated Materials to Understand the Structure-Property Relationships for High-Performance Organic Electronics,0.249325
+An efficient lactone-to-lactam conversion for the synthesis of thiophene Pechmann lactam and the characterization of polymers thereof,Shape‐Controlled Guanine Self‐Assemblies for Stable and Fast‐Ion Solid–Electrolyte Interphases in Sustainable Li Metal Batteries,0.334867
+Advances in Discrete Length and Fused Conjugated Oligomers,Investigation of Organic Conjugated Materials to Understand the Structure-Property Relationships for High-Performance Organic Electronics,0.793893
+Advances in Discrete Length and Fused Conjugated Oligomers,Shape‐Controlled Guanine Self‐Assemblies for Stable and Fast‐Ion Solid–Electrolyte Interphases in Sustainable Li Metal Batteries,0.500479
+Investigation of Organic Conjugated Materials to Understand the Structure-Property Relationships for High-Performance Organic Electronics,Shape‐Controlled Guanine Self‐Assemblies for Stable and Fast‐Ion Solid–Electrolyte Interphases in Sustainable Li Metal Batteries,0.534788

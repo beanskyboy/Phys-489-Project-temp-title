@@ -1,0 +1,232 @@
+title_i,title_j,cosine_similarity
+Finite-Element Eigenvalue Analysis of Propagating and Evanescent Modes in 3-D Periodic Structures Using Model-Order Reduction,A Sparse Finite-Element Method for Modeling Evanescent Modes in the Stopband of Periodic Structures,0.738573
+Finite-Element Eigenvalue Analysis of Propagating and Evanescent Modes in 3-D Periodic Structures Using Model-Order Reduction,An Algebraic Multigrid Method for the Finite Element Analysis of Large Scattering Problems,0.539858
+Finite-Element Eigenvalue Analysis of Propagating and Evanescent Modes in 3-D Periodic Structures Using Model-Order Reduction,Multilevel Methods for $p$-Adaptive Finite Element Analysis of Electromagnetic Scattering,0.512308
+Finite-Element Eigenvalue Analysis of Propagating and Evanescent Modes in 3-D Periodic Structures Using Model-Order Reduction,Algebraic Multigrid Combined With Domain Decomposition for the Finite Element Analysis of Large Scattering Problems,0.473883
+Finite-Element Eigenvalue Analysis of Propagating and Evanescent Modes in 3-D Periodic Structures Using Model-Order Reduction,Computed Basis Functions and the Nonconforming Voxel Finite-Element Method,0.332914
+Finite-Element Eigenvalue Analysis of Propagating and Evanescent Modes in 3-D Periodic Structures Using Model-Order Reduction,Computed Basis Functions for 2-D Edge Elements,0.412246
+Finite-Element Eigenvalue Analysis of Propagating and Evanescent Modes in 3-D Periodic Structures Using Model-Order Reduction,A Structured Grid Finite-Element Method Using Computed Basis Functions,0.450418
+Finite-Element Eigenvalue Analysis of Propagating and Evanescent Modes in 3-D Periodic Structures Using Model-Order Reduction,Hierarchical Bases for Polygonal Finite Elements,0.353401
+Finite-Element Eigenvalue Analysis of Propagating and Evanescent Modes in 3-D Periodic Structures Using Model-Order Reduction,Nuclear Cryogenic Propulsion Stage Fuel Design and Fabrication,0.07063
+Finite-Element Eigenvalue Analysis of Propagating and Evanescent Modes in 3-D Periodic Structures Using Model-Order Reduction,Singular Tetrahedral Finite Elements for Vector Electromagnetics,0.509721
+Finite-Element Eigenvalue Analysis of Propagating and Evanescent Modes in 3-D Periodic Structures Using Model-Order Reduction,Finite Element Analysis of Electromagnetic Scattering Using $p$-Adaption and an Iterative Absorbing Boundary Condition,0.44691
+Finite-Element Eigenvalue Analysis of Propagating and Evanescent Modes in 3-D Periodic Structures Using Model-Order Reduction,"Gradient-Singular, Hierarchical Finite Elements for Vector Electromagnetics",0.461538
+Finite-Element Eigenvalue Analysis of Propagating and Evanescent Modes in 3-D Periodic Structures Using Model-Order Reduction,Inhomogeneous Dirichlet Boundary Conditions in the Method of Computed Basis Functions,0.389836
+Finite-Element Eigenvalue Analysis of Propagating and Evanescent Modes in 3-D Periodic Structures Using Model-Order Reduction,Multilevel Preconditioning for Time-Harmonic Eddy-Current Problems Solved With Hierarchical Finite Elements,0.269152
+Finite-Element Eigenvalue Analysis of Propagating and Evanescent Modes in 3-D Periodic Structures Using Model-Order Reduction,Preconditioners for the Nonconforming Voxel Edge Element Method,0.420449
+Finite-Element Eigenvalue Analysis of Propagating and Evanescent Modes in 3-D Periodic Structures Using Model-Order Reduction,Pantheon: a new resource for invertebrate survey standards and analysis,0.017534
+Finite-Element Eigenvalue Analysis of Propagating and Evanescent Modes in 3-D Periodic Structures Using Model-Order Reduction,Communication and memory requirements as the basis for mapping task and data parallel programs,0.0815
+Finite-Element Eigenvalue Analysis of Propagating and Evanescent Modes in 3-D Periodic Structures Using Model-Order Reduction,Edge elements and the decomposition projective method to solve scattering problems of electrically large objects,0.352778
+Finite-Element Eigenvalue Analysis of Propagating and Evanescent Modes in 3-D Periodic Structures Using Model-Order Reduction,Decomposition projective method to accelerate the vector finite element solution of large scattering problems,0.378979
+Finite-Element Eigenvalue Analysis of Propagating and Evanescent Modes in 3-D Periodic Structures Using Model-Order Reduction,Adaption for 2-D Edge Elements in the Nonconforming Voxel Finite-Element Method,0.52417
+Finite-Element Eigenvalue Analysis of Propagating and Evanescent Modes in 3-D Periodic Structures Using Model-Order Reduction,Geometric Multigrid Preconditioning in Voxel-based Finite Element Analysis of Scattering,0.471468
+A Sparse Finite-Element Method for Modeling Evanescent Modes in the Stopband of Periodic Structures,An Algebraic Multigrid Method for the Finite Element Analysis of Large Scattering Problems,0.497976
+A Sparse Finite-Element Method for Modeling Evanescent Modes in the Stopband of Periodic Structures,Multilevel Methods for $p$-Adaptive Finite Element Analysis of Electromagnetic Scattering,0.537276
+A Sparse Finite-Element Method for Modeling Evanescent Modes in the Stopband of Periodic Structures,Algebraic Multigrid Combined With Domain Decomposition for the Finite Element Analysis of Large Scattering Problems,0.532096
+A Sparse Finite-Element Method for Modeling Evanescent Modes in the Stopband of Periodic Structures,Computed Basis Functions and the Nonconforming Voxel Finite-Element Method,0.371511
+A Sparse Finite-Element Method for Modeling Evanescent Modes in the Stopband of Periodic Structures,Computed Basis Functions for 2-D Edge Elements,0.421718
+A Sparse Finite-Element Method for Modeling Evanescent Modes in the Stopband of Periodic Structures,A Structured Grid Finite-Element Method Using Computed Basis Functions,0.422932
+A Sparse Finite-Element Method for Modeling Evanescent Modes in the Stopband of Periodic Structures,Hierarchical Bases for Polygonal Finite Elements,0.391002
+A Sparse Finite-Element Method for Modeling Evanescent Modes in the Stopband of Periodic Structures,Nuclear Cryogenic Propulsion Stage Fuel Design and Fabrication,0.10951
+A Sparse Finite-Element Method for Modeling Evanescent Modes in the Stopband of Periodic Structures,Singular Tetrahedral Finite Elements for Vector Electromagnetics,0.446266
+A Sparse Finite-Element Method for Modeling Evanescent Modes in the Stopband of Periodic Structures,Finite Element Analysis of Electromagnetic Scattering Using $p$-Adaption and an Iterative Absorbing Boundary Condition,0.452394
+A Sparse Finite-Element Method for Modeling Evanescent Modes in the Stopband of Periodic Structures,"Gradient-Singular, Hierarchical Finite Elements for Vector Electromagnetics",0.428417
+A Sparse Finite-Element Method for Modeling Evanescent Modes in the Stopband of Periodic Structures,Inhomogeneous Dirichlet Boundary Conditions in the Method of Computed Basis Functions,0.408135
+A Sparse Finite-Element Method for Modeling Evanescent Modes in the Stopband of Periodic Structures,Multilevel Preconditioning for Time-Harmonic Eddy-Current Problems Solved With Hierarchical Finite Elements,0.36934
+A Sparse Finite-Element Method for Modeling Evanescent Modes in the Stopband of Periodic Structures,Preconditioners for the Nonconforming Voxel Edge Element Method,0.417524
+A Sparse Finite-Element Method for Modeling Evanescent Modes in the Stopband of Periodic Structures,Pantheon: a new resource for invertebrate survey standards and analysis,-0.021851
+A Sparse Finite-Element Method for Modeling Evanescent Modes in the Stopband of Periodic Structures,Communication and memory requirements as the basis for mapping task and data parallel programs,0.077209
+A Sparse Finite-Element Method for Modeling Evanescent Modes in the Stopband of Periodic Structures,Edge elements and the decomposition projective method to solve scattering problems of electrically large objects,0.44808
+A Sparse Finite-Element Method for Modeling Evanescent Modes in the Stopband of Periodic Structures,Decomposition projective method to accelerate the vector finite element solution of large scattering problems,0.408975
+A Sparse Finite-Element Method for Modeling Evanescent Modes in the Stopband of Periodic Structures,Adaption for 2-D Edge Elements in the Nonconforming Voxel Finite-Element Method,0.451284
+A Sparse Finite-Element Method for Modeling Evanescent Modes in the Stopband of Periodic Structures,Geometric Multigrid Preconditioning in Voxel-based Finite Element Analysis of Scattering,0.48993
+An Algebraic Multigrid Method for the Finite Element Analysis of Large Scattering Problems,Multilevel Methods for $p$-Adaptive Finite Element Analysis of Electromagnetic Scattering,0.666545
+An Algebraic Multigrid Method for the Finite Element Analysis of Large Scattering Problems,Algebraic Multigrid Combined With Domain Decomposition for the Finite Element Analysis of Large Scattering Problems,0.74621
+An Algebraic Multigrid Method for the Finite Element Analysis of Large Scattering Problems,Computed Basis Functions and the Nonconforming Voxel Finite-Element Method,0.371901
+An Algebraic Multigrid Method for the Finite Element Analysis of Large Scattering Problems,Computed Basis Functions for 2-D Edge Elements,0.450402
+An Algebraic Multigrid Method for the Finite Element Analysis of Large Scattering Problems,A Structured Grid Finite-Element Method Using Computed Basis Functions,0.530473
+An Algebraic Multigrid Method for the Finite Element Analysis of Large Scattering Problems,Hierarchical Bases for Polygonal Finite Elements,0.274184
+An Algebraic Multigrid Method for the Finite Element Analysis of Large Scattering Problems,Nuclear Cryogenic Propulsion Stage Fuel Design and Fabrication,0.071054
+An Algebraic Multigrid Method for the Finite Element Analysis of Large Scattering Problems,Singular Tetrahedral Finite Elements for Vector Electromagnetics,0.570122
+An Algebraic Multigrid Method for the Finite Element Analysis of Large Scattering Problems,Finite Element Analysis of Electromagnetic Scattering Using $p$-Adaption and an Iterative Absorbing Boundary Condition,0.641349
+An Algebraic Multigrid Method for the Finite Element Analysis of Large Scattering Problems,"Gradient-Singular, Hierarchical Finite Elements for Vector Electromagnetics",0.570781
+An Algebraic Multigrid Method for the Finite Element Analysis of Large Scattering Problems,Inhomogeneous Dirichlet Boundary Conditions in the Method of Computed Basis Functions,0.416392
+An Algebraic Multigrid Method for the Finite Element Analysis of Large Scattering Problems,Multilevel Preconditioning for Time-Harmonic Eddy-Current Problems Solved With Hierarchical Finite Elements,0.472582
+An Algebraic Multigrid Method for the Finite Element Analysis of Large Scattering Problems,Preconditioners for the Nonconforming Voxel Edge Element Method,0.656739
+An Algebraic Multigrid Method for the Finite Element Analysis of Large Scattering Problems,Pantheon: a new resource for invertebrate survey standards and analysis,-0.047991
+An Algebraic Multigrid Method for the Finite Element Analysis of Large Scattering Problems,Communication and memory requirements as the basis for mapping task and data parallel programs,0.10272
+An Algebraic Multigrid Method for the Finite Element Analysis of Large Scattering Problems,Edge elements and the decomposition projective method to solve scattering problems of electrically large objects,0.579342
+An Algebraic Multigrid Method for the Finite Element Analysis of Large Scattering Problems,Decomposition projective method to accelerate the vector finite element solution of large scattering problems,0.544096
+An Algebraic Multigrid Method for the Finite Element Analysis of Large Scattering Problems,Adaption for 2-D Edge Elements in the Nonconforming Voxel Finite-Element Method,0.536636
+An Algebraic Multigrid Method for the Finite Element Analysis of Large Scattering Problems,Geometric Multigrid Preconditioning in Voxel-based Finite Element Analysis of Scattering,0.659963
+Multilevel Methods for $p$-Adaptive Finite Element Analysis of Electromagnetic Scattering,Algebraic Multigrid Combined With Domain Decomposition for the Finite Element Analysis of Large Scattering Problems,0.607355
+Multilevel Methods for $p$-Adaptive Finite Element Analysis of Electromagnetic Scattering,Computed Basis Functions and the Nonconforming Voxel Finite-Element Method,0.467908
+Multilevel Methods for $p$-Adaptive Finite Element Analysis of Electromagnetic Scattering,Computed Basis Functions for 2-D Edge Elements,0.482286
+Multilevel Methods for $p$-Adaptive Finite Element Analysis of Electromagnetic Scattering,A Structured Grid Finite-Element Method Using Computed Basis Functions,0.520881
+Multilevel Methods for $p$-Adaptive Finite Element Analysis of Electromagnetic Scattering,Hierarchical Bases for Polygonal Finite Elements,0.417867
+Multilevel Methods for $p$-Adaptive Finite Element Analysis of Electromagnetic Scattering,Nuclear Cryogenic Propulsion Stage Fuel Design and Fabrication,0.137552
+Multilevel Methods for $p$-Adaptive Finite Element Analysis of Electromagnetic Scattering,Singular Tetrahedral Finite Elements for Vector Electromagnetics,0.536142
+Multilevel Methods for $p$-Adaptive Finite Element Analysis of Electromagnetic Scattering,Finite Element Analysis of Electromagnetic Scattering Using $p$-Adaption and an Iterative Absorbing Boundary Condition,0.567795
+Multilevel Methods for $p$-Adaptive Finite Element Analysis of Electromagnetic Scattering,"Gradient-Singular, Hierarchical Finite Elements for Vector Electromagnetics",0.655692
+Multilevel Methods for $p$-Adaptive Finite Element Analysis of Electromagnetic Scattering,Inhomogeneous Dirichlet Boundary Conditions in the Method of Computed Basis Functions,0.461707
+Multilevel Methods for $p$-Adaptive Finite Element Analysis of Electromagnetic Scattering,Multilevel Preconditioning for Time-Harmonic Eddy-Current Problems Solved With Hierarchical Finite Elements,0.620842
+Multilevel Methods for $p$-Adaptive Finite Element Analysis of Electromagnetic Scattering,Preconditioners for the Nonconforming Voxel Edge Element Method,0.619667
+Multilevel Methods for $p$-Adaptive Finite Element Analysis of Electromagnetic Scattering,Pantheon: a new resource for invertebrate survey standards and analysis,-0.040928
+Multilevel Methods for $p$-Adaptive Finite Element Analysis of Electromagnetic Scattering,Communication and memory requirements as the basis for mapping task and data parallel programs,0.170798
+Multilevel Methods for $p$-Adaptive Finite Element Analysis of Electromagnetic Scattering,Edge elements and the decomposition projective method to solve scattering problems of electrically large objects,0.419096
+Multilevel Methods for $p$-Adaptive Finite Element Analysis of Electromagnetic Scattering,Decomposition projective method to accelerate the vector finite element solution of large scattering problems,0.403984
+Multilevel Methods for $p$-Adaptive Finite Element Analysis of Electromagnetic Scattering,Adaption for 2-D Edge Elements in the Nonconforming Voxel Finite-Element Method,0.554831
+Multilevel Methods for $p$-Adaptive Finite Element Analysis of Electromagnetic Scattering,Geometric Multigrid Preconditioning in Voxel-based Finite Element Analysis of Scattering,0.622665
+Algebraic Multigrid Combined With Domain Decomposition for the Finite Element Analysis of Large Scattering Problems,Computed Basis Functions and the Nonconforming Voxel Finite-Element Method,0.393508
+Algebraic Multigrid Combined With Domain Decomposition for the Finite Element Analysis of Large Scattering Problems,Computed Basis Functions for 2-D Edge Elements,0.478353
+Algebraic Multigrid Combined With Domain Decomposition for the Finite Element Analysis of Large Scattering Problems,A Structured Grid Finite-Element Method Using Computed Basis Functions,0.54094
+Algebraic Multigrid Combined With Domain Decomposition for the Finite Element Analysis of Large Scattering Problems,Hierarchical Bases for Polygonal Finite Elements,0.328502
+Algebraic Multigrid Combined With Domain Decomposition for the Finite Element Analysis of Large Scattering Problems,Nuclear Cryogenic Propulsion Stage Fuel Design and Fabrication,0.028343
+Algebraic Multigrid Combined With Domain Decomposition for the Finite Element Analysis of Large Scattering Problems,Singular Tetrahedral Finite Elements for Vector Electromagnetics,0.545802
+Algebraic Multigrid Combined With Domain Decomposition for the Finite Element Analysis of Large Scattering Problems,Finite Element Analysis of Electromagnetic Scattering Using $p$-Adaption and an Iterative Absorbing Boundary Condition,0.633278
+Algebraic Multigrid Combined With Domain Decomposition for the Finite Element Analysis of Large Scattering Problems,"Gradient-Singular, Hierarchical Finite Elements for Vector Electromagnetics",0.634493
+Algebraic Multigrid Combined With Domain Decomposition for the Finite Element Analysis of Large Scattering Problems,Inhomogeneous Dirichlet Boundary Conditions in the Method of Computed Basis Functions,0.476531
+Algebraic Multigrid Combined With Domain Decomposition for the Finite Element Analysis of Large Scattering Problems,Multilevel Preconditioning for Time-Harmonic Eddy-Current Problems Solved With Hierarchical Finite Elements,0.553404
+Algebraic Multigrid Combined With Domain Decomposition for the Finite Element Analysis of Large Scattering Problems,Preconditioners for the Nonconforming Voxel Edge Element Method,0.709879
+Algebraic Multigrid Combined With Domain Decomposition for the Finite Element Analysis of Large Scattering Problems,Pantheon: a new resource for invertebrate survey standards and analysis,-0.03338
+Algebraic Multigrid Combined With Domain Decomposition for the Finite Element Analysis of Large Scattering Problems,Communication and memory requirements as the basis for mapping task and data parallel programs,0.15684
+Algebraic Multigrid Combined With Domain Decomposition for the Finite Element Analysis of Large Scattering Problems,Edge elements and the decomposition projective method to solve scattering problems of electrically large objects,0.692337
+Algebraic Multigrid Combined With Domain Decomposition for the Finite Element Analysis of Large Scattering Problems,Decomposition projective method to accelerate the vector finite element solution of large scattering problems,0.66361
+Algebraic Multigrid Combined With Domain Decomposition for the Finite Element Analysis of Large Scattering Problems,Adaption for 2-D Edge Elements in the Nonconforming Voxel Finite-Element Method,0.509831
+Algebraic Multigrid Combined With Domain Decomposition for the Finite Element Analysis of Large Scattering Problems,Geometric Multigrid Preconditioning in Voxel-based Finite Element Analysis of Scattering,0.724511
+Computed Basis Functions and the Nonconforming Voxel Finite-Element Method,Computed Basis Functions for 2-D Edge Elements,0.84339
+Computed Basis Functions and the Nonconforming Voxel Finite-Element Method,A Structured Grid Finite-Element Method Using Computed Basis Functions,0.738434
+Computed Basis Functions and the Nonconforming Voxel Finite-Element Method,Hierarchical Bases for Polygonal Finite Elements,0.685692
+Computed Basis Functions and the Nonconforming Voxel Finite-Element Method,Nuclear Cryogenic Propulsion Stage Fuel Design and Fabrication,0.19104
+Computed Basis Functions and the Nonconforming Voxel Finite-Element Method,Singular Tetrahedral Finite Elements for Vector Electromagnetics,0.404839
+Computed Basis Functions and the Nonconforming Voxel Finite-Element Method,Finite Element Analysis of Electromagnetic Scattering Using $p$-Adaption and an Iterative Absorbing Boundary Condition,0.472021
+Computed Basis Functions and the Nonconforming Voxel Finite-Element Method,"Gradient-Singular, Hierarchical Finite Elements for Vector Electromagnetics",0.53017
+Computed Basis Functions and the Nonconforming Voxel Finite-Element Method,Inhomogeneous Dirichlet Boundary Conditions in the Method of Computed Basis Functions,0.657999
+Computed Basis Functions and the Nonconforming Voxel Finite-Element Method,Multilevel Preconditioning for Time-Harmonic Eddy-Current Problems Solved With Hierarchical Finite Elements,0.460092
+Computed Basis Functions and the Nonconforming Voxel Finite-Element Method,Preconditioners for the Nonconforming Voxel Edge Element Method,0.647114
+Computed Basis Functions and the Nonconforming Voxel Finite-Element Method,Pantheon: a new resource for invertebrate survey standards and analysis,-0.0173
+Computed Basis Functions and the Nonconforming Voxel Finite-Element Method,Communication and memory requirements as the basis for mapping task and data parallel programs,0.084261
+Computed Basis Functions and the Nonconforming Voxel Finite-Element Method,Edge elements and the decomposition projective method to solve scattering problems of electrically large objects,0.340976
+Computed Basis Functions and the Nonconforming Voxel Finite-Element Method,Decomposition projective method to accelerate the vector finite element solution of large scattering problems,0.333765
+Computed Basis Functions and the Nonconforming Voxel Finite-Element Method,Adaption for 2-D Edge Elements in the Nonconforming Voxel Finite-Element Method,0.766927
+Computed Basis Functions and the Nonconforming Voxel Finite-Element Method,Geometric Multigrid Preconditioning in Voxel-based Finite Element Analysis of Scattering,0.766705
+Computed Basis Functions for 2-D Edge Elements,A Structured Grid Finite-Element Method Using Computed Basis Functions,0.763559
+Computed Basis Functions for 2-D Edge Elements,Hierarchical Bases for Polygonal Finite Elements,0.546236
+Computed Basis Functions for 2-D Edge Elements,Nuclear Cryogenic Propulsion Stage Fuel Design and Fabrication,0.166272
+Computed Basis Functions for 2-D Edge Elements,Singular Tetrahedral Finite Elements for Vector Electromagnetics,0.514948
+Computed Basis Functions for 2-D Edge Elements,Finite Element Analysis of Electromagnetic Scattering Using $p$-Adaption and an Iterative Absorbing Boundary Condition,0.523924
+Computed Basis Functions for 2-D Edge Elements,"Gradient-Singular, Hierarchical Finite Elements for Vector Electromagnetics",0.572719
+Computed Basis Functions for 2-D Edge Elements,Inhomogeneous Dirichlet Boundary Conditions in the Method of Computed Basis Functions,0.769683
+Computed Basis Functions for 2-D Edge Elements,Multilevel Preconditioning for Time-Harmonic Eddy-Current Problems Solved With Hierarchical Finite Elements,0.41498
+Computed Basis Functions for 2-D Edge Elements,Preconditioners for the Nonconforming Voxel Edge Element Method,0.670104
+Computed Basis Functions for 2-D Edge Elements,Pantheon: a new resource for invertebrate survey standards and analysis,-0.024703
+Computed Basis Functions for 2-D Edge Elements,Communication and memory requirements as the basis for mapping task and data parallel programs,0.047886
+Computed Basis Functions for 2-D Edge Elements,Edge elements and the decomposition projective method to solve scattering problems of electrically large objects,0.457808
+Computed Basis Functions for 2-D Edge Elements,Decomposition projective method to accelerate the vector finite element solution of large scattering problems,0.458358
+Computed Basis Functions for 2-D Edge Elements,Adaption for 2-D Edge Elements in the Nonconforming Voxel Finite-Element Method,0.751361
+Computed Basis Functions for 2-D Edge Elements,Geometric Multigrid Preconditioning in Voxel-based Finite Element Analysis of Scattering,0.730357
+A Structured Grid Finite-Element Method Using Computed Basis Functions,Hierarchical Bases for Polygonal Finite Elements,0.566434
+A Structured Grid Finite-Element Method Using Computed Basis Functions,Nuclear Cryogenic Propulsion Stage Fuel Design and Fabrication,0.226646
+A Structured Grid Finite-Element Method Using Computed Basis Functions,Singular Tetrahedral Finite Elements for Vector Electromagnetics,0.527328
+A Structured Grid Finite-Element Method Using Computed Basis Functions,Finite Element Analysis of Electromagnetic Scattering Using $p$-Adaption and an Iterative Absorbing Boundary Condition,0.599538
+A Structured Grid Finite-Element Method Using Computed Basis Functions,"Gradient-Singular, Hierarchical Finite Elements for Vector Electromagnetics",0.664084
+A Structured Grid Finite-Element Method Using Computed Basis Functions,Inhomogeneous Dirichlet Boundary Conditions in the Method of Computed Basis Functions,0.638366
+A Structured Grid Finite-Element Method Using Computed Basis Functions,Multilevel Preconditioning for Time-Harmonic Eddy-Current Problems Solved With Hierarchical Finite Elements,0.408595
+A Structured Grid Finite-Element Method Using Computed Basis Functions,Preconditioners for the Nonconforming Voxel Edge Element Method,0.660594
+A Structured Grid Finite-Element Method Using Computed Basis Functions,Pantheon: a new resource for invertebrate survey standards and analysis,0.000488
+A Structured Grid Finite-Element Method Using Computed Basis Functions,Communication and memory requirements as the basis for mapping task and data parallel programs,0.218341
+A Structured Grid Finite-Element Method Using Computed Basis Functions,Edge elements and the decomposition projective method to solve scattering problems of electrically large objects,0.501607
+A Structured Grid Finite-Element Method Using Computed Basis Functions,Decomposition projective method to accelerate the vector finite element solution of large scattering problems,0.518333
+A Structured Grid Finite-Element Method Using Computed Basis Functions,Adaption for 2-D Edge Elements in the Nonconforming Voxel Finite-Element Method,0.718855
+A Structured Grid Finite-Element Method Using Computed Basis Functions,Geometric Multigrid Preconditioning in Voxel-based Finite Element Analysis of Scattering,0.761779
+Hierarchical Bases for Polygonal Finite Elements,Nuclear Cryogenic Propulsion Stage Fuel Design and Fabrication,0.149798
+Hierarchical Bases for Polygonal Finite Elements,Singular Tetrahedral Finite Elements for Vector Electromagnetics,0.485541
+Hierarchical Bases for Polygonal Finite Elements,Finite Element Analysis of Electromagnetic Scattering Using $p$-Adaption and an Iterative Absorbing Boundary Condition,0.478856
+Hierarchical Bases for Polygonal Finite Elements,"Gradient-Singular, Hierarchical Finite Elements for Vector Electromagnetics",0.58778
+Hierarchical Bases for Polygonal Finite Elements,Inhomogeneous Dirichlet Boundary Conditions in the Method of Computed Basis Functions,0.563225
+Hierarchical Bases for Polygonal Finite Elements,Multilevel Preconditioning for Time-Harmonic Eddy-Current Problems Solved With Hierarchical Finite Elements,0.39646
+Hierarchical Bases for Polygonal Finite Elements,Preconditioners for the Nonconforming Voxel Edge Element Method,0.421888
+Hierarchical Bases for Polygonal Finite Elements,Pantheon: a new resource for invertebrate survey standards and analysis,-0.01244
+Hierarchical Bases for Polygonal Finite Elements,Communication and memory requirements as the basis for mapping task and data parallel programs,0.110682
+Hierarchical Bases for Polygonal Finite Elements,Edge elements and the decomposition projective method to solve scattering problems of electrically large objects,0.356076
+Hierarchical Bases for Polygonal Finite Elements,Decomposition projective method to accelerate the vector finite element solution of large scattering problems,0.392802
+Hierarchical Bases for Polygonal Finite Elements,Adaption for 2-D Edge Elements in the Nonconforming Voxel Finite-Element Method,0.566494
+Hierarchical Bases for Polygonal Finite Elements,Geometric Multigrid Preconditioning in Voxel-based Finite Element Analysis of Scattering,0.51345
+Nuclear Cryogenic Propulsion Stage Fuel Design and Fabrication,Singular Tetrahedral Finite Elements for Vector Electromagnetics,0.171193
+Nuclear Cryogenic Propulsion Stage Fuel Design and Fabrication,Finite Element Analysis of Electromagnetic Scattering Using $p$-Adaption and an Iterative Absorbing Boundary Condition,0.179447
+Nuclear Cryogenic Propulsion Stage Fuel Design and Fabrication,"Gradient-Singular, Hierarchical Finite Elements for Vector Electromagnetics",0.120675
+Nuclear Cryogenic Propulsion Stage Fuel Design and Fabrication,Inhomogeneous Dirichlet Boundary Conditions in the Method of Computed Basis Functions,0.109003
+Nuclear Cryogenic Propulsion Stage Fuel Design and Fabrication,Multilevel Preconditioning for Time-Harmonic Eddy-Current Problems Solved With Hierarchical Finite Elements,0.144927
+Nuclear Cryogenic Propulsion Stage Fuel Design and Fabrication,Preconditioners for the Nonconforming Voxel Edge Element Method,0.094208
+Nuclear Cryogenic Propulsion Stage Fuel Design and Fabrication,Pantheon: a new resource for invertebrate survey standards and analysis,-0.0034
+Nuclear Cryogenic Propulsion Stage Fuel Design and Fabrication,Communication and memory requirements as the basis for mapping task and data parallel programs,0.154073
+Nuclear Cryogenic Propulsion Stage Fuel Design and Fabrication,Edge elements and the decomposition projective method to solve scattering problems of electrically large objects,0.096952
+Nuclear Cryogenic Propulsion Stage Fuel Design and Fabrication,Decomposition projective method to accelerate the vector finite element solution of large scattering problems,0.081386
+Nuclear Cryogenic Propulsion Stage Fuel Design and Fabrication,Adaption for 2-D Edge Elements in the Nonconforming Voxel Finite-Element Method,0.086684
+Nuclear Cryogenic Propulsion Stage Fuel Design and Fabrication,Geometric Multigrid Preconditioning in Voxel-based Finite Element Analysis of Scattering,0.146797
+Singular Tetrahedral Finite Elements for Vector Electromagnetics,Finite Element Analysis of Electromagnetic Scattering Using $p$-Adaption and an Iterative Absorbing Boundary Condition,0.557164
+Singular Tetrahedral Finite Elements for Vector Electromagnetics,"Gradient-Singular, Hierarchical Finite Elements for Vector Electromagnetics",0.774999
+Singular Tetrahedral Finite Elements for Vector Electromagnetics,Inhomogeneous Dirichlet Boundary Conditions in the Method of Computed Basis Functions,0.485087
+Singular Tetrahedral Finite Elements for Vector Electromagnetics,Multilevel Preconditioning for Time-Harmonic Eddy-Current Problems Solved With Hierarchical Finite Elements,0.385315
+Singular Tetrahedral Finite Elements for Vector Electromagnetics,Preconditioners for the Nonconforming Voxel Edge Element Method,0.444284
+Singular Tetrahedral Finite Elements for Vector Electromagnetics,Pantheon: a new resource for invertebrate survey standards and analysis,-0.050513
+Singular Tetrahedral Finite Elements for Vector Electromagnetics,Communication and memory requirements as the basis for mapping task and data parallel programs,0.001143
+Singular Tetrahedral Finite Elements for Vector Electromagnetics,Edge elements and the decomposition projective method to solve scattering problems of electrically large objects,0.602839
+Singular Tetrahedral Finite Elements for Vector Electromagnetics,Decomposition projective method to accelerate the vector finite element solution of large scattering problems,0.603903
+Singular Tetrahedral Finite Elements for Vector Electromagnetics,Adaption for 2-D Edge Elements in the Nonconforming Voxel Finite-Element Method,0.577969
+Singular Tetrahedral Finite Elements for Vector Electromagnetics,Geometric Multigrid Preconditioning in Voxel-based Finite Element Analysis of Scattering,0.501965
+Finite Element Analysis of Electromagnetic Scattering Using $p$-Adaption and an Iterative Absorbing Boundary Condition,"Gradient-Singular, Hierarchical Finite Elements for Vector Electromagnetics",0.642896
+Finite Element Analysis of Electromagnetic Scattering Using $p$-Adaption and an Iterative Absorbing Boundary Condition,Inhomogeneous Dirichlet Boundary Conditions in the Method of Computed Basis Functions,0.500331
+Finite Element Analysis of Electromagnetic Scattering Using $p$-Adaption and an Iterative Absorbing Boundary Condition,Multilevel Preconditioning for Time-Harmonic Eddy-Current Problems Solved With Hierarchical Finite Elements,0.430035
+Finite Element Analysis of Electromagnetic Scattering Using $p$-Adaption and an Iterative Absorbing Boundary Condition,Preconditioners for the Nonconforming Voxel Edge Element Method,0.536509
+Finite Element Analysis of Electromagnetic Scattering Using $p$-Adaption and an Iterative Absorbing Boundary Condition,Pantheon: a new resource for invertebrate survey standards and analysis,-0.066453
+Finite Element Analysis of Electromagnetic Scattering Using $p$-Adaption and an Iterative Absorbing Boundary Condition,Communication and memory requirements as the basis for mapping task and data parallel programs,0.116019
+Finite Element Analysis of Electromagnetic Scattering Using $p$-Adaption and an Iterative Absorbing Boundary Condition,Edge elements and the decomposition projective method to solve scattering problems of electrically large objects,0.657223
+Finite Element Analysis of Electromagnetic Scattering Using $p$-Adaption and an Iterative Absorbing Boundary Condition,Decomposition projective method to accelerate the vector finite element solution of large scattering problems,0.633713
+Finite Element Analysis of Electromagnetic Scattering Using $p$-Adaption and an Iterative Absorbing Boundary Condition,Adaption for 2-D Edge Elements in the Nonconforming Voxel Finite-Element Method,0.507979
+Finite Element Analysis of Electromagnetic Scattering Using $p$-Adaption and an Iterative Absorbing Boundary Condition,Geometric Multigrid Preconditioning in Voxel-based Finite Element Analysis of Scattering,0.592698
+"Gradient-Singular, Hierarchical Finite Elements for Vector Electromagnetics",Inhomogeneous Dirichlet Boundary Conditions in the Method of Computed Basis Functions,0.546684
+"Gradient-Singular, Hierarchical Finite Elements for Vector Electromagnetics",Multilevel Preconditioning for Time-Harmonic Eddy-Current Problems Solved With Hierarchical Finite Elements,0.51573
+"Gradient-Singular, Hierarchical Finite Elements for Vector Electromagnetics",Preconditioners for the Nonconforming Voxel Edge Element Method,0.589009
+"Gradient-Singular, Hierarchical Finite Elements for Vector Electromagnetics",Pantheon: a new resource for invertebrate survey standards and analysis,-0.023806
+"Gradient-Singular, Hierarchical Finite Elements for Vector Electromagnetics",Communication and memory requirements as the basis for mapping task and data parallel programs,0.142382
+"Gradient-Singular, Hierarchical Finite Elements for Vector Electromagnetics",Edge elements and the decomposition projective method to solve scattering problems of electrically large objects,0.59775
+"Gradient-Singular, Hierarchical Finite Elements for Vector Electromagnetics",Decomposition projective method to accelerate the vector finite element solution of large scattering problems,0.619047
+"Gradient-Singular, Hierarchical Finite Elements for Vector Electromagnetics",Adaption for 2-D Edge Elements in the Nonconforming Voxel Finite-Element Method,0.623977
+"Gradient-Singular, Hierarchical Finite Elements for Vector Electromagnetics",Geometric Multigrid Preconditioning in Voxel-based Finite Element Analysis of Scattering,0.664157
+Inhomogeneous Dirichlet Boundary Conditions in the Method of Computed Basis Functions,Multilevel Preconditioning for Time-Harmonic Eddy-Current Problems Solved With Hierarchical Finite Elements,0.405603
+Inhomogeneous Dirichlet Boundary Conditions in the Method of Computed Basis Functions,Preconditioners for the Nonconforming Voxel Edge Element Method,0.561958
+Inhomogeneous Dirichlet Boundary Conditions in the Method of Computed Basis Functions,Pantheon: a new resource for invertebrate survey standards and analysis,0.02785
+Inhomogeneous Dirichlet Boundary Conditions in the Method of Computed Basis Functions,Communication and memory requirements as the basis for mapping task and data parallel programs,0.087085
+Inhomogeneous Dirichlet Boundary Conditions in the Method of Computed Basis Functions,Edge elements and the decomposition projective method to solve scattering problems of electrically large objects,0.444445
+Inhomogeneous Dirichlet Boundary Conditions in the Method of Computed Basis Functions,Decomposition projective method to accelerate the vector finite element solution of large scattering problems,0.445826
+Inhomogeneous Dirichlet Boundary Conditions in the Method of Computed Basis Functions,Adaption for 2-D Edge Elements in the Nonconforming Voxel Finite-Element Method,0.606203
+Inhomogeneous Dirichlet Boundary Conditions in the Method of Computed Basis Functions,Geometric Multigrid Preconditioning in Voxel-based Finite Element Analysis of Scattering,0.595946
+Multilevel Preconditioning for Time-Harmonic Eddy-Current Problems Solved With Hierarchical Finite Elements,Preconditioners for the Nonconforming Voxel Edge Element Method,0.645272
+Multilevel Preconditioning for Time-Harmonic Eddy-Current Problems Solved With Hierarchical Finite Elements,Pantheon: a new resource for invertebrate survey standards and analysis,-0.090556
+Multilevel Preconditioning for Time-Harmonic Eddy-Current Problems Solved With Hierarchical Finite Elements,Communication and memory requirements as the basis for mapping task and data parallel programs,0.153639
+Multilevel Preconditioning for Time-Harmonic Eddy-Current Problems Solved With Hierarchical Finite Elements,Edge elements and the decomposition projective method to solve scattering problems of electrically large objects,0.324516
+Multilevel Preconditioning for Time-Harmonic Eddy-Current Problems Solved With Hierarchical Finite Elements,Decomposition projective method to accelerate the vector finite element solution of large scattering problems,0.272912
+Multilevel Preconditioning for Time-Harmonic Eddy-Current Problems Solved With Hierarchical Finite Elements,Adaption for 2-D Edge Elements in the Nonconforming Voxel Finite-Element Method,0.425
+Multilevel Preconditioning for Time-Harmonic Eddy-Current Problems Solved With Hierarchical Finite Elements,Geometric Multigrid Preconditioning in Voxel-based Finite Element Analysis of Scattering,0.593567
+Preconditioners for the Nonconforming Voxel Edge Element Method,Pantheon: a new resource for invertebrate survey standards and analysis,-0.050222
+Preconditioners for the Nonconforming Voxel Edge Element Method,Communication and memory requirements as the basis for mapping task and data parallel programs,0.19082
+Preconditioners for the Nonconforming Voxel Edge Element Method,Edge elements and the decomposition projective method to solve scattering problems of electrically large objects,0.497689
+Preconditioners for the Nonconforming Voxel Edge Element Method,Decomposition projective method to accelerate the vector finite element solution of large scattering problems,0.491138
+Preconditioners for the Nonconforming Voxel Edge Element Method,Adaption for 2-D Edge Elements in the Nonconforming Voxel Finite-Element Method,0.681413
+Preconditioners for the Nonconforming Voxel Edge Element Method,Geometric Multigrid Preconditioning in Voxel-based Finite Element Analysis of Scattering,0.879926
+Pantheon: a new resource for invertebrate survey standards and analysis,Communication and memory requirements as the basis for mapping task and data parallel programs,0.05476
+Pantheon: a new resource for invertebrate survey standards and analysis,Edge elements and the decomposition projective method to solve scattering problems of electrically large objects,-0.076943
+Pantheon: a new resource for invertebrate survey standards and analysis,Decomposition projective method to accelerate the vector finite element solution of large scattering problems,-0.051548
+Pantheon: a new resource for invertebrate survey standards and analysis,Adaption for 2-D Edge Elements in the Nonconforming Voxel Finite-Element Method,-0.043489
+Pantheon: a new resource for invertebrate survey standards and analysis,Geometric Multigrid Preconditioning in Voxel-based Finite Element Analysis of Scattering,-0.048578
+Communication and memory requirements as the basis for mapping task and data parallel programs,Edge elements and the decomposition projective method to solve scattering problems of electrically large objects,0.093618
+Communication and memory requirements as the basis for mapping task and data parallel programs,Decomposition projective method to accelerate the vector finite element solution of large scattering problems,0.127672
+Communication and memory requirements as the basis for mapping task and data parallel programs,Adaption for 2-D Edge Elements in the Nonconforming Voxel Finite-Element Method,0.078577
+Communication and memory requirements as the basis for mapping task and data parallel programs,Geometric Multigrid Preconditioning in Voxel-based Finite Element Analysis of Scattering,0.148875
+Edge elements and the decomposition projective method to solve scattering problems of electrically large objects,Decomposition projective method to accelerate the vector finite element solution of large scattering problems,0.941526
+Edge elements and the decomposition projective method to solve scattering problems of electrically large objects,Adaption for 2-D Edge Elements in the Nonconforming Voxel Finite-Element Method,0.424889
+Edge elements and the decomposition projective method to solve scattering problems of electrically large objects,Geometric Multigrid Preconditioning in Voxel-based Finite Element Analysis of Scattering,0.541956
+Decomposition projective method to accelerate the vector finite element solution of large scattering problems,Adaption for 2-D Edge Elements in the Nonconforming Voxel Finite-Element Method,0.441533
+Decomposition projective method to accelerate the vector finite element solution of large scattering problems,Geometric Multigrid Preconditioning in Voxel-based Finite Element Analysis of Scattering,0.535877
+Adaption for 2-D Edge Elements in the Nonconforming Voxel Finite-Element Method,Geometric Multigrid Preconditioning in Voxel-based Finite Element Analysis of Scattering,0.751583

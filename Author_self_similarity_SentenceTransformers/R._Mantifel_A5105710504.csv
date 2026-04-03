@@ -1,7 +1,7 @@
-abstract_i,abstract_j,cosine_similarity
-0,1,0.671552
-0,2,0.14209
-0,3,0.923636
-1,2,0.088302
-1,3,0.68522
-2,3,0.113743
+title_i,title_j,cosine_similarity
+Injection-locked diode laser current modulation for Pound-Drever-Hall frequency stabilization using transfer cavities,"Which is better, a SCoTSS gamma imager, or an ARDUO UAV-borne directional detector?",0.113743
+Injection-locked diode laser current modulation for Pound-Drever-Hall frequency stabilization using transfer cavities,"Reconstruction of an Inaccessible, Large-Area Extended Source with a SCoTSS Compton Gamma Imager",0.088302
+Injection-locked diode laser current modulation for Pound-Drever-Hall frequency stabilization using transfer cavities,"Which is better, a SCoTSS gamma imager, or an ARDUO UAV-borne\n directional detector?",0.14209
+"Which is better, a SCoTSS gamma imager, or an ARDUO UAV-borne directional detector?","Reconstruction of an Inaccessible, Large-Area Extended Source with a SCoTSS Compton Gamma Imager",0.68522
+"Which is better, a SCoTSS gamma imager, or an ARDUO UAV-borne directional detector?","Which is better, a SCoTSS gamma imager, or an ARDUO UAV-borne\n directional detector?",0.923636
+"Reconstruction of an Inaccessible, Large-Area Extended Source with a SCoTSS Compton Gamma Imager","Which is better, a SCoTSS gamma imager, or an ARDUO UAV-borne\n directional detector?",0.671552

@@ -1,0 +1,29 @@
+title_i,title_j,cosine_similarity
+Publish/subscribe network designs for multiplayer games,GraPS,0.535288
+Publish/subscribe network designs for multiplayer games,Triangle-based obstacle-aware load balancing for massively multiplayer games,0.682343
+Publish/subscribe network designs for multiplayer games,A publish/subscribe network engine testbed for multiplayer games,0.870522
+Publish/subscribe network designs for multiplayer games,Graph-Based Publish/Subscribe Research with Dynamic Subscriptions,0.528563
+Publish/subscribe network designs for multiplayer games,Evolving pub/sub subscriptions for multiplayer online games,0.627234
+Publish/subscribe network designs for multiplayer games,Self-Evolving Subscriptions for Content-Based Publish/Subscribe Systems,0.623691
+Publish/subscribe network designs for multiplayer games,MothPad: monitoring pub/sub activity in cyber-physical systems,0.658667
+GraPS,Triangle-based obstacle-aware load balancing for massively multiplayer games,0.296815
+GraPS,A publish/subscribe network engine testbed for multiplayer games,0.434206
+GraPS,Graph-Based Publish/Subscribe Research with Dynamic Subscriptions,0.912196
+GraPS,Evolving pub/sub subscriptions for multiplayer online games,0.663888
+GraPS,Self-Evolving Subscriptions for Content-Based Publish/Subscribe Systems,0.668111
+GraPS,MothPad: monitoring pub/sub activity in cyber-physical systems,0.564518
+Triangle-based obstacle-aware load balancing for massively multiplayer games,A publish/subscribe network engine testbed for multiplayer games,0.658572
+Triangle-based obstacle-aware load balancing for massively multiplayer games,Graph-Based Publish/Subscribe Research with Dynamic Subscriptions,0.306489
+Triangle-based obstacle-aware load balancing for massively multiplayer games,Evolving pub/sub subscriptions for multiplayer online games,0.538474
+Triangle-based obstacle-aware load balancing for massively multiplayer games,Self-Evolving Subscriptions for Content-Based Publish/Subscribe Systems,0.532994
+Triangle-based obstacle-aware load balancing for massively multiplayer games,MothPad: monitoring pub/sub activity in cyber-physical systems,0.50829
+A publish/subscribe network engine testbed for multiplayer games,Graph-Based Publish/Subscribe Research with Dynamic Subscriptions,0.411062
+A publish/subscribe network engine testbed for multiplayer games,Evolving pub/sub subscriptions for multiplayer online games,0.585126
+A publish/subscribe network engine testbed for multiplayer games,Self-Evolving Subscriptions for Content-Based Publish/Subscribe Systems,0.572652
+A publish/subscribe network engine testbed for multiplayer games,MothPad: monitoring pub/sub activity in cyber-physical systems,0.651621
+Graph-Based Publish/Subscribe Research with Dynamic Subscriptions,Evolving pub/sub subscriptions for multiplayer online games,0.617686
+Graph-Based Publish/Subscribe Research with Dynamic Subscriptions,Self-Evolving Subscriptions for Content-Based Publish/Subscribe Systems,0.643244
+Graph-Based Publish/Subscribe Research with Dynamic Subscriptions,MothPad: monitoring pub/sub activity in cyber-physical systems,0.517508
+Evolving pub/sub subscriptions for multiplayer online games,Self-Evolving Subscriptions for Content-Based Publish/Subscribe Systems,0.90194
+Evolving pub/sub subscriptions for multiplayer online games,MothPad: monitoring pub/sub activity in cyber-physical systems,0.708835
+Self-Evolving Subscriptions for Content-Based Publish/Subscribe Systems,MothPad: monitoring pub/sub activity in cyber-physical systems,0.675061

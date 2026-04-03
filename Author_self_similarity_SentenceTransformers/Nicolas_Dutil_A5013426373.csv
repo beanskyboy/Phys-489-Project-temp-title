@@ -1,0 +1,11 @@
+title_i,title_j,cosine_similarity
+Conjugate degradability and the quantum capacity of cloning channels,Multiparty quantum protocols for assisted entanglement distillation,0.627296
+Conjugate degradability and the quantum capacity of cloning channels,Assisted entanglement distillation,0.581322
+Conjugate degradability and the quantum capacity of cloning channels,One-shot Multiparty State Merging,0.539447
+Conjugate degradability and the quantum capacity of cloning channels,One-Way Entanglement of Assistance,0.579583
+Multiparty quantum protocols for assisted entanglement distillation,Assisted entanglement distillation,0.865648
+Multiparty quantum protocols for assisted entanglement distillation,One-shot Multiparty State Merging,0.866346
+Multiparty quantum protocols for assisted entanglement distillation,One-Way Entanglement of Assistance,0.864984
+Assisted entanglement distillation,One-shot Multiparty State Merging,0.821022
+Assisted entanglement distillation,One-Way Entanglement of Assistance,0.999302
+One-shot Multiparty State Merging,One-Way Entanglement of Assistance,0.820148

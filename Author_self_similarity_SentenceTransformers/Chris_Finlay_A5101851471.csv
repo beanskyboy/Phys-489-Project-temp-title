@@ -1,0 +1,106 @@
+title_i,title_j,cosine_similarity
+How to Train Your Neural ODE: the World of Jacobian and Kinetic Regularization,How to train your Neural ODE,1.0
+How to Train Your Neural ODE: the World of Jacobian and Kinetic Regularization,Scaleable input gradient regularization for adversarial robustness,0.466637
+How to Train Your Neural ODE: the World of Jacobian and Kinetic Regularization,The LogBarrier Adversarial Attack: Making Effective Use of Decision Boundary Information,0.334125
+How to Train Your Neural ODE: the World of Jacobian and Kinetic Regularization,Three Gaps for Quantisation in Learned Image Compression,0.463236
+How to Train Your Neural ODE: the World of Jacobian and Kinetic Regularization,Approximate homogenization of convex nonlinear elliptic PDEs,0.098142
+How to Train Your Neural ODE: the World of Jacobian and Kinetic Regularization,Improved Accuracy of Monotone Finite Difference Schemes on Point Clouds and Regular Grids,0.237229
+How to Train Your Neural ODE: the World of Jacobian and Kinetic Regularization,Lipschitz regularized Deep Neural Networks generalize and are adversarially robust,0.456886
+How to Train Your Neural ODE: the World of Jacobian and Kinetic Regularization,Improved robustness to adversarial examples using Lipschitz regularization of the loss,0.409383
+How to Train Your Neural ODE: the World of Jacobian and Kinetic Regularization,A principled approach for generating adversarial images under non-smooth dissimilarity metrics,0.386725
+How to Train Your Neural ODE: the World of Jacobian and Kinetic Regularization,Deterministic Gaussian Averaged Neural Networks,0.448043
+How to Train Your Neural ODE: the World of Jacobian and Kinetic Regularization,Multi-Resolution Continuous Normalizing Flows,0.626787
+How to Train Your Neural ODE: the World of Jacobian and Kinetic Regularization,"Farkas layers: don't shift the data, fix the geometry",0.513825
+How to Train Your Neural ODE: the World of Jacobian and Kinetic Regularization,Empirical uncertainty estimates for classification by deep neural networks,0.331314
+How to Train Your Neural ODE: the World of Jacobian and Kinetic Regularization,Adversarial Boot Camp: label free certified robustness in one epoch,0.410042
+How to train your Neural ODE,Scaleable input gradient regularization for adversarial robustness,0.466637
+How to train your Neural ODE,The LogBarrier Adversarial Attack: Making Effective Use of Decision Boundary Information,0.334125
+How to train your Neural ODE,Three Gaps for Quantisation in Learned Image Compression,0.463236
+How to train your Neural ODE,Approximate homogenization of convex nonlinear elliptic PDEs,0.098142
+How to train your Neural ODE,Improved Accuracy of Monotone Finite Difference Schemes on Point Clouds and Regular Grids,0.237229
+How to train your Neural ODE,Lipschitz regularized Deep Neural Networks generalize and are adversarially robust,0.456886
+How to train your Neural ODE,Improved robustness to adversarial examples using Lipschitz regularization of the loss,0.409383
+How to train your Neural ODE,A principled approach for generating adversarial images under non-smooth dissimilarity metrics,0.386725
+How to train your Neural ODE,Deterministic Gaussian Averaged Neural Networks,0.448043
+How to train your Neural ODE,Multi-Resolution Continuous Normalizing Flows,0.626787
+How to train your Neural ODE,"Farkas layers: don't shift the data, fix the geometry",0.513825
+How to train your Neural ODE,Empirical uncertainty estimates for classification by deep neural networks,0.331314
+How to train your Neural ODE,Adversarial Boot Camp: label free certified robustness in one epoch,0.410042
+Scaleable input gradient regularization for adversarial robustness,The LogBarrier Adversarial Attack: Making Effective Use of Decision Boundary Information,0.709324
+Scaleable input gradient regularization for adversarial robustness,Three Gaps for Quantisation in Learned Image Compression,0.413659
+Scaleable input gradient regularization for adversarial robustness,Approximate homogenization of convex nonlinear elliptic PDEs,0.062101
+Scaleable input gradient regularization for adversarial robustness,Improved Accuracy of Monotone Finite Difference Schemes on Point Clouds and Regular Grids,0.086816
+Scaleable input gradient regularization for adversarial robustness,Lipschitz regularized Deep Neural Networks generalize and are adversarially robust,0.835936
+Scaleable input gradient regularization for adversarial robustness,Improved robustness to adversarial examples using Lipschitz regularization of the loss,0.806466
+Scaleable input gradient regularization for adversarial robustness,A principled approach for generating adversarial images under non-smooth dissimilarity metrics,0.728684
+Scaleable input gradient regularization for adversarial robustness,Deterministic Gaussian Averaged Neural Networks,0.685134
+Scaleable input gradient regularization for adversarial robustness,Multi-Resolution Continuous Normalizing Flows,0.38445
+Scaleable input gradient regularization for adversarial robustness,"Farkas layers: don't shift the data, fix the geometry",0.468719
+Scaleable input gradient regularization for adversarial robustness,Empirical uncertainty estimates for classification by deep neural networks,0.380232
+Scaleable input gradient regularization for adversarial robustness,Adversarial Boot Camp: label free certified robustness in one epoch,0.789616
+The LogBarrier Adversarial Attack: Making Effective Use of Decision Boundary Information,Three Gaps for Quantisation in Learned Image Compression,0.389688
+The LogBarrier Adversarial Attack: Making Effective Use of Decision Boundary Information,Approximate homogenization of convex nonlinear elliptic PDEs,0.078343
+The LogBarrier Adversarial Attack: Making Effective Use of Decision Boundary Information,Improved Accuracy of Monotone Finite Difference Schemes on Point Clouds and Regular Grids,0.085668
+The LogBarrier Adversarial Attack: Making Effective Use of Decision Boundary Information,Lipschitz regularized Deep Neural Networks generalize and are adversarially robust,0.689803
+The LogBarrier Adversarial Attack: Making Effective Use of Decision Boundary Information,Improved robustness to adversarial examples using Lipschitz regularization of the loss,0.682723
+The LogBarrier Adversarial Attack: Making Effective Use of Decision Boundary Information,A principled approach for generating adversarial images under non-smooth dissimilarity metrics,0.792253
+The LogBarrier Adversarial Attack: Making Effective Use of Decision Boundary Information,Deterministic Gaussian Averaged Neural Networks,0.5914
+The LogBarrier Adversarial Attack: Making Effective Use of Decision Boundary Information,Multi-Resolution Continuous Normalizing Flows,0.280402
+The LogBarrier Adversarial Attack: Making Effective Use of Decision Boundary Information,"Farkas layers: don't shift the data, fix the geometry",0.426351
+The LogBarrier Adversarial Attack: Making Effective Use of Decision Boundary Information,Empirical uncertainty estimates for classification by deep neural networks,0.388214
+The LogBarrier Adversarial Attack: Making Effective Use of Decision Boundary Information,Adversarial Boot Camp: label free certified robustness in one epoch,0.69581
+Three Gaps for Quantisation in Learned Image Compression,Approximate homogenization of convex nonlinear elliptic PDEs,0.097019
+Three Gaps for Quantisation in Learned Image Compression,Improved Accuracy of Monotone Finite Difference Schemes on Point Clouds and Regular Grids,0.171623
+Three Gaps for Quantisation in Learned Image Compression,Lipschitz regularized Deep Neural Networks generalize and are adversarially robust,0.40762
+Three Gaps for Quantisation in Learned Image Compression,Improved robustness to adversarial examples using Lipschitz regularization of the loss,0.429024
+Three Gaps for Quantisation in Learned Image Compression,A principled approach for generating adversarial images under non-smooth dissimilarity metrics,0.463634
+Three Gaps for Quantisation in Learned Image Compression,Deterministic Gaussian Averaged Neural Networks,0.372986
+Three Gaps for Quantisation in Learned Image Compression,Multi-Resolution Continuous Normalizing Flows,0.466993
+Three Gaps for Quantisation in Learned Image Compression,"Farkas layers: don't shift the data, fix the geometry",0.436168
+Three Gaps for Quantisation in Learned Image Compression,Empirical uncertainty estimates for classification by deep neural networks,0.279223
+Three Gaps for Quantisation in Learned Image Compression,Adversarial Boot Camp: label free certified robustness in one epoch,0.398359
+Approximate homogenization of convex nonlinear elliptic PDEs,Improved Accuracy of Monotone Finite Difference Schemes on Point Clouds and Regular Grids,0.476784
+Approximate homogenization of convex nonlinear elliptic PDEs,Lipschitz regularized Deep Neural Networks generalize and are adversarially robust,0.163026
+Approximate homogenization of convex nonlinear elliptic PDEs,Improved robustness to adversarial examples using Lipschitz regularization of the loss,0.14989
+Approximate homogenization of convex nonlinear elliptic PDEs,A principled approach for generating adversarial images under non-smooth dissimilarity metrics,0.101623
+Approximate homogenization of convex nonlinear elliptic PDEs,Deterministic Gaussian Averaged Neural Networks,0.092942
+Approximate homogenization of convex nonlinear elliptic PDEs,Multi-Resolution Continuous Normalizing Flows,0.131101
+Approximate homogenization of convex nonlinear elliptic PDEs,"Farkas layers: don't shift the data, fix the geometry",0.031581
+Approximate homogenization of convex nonlinear elliptic PDEs,Empirical uncertainty estimates for classification by deep neural networks,0.021787
+Approximate homogenization of convex nonlinear elliptic PDEs,Adversarial Boot Camp: label free certified robustness in one epoch,0.100348
+Improved Accuracy of Monotone Finite Difference Schemes on Point Clouds and Regular Grids,Lipschitz regularized Deep Neural Networks generalize and are adversarially robust,0.111978
+Improved Accuracy of Monotone Finite Difference Schemes on Point Clouds and Regular Grids,Improved robustness to adversarial examples using Lipschitz regularization of the loss,0.147714
+Improved Accuracy of Monotone Finite Difference Schemes on Point Clouds and Regular Grids,A principled approach for generating adversarial images under non-smooth dissimilarity metrics,0.095331
+Improved Accuracy of Monotone Finite Difference Schemes on Point Clouds and Regular Grids,Deterministic Gaussian Averaged Neural Networks,0.055125
+Improved Accuracy of Monotone Finite Difference Schemes on Point Clouds and Regular Grids,Multi-Resolution Continuous Normalizing Flows,0.210136
+Improved Accuracy of Monotone Finite Difference Schemes on Point Clouds and Regular Grids,"Farkas layers: don't shift the data, fix the geometry",0.048051
+Improved Accuracy of Monotone Finite Difference Schemes on Point Clouds and Regular Grids,Empirical uncertainty estimates for classification by deep neural networks,0.028505
+Improved Accuracy of Monotone Finite Difference Schemes on Point Clouds and Regular Grids,Adversarial Boot Camp: label free certified robustness in one epoch,0.079543
+Lipschitz regularized Deep Neural Networks generalize and are adversarially robust,Improved robustness to adversarial examples using Lipschitz regularization of the loss,0.783321
+Lipschitz regularized Deep Neural Networks generalize and are adversarially robust,A principled approach for generating adversarial images under non-smooth dissimilarity metrics,0.76561
+Lipschitz regularized Deep Neural Networks generalize and are adversarially robust,Deterministic Gaussian Averaged Neural Networks,0.694721
+Lipschitz regularized Deep Neural Networks generalize and are adversarially robust,Multi-Resolution Continuous Normalizing Flows,0.357654
+Lipschitz regularized Deep Neural Networks generalize and are adversarially robust,"Farkas layers: don't shift the data, fix the geometry",0.506646
+Lipschitz regularized Deep Neural Networks generalize and are adversarially robust,Empirical uncertainty estimates for classification by deep neural networks,0.35068
+Lipschitz regularized Deep Neural Networks generalize and are adversarially robust,Adversarial Boot Camp: label free certified robustness in one epoch,0.747052
+Improved robustness to adversarial examples using Lipschitz regularization of the loss,A principled approach for generating adversarial images under non-smooth dissimilarity metrics,0.716727
+Improved robustness to adversarial examples using Lipschitz regularization of the loss,Deterministic Gaussian Averaged Neural Networks,0.652141
+Improved robustness to adversarial examples using Lipschitz regularization of the loss,Multi-Resolution Continuous Normalizing Flows,0.36586
+Improved robustness to adversarial examples using Lipschitz regularization of the loss,"Farkas layers: don't shift the data, fix the geometry",0.448285
+Improved robustness to adversarial examples using Lipschitz regularization of the loss,Empirical uncertainty estimates for classification by deep neural networks,0.364051
+Improved robustness to adversarial examples using Lipschitz regularization of the loss,Adversarial Boot Camp: label free certified robustness in one epoch,0.743339
+A principled approach for generating adversarial images under non-smooth dissimilarity metrics,Deterministic Gaussian Averaged Neural Networks,0.656412
+A principled approach for generating adversarial images under non-smooth dissimilarity metrics,Multi-Resolution Continuous Normalizing Flows,0.365352
+A principled approach for generating adversarial images under non-smooth dissimilarity metrics,"Farkas layers: don't shift the data, fix the geometry",0.460539
+A principled approach for generating adversarial images under non-smooth dissimilarity metrics,Empirical uncertainty estimates for classification by deep neural networks,0.394406
+A principled approach for generating adversarial images under non-smooth dissimilarity metrics,Adversarial Boot Camp: label free certified robustness in one epoch,0.715879
+Deterministic Gaussian Averaged Neural Networks,Multi-Resolution Continuous Normalizing Flows,0.381769
+Deterministic Gaussian Averaged Neural Networks,"Farkas layers: don't shift the data, fix the geometry",0.495171
+Deterministic Gaussian Averaged Neural Networks,Empirical uncertainty estimates for classification by deep neural networks,0.536354
+Deterministic Gaussian Averaged Neural Networks,Adversarial Boot Camp: label free certified robustness in one epoch,0.879234
+Multi-Resolution Continuous Normalizing Flows,"Farkas layers: don't shift the data, fix the geometry",0.400522
+Multi-Resolution Continuous Normalizing Flows,Empirical uncertainty estimates for classification by deep neural networks,0.277747
+Multi-Resolution Continuous Normalizing Flows,Adversarial Boot Camp: label free certified robustness in one epoch,0.360669
+"Farkas layers: don't shift the data, fix the geometry",Empirical uncertainty estimates for classification by deep neural networks,0.335395
+"Farkas layers: don't shift the data, fix the geometry",Adversarial Boot Camp: label free certified robustness in one epoch,0.455162
+Empirical uncertainty estimates for classification by deep neural networks,Adversarial Boot Camp: label free certified robustness in one epoch,0.511149

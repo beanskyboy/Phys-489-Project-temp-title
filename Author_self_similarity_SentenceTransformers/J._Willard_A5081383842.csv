@@ -1,0 +1,11 @@
+title_i,title_j,cosine_similarity
+Covariate adjustment in Bayesian adaptive randomized controlled trials,Bayesian optimization for personalized dose-finding trials with combination therapies,0.586635
+Covariate adjustment in Bayesian adaptive randomized controlled trials,A High Current Electron Gun Suitable for Use down to 1 Nanosecond Pulse Length,0.003839
+Covariate adjustment in Bayesian adaptive randomized controlled trials,P-44 A Statistical Analysis of X-Ray Bursts Using Mutual Information,0.206767
+Covariate adjustment in Bayesian adaptive randomized controlled trials,Bayesian Optimization for Identification of Optimal Biological Dose Combinations in Personalized Dose-Finding Trials,0.562437
+Bayesian optimization for personalized dose-finding trials with combination therapies,A High Current Electron Gun Suitable for Use down to 1 Nanosecond Pulse Length,0.000717
+Bayesian optimization for personalized dose-finding trials with combination therapies,P-44 A Statistical Analysis of X-Ray Bursts Using Mutual Information,0.244023
+Bayesian optimization for personalized dose-finding trials with combination therapies,Bayesian Optimization for Identification of Optimal Biological Dose Combinations in Personalized Dose-Finding Trials,0.863305
+A High Current Electron Gun Suitable for Use down to 1 Nanosecond Pulse Length,P-44 A Statistical Analysis of X-Ray Bursts Using Mutual Information,0.032058
+A High Current Electron Gun Suitable for Use down to 1 Nanosecond Pulse Length,Bayesian Optimization for Identification of Optimal Biological Dose Combinations in Personalized Dose-Finding Trials,-0.040628
+P-44 A Statistical Analysis of X-Ray Bursts Using Mutual Information,Bayesian Optimization for Identification of Optimal Biological Dose Combinations in Personalized Dose-Finding Trials,0.228242

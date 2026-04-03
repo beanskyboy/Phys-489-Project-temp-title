@@ -1,0 +1,4 @@
+title_i,title_j,cosine_similarity
+PET-SORTEO: validation and development of database of Simulated PET volumes,PET-SORTEO: a platform for simulating realistic PET studies,0.933981
+PET-SORTEO: validation and development of database of Simulated PET volumes,A database of simulated PET volumes with anatomical variability,0.894436
+PET-SORTEO: a platform for simulating realistic PET studies,A database of simulated PET volumes with anatomical variability,0.849479

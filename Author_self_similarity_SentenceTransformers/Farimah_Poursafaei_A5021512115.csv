@@ -1,0 +1,22 @@
+title_i,title_j,cosine_similarity
+Temporal Graph Analysis with TGX,Towards Better Evaluation for Dynamic Link Prediction,0.603303
+Temporal Graph Analysis with TGX,Temporal Graph Rewiring with Expander Graphs,0.625316
+Temporal Graph Analysis with TGX,Active Keyword Selection to Track Evolving Topics on Twitter,0.514614
+Temporal Graph Analysis with TGX,"Dataset for ""Towards Better Evaluation for Dynamic Link Prediction""",0.563415
+Temporal Graph Analysis with TGX,Temporal Graph Learning Workshop,0.653823
+Temporal Graph Analysis with TGX,TGM: a Modular and Efficient Library for Machine Learning on Temporal Graphs,0.704548
+Towards Better Evaluation for Dynamic Link Prediction,Temporal Graph Rewiring with Expander Graphs,0.598232
+Towards Better Evaluation for Dynamic Link Prediction,Active Keyword Selection to Track Evolving Topics on Twitter,0.418125
+Towards Better Evaluation for Dynamic Link Prediction,"Dataset for ""Towards Better Evaluation for Dynamic Link Prediction""",0.578512
+Towards Better Evaluation for Dynamic Link Prediction,Temporal Graph Learning Workshop,0.620976
+Towards Better Evaluation for Dynamic Link Prediction,TGM: a Modular and Efficient Library for Machine Learning on Temporal Graphs,0.702044
+Temporal Graph Rewiring with Expander Graphs,Active Keyword Selection to Track Evolving Topics on Twitter,0.301451
+Temporal Graph Rewiring with Expander Graphs,"Dataset for ""Towards Better Evaluation for Dynamic Link Prediction""",0.4825
+Temporal Graph Rewiring with Expander Graphs,Temporal Graph Learning Workshop,0.558036
+Temporal Graph Rewiring with Expander Graphs,TGM: a Modular and Efficient Library for Machine Learning on Temporal Graphs,0.751541
+Active Keyword Selection to Track Evolving Topics on Twitter,"Dataset for ""Towards Better Evaluation for Dynamic Link Prediction""",0.226272
+Active Keyword Selection to Track Evolving Topics on Twitter,Temporal Graph Learning Workshop,0.43736
+Active Keyword Selection to Track Evolving Topics on Twitter,TGM: a Modular and Efficient Library for Machine Learning on Temporal Graphs,0.43434
+"Dataset for ""Towards Better Evaluation for Dynamic Link Prediction""",Temporal Graph Learning Workshop,0.446335
+"Dataset for ""Towards Better Evaluation for Dynamic Link Prediction""",TGM: a Modular and Efficient Library for Machine Learning on Temporal Graphs,0.531632
+Temporal Graph Learning Workshop,TGM: a Modular and Efficient Library for Machine Learning on Temporal Graphs,0.712345

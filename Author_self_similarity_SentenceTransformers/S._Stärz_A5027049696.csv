@@ -1,16 +1,16 @@
-abstract_i,abstract_j,cosine_similarity
-0,1,0.879922
-0,2,0.796142
-0,3,0.827794
-0,4,0.875931
-0,5,0.797634
-1,2,0.70935
-1,3,0.801644
-1,4,0.807228
-1,5,0.699628
-2,3,0.815966
-2,4,0.779873
-2,5,0.866354
-3,4,0.759816
-3,5,0.756607
-4,5,0.767427
+title_i,title_j,cosine_similarity
+Development and implementation of optimal filtering in a Virtex FPGA for the upgrade of the ATLAS LAr calorimeter readout,Energy Reconstruction and high-speed Data Transmission with FPGAs for the Upgrade of the ATLAS Liquid Argon Calorimeter at LHC,0.875931
+Development and implementation of optimal filtering in a Virtex FPGA for the upgrade of the ATLAS LAr calorimeter readout,A readout driver for the ATLAS LAr-calorimeter at a High Luminosity LHC,0.759816
+Development and implementation of optimal filtering in a Virtex FPGA for the upgrade of the ATLAS LAr calorimeter readout,Electronics Development for the ATLAS Liquid Argon Calorimeter - Trigger and Readout for Future LHC Running -,0.779873
+Development and implementation of optimal filtering in a Virtex FPGA for the upgrade of the ATLAS LAr calorimeter readout,"ATLAS Calorimeter system: Run-2 performance, Phase-1 and Phase-2 upgrades",0.767427
+Development and implementation of optimal filtering in a Virtex FPGA for the upgrade of the ATLAS LAr calorimeter readout,Development of Digital Signal Processing with FPGAs for the Readout of the ATLAS Liquid Argon Calorimeter at HL-LHC,0.807228
+Energy Reconstruction and high-speed Data Transmission with FPGAs for the Upgrade of the ATLAS Liquid Argon Calorimeter at LHC,A readout driver for the ATLAS LAr-calorimeter at a High Luminosity LHC,0.827794
+Energy Reconstruction and high-speed Data Transmission with FPGAs for the Upgrade of the ATLAS Liquid Argon Calorimeter at LHC,Electronics Development for the ATLAS Liquid Argon Calorimeter - Trigger and Readout for Future LHC Running -,0.796142
+Energy Reconstruction and high-speed Data Transmission with FPGAs for the Upgrade of the ATLAS Liquid Argon Calorimeter at LHC,"ATLAS Calorimeter system: Run-2 performance, Phase-1 and Phase-2 upgrades",0.797634
+Energy Reconstruction and high-speed Data Transmission with FPGAs for the Upgrade of the ATLAS Liquid Argon Calorimeter at LHC,Development of Digital Signal Processing with FPGAs for the Readout of the ATLAS Liquid Argon Calorimeter at HL-LHC,0.879922
+A readout driver for the ATLAS LAr-calorimeter at a High Luminosity LHC,Electronics Development for the ATLAS Liquid Argon Calorimeter - Trigger and Readout for Future LHC Running -,0.815966
+A readout driver for the ATLAS LAr-calorimeter at a High Luminosity LHC,"ATLAS Calorimeter system: Run-2 performance, Phase-1 and Phase-2 upgrades",0.756607
+A readout driver for the ATLAS LAr-calorimeter at a High Luminosity LHC,Development of Digital Signal Processing with FPGAs for the Readout of the ATLAS Liquid Argon Calorimeter at HL-LHC,0.801644
+Electronics Development for the ATLAS Liquid Argon Calorimeter - Trigger and Readout for Future LHC Running -,"ATLAS Calorimeter system: Run-2 performance, Phase-1 and Phase-2 upgrades",0.866354
+Electronics Development for the ATLAS Liquid Argon Calorimeter - Trigger and Readout for Future LHC Running -,Development of Digital Signal Processing with FPGAs for the Readout of the ATLAS Liquid Argon Calorimeter at HL-LHC,0.70935
+"ATLAS Calorimeter system: Run-2 performance, Phase-1 and Phase-2 upgrades",Development of Digital Signal Processing with FPGAs for the Readout of the ATLAS Liquid Argon Calorimeter at HL-LHC,0.699628

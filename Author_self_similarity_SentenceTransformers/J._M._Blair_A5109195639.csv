@@ -1,0 +1,16 @@
+title_i,title_j,cosine_similarity
+Rational Chebyshev approximations for the inverse of the error function,Rational Chebyshev approximations for the Bickley functions 𝐾𝑖_{𝑛}(𝑥),0.751123
+Rational Chebyshev approximations for the inverse of the error function,Rational Chebyshev approximations for the modified Bessel functions 𝐼₀(𝑥) and 𝐼₁(𝑥),0.830996
+Rational Chebyshev approximations for the inverse of the error function,Rational Chebyshev Approximations for the Bickley Functions Ki n (x),0.684506
+Rational Chebyshev approximations for the inverse of the error function,"Rational Chebyshev approximations for the Bessel functions 𝐽₀(𝑥), 𝐽₁(𝑥), 𝑌₀(𝑥), 𝑌₁(𝑥)",0.65202
+Rational Chebyshev approximations for the inverse of the error function,"Rational Chebyshev Approximations for the Bessel Functions J 0 (x), J 1 (x), Y 0 (x), Y 1 (x)",0.445855
+Rational Chebyshev approximations for the Bickley functions 𝐾𝑖_{𝑛}(𝑥),Rational Chebyshev approximations for the modified Bessel functions 𝐼₀(𝑥) and 𝐼₁(𝑥),0.821331
+Rational Chebyshev approximations for the Bickley functions 𝐾𝑖_{𝑛}(𝑥),Rational Chebyshev Approximations for the Bickley Functions Ki n (x),0.887013
+Rational Chebyshev approximations for the Bickley functions 𝐾𝑖_{𝑛}(𝑥),"Rational Chebyshev approximations for the Bessel functions 𝐽₀(𝑥), 𝐽₁(𝑥), 𝑌₀(𝑥), 𝑌₁(𝑥)",0.743943
+Rational Chebyshev approximations for the Bickley functions 𝐾𝑖_{𝑛}(𝑥),"Rational Chebyshev Approximations for the Bessel Functions J 0 (x), J 1 (x), Y 0 (x), Y 1 (x)",0.516937
+Rational Chebyshev approximations for the modified Bessel functions 𝐼₀(𝑥) and 𝐼₁(𝑥),Rational Chebyshev Approximations for the Bickley Functions Ki n (x),0.712273
+Rational Chebyshev approximations for the modified Bessel functions 𝐼₀(𝑥) and 𝐼₁(𝑥),"Rational Chebyshev approximations for the Bessel functions 𝐽₀(𝑥), 𝐽₁(𝑥), 𝑌₀(𝑥), 𝑌₁(𝑥)",0.73705
+Rational Chebyshev approximations for the modified Bessel functions 𝐼₀(𝑥) and 𝐼₁(𝑥),"Rational Chebyshev Approximations for the Bessel Functions J 0 (x), J 1 (x), Y 0 (x), Y 1 (x)",0.552412
+Rational Chebyshev Approximations for the Bickley Functions Ki n (x),"Rational Chebyshev approximations for the Bessel functions 𝐽₀(𝑥), 𝐽₁(𝑥), 𝑌₀(𝑥), 𝑌₁(𝑥)",0.68711
+Rational Chebyshev Approximations for the Bickley Functions Ki n (x),"Rational Chebyshev Approximations for the Bessel Functions J 0 (x), J 1 (x), Y 0 (x), Y 1 (x)",0.515027
+"Rational Chebyshev approximations for the Bessel functions 𝐽₀(𝑥), 𝐽₁(𝑥), 𝑌₀(𝑥), 𝑌₁(𝑥)","Rational Chebyshev Approximations for the Bessel Functions J 0 (x), J 1 (x), Y 0 (x), Y 1 (x)",0.795019

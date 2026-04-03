@@ -1,0 +1,11 @@
+title_i,title_j,cosine_similarity
+"Towards Reliable Misinformation Mitigation: Generalization, Uncertainty, and GPT-4",Online Partisan Polarization of COVID-19,0.325244
+"Towards Reliable Misinformation Mitigation: Generalization, Uncertainty, and GPT-4",Party Prediction for Twitter,0.340836
+"Towards Reliable Misinformation Mitigation: Generalization, Uncertainty, and GPT-4",Regional and Temporal Patterns of Partisan Polarization during the COVID-19 Pandemic in the United States and Canada,0.297955
+"Towards Reliable Misinformation Mitigation: Generalization, Uncertainty, and GPT-4",Uncertainty Resolution in Misinformation Detection,0.342041
+Online Partisan Polarization of COVID-19,Party Prediction for Twitter,0.636205
+Online Partisan Polarization of COVID-19,Regional and Temporal Patterns of Partisan Polarization during the COVID-19 Pandemic in the United States and Canada,0.892748
+Online Partisan Polarization of COVID-19,Uncertainty Resolution in Misinformation Detection,0.403075
+Party Prediction for Twitter,Regional and Temporal Patterns of Partisan Polarization during the COVID-19 Pandemic in the United States and Canada,0.539191
+Party Prediction for Twitter,Uncertainty Resolution in Misinformation Detection,0.409923
+Regional and Temporal Patterns of Partisan Polarization during the COVID-19 Pandemic in the United States and Canada,Uncertainty Resolution in Misinformation Detection,0.332463

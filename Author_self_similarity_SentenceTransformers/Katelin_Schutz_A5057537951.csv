@@ -1,1597 +1,947 @@
-abstract_i,abstract_j,cosine_similarity
-0,1,0.514751
-0,2,0.47369
-0,3,0.517787
-0,4,0.517116
-0,5,0.552466
-0,6,0.481841
-0,7,0.464968
-0,8,0.528038
-0,9,0.615734
-0,10,0.440057
-0,11,0.469384
-0,12,0.480969
-0,13,0.498695
-0,14,0.592415
-0,15,0.596684
-0,16,0.521329
-0,17,0.555646
-0,18,0.343073
-0,19,0.274696
-0,20,0.834457
-0,21,0.607593
-0,22,0.432947
-0,23,0.613936
-0,24,0.501162
-0,25,0.677124
-0,26,0.30221
-0,27,0.526459
-0,28,0.570019
-0,29,0.542269
-0,30,0.491924
-0,31,0.603723
-0,32,0.999213
-0,33,0.593988
-0,34,0.411114
-0,35,0.571059
-0,36,0.417499
-0,37,0.571289
-0,38,0.502412
-0,39,0.482696
-0,40,0.58581
-0,41,0.468809
-0,42,0.661265
-0,43,0.581342
-0,44,0.435824
-0,45,0.605079
-0,46,0.312322
-0,47,0.430671
-0,48,0.625786
-0,49,0.399675
-0,50,0.297082
-0,51,0.483416
-0,52,0.434704
-0,53,0.511986
-0,54,0.484966
-0,55,0.310703
-0,56,0.805334
-1,2,0.472956
-1,3,0.505882
-1,4,0.998713
-1,5,0.520994
-1,6,0.189402
-1,7,0.592449
-1,8,0.411444
-1,9,0.55969
-1,10,0.327104
-1,11,0.50925
-1,12,0.499282
-1,13,0.562867
-1,14,0.527096
-1,15,0.493859
-1,16,0.50921
-1,17,0.547712
-1,18,0.539749
-1,19,0.470129
-1,20,0.532772
-1,21,0.435103
-1,22,0.533276
-1,23,0.512484
-1,24,0.532387
-1,25,0.588563
-1,26,0.460361
-1,27,0.426998
-1,28,0.438374
-1,29,0.434719
-1,30,0.500455
-1,31,0.639398
-1,32,0.524045
-1,33,0.432702
-1,34,0.332942
-1,35,0.616479
-1,36,0.254619
-1,37,0.616666
-1,38,0.563675
-1,39,0.324278
-1,40,0.555126
-1,41,0.509835
-1,42,0.563509
-1,43,0.600518
-1,44,0.318066
-1,45,0.518855
-1,46,0.073601
-1,47,0.313451
-1,48,0.734094
-1,49,0.298193
-1,50,0.451774
-1,51,0.598198
-1,52,0.30754
-1,53,0.385563
-1,54,0.601231
-1,55,0.059488
-1,56,0.533911
-2,3,0.591492
-2,4,0.481061
-2,5,0.548095
-2,6,0.411049
-2,7,0.613501
-2,8,0.642054
-2,9,0.5899
-2,10,0.523879
-2,11,0.590896
-2,12,0.665485
-2,13,0.565477
-2,14,0.670211
-2,15,0.682077
-2,16,0.590982
-2,17,0.543555
-2,18,0.42814
-2,19,0.433971
-2,20,0.433779
-2,21,0.617273
-2,22,0.534365
-2,23,0.619238
-2,24,0.569778
-2,25,0.564371
-2,26,0.441188
-2,27,0.626787
-2,28,0.430565
-2,29,0.460387
-2,30,0.670176
-2,31,0.646569
-2,32,0.479647
-2,33,0.652658
-2,34,0.568517
-2,35,0.698908
-2,36,0.405374
-2,37,0.695973
-2,38,0.575262
-2,39,0.370602
-2,40,0.598955
-2,41,0.580889
-2,42,0.523098
-2,43,0.712992
-2,44,0.520768
-2,45,0.707124
-2,46,0.24799
-2,47,0.405638
-2,48,0.47658
-2,49,0.543307
-2,50,0.395891
-2,51,0.536776
-2,52,0.395427
-2,53,0.694026
-2,54,0.544475
-2,55,0.24809
-2,56,0.494803
-3,4,0.519765
-3,5,0.50637
-3,6,0.410984
-3,7,0.547796
-3,8,0.67457
-3,9,0.563693
-3,10,0.498203
-3,11,0.527278
-3,12,0.586318
-3,13,0.503016
-3,14,0.774795
-3,15,0.75048
-3,16,0.994902
-3,17,0.493582
-3,18,0.383133
-3,19,0.397777
-3,20,0.505244
-3,21,0.690033
-3,22,0.508819
-3,23,0.691571
-3,24,0.647229
-3,25,0.665811
-3,26,0.432481
-3,27,0.698377
-3,28,0.506296
-3,29,0.652998
-3,30,0.588016
-3,31,0.719953
-3,32,0.520906
-3,33,0.682972
-3,34,0.434661
-3,35,0.667051
-3,36,0.362912
-3,37,0.661567
-3,38,0.51155
-3,39,0.363311
-3,40,0.730713
-3,41,0.515763
-3,42,0.465237
-3,43,0.670741
-3,44,0.493133
-3,45,0.569159
-3,46,0.249178
-3,47,0.306982
-3,48,0.536895
-3,49,0.424229
-3,50,0.292785
-3,51,0.673306
-3,52,0.299877
-3,53,0.533504
-3,54,0.675605
-3,55,0.247608
-3,56,0.545061
-4,5,0.525175
-4,6,0.195793
-4,7,0.596606
-4,8,0.422591
-4,9,0.564286
-4,10,0.335407
-4,11,0.515917
-4,12,0.506703
-4,13,0.567636
-4,14,0.537699
-4,15,0.503845
-4,16,0.522309
-4,17,0.550339
-4,18,0.545517
-4,19,0.474867
-4,20,0.53273
-4,21,0.442798
-4,22,0.54294
-4,23,0.521432
-4,24,0.543818
-4,25,0.596147
-4,26,0.464851
-4,27,0.439043
-4,28,0.441408
-4,29,0.441239
-4,30,0.507945
-4,31,0.649953
-4,32,0.526423
-4,33,0.442827
-4,34,0.342336
-4,35,0.626801
-4,36,0.255589
-4,37,0.626904
-4,38,0.568647
-4,39,0.328295
-4,40,0.562787
-4,41,0.515844
-4,42,0.57065
-4,43,0.613879
-4,44,0.326442
-4,45,0.526023
-4,46,0.077203
-4,47,0.316564
-4,48,0.733805
-4,49,0.307817
-4,50,0.452749
-4,51,0.605088
-4,52,0.310197
-4,53,0.392366
-4,54,0.608404
-4,55,0.063242
-4,56,0.538772
-5,6,0.397022
-5,7,0.569452
-5,8,0.523822
-5,9,0.576916
-5,10,0.510957
-5,11,0.548722
-5,12,0.530683
-5,13,0.491247
-5,14,0.56433
-5,15,0.577504
-5,16,0.495309
-5,17,0.988638
-5,18,0.514728
-5,19,0.37785
-5,20,0.565865
-5,21,0.503197
-5,22,0.524192
-5,23,0.556292
-5,24,0.467104
-5,25,0.49928
-5,26,0.329756
-5,27,0.522157
-5,28,0.430065
-5,29,0.467696
-5,30,0.543124
-5,31,0.522368
-5,32,0.555496
-5,33,0.553487
-5,34,0.396346
-5,35,0.558036
-5,36,0.491845
-5,37,0.558386
-5,38,0.496333
-5,39,0.331691
-5,40,0.598029
-5,41,0.539978
-5,42,0.496763
-5,43,0.566063
-5,44,0.502881
-5,45,0.563611
-5,46,0.300753
-5,47,0.411572
-5,48,0.58638
-5,49,0.384767
-5,50,0.420467
-5,51,0.609216
-5,52,0.407895
-5,53,0.44915
-5,54,0.611217
-5,55,0.299798
-5,56,0.560661
-6,7,0.278779
-6,8,0.471285
-6,9,0.551142
-6,10,0.420315
-6,11,0.447486
-6,12,0.326965
-6,13,0.293696
-6,14,0.448311
-6,15,0.475298
-6,16,0.409724
-6,17,0.389626
-6,18,0.134663
-6,19,0.234532
-6,20,0.430411
-6,21,0.540953
-6,22,0.282478
-6,23,0.470244
-6,24,0.359915
-6,25,0.367002
-6,26,0.179926
-6,27,0.445928
-6,28,0.493833
-6,29,0.426411
-6,30,0.343298
-6,31,0.321391
-6,32,0.477297
-6,33,0.508603
-6,34,0.443193
-6,35,0.358747
-6,36,0.391772
-6,37,0.358213
-6,38,0.304801
-6,39,0.51375
-6,40,0.452059
-6,41,0.447242
-6,42,0.333909
-6,43,0.40829
-6,44,0.420159
-6,45,0.462561
-6,46,0.421979
-6,47,0.494033
-6,48,0.31564
-6,49,0.43348
-6,50,0.165992
-6,51,0.427908
-6,52,0.493325
-6,53,0.4489
-6,54,0.432081
-6,55,0.429326
-6,56,0.41561
-7,8,0.589599
-7,9,0.565247
-7,10,0.471511
-7,11,0.50987
-7,12,0.885214
-7,13,0.827873
-7,14,0.595429
-7,15,0.580462
-7,16,0.546918
-7,17,0.588567
-7,18,0.506694
-7,19,0.452411
-7,20,0.457088
-7,21,0.64747
-7,22,0.526074
-7,23,0.535954
-7,24,0.533435
-7,25,0.494043
-7,26,0.492542
-7,27,0.590093
-7,28,0.381788
-7,29,0.492517
-7,30,0.87954
-7,31,0.589202
-7,32,0.471753
-7,33,0.579627
-7,34,0.324784
-7,35,0.575594
-7,36,0.454472
-7,37,0.576346
-7,38,0.830981
-7,39,0.292587
-7,40,0.567531
-7,41,0.508283
-7,42,0.484967
-7,43,0.595236
-7,44,0.467138
-7,45,0.495507
-7,46,0.248311
-7,47,0.458947
-7,48,0.523516
-7,49,0.312354
-7,50,0.484429
-7,51,0.600154
-7,52,0.451478
-7,53,0.436383
-7,54,0.600901
-7,55,0.242459
-7,56,0.524005
-8,9,0.562761
-8,10,0.594328
-8,11,0.56095
-8,12,0.631797
-8,13,0.527264
-8,14,0.844492
-8,15,0.86249
-8,16,0.67409
-8,17,0.523449
-8,18,0.395016
-8,19,0.339582
-8,20,0.506398
-8,21,0.71702
-8,22,0.516469
-8,23,0.653361
-8,24,0.660892
-8,25,0.590417
-8,26,0.329643
-8,27,0.985756
-8,28,0.46775
-8,29,0.605512
-8,30,0.653329
-8,31,0.612985
-8,32,0.531902
-8,33,0.737359
-8,34,0.50854
-8,35,0.627326
-8,36,0.465855
-8,37,0.624219
-8,38,0.534597
-8,39,0.352414
-8,40,0.715872
-8,41,0.541948
-8,42,0.506205
-8,43,0.650746
-8,44,0.59276
-8,45,0.573481
-8,46,0.333399
-8,47,0.42312
-8,48,0.508164
-8,49,0.513942
-8,50,0.305573
-8,51,0.560167
-8,52,0.417232
-8,53,0.528858
-8,54,0.564926
-8,55,0.342247
-8,56,0.573083
-9,10,0.527294
-9,11,0.632857
-9,12,0.574725
-9,13,0.59958
-9,14,0.6234
-9,15,0.627836
-9,16,0.56412
-9,17,0.577109
-9,18,0.421304
-9,19,0.402844
-9,20,0.632655
-9,21,0.628595
-9,22,0.5331
-9,23,0.631979
-9,24,0.602501
-9,25,0.590742
-9,26,0.409995
-9,27,0.535367
-9,28,0.61579
-9,29,0.5937
-9,30,0.582301
-9,31,0.616243
-9,32,0.620749
-9,33,0.673491
-9,34,0.541541
-9,35,0.616531
-9,36,0.545988
-9,37,0.61658
-9,38,0.610806
-9,39,0.516734
-9,40,0.659867
-9,41,0.622215
-9,42,0.571742
-9,43,0.690044
-9,44,0.52142
-9,45,0.689021
-9,46,0.378297
-9,47,0.560886
-9,48,0.612723
-9,49,0.525584
-9,50,0.432191
-9,51,0.643963
-9,52,0.560821
-9,53,0.624346
-9,54,0.648157
-9,55,0.376574
-9,56,0.644344
-10,11,0.500106
-10,12,0.50508
-10,13,0.42807
-10,14,0.54104
-10,15,0.55329
-10,16,0.493817
-10,17,0.493178
-10,18,0.295519
-10,19,0.325809
-10,20,0.393519
-10,21,0.492857
-10,22,0.393523
-10,23,0.48649
-10,24,0.455922
-10,25,0.497805
-10,26,0.315499
-10,27,0.57199
-10,28,0.436267
-10,29,0.508948
-10,30,0.511949
-10,31,0.434873
-10,32,0.441652
-10,33,0.623406
-10,34,0.407279
-10,35,0.48946
-10,36,0.422779
-10,37,0.486197
-10,38,0.436225
-10,39,0.379769
-10,40,0.506983
-10,41,0.484515
-10,42,0.42526
-10,43,0.492813
-10,44,0.998986
-10,45,0.449994
-10,46,0.420359
-10,47,0.440226
-10,48,0.374097
-10,49,0.409979
-10,50,0.317314
-10,51,0.449947
-10,52,0.433641
-10,53,0.415573
-10,54,0.454294
-10,55,0.42752
-10,56,0.452407
-11,12,0.51758
-11,13,0.559206
-11,14,0.615444
-11,15,0.617171
-11,16,0.524964
-11,17,0.551087
-11,18,0.440448
-11,19,0.636946
-11,20,0.472828
-11,21,0.527386
-11,22,0.496113
-11,23,0.546015
-11,24,0.562619
-11,25,0.52188
-11,26,0.5433
-11,27,0.554453
-11,28,0.742621
-11,29,0.452776
-11,30,0.535002
-11,31,0.54027
-11,32,0.473114
-11,33,0.516647
-11,34,0.642923
-11,35,0.68063
-11,36,0.466781
-11,37,0.678629
-11,38,0.564676
-11,39,0.541484
-11,40,0.636668
-11,41,0.993348
-11,42,0.52148
-11,43,0.664519
-11,44,0.495934
-11,45,0.644504
-11,46,0.315749
-11,47,0.471783
-11,48,0.42566
-11,49,0.617705
-11,50,0.631889
-11,51,0.52847
-11,52,0.463475
-11,53,0.536774
-11,54,0.539393
-11,55,0.30677
-11,56,0.535878
-12,13,0.849083
-12,14,0.62803
-12,15,0.622634
-12,16,0.58331
-12,17,0.537181
-12,18,0.452104
-12,19,0.374158
-12,20,0.416897
-12,21,0.720677
-12,22,0.477596
-12,23,0.593045
-12,24,0.536807
-12,25,0.51106
-12,26,0.416511
-12,27,0.632295
-12,28,0.397403
-12,29,0.554433
-12,30,0.990077
-12,31,0.587409
-12,32,0.485621
-12,33,0.628728
-12,34,0.380398
-12,35,0.609055
-12,36,0.481962
-12,37,0.606211
-12,38,0.857199
-12,39,0.295929
-12,40,0.570345
-12,41,0.511961
-12,42,0.47323
-12,43,0.6447
-12,44,0.501797
-12,45,0.522381
-12,46,0.306245
-12,47,0.509576
-12,48,0.487603
-12,49,0.366378
-12,50,0.372993
-12,51,0.574986
-12,52,0.499022
-12,53,0.503917
-12,54,0.578811
-12,55,0.302556
-12,56,0.548006
-13,14,0.56972
-13,15,0.542259
-13,16,0.498994
-13,17,0.501142
-13,18,0.442706
-13,19,0.436257
-13,20,0.447867
-13,21,0.644695
-13,22,0.477305
-13,23,0.537424
-13,24,0.532332
-13,25,0.467932
-13,26,0.492107
-13,27,0.519931
-13,28,0.466621
-13,29,0.477803
-13,30,0.839356
-13,31,0.580113
-13,32,0.502511
-13,33,0.56926
-13,34,0.371402
-13,35,0.606188
-13,36,0.438575
-13,37,0.605076
-13,38,0.999049
-13,39,0.30174
-13,40,0.575549
-13,41,0.561342
-13,42,0.444293
-13,43,0.615542
-13,44,0.422383
-13,45,0.513139
-13,46,0.271994
-13,47,0.511246
-13,48,0.475372
-13,49,0.358122
-13,50,0.473173
-13,51,0.547254
-13,52,0.505306
-13,53,0.466886
-13,54,0.547086
-13,55,0.273871
-13,56,0.561074
-14,15,0.970887
-14,16,0.778621
-14,17,0.561752
-14,18,0.421607
-14,19,0.42479
-14,20,0.585787
-14,21,0.71753
-14,22,0.557153
-14,23,0.698758
-14,24,0.662815
-14,25,0.656991
-14,26,0.435752
-14,27,0.85667
-14,28,0.521052
-14,29,0.652959
-14,30,0.646985
-14,31,0.725494
-14,32,0.597039
-14,33,0.740451
-14,34,0.542372
-14,35,0.740737
-14,36,0.437649
-14,37,0.736501
-14,38,0.576279
-14,39,0.383798
-14,40,0.772229
-14,41,0.599519
-14,42,0.528001
-14,43,0.729214
-14,44,0.538873
-14,45,0.670193
-14,46,0.25266
-14,47,0.428927
-14,48,0.578708
-14,49,0.532804
-14,50,0.390817
-14,51,0.646546
-14,52,0.422449
-14,53,0.615846
-14,54,0.6515
-14,55,0.256977
-14,56,0.606072
-15,16,0.753486
-15,17,0.574316
-15,18,0.40772
-15,19,0.39702
-15,20,0.590446
-15,21,0.737168
-15,22,0.542704
-15,23,0.699309
-15,24,0.632301
-15,25,0.637275
-15,26,0.386875
-15,27,0.868376
-15,28,0.520054
-15,29,0.640148
-15,30,0.647068
-15,31,0.676409
-15,32,0.601055
-15,33,0.758296
-15,34,0.541735
-15,35,0.708739
-15,36,0.444551
-15,37,0.703345
-15,38,0.550844
-15,39,0.395617
-15,40,0.781779
-15,41,0.598279
-15,42,0.520364
-15,43,0.708333
-15,44,0.55151
-15,45,0.667265
-15,46,0.261851
-15,47,0.43282
-15,48,0.57386
-15,49,0.53055
-15,50,0.374652
-15,51,0.633671
-15,52,0.425677
-15,53,0.611837
-15,54,0.640073
-15,55,0.265524
-15,56,0.622283
-16,17,0.483676
-16,18,0.3742
-16,19,0.39728
-16,20,0.511451
-16,21,0.68767
-16,22,0.502271
-16,23,0.684111
-16,24,0.653116
-16,25,0.673377
-16,26,0.435577
-16,27,0.6989
-16,28,0.506083
-16,29,0.656529
-16,30,0.584204
-16,31,0.723426
-16,32,0.52419
-16,33,0.681329
-16,34,0.43613
-16,35,0.670951
-16,36,0.352791
-16,37,0.665742
-16,38,0.507413
-16,39,0.362883
-16,40,0.728822
-16,41,0.513442
-16,42,0.467844
-16,43,0.668418
-16,44,0.488743
-16,45,0.571595
-16,46,0.242747
-16,47,0.29912
-16,48,0.539097
-16,49,0.425332
-16,50,0.292056
-16,51,0.671481
-16,52,0.292695
-16,53,0.533262
-16,54,0.673237
-16,55,0.241458
-16,56,0.547652
-17,18,0.515722
-17,19,0.377327
-17,20,0.576805
-17,21,0.498897
-17,22,0.521685
-17,23,0.553334
-17,24,0.466487
-17,25,0.499827
-17,26,0.330139
-17,27,0.519754
-17,28,0.427752
-17,29,0.450134
-17,30,0.551121
-17,31,0.524016
-17,32,0.559339
-17,33,0.54908
-17,34,0.391875
-17,35,0.564602
-17,36,0.493083
-17,37,0.564832
-17,38,0.505373
-17,39,0.326966
-17,40,0.597888
-17,41,0.544584
-17,42,0.509735
-17,43,0.566796
-17,44,0.484768
-17,45,0.566705
-17,46,0.276129
-17,47,0.412861
-17,48,0.615875
-17,49,0.377747
-17,50,0.42561
-17,51,0.60376
-17,52,0.409532
-17,53,0.444162
-17,54,0.606078
-17,55,0.275778
-17,56,0.557845
-18,19,0.42764
-18,20,0.403945
-18,21,0.340009
-18,22,0.77576
-18,23,0.480749
-18,24,0.334337
-18,25,0.407356
-18,26,0.404369
-18,27,0.418744
-18,28,0.30176
-18,29,0.400046
-18,30,0.46456
-18,31,0.41152
-18,32,0.351074
-18,33,0.307263
-18,34,0.354265
-18,35,0.45369
-18,36,0.324999
-18,37,0.454796
-18,38,0.444793
-18,39,0.28809
-18,40,0.417904
-18,41,0.442094
-18,42,0.479475
-18,43,0.476792
-18,44,0.290282
-18,45,0.486298
-18,46,0.063769
-18,47,0.205964
-18,48,0.455651
-18,49,0.333719
-18,50,0.468499
-18,51,0.516969
-18,52,0.196396
-18,53,0.300096
-18,54,0.525273
-18,55,0.093006
-18,56,0.414335
-19,20,0.305947
-19,21,0.274776
-19,22,0.422147
-19,23,0.313088
-19,24,0.45479
-19,25,0.40213
-19,26,0.828848
-19,27,0.345665
-19,28,0.441173
-19,29,0.309098
-19,30,0.379683
-19,31,0.43595
-19,32,0.277931
-19,33,0.302211
-19,34,0.412176
-19,35,0.504467
-19,36,0.28164
-19,37,0.504945
-19,38,0.437629
-19,39,0.349972
-19,40,0.42106
-19,41,0.650003
-19,42,0.302919
-19,43,0.483532
-19,44,0.321544
-19,45,0.435259
-19,46,0.145051
-19,47,0.255627
-19,48,0.345648
-19,49,0.387942
-19,50,0.768549
-19,51,0.441475
-19,52,0.246709
-19,53,0.291656
-19,54,0.441981
-19,55,0.143461
-19,56,0.29464
-20,21,0.586407
-20,22,0.480544
-20,23,0.600135
-20,24,0.458055
-20,25,0.653292
-20,26,0.307436
-20,27,0.495656
-20,28,0.57164
-20,29,0.499569
-20,30,0.433282
-20,31,0.551609
-20,32,0.837004
-20,33,0.587445
-20,34,0.413131
-20,35,0.51596
-20,36,0.354502
-20,37,0.515115
-20,38,0.450767
-20,39,0.464611
-20,40,0.622776
-20,41,0.469751
-20,42,0.706076
-20,43,0.532835
-20,44,0.38988
-20,45,0.627184
-20,46,0.245865
-20,47,0.398323
-20,48,0.6569
-20,49,0.401039
-20,50,0.341857
-20,51,0.487445
-20,52,0.402669
-20,53,0.492254
-20,54,0.488411
-20,55,0.243909
-20,56,0.755071
-21,22,0.438445
-21,23,0.710204
-21,24,0.591176
-21,25,0.563727
-21,26,0.305231
-21,27,0.706721
-21,28,0.557174
-21,29,0.61925
-21,30,0.725684
-21,31,0.597413
-21,32,0.607989
-21,33,0.729186
-21,34,0.45109
-21,35,0.581058
-21,36,0.456335
-21,37,0.578121
-21,38,0.65683
-21,39,0.397732
-21,40,0.71144
-21,41,0.510954
-21,42,0.470677
-21,43,0.621648
-21,44,0.489278
-21,45,0.564229
-21,46,0.317336
-21,47,0.506429
-21,48,0.546981
-21,49,0.44044
-21,50,0.233942
-21,51,0.565726
-21,52,0.498849
-21,53,0.622745
-21,54,0.569865
-21,55,0.326676
-21,56,0.626382
-22,23,0.565605
-22,24,0.475962
-22,25,0.522558
-22,26,0.422844
-22,27,0.521035
-22,28,0.425861
-22,29,0.467389
-22,30,0.490203
-22,31,0.548537
-22,32,0.439596
-22,33,0.464135
-22,34,0.447343
-22,35,0.541101
-22,36,0.353968
-22,37,0.540281
-22,38,0.480415
-22,39,0.377714
-22,40,0.563963
-22,41,0.48988
-22,42,0.528675
-22,43,0.560561
-22,44,0.390657
-22,45,0.577832
-22,46,0.130665
-22,47,0.280242
-22,48,0.509814
-22,49,0.431316
-22,50,0.439137
-22,51,0.535425
-22,52,0.275954
-22,53,0.447492
-22,54,0.545448
-22,55,0.160465
-22,56,0.498802
-23,24,0.62347
-23,25,0.641025
-23,26,0.33692
-23,27,0.638512
-23,28,0.539838
-23,29,0.629032
-23,30,0.607002
-23,31,0.665821
-23,32,0.619489
-23,33,0.681258
-23,34,0.51537
-23,35,0.68039
-23,36,0.426844
-23,37,0.67707
-23,38,0.548515
-23,39,0.435776
-23,40,0.735142
-23,41,0.529295
-23,42,0.599005
-23,43,0.704246
-23,44,0.482885
-23,45,0.648406
-23,46,0.244776
-23,47,0.383489
-23,48,0.589715
-23,49,0.492579
-23,50,0.29715
-23,51,0.558133
-23,52,0.376969
-23,53,0.648962
-23,54,0.563815
-23,55,0.255271
-23,56,0.628359
-24,25,0.656167
-24,26,0.533245
-24,27,0.653812
-24,28,0.474902
-24,29,0.53863
-24,30,0.535284
-24,31,0.759009
-24,32,0.506781
-24,33,0.56791
-24,34,0.512812
-24,35,0.759682
-24,36,0.409348
-24,37,0.758482
-24,38,0.540171
-24,39,0.372345
-24,40,0.711659
-24,41,0.545744
-24,42,0.487919
-24,43,0.750052
-24,44,0.449219
-24,45,0.598203
-24,46,0.182561
-24,47,0.360283
-24,48,0.541624
-24,49,0.526656
-24,50,0.395485
-24,51,0.556332
-24,52,0.359668
-24,53,0.514806
-24,54,0.555042
-24,55,0.194797
-24,56,0.547564
-25,26,0.394514
-25,27,0.598615
-25,28,0.532953
-25,29,0.643332
-25,30,0.524155
-25,31,0.766638
-25,32,0.681274
-25,33,0.617807
-25,34,0.438621
-25,35,0.723591
-25,36,0.415645
-25,37,0.720984
-25,38,0.474061
-25,39,0.454301
-25,40,0.590065
-25,41,0.50846
-25,42,0.718012
-25,43,0.702467
-25,44,0.494104
-25,45,0.576223
-25,46,0.275237
-25,47,0.356563
-25,48,0.599917
-25,49,0.419021
-25,50,0.343934
-25,51,0.557401
-25,52,0.352215
-25,53,0.497386
-25,54,0.559007
-25,55,0.270131
-25,56,0.624227
-26,27,0.34293
-26,28,0.426659
-26,29,0.362885
-26,30,0.408228
-26,31,0.506966
-26,32,0.305099
-26,33,0.327138
-26,34,0.437563
-26,35,0.529183
-26,36,0.267429
-26,37,0.528812
-26,38,0.491708
-26,39,0.325091
-26,40,0.42739
-26,41,0.555758
-26,42,0.295378
-26,43,0.489847
-26,44,0.310976
-26,45,0.460741
-26,46,0.133796
-26,47,0.26273
-26,48,0.326589
-26,49,0.420307
-26,50,0.725175
-26,51,0.488429
-26,52,0.253271
-26,53,0.314696
-26,54,0.485148
-26,55,0.142641
-26,56,0.341729
-27,28,0.452612
-27,29,0.612524
-27,30,0.650372
-27,31,0.619491
-27,32,0.529537
-27,33,0.716336
-27,34,0.505318
-27,35,0.632431
-27,36,0.447752
-27,37,0.629494
-27,38,0.526984
-27,39,0.345029
-27,40,0.704079
-27,41,0.537711
-27,42,0.499737
-27,43,0.640437
-27,44,0.570865
-27,45,0.565049
-27,46,0.322029
-27,47,0.398261
-27,48,0.496777
-27,49,0.508695
-27,50,0.302772
-27,51,0.573449
-27,52,0.391026
-27,53,0.509916
-27,54,0.578937
-27,55,0.331904
-27,56,0.57811
-28,29,0.493373
-28,30,0.402683
-28,31,0.477138
-28,32,0.566198
-28,33,0.537472
-28,34,0.460862
-28,35,0.508199
-28,36,0.397767
-28,37,0.506631
-28,38,0.470912
-28,39,0.602017
-28,40,0.547707
-28,41,0.745098
-28,42,0.498383
-28,43,0.518249
-28,44,0.434532
-28,45,0.54278
-28,46,0.30986
-28,47,0.446682
-28,48,0.449229
-28,49,0.453678
-28,50,0.418979
-28,51,0.490457
-28,52,0.443218
-28,53,0.505803
-28,54,0.494512
-28,55,0.310405
-28,56,0.583282
-29,30,0.565658
-29,31,0.630597
-29,32,0.541167
-29,33,0.658998
-29,34,0.395222
-29,35,0.578479
-29,36,0.437032
-29,37,0.573055
-29,38,0.485423
-29,39,0.391338
-29,40,0.57382
-29,41,0.440999
-29,42,0.442841
-29,43,0.595012
-29,44,0.505674
-29,45,0.495563
-29,46,0.328325
-29,47,0.37546
-29,48,0.514444
-29,49,0.39451
-29,50,0.272129
-29,51,0.591909
-29,52,0.372157
-29,53,0.433554
-29,54,0.590412
-29,55,0.331097
-29,56,0.585511
-30,31,0.59229
-30,32,0.497389
-30,33,0.639976
-30,34,0.397903
-30,35,0.616394
-30,36,0.498357
-30,37,0.613344
-30,38,0.84814
-30,39,0.312114
-30,40,0.579939
-30,41,0.526529
-30,42,0.478184
-30,43,0.652456
-30,44,0.509425
-30,45,0.541591
-30,46,0.319882
-30,47,0.528341
-30,48,0.496702
-30,49,0.384069
-30,50,0.378997
-30,51,0.582118
-30,52,0.518106
-30,53,0.511543
-30,54,0.586435
-30,55,0.316444
-30,56,0.562307
-31,32,0.612646
-31,33,0.632414
-31,34,0.451764
-31,35,0.821206
-31,36,0.379913
-31,37,0.817938
-31,38,0.586096
-31,39,0.367617
-31,40,0.682849
-31,41,0.526139
-31,42,0.594194
-31,43,0.816162
-31,44,0.427617
-31,45,0.652151
-31,46,0.15201
-31,47,0.332255
-31,48,0.65178
-31,49,0.433802
-31,50,0.42469
-31,51,0.62563
-31,52,0.329456
-31,53,0.545018
-31,54,0.625064
-31,55,0.151744
-31,56,0.623683
-32,33,0.595631
-32,34,0.415506
-32,35,0.578233
-32,36,0.419338
-32,37,0.578474
-32,38,0.506238
-32,39,0.482637
-32,40,0.591833
-32,41,0.4723
-32,42,0.667597
-32,43,0.591363
-32,44,0.437255
-32,45,0.613368
-32,46,0.307345
-32,47,0.430536
-32,48,0.633779
-32,49,0.403535
-32,50,0.30272
-32,51,0.488555
-32,52,0.434781
-32,53,0.516782
-32,54,0.490487
-32,55,0.306054
-32,56,0.806801
-33,34,0.43544
-33,35,0.62242
-33,36,0.487014
-33,37,0.619828
-33,38,0.578654
-33,39,0.389221
-33,40,0.708065
-33,41,0.496121
-33,42,0.539008
-33,43,0.660801
-33,44,0.621618
-33,45,0.57101
-33,46,0.403172
-33,47,0.529931
-33,48,0.547684
-33,49,0.432435
-33,50,0.268393
-33,51,0.584719
-33,52,0.52361
-33,53,0.55838
-33,54,0.584035
-33,55,0.39831
-33,56,0.622126
-34,35,0.591785
-34,36,0.382421
-34,37,0.591865
-34,38,0.379652
-34,39,0.49584
-34,40,0.520816
-34,41,0.633555
-34,42,0.449048
-34,43,0.566866
-34,44,0.405741
-34,45,0.735019
-34,46,0.24358
-34,47,0.399432
-34,48,0.31147
-34,49,0.988341
-34,50,0.392464
-34,51,0.400128
-34,52,0.389627
-34,53,0.563478
-34,54,0.410687
-34,55,0.263421
-34,56,0.414305
-35,36,0.410776
-35,37,0.998755
-35,38,0.613265
-35,39,0.411367
-35,40,0.688581
-35,41,0.663822
-35,42,0.579548
-35,43,0.910052
-35,44,0.484102
-35,45,0.714349
-35,46,0.198705
-35,47,0.376603
-35,48,0.603056
-35,49,0.56405
-35,50,0.480877
-35,51,0.609835
-35,52,0.369708
-35,53,0.585791
-35,54,0.612971
-35,55,0.201215
-35,56,0.623926
-36,37,0.412439
-36,38,0.443898
-36,39,0.337035
-36,40,0.424063
-36,41,0.460226
-36,42,0.325435
-36,43,0.432088
-36,44,0.426019
-36,45,0.416266
-36,46,0.443436
-36,47,0.632354
-36,48,0.345854
-36,49,0.38497
-36,50,0.326047
-36,51,0.486155
-36,52,0.63199
-36,53,0.381149
-36,54,0.484696
-36,55,0.449333
-36,56,0.432223
-37,38,0.61209
-37,39,0.41279
-37,40,0.68601
-37,41,0.662308
-37,42,0.581124
-37,43,0.908734
-37,44,0.480894
-37,45,0.714959
-37,46,0.199354
-37,47,0.377501
-37,48,0.601686
-37,49,0.564561
-37,50,0.481484
-37,51,0.609777
-37,52,0.370723
-37,53,0.584469
-37,54,0.612888
-37,55,0.201776
-37,56,0.624388
-38,39,0.312003
-38,40,0.583838
-38,41,0.565765
-38,42,0.449541
-38,43,0.62436
-38,44,0.430538
-38,45,0.522076
-38,46,0.279242
-38,47,0.515369
-38,48,0.482928
-38,49,0.36622
-38,50,0.470782
-38,51,0.551973
-38,52,0.50906
-38,53,0.477589
-38,54,0.551968
-38,55,0.28064
-38,56,0.568483
-39,40,0.402762
-39,41,0.533618
-39,42,0.504876
-39,43,0.408692
-39,44,0.382374
-39,45,0.506694
-39,46,0.36763
-39,47,0.385758
-39,48,0.345488
-39,49,0.487307
-39,50,0.316714
-39,51,0.343926
-39,52,0.381808
-39,53,0.460673
-39,54,0.347025
-39,55,0.369654
-39,56,0.522786
-40,41,0.623808
-40,42,0.532132
-40,43,0.677944
-40,44,0.500853
-40,45,0.658024
-40,46,0.255334
-40,47,0.436615
-40,48,0.630904
-40,49,0.508024
-40,50,0.411963
-40,51,0.628146
-40,52,0.434376
-40,53,0.571568
-40,54,0.628622
-40,55,0.255332
-40,56,0.607844
-41,42,0.512484
-41,43,0.646564
-41,44,0.480223
-41,45,0.634516
-41,46,0.307049
-41,47,0.464398
-41,48,0.424877
-41,49,0.608584
-41,50,0.641879
-41,51,0.527648
-41,52,0.45604
-41,53,0.522316
-41,54,0.538164
-41,55,0.298126
-41,56,0.523081
-42,43,0.603186
-42,44,0.420976
-42,45,0.584306
-42,46,0.233995
-42,47,0.415499
-42,48,0.553402
-42,49,0.419431
-42,50,0.343329
-42,51,0.464967
-42,52,0.41355
-42,53,0.482134
-42,54,0.472532
-42,55,0.219761
-42,56,0.636941
-43,44,0.487047
-43,45,0.740281
-43,46,0.225728
-43,47,0.404123
-43,48,0.631148
-43,49,0.547754
-43,50,0.468122
-43,51,0.626252
-43,52,0.398937
-43,53,0.625959
-43,54,0.63258
-43,55,0.231198
-43,56,0.636611
-44,45,0.447096
-44,46,0.42754
-44,47,0.441383
-44,48,0.365807
-44,49,0.408906
-44,50,0.313908
-44,51,0.445114
-44,52,0.434747
-44,53,0.414087
-44,54,0.449572
-44,55,0.434328
-44,56,0.452546
-45,46,0.206682
-45,47,0.420885
-45,48,0.571374
-45,49,0.720952
-45,50,0.466325
-45,51,0.554125
-45,52,0.417006
-45,53,0.74944
-45,54,0.563477
-45,55,0.222687
-45,56,0.651314
-46,47,0.59717
-46,48,0.127767
-46,49,0.242601
-46,50,0.103626
-46,51,0.338026
-46,52,0.598583
-46,53,0.234482
-46,54,0.337294
-46,55,0.971124
-46,56,0.384028
-47,48,0.341656
-47,49,0.386707
-47,50,0.302851
-47,51,0.482825
-47,52,0.997645
-47,53,0.438075
-47,54,0.484577
-47,55,0.58928
-47,56,0.468486
-48,49,0.287706
-48,50,0.34432
-48,51,0.596844
-48,52,0.336674
-48,53,0.44652
-48,54,0.597328
-48,55,0.11883
-48,56,0.64365
-49,50,0.370654
-49,51,0.386046
-49,52,0.377695
-49,53,0.544477
-49,54,0.395506
-49,55,0.263989
-49,56,0.398558
-50,51,0.462378
-50,52,0.295443
-50,53,0.273898
-50,54,0.465716
-50,55,0.098628
-50,56,0.330112
-51,52,0.477054
-51,53,0.446722
-51,54,0.998073
-51,55,0.329079
-51,56,0.530999
-52,53,0.429871
-52,54,0.478473
-52,55,0.597588
-52,56,0.468915
-53,54,0.454255
-53,55,0.236694
-53,56,0.548018
-54,55,0.329214
-54,56,0.535085
-55,56,0.385067
+title_i,title_j,cosine_similarity
+Detectability of Light Dark Matter with Superfluid Helium,Making dark matter out of light: Freeze-in from plasma effects,0.658998
+Detectability of Light Dark Matter with Superfluid Helium,Strongly interacting massive particles through the axion portal,0.61925
+Detectability of Light Dark Matter with Superfluid Helium,Subhalo mass function and ultralight bosonic dark matter,0.629032
+Detectability of Light Dark Matter with Superfluid Helium,"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",0.514444
+Detectability of Light Dark Matter with Superfluid Helium,MITEoR: a scalable interferometer for precision 21 cm cosmology,0.309098
+Detectability of Light Dark Matter with Superfluid Helium,Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,0.499569
+Detectability of Light Dark Matter with Superfluid Helium,Cosmology of Sub-MeV Dark Matter Freeze-In,0.57382
+Detectability of Light Dark Matter with Superfluid Helium,Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,0.541167
+Detectability of Light Dark Matter with Superfluid Helium,Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,0.605512
+Detectability of Light Dark Matter with Superfluid Helium,New bounds on light millicharged particles from the tip of the red-giant branch,0.467696
+Detectability of Light Dark Matter with Superfluid Helium,Self-scattering for Dark Matter with an excited state,0.585511
+Detectability of Light Dark Matter with Superfluid Helium,Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,0.395222
+Detectability of Light Dark Matter with Superfluid Helium,Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,0.391338
+Detectability of Light Dark Matter with Superfluid Helium,Pulsar timing can constrain primordial black holes in the LIGO mass window,0.467389
+Detectability of Light Dark Matter with Superfluid Helium,Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,0.400046
+Detectability of Light Dark Matter with Superfluid Helium,Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,0.272129
+Detectability of Light Dark Matter with Superfluid Helium,Effective bias expansion for 21-cm cosmology in redshift space,0.452776
+Detectability of Light Dark Matter with Superfluid Helium,Inelastic freeze-in,0.640148
+Detectability of Light Dark Matter with Superfluid Helium,Axion dark matter-induced echo of supernova remnants,0.565658
+Detectability of Light Dark Matter with Superfluid Helium,Photon-dark photon conversion with multiple level crossings,0.505674
+Detectability of Light Dark Matter with Superfluid Helium,"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",0.5937
+Detectability of Light Dark Matter with Superfluid Helium,Looking in the axion mirror: An all-sky analysis of stimulated decay,0.485423
+Detectability of Light Dark Matter with Superfluid Helium,The Galactic potential and dark matter density from angular stellar accelerations,0.441239
+Detectability of Light Dark Matter with Superfluid Helium,Helioscope for gravitationally bound millicharged particles,0.590412
+Detectability of Light Dark Matter with Superfluid Helium,Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,0.656529
+Detectability of Light Dark Matter with Superfluid Helium,Photon self-energy at all temperatures and densities in all of phase space,0.331097
+Detectability of Light Dark Matter with Superfluid Helium,Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,0.372157
+Detectability of Light Dark Matter with Superfluid Helium,Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,0.643332
+Detectability of Light Dark Matter with Superfluid Helium,Cosmological Probes of Dark Matter Interactions: The Next Decade,0.578479
+Detectability of Light Dark Matter with Superfluid Helium,Early-Universe Model Building,0.433554
+Detectability of Light Dark Matter with Superfluid Helium,Dark Matter Physics from the CMB-S4 Experiment,0.53863
+Detectability of Light Dark Matter with Superfluid Helium,Mapping our universe in 3D with MITEoR,0.362885
+Detectability of Light Dark Matter with Superfluid Helium,Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.630597
+Detectability of Light Dark Matter with Superfluid Helium,An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.440999
+Detectability of Light Dark Matter with Superfluid Helium,A tale of two particles; Tale of 2 particles,0.495563
+Detectability of Light Dark Matter with Superfluid Helium,Exploring New Physics on Cosmological Scales,0.442841
+Detectability of Light Dark Matter with Superfluid Helium,A Helioscope for Gravitationally Bound Millicharged Particles,0.591909
+Detectability of Light Dark Matter with Superfluid Helium,The Physics of Light Relics,0.460387
+Detectability of Light Dark Matter with Superfluid Helium,Direct Detection of the Millicharged Background,0.652998
+Detectability of Light Dark Matter with Superfluid Helium,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.492517
+Detectability of Light Dark Matter with Superfluid Helium,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.493373
+Detectability of Light Dark Matter with Superfluid Helium,Resonant axion and dark photon production in magnetic white dwarfs,0.437032
+Detectability of Light Dark Matter with Superfluid Helium,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.426411
+Making dark matter out of light: Freeze-in from plasma effects,Strongly interacting massive particles through the axion portal,0.729186
+Making dark matter out of light: Freeze-in from plasma effects,Subhalo mass function and ultralight bosonic dark matter,0.681258
+Making dark matter out of light: Freeze-in from plasma effects,"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",0.547684
+Making dark matter out of light: Freeze-in from plasma effects,MITEoR: a scalable interferometer for precision 21 cm cosmology,0.302211
+Making dark matter out of light: Freeze-in from plasma effects,Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,0.587445
+Making dark matter out of light: Freeze-in from plasma effects,Cosmology of Sub-MeV Dark Matter Freeze-In,0.708065
+Making dark matter out of light: Freeze-in from plasma effects,Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,0.595631
+Making dark matter out of light: Freeze-in from plasma effects,Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,0.737359
+Making dark matter out of light: Freeze-in from plasma effects,New bounds on light millicharged particles from the tip of the red-giant branch,0.553487
+Making dark matter out of light: Freeze-in from plasma effects,Self-scattering for Dark Matter with an excited state,0.622126
+Making dark matter out of light: Freeze-in from plasma effects,Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,0.43544
+Making dark matter out of light: Freeze-in from plasma effects,Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,0.389221
+Making dark matter out of light: Freeze-in from plasma effects,Pulsar timing can constrain primordial black holes in the LIGO mass window,0.464135
+Making dark matter out of light: Freeze-in from plasma effects,Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,0.307263
+Making dark matter out of light: Freeze-in from plasma effects,Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,0.268393
+Making dark matter out of light: Freeze-in from plasma effects,Effective bias expansion for 21-cm cosmology in redshift space,0.516647
+Making dark matter out of light: Freeze-in from plasma effects,Inelastic freeze-in,0.758296
+Making dark matter out of light: Freeze-in from plasma effects,Axion dark matter-induced echo of supernova remnants,0.639976
+Making dark matter out of light: Freeze-in from plasma effects,Photon-dark photon conversion with multiple level crossings,0.621618
+Making dark matter out of light: Freeze-in from plasma effects,"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",0.673491
+Making dark matter out of light: Freeze-in from plasma effects,Looking in the axion mirror: An all-sky analysis of stimulated decay,0.578654
+Making dark matter out of light: Freeze-in from plasma effects,The Galactic potential and dark matter density from angular stellar accelerations,0.442827
+Making dark matter out of light: Freeze-in from plasma effects,Helioscope for gravitationally bound millicharged particles,0.584035
+Making dark matter out of light: Freeze-in from plasma effects,Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,0.681329
+Making dark matter out of light: Freeze-in from plasma effects,Photon self-energy at all temperatures and densities in all of phase space,0.39831
+Making dark matter out of light: Freeze-in from plasma effects,Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,0.52361
+Making dark matter out of light: Freeze-in from plasma effects,Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,0.617807
+Making dark matter out of light: Freeze-in from plasma effects,Cosmological Probes of Dark Matter Interactions: The Next Decade,0.62242
+Making dark matter out of light: Freeze-in from plasma effects,Early-Universe Model Building,0.55838
+Making dark matter out of light: Freeze-in from plasma effects,Dark Matter Physics from the CMB-S4 Experiment,0.56791
+Making dark matter out of light: Freeze-in from plasma effects,Mapping our universe in 3D with MITEoR,0.327138
+Making dark matter out of light: Freeze-in from plasma effects,Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.632414
+Making dark matter out of light: Freeze-in from plasma effects,An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.496121
+Making dark matter out of light: Freeze-in from plasma effects,A tale of two particles; Tale of 2 particles,0.57101
+Making dark matter out of light: Freeze-in from plasma effects,Exploring New Physics on Cosmological Scales,0.539008
+Making dark matter out of light: Freeze-in from plasma effects,A Helioscope for Gravitationally Bound Millicharged Particles,0.584719
+Making dark matter out of light: Freeze-in from plasma effects,The Physics of Light Relics,0.652658
+Making dark matter out of light: Freeze-in from plasma effects,Direct Detection of the Millicharged Background,0.682972
+Making dark matter out of light: Freeze-in from plasma effects,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.579627
+Making dark matter out of light: Freeze-in from plasma effects,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.537472
+Making dark matter out of light: Freeze-in from plasma effects,Resonant axion and dark photon production in magnetic white dwarfs,0.487014
+Making dark matter out of light: Freeze-in from plasma effects,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.508603
+Strongly interacting massive particles through the axion portal,Subhalo mass function and ultralight bosonic dark matter,0.710204
+Strongly interacting massive particles through the axion portal,"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",0.546981
+Strongly interacting massive particles through the axion portal,MITEoR: a scalable interferometer for precision 21 cm cosmology,0.274776
+Strongly interacting massive particles through the axion portal,Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,0.586407
+Strongly interacting massive particles through the axion portal,Cosmology of Sub-MeV Dark Matter Freeze-In,0.71144
+Strongly interacting massive particles through the axion portal,Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,0.607989
+Strongly interacting massive particles through the axion portal,Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,0.71702
+Strongly interacting massive particles through the axion portal,New bounds on light millicharged particles from the tip of the red-giant branch,0.503197
+Strongly interacting massive particles through the axion portal,Self-scattering for Dark Matter with an excited state,0.626382
+Strongly interacting massive particles through the axion portal,Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,0.45109
+Strongly interacting massive particles through the axion portal,Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,0.397732
+Strongly interacting massive particles through the axion portal,Pulsar timing can constrain primordial black holes in the LIGO mass window,0.438445
+Strongly interacting massive particles through the axion portal,Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,0.340009
+Strongly interacting massive particles through the axion portal,Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,0.233942
+Strongly interacting massive particles through the axion portal,Effective bias expansion for 21-cm cosmology in redshift space,0.527386
+Strongly interacting massive particles through the axion portal,Inelastic freeze-in,0.737168
+Strongly interacting massive particles through the axion portal,Axion dark matter-induced echo of supernova remnants,0.725684
+Strongly interacting massive particles through the axion portal,Photon-dark photon conversion with multiple level crossings,0.489278
+Strongly interacting massive particles through the axion portal,"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",0.628595
+Strongly interacting massive particles through the axion portal,Looking in the axion mirror: An all-sky analysis of stimulated decay,0.65683
+Strongly interacting massive particles through the axion portal,The Galactic potential and dark matter density from angular stellar accelerations,0.442798
+Strongly interacting massive particles through the axion portal,Helioscope for gravitationally bound millicharged particles,0.569865
+Strongly interacting massive particles through the axion portal,Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,0.68767
+Strongly interacting massive particles through the axion portal,Photon self-energy at all temperatures and densities in all of phase space,0.326676
+Strongly interacting massive particles through the axion portal,Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,0.498849
+Strongly interacting massive particles through the axion portal,Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,0.563727
+Strongly interacting massive particles through the axion portal,Cosmological Probes of Dark Matter Interactions: The Next Decade,0.581058
+Strongly interacting massive particles through the axion portal,Early-Universe Model Building,0.622745
+Strongly interacting massive particles through the axion portal,Dark Matter Physics from the CMB-S4 Experiment,0.591176
+Strongly interacting massive particles through the axion portal,Mapping our universe in 3D with MITEoR,0.30523
+Strongly interacting massive particles through the axion portal,Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.597413
+Strongly interacting massive particles through the axion portal,An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.510954
+Strongly interacting massive particles through the axion portal,A tale of two particles; Tale of 2 particles,0.564229
+Strongly interacting massive particles through the axion portal,Exploring New Physics on Cosmological Scales,0.470677
+Strongly interacting massive particles through the axion portal,A Helioscope for Gravitationally Bound Millicharged Particles,0.565726
+Strongly interacting massive particles through the axion portal,The Physics of Light Relics,0.617273
+Strongly interacting massive particles through the axion portal,Direct Detection of the Millicharged Background,0.690033
+Strongly interacting massive particles through the axion portal,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.64747
+Strongly interacting massive particles through the axion portal,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.557174
+Strongly interacting massive particles through the axion portal,Resonant axion and dark photon production in magnetic white dwarfs,0.456335
+Strongly interacting massive particles through the axion portal,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.540953
+Subhalo mass function and ultralight bosonic dark matter,"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",0.589715
+Subhalo mass function and ultralight bosonic dark matter,MITEoR: a scalable interferometer for precision 21 cm cosmology,0.313088
+Subhalo mass function and ultralight bosonic dark matter,Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,0.600135
+Subhalo mass function and ultralight bosonic dark matter,Cosmology of Sub-MeV Dark Matter Freeze-In,0.735142
+Subhalo mass function and ultralight bosonic dark matter,Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,0.619489
+Subhalo mass function and ultralight bosonic dark matter,Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,0.653361
+Subhalo mass function and ultralight bosonic dark matter,New bounds on light millicharged particles from the tip of the red-giant branch,0.556292
+Subhalo mass function and ultralight bosonic dark matter,Self-scattering for Dark Matter with an excited state,0.628359
+Subhalo mass function and ultralight bosonic dark matter,Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,0.51537
+Subhalo mass function and ultralight bosonic dark matter,Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,0.435776
+Subhalo mass function and ultralight bosonic dark matter,Pulsar timing can constrain primordial black holes in the LIGO mass window,0.565605
+Subhalo mass function and ultralight bosonic dark matter,Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,0.480749
+Subhalo mass function and ultralight bosonic dark matter,Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,0.29715
+Subhalo mass function and ultralight bosonic dark matter,Effective bias expansion for 21-cm cosmology in redshift space,0.546015
+Subhalo mass function and ultralight bosonic dark matter,Inelastic freeze-in,0.699309
+Subhalo mass function and ultralight bosonic dark matter,Axion dark matter-induced echo of supernova remnants,0.607002
+Subhalo mass function and ultralight bosonic dark matter,Photon-dark photon conversion with multiple level crossings,0.482885
+Subhalo mass function and ultralight bosonic dark matter,"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",0.631979
+Subhalo mass function and ultralight bosonic dark matter,Looking in the axion mirror: An all-sky analysis of stimulated decay,0.548515
+Subhalo mass function and ultralight bosonic dark matter,The Galactic potential and dark matter density from angular stellar accelerations,0.521432
+Subhalo mass function and ultralight bosonic dark matter,Helioscope for gravitationally bound millicharged particles,0.563815
+Subhalo mass function and ultralight bosonic dark matter,Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,0.684111
+Subhalo mass function and ultralight bosonic dark matter,Photon self-energy at all temperatures and densities in all of phase space,0.255271
+Subhalo mass function and ultralight bosonic dark matter,Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,0.376969
+Subhalo mass function and ultralight bosonic dark matter,Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,0.641025
+Subhalo mass function and ultralight bosonic dark matter,Cosmological Probes of Dark Matter Interactions: The Next Decade,0.68039
+Subhalo mass function and ultralight bosonic dark matter,Early-Universe Model Building,0.648962
+Subhalo mass function and ultralight bosonic dark matter,Dark Matter Physics from the CMB-S4 Experiment,0.62347
+Subhalo mass function and ultralight bosonic dark matter,Mapping our universe in 3D with MITEoR,0.33692
+Subhalo mass function and ultralight bosonic dark matter,Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.665821
+Subhalo mass function and ultralight bosonic dark matter,An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.529295
+Subhalo mass function and ultralight bosonic dark matter,A tale of two particles; Tale of 2 particles,0.648406
+Subhalo mass function and ultralight bosonic dark matter,Exploring New Physics on Cosmological Scales,0.599005
+Subhalo mass function and ultralight bosonic dark matter,A Helioscope for Gravitationally Bound Millicharged Particles,0.558133
+Subhalo mass function and ultralight bosonic dark matter,The Physics of Light Relics,0.619238
+Subhalo mass function and ultralight bosonic dark matter,Direct Detection of the Millicharged Background,0.691571
+Subhalo mass function and ultralight bosonic dark matter,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.535954
+Subhalo mass function and ultralight bosonic dark matter,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.539838
+Subhalo mass function and ultralight bosonic dark matter,Resonant axion and dark photon production in magnetic white dwarfs,0.426844
+Subhalo mass function and ultralight bosonic dark matter,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.470244
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",MITEoR: a scalable interferometer for precision 21 cm cosmology,0.345648
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,0.6569
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",Cosmology of Sub-MeV Dark Matter Freeze-In,0.630904
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,0.633779
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,0.508164
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",New bounds on light millicharged particles from the tip of the red-giant branch,0.58638
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",Self-scattering for Dark Matter with an excited state,0.64365
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,0.31147
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,0.345488
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",Pulsar timing can constrain primordial black holes in the LIGO mass window,0.509814
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,0.455651
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,0.34432
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",Effective bias expansion for 21-cm cosmology in redshift space,0.42566
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",Inelastic freeze-in,0.57386
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",Axion dark matter-induced echo of supernova remnants,0.496702
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",Photon-dark photon conversion with multiple level crossings,0.365807
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>","Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",0.612723
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",Looking in the axion mirror: An all-sky analysis of stimulated decay,0.482928
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",The Galactic potential and dark matter density from angular stellar accelerations,0.733805
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",Helioscope for gravitationally bound millicharged particles,0.597328
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,0.539097
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",Photon self-energy at all temperatures and densities in all of phase space,0.11883
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,0.336674
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,0.599917
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",Cosmological Probes of Dark Matter Interactions: The Next Decade,0.603056
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",Early-Universe Model Building,0.44652
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",Dark Matter Physics from the CMB-S4 Experiment,0.541624
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",Mapping our universe in 3D with MITEoR,0.326589
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.65178
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.424877
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",A tale of two particles; Tale of 2 particles,0.571374
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",Exploring New Physics on Cosmological Scales,0.553402
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",A Helioscope for Gravitationally Bound Millicharged Particles,0.596844
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",The Physics of Light Relics,0.47658
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",Direct Detection of the Millicharged Background,0.536895
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.523516
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.449229
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",Resonant axion and dark photon production in magnetic white dwarfs,0.345854
+"Constraining a Thin Dark Matter Disk with<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>G</mml:mi><mml:mi>a</mml:mi><mml:mi>i</mml:mi><mml:mi>a</mml:mi></mml:math>",Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.31564
+MITEoR: a scalable interferometer for precision 21 cm cosmology,Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,0.305947
+MITEoR: a scalable interferometer for precision 21 cm cosmology,Cosmology of Sub-MeV Dark Matter Freeze-In,0.42106
+MITEoR: a scalable interferometer for precision 21 cm cosmology,Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,0.277931
+MITEoR: a scalable interferometer for precision 21 cm cosmology,Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,0.339582
+MITEoR: a scalable interferometer for precision 21 cm cosmology,New bounds on light millicharged particles from the tip of the red-giant branch,0.37785
+MITEoR: a scalable interferometer for precision 21 cm cosmology,Self-scattering for Dark Matter with an excited state,0.29464
+MITEoR: a scalable interferometer for precision 21 cm cosmology,Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,0.412176
+MITEoR: a scalable interferometer for precision 21 cm cosmology,Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,0.349972
+MITEoR: a scalable interferometer for precision 21 cm cosmology,Pulsar timing can constrain primordial black holes in the LIGO mass window,0.422147
+MITEoR: a scalable interferometer for precision 21 cm cosmology,Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,0.42764
+MITEoR: a scalable interferometer for precision 21 cm cosmology,Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,0.768549
+MITEoR: a scalable interferometer for precision 21 cm cosmology,Effective bias expansion for 21-cm cosmology in redshift space,0.636946
+MITEoR: a scalable interferometer for precision 21 cm cosmology,Inelastic freeze-in,0.39702
+MITEoR: a scalable interferometer for precision 21 cm cosmology,Axion dark matter-induced echo of supernova remnants,0.379683
+MITEoR: a scalable interferometer for precision 21 cm cosmology,Photon-dark photon conversion with multiple level crossings,0.321544
+MITEoR: a scalable interferometer for precision 21 cm cosmology,"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",0.402844
+MITEoR: a scalable interferometer for precision 21 cm cosmology,Looking in the axion mirror: An all-sky analysis of stimulated decay,0.437629
+MITEoR: a scalable interferometer for precision 21 cm cosmology,The Galactic potential and dark matter density from angular stellar accelerations,0.474867
+MITEoR: a scalable interferometer for precision 21 cm cosmology,Helioscope for gravitationally bound millicharged particles,0.441981
+MITEoR: a scalable interferometer for precision 21 cm cosmology,Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,0.39728
+MITEoR: a scalable interferometer for precision 21 cm cosmology,Photon self-energy at all temperatures and densities in all of phase space,0.143461
+MITEoR: a scalable interferometer for precision 21 cm cosmology,Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,0.246709
+MITEoR: a scalable interferometer for precision 21 cm cosmology,Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,0.40213
+MITEoR: a scalable interferometer for precision 21 cm cosmology,Cosmological Probes of Dark Matter Interactions: The Next Decade,0.504467
+MITEoR: a scalable interferometer for precision 21 cm cosmology,Early-Universe Model Building,0.291656
+MITEoR: a scalable interferometer for precision 21 cm cosmology,Dark Matter Physics from the CMB-S4 Experiment,0.45479
+MITEoR: a scalable interferometer for precision 21 cm cosmology,Mapping our universe in 3D with MITEoR,0.828848
+MITEoR: a scalable interferometer for precision 21 cm cosmology,Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.43595
+MITEoR: a scalable interferometer for precision 21 cm cosmology,An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.650003
+MITEoR: a scalable interferometer for precision 21 cm cosmology,A tale of two particles; Tale of 2 particles,0.435259
+MITEoR: a scalable interferometer for precision 21 cm cosmology,Exploring New Physics on Cosmological Scales,0.302919
+MITEoR: a scalable interferometer for precision 21 cm cosmology,A Helioscope for Gravitationally Bound Millicharged Particles,0.441475
+MITEoR: a scalable interferometer for precision 21 cm cosmology,The Physics of Light Relics,0.433971
+MITEoR: a scalable interferometer for precision 21 cm cosmology,Direct Detection of the Millicharged Background,0.397777
+MITEoR: a scalable interferometer for precision 21 cm cosmology,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.452411
+MITEoR: a scalable interferometer for precision 21 cm cosmology,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.441173
+MITEoR: a scalable interferometer for precision 21 cm cosmology,Resonant axion and dark photon production in magnetic white dwarfs,0.28164
+MITEoR: a scalable interferometer for precision 21 cm cosmology,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.234532
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,Cosmology of Sub-MeV Dark Matter Freeze-In,0.622776
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,0.837004
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,0.506398
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,New bounds on light millicharged particles from the tip of the red-giant branch,0.565865
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,Self-scattering for Dark Matter with an excited state,0.755071
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,0.413131
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,0.464611
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,Pulsar timing can constrain primordial black holes in the LIGO mass window,0.480544
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,0.403945
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,0.341857
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,Effective bias expansion for 21-cm cosmology in redshift space,0.472828
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,Inelastic freeze-in,0.590446
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,Axion dark matter-induced echo of supernova remnants,0.433282
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,Photon-dark photon conversion with multiple level crossings,0.38988
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",0.632655
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,Looking in the axion mirror: An all-sky analysis of stimulated decay,0.450767
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,The Galactic potential and dark matter density from angular stellar accelerations,0.53273
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,Helioscope for gravitationally bound millicharged particles,0.488411
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,0.511451
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,Photon self-energy at all temperatures and densities in all of phase space,0.243909
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,0.402669
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,0.653292
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,Cosmological Probes of Dark Matter Interactions: The Next Decade,0.51596
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,Early-Universe Model Building,0.492254
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,Dark Matter Physics from the CMB-S4 Experiment,0.458055
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,Mapping our universe in 3D with MITEoR,0.307436
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.551609
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.469751
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,A tale of two particles; Tale of 2 particles,0.627184
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,Exploring New Physics on Cosmological Scales,0.706076
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,A Helioscope for Gravitationally Bound Millicharged Particles,0.487445
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,The Physics of Light Relics,0.433779
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,Direct Detection of the Millicharged Background,0.505244
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.457088
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.57164
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,Resonant axion and dark photon production in magnetic white dwarfs,0.354502
+Evaporating the Milky Way halo and its satellites with inelastic self-interacting dark matter,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.430411
+Cosmology of Sub-MeV Dark Matter Freeze-In,Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,0.591833
+Cosmology of Sub-MeV Dark Matter Freeze-In,Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,0.715872
+Cosmology of Sub-MeV Dark Matter Freeze-In,New bounds on light millicharged particles from the tip of the red-giant branch,0.598029
+Cosmology of Sub-MeV Dark Matter Freeze-In,Self-scattering for Dark Matter with an excited state,0.607844
+Cosmology of Sub-MeV Dark Matter Freeze-In,Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,0.520816
+Cosmology of Sub-MeV Dark Matter Freeze-In,Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,0.402762
+Cosmology of Sub-MeV Dark Matter Freeze-In,Pulsar timing can constrain primordial black holes in the LIGO mass window,0.563963
+Cosmology of Sub-MeV Dark Matter Freeze-In,Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,0.417904
+Cosmology of Sub-MeV Dark Matter Freeze-In,Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,0.411963
+Cosmology of Sub-MeV Dark Matter Freeze-In,Effective bias expansion for 21-cm cosmology in redshift space,0.636668
+Cosmology of Sub-MeV Dark Matter Freeze-In,Inelastic freeze-in,0.781779
+Cosmology of Sub-MeV Dark Matter Freeze-In,Axion dark matter-induced echo of supernova remnants,0.579939
+Cosmology of Sub-MeV Dark Matter Freeze-In,Photon-dark photon conversion with multiple level crossings,0.500853
+Cosmology of Sub-MeV Dark Matter Freeze-In,"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",0.659867
+Cosmology of Sub-MeV Dark Matter Freeze-In,Looking in the axion mirror: An all-sky analysis of stimulated decay,0.583838
+Cosmology of Sub-MeV Dark Matter Freeze-In,The Galactic potential and dark matter density from angular stellar accelerations,0.562787
+Cosmology of Sub-MeV Dark Matter Freeze-In,Helioscope for gravitationally bound millicharged particles,0.628622
+Cosmology of Sub-MeV Dark Matter Freeze-In,Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,0.728822
+Cosmology of Sub-MeV Dark Matter Freeze-In,Photon self-energy at all temperatures and densities in all of phase space,0.255332
+Cosmology of Sub-MeV Dark Matter Freeze-In,Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,0.434376
+Cosmology of Sub-MeV Dark Matter Freeze-In,Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,0.590065
+Cosmology of Sub-MeV Dark Matter Freeze-In,Cosmological Probes of Dark Matter Interactions: The Next Decade,0.688581
+Cosmology of Sub-MeV Dark Matter Freeze-In,Early-Universe Model Building,0.571568
+Cosmology of Sub-MeV Dark Matter Freeze-In,Dark Matter Physics from the CMB-S4 Experiment,0.711659
+Cosmology of Sub-MeV Dark Matter Freeze-In,Mapping our universe in 3D with MITEoR,0.427389
+Cosmology of Sub-MeV Dark Matter Freeze-In,Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.682849
+Cosmology of Sub-MeV Dark Matter Freeze-In,An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.623808
+Cosmology of Sub-MeV Dark Matter Freeze-In,A tale of two particles; Tale of 2 particles,0.658024
+Cosmology of Sub-MeV Dark Matter Freeze-In,Exploring New Physics on Cosmological Scales,0.532132
+Cosmology of Sub-MeV Dark Matter Freeze-In,A Helioscope for Gravitationally Bound Millicharged Particles,0.628146
+Cosmology of Sub-MeV Dark Matter Freeze-In,The Physics of Light Relics,0.598955
+Cosmology of Sub-MeV Dark Matter Freeze-In,Direct Detection of the Millicharged Background,0.730713
+Cosmology of Sub-MeV Dark Matter Freeze-In,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.567531
+Cosmology of Sub-MeV Dark Matter Freeze-In,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.547707
+Cosmology of Sub-MeV Dark Matter Freeze-In,Resonant axion and dark photon production in magnetic white dwarfs,0.424063
+Cosmology of Sub-MeV Dark Matter Freeze-In,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.452059
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,0.531902
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,New bounds on light millicharged particles from the tip of the red-giant branch,0.555496
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,Self-scattering for Dark Matter with an excited state,0.806801
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,0.415506
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,0.482637
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,Pulsar timing can constrain primordial black holes in the LIGO mass window,0.439596
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,0.351074
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,0.30272
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,Effective bias expansion for 21-cm cosmology in redshift space,0.473114
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,Inelastic freeze-in,0.601055
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,Axion dark matter-induced echo of supernova remnants,0.497389
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,Photon-dark photon conversion with multiple level crossings,0.437255
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",0.620749
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,Looking in the axion mirror: An all-sky analysis of stimulated decay,0.506238
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,The Galactic potential and dark matter density from angular stellar accelerations,0.526423
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,Helioscope for gravitationally bound millicharged particles,0.490487
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,0.52419
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,Photon self-energy at all temperatures and densities in all of phase space,0.306054
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,0.434781
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,0.681274
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,Cosmological Probes of Dark Matter Interactions: The Next Decade,0.578233
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,Early-Universe Model Building,0.516782
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,Dark Matter Physics from the CMB-S4 Experiment,0.506781
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,Mapping our universe in 3D with MITEoR,0.305099
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.612646
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.4723
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,A tale of two particles; Tale of 2 particles,0.613368
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,Exploring New Physics on Cosmological Scales,0.667597
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,A Helioscope for Gravitationally Bound Millicharged Particles,0.488555
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,The Physics of Light Relics,0.479647
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,Direct Detection of the Millicharged Background,0.520906
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.471753
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.566198
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,Resonant axion and dark photon production in magnetic white dwarfs,0.419338
+Endothermic self-interacting dark matter in Milky Way-like dark matter haloes,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.477297
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,New bounds on light millicharged particles from the tip of the red-giant branch,0.523822
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,Self-scattering for Dark Matter with an excited state,0.573083
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,0.50854
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,0.352414
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,Pulsar timing can constrain primordial black holes in the LIGO mass window,0.516469
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,0.395016
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,0.305573
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,Effective bias expansion for 21-cm cosmology in redshift space,0.56095
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,Inelastic freeze-in,0.86249
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,Axion dark matter-induced echo of supernova remnants,0.653329
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,Photon-dark photon conversion with multiple level crossings,0.59276
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",0.562761
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,Looking in the axion mirror: An all-sky analysis of stimulated decay,0.534597
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,The Galactic potential and dark matter density from angular stellar accelerations,0.422591
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,Helioscope for gravitationally bound millicharged particles,0.564926
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,0.67409
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,Photon self-energy at all temperatures and densities in all of phase space,0.342247
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,0.417232
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,0.590417
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,Cosmological Probes of Dark Matter Interactions: The Next Decade,0.627326
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,Early-Universe Model Building,0.528858
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,Dark Matter Physics from the CMB-S4 Experiment,0.660892
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,Mapping our universe in 3D with MITEoR,0.329643
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.612985
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.541948
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,A tale of two particles; Tale of 2 particles,0.573481
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,Exploring New Physics on Cosmological Scales,0.506205
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,A Helioscope for Gravitationally Bound Millicharged Particles,0.560167
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,The Physics of Light Relics,0.642054
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,Direct Detection of the Millicharged Background,0.67457
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.589599
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.46775
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,Resonant axion and dark photon production in magnetic white dwarfs,0.465855
+Resonant pseudo-Dirac dark matter as a sub-GeV thermal target,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.471285
+New bounds on light millicharged particles from the tip of the red-giant branch,Self-scattering for Dark Matter with an excited state,0.560661
+New bounds on light millicharged particles from the tip of the red-giant branch,Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,0.396346
+New bounds on light millicharged particles from the tip of the red-giant branch,Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,0.331691
+New bounds on light millicharged particles from the tip of the red-giant branch,Pulsar timing can constrain primordial black holes in the LIGO mass window,0.524192
+New bounds on light millicharged particles from the tip of the red-giant branch,Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,0.514728
+New bounds on light millicharged particles from the tip of the red-giant branch,Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,0.420467
+New bounds on light millicharged particles from the tip of the red-giant branch,Effective bias expansion for 21-cm cosmology in redshift space,0.548722
+New bounds on light millicharged particles from the tip of the red-giant branch,Inelastic freeze-in,0.577504
+New bounds on light millicharged particles from the tip of the red-giant branch,Axion dark matter-induced echo of supernova remnants,0.543124
+New bounds on light millicharged particles from the tip of the red-giant branch,Photon-dark photon conversion with multiple level crossings,0.502881
+New bounds on light millicharged particles from the tip of the red-giant branch,"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",0.576916
+New bounds on light millicharged particles from the tip of the red-giant branch,Looking in the axion mirror: An all-sky analysis of stimulated decay,0.496333
+New bounds on light millicharged particles from the tip of the red-giant branch,The Galactic potential and dark matter density from angular stellar accelerations,0.525175
+New bounds on light millicharged particles from the tip of the red-giant branch,Helioscope for gravitationally bound millicharged particles,0.611217
+New bounds on light millicharged particles from the tip of the red-giant branch,Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,0.495309
+New bounds on light millicharged particles from the tip of the red-giant branch,Photon self-energy at all temperatures and densities in all of phase space,0.299798
+New bounds on light millicharged particles from the tip of the red-giant branch,Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,0.407895
+New bounds on light millicharged particles from the tip of the red-giant branch,Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,0.49928
+New bounds on light millicharged particles from the tip of the red-giant branch,Cosmological Probes of Dark Matter Interactions: The Next Decade,0.558036
+New bounds on light millicharged particles from the tip of the red-giant branch,Early-Universe Model Building,0.44915
+New bounds on light millicharged particles from the tip of the red-giant branch,Dark Matter Physics from the CMB-S4 Experiment,0.467104
+New bounds on light millicharged particles from the tip of the red-giant branch,Mapping our universe in 3D with MITEoR,0.329756
+New bounds on light millicharged particles from the tip of the red-giant branch,Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.522368
+New bounds on light millicharged particles from the tip of the red-giant branch,An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.539978
+New bounds on light millicharged particles from the tip of the red-giant branch,A tale of two particles; Tale of 2 particles,0.563611
+New bounds on light millicharged particles from the tip of the red-giant branch,Exploring New Physics on Cosmological Scales,0.496763
+New bounds on light millicharged particles from the tip of the red-giant branch,A Helioscope for Gravitationally Bound Millicharged Particles,0.609216
+New bounds on light millicharged particles from the tip of the red-giant branch,The Physics of Light Relics,0.548095
+New bounds on light millicharged particles from the tip of the red-giant branch,Direct Detection of the Millicharged Background,0.50637
+New bounds on light millicharged particles from the tip of the red-giant branch,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.569452
+New bounds on light millicharged particles from the tip of the red-giant branch,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.430065
+New bounds on light millicharged particles from the tip of the red-giant branch,Resonant axion and dark photon production in magnetic white dwarfs,0.491845
+New bounds on light millicharged particles from the tip of the red-giant branch,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.397022
+Self-scattering for Dark Matter with an excited state,Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,0.414305
+Self-scattering for Dark Matter with an excited state,Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,0.522786
+Self-scattering for Dark Matter with an excited state,Pulsar timing can constrain primordial black holes in the LIGO mass window,0.498802
+Self-scattering for Dark Matter with an excited state,Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,0.414335
+Self-scattering for Dark Matter with an excited state,Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,0.330112
+Self-scattering for Dark Matter with an excited state,Effective bias expansion for 21-cm cosmology in redshift space,0.535878
+Self-scattering for Dark Matter with an excited state,Inelastic freeze-in,0.622283
+Self-scattering for Dark Matter with an excited state,Axion dark matter-induced echo of supernova remnants,0.562307
+Self-scattering for Dark Matter with an excited state,Photon-dark photon conversion with multiple level crossings,0.452546
+Self-scattering for Dark Matter with an excited state,"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",0.644344
+Self-scattering for Dark Matter with an excited state,Looking in the axion mirror: An all-sky analysis of stimulated decay,0.568483
+Self-scattering for Dark Matter with an excited state,The Galactic potential and dark matter density from angular stellar accelerations,0.538772
+Self-scattering for Dark Matter with an excited state,Helioscope for gravitationally bound millicharged particles,0.535085
+Self-scattering for Dark Matter with an excited state,Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,0.547652
+Self-scattering for Dark Matter with an excited state,Photon self-energy at all temperatures and densities in all of phase space,0.385067
+Self-scattering for Dark Matter with an excited state,Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,0.468915
+Self-scattering for Dark Matter with an excited state,Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,0.624227
+Self-scattering for Dark Matter with an excited state,Cosmological Probes of Dark Matter Interactions: The Next Decade,0.623926
+Self-scattering for Dark Matter with an excited state,Early-Universe Model Building,0.548018
+Self-scattering for Dark Matter with an excited state,Dark Matter Physics from the CMB-S4 Experiment,0.547564
+Self-scattering for Dark Matter with an excited state,Mapping our universe in 3D with MITEoR,0.341729
+Self-scattering for Dark Matter with an excited state,Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.623683
+Self-scattering for Dark Matter with an excited state,An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.523081
+Self-scattering for Dark Matter with an excited state,A tale of two particles; Tale of 2 particles,0.651314
+Self-scattering for Dark Matter with an excited state,Exploring New Physics on Cosmological Scales,0.636941
+Self-scattering for Dark Matter with an excited state,A Helioscope for Gravitationally Bound Millicharged Particles,0.530999
+Self-scattering for Dark Matter with an excited state,The Physics of Light Relics,0.494803
+Self-scattering for Dark Matter with an excited state,Direct Detection of the Millicharged Background,0.545061
+Self-scattering for Dark Matter with an excited state,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.524005
+Self-scattering for Dark Matter with an excited state,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.583282
+Self-scattering for Dark Matter with an excited state,Resonant axion and dark photon production in magnetic white dwarfs,0.432223
+Self-scattering for Dark Matter with an excited state,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.41561
+Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,0.49584
+Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,Pulsar timing can constrain primordial black holes in the LIGO mass window,0.447343
+Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,0.354265
+Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,0.392464
+Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,Effective bias expansion for 21-cm cosmology in redshift space,0.642923
+Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,Inelastic freeze-in,0.541735
+Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,Axion dark matter-induced echo of supernova remnants,0.397903
+Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,Photon-dark photon conversion with multiple level crossings,0.405741
+Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",0.541541
+Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,Looking in the axion mirror: An all-sky analysis of stimulated decay,0.379652
+Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,The Galactic potential and dark matter density from angular stellar accelerations,0.342336
+Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,Helioscope for gravitationally bound millicharged particles,0.410687
+Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,0.43613
+Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,Photon self-energy at all temperatures and densities in all of phase space,0.263421
+Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,0.389627
+Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,0.438621
+Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,Cosmological Probes of Dark Matter Interactions: The Next Decade,0.591785
+Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,Early-Universe Model Building,0.563478
+Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,Dark Matter Physics from the CMB-S4 Experiment,0.512812
+Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,Mapping our universe in 3D with MITEoR,0.437563
+Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.451764
+Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.633555
+Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,A tale of two particles; Tale of 2 particles,0.735019
+Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,Exploring New Physics on Cosmological Scales,0.449048
+Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,A Helioscope for Gravitationally Bound Millicharged Particles,0.400128
+Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,The Physics of Light Relics,0.568517
+Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,Direct Detection of the Millicharged Background,0.434661
+Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.324784
+Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.460862
+Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,Resonant axion and dark photon production in magnetic white dwarfs,0.382421
+Multifield inflation after Planck: Isocurvature modes from nonminimal couplings,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.443193
+Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,Pulsar timing can constrain primordial black holes in the LIGO mass window,0.377714
+Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,0.28809
+Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,0.316714
+Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,Effective bias expansion for 21-cm cosmology in redshift space,0.541484
+Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,Inelastic freeze-in,0.395617
+Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,Axion dark matter-induced echo of supernova remnants,0.312114
+Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,Photon-dark photon conversion with multiple level crossings,0.382374
+Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",0.516734
+Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,Looking in the axion mirror: An all-sky analysis of stimulated decay,0.312003
+Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,The Galactic potential and dark matter density from angular stellar accelerations,0.328295
+Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,Helioscope for gravitationally bound millicharged particles,0.347025
+Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,0.362883
+Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,Photon self-energy at all temperatures and densities in all of phase space,0.369654
+Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,0.381808
+Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,0.454301
+Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,Cosmological Probes of Dark Matter Interactions: The Next Decade,0.411367
+Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,Early-Universe Model Building,0.460673
+Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,Dark Matter Physics from the CMB-S4 Experiment,0.372345
+Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,Mapping our universe in 3D with MITEoR,0.325091
+Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.367617
+Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.533618
+Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,A tale of two particles; Tale of 2 particles,0.506694
+Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,Exploring New Physics on Cosmological Scales,0.504876
+Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,A Helioscope for Gravitationally Bound Millicharged Particles,0.343926
+Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,The Physics of Light Relics,0.370602
+Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,Direct Detection of the Millicharged Background,0.363311
+Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.292587
+Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.602017
+Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,Resonant axion and dark photon production in magnetic white dwarfs,0.337035
+Non-Gaussian covariance of the matter power spectrum in the effective field theory of large scale structure,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.51375
+Pulsar timing can constrain primordial black holes in the LIGO mass window,Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,0.77576
+Pulsar timing can constrain primordial black holes in the LIGO mass window,Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,0.439137
+Pulsar timing can constrain primordial black holes in the LIGO mass window,Effective bias expansion for 21-cm cosmology in redshift space,0.496113
+Pulsar timing can constrain primordial black holes in the LIGO mass window,Inelastic freeze-in,0.542704
+Pulsar timing can constrain primordial black holes in the LIGO mass window,Axion dark matter-induced echo of supernova remnants,0.490203
+Pulsar timing can constrain primordial black holes in the LIGO mass window,Photon-dark photon conversion with multiple level crossings,0.390657
+Pulsar timing can constrain primordial black holes in the LIGO mass window,"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",0.5331
+Pulsar timing can constrain primordial black holes in the LIGO mass window,Looking in the axion mirror: An all-sky analysis of stimulated decay,0.480415
+Pulsar timing can constrain primordial black holes in the LIGO mass window,The Galactic potential and dark matter density from angular stellar accelerations,0.542939
+Pulsar timing can constrain primordial black holes in the LIGO mass window,Helioscope for gravitationally bound millicharged particles,0.545448
+Pulsar timing can constrain primordial black holes in the LIGO mass window,Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,0.50227
+Pulsar timing can constrain primordial black holes in the LIGO mass window,Photon self-energy at all temperatures and densities in all of phase space,0.160465
+Pulsar timing can constrain primordial black holes in the LIGO mass window,Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,0.275954
+Pulsar timing can constrain primordial black holes in the LIGO mass window,Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,0.522558
+Pulsar timing can constrain primordial black holes in the LIGO mass window,Cosmological Probes of Dark Matter Interactions: The Next Decade,0.541101
+Pulsar timing can constrain primordial black holes in the LIGO mass window,Early-Universe Model Building,0.447492
+Pulsar timing can constrain primordial black holes in the LIGO mass window,Dark Matter Physics from the CMB-S4 Experiment,0.475962
+Pulsar timing can constrain primordial black holes in the LIGO mass window,Mapping our universe in 3D with MITEoR,0.422844
+Pulsar timing can constrain primordial black holes in the LIGO mass window,Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.548537
+Pulsar timing can constrain primordial black holes in the LIGO mass window,An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.48988
+Pulsar timing can constrain primordial black holes in the LIGO mass window,A tale of two particles; Tale of 2 particles,0.577832
+Pulsar timing can constrain primordial black holes in the LIGO mass window,Exploring New Physics on Cosmological Scales,0.528675
+Pulsar timing can constrain primordial black holes in the LIGO mass window,A Helioscope for Gravitationally Bound Millicharged Particles,0.535425
+Pulsar timing can constrain primordial black holes in the LIGO mass window,The Physics of Light Relics,0.534365
+Pulsar timing can constrain primordial black holes in the LIGO mass window,Direct Detection of the Millicharged Background,0.508819
+Pulsar timing can constrain primordial black holes in the LIGO mass window,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.526074
+Pulsar timing can constrain primordial black holes in the LIGO mass window,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.425861
+Pulsar timing can constrain primordial black holes in the LIGO mass window,Resonant axion and dark photon production in magnetic white dwarfs,0.353968
+Pulsar timing can constrain primordial black holes in the LIGO mass window,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.282478
+Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,0.468499
+Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,Effective bias expansion for 21-cm cosmology in redshift space,0.440448
+Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,Inelastic freeze-in,0.40772
+Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,Axion dark matter-induced echo of supernova remnants,0.46456
+Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,Photon-dark photon conversion with multiple level crossings,0.290282
+Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",0.421304
+Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,Looking in the axion mirror: An all-sky analysis of stimulated decay,0.444793
+Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,The Galactic potential and dark matter density from angular stellar accelerations,0.545517
+Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,Helioscope for gravitationally bound millicharged particles,0.525273
+Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,0.3742
+Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,Photon self-energy at all temperatures and densities in all of phase space,0.093006
+Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,0.196396
+Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,0.407356
+Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,Cosmological Probes of Dark Matter Interactions: The Next Decade,0.45369
+Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,Early-Universe Model Building,0.300096
+Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,Dark Matter Physics from the CMB-S4 Experiment,0.334337
+Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,Mapping our universe in 3D with MITEoR,0.404369
+Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.41152
+Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.442094
+Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,A tale of two particles; Tale of 2 particles,0.486298
+Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,Exploring New Physics on Cosmological Scales,0.479475
+Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,A Helioscope for Gravitationally Bound Millicharged Particles,0.516969
+Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,The Physics of Light Relics,0.42814
+Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,Direct Detection of the Millicharged Background,0.383133
+Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.506694
+Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.30176
+Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,Resonant axion and dark photon production in magnetic white dwarfs,0.324999
+Constraints on individual supermassive black hole binaries from pulsar timing array limits on continuous gravitational waves,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.134663
+Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,Effective bias expansion for 21-cm cosmology in redshift space,0.631889
+Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,Inelastic freeze-in,0.374652
+Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,Axion dark matter-induced echo of supernova remnants,0.378997
+Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,Photon-dark photon conversion with multiple level crossings,0.313908
+Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",0.432191
+Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,Looking in the axion mirror: An all-sky analysis of stimulated decay,0.470782
+Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,The Galactic potential and dark matter density from angular stellar accelerations,0.452749
+Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,Helioscope for gravitationally bound millicharged particles,0.465716
+Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,0.292056
+Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,Photon self-energy at all temperatures and densities in all of phase space,0.098628
+Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,0.295443
+Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,0.343934
+Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,Cosmological Probes of Dark Matter Interactions: The Next Decade,0.480877
+Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,Early-Universe Model Building,0.273898
+Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,Dark Matter Physics from the CMB-S4 Experiment,0.395485
+Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,Mapping our universe in 3D with MITEoR,0.725175
+Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.42469
+Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.641879
+Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,A tale of two particles; Tale of 2 particles,0.466325
+Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,Exploring New Physics on Cosmological Scales,0.343329
+Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,A Helioscope for Gravitationally Bound Millicharged Particles,0.462378
+Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,The Physics of Light Relics,0.395891
+Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,Direct Detection of the Millicharged Background,0.292785
+Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.484429
+Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.418979
+Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,Resonant axion and dark photon production in magnetic white dwarfs,0.326047
+Brute-force mapmaking with compact interferometers: a MITEoR northern sky map from 128 to 175 MHz,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.165992
+Effective bias expansion for 21-cm cosmology in redshift space,Inelastic freeze-in,0.617171
+Effective bias expansion for 21-cm cosmology in redshift space,Axion dark matter-induced echo of supernova remnants,0.535002
+Effective bias expansion for 21-cm cosmology in redshift space,Photon-dark photon conversion with multiple level crossings,0.495934
+Effective bias expansion for 21-cm cosmology in redshift space,"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",0.632857
+Effective bias expansion for 21-cm cosmology in redshift space,Looking in the axion mirror: An all-sky analysis of stimulated decay,0.564676
+Effective bias expansion for 21-cm cosmology in redshift space,The Galactic potential and dark matter density from angular stellar accelerations,0.515917
+Effective bias expansion for 21-cm cosmology in redshift space,Helioscope for gravitationally bound millicharged particles,0.539393
+Effective bias expansion for 21-cm cosmology in redshift space,Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,0.524964
+Effective bias expansion for 21-cm cosmology in redshift space,Photon self-energy at all temperatures and densities in all of phase space,0.30677
+Effective bias expansion for 21-cm cosmology in redshift space,Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,0.463475
+Effective bias expansion for 21-cm cosmology in redshift space,Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,0.52188
+Effective bias expansion for 21-cm cosmology in redshift space,Cosmological Probes of Dark Matter Interactions: The Next Decade,0.68063
+Effective bias expansion for 21-cm cosmology in redshift space,Early-Universe Model Building,0.536774
+Effective bias expansion for 21-cm cosmology in redshift space,Dark Matter Physics from the CMB-S4 Experiment,0.562619
+Effective bias expansion for 21-cm cosmology in redshift space,Mapping our universe in 3D with MITEoR,0.5433
+Effective bias expansion for 21-cm cosmology in redshift space,Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.54027
+Effective bias expansion for 21-cm cosmology in redshift space,An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.993348
+Effective bias expansion for 21-cm cosmology in redshift space,A tale of two particles; Tale of 2 particles,0.644504
+Effective bias expansion for 21-cm cosmology in redshift space,Exploring New Physics on Cosmological Scales,0.52148
+Effective bias expansion for 21-cm cosmology in redshift space,A Helioscope for Gravitationally Bound Millicharged Particles,0.52847
+Effective bias expansion for 21-cm cosmology in redshift space,The Physics of Light Relics,0.590896
+Effective bias expansion for 21-cm cosmology in redshift space,Direct Detection of the Millicharged Background,0.527278
+Effective bias expansion for 21-cm cosmology in redshift space,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.50987
+Effective bias expansion for 21-cm cosmology in redshift space,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.742621
+Effective bias expansion for 21-cm cosmology in redshift space,Resonant axion and dark photon production in magnetic white dwarfs,0.466781
+Effective bias expansion for 21-cm cosmology in redshift space,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.447486
+Inelastic freeze-in,Axion dark matter-induced echo of supernova remnants,0.647068
+Inelastic freeze-in,Photon-dark photon conversion with multiple level crossings,0.55151
+Inelastic freeze-in,"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",0.627836
+Inelastic freeze-in,Looking in the axion mirror: An all-sky analysis of stimulated decay,0.550844
+Inelastic freeze-in,The Galactic potential and dark matter density from angular stellar accelerations,0.503845
+Inelastic freeze-in,Helioscope for gravitationally bound millicharged particles,0.640073
+Inelastic freeze-in,Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,0.753486
+Inelastic freeze-in,Photon self-energy at all temperatures and densities in all of phase space,0.265524
+Inelastic freeze-in,Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,0.425677
+Inelastic freeze-in,Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,0.637275
+Inelastic freeze-in,Cosmological Probes of Dark Matter Interactions: The Next Decade,0.708739
+Inelastic freeze-in,Early-Universe Model Building,0.611837
+Inelastic freeze-in,Dark Matter Physics from the CMB-S4 Experiment,0.632301
+Inelastic freeze-in,Mapping our universe in 3D with MITEoR,0.386875
+Inelastic freeze-in,Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.676409
+Inelastic freeze-in,An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.598279
+Inelastic freeze-in,A tale of two particles; Tale of 2 particles,0.667265
+Inelastic freeze-in,Exploring New Physics on Cosmological Scales,0.520364
+Inelastic freeze-in,A Helioscope for Gravitationally Bound Millicharged Particles,0.633671
+Inelastic freeze-in,The Physics of Light Relics,0.682077
+Inelastic freeze-in,Direct Detection of the Millicharged Background,0.75048
+Inelastic freeze-in,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.580462
+Inelastic freeze-in,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.520054
+Inelastic freeze-in,Resonant axion and dark photon production in magnetic white dwarfs,0.444551
+Inelastic freeze-in,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.475298
+Axion dark matter-induced echo of supernova remnants,Photon-dark photon conversion with multiple level crossings,0.509425
+Axion dark matter-induced echo of supernova remnants,"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",0.582301
+Axion dark matter-induced echo of supernova remnants,Looking in the axion mirror: An all-sky analysis of stimulated decay,0.84814
+Axion dark matter-induced echo of supernova remnants,The Galactic potential and dark matter density from angular stellar accelerations,0.507945
+Axion dark matter-induced echo of supernova remnants,Helioscope for gravitationally bound millicharged particles,0.586435
+Axion dark matter-induced echo of supernova remnants,Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,0.584204
+Axion dark matter-induced echo of supernova remnants,Photon self-energy at all temperatures and densities in all of phase space,0.316444
+Axion dark matter-induced echo of supernova remnants,Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,0.518106
+Axion dark matter-induced echo of supernova remnants,Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,0.524155
+Axion dark matter-induced echo of supernova remnants,Cosmological Probes of Dark Matter Interactions: The Next Decade,0.616394
+Axion dark matter-induced echo of supernova remnants,Early-Universe Model Building,0.511543
+Axion dark matter-induced echo of supernova remnants,Dark Matter Physics from the CMB-S4 Experiment,0.535284
+Axion dark matter-induced echo of supernova remnants,Mapping our universe in 3D with MITEoR,0.408228
+Axion dark matter-induced echo of supernova remnants,Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.59229
+Axion dark matter-induced echo of supernova remnants,An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.526529
+Axion dark matter-induced echo of supernova remnants,A tale of two particles; Tale of 2 particles,0.541591
+Axion dark matter-induced echo of supernova remnants,Exploring New Physics on Cosmological Scales,0.478184
+Axion dark matter-induced echo of supernova remnants,A Helioscope for Gravitationally Bound Millicharged Particles,0.582118
+Axion dark matter-induced echo of supernova remnants,The Physics of Light Relics,0.670176
+Axion dark matter-induced echo of supernova remnants,Direct Detection of the Millicharged Background,0.588016
+Axion dark matter-induced echo of supernova remnants,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.87954
+Axion dark matter-induced echo of supernova remnants,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.402683
+Axion dark matter-induced echo of supernova remnants,Resonant axion and dark photon production in magnetic white dwarfs,0.498357
+Axion dark matter-induced echo of supernova remnants,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.343298
+Photon-dark photon conversion with multiple level crossings,"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",0.52142
+Photon-dark photon conversion with multiple level crossings,Looking in the axion mirror: An all-sky analysis of stimulated decay,0.430538
+Photon-dark photon conversion with multiple level crossings,The Galactic potential and dark matter density from angular stellar accelerations,0.326442
+Photon-dark photon conversion with multiple level crossings,Helioscope for gravitationally bound millicharged particles,0.449572
+Photon-dark photon conversion with multiple level crossings,Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,0.488743
+Photon-dark photon conversion with multiple level crossings,Photon self-energy at all temperatures and densities in all of phase space,0.434328
+Photon-dark photon conversion with multiple level crossings,Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,0.434747
+Photon-dark photon conversion with multiple level crossings,Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,0.494104
+Photon-dark photon conversion with multiple level crossings,Cosmological Probes of Dark Matter Interactions: The Next Decade,0.484102
+Photon-dark photon conversion with multiple level crossings,Early-Universe Model Building,0.414087
+Photon-dark photon conversion with multiple level crossings,Dark Matter Physics from the CMB-S4 Experiment,0.449219
+Photon-dark photon conversion with multiple level crossings,Mapping our universe in 3D with MITEoR,0.310976
+Photon-dark photon conversion with multiple level crossings,Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.427617
+Photon-dark photon conversion with multiple level crossings,An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.480223
+Photon-dark photon conversion with multiple level crossings,A tale of two particles; Tale of 2 particles,0.447096
+Photon-dark photon conversion with multiple level crossings,Exploring New Physics on Cosmological Scales,0.420976
+Photon-dark photon conversion with multiple level crossings,A Helioscope for Gravitationally Bound Millicharged Particles,0.445114
+Photon-dark photon conversion with multiple level crossings,The Physics of Light Relics,0.520768
+Photon-dark photon conversion with multiple level crossings,Direct Detection of the Millicharged Background,0.493133
+Photon-dark photon conversion with multiple level crossings,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.467138
+Photon-dark photon conversion with multiple level crossings,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.434532
+Photon-dark photon conversion with multiple level crossings,Resonant axion and dark photon production in magnetic white dwarfs,0.426019
+Photon-dark photon conversion with multiple level crossings,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.420159
+"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",Looking in the axion mirror: An all-sky analysis of stimulated decay,0.610806
+"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",The Galactic potential and dark matter density from angular stellar accelerations,0.564286
+"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",Helioscope for gravitationally bound millicharged particles,0.648157
+"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,0.56412
+"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",Photon self-energy at all temperatures and densities in all of phase space,0.376574
+"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,0.560821
+"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,0.590742
+"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",Cosmological Probes of Dark Matter Interactions: The Next Decade,0.616531
+"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",Early-Universe Model Building,0.624346
+"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",Dark Matter Physics from the CMB-S4 Experiment,0.602501
+"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",Mapping our universe in 3D with MITEoR,0.409995
+"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.616243
+"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.622215
+"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",A tale of two particles; Tale of 2 particles,0.689021
+"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",Exploring New Physics on Cosmological Scales,0.571742
+"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",A Helioscope for Gravitationally Bound Millicharged Particles,0.643963
+"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",The Physics of Light Relics,0.5899
+"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",Direct Detection of the Millicharged Background,0.563693
+"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.565247
+"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.61579
+"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",Resonant axion and dark photon production in magnetic white dwarfs,0.545988
+"Erratum: Making dark matter out of light: Freeze-in from plasma effects [Phys. Rev. D <b>99</b>, 115009 (2019)]",Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.551142
+Looking in the axion mirror: An all-sky analysis of stimulated decay,The Galactic potential and dark matter density from angular stellar accelerations,0.568647
+Looking in the axion mirror: An all-sky analysis of stimulated decay,Helioscope for gravitationally bound millicharged particles,0.551968
+Looking in the axion mirror: An all-sky analysis of stimulated decay,Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,0.507413
+Looking in the axion mirror: An all-sky analysis of stimulated decay,Photon self-energy at all temperatures and densities in all of phase space,0.28064
+Looking in the axion mirror: An all-sky analysis of stimulated decay,Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,0.50906
+Looking in the axion mirror: An all-sky analysis of stimulated decay,Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,0.474061
+Looking in the axion mirror: An all-sky analysis of stimulated decay,Cosmological Probes of Dark Matter Interactions: The Next Decade,0.613265
+Looking in the axion mirror: An all-sky analysis of stimulated decay,Early-Universe Model Building,0.477589
+Looking in the axion mirror: An all-sky analysis of stimulated decay,Dark Matter Physics from the CMB-S4 Experiment,0.540171
+Looking in the axion mirror: An all-sky analysis of stimulated decay,Mapping our universe in 3D with MITEoR,0.491708
+Looking in the axion mirror: An all-sky analysis of stimulated decay,Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.586096
+Looking in the axion mirror: An all-sky analysis of stimulated decay,An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.565765
+Looking in the axion mirror: An all-sky analysis of stimulated decay,A tale of two particles; Tale of 2 particles,0.522076
+Looking in the axion mirror: An all-sky analysis of stimulated decay,Exploring New Physics on Cosmological Scales,0.449541
+Looking in the axion mirror: An all-sky analysis of stimulated decay,A Helioscope for Gravitationally Bound Millicharged Particles,0.551973
+Looking in the axion mirror: An all-sky analysis of stimulated decay,The Physics of Light Relics,0.575262
+Looking in the axion mirror: An all-sky analysis of stimulated decay,Direct Detection of the Millicharged Background,0.51155
+Looking in the axion mirror: An all-sky analysis of stimulated decay,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.830981
+Looking in the axion mirror: An all-sky analysis of stimulated decay,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.470912
+Looking in the axion mirror: An all-sky analysis of stimulated decay,Resonant axion and dark photon production in magnetic white dwarfs,0.443898
+Looking in the axion mirror: An all-sky analysis of stimulated decay,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.304801
+The Galactic potential and dark matter density from angular stellar accelerations,Helioscope for gravitationally bound millicharged particles,0.608404
+The Galactic potential and dark matter density from angular stellar accelerations,Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,0.522309
+The Galactic potential and dark matter density from angular stellar accelerations,Photon self-energy at all temperatures and densities in all of phase space,0.063242
+The Galactic potential and dark matter density from angular stellar accelerations,Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,0.310197
+The Galactic potential and dark matter density from angular stellar accelerations,Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,0.596147
+The Galactic potential and dark matter density from angular stellar accelerations,Cosmological Probes of Dark Matter Interactions: The Next Decade,0.626801
+The Galactic potential and dark matter density from angular stellar accelerations,Early-Universe Model Building,0.392366
+The Galactic potential and dark matter density from angular stellar accelerations,Dark Matter Physics from the CMB-S4 Experiment,0.543818
+The Galactic potential and dark matter density from angular stellar accelerations,Mapping our universe in 3D with MITEoR,0.46485
+The Galactic potential and dark matter density from angular stellar accelerations,Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.649953
+The Galactic potential and dark matter density from angular stellar accelerations,An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.515844
+The Galactic potential and dark matter density from angular stellar accelerations,A tale of two particles; Tale of 2 particles,0.526023
+The Galactic potential and dark matter density from angular stellar accelerations,Exploring New Physics on Cosmological Scales,0.57065
+The Galactic potential and dark matter density from angular stellar accelerations,A Helioscope for Gravitationally Bound Millicharged Particles,0.605088
+The Galactic potential and dark matter density from angular stellar accelerations,The Physics of Light Relics,0.481061
+The Galactic potential and dark matter density from angular stellar accelerations,Direct Detection of the Millicharged Background,0.519765
+The Galactic potential and dark matter density from angular stellar accelerations,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.596606
+The Galactic potential and dark matter density from angular stellar accelerations,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.441408
+The Galactic potential and dark matter density from angular stellar accelerations,Resonant axion and dark photon production in magnetic white dwarfs,0.255589
+The Galactic potential and dark matter density from angular stellar accelerations,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.195793
+Helioscope for gravitationally bound millicharged particles,Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,0.673237
+Helioscope for gravitationally bound millicharged particles,Photon self-energy at all temperatures and densities in all of phase space,0.329214
+Helioscope for gravitationally bound millicharged particles,Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,0.478473
+Helioscope for gravitationally bound millicharged particles,Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,0.559007
+Helioscope for gravitationally bound millicharged particles,Cosmological Probes of Dark Matter Interactions: The Next Decade,0.612971
+Helioscope for gravitationally bound millicharged particles,Early-Universe Model Building,0.454255
+Helioscope for gravitationally bound millicharged particles,Dark Matter Physics from the CMB-S4 Experiment,0.555042
+Helioscope for gravitationally bound millicharged particles,Mapping our universe in 3D with MITEoR,0.485148
+Helioscope for gravitationally bound millicharged particles,Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.625064
+Helioscope for gravitationally bound millicharged particles,An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.538164
+Helioscope for gravitationally bound millicharged particles,A tale of two particles; Tale of 2 particles,0.563477
+Helioscope for gravitationally bound millicharged particles,Exploring New Physics on Cosmological Scales,0.472532
+Helioscope for gravitationally bound millicharged particles,A Helioscope for Gravitationally Bound Millicharged Particles,0.998073
+Helioscope for gravitationally bound millicharged particles,The Physics of Light Relics,0.544475
+Helioscope for gravitationally bound millicharged particles,Direct Detection of the Millicharged Background,0.675605
+Helioscope for gravitationally bound millicharged particles,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.600901
+Helioscope for gravitationally bound millicharged particles,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.494512
+Helioscope for gravitationally bound millicharged particles,Resonant axion and dark photon production in magnetic white dwarfs,0.484696
+Helioscope for gravitationally bound millicharged particles,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.432081
+Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,Photon self-energy at all temperatures and densities in all of phase space,0.241458
+Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,0.292695
+Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,0.673377
+Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,Cosmological Probes of Dark Matter Interactions: The Next Decade,0.670951
+Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,Early-Universe Model Building,0.533262
+Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,Dark Matter Physics from the CMB-S4 Experiment,0.653116
+Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,Mapping our universe in 3D with MITEoR,0.435577
+Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.723426
+Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.513442
+Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,A tale of two particles; Tale of 2 particles,0.571595
+Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,Exploring New Physics on Cosmological Scales,0.467844
+Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,A Helioscope for Gravitationally Bound Millicharged Particles,0.671481
+Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,The Physics of Light Relics,0.590982
+Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,Direct Detection of the Millicharged Background,0.994902
+Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.546918
+Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.506083
+Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,Resonant axion and dark photon production in magnetic white dwarfs,0.352791
+Dark Matter Direct Detection Experiments Are Sensitive to the Millicharged Background,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.409724
+Photon self-energy at all temperatures and densities in all of phase space,Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,0.597588
+Photon self-energy at all temperatures and densities in all of phase space,Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,0.270131
+Photon self-energy at all temperatures and densities in all of phase space,Cosmological Probes of Dark Matter Interactions: The Next Decade,0.201215
+Photon self-energy at all temperatures and densities in all of phase space,Early-Universe Model Building,0.236694
+Photon self-energy at all temperatures and densities in all of phase space,Dark Matter Physics from the CMB-S4 Experiment,0.194797
+Photon self-energy at all temperatures and densities in all of phase space,Mapping our universe in 3D with MITEoR,0.142641
+Photon self-energy at all temperatures and densities in all of phase space,Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.151744
+Photon self-energy at all temperatures and densities in all of phase space,An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.298126
+Photon self-energy at all temperatures and densities in all of phase space,A tale of two particles; Tale of 2 particles,0.222687
+Photon self-energy at all temperatures and densities in all of phase space,Exploring New Physics on Cosmological Scales,0.219761
+Photon self-energy at all temperatures and densities in all of phase space,A Helioscope for Gravitationally Bound Millicharged Particles,0.329079
+Photon self-energy at all temperatures and densities in all of phase space,The Physics of Light Relics,0.24809
+Photon self-energy at all temperatures and densities in all of phase space,Direct Detection of the Millicharged Background,0.247608
+Photon self-energy at all temperatures and densities in all of phase space,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.242459
+Photon self-energy at all temperatures and densities in all of phase space,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.310405
+Photon self-energy at all temperatures and densities in all of phase space,Resonant axion and dark photon production in magnetic white dwarfs,0.449333
+Photon self-energy at all temperatures and densities in all of phase space,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.429326
+Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,0.352215
+Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,Cosmological Probes of Dark Matter Interactions: The Next Decade,0.369708
+Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,Early-Universe Model Building,0.429871
+Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,Dark Matter Physics from the CMB-S4 Experiment,0.359668
+Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,Mapping our universe in 3D with MITEoR,0.253271
+Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.329456
+Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.45604
+Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,A tale of two particles; Tale of 2 particles,0.417006
+Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,Exploring New Physics on Cosmological Scales,0.41355
+Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,A Helioscope for Gravitationally Bound Millicharged Particles,0.477054
+Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,The Physics of Light Relics,0.395427
+Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,Direct Detection of the Millicharged Background,0.299877
+Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.451478
+Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.443218
+Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,Resonant axion and dark photon production in magnetic white dwarfs,0.63199
+Photon conversion to axions and dark photons in magnetized plasmas: a finite-temperature field theory approach,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.493325
+Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,Cosmological Probes of Dark Matter Interactions: The Next Decade,0.723591
+Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,Early-Universe Model Building,0.497386
+Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,Dark Matter Physics from the CMB-S4 Experiment,0.656167
+Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,Mapping our universe in 3D with MITEoR,0.394514
+Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.766638
+Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.50846
+Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,A tale of two particles; Tale of 2 particles,0.576223
+Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,Exploring New Physics on Cosmological Scales,0.718012
+Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,A Helioscope for Gravitationally Bound Millicharged Particles,0.557401
+Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,The Physics of Light Relics,0.564371
+Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,Direct Detection of the Millicharged Background,0.665811
+Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.494043
+Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.532953
+Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,Resonant axion and dark photon production in magnetic white dwarfs,0.415645
+Snowmass2021 Cosmic Frontier White Paper: Dark Matter Physics from Halo Measurements,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.367002
+Cosmological Probes of Dark Matter Interactions: The Next Decade,Early-Universe Model Building,0.585791
+Cosmological Probes of Dark Matter Interactions: The Next Decade,Dark Matter Physics from the CMB-S4 Experiment,0.759682
+Cosmological Probes of Dark Matter Interactions: The Next Decade,Mapping our universe in 3D with MITEoR,0.529183
+Cosmological Probes of Dark Matter Interactions: The Next Decade,Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.821206
+Cosmological Probes of Dark Matter Interactions: The Next Decade,An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.663822
+Cosmological Probes of Dark Matter Interactions: The Next Decade,A tale of two particles; Tale of 2 particles,0.714349
+Cosmological Probes of Dark Matter Interactions: The Next Decade,Exploring New Physics on Cosmological Scales,0.579548
+Cosmological Probes of Dark Matter Interactions: The Next Decade,A Helioscope for Gravitationally Bound Millicharged Particles,0.609835
+Cosmological Probes of Dark Matter Interactions: The Next Decade,The Physics of Light Relics,0.698908
+Cosmological Probes of Dark Matter Interactions: The Next Decade,Direct Detection of the Millicharged Background,0.667051
+Cosmological Probes of Dark Matter Interactions: The Next Decade,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.575594
+Cosmological Probes of Dark Matter Interactions: The Next Decade,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.508199
+Cosmological Probes of Dark Matter Interactions: The Next Decade,Resonant axion and dark photon production in magnetic white dwarfs,0.410776
+Cosmological Probes of Dark Matter Interactions: The Next Decade,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.358747
+Early-Universe Model Building,Dark Matter Physics from the CMB-S4 Experiment,0.514806
+Early-Universe Model Building,Mapping our universe in 3D with MITEoR,0.314696
+Early-Universe Model Building,Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.545018
+Early-Universe Model Building,An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.522316
+Early-Universe Model Building,A tale of two particles; Tale of 2 particles,0.74944
+Early-Universe Model Building,Exploring New Physics on Cosmological Scales,0.482134
+Early-Universe Model Building,A Helioscope for Gravitationally Bound Millicharged Particles,0.446722
+Early-Universe Model Building,The Physics of Light Relics,0.694026
+Early-Universe Model Building,Direct Detection of the Millicharged Background,0.533504
+Early-Universe Model Building,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.436383
+Early-Universe Model Building,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.505803
+Early-Universe Model Building,Resonant axion and dark photon production in magnetic white dwarfs,0.381149
+Early-Universe Model Building,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.4489
+Dark Matter Physics from the CMB-S4 Experiment,Mapping our universe in 3D with MITEoR,0.533245
+Dark Matter Physics from the CMB-S4 Experiment,Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.759009
+Dark Matter Physics from the CMB-S4 Experiment,An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.545744
+Dark Matter Physics from the CMB-S4 Experiment,A tale of two particles; Tale of 2 particles,0.598203
+Dark Matter Physics from the CMB-S4 Experiment,Exploring New Physics on Cosmological Scales,0.487919
+Dark Matter Physics from the CMB-S4 Experiment,A Helioscope for Gravitationally Bound Millicharged Particles,0.556332
+Dark Matter Physics from the CMB-S4 Experiment,The Physics of Light Relics,0.569778
+Dark Matter Physics from the CMB-S4 Experiment,Direct Detection of the Millicharged Background,0.647229
+Dark Matter Physics from the CMB-S4 Experiment,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.533435
+Dark Matter Physics from the CMB-S4 Experiment,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.474902
+Dark Matter Physics from the CMB-S4 Experiment,Resonant axion and dark photon production in magnetic white dwarfs,0.409348
+Dark Matter Physics from the CMB-S4 Experiment,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.359915
+Mapping our universe in 3D with MITEoR,Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,0.506966
+Mapping our universe in 3D with MITEoR,An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.555758
+Mapping our universe in 3D with MITEoR,A tale of two particles; Tale of 2 particles,0.460741
+Mapping our universe in 3D with MITEoR,Exploring New Physics on Cosmological Scales,0.295378
+Mapping our universe in 3D with MITEoR,A Helioscope for Gravitationally Bound Millicharged Particles,0.488429
+Mapping our universe in 3D with MITEoR,The Physics of Light Relics,0.441188
+Mapping our universe in 3D with MITEoR,Direct Detection of the Millicharged Background,0.432481
+Mapping our universe in 3D with MITEoR,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.492542
+Mapping our universe in 3D with MITEoR,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.426659
+Mapping our universe in 3D with MITEoR,Resonant axion and dark photon production in magnetic white dwarfs,0.267429
+Mapping our universe in 3D with MITEoR,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.179926
+Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,0.526139
+Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,A tale of two particles; Tale of 2 particles,0.652151
+Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,Exploring New Physics on Cosmological Scales,0.594194
+Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,A Helioscope for Gravitationally Bound Millicharged Particles,0.62563
+Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,The Physics of Light Relics,0.646569
+Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,Direct Detection of the Millicharged Background,0.719953
+Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.589202
+Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.477138
+Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,Resonant axion and dark photon production in magnetic white dwarfs,0.379913
+Report of the Topical Group on Cosmic Probes of Dark Matter for Snowmass 2021,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.321391
+An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,A tale of two particles; Tale of 2 particles,0.634516
+An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,Exploring New Physics on Cosmological Scales,0.512484
+An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,A Helioscope for Gravitationally Bound Millicharged Particles,0.527648
+An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,The Physics of Light Relics,0.580889
+An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,Direct Detection of the Millicharged Background,0.515763
+An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.508283
+An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.745098
+An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,Resonant axion and dark photon production in magnetic white dwarfs,0.460226
+An Effective Bias Expansion for 21 cm Cosmology in Redshift Space,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.447242
+A tale of two particles; Tale of 2 particles,Exploring New Physics on Cosmological Scales,0.584306
+A tale of two particles; Tale of 2 particles,A Helioscope for Gravitationally Bound Millicharged Particles,0.554125
+A tale of two particles; Tale of 2 particles,The Physics of Light Relics,0.707124
+A tale of two particles; Tale of 2 particles,Direct Detection of the Millicharged Background,0.569159
+A tale of two particles; Tale of 2 particles,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.495507
+A tale of two particles; Tale of 2 particles,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.54278
+A tale of two particles; Tale of 2 particles,Resonant axion and dark photon production in magnetic white dwarfs,0.416266
+A tale of two particles; Tale of 2 particles,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.462561
+Exploring New Physics on Cosmological Scales,A Helioscope for Gravitationally Bound Millicharged Particles,0.464967
+Exploring New Physics on Cosmological Scales,The Physics of Light Relics,0.523098
+Exploring New Physics on Cosmological Scales,Direct Detection of the Millicharged Background,0.465237
+Exploring New Physics on Cosmological Scales,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.484967
+Exploring New Physics on Cosmological Scales,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.498383
+Exploring New Physics on Cosmological Scales,Resonant axion and dark photon production in magnetic white dwarfs,0.325435
+Exploring New Physics on Cosmological Scales,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.333909
+A Helioscope for Gravitationally Bound Millicharged Particles,The Physics of Light Relics,0.536776
+A Helioscope for Gravitationally Bound Millicharged Particles,Direct Detection of the Millicharged Background,0.673306
+A Helioscope for Gravitationally Bound Millicharged Particles,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.600154
+A Helioscope for Gravitationally Bound Millicharged Particles,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.490457
+A Helioscope for Gravitationally Bound Millicharged Particles,Resonant axion and dark photon production in magnetic white dwarfs,0.486155
+A Helioscope for Gravitationally Bound Millicharged Particles,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.427908
+The Physics of Light Relics,Direct Detection of the Millicharged Background,0.591492
+The Physics of Light Relics,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.613501
+The Physics of Light Relics,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.430565
+The Physics of Light Relics,Resonant axion and dark photon production in magnetic white dwarfs,0.405374
+The Physics of Light Relics,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.411049
+Direct Detection of the Millicharged Background,Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,0.547796
+Direct Detection of the Millicharged Background,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.506296
+Direct Detection of the Millicharged Background,Resonant axion and dark photon production in magnetic white dwarfs,0.362912
+Direct Detection of the Millicharged Background,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.410984
+Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,Supersizing hydrodynamical simulations of reionization using perturbative techniques,0.381788
+Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,Resonant axion and dark photon production in magnetic white dwarfs,0.454472
+Searching for Axion Dark Matter Gegenschein of the Vela Supernova Remnant with FAST,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.278779
+Supersizing hydrodynamical simulations of reionization using perturbative techniques,Resonant axion and dark photon production in magnetic white dwarfs,0.397767
+Supersizing hydrodynamical simulations of reionization using perturbative techniques,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.493833
+Resonant axion and dark photon production in magnetic white dwarfs,Spectral Surgery in a Heat Bath: a finite-temperature guide to particle production for phenomenologists,0.391772

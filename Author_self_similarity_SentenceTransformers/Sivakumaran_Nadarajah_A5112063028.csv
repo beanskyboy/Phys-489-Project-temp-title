@@ -1,0 +1,562 @@
+title_i,title_j,cosine_similarity
+ILES Using the Correction Procedure via Reconstruction Scheme,Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,0.550747
+ILES Using the Correction Procedure via Reconstruction Scheme,A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,0.301312
+ILES Using the Correction Procedure via Reconstruction Scheme,Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,0.394456
+ILES Using the Correction Procedure via Reconstruction Scheme,Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,0.590956
+ILES Using the Correction Procedure via Reconstruction Scheme,Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,0.637419
+ILES Using the Correction Procedure via Reconstruction Scheme,Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,0.534292
+ILES Using the Correction Procedure via Reconstruction Scheme,Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,0.576663
+ILES Using the Correction Procedure via Reconstruction Scheme,Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,0.524986
+ILES Using the Correction Procedure via Reconstruction Scheme,Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,0.557787
+ILES Using the Correction Procedure via Reconstruction Scheme,On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,0.515404
+ILES Using the Correction Procedure via Reconstruction Scheme,Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,0.519729
+ILES Using the Correction Procedure via Reconstruction Scheme,An Adjoint-Based Shape Optimization of Gas Turbine Blades,0.437791
+ILES Using the Correction Procedure via Reconstruction Scheme,Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,0.40689
+ILES Using the Correction Procedure via Reconstruction Scheme,Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,0.331561
+ILES Using the Correction Procedure via Reconstruction Scheme,Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,0.547376
+ILES Using the Correction Procedure via Reconstruction Scheme,Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,0.551691
+ILES Using the Correction Procedure via Reconstruction Scheme,Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,0.497573
+ILES Using the Correction Procedure via Reconstruction Scheme,Newton-Krylov Full-Space Aerodynamic Shape Optimization,0.535569
+ILES Using the Correction Procedure via Reconstruction Scheme,Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,0.592626
+ILES Using the Correction Procedure via Reconstruction Scheme,GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,0.556713
+ILES Using the Correction Procedure via Reconstruction Scheme,Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.121353
+ILES Using the Correction Procedure via Reconstruction Scheme,Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,0.492005
+ILES Using the Correction Procedure via Reconstruction Scheme,Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,0.550718
+ILES Using the Correction Procedure via Reconstruction Scheme,Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.519512
+ILES Using the Correction Procedure via Reconstruction Scheme,Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,0.570628
+ILES Using the Correction Procedure via Reconstruction Scheme,On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,0.774984
+ILES Using the Correction Procedure via Reconstruction Scheme,Full-Space Goal Oriented Mesh Optimization,0.454985
+ILES Using the Correction Procedure via Reconstruction Scheme,A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,0.61247
+ILES Using the Correction Procedure via Reconstruction Scheme,An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,0.524766
+ILES Using the Correction Procedure via Reconstruction Scheme,Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,0.302185
+ILES Using the Correction Procedure via Reconstruction Scheme,A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,0.608052
+ILES Using the Correction Procedure via Reconstruction Scheme,An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,0.51448
+ILES Using the Correction Procedure via Reconstruction Scheme,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.796868
+Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,0.186531
+Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,0.253306
+Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,0.454376
+Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,0.511962
+Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,0.355159
+Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,0.742045
+Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,0.412861
+Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,0.437922
+Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,0.473022
+Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,0.555925
+Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,An Adjoint-Based Shape Optimization of Gas Turbine Blades,0.387509
+Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,0.285438
+Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,0.246698
+Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,0.905842
+Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,0.728894
+Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,0.567119
+Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,Newton-Krylov Full-Space Aerodynamic Shape Optimization,0.41624
+Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,0.429044
+Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,0.413752
+Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.0841
+Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,0.44855
+Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,0.889668
+Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.836058
+Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,0.888621
+Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,0.696224
+Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,Full-Space Goal Oriented Mesh Optimization,0.480171
+Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,0.740722
+Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,0.460782
+Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,0.3157
+Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,0.753926
+Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,0.80498
+Application of Bound-Preserving Limiters to the Nonlinearly Stable Flux Reconstruction High-Order Method,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.654691
+A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,0.2245
+A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,0.288085
+A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,0.224748
+A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,0.275305
+A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,0.29942
+A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,0.213863
+A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,0.211869
+A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,0.314922
+A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,0.295316
+A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,An Adjoint-Based Shape Optimization of Gas Turbine Blades,0.411748
+A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,0.215052
+A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,0.281394
+A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,0.235794
+A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,0.177206
+A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,0.277621
+A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,Newton-Krylov Full-Space Aerodynamic Shape Optimization,0.252436
+A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,0.291675
+A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,0.171792
+A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.170654
+A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,0.222158
+A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,0.198947
+A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.150894
+A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,0.227514
+A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,0.22263
+A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,Full-Space Goal Oriented Mesh Optimization,0.215148
+A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,0.292599
+A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,0.209489
+A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,0.175643
+A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,0.222463
+A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,0.144763
+A Third-generation In-flight Icing Code: FENSAP-ICE-Unsteady,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.262807
+Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,0.360006
+Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,0.433675
+Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,0.644559
+Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,0.288204
+Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,0.468552
+Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,0.488775
+Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,0.344689
+Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,0.296113
+Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,An Adjoint-Based Shape Optimization of Gas Turbine Blades,0.527471
+Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,0.68109
+Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,0.617124
+Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,0.259853
+Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,0.310664
+Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,0.380336
+Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,Newton-Krylov Full-Space Aerodynamic Shape Optimization,0.663819
+Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,0.416819
+Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,0.492504
+Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.129977
+Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,0.43421
+Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,0.279199
+Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.263878
+Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,0.315739
+Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,0.279645
+Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,Full-Space Goal Oriented Mesh Optimization,0.459201
+Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,0.277727
+Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,0.486022
+Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,0.342711
+Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,0.223254
+Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,0.228649
+Adjoint-Based Aerodynamic Design Optimization Using the Drag Decomposition Method,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.339556
+Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,0.493059
+Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,0.583985
+Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,0.517304
+Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,0.474747
+Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,0.526693
+Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,0.483308
+Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,0.479292
+Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,An Adjoint-Based Shape Optimization of Gas Turbine Blades,0.388843
+Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,0.345833
+Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,0.352753
+Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,0.492956
+Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,0.410461
+Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,0.455356
+Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,Newton-Krylov Full-Space Aerodynamic Shape Optimization,0.489096
+Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,0.423379
+Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,0.525865
+Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.105084
+Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,0.496004
+Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,0.450328
+Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.433453
+Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,0.483789
+Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,0.564226
+Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,Full-Space Goal Oriented Mesh Optimization,0.502742
+Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,0.556132
+Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,0.51129
+Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,0.375777
+Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,0.519103
+Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,0.365038
+Fine-grain Parallel Smoothing by Asynchronous Iterations and Incomplete Sparse Approximate Inverses for Computational Fluid Dynamics,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.551458
+Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,0.434632
+Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,0.451974
+Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,0.40991
+Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,0.43138
+Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,0.481694
+Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,0.46574
+Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,An Adjoint-Based Shape Optimization of Gas Turbine Blades,0.332806
+Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,0.350173
+Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,0.331776
+Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,0.524622
+Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,0.435678
+Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,0.450687
+Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,Newton-Krylov Full-Space Aerodynamic Shape Optimization,0.45221
+Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,0.613732
+Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,0.535974
+Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.088628
+Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,0.526514
+Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,0.513581
+Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.46179
+Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,0.562745
+Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,0.537984
+Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,Full-Space Goal Oriented Mesh Optimization,0.407783
+Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,0.455783
+Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,0.406074
+Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,0.339542
+Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,0.470479
+Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,0.45168
+Algorithmic Advanced for the Adaptive Non-Linear Frequency Domain Method.,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.573659
+Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,0.477236
+Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,0.540156
+Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,0.566393
+Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,0.341018
+Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,0.360619
+Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,An Adjoint-Based Shape Optimization of Gas Turbine Blades,0.538075
+Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,0.625334
+Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,0.625961
+Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,0.3275
+Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,0.312362
+Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,0.402257
+Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,Newton-Krylov Full-Space Aerodynamic Shape Optimization,0.730361
+Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,0.44978
+Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,0.611764
+Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.128456
+Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,0.511429
+Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,0.325937
+Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.287422
+Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,0.357347
+Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,0.392033
+Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,Full-Space Goal Oriented Mesh Optimization,0.545933
+Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,0.434646
+Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,0.557348
+Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,0.411625
+Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,0.360841
+Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,0.334051
+Truncated-Newton Method with Adjoint-based Hessian-vector Product for Aerodynamic Shape Optimization Problems,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.44754
+Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,0.384402
+Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,0.469175
+Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,0.439171
+Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,0.541054
+Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,An Adjoint-Based Shape Optimization of Gas Turbine Blades,0.433823
+Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,0.338771
+Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,0.316167
+Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,0.737568
+Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,0.522517
+Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,0.484311
+Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,Newton-Krylov Full-Space Aerodynamic Shape Optimization,0.472842
+Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,0.419046
+Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,0.38058
+Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.067219
+Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,0.462926
+Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,0.652855
+Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.593984
+Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,0.652444
+Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,0.645592
+Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,Full-Space Goal Oriented Mesh Optimization,0.437983
+Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,0.804595
+Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,0.460157
+Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,0.327865
+Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,0.748251
+Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,0.593529
+Fully Discrete Entropy-Stable Flux Reconstruction Scheme for Compressible Flows through the Relaxation Runge-Kutta Method,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.655781
+Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,0.909144
+Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,0.446244
+Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,0.474405
+Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,An Adjoint-Based Shape Optimization of Gas Turbine Blades,0.358655
+Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,0.420551
+Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,0.408117
+Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,0.40818
+Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,0.42111
+Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,0.472756
+Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,Newton-Krylov Full-Space Aerodynamic Shape Optimization,0.544308
+Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,0.46285
+Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,0.541952
+Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.163933
+Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,0.475901
+Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,0.423845
+Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.359385
+Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,0.423462
+Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,0.445257
+Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,Full-Space Goal Oriented Mesh Optimization,0.569131
+Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,0.464962
+Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,0.801758
+Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,0.388989
+Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,0.440044
+Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,0.385765
+Goal-Oriented Adaptive Sampling for Projection-Based Reduced-Order Models,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.428322
+Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,0.489267
+Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,0.516288
+Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,An Adjoint-Based Shape Optimization of Gas Turbine Blades,0.344813
+Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,0.4437
+Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,0.467169
+Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,0.411113
+Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,0.47865
+Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,0.521565
+Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,Newton-Krylov Full-Space Aerodynamic Shape Optimization,0.601729
+Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,0.450202
+Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,0.53769
+Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.182128
+Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,0.473098
+Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,0.420274
+Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.389116
+Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,0.410491
+Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,0.477725
+Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,Full-Space Goal Oriented Mesh Optimization,0.570107
+Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,0.539454
+Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,0.8288
+Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,0.397984
+Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,0.50295
+Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,0.447202
+Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models for Aerodynamic Flows,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.480884
+On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,0.683749
+On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,An Adjoint-Based Shape Optimization of Gas Turbine Blades,0.467254
+On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,0.408381
+On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,0.347518
+On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,0.498865
+On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,0.533026
+On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,0.697322
+On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,Newton-Krylov Full-Space Aerodynamic Shape Optimization,0.466448
+On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,0.624557
+On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,0.356748
+On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.207243
+On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,0.485895
+On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,0.469601
+On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.529194
+On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,0.496298
+On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,0.441351
+On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,Full-Space Goal Oriented Mesh Optimization,0.674336
+On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,0.535438
+On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,0.43627
+On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,0.33422
+On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,0.470515
+On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,0.39587
+On the a Posteriori Error Estimation in Mesh Adaptation to Improve CFD Solutions,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.527846
+Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,An Adjoint-Based Shape Optimization of Gas Turbine Blades,0.386727
+Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,0.334311
+Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,0.335662
+Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,0.580035
+Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,0.506881
+Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,0.629503
+Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,Newton-Krylov Full-Space Aerodynamic Shape Optimization,0.432028
+Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,0.541198
+Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,0.341397
+Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.211503
+Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,0.609861
+Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,0.535144
+Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.565711
+Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,0.561694
+Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,0.567663
+Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,Full-Space Goal Oriented Mesh Optimization,0.586607
+Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,0.52645
+Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,0.477305
+Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,0.383778
+Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,0.504551
+Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,0.458823
+Assessment of Numerical Dissipation Techniques for Mesh Adaptation in Large Eddy Simulation,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.571393
+An Adjoint-Based Shape Optimization of Gas Turbine Blades,Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,0.649107
+An Adjoint-Based Shape Optimization of Gas Turbine Blades,Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,0.406573
+An Adjoint-Based Shape Optimization of Gas Turbine Blades,Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,0.378369
+An Adjoint-Based Shape Optimization of Gas Turbine Blades,Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,0.378163
+An Adjoint-Based Shape Optimization of Gas Turbine Blades,Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,0.408116
+An Adjoint-Based Shape Optimization of Gas Turbine Blades,Newton-Krylov Full-Space Aerodynamic Shape Optimization,0.516812
+An Adjoint-Based Shape Optimization of Gas Turbine Blades,Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,0.347484
+An Adjoint-Based Shape Optimization of Gas Turbine Blades,GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,0.373672
+An Adjoint-Based Shape Optimization of Gas Turbine Blades,Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.103107
+An Adjoint-Based Shape Optimization of Gas Turbine Blades,Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,0.345515
+An Adjoint-Based Shape Optimization of Gas Turbine Blades,Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,0.355894
+An Adjoint-Based Shape Optimization of Gas Turbine Blades,Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.360605
+An Adjoint-Based Shape Optimization of Gas Turbine Blades,Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,0.387251
+An Adjoint-Based Shape Optimization of Gas Turbine Blades,On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,0.367746
+An Adjoint-Based Shape Optimization of Gas Turbine Blades,Full-Space Goal Oriented Mesh Optimization,0.497827
+An Adjoint-Based Shape Optimization of Gas Turbine Blades,A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,0.43288
+An Adjoint-Based Shape Optimization of Gas Turbine Blades,An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,0.379031
+An Adjoint-Based Shape Optimization of Gas Turbine Blades,Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,0.266761
+An Adjoint-Based Shape Optimization of Gas Turbine Blades,A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,0.347028
+An Adjoint-Based Shape Optimization of Gas Turbine Blades,An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,0.325302
+An Adjoint-Based Shape Optimization of Gas Turbine Blades,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.400956
+Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,0.529079
+Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,0.233824
+Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,0.261233
+Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,0.410072
+Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,Newton-Krylov Full-Space Aerodynamic Shape Optimization,0.676043
+Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,0.370597
+Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,0.386817
+Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.147957
+Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,0.467128
+Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,0.229267
+Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.236411
+Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,0.276076
+Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,0.326266
+Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,Full-Space Goal Oriented Mesh Optimization,0.506704
+Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,0.372293
+Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,0.469784
+Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,0.344374
+Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,0.259454
+Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,0.262745
+Constrained Adjoint-Based Aerodynamic Shape Optimization in a Multistage Turbomachinery Environment,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.37128
+Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,0.241867
+Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,0.259488
+Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,0.388804
+Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,Newton-Krylov Full-Space Aerodynamic Shape Optimization,0.620768
+Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,0.350166
+Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,0.328973
+Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.151016
+Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,0.389401
+Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,0.236236
+Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.212299
+Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,0.272474
+Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,0.229658
+Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,Full-Space Goal Oriented Mesh Optimization,0.469937
+Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,0.280033
+Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,0.418306
+Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,0.369241
+Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,0.212488
+Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,0.177411
+Comparitive Study of Two Optimization Frameworks Applied to Case III: Induced-Drag Minimization,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.263267
+Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,0.762549
+Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,0.593386
+Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,Newton-Krylov Full-Space Aerodynamic Shape Optimization,0.39798
+Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,0.448412
+Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,0.430442
+Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.128229
+Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,0.452685
+Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,0.936571
+Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.860066
+Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,0.934889
+Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,0.647498
+Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,Full-Space Goal Oriented Mesh Optimization,0.498691
+Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,0.715169
+Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,0.430573
+Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,0.27405
+Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,0.736541
+Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,0.660211
+Nonlinearly Stable Split Forms for the Weight-Adjusted Flux Reconstruction High-Order Method: Curvilinear Numerical Validation,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.62694
+Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,0.632668
+Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,Newton-Krylov Full-Space Aerodynamic Shape Optimization,0.447988
+Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,0.470409
+Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,0.451935
+Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.142404
+Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,0.288375
+Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,0.78437
+Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.81807
+Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,0.721636
+Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,0.538488
+Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,Full-Space Goal Oriented Mesh Optimization,0.516741
+Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,0.608836
+Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,0.488993
+Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,0.245642
+Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,0.693564
+Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,0.682017
+Equivalence between the Energy Stable Flux Reconstruction and Filtered Discontinuous Galerkin Schemes: Numerical Validation,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.549362
+Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,Newton-Krylov Full-Space Aerodynamic Shape Optimization,0.604644
+Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,0.574731
+Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,0.362482
+Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.280915
+Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,0.454517
+Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,0.554256
+Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.570067
+Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,0.572902
+Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,0.423224
+Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,Full-Space Goal Oriented Mesh Optimization,0.654813
+Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,0.53082
+Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,0.489094
+Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,0.366126
+Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,0.584562
+Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,0.480327
+Unstructured Anisotropic Mesh Adaptation for Quads Based on a Local Error Model,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.478562
+Newton-Krylov Full-Space Aerodynamic Shape Optimization,Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,0.48492
+Newton-Krylov Full-Space Aerodynamic Shape Optimization,GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,0.483589
+Newton-Krylov Full-Space Aerodynamic Shape Optimization,Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.152827
+Newton-Krylov Full-Space Aerodynamic Shape Optimization,Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,0.47151
+Newton-Krylov Full-Space Aerodynamic Shape Optimization,Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,0.391599
+Newton-Krylov Full-Space Aerodynamic Shape Optimization,Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.376401
+Newton-Krylov Full-Space Aerodynamic Shape Optimization,Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,0.412042
+Newton-Krylov Full-Space Aerodynamic Shape Optimization,On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,0.409544
+Newton-Krylov Full-Space Aerodynamic Shape Optimization,Full-Space Goal Oriented Mesh Optimization,0.670319
+Newton-Krylov Full-Space Aerodynamic Shape Optimization,A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,0.471591
+Newton-Krylov Full-Space Aerodynamic Shape Optimization,An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,0.600287
+Newton-Krylov Full-Space Aerodynamic Shape Optimization,Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,0.371439
+Newton-Krylov Full-Space Aerodynamic Shape Optimization,A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,0.443275
+Newton-Krylov Full-Space Aerodynamic Shape Optimization,An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,0.384011
+Newton-Krylov Full-Space Aerodynamic Shape Optimization,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.477225
+Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,0.468635
+Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.144427
+Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,0.439761
+Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,0.444303
+Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.414311
+Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,0.473594
+Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,0.436703
+Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,Full-Space Goal Oriented Mesh Optimization,0.497543
+Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,0.460455
+Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,0.441797
+Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,0.251709
+Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,0.403115
+Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,0.387253
+Dynamic Mesh Deformation with Radial Basis Functions for the Non-Linear Frequency Domain Method,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.528438
+GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.152444
+GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,0.41286
+GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,0.436371
+GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.42575
+GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,0.449565
+GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,0.433082
+GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,Full-Space Goal Oriented Mesh Optimization,0.412168
+GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,0.428349
+GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,0.547715
+GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,0.33245
+GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,0.396105
+GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,0.434309
+GCRO with Dynamic Deflated Restarting for Solving Adjoint Systems of Equations for Aerodynamic Shape Optimization,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.476327
+Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,0.159928
+Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,0.135729
+Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.137637
+Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,0.1369
+Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,0.036283
+Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,Full-Space Goal Oriented Mesh Optimization,0.190995
+Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,0.091937
+Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,0.155736
+Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,0.145428
+Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,0.097082
+Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,0.081229
+Correction: Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.094087
+Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,0.429875
+Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.381143
+Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,0.484812
+Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,0.499167
+Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,Full-Space Goal Oriented Mesh Optimization,0.513451
+Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,0.48454
+Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,0.382294
+Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,0.630501
+Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,0.412495
+Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,0.348013
+Adjoint-based Error Estimation for Grid Adaptation for Large Eddy Simulation,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.541385
+Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,0.885334
+Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,0.904559
+Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,0.622904
+Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,Full-Space Goal Oriented Mesh Optimization,0.479077
+Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,0.645479
+Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,0.430311
+Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,0.267056
+Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,0.692456
+Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,0.689375
+Entropy Stable Split Forms for the Flux Reconstruction High-Order Method: Numerical Validation,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.621806
+Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,0.829458
+Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,0.59002
+Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,Full-Space Goal Oriented Mesh Optimization,0.525236
+Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,0.655259
+Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,0.40935
+Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,0.274299
+Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,0.71994
+Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,0.694346
+Stability of Energy Stable Flux Reconstruction for the Diffusion Problem using Compact Numerical Fluxes on Quadrilateral Elements,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.586624
+Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,0.675606
+Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,Full-Space Goal Oriented Mesh Optimization,0.491134
+Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,0.711852
+Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,0.413968
+Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,0.312091
+Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,0.654782
+Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,0.649392
+Entropy Stable Weight-Adjusted Flux Reconstruction High-Order Method in Split Form for Compressible Flows on Curvilinear Grids,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.611928
+On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,Full-Space Goal Oriented Mesh Optimization,0.38966
+On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,0.698638
+On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,0.452959
+On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,0.31976
+On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,0.617136
+On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,0.641324
+On the Use of Nonlinearly Stable Flux Reconstruction for Implicitly Filtered Large Eddy Simulation,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.792637
+Full-Space Goal Oriented Mesh Optimization,A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,0.50634
+Full-Space Goal Oriented Mesh Optimization,An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,0.566895
+Full-Space Goal Oriented Mesh Optimization,Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,0.423052
+Full-Space Goal Oriented Mesh Optimization,A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,0.470586
+Full-Space Goal Oriented Mesh Optimization,An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,0.403804
+Full-Space Goal Oriented Mesh Optimization,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.418409
+A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,0.490816
+A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,0.408139
+A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,0.772869
+A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,0.634097
+A Fully-Discrete Nonlinearly-Stable Flux Reconstruction Scheme using Implicit Runge-Kutta for the Navier-Stokes Equations,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.639373
+An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,0.342219
+An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,0.521655
+An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,0.451756
+An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.457387
+Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,0.356723
+Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,0.311786
+Sensitivity Analysis of Turbulent Flows Using Adjoint Stabilized March,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.29067
+A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,0.67543
+A Space-Time Approach to Nonlinearly Stable Flux Reconstruction,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.598416
+An Adaptive Flux Reconstruction Scheme for Robust Shock Capturing,Nonlinearly Stable Flux Reconstruction for Aerodynamic Transitional Flow Simulations,0.597015

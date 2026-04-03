@@ -1,0 +1,11 @@
+title_i,title_j,cosine_similarity
+Goal-oriented adaptive sampling for projection-based reduced-order models,Ensemble approaches for leveraging machine learning models in load estimation,0.358802
+Goal-oriented adaptive sampling for projection-based reduced-order models,On failure prediction and failure identification modeling in a gas turbine system: a survey of classification approaches in a three-class problem,0.134345
+Goal-oriented adaptive sampling for projection-based reduced-order models,An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,0.766029
+Goal-oriented adaptive sampling for projection-based reduced-order models,A Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models with Hyperreduction,0.76461
+Ensemble approaches for leveraging machine learning models in load estimation,On failure prediction and failure identification modeling in a gas turbine system: a survey of classification approaches in a three-class problem,0.497085
+Ensemble approaches for leveraging machine learning models in load estimation,An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,0.355425
+Ensemble approaches for leveraging machine learning models in load estimation,A Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models with Hyperreduction,0.345894
+On failure prediction and failure identification modeling in a gas turbine system: a survey of classification approaches in a three-class problem,An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,0.176178
+On failure prediction and failure identification modeling in a gas turbine system: a survey of classification approaches in a three-class problem,A Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models with Hyperreduction,0.154483
+An Adaptive Sampling Procedure with Hyperreduction for Non-linear Petrov-Galerkin Reduced-Order Models,A Goal-Oriented Adaptive Sampling Procedure for Projection-Based Reduced-Order Models with Hyperreduction,0.976231

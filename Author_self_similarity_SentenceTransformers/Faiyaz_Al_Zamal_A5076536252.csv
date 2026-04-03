@@ -1,0 +1,16 @@
+title_i,title_j,cosine_similarity
+Homophily and Latent Attribute Inference: Inferring Latent Attributes of Twitter Users from Neighbors,Using Social Media to Infer Gender Composition of Commuter Populations,0.564438
+Homophily and Latent Attribute Inference: Inferring Latent Attributes of Twitter Users from Neighbors,Goodreads Versus Amazon: The Effect of Decoupling Book Reviewing And Book Selling,0.298016
+Homophily and Latent Attribute Inference: Inferring Latent Attributes of Twitter Users from Neighbors,Tackling the Challenges of Situational Awareness Extraction in Twitter with an Adaptive Approach,0.355507
+Homophily and Latent Attribute Inference: Inferring Latent Attributes of Twitter Users from Neighbors,"A Method for the Automated, Reliable Retrieval of Publication-Citation Records",0.268322
+Homophily and Latent Attribute Inference: Inferring Latent Attributes of Twitter Users from Neighbors,On the contributions of topological features to transcriptional regulatory network robustness,0.060093
+Using Social Media to Infer Gender Composition of Commuter Populations,Goodreads Versus Amazon: The Effect of Decoupling Book Reviewing And Book Selling,0.343889
+Using Social Media to Infer Gender Composition of Commuter Populations,Tackling the Challenges of Situational Awareness Extraction in Twitter with an Adaptive Approach,0.410731
+Using Social Media to Infer Gender Composition of Commuter Populations,"A Method for the Automated, Reliable Retrieval of Publication-Citation Records",0.287626
+Using Social Media to Infer Gender Composition of Commuter Populations,On the contributions of topological features to transcriptional regulatory network robustness,0.038313
+Goodreads Versus Amazon: The Effect of Decoupling Book Reviewing And Book Selling,Tackling the Challenges of Situational Awareness Extraction in Twitter with an Adaptive Approach,0.176245
+Goodreads Versus Amazon: The Effect of Decoupling Book Reviewing And Book Selling,"A Method for the Automated, Reliable Retrieval of Publication-Citation Records",0.287883
+Goodreads Versus Amazon: The Effect of Decoupling Book Reviewing And Book Selling,On the contributions of topological features to transcriptional regulatory network robustness,0.031829
+Tackling the Challenges of Situational Awareness Extraction in Twitter with an Adaptive Approach,"A Method for the Automated, Reliable Retrieval of Publication-Citation Records",0.22374
+Tackling the Challenges of Situational Awareness Extraction in Twitter with an Adaptive Approach,On the contributions of topological features to transcriptional regulatory network robustness,0.030909
+"A Method for the Automated, Reliable Retrieval of Publication-Citation Records",On the contributions of topological features to transcriptional regulatory network robustness,0.145508

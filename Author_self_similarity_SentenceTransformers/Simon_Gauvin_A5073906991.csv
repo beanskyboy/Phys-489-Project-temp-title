@@ -1,0 +1,11 @@
+title_i,title_j,cosine_similarity
+Initial single-centre Canadian experience with 18F-fluoromethylcholine positron emission tomography-computed tomography (18F-FCH PET/ CT) for biochemical recurrence in prostate cancer patients initially treated with curative intent,18F-fluorocholine positron emission tomography-computed tomography (18F-FCH PET/CT) for staging of high-risk prostate cancer patients,0.609796
+Initial single-centre Canadian experience with 18F-fluoromethylcholine positron emission tomography-computed tomography (18F-FCH PET/ CT) for biochemical recurrence in prostate cancer patients initially treated with curative intent,Is PI-RADS Ready for Biparametric Prostate MRI?,0.046448
+Initial single-centre Canadian experience with 18F-fluoromethylcholine positron emission tomography-computed tomography (18F-FCH PET/ CT) for biochemical recurrence in prostate cancer patients initially treated with curative intent,Deep learning reconstruction in biparametric prostate MRI: Impact on qualitative and radiomics analyses,0.369493
+Initial single-centre Canadian experience with 18F-fluoromethylcholine positron emission tomography-computed tomography (18F-FCH PET/ CT) for biochemical recurrence in prostate cancer patients initially treated with curative intent,Red blood cell disposition of mitoxantrone,0.268715
+18F-fluorocholine positron emission tomography-computed tomography (18F-FCH PET/CT) for staging of high-risk prostate cancer patients,Is PI-RADS Ready for Biparametric Prostate MRI?,0.040283
+18F-fluorocholine positron emission tomography-computed tomography (18F-FCH PET/CT) for staging of high-risk prostate cancer patients,Deep learning reconstruction in biparametric prostate MRI: Impact on qualitative and radiomics analyses,0.340339
+18F-fluorocholine positron emission tomography-computed tomography (18F-FCH PET/CT) for staging of high-risk prostate cancer patients,Red blood cell disposition of mitoxantrone,0.157473
+Is PI-RADS Ready for Biparametric Prostate MRI?,Deep learning reconstruction in biparametric prostate MRI: Impact on qualitative and radiomics analyses,0.147581
+Is PI-RADS Ready for Biparametric Prostate MRI?,Red blood cell disposition of mitoxantrone,0.10578
+Deep learning reconstruction in biparametric prostate MRI: Impact on qualitative and radiomics analyses,Red blood cell disposition of mitoxantrone,0.148485

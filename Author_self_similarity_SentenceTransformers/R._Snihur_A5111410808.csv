@@ -1,4 +1,4 @@
-abstract_i,abstract_j,cosine_similarity
-0,1,0.700899
-0,2,0.712615
-1,2,0.696948
+title_i,title_j,cosine_similarity
+Search for the supersymmetric partner of the top quark in dileption events from pp colisions at ûs = 1.8TeV,Search for quark-lepton compositeness and a heavy W boson using the ev channel in pp(overbar) collisions at (square root)s = 1.8 TeV,0.712615
+Search for the supersymmetric partner of the top quark in dileption events from pp colisions at ûs = 1.8TeV,Search for Long-Lived Charged Massive Particles in anti-p p Collisions at sqrt(s)=1.8 TeV,0.696948
+Search for quark-lepton compositeness and a heavy W boson using the ev channel in pp(overbar) collisions at (square root)s = 1.8 TeV,Search for Long-Lived Charged Massive Particles in anti-p p Collisions at sqrt(s)=1.8 TeV,0.700899

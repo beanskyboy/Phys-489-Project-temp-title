@@ -1,0 +1,46 @@
+title_i,title_j,cosine_similarity
+Mapper of the IGM spin temperature: instrument overview,CHIME/FRB Outriggers: KKO Station System and Commissioning Results,0.551193
+Mapper of the IGM spin temperature: instrument overview,Simulating the Detection of the Global 21 cm Signal with MIST for Different Models of the Soil and Beam Directivity,0.786047
+Mapper of the IGM spin temperature: instrument overview,CHIME/FRB Outriggers: Design Overview,0.563561
+Mapper of the IGM spin temperature: instrument overview,Estimating Soil Electrical Parameters in the Canadian High Arctic From Impedance Measurements of the MIST Antenna Above the Surface,0.673568
+Mapper of the IGM spin temperature: instrument overview,Deployment of an RFSoC-Based Correlator at the Deep Dish Development Array,0.536019
+Mapper of the IGM spin temperature: instrument overview,F-Engine Development Towards a CHORD Pathfinder Array,0.605342
+Mapper of the IGM spin temperature: instrument overview,Status of the MIST Global 21-cm Experiment,0.54301
+Mapper of the IGM spin temperature: instrument overview,Using the Antenna Impedance to Estimate Soil Electrical Parameters for the MIST Global 21 cm Experiment,0.632565
+Mapper of the IGM spin temperature: instrument overview,Comment on egusphere-2026-428,0.269479
+CHIME/FRB Outriggers: KKO Station System and Commissioning Results,Simulating the Detection of the Global 21 cm Signal with MIST for Different Models of the Soil and Beam Directivity,0.416664
+CHIME/FRB Outriggers: KKO Station System and Commissioning Results,CHIME/FRB Outriggers: Design Overview,0.907464
+CHIME/FRB Outriggers: KKO Station System and Commissioning Results,Estimating Soil Electrical Parameters in the Canadian High Arctic From Impedance Measurements of the MIST Antenna Above the Surface,0.407667
+CHIME/FRB Outriggers: KKO Station System and Commissioning Results,Deployment of an RFSoC-Based Correlator at the Deep Dish Development Array,0.708641
+CHIME/FRB Outriggers: KKO Station System and Commissioning Results,F-Engine Development Towards a CHORD Pathfinder Array,0.735593
+CHIME/FRB Outriggers: KKO Station System and Commissioning Results,Status of the MIST Global 21-cm Experiment,0.54398
+CHIME/FRB Outriggers: KKO Station System and Commissioning Results,Using the Antenna Impedance to Estimate Soil Electrical Parameters for the MIST Global 21 cm Experiment,0.355256
+CHIME/FRB Outriggers: KKO Station System and Commissioning Results,Comment on egusphere-2026-428,0.23537
+Simulating the Detection of the Global 21 cm Signal with MIST for Different Models of the Soil and Beam Directivity,CHIME/FRB Outriggers: Design Overview,0.424359
+Simulating the Detection of the Global 21 cm Signal with MIST for Different Models of the Soil and Beam Directivity,Estimating Soil Electrical Parameters in the Canadian High Arctic From Impedance Measurements of the MIST Antenna Above the Surface,0.73924
+Simulating the Detection of the Global 21 cm Signal with MIST for Different Models of the Soil and Beam Directivity,Deployment of an RFSoC-Based Correlator at the Deep Dish Development Array,0.443387
+Simulating the Detection of the Global 21 cm Signal with MIST for Different Models of the Soil and Beam Directivity,F-Engine Development Towards a CHORD Pathfinder Array,0.487623
+Simulating the Detection of the Global 21 cm Signal with MIST for Different Models of the Soil and Beam Directivity,Status of the MIST Global 21-cm Experiment,0.513901
+Simulating the Detection of the Global 21 cm Signal with MIST for Different Models of the Soil and Beam Directivity,Using the Antenna Impedance to Estimate Soil Electrical Parameters for the MIST Global 21 cm Experiment,0.77235
+Simulating the Detection of the Global 21 cm Signal with MIST for Different Models of the Soil and Beam Directivity,Comment on egusphere-2026-428,0.289346
+CHIME/FRB Outriggers: Design Overview,Estimating Soil Electrical Parameters in the Canadian High Arctic From Impedance Measurements of the MIST Antenna Above the Surface,0.422628
+CHIME/FRB Outriggers: Design Overview,Deployment of an RFSoC-Based Correlator at the Deep Dish Development Array,0.759753
+CHIME/FRB Outriggers: Design Overview,F-Engine Development Towards a CHORD Pathfinder Array,0.762546
+CHIME/FRB Outriggers: Design Overview,Status of the MIST Global 21-cm Experiment,0.568964
+CHIME/FRB Outriggers: Design Overview,Using the Antenna Impedance to Estimate Soil Electrical Parameters for the MIST Global 21 cm Experiment,0.356973
+CHIME/FRB Outriggers: Design Overview,Comment on egusphere-2026-428,0.235065
+Estimating Soil Electrical Parameters in the Canadian High Arctic From Impedance Measurements of the MIST Antenna Above the Surface,Deployment of an RFSoC-Based Correlator at the Deep Dish Development Array,0.487789
+Estimating Soil Electrical Parameters in the Canadian High Arctic From Impedance Measurements of the MIST Antenna Above the Surface,F-Engine Development Towards a CHORD Pathfinder Array,0.510517
+Estimating Soil Electrical Parameters in the Canadian High Arctic From Impedance Measurements of the MIST Antenna Above the Surface,Status of the MIST Global 21-cm Experiment,0.38273
+Estimating Soil Electrical Parameters in the Canadian High Arctic From Impedance Measurements of the MIST Antenna Above the Surface,Using the Antenna Impedance to Estimate Soil Electrical Parameters for the MIST Global 21 cm Experiment,0.783786
+Estimating Soil Electrical Parameters in the Canadian High Arctic From Impedance Measurements of the MIST Antenna Above the Surface,Comment on egusphere-2026-428,0.515413
+Deployment of an RFSoC-Based Correlator at the Deep Dish Development Array,F-Engine Development Towards a CHORD Pathfinder Array,0.896976
+Deployment of an RFSoC-Based Correlator at the Deep Dish Development Array,Status of the MIST Global 21-cm Experiment,0.484925
+Deployment of an RFSoC-Based Correlator at the Deep Dish Development Array,Using the Antenna Impedance to Estimate Soil Electrical Parameters for the MIST Global 21 cm Experiment,0.443542
+Deployment of an RFSoC-Based Correlator at the Deep Dish Development Array,Comment on egusphere-2026-428,0.268621
+F-Engine Development Towards a CHORD Pathfinder Array,Status of the MIST Global 21-cm Experiment,0.598043
+F-Engine Development Towards a CHORD Pathfinder Array,Using the Antenna Impedance to Estimate Soil Electrical Parameters for the MIST Global 21 cm Experiment,0.456943
+F-Engine Development Towards a CHORD Pathfinder Array,Comment on egusphere-2026-428,0.252194
+Status of the MIST Global 21-cm Experiment,Using the Antenna Impedance to Estimate Soil Electrical Parameters for the MIST Global 21 cm Experiment,0.408548
+Status of the MIST Global 21-cm Experiment,Comment on egusphere-2026-428,0.119471
+Using the Antenna Impedance to Estimate Soil Electrical Parameters for the MIST Global 21 cm Experiment,Comment on egusphere-2026-428,0.283911

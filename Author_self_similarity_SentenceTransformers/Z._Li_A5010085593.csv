@@ -1,37 +1,29 @@
-abstract_i,abstract_j,cosine_similarity
-0,1,0.261985
-0,2,0.278045
-0,3,-0.034709
-0,4,0.341363
-0,5,-0.025434
-0,6,0.413287
-0,7,0.019277
-0,8,0.262368
-1,2,0.270206
-1,3,0.065852
-1,4,0.373417
-1,5,0.04226
-1,6,0.395578
-1,7,-0.01539
-1,8,0.989656
-2,3,-0.019379
-2,4,0.290742
-2,5,-0.021058
-2,6,0.331764
-2,7,0.148062
-2,8,0.259631
-3,4,0.115355
-3,5,-0.02764
-3,6,0.096769
-3,7,-0.028089
-3,8,0.066868
-4,5,-0.030092
-4,6,0.911238
-4,7,-0.031459
-4,8,0.379805
-5,6,-0.044387
-5,7,-0.055294
-5,8,0.040532
-6,7,-0.043718
-6,8,0.401101
-7,8,-0.029287
+title_i,title_j,cosine_similarity
+New biomarkers in IgA nephropathy,Beam commissioning and beam loss control for CSNS accelerators,-0.021058
+New biomarkers in IgA nephropathy,Application of quantum machine learning in a Higgs physics study at the CEPC,0.04226
+New biomarkers in IgA nephropathy,Top quark mass measurements at the $$t\bar{t}$$ threshold with CEPC,-0.030092
+New biomarkers in IgA nephropathy,"The Q-spectral radius and [a,b]-factors of graphs",-0.02764
+New biomarkers in IgA nephropathy,Effect of Annealing on the Magnetic Properties of FeCoNiCuNbSiB Soft Magnetic Alloys,-0.055294
+New biomarkers in IgA nephropathy,"HEPS-BPIX, a hybrid pixel detector system for the High Energy Photon Source in China",-0.025434
+New biomarkers in IgA nephropathy,Top quark mass measurements at the $t\bar{t}$ threshold with CEPC,-0.044387
+Beam commissioning and beam loss control for CSNS accelerators,Application of quantum machine learning in a Higgs physics study at the CEPC,0.270206
+Beam commissioning and beam loss control for CSNS accelerators,Top quark mass measurements at the $$t\bar{t}$$ threshold with CEPC,0.290742
+Beam commissioning and beam loss control for CSNS accelerators,"The Q-spectral radius and [a,b]-factors of graphs",-0.019379
+Beam commissioning and beam loss control for CSNS accelerators,Effect of Annealing on the Magnetic Properties of FeCoNiCuNbSiB Soft Magnetic Alloys,0.148062
+Beam commissioning and beam loss control for CSNS accelerators,"HEPS-BPIX, a hybrid pixel detector system for the High Energy Photon Source in China",0.278045
+Beam commissioning and beam loss control for CSNS accelerators,Top quark mass measurements at the $t\bar{t}$ threshold with CEPC,0.331764
+Application of quantum machine learning in a Higgs physics study at the CEPC,Top quark mass measurements at the $$t\bar{t}$$ threshold with CEPC,0.373417
+Application of quantum machine learning in a Higgs physics study at the CEPC,"The Q-spectral radius and [a,b]-factors of graphs",0.065852
+Application of quantum machine learning in a Higgs physics study at the CEPC,Effect of Annealing on the Magnetic Properties of FeCoNiCuNbSiB Soft Magnetic Alloys,-0.01539
+Application of quantum machine learning in a Higgs physics study at the CEPC,"HEPS-BPIX, a hybrid pixel detector system for the High Energy Photon Source in China",0.261985
+Application of quantum machine learning in a Higgs physics study at the CEPC,Top quark mass measurements at the $t\bar{t}$ threshold with CEPC,0.395578
+Top quark mass measurements at the $$t\bar{t}$$ threshold with CEPC,"The Q-spectral radius and [a,b]-factors of graphs",0.115355
+Top quark mass measurements at the $$t\bar{t}$$ threshold with CEPC,Effect of Annealing on the Magnetic Properties of FeCoNiCuNbSiB Soft Magnetic Alloys,-0.031459
+Top quark mass measurements at the $$t\bar{t}$$ threshold with CEPC,"HEPS-BPIX, a hybrid pixel detector system for the High Energy Photon Source in China",0.341363
+Top quark mass measurements at the $$t\bar{t}$$ threshold with CEPC,Top quark mass measurements at the $t\bar{t}$ threshold with CEPC,0.911238
+"The Q-spectral radius and [a,b]-factors of graphs",Effect of Annealing on the Magnetic Properties of FeCoNiCuNbSiB Soft Magnetic Alloys,-0.028089
+"The Q-spectral radius and [a,b]-factors of graphs","HEPS-BPIX, a hybrid pixel detector system for the High Energy Photon Source in China",-0.034709
+"The Q-spectral radius and [a,b]-factors of graphs",Top quark mass measurements at the $t\bar{t}$ threshold with CEPC,0.096769
+Effect of Annealing on the Magnetic Properties of FeCoNiCuNbSiB Soft Magnetic Alloys,"HEPS-BPIX, a hybrid pixel detector system for the High Energy Photon Source in China",0.019277
+Effect of Annealing on the Magnetic Properties of FeCoNiCuNbSiB Soft Magnetic Alloys,Top quark mass measurements at the $t\bar{t}$ threshold with CEPC,-0.043718
+"HEPS-BPIX, a hybrid pixel detector system for the High Energy Photon Source in China",Top quark mass measurements at the $t\bar{t}$ threshold with CEPC,0.413287

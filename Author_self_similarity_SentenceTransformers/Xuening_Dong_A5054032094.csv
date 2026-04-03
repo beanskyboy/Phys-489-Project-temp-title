@@ -1,0 +1,22 @@
+title_i,title_j,cosine_similarity
+Seizure Detection and Prediction by Parallel Memristive Convolutional Neural Networks,Formal Models for Intelligent Speed Validation and Adaptation,0.065185
+Seizure Detection and Prediction by Parallel Memristive Convolutional Neural Networks,Efficient Memristive Stochastic Differential Equation Solver,0.426041
+Seizure Detection and Prediction by Parallel Memristive Convolutional Neural Networks,Pruning and optimization of optical neural network as a binary optical trigger,0.471679
+Seizure Detection and Prediction by Parallel Memristive Convolutional Neural Networks,In-Memory Memristive Transformation Stage of Gaussian Random Number Generator,0.452069
+Seizure Detection and Prediction by Parallel Memristive Convolutional Neural Networks,HUXIN: In-Memory Crossbar Core for Integration of Biologically Inspired Stochastic Neuron Models,0.487707
+Seizure Detection and Prediction by Parallel Memristive Convolutional Neural Networks,Low-Power Face Recognition Using Joint Optical and Electronic Deep Neural Networks,0.403804
+Formal Models for Intelligent Speed Validation and Adaptation,Efficient Memristive Stochastic Differential Equation Solver,0.125712
+Formal Models for Intelligent Speed Validation and Adaptation,Pruning and optimization of optical neural network as a binary optical trigger,0.115234
+Formal Models for Intelligent Speed Validation and Adaptation,In-Memory Memristive Transformation Stage of Gaussian Random Number Generator,0.039653
+Formal Models for Intelligent Speed Validation and Adaptation,HUXIN: In-Memory Crossbar Core for Integration of Biologically Inspired Stochastic Neuron Models,0.123241
+Formal Models for Intelligent Speed Validation and Adaptation,Low-Power Face Recognition Using Joint Optical and Electronic Deep Neural Networks,0.126261
+Efficient Memristive Stochastic Differential Equation Solver,Pruning and optimization of optical neural network as a binary optical trigger,0.296494
+Efficient Memristive Stochastic Differential Equation Solver,In-Memory Memristive Transformation Stage of Gaussian Random Number Generator,0.532108
+Efficient Memristive Stochastic Differential Equation Solver,HUXIN: In-Memory Crossbar Core for Integration of Biologically Inspired Stochastic Neuron Models,0.640089
+Efficient Memristive Stochastic Differential Equation Solver,Low-Power Face Recognition Using Joint Optical and Electronic Deep Neural Networks,0.150855
+Pruning and optimization of optical neural network as a binary optical trigger,In-Memory Memristive Transformation Stage of Gaussian Random Number Generator,0.384416
+Pruning and optimization of optical neural network as a binary optical trigger,HUXIN: In-Memory Crossbar Core for Integration of Biologically Inspired Stochastic Neuron Models,0.369717
+Pruning and optimization of optical neural network as a binary optical trigger,Low-Power Face Recognition Using Joint Optical and Electronic Deep Neural Networks,0.553284
+In-Memory Memristive Transformation Stage of Gaussian Random Number Generator,HUXIN: In-Memory Crossbar Core for Integration of Biologically Inspired Stochastic Neuron Models,0.424927
+In-Memory Memristive Transformation Stage of Gaussian Random Number Generator,Low-Power Face Recognition Using Joint Optical and Electronic Deep Neural Networks,0.249711
+HUXIN: In-Memory Crossbar Core for Integration of Biologically Inspired Stochastic Neuron Models,Low-Power Face Recognition Using Joint Optical and Electronic Deep Neural Networks,0.172249

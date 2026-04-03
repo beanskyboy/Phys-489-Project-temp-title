@@ -1,0 +1,352 @@
+title_i,title_j,cosine_similarity
+Incorporating dynamic flight network in SEIR to model mobility between populations,Laplacian Change Point Detection for Single and Multi-view Dynamic Graphs,0.354984
+Incorporating dynamic flight network in SEIR to model mobility between populations,"Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures",0.138358
+Incorporating dynamic flight network in SEIR to model mobility between populations,Temporal Graph Analysis with TGX,0.331714
+Incorporating dynamic flight network in SEIR to model mobility between populations,Static graph approximations of dynamic contact networks for epidemic forecasting,0.665705
+Incorporating dynamic flight network in SEIR to model mobility between populations,Understanding Capacity Saturation in Incremental Learning,0.033908
+Incorporating dynamic flight network in SEIR to model mobility between populations,Towards Better Evaluation for Dynamic Link Prediction,0.13646
+Incorporating dynamic flight network in SEIR to model mobility between populations,Temporal Graph Benchmark for Machine Learning on Temporal Graphs,0.276045
+Incorporating dynamic flight network in SEIR to model mobility between populations,Neural Architecture Search for Class-incremental Learning,0.04732
+Incorporating dynamic flight network in SEIR to model mobility between populations,RandomNet: Towards Fully Automatic Neural Architecture Design for Multimodal Learning,-0.003644
+Incorporating dynamic flight network in SEIR to model mobility between populations,GPS++: Reviving the Art of Message Passing for Molecular Property Prediction,0.081879
+Incorporating dynamic flight network in SEIR to model mobility between populations,Contact Graph Epidemic Modelling of COVID-19 for Transmission and Intervention Strategies,0.712598
+Incorporating dynamic flight network in SEIR to model mobility between populations,Towards Temporal Edge Regression: A Case Study on Agriculture Trade Between Nations,0.22514
+Incorporating dynamic flight network in SEIR to model mobility between populations,Temporal Graph Rewiring with Expander Graphs,0.224302
+Incorporating dynamic flight network in SEIR to model mobility between populations,ContextGNN: Beyond Two-Tower Recommendation Systems,0.061041
+Incorporating dynamic flight network in SEIR to model mobility between populations,Fast and Attributed Change Detection on Dynamic Graphs with Density of States,0.359288
+Incorporating dynamic flight network in SEIR to model mobility between populations,Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets,0.103482
+Incorporating dynamic flight network in SEIR to model mobility between populations,Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets (Ultra Large Dataset),0.103482
+Incorporating dynamic flight network in SEIR to model mobility between populations,"Dataset for ""Towards Better Evaluation for Dynamic Link Prediction""",0.275532
+Incorporating dynamic flight network in SEIR to model mobility between populations,TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs,0.153131
+Incorporating dynamic flight network in SEIR to model mobility between populations,MiNT: Multi-Network Training for Transfer Learning on Temporal Graphs,0.173751
+Incorporating dynamic flight network in SEIR to model mobility between populations,UTG: Towards a Unified View of Snapshot and Event Based Models for Temporal Graphs,0.228306
+Incorporating dynamic flight network in SEIR to model mobility between populations,Temporal Graph Learning Workshop,0.334126
+Incorporating dynamic flight network in SEIR to model mobility between populations,T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs,0.183829
+Incorporating dynamic flight network in SEIR to model mobility between populations,CrediBench: Building Web-Scale Network Datasets for Information Integrity,0.154101
+Incorporating dynamic flight network in SEIR to model mobility between populations,Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning,0.102626
+Incorporating dynamic flight network in SEIR to model mobility between populations,Are Large Language Models Good Temporal Graph Learners?,0.163945
+Laplacian Change Point Detection for Single and Multi-view Dynamic Graphs,"Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures",0.502003
+Laplacian Change Point Detection for Single and Multi-view Dynamic Graphs,Temporal Graph Analysis with TGX,0.610119
+Laplacian Change Point Detection for Single and Multi-view Dynamic Graphs,Static graph approximations of dynamic contact networks for epidemic forecasting,0.513822
+Laplacian Change Point Detection for Single and Multi-view Dynamic Graphs,Understanding Capacity Saturation in Incremental Learning,0.216591
+Laplacian Change Point Detection for Single and Multi-view Dynamic Graphs,Towards Better Evaluation for Dynamic Link Prediction,0.548475
+Laplacian Change Point Detection for Single and Multi-view Dynamic Graphs,Temporal Graph Benchmark for Machine Learning on Temporal Graphs,0.603968
+Laplacian Change Point Detection for Single and Multi-view Dynamic Graphs,Neural Architecture Search for Class-incremental Learning,0.257685
+Laplacian Change Point Detection for Single and Multi-view Dynamic Graphs,RandomNet: Towards Fully Automatic Neural Architecture Design for Multimodal Learning,0.137697
+Laplacian Change Point Detection for Single and Multi-view Dynamic Graphs,GPS++: Reviving the Art of Message Passing for Molecular Property Prediction,0.330782
+Laplacian Change Point Detection for Single and Multi-view Dynamic Graphs,Contact Graph Epidemic Modelling of COVID-19 for Transmission and Intervention Strategies,0.407773
+Laplacian Change Point Detection for Single and Multi-view Dynamic Graphs,Towards Temporal Edge Regression: A Case Study on Agriculture Trade Between Nations,0.473518
+Laplacian Change Point Detection for Single and Multi-view Dynamic Graphs,Temporal Graph Rewiring with Expander Graphs,0.528505
+Laplacian Change Point Detection for Single and Multi-view Dynamic Graphs,ContextGNN: Beyond Two-Tower Recommendation Systems,0.336298
+Laplacian Change Point Detection for Single and Multi-view Dynamic Graphs,Fast and Attributed Change Detection on Dynamic Graphs with Density of States,0.806091
+Laplacian Change Point Detection for Single and Multi-view Dynamic Graphs,Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets,0.338748
+Laplacian Change Point Detection for Single and Multi-view Dynamic Graphs,Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets (Ultra Large Dataset),0.338748
+Laplacian Change Point Detection for Single and Multi-view Dynamic Graphs,"Dataset for ""Towards Better Evaluation for Dynamic Link Prediction""",0.426691
+Laplacian Change Point Detection for Single and Multi-view Dynamic Graphs,TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs,0.540389
+Laplacian Change Point Detection for Single and Multi-view Dynamic Graphs,MiNT: Multi-Network Training for Transfer Learning on Temporal Graphs,0.538346
+Laplacian Change Point Detection for Single and Multi-view Dynamic Graphs,UTG: Towards a Unified View of Snapshot and Event Based Models for Temporal Graphs,0.645557
+Laplacian Change Point Detection for Single and Multi-view Dynamic Graphs,Temporal Graph Learning Workshop,0.608491
+Laplacian Change Point Detection for Single and Multi-view Dynamic Graphs,T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs,0.561737
+Laplacian Change Point Detection for Single and Multi-view Dynamic Graphs,CrediBench: Building Web-Scale Network Datasets for Information Integrity,0.4976
+Laplacian Change Point Detection for Single and Multi-view Dynamic Graphs,Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning,0.437884
+Laplacian Change Point Detection for Single and Multi-view Dynamic Graphs,Are Large Language Models Good Temporal Graph Learners?,0.511059
+"Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures",Temporal Graph Analysis with TGX,0.509617
+"Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures",Static graph approximations of dynamic contact networks for epidemic forecasting,0.40723
+"Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures",Understanding Capacity Saturation in Incremental Learning,0.323977
+"Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures",Towards Better Evaluation for Dynamic Link Prediction,0.650537
+"Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures",Temporal Graph Benchmark for Machine Learning on Temporal Graphs,0.66438
+"Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures",Neural Architecture Search for Class-incremental Learning,0.349119
+"Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures",RandomNet: Towards Fully Automatic Neural Architecture Design for Multimodal Learning,0.284877
+"Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures",GPS++: Reviving the Art of Message Passing for Molecular Property Prediction,0.584949
+"Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures",Contact Graph Epidemic Modelling of COVID-19 for Transmission and Intervention Strategies,0.324553
+"Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures",Towards Temporal Edge Regression: A Case Study on Agriculture Trade Between Nations,0.61638
+"Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures",Temporal Graph Rewiring with Expander Graphs,0.630277
+"Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures",ContextGNN: Beyond Two-Tower Recommendation Systems,0.611181
+"Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures",Fast and Attributed Change Detection on Dynamic Graphs with Density of States,0.461482
+"Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures",Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets,0.676803
+"Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures",Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets (Ultra Large Dataset),0.676803
+"Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures","Dataset for ""Towards Better Evaluation for Dynamic Link Prediction""",0.424445
+"Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures",TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs,0.703964
+"Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures",MiNT: Multi-Network Training for Transfer Learning on Temporal Graphs,0.684853
+"Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures",UTG: Towards a Unified View of Snapshot and Event Based Models for Temporal Graphs,0.682255
+"Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures",Temporal Graph Learning Workshop,0.565547
+"Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures",T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs,0.714295
+"Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures",CrediBench: Building Web-Scale Network Datasets for Information Integrity,0.483355
+"Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures",Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning,0.611586
+"Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures",Are Large Language Models Good Temporal Graph Learners?,0.636026
+Temporal Graph Analysis with TGX,Static graph approximations of dynamic contact networks for epidemic forecasting,0.605983
+Temporal Graph Analysis with TGX,Understanding Capacity Saturation in Incremental Learning,0.162443
+Temporal Graph Analysis with TGX,Towards Better Evaluation for Dynamic Link Prediction,0.603303
+Temporal Graph Analysis with TGX,Temporal Graph Benchmark for Machine Learning on Temporal Graphs,0.72945
+Temporal Graph Analysis with TGX,Neural Architecture Search for Class-incremental Learning,0.222054
+Temporal Graph Analysis with TGX,RandomNet: Towards Fully Automatic Neural Architecture Design for Multimodal Learning,0.119039
+Temporal Graph Analysis with TGX,GPS++: Reviving the Art of Message Passing for Molecular Property Prediction,0.277524
+Temporal Graph Analysis with TGX,Contact Graph Epidemic Modelling of COVID-19 for Transmission and Intervention Strategies,0.462868
+Temporal Graph Analysis with TGX,Towards Temporal Edge Regression: A Case Study on Agriculture Trade Between Nations,0.52055
+Temporal Graph Analysis with TGX,Temporal Graph Rewiring with Expander Graphs,0.625316
+Temporal Graph Analysis with TGX,ContextGNN: Beyond Two-Tower Recommendation Systems,0.361801
+Temporal Graph Analysis with TGX,Fast and Attributed Change Detection on Dynamic Graphs with Density of States,0.65697
+Temporal Graph Analysis with TGX,Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets,0.377946
+Temporal Graph Analysis with TGX,Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets (Ultra Large Dataset),0.377946
+Temporal Graph Analysis with TGX,"Dataset for ""Towards Better Evaluation for Dynamic Link Prediction""",0.563415
+Temporal Graph Analysis with TGX,TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs,0.656043
+Temporal Graph Analysis with TGX,MiNT: Multi-Network Training for Transfer Learning on Temporal Graphs,0.561514
+Temporal Graph Analysis with TGX,UTG: Towards a Unified View of Snapshot and Event Based Models for Temporal Graphs,0.66534
+Temporal Graph Analysis with TGX,Temporal Graph Learning Workshop,0.653823
+Temporal Graph Analysis with TGX,T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs,0.546333
+Temporal Graph Analysis with TGX,CrediBench: Building Web-Scale Network Datasets for Information Integrity,0.560759
+Temporal Graph Analysis with TGX,Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning,0.445988
+Temporal Graph Analysis with TGX,Are Large Language Models Good Temporal Graph Learners?,0.575556
+Static graph approximations of dynamic contact networks for epidemic forecasting,Understanding Capacity Saturation in Incremental Learning,0.091315
+Static graph approximations of dynamic contact networks for epidemic forecasting,Towards Better Evaluation for Dynamic Link Prediction,0.463952
+Static graph approximations of dynamic contact networks for epidemic forecasting,Temporal Graph Benchmark for Machine Learning on Temporal Graphs,0.531403
+Static graph approximations of dynamic contact networks for epidemic forecasting,Neural Architecture Search for Class-incremental Learning,0.124835
+Static graph approximations of dynamic contact networks for epidemic forecasting,RandomNet: Towards Fully Automatic Neural Architecture Design for Multimodal Learning,0.036603
+Static graph approximations of dynamic contact networks for epidemic forecasting,GPS++: Reviving the Art of Message Passing for Molecular Property Prediction,0.289799
+Static graph approximations of dynamic contact networks for epidemic forecasting,Contact Graph Epidemic Modelling of COVID-19 for Transmission and Intervention Strategies,0.819997
+Static graph approximations of dynamic contact networks for epidemic forecasting,Towards Temporal Edge Regression: A Case Study on Agriculture Trade Between Nations,0.466606
+Static graph approximations of dynamic contact networks for epidemic forecasting,Temporal Graph Rewiring with Expander Graphs,0.468767
+Static graph approximations of dynamic contact networks for epidemic forecasting,ContextGNN: Beyond Two-Tower Recommendation Systems,0.287572
+Static graph approximations of dynamic contact networks for epidemic forecasting,Fast and Attributed Change Detection on Dynamic Graphs with Density of States,0.439099
+Static graph approximations of dynamic contact networks for epidemic forecasting,Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets,0.326683
+Static graph approximations of dynamic contact networks for epidemic forecasting,Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets (Ultra Large Dataset),0.326683
+Static graph approximations of dynamic contact networks for epidemic forecasting,"Dataset for ""Towards Better Evaluation for Dynamic Link Prediction""",0.492494
+Static graph approximations of dynamic contact networks for epidemic forecasting,TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs,0.45045
+Static graph approximations of dynamic contact networks for epidemic forecasting,MiNT: Multi-Network Training for Transfer Learning on Temporal Graphs,0.439679
+Static graph approximations of dynamic contact networks for epidemic forecasting,UTG: Towards a Unified View of Snapshot and Event Based Models for Temporal Graphs,0.511313
+Static graph approximations of dynamic contact networks for epidemic forecasting,Temporal Graph Learning Workshop,0.524834
+Static graph approximations of dynamic contact networks for epidemic forecasting,T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs,0.39999
+Static graph approximations of dynamic contact networks for epidemic forecasting,CrediBench: Building Web-Scale Network Datasets for Information Integrity,0.399162
+Static graph approximations of dynamic contact networks for epidemic forecasting,Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning,0.313879
+Static graph approximations of dynamic contact networks for epidemic forecasting,Are Large Language Models Good Temporal Graph Learners?,0.42249
+Understanding Capacity Saturation in Incremental Learning,Towards Better Evaluation for Dynamic Link Prediction,0.319208
+Understanding Capacity Saturation in Incremental Learning,Temporal Graph Benchmark for Machine Learning on Temporal Graphs,0.252958
+Understanding Capacity Saturation in Incremental Learning,Neural Architecture Search for Class-incremental Learning,0.951103
+Understanding Capacity Saturation in Incremental Learning,RandomNet: Towards Fully Automatic Neural Architecture Design for Multimodal Learning,0.577098
+Understanding Capacity Saturation in Incremental Learning,GPS++: Reviving the Art of Message Passing for Molecular Property Prediction,0.265285
+Understanding Capacity Saturation in Incremental Learning,Contact Graph Epidemic Modelling of COVID-19 for Transmission and Intervention Strategies,0.044236
+Understanding Capacity Saturation in Incremental Learning,Towards Temporal Edge Regression: A Case Study on Agriculture Trade Between Nations,0.289853
+Understanding Capacity Saturation in Incremental Learning,Temporal Graph Rewiring with Expander Graphs,0.444634
+Understanding Capacity Saturation in Incremental Learning,ContextGNN: Beyond Two-Tower Recommendation Systems,0.289435
+Understanding Capacity Saturation in Incremental Learning,Fast and Attributed Change Detection on Dynamic Graphs with Density of States,0.189466
+Understanding Capacity Saturation in Incremental Learning,Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets,0.313898
+Understanding Capacity Saturation in Incremental Learning,Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets (Ultra Large Dataset),0.313898
+Understanding Capacity Saturation in Incremental Learning,"Dataset for ""Towards Better Evaluation for Dynamic Link Prediction""",0.168027
+Understanding Capacity Saturation in Incremental Learning,TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs,0.236821
+Understanding Capacity Saturation in Incremental Learning,MiNT: Multi-Network Training for Transfer Learning on Temporal Graphs,0.343272
+Understanding Capacity Saturation in Incremental Learning,UTG: Towards a Unified View of Snapshot and Event Based Models for Temporal Graphs,0.296704
+Understanding Capacity Saturation in Incremental Learning,Temporal Graph Learning Workshop,0.243351
+Understanding Capacity Saturation in Incremental Learning,T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs,0.392586
+Understanding Capacity Saturation in Incremental Learning,CrediBench: Building Web-Scale Network Datasets for Information Integrity,0.165347
+Understanding Capacity Saturation in Incremental Learning,Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning,0.302556
+Understanding Capacity Saturation in Incremental Learning,Are Large Language Models Good Temporal Graph Learners?,0.281249
+Towards Better Evaluation for Dynamic Link Prediction,Temporal Graph Benchmark for Machine Learning on Temporal Graphs,0.676918
+Towards Better Evaluation for Dynamic Link Prediction,Neural Architecture Search for Class-incremental Learning,0.336325
+Towards Better Evaluation for Dynamic Link Prediction,RandomNet: Towards Fully Automatic Neural Architecture Design for Multimodal Learning,0.261977
+Towards Better Evaluation for Dynamic Link Prediction,GPS++: Reviving the Art of Message Passing for Molecular Property Prediction,0.453308
+Towards Better Evaluation for Dynamic Link Prediction,Contact Graph Epidemic Modelling of COVID-19 for Transmission and Intervention Strategies,0.33486
+Towards Better Evaluation for Dynamic Link Prediction,Towards Temporal Edge Regression: A Case Study on Agriculture Trade Between Nations,0.629801
+Towards Better Evaluation for Dynamic Link Prediction,Temporal Graph Rewiring with Expander Graphs,0.598232
+Towards Better Evaluation for Dynamic Link Prediction,ContextGNN: Beyond Two-Tower Recommendation Systems,0.597425
+Towards Better Evaluation for Dynamic Link Prediction,Fast and Attributed Change Detection on Dynamic Graphs with Density of States,0.497182
+Towards Better Evaluation for Dynamic Link Prediction,Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets,0.518677
+Towards Better Evaluation for Dynamic Link Prediction,Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets (Ultra Large Dataset),0.518677
+Towards Better Evaluation for Dynamic Link Prediction,"Dataset for ""Towards Better Evaluation for Dynamic Link Prediction""",0.578512
+Towards Better Evaluation for Dynamic Link Prediction,TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs,0.767982
+Towards Better Evaluation for Dynamic Link Prediction,MiNT: Multi-Network Training for Transfer Learning on Temporal Graphs,0.652126
+Towards Better Evaluation for Dynamic Link Prediction,UTG: Towards a Unified View of Snapshot and Event Based Models for Temporal Graphs,0.76497
+Towards Better Evaluation for Dynamic Link Prediction,Temporal Graph Learning Workshop,0.620976
+Towards Better Evaluation for Dynamic Link Prediction,T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs,0.702371
+Towards Better Evaluation for Dynamic Link Prediction,CrediBench: Building Web-Scale Network Datasets for Information Integrity,0.57394
+Towards Better Evaluation for Dynamic Link Prediction,Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning,0.670511
+Towards Better Evaluation for Dynamic Link Prediction,Are Large Language Models Good Temporal Graph Learners?,0.695727
+Temporal Graph Benchmark for Machine Learning on Temporal Graphs,Neural Architecture Search for Class-incremental Learning,0.297939
+Temporal Graph Benchmark for Machine Learning on Temporal Graphs,RandomNet: Towards Fully Automatic Neural Architecture Design for Multimodal Learning,0.265634
+Temporal Graph Benchmark for Machine Learning on Temporal Graphs,GPS++: Reviving the Art of Message Passing for Molecular Property Prediction,0.44386
+Temporal Graph Benchmark for Machine Learning on Temporal Graphs,Contact Graph Epidemic Modelling of COVID-19 for Transmission and Intervention Strategies,0.399657
+Temporal Graph Benchmark for Machine Learning on Temporal Graphs,Towards Temporal Edge Regression: A Case Study on Agriculture Trade Between Nations,0.740229
+Temporal Graph Benchmark for Machine Learning on Temporal Graphs,Temporal Graph Rewiring with Expander Graphs,0.654021
+Temporal Graph Benchmark for Machine Learning on Temporal Graphs,ContextGNN: Beyond Two-Tower Recommendation Systems,0.497408
+Temporal Graph Benchmark for Machine Learning on Temporal Graphs,Fast and Attributed Change Detection on Dynamic Graphs with Density of States,0.580475
+Temporal Graph Benchmark for Machine Learning on Temporal Graphs,Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets,0.516318
+Temporal Graph Benchmark for Machine Learning on Temporal Graphs,Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets (Ultra Large Dataset),0.516318
+Temporal Graph Benchmark for Machine Learning on Temporal Graphs,"Dataset for ""Towards Better Evaluation for Dynamic Link Prediction""",0.542686
+Temporal Graph Benchmark for Machine Learning on Temporal Graphs,TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs,0.770314
+Temporal Graph Benchmark for Machine Learning on Temporal Graphs,MiNT: Multi-Network Training for Transfer Learning on Temporal Graphs,0.718179
+Temporal Graph Benchmark for Machine Learning on Temporal Graphs,UTG: Towards a Unified View of Snapshot and Event Based Models for Temporal Graphs,0.798849
+Temporal Graph Benchmark for Machine Learning on Temporal Graphs,Temporal Graph Learning Workshop,0.730363
+Temporal Graph Benchmark for Machine Learning on Temporal Graphs,T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs,0.70224
+Temporal Graph Benchmark for Machine Learning on Temporal Graphs,CrediBench: Building Web-Scale Network Datasets for Information Integrity,0.564298
+Temporal Graph Benchmark for Machine Learning on Temporal Graphs,Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning,0.604439
+Temporal Graph Benchmark for Machine Learning on Temporal Graphs,Are Large Language Models Good Temporal Graph Learners?,0.680848
+Neural Architecture Search for Class-incremental Learning,RandomNet: Towards Fully Automatic Neural Architecture Design for Multimodal Learning,0.608002
+Neural Architecture Search for Class-incremental Learning,GPS++: Reviving the Art of Message Passing for Molecular Property Prediction,0.281947
+Neural Architecture Search for Class-incremental Learning,Contact Graph Epidemic Modelling of COVID-19 for Transmission and Intervention Strategies,0.048895
+Neural Architecture Search for Class-incremental Learning,Towards Temporal Edge Regression: A Case Study on Agriculture Trade Between Nations,0.335667
+Neural Architecture Search for Class-incremental Learning,Temporal Graph Rewiring with Expander Graphs,0.485772
+Neural Architecture Search for Class-incremental Learning,ContextGNN: Beyond Two-Tower Recommendation Systems,0.293439
+Neural Architecture Search for Class-incremental Learning,Fast and Attributed Change Detection on Dynamic Graphs with Density of States,0.238779
+Neural Architecture Search for Class-incremental Learning,Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets,0.317973
+Neural Architecture Search for Class-incremental Learning,Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets (Ultra Large Dataset),0.317973
+Neural Architecture Search for Class-incremental Learning,"Dataset for ""Towards Better Evaluation for Dynamic Link Prediction""",0.212969
+Neural Architecture Search for Class-incremental Learning,TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs,0.274667
+Neural Architecture Search for Class-incremental Learning,MiNT: Multi-Network Training for Transfer Learning on Temporal Graphs,0.372958
+Neural Architecture Search for Class-incremental Learning,UTG: Towards a Unified View of Snapshot and Event Based Models for Temporal Graphs,0.340119
+Neural Architecture Search for Class-incremental Learning,Temporal Graph Learning Workshop,0.278297
+Neural Architecture Search for Class-incremental Learning,T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs,0.410436
+Neural Architecture Search for Class-incremental Learning,CrediBench: Building Web-Scale Network Datasets for Information Integrity,0.193536
+Neural Architecture Search for Class-incremental Learning,Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning,0.321435
+Neural Architecture Search for Class-incremental Learning,Are Large Language Models Good Temporal Graph Learners?,0.320089
+RandomNet: Towards Fully Automatic Neural Architecture Design for Multimodal Learning,GPS++: Reviving the Art of Message Passing for Molecular Property Prediction,0.32276
+RandomNet: Towards Fully Automatic Neural Architecture Design for Multimodal Learning,Contact Graph Epidemic Modelling of COVID-19 for Transmission and Intervention Strategies,0.026362
+RandomNet: Towards Fully Automatic Neural Architecture Design for Multimodal Learning,Towards Temporal Edge Regression: A Case Study on Agriculture Trade Between Nations,0.264873
+RandomNet: Towards Fully Automatic Neural Architecture Design for Multimodal Learning,Temporal Graph Rewiring with Expander Graphs,0.350275
+RandomNet: Towards Fully Automatic Neural Architecture Design for Multimodal Learning,ContextGNN: Beyond Two-Tower Recommendation Systems,0.246856
+RandomNet: Towards Fully Automatic Neural Architecture Design for Multimodal Learning,Fast and Attributed Change Detection on Dynamic Graphs with Density of States,0.107448
+RandomNet: Towards Fully Automatic Neural Architecture Design for Multimodal Learning,Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets,0.359934
+RandomNet: Towards Fully Automatic Neural Architecture Design for Multimodal Learning,Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets (Ultra Large Dataset),0.359934
+RandomNet: Towards Fully Automatic Neural Architecture Design for Multimodal Learning,"Dataset for ""Towards Better Evaluation for Dynamic Link Prediction""",0.212438
+RandomNet: Towards Fully Automatic Neural Architecture Design for Multimodal Learning,TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs,0.199033
+RandomNet: Towards Fully Automatic Neural Architecture Design for Multimodal Learning,MiNT: Multi-Network Training for Transfer Learning on Temporal Graphs,0.315074
+RandomNet: Towards Fully Automatic Neural Architecture Design for Multimodal Learning,UTG: Towards a Unified View of Snapshot and Event Based Models for Temporal Graphs,0.239647
+RandomNet: Towards Fully Automatic Neural Architecture Design for Multimodal Learning,Temporal Graph Learning Workshop,0.14659
+RandomNet: Towards Fully Automatic Neural Architecture Design for Multimodal Learning,T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs,0.286282
+RandomNet: Towards Fully Automatic Neural Architecture Design for Multimodal Learning,CrediBench: Building Web-Scale Network Datasets for Information Integrity,0.162613
+RandomNet: Towards Fully Automatic Neural Architecture Design for Multimodal Learning,Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning,0.30244
+RandomNet: Towards Fully Automatic Neural Architecture Design for Multimodal Learning,Are Large Language Models Good Temporal Graph Learners?,0.288572
+GPS++: Reviving the Art of Message Passing for Molecular Property Prediction,Contact Graph Epidemic Modelling of COVID-19 for Transmission and Intervention Strategies,0.252329
+GPS++: Reviving the Art of Message Passing for Molecular Property Prediction,Towards Temporal Edge Regression: A Case Study on Agriculture Trade Between Nations,0.456277
+GPS++: Reviving the Art of Message Passing for Molecular Property Prediction,Temporal Graph Rewiring with Expander Graphs,0.483294
+GPS++: Reviving the Art of Message Passing for Molecular Property Prediction,ContextGNN: Beyond Two-Tower Recommendation Systems,0.427412
+GPS++: Reviving the Art of Message Passing for Molecular Property Prediction,Fast and Attributed Change Detection on Dynamic Graphs with Density of States,0.281925
+GPS++: Reviving the Art of Message Passing for Molecular Property Prediction,Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets,0.748187
+GPS++: Reviving the Art of Message Passing for Molecular Property Prediction,Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets (Ultra Large Dataset),0.748187
+GPS++: Reviving the Art of Message Passing for Molecular Property Prediction,"Dataset for ""Towards Better Evaluation for Dynamic Link Prediction""",0.352069
+GPS++: Reviving the Art of Message Passing for Molecular Property Prediction,TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs,0.367874
+GPS++: Reviving the Art of Message Passing for Molecular Property Prediction,MiNT: Multi-Network Training for Transfer Learning on Temporal Graphs,0.460932
+GPS++: Reviving the Art of Message Passing for Molecular Property Prediction,UTG: Towards a Unified View of Snapshot and Event Based Models for Temporal Graphs,0.470869
+GPS++: Reviving the Art of Message Passing for Molecular Property Prediction,Temporal Graph Learning Workshop,0.341586
+GPS++: Reviving the Art of Message Passing for Molecular Property Prediction,T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs,0.46156
+GPS++: Reviving the Art of Message Passing for Molecular Property Prediction,CrediBench: Building Web-Scale Network Datasets for Information Integrity,0.350886
+GPS++: Reviving the Art of Message Passing for Molecular Property Prediction,Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning,0.501173
+GPS++: Reviving the Art of Message Passing for Molecular Property Prediction,Are Large Language Models Good Temporal Graph Learners?,0.503067
+Contact Graph Epidemic Modelling of COVID-19 for Transmission and Intervention Strategies,Towards Temporal Edge Regression: A Case Study on Agriculture Trade Between Nations,0.302891
+Contact Graph Epidemic Modelling of COVID-19 for Transmission and Intervention Strategies,Temporal Graph Rewiring with Expander Graphs,0.331479
+Contact Graph Epidemic Modelling of COVID-19 for Transmission and Intervention Strategies,ContextGNN: Beyond Two-Tower Recommendation Systems,0.187008
+Contact Graph Epidemic Modelling of COVID-19 for Transmission and Intervention Strategies,Fast and Attributed Change Detection on Dynamic Graphs with Density of States,0.340991
+Contact Graph Epidemic Modelling of COVID-19 for Transmission and Intervention Strategies,Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets,0.306194
+Contact Graph Epidemic Modelling of COVID-19 for Transmission and Intervention Strategies,Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets (Ultra Large Dataset),0.306194
+Contact Graph Epidemic Modelling of COVID-19 for Transmission and Intervention Strategies,"Dataset for ""Towards Better Evaluation for Dynamic Link Prediction""",0.338966
+Contact Graph Epidemic Modelling of COVID-19 for Transmission and Intervention Strategies,TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs,0.325273
+Contact Graph Epidemic Modelling of COVID-19 for Transmission and Intervention Strategies,MiNT: Multi-Network Training for Transfer Learning on Temporal Graphs,0.309057
+Contact Graph Epidemic Modelling of COVID-19 for Transmission and Intervention Strategies,UTG: Towards a Unified View of Snapshot and Event Based Models for Temporal Graphs,0.352129
+Contact Graph Epidemic Modelling of COVID-19 for Transmission and Intervention Strategies,Temporal Graph Learning Workshop,0.40112
+Contact Graph Epidemic Modelling of COVID-19 for Transmission and Intervention Strategies,T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs,0.293767
+Contact Graph Epidemic Modelling of COVID-19 for Transmission and Intervention Strategies,CrediBench: Building Web-Scale Network Datasets for Information Integrity,0.344206
+Contact Graph Epidemic Modelling of COVID-19 for Transmission and Intervention Strategies,Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning,0.254508
+Contact Graph Epidemic Modelling of COVID-19 for Transmission and Intervention Strategies,Are Large Language Models Good Temporal Graph Learners?,0.329179
+Towards Temporal Edge Regression: A Case Study on Agriculture Trade Between Nations,Temporal Graph Rewiring with Expander Graphs,0.606213
+Towards Temporal Edge Regression: A Case Study on Agriculture Trade Between Nations,ContextGNN: Beyond Two-Tower Recommendation Systems,0.505687
+Towards Temporal Edge Regression: A Case Study on Agriculture Trade Between Nations,Fast and Attributed Change Detection on Dynamic Graphs with Density of States,0.410975
+Towards Temporal Edge Regression: A Case Study on Agriculture Trade Between Nations,Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets,0.4925
+Towards Temporal Edge Regression: A Case Study on Agriculture Trade Between Nations,Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets (Ultra Large Dataset),0.4925
+Towards Temporal Edge Regression: A Case Study on Agriculture Trade Between Nations,"Dataset for ""Towards Better Evaluation for Dynamic Link Prediction""",0.517865
+Towards Temporal Edge Regression: A Case Study on Agriculture Trade Between Nations,TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs,0.573032
+Towards Temporal Edge Regression: A Case Study on Agriculture Trade Between Nations,MiNT: Multi-Network Training for Transfer Learning on Temporal Graphs,0.625785
+Towards Temporal Edge Regression: A Case Study on Agriculture Trade Between Nations,UTG: Towards a Unified View of Snapshot and Event Based Models for Temporal Graphs,0.662294
+Towards Temporal Edge Regression: A Case Study on Agriculture Trade Between Nations,Temporal Graph Learning Workshop,0.529011
+Towards Temporal Edge Regression: A Case Study on Agriculture Trade Between Nations,T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs,0.605513
+Towards Temporal Edge Regression: A Case Study on Agriculture Trade Between Nations,CrediBench: Building Web-Scale Network Datasets for Information Integrity,0.444812
+Towards Temporal Edge Regression: A Case Study on Agriculture Trade Between Nations,Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning,0.533862
+Towards Temporal Edge Regression: A Case Study on Agriculture Trade Between Nations,Are Large Language Models Good Temporal Graph Learners?,0.604953
+Temporal Graph Rewiring with Expander Graphs,ContextGNN: Beyond Two-Tower Recommendation Systems,0.44252
+Temporal Graph Rewiring with Expander Graphs,Fast and Attributed Change Detection on Dynamic Graphs with Density of States,0.494225
+Temporal Graph Rewiring with Expander Graphs,Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets,0.439157
+Temporal Graph Rewiring with Expander Graphs,Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets (Ultra Large Dataset),0.439157
+Temporal Graph Rewiring with Expander Graphs,"Dataset for ""Towards Better Evaluation for Dynamic Link Prediction""",0.4825
+Temporal Graph Rewiring with Expander Graphs,TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs,0.610588
+Temporal Graph Rewiring with Expander Graphs,MiNT: Multi-Network Training for Transfer Learning on Temporal Graphs,0.652318
+Temporal Graph Rewiring with Expander Graphs,UTG: Towards a Unified View of Snapshot and Event Based Models for Temporal Graphs,0.676307
+Temporal Graph Rewiring with Expander Graphs,Temporal Graph Learning Workshop,0.558036
+Temporal Graph Rewiring with Expander Graphs,T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs,0.712567
+Temporal Graph Rewiring with Expander Graphs,CrediBench: Building Web-Scale Network Datasets for Information Integrity,0.482074
+Temporal Graph Rewiring with Expander Graphs,Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning,0.61777
+Temporal Graph Rewiring with Expander Graphs,Are Large Language Models Good Temporal Graph Learners?,0.690319
+ContextGNN: Beyond Two-Tower Recommendation Systems,Fast and Attributed Change Detection on Dynamic Graphs with Density of States,0.320437
+ContextGNN: Beyond Two-Tower Recommendation Systems,Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets,0.480487
+ContextGNN: Beyond Two-Tower Recommendation Systems,Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets (Ultra Large Dataset),0.480487
+ContextGNN: Beyond Two-Tower Recommendation Systems,"Dataset for ""Towards Better Evaluation for Dynamic Link Prediction""",0.417935
+ContextGNN: Beyond Two-Tower Recommendation Systems,TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs,0.495225
+ContextGNN: Beyond Two-Tower Recommendation Systems,MiNT: Multi-Network Training for Transfer Learning on Temporal Graphs,0.508135
+ContextGNN: Beyond Two-Tower Recommendation Systems,UTG: Towards a Unified View of Snapshot and Event Based Models for Temporal Graphs,0.544952
+ContextGNN: Beyond Two-Tower Recommendation Systems,Temporal Graph Learning Workshop,0.517828
+ContextGNN: Beyond Two-Tower Recommendation Systems,T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs,0.496971
+ContextGNN: Beyond Two-Tower Recommendation Systems,CrediBench: Building Web-Scale Network Datasets for Information Integrity,0.378581
+ContextGNN: Beyond Two-Tower Recommendation Systems,Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning,0.578427
+ContextGNN: Beyond Two-Tower Recommendation Systems,Are Large Language Models Good Temporal Graph Learners?,0.553292
+Fast and Attributed Change Detection on Dynamic Graphs with Density of States,Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets,0.335123
+Fast and Attributed Change Detection on Dynamic Graphs with Density of States,Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets (Ultra Large Dataset),0.335123
+Fast and Attributed Change Detection on Dynamic Graphs with Density of States,"Dataset for ""Towards Better Evaluation for Dynamic Link Prediction""",0.454611
+Fast and Attributed Change Detection on Dynamic Graphs with Density of States,TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs,0.495045
+Fast and Attributed Change Detection on Dynamic Graphs with Density of States,MiNT: Multi-Network Training for Transfer Learning on Temporal Graphs,0.460038
+Fast and Attributed Change Detection on Dynamic Graphs with Density of States,UTG: Towards a Unified View of Snapshot and Event Based Models for Temporal Graphs,0.59968
+Fast and Attributed Change Detection on Dynamic Graphs with Density of States,Temporal Graph Learning Workshop,0.566626
+Fast and Attributed Change Detection on Dynamic Graphs with Density of States,T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs,0.466917
+Fast and Attributed Change Detection on Dynamic Graphs with Density of States,CrediBench: Building Web-Scale Network Datasets for Information Integrity,0.455552
+Fast and Attributed Change Detection on Dynamic Graphs with Density of States,Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning,0.372891
+Fast and Attributed Change Detection on Dynamic Graphs with Density of States,Are Large Language Models Good Temporal Graph Learners?,0.449914
+Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets,Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets (Ultra Large Dataset),1.0
+Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets,"Dataset for ""Towards Better Evaluation for Dynamic Link Prediction""",0.397192
+Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets,TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs,0.442605
+Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets,MiNT: Multi-Network Training for Transfer Learning on Temporal Graphs,0.535965
+Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets,UTG: Towards a Unified View of Snapshot and Event Based Models for Temporal Graphs,0.508101
+Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets,Temporal Graph Learning Workshop,0.399967
+Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets,T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs,0.481686
+Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets,CrediBench: Building Web-Scale Network Datasets for Information Integrity,0.415423
+Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets,Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning,0.482927
+Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets,Are Large Language Models Good Temporal Graph Learners?,0.499415
+Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets (Ultra Large Dataset),"Dataset for ""Towards Better Evaluation for Dynamic Link Prediction""",0.397192
+Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets (Ultra Large Dataset),TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs,0.442605
+Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets (Ultra Large Dataset),MiNT: Multi-Network Training for Transfer Learning on Temporal Graphs,0.535965
+Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets (Ultra Large Dataset),UTG: Towards a Unified View of Snapshot and Event Based Models for Temporal Graphs,0.508101
+Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets (Ultra Large Dataset),Temporal Graph Learning Workshop,0.399967
+Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets (Ultra Large Dataset),T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs,0.481686
+Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets (Ultra Large Dataset),CrediBench: Building Web-Scale Network Datasets for Information Integrity,0.415423
+Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets (Ultra Large Dataset),Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning,0.482927
+Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets (Ultra Large Dataset),Are Large Language Models Good Temporal Graph Learners?,0.499415
+"Dataset for ""Towards Better Evaluation for Dynamic Link Prediction""",TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs,0.531315
+"Dataset for ""Towards Better Evaluation for Dynamic Link Prediction""",MiNT: Multi-Network Training for Transfer Learning on Temporal Graphs,0.450458
+"Dataset for ""Towards Better Evaluation for Dynamic Link Prediction""",UTG: Towards a Unified View of Snapshot and Event Based Models for Temporal Graphs,0.608123
+"Dataset for ""Towards Better Evaluation for Dynamic Link Prediction""",Temporal Graph Learning Workshop,0.446335
+"Dataset for ""Towards Better Evaluation for Dynamic Link Prediction""",T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs,0.375055
+"Dataset for ""Towards Better Evaluation for Dynamic Link Prediction""",CrediBench: Building Web-Scale Network Datasets for Information Integrity,0.404642
+"Dataset for ""Towards Better Evaluation for Dynamic Link Prediction""",Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning,0.452994
+"Dataset for ""Towards Better Evaluation for Dynamic Link Prediction""",Are Large Language Models Good Temporal Graph Learners?,0.485137
+TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs,MiNT: Multi-Network Training for Transfer Learning on Temporal Graphs,0.673355
+TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs,UTG: Towards a Unified View of Snapshot and Event Based Models for Temporal Graphs,0.79003
+TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs,Temporal Graph Learning Workshop,0.652829
+TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs,T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs,0.702835
+TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs,CrediBench: Building Web-Scale Network Datasets for Information Integrity,0.60618
+TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs,Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning,0.678051
+TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs,Are Large Language Models Good Temporal Graph Learners?,0.706874
+MiNT: Multi-Network Training for Transfer Learning on Temporal Graphs,UTG: Towards a Unified View of Snapshot and Event Based Models for Temporal Graphs,0.724681
+MiNT: Multi-Network Training for Transfer Learning on Temporal Graphs,Temporal Graph Learning Workshop,0.70136
+MiNT: Multi-Network Training for Transfer Learning on Temporal Graphs,T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs,0.741191
+MiNT: Multi-Network Training for Transfer Learning on Temporal Graphs,CrediBench: Building Web-Scale Network Datasets for Information Integrity,0.464779
+MiNT: Multi-Network Training for Transfer Learning on Temporal Graphs,Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning,0.608052
+MiNT: Multi-Network Training for Transfer Learning on Temporal Graphs,Are Large Language Models Good Temporal Graph Learners?,0.662595
+UTG: Towards a Unified View of Snapshot and Event Based Models for Temporal Graphs,Temporal Graph Learning Workshop,0.717919
+UTG: Towards a Unified View of Snapshot and Event Based Models for Temporal Graphs,T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs,0.732548
+UTG: Towards a Unified View of Snapshot and Event Based Models for Temporal Graphs,CrediBench: Building Web-Scale Network Datasets for Information Integrity,0.561648
+UTG: Towards a Unified View of Snapshot and Event Based Models for Temporal Graphs,Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning,0.65234
+UTG: Towards a Unified View of Snapshot and Event Based Models for Temporal Graphs,Are Large Language Models Good Temporal Graph Learners?,0.737317
+Temporal Graph Learning Workshop,T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs,0.648269
+Temporal Graph Learning Workshop,CrediBench: Building Web-Scale Network Datasets for Information Integrity,0.462991
+Temporal Graph Learning Workshop,Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning,0.52962
+Temporal Graph Learning Workshop,Are Large Language Models Good Temporal Graph Learners?,0.582986
+T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs,CrediBench: Building Web-Scale Network Datasets for Information Integrity,0.461045
+T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs,Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning,0.755773
+T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs,Are Large Language Models Good Temporal Graph Learners?,0.752912
+CrediBench: Building Web-Scale Network Datasets for Information Integrity,Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning,0.536047
+CrediBench: Building Web-Scale Network Datasets for Information Integrity,Are Large Language Models Good Temporal Graph Learners?,0.599531
+Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning,Are Large Language Models Good Temporal Graph Learners?,0.838939

@@ -1,436 +1,436 @@
-abstract_i,abstract_j,cosine_similarity
-0,1,0.580474
-0,2,0.438717
-0,3,0.376171
-0,4,-0.067456
-0,5,0.415875
-0,6,0.336906
-0,7,0.299374
-0,8,0.031132
-0,9,0.149336
-0,10,0.549213
-0,11,0.636335
-0,12,0.42856
-0,13,0.126986
-0,14,0.530233
-0,15,0.57463
-0,16,0.677878
-0,17,0.644237
-0,18,0.088484
-0,19,0.575482
-0,20,0.211932
-0,21,0.587245
-0,22,0.252307
-0,23,0.562027
-0,24,0.272667
-0,25,0.036826
-0,26,0.275848
-0,27,0.263002
-0,28,0.501011
-0,29,0.610311
-1,2,0.548604
-1,3,0.640725
-1,4,0.05626
-1,5,0.535013
-1,6,0.484859
-1,7,0.548722
-1,8,0.27245
-1,9,0.441543
-1,10,0.841615
-1,11,0.801024
-1,12,0.792209
-1,13,0.153387
-1,14,0.87162
-1,15,0.689976
-1,16,0.706539
-1,17,0.716839
-1,18,0.186675
-1,19,0.778226
-1,20,0.414797
-1,21,0.722112
-1,22,0.312259
-1,23,0.599619
-1,24,0.466645
-1,25,0.183939
-1,26,0.465638
-1,27,0.370836
-1,28,0.617623
-1,29,0.674953
-2,3,0.42067
-2,4,0.08178
-2,5,0.755719
-2,6,0.397528
-2,7,0.502559
-2,8,0.142794
-2,9,0.38607
-2,10,0.49535
-2,11,0.558333
-2,12,0.554871
-2,13,0.17146
-2,14,0.562092
-2,15,0.458327
-2,16,0.528935
-2,17,0.535258
-2,18,0.282254
-2,19,0.547574
-2,20,0.401126
-2,21,0.422908
-2,22,0.324623
-2,23,0.400206
-2,24,0.342104
-2,25,0.180795
-2,26,0.380355
-2,27,0.596971
-2,28,0.390707
-2,29,0.538254
-3,4,0.104278
-3,5,0.527198
-3,6,0.755791
-3,7,0.502006
-3,8,0.291438
-3,9,0.388496
-3,10,0.554427
-3,11,0.545157
-3,12,0.653951
-3,13,0.132333
-3,14,0.561548
-3,15,0.477208
-3,16,0.507198
-3,17,0.579542
-3,18,0.212731
-3,19,0.644106
-3,20,0.417809
-3,21,0.537737
-3,22,0.435213
-3,23,0.436236
-3,24,0.753281
-3,25,0.245993
-3,26,0.465351
-3,27,0.370211
-3,28,0.462694
-3,29,0.551886
-4,5,0.099038
-4,6,0.146225
-4,7,0.070146
-4,8,0.25202
-4,9,0.089715
-4,10,-0.019569
-4,11,0.048909
-4,12,0.090178
-4,13,0.088102
-4,14,0.067977
-4,15,0.061971
-4,16,0.05099
-4,17,0.027649
-4,18,0.211686
-4,19,0.096363
-4,20,0.150124
-4,21,0.036771
-4,22,0.105843
-4,23,-0.00939
-4,24,0.159946
-4,25,0.124185
-4,26,0.228378
-4,27,0.049687
-4,28,-0.049818
-4,29,0.04026
-5,6,0.465741
-5,7,0.521604
-5,8,0.241139
-5,9,0.398709
-5,10,0.521122
-5,11,0.626988
-5,12,0.579011
-5,13,0.253536
-5,14,0.588026
-5,15,0.53687
-5,16,0.566123
-5,17,0.631057
-5,18,0.303858
-5,19,0.618486
-5,20,0.398521
-5,21,0.469346
-5,22,0.392349
-5,23,0.387935
-5,24,0.43875
-5,25,0.245119
-5,26,0.496396
-5,27,0.55132
-5,28,0.427756
-5,29,0.606907
-6,7,0.390121
-6,8,0.101882
-6,9,0.255657
-6,10,0.370486
-6,11,0.43563
-6,12,0.512813
-6,13,0.068043
-6,14,0.40203
-6,15,0.426393
-6,16,0.454912
-6,17,0.47347
-6,18,0.153006
-6,19,0.472062
-6,20,0.251297
-6,21,0.407732
-6,22,0.419453
-6,23,0.307511
-6,24,0.912725
-6,25,0.189894
-6,26,0.303776
-6,27,0.233177
-6,28,0.31824
-6,29,0.494834
-7,8,0.28556
-7,9,0.872243
-7,10,0.575725
-7,11,0.587258
-7,12,0.616641
-7,13,0.119697
-7,14,0.580213
-7,15,0.519454
-7,16,0.429066
-7,17,0.572723
-7,18,0.251593
-7,19,0.571121
-7,20,0.532242
-7,21,0.508228
-7,22,0.493493
-7,23,0.375149
-7,24,0.353943
-7,25,0.405629
-7,26,0.533034
-7,27,0.409367
-7,28,0.458882
-7,29,0.578351
-8,9,0.285534
-8,10,0.262505
-8,11,0.234563
-8,12,0.307128
-8,13,0.06658
-8,14,0.304492
-8,15,0.259031
-8,16,0.169133
-8,17,0.222764
-8,18,0.284919
-8,19,0.296307
-8,20,0.433536
-8,21,0.216241
-8,22,0.225827
-8,23,0.204251
-8,24,0.104564
-8,25,0.256409
-8,26,0.419187
-8,27,0.216112
-8,28,0.216216
-8,29,0.164584
-9,10,0.442653
-9,11,0.431916
-9,12,0.482597
-9,13,0.059504
-9,14,0.45369
-9,15,0.359165
-9,16,0.268326
-9,17,0.399895
-9,18,0.206767
-9,19,0.417215
-9,20,0.48499
-9,21,0.336472
-9,22,0.379563
-9,23,0.276412
-9,24,0.239075
-9,25,0.395283
-9,26,0.459005
-9,27,0.388462
-9,28,0.289168
-9,29,0.403806
-10,11,0.727369
-10,12,0.723595
-10,13,0.15231
-10,14,0.85094
-10,15,0.568855
-10,16,0.639141
-10,17,0.62609
-10,18,0.227981
-10,19,0.747381
-10,20,0.318269
-10,21,0.645048
-10,22,0.345217
-10,23,0.602096
-10,24,0.359953
-10,25,0.207938
-10,26,0.441603
-10,27,0.437583
-10,28,0.635464
-10,29,0.601553
-11,12,0.780109
-11,13,0.152281
-11,14,0.764479
-11,15,0.812748
-11,16,0.836627
-11,17,0.816446
-11,18,0.155907
-11,19,0.793969
-11,20,0.443072
-11,21,0.754922
-11,22,0.369581
-11,23,0.521024
-11,24,0.411709
-11,25,0.216991
-11,26,0.538054
-11,27,0.302417
-11,28,0.613025
-11,29,0.890069
-12,13,0.145881
-12,14,0.747665
-12,15,0.708954
-12,16,0.717054
-12,17,0.724501
-12,18,0.253727
-12,19,0.776914
-12,20,0.47571
-12,21,0.678866
-12,22,0.387826
-12,23,0.504953
-12,24,0.512244
-12,25,0.281141
-12,26,0.492701
-12,27,0.38743
-12,28,0.58856
-12,29,0.763291
-13,14,0.169777
-13,15,0.087283
-13,16,0.116755
-13,17,0.150279
-13,18,0.207154
-13,19,0.236724
-13,20,0.096212
-13,21,0.149216
-13,22,0.037893
-13,23,0.108063
-13,24,0.057755
-13,25,0.038583
-13,26,0.169938
-13,27,0.150977
-13,28,0.160337
-13,29,0.130979
-14,15,0.65215
-14,16,0.633783
-14,17,0.684743
-14,18,0.250515
-14,19,0.791532
-14,20,0.392737
-14,21,0.68311
-14,22,0.302298
-14,23,0.669743
-14,24,0.387627
-14,25,0.201593
-14,26,0.468589
-14,27,0.420895
-14,28,0.661287
-14,29,0.614183
-15,16,0.81153
-15,17,0.884037
-15,18,0.150229
-15,19,0.71586
-15,20,0.48011
-15,21,0.758227
-15,22,0.37487
-15,23,0.473096
-15,24,0.42658
-15,25,0.194657
-15,26,0.467812
-15,27,0.172479
-15,28,0.585803
-15,29,0.770828
-16,17,0.803082
-16,18,0.163179
-16,19,0.733672
-16,20,0.329104
-16,21,0.721244
-16,22,0.3285
-16,23,0.537271
-16,24,0.425838
-16,25,0.165818
-16,26,0.455463
-16,27,0.239187
-16,28,0.622131
-16,29,0.78471
-17,18,0.159824
-17,19,0.772784
-17,20,0.485014
-17,21,0.75447
-17,22,0.465404
-17,23,0.531179
-17,24,0.456503
-17,25,0.251246
-17,26,0.543514
-17,27,0.289344
-17,28,0.604271
-17,29,0.775371
-18,19,0.231855
-18,20,0.235681
-18,21,0.108254
-18,22,0.166651
-18,23,0.149402
-18,24,0.149507
-18,25,0.225976
-18,26,0.340963
-18,27,0.354599
-18,28,0.150491
-18,29,0.152258
-19,20,0.420404
-19,21,0.75931
-19,22,0.333646
-19,23,0.667983
-19,24,0.456647
-19,25,0.217608
-19,26,0.539235
-19,27,0.34769
-19,28,0.714484
-19,29,0.708594
-20,21,0.379744
-20,22,0.414
-20,23,0.173356
-20,24,0.220093
-20,25,0.261129
-20,26,0.539063
-20,27,0.251653
-20,28,0.24322
-20,29,0.413383
-21,22,0.359125
-21,23,0.621118
-21,24,0.448957
-21,25,0.171327
-21,26,0.424503
-21,27,0.171324
-21,28,0.652538
-21,29,0.673652
-22,23,0.228065
-22,24,0.416761
-22,25,0.420383
-22,26,0.387364
-22,27,0.277075
-22,28,0.203702
-22,29,0.4062
-23,24,0.335237
-23,25,0.165584
-23,26,0.313995
-23,27,0.284326
-23,28,0.798401
-23,29,0.433898
-24,25,0.241034
-24,26,0.294032
-24,27,0.222107
-24,28,0.327148
-24,29,0.471747
-25,26,0.364762
-25,27,0.285623
-25,28,0.122395
-25,29,0.195039
-26,27,0.335326
-26,28,0.38281
-26,29,0.46906
-27,28,0.209135
-27,29,0.285681
-28,29,0.53626
+title_i,title_j,cosine_similarity
+Theory of Thermoelastic Damping in Micromechanical Resonators With Two-Dimensional Heat Conduction,Carbon nanotube-reinforced composites as structural materials for microactuators in microelectromechanical systems,0.631057
+Theory of Thermoelastic Damping in Micromechanical Resonators With Two-Dimensional Heat Conduction,Analysis of thermoelastic damping in laminated composite micromechanical beam resonators,0.775371
+Theory of Thermoelastic Damping in Micromechanical Resonators With Two-Dimensional Heat Conduction,Thermoelastic damping in bilayered micromechanical beam resonators,0.816446
+Theory of Thermoelastic Damping in Micromechanical Resonators With Two-Dimensional Heat Conduction,Nanotechnology and Bone Healing,0.159824
+Theory of Thermoelastic Damping in Micromechanical Resonators With Two-Dimensional Heat Conduction,Design strategies for controlling damping in micromechanical and nanomechanical resonators,0.772784
+Theory of Thermoelastic Damping in Micromechanical Resonators With Two-Dimensional Heat Conduction,Residual force enhancement is regulated by titin in skeletal and cardiac myofibrils,0.150279
+Theory of Thermoelastic Damping in Micromechanical Resonators With Two-Dimensional Heat Conduction,"Thermoelastic Damping in Layered Microresonators: Critical Frequencies, Peak Values, and Rule of Mixture",0.803082
+Theory of Thermoelastic Damping in Micromechanical Resonators With Two-Dimensional Heat Conduction,Low-Stress CMOS-Compatible Silicon Carbide Surface-Micromachining Technology—Part I: Process Development and Characterization,0.399895
+Theory of Thermoelastic Damping in Micromechanical Resonators With Two-Dimensional Heat Conduction,Thermoelastic Damping in Hollow and Slotted Microresonators,0.884037
+Theory of Thermoelastic Damping in Micromechanical Resonators With Two-Dimensional Heat Conduction,Controlling damping and quality factors of silicon microcantilevers by selective metallization,0.724501
+Theory of Thermoelastic Damping in Micromechanical Resonators With Two-Dimensional Heat Conduction,A Microcantilever Platform for Measuring Internal Friction in Thin Films Using Thermoelastic Damping for Calibration,0.716839
+Theory of Thermoelastic Damping in Micromechanical Resonators With Two-Dimensional Heat Conduction,Mechanical spectroscopy of nanocrystalline aluminum films: effects of frequency and grain size on internal friction,0.62609
+Theory of Thermoelastic Damping in Micromechanical Resonators With Two-Dimensional Heat Conduction,"Piezoelectric Vibration Energy Harvesters Modeling, Design, Limits, and Benchmarking",0.47347
+Theory of Thermoelastic Damping in Micromechanical Resonators With Two-Dimensional Heat Conduction,Direct-write microfabrication of single-chamber micro solid oxide fuel cells,0.251246
+Theory of Thermoelastic Damping in Micromechanical Resonators With Two-Dimensional Heat Conduction,Ingestible Gastrointestinal Sampling Devices: State-of-the-Art and Future Directions,0.027649
+Theory of Thermoelastic Damping in Micromechanical Resonators With Two-Dimensional Heat Conduction,Design Methodology for a Rankine Microturbine: Thermomechanical Analysis and Material Selection,0.465404
+Theory of Thermoelastic Damping in Micromechanical Resonators With Two-Dimensional Heat Conduction,LOW-TEMPERATURE (&amp;lt;300ºC) LOW-STRESS SILICON CARBIDE SURFACE MICROMACHINING FABRICATION TECHNOLOGY,0.572723
+Theory of Thermoelastic Damping in Micromechanical Resonators With Two-Dimensional Heat Conduction,Estimating Damping in Microresonators by Measuring Thermomechanical Noise Using Laser Doppler Vibrometry,0.75447
+Theory of Thermoelastic Damping in Micromechanical Resonators With Two-Dimensional Heat Conduction,Methods for Atomistic Simulations of Linear and Nonlinear Damping in Nanomechanical Resonators,0.531179
+Theory of Thermoelastic Damping in Micromechanical Resonators With Two-Dimensional Heat Conduction,"Design, implementation, and application of a microresonator platform for measuring energy dissipation by internal friction in nanowires",0.684743
+Theory of Thermoelastic Damping in Micromechanical Resonators With Two-Dimensional Heat Conduction,Analysis of Nonlinear Thermoelastic Dissipation in Euler-Bernoulli Beam Resonators,0.644237
+Theory of Thermoelastic Damping in Micromechanical Resonators With Two-Dimensional Heat Conduction,Achieving High Quality Factor Without Vacuum Packaging by High Density Proof Mass Integration in Vibration Energy Harvesters,0.579542
+Theory of Thermoelastic Damping in Micromechanical Resonators With Two-Dimensional Heat Conduction,Damage and Failure in Silicon-Glass-Metal Microfluidic Joints for High-Pressure MEMS Devices,0.485014
+Theory of Thermoelastic Damping in Micromechanical Resonators With Two-Dimensional Heat Conduction,Colloidal self-assembly on internal surfaces of partially sealed microchannels,0.222764
+Theory of Thermoelastic Damping in Micromechanical Resonators With Two-Dimensional Heat Conduction,Atomistic simulations of material damping in amorphous silicon nanoresonators,0.604271
+Theory of Thermoelastic Damping in Micromechanical Resonators With Two-Dimensional Heat Conduction,Elastic Characterization of SWNT-Reinforced Polymer Thin Films Using a Nanoindener-Based Bending Test,0.535258
+Theory of Thermoelastic Damping in Micromechanical Resonators With Two-Dimensional Heat Conduction,"Microelectromechanical systems-materials and devices II : symposium held December 1-2, 2008, Boston, Massachusetts, U.S.A.",0.543514
+Theory of Thermoelastic Damping in Micromechanical Resonators With Two-Dimensional Heat Conduction,Production and characterization of a novel carbon nanotube/titanium nitride nanocomposite,0.289344
+Theory of Thermoelastic Damping in Micromechanical Resonators With Two-Dimensional Heat Conduction,Power Density Limits and Benchmarking of Resonant Piezoelectric Vibration Energy Harvesters,0.456503
+Carbon nanotube-reinforced composites as structural materials for microactuators in microelectromechanical systems,Analysis of thermoelastic damping in laminated composite micromechanical beam resonators,0.606907
+Carbon nanotube-reinforced composites as structural materials for microactuators in microelectromechanical systems,Thermoelastic damping in bilayered micromechanical beam resonators,0.626988
+Carbon nanotube-reinforced composites as structural materials for microactuators in microelectromechanical systems,Nanotechnology and Bone Healing,0.303858
+Carbon nanotube-reinforced composites as structural materials for microactuators in microelectromechanical systems,Design strategies for controlling damping in micromechanical and nanomechanical resonators,0.618486
+Carbon nanotube-reinforced composites as structural materials for microactuators in microelectromechanical systems,Residual force enhancement is regulated by titin in skeletal and cardiac myofibrils,0.253536
+Carbon nanotube-reinforced composites as structural materials for microactuators in microelectromechanical systems,"Thermoelastic Damping in Layered Microresonators: Critical Frequencies, Peak Values, and Rule of Mixture",0.566123
+Carbon nanotube-reinforced composites as structural materials for microactuators in microelectromechanical systems,Low-Stress CMOS-Compatible Silicon Carbide Surface-Micromachining Technology—Part I: Process Development and Characterization,0.398709
+Carbon nanotube-reinforced composites as structural materials for microactuators in microelectromechanical systems,Thermoelastic Damping in Hollow and Slotted Microresonators,0.53687
+Carbon nanotube-reinforced composites as structural materials for microactuators in microelectromechanical systems,Controlling damping and quality factors of silicon microcantilevers by selective metallization,0.579011
+Carbon nanotube-reinforced composites as structural materials for microactuators in microelectromechanical systems,A Microcantilever Platform for Measuring Internal Friction in Thin Films Using Thermoelastic Damping for Calibration,0.535013
+Carbon nanotube-reinforced composites as structural materials for microactuators in microelectromechanical systems,Mechanical spectroscopy of nanocrystalline aluminum films: effects of frequency and grain size on internal friction,0.521122
+Carbon nanotube-reinforced composites as structural materials for microactuators in microelectromechanical systems,"Piezoelectric Vibration Energy Harvesters Modeling, Design, Limits, and Benchmarking",0.465741
+Carbon nanotube-reinforced composites as structural materials for microactuators in microelectromechanical systems,Direct-write microfabrication of single-chamber micro solid oxide fuel cells,0.245119
+Carbon nanotube-reinforced composites as structural materials for microactuators in microelectromechanical systems,Ingestible Gastrointestinal Sampling Devices: State-of-the-Art and Future Directions,0.099038
+Carbon nanotube-reinforced composites as structural materials for microactuators in microelectromechanical systems,Design Methodology for a Rankine Microturbine: Thermomechanical Analysis and Material Selection,0.392349
+Carbon nanotube-reinforced composites as structural materials for microactuators in microelectromechanical systems,LOW-TEMPERATURE (&amp;lt;300ºC) LOW-STRESS SILICON CARBIDE SURFACE MICROMACHINING FABRICATION TECHNOLOGY,0.521604
+Carbon nanotube-reinforced composites as structural materials for microactuators in microelectromechanical systems,Estimating Damping in Microresonators by Measuring Thermomechanical Noise Using Laser Doppler Vibrometry,0.469346
+Carbon nanotube-reinforced composites as structural materials for microactuators in microelectromechanical systems,Methods for Atomistic Simulations of Linear and Nonlinear Damping in Nanomechanical Resonators,0.387935
+Carbon nanotube-reinforced composites as structural materials for microactuators in microelectromechanical systems,"Design, implementation, and application of a microresonator platform for measuring energy dissipation by internal friction in nanowires",0.588026
+Carbon nanotube-reinforced composites as structural materials for microactuators in microelectromechanical systems,Analysis of Nonlinear Thermoelastic Dissipation in Euler-Bernoulli Beam Resonators,0.415875
+Carbon nanotube-reinforced composites as structural materials for microactuators in microelectromechanical systems,Achieving High Quality Factor Without Vacuum Packaging by High Density Proof Mass Integration in Vibration Energy Harvesters,0.527198
+Carbon nanotube-reinforced composites as structural materials for microactuators in microelectromechanical systems,Damage and Failure in Silicon-Glass-Metal Microfluidic Joints for High-Pressure MEMS Devices,0.398521
+Carbon nanotube-reinforced composites as structural materials for microactuators in microelectromechanical systems,Colloidal self-assembly on internal surfaces of partially sealed microchannels,0.241139
+Carbon nanotube-reinforced composites as structural materials for microactuators in microelectromechanical systems,Atomistic simulations of material damping in amorphous silicon nanoresonators,0.427756
+Carbon nanotube-reinforced composites as structural materials for microactuators in microelectromechanical systems,Elastic Characterization of SWNT-Reinforced Polymer Thin Films Using a Nanoindener-Based Bending Test,0.755719
+Carbon nanotube-reinforced composites as structural materials for microactuators in microelectromechanical systems,"Microelectromechanical systems-materials and devices II : symposium held December 1-2, 2008, Boston, Massachusetts, U.S.A.",0.496396
+Carbon nanotube-reinforced composites as structural materials for microactuators in microelectromechanical systems,Production and characterization of a novel carbon nanotube/titanium nitride nanocomposite,0.55132
+Carbon nanotube-reinforced composites as structural materials for microactuators in microelectromechanical systems,Power Density Limits and Benchmarking of Resonant Piezoelectric Vibration Energy Harvesters,0.43875
+Analysis of thermoelastic damping in laminated composite micromechanical beam resonators,Thermoelastic damping in bilayered micromechanical beam resonators,0.890069
+Analysis of thermoelastic damping in laminated composite micromechanical beam resonators,Nanotechnology and Bone Healing,0.152258
+Analysis of thermoelastic damping in laminated composite micromechanical beam resonators,Design strategies for controlling damping in micromechanical and nanomechanical resonators,0.708594
+Analysis of thermoelastic damping in laminated composite micromechanical beam resonators,Residual force enhancement is regulated by titin in skeletal and cardiac myofibrils,0.130979
+Analysis of thermoelastic damping in laminated composite micromechanical beam resonators,"Thermoelastic Damping in Layered Microresonators: Critical Frequencies, Peak Values, and Rule of Mixture",0.78471
+Analysis of thermoelastic damping in laminated composite micromechanical beam resonators,Low-Stress CMOS-Compatible Silicon Carbide Surface-Micromachining Technology—Part I: Process Development and Characterization,0.403806
+Analysis of thermoelastic damping in laminated composite micromechanical beam resonators,Thermoelastic Damping in Hollow and Slotted Microresonators,0.770828
+Analysis of thermoelastic damping in laminated composite micromechanical beam resonators,Controlling damping and quality factors of silicon microcantilevers by selective metallization,0.763291
+Analysis of thermoelastic damping in laminated composite micromechanical beam resonators,A Microcantilever Platform for Measuring Internal Friction in Thin Films Using Thermoelastic Damping for Calibration,0.674953
+Analysis of thermoelastic damping in laminated composite micromechanical beam resonators,Mechanical spectroscopy of nanocrystalline aluminum films: effects of frequency and grain size on internal friction,0.601553
+Analysis of thermoelastic damping in laminated composite micromechanical beam resonators,"Piezoelectric Vibration Energy Harvesters Modeling, Design, Limits, and Benchmarking",0.494834
+Analysis of thermoelastic damping in laminated composite micromechanical beam resonators,Direct-write microfabrication of single-chamber micro solid oxide fuel cells,0.195039
+Analysis of thermoelastic damping in laminated composite micromechanical beam resonators,Ingestible Gastrointestinal Sampling Devices: State-of-the-Art and Future Directions,0.04026
+Analysis of thermoelastic damping in laminated composite micromechanical beam resonators,Design Methodology for a Rankine Microturbine: Thermomechanical Analysis and Material Selection,0.4062
+Analysis of thermoelastic damping in laminated composite micromechanical beam resonators,LOW-TEMPERATURE (&amp;lt;300ºC) LOW-STRESS SILICON CARBIDE SURFACE MICROMACHINING FABRICATION TECHNOLOGY,0.578351
+Analysis of thermoelastic damping in laminated composite micromechanical beam resonators,Estimating Damping in Microresonators by Measuring Thermomechanical Noise Using Laser Doppler Vibrometry,0.673652
+Analysis of thermoelastic damping in laminated composite micromechanical beam resonators,Methods for Atomistic Simulations of Linear and Nonlinear Damping in Nanomechanical Resonators,0.433898
+Analysis of thermoelastic damping in laminated composite micromechanical beam resonators,"Design, implementation, and application of a microresonator platform for measuring energy dissipation by internal friction in nanowires",0.614183
+Analysis of thermoelastic damping in laminated composite micromechanical beam resonators,Analysis of Nonlinear Thermoelastic Dissipation in Euler-Bernoulli Beam Resonators,0.610311
+Analysis of thermoelastic damping in laminated composite micromechanical beam resonators,Achieving High Quality Factor Without Vacuum Packaging by High Density Proof Mass Integration in Vibration Energy Harvesters,0.551886
+Analysis of thermoelastic damping in laminated composite micromechanical beam resonators,Damage and Failure in Silicon-Glass-Metal Microfluidic Joints for High-Pressure MEMS Devices,0.413383
+Analysis of thermoelastic damping in laminated composite micromechanical beam resonators,Colloidal self-assembly on internal surfaces of partially sealed microchannels,0.164584
+Analysis of thermoelastic damping in laminated composite micromechanical beam resonators,Atomistic simulations of material damping in amorphous silicon nanoresonators,0.53626
+Analysis of thermoelastic damping in laminated composite micromechanical beam resonators,Elastic Characterization of SWNT-Reinforced Polymer Thin Films Using a Nanoindener-Based Bending Test,0.538254
+Analysis of thermoelastic damping in laminated composite micromechanical beam resonators,"Microelectromechanical systems-materials and devices II : symposium held December 1-2, 2008, Boston, Massachusetts, U.S.A.",0.46906
+Analysis of thermoelastic damping in laminated composite micromechanical beam resonators,Production and characterization of a novel carbon nanotube/titanium nitride nanocomposite,0.285681
+Analysis of thermoelastic damping in laminated composite micromechanical beam resonators,Power Density Limits and Benchmarking of Resonant Piezoelectric Vibration Energy Harvesters,0.471747
+Thermoelastic damping in bilayered micromechanical beam resonators,Nanotechnology and Bone Healing,0.155907
+Thermoelastic damping in bilayered micromechanical beam resonators,Design strategies for controlling damping in micromechanical and nanomechanical resonators,0.793969
+Thermoelastic damping in bilayered micromechanical beam resonators,Residual force enhancement is regulated by titin in skeletal and cardiac myofibrils,0.152281
+Thermoelastic damping in bilayered micromechanical beam resonators,"Thermoelastic Damping in Layered Microresonators: Critical Frequencies, Peak Values, and Rule of Mixture",0.836627
+Thermoelastic damping in bilayered micromechanical beam resonators,Low-Stress CMOS-Compatible Silicon Carbide Surface-Micromachining Technology—Part I: Process Development and Characterization,0.431916
+Thermoelastic damping in bilayered micromechanical beam resonators,Thermoelastic Damping in Hollow and Slotted Microresonators,0.812748
+Thermoelastic damping in bilayered micromechanical beam resonators,Controlling damping and quality factors of silicon microcantilevers by selective metallization,0.780109
+Thermoelastic damping in bilayered micromechanical beam resonators,A Microcantilever Platform for Measuring Internal Friction in Thin Films Using Thermoelastic Damping for Calibration,0.801024
+Thermoelastic damping in bilayered micromechanical beam resonators,Mechanical spectroscopy of nanocrystalline aluminum films: effects of frequency and grain size on internal friction,0.727369
+Thermoelastic damping in bilayered micromechanical beam resonators,"Piezoelectric Vibration Energy Harvesters Modeling, Design, Limits, and Benchmarking",0.43563
+Thermoelastic damping in bilayered micromechanical beam resonators,Direct-write microfabrication of single-chamber micro solid oxide fuel cells,0.216991
+Thermoelastic damping in bilayered micromechanical beam resonators,Ingestible Gastrointestinal Sampling Devices: State-of-the-Art and Future Directions,0.048909
+Thermoelastic damping in bilayered micromechanical beam resonators,Design Methodology for a Rankine Microturbine: Thermomechanical Analysis and Material Selection,0.369581
+Thermoelastic damping in bilayered micromechanical beam resonators,LOW-TEMPERATURE (&amp;lt;300ºC) LOW-STRESS SILICON CARBIDE SURFACE MICROMACHINING FABRICATION TECHNOLOGY,0.587258
+Thermoelastic damping in bilayered micromechanical beam resonators,Estimating Damping in Microresonators by Measuring Thermomechanical Noise Using Laser Doppler Vibrometry,0.754922
+Thermoelastic damping in bilayered micromechanical beam resonators,Methods for Atomistic Simulations of Linear and Nonlinear Damping in Nanomechanical Resonators,0.521024
+Thermoelastic damping in bilayered micromechanical beam resonators,"Design, implementation, and application of a microresonator platform for measuring energy dissipation by internal friction in nanowires",0.764479
+Thermoelastic damping in bilayered micromechanical beam resonators,Analysis of Nonlinear Thermoelastic Dissipation in Euler-Bernoulli Beam Resonators,0.636335
+Thermoelastic damping in bilayered micromechanical beam resonators,Achieving High Quality Factor Without Vacuum Packaging by High Density Proof Mass Integration in Vibration Energy Harvesters,0.545157
+Thermoelastic damping in bilayered micromechanical beam resonators,Damage and Failure in Silicon-Glass-Metal Microfluidic Joints for High-Pressure MEMS Devices,0.443072
+Thermoelastic damping in bilayered micromechanical beam resonators,Colloidal self-assembly on internal surfaces of partially sealed microchannels,0.234563
+Thermoelastic damping in bilayered micromechanical beam resonators,Atomistic simulations of material damping in amorphous silicon nanoresonators,0.613025
+Thermoelastic damping in bilayered micromechanical beam resonators,Elastic Characterization of SWNT-Reinforced Polymer Thin Films Using a Nanoindener-Based Bending Test,0.558333
+Thermoelastic damping in bilayered micromechanical beam resonators,"Microelectromechanical systems-materials and devices II : symposium held December 1-2, 2008, Boston, Massachusetts, U.S.A.",0.538054
+Thermoelastic damping in bilayered micromechanical beam resonators,Production and characterization of a novel carbon nanotube/titanium nitride nanocomposite,0.302417
+Thermoelastic damping in bilayered micromechanical beam resonators,Power Density Limits and Benchmarking of Resonant Piezoelectric Vibration Energy Harvesters,0.411709
+Nanotechnology and Bone Healing,Design strategies for controlling damping in micromechanical and nanomechanical resonators,0.231855
+Nanotechnology and Bone Healing,Residual force enhancement is regulated by titin in skeletal and cardiac myofibrils,0.207154
+Nanotechnology and Bone Healing,"Thermoelastic Damping in Layered Microresonators: Critical Frequencies, Peak Values, and Rule of Mixture",0.163179
+Nanotechnology and Bone Healing,Low-Stress CMOS-Compatible Silicon Carbide Surface-Micromachining Technology—Part I: Process Development and Characterization,0.206767
+Nanotechnology and Bone Healing,Thermoelastic Damping in Hollow and Slotted Microresonators,0.150229
+Nanotechnology and Bone Healing,Controlling damping and quality factors of silicon microcantilevers by selective metallization,0.253727
+Nanotechnology and Bone Healing,A Microcantilever Platform for Measuring Internal Friction in Thin Films Using Thermoelastic Damping for Calibration,0.186675
+Nanotechnology and Bone Healing,Mechanical spectroscopy of nanocrystalline aluminum films: effects of frequency and grain size on internal friction,0.227981
+Nanotechnology and Bone Healing,"Piezoelectric Vibration Energy Harvesters Modeling, Design, Limits, and Benchmarking",0.153006
+Nanotechnology and Bone Healing,Direct-write microfabrication of single-chamber micro solid oxide fuel cells,0.225976
+Nanotechnology and Bone Healing,Ingestible Gastrointestinal Sampling Devices: State-of-the-Art and Future Directions,0.211686
+Nanotechnology and Bone Healing,Design Methodology for a Rankine Microturbine: Thermomechanical Analysis and Material Selection,0.166651
+Nanotechnology and Bone Healing,LOW-TEMPERATURE (&amp;lt;300ºC) LOW-STRESS SILICON CARBIDE SURFACE MICROMACHINING FABRICATION TECHNOLOGY,0.251593
+Nanotechnology and Bone Healing,Estimating Damping in Microresonators by Measuring Thermomechanical Noise Using Laser Doppler Vibrometry,0.108254
+Nanotechnology and Bone Healing,Methods for Atomistic Simulations of Linear and Nonlinear Damping in Nanomechanical Resonators,0.149402
+Nanotechnology and Bone Healing,"Design, implementation, and application of a microresonator platform for measuring energy dissipation by internal friction in nanowires",0.250515
+Nanotechnology and Bone Healing,Analysis of Nonlinear Thermoelastic Dissipation in Euler-Bernoulli Beam Resonators,0.088484
+Nanotechnology and Bone Healing,Achieving High Quality Factor Without Vacuum Packaging by High Density Proof Mass Integration in Vibration Energy Harvesters,0.212731
+Nanotechnology and Bone Healing,Damage and Failure in Silicon-Glass-Metal Microfluidic Joints for High-Pressure MEMS Devices,0.235681
+Nanotechnology and Bone Healing,Colloidal self-assembly on internal surfaces of partially sealed microchannels,0.284919
+Nanotechnology and Bone Healing,Atomistic simulations of material damping in amorphous silicon nanoresonators,0.150491
+Nanotechnology and Bone Healing,Elastic Characterization of SWNT-Reinforced Polymer Thin Films Using a Nanoindener-Based Bending Test,0.282254
+Nanotechnology and Bone Healing,"Microelectromechanical systems-materials and devices II : symposium held December 1-2, 2008, Boston, Massachusetts, U.S.A.",0.340963
+Nanotechnology and Bone Healing,Production and characterization of a novel carbon nanotube/titanium nitride nanocomposite,0.354599
+Nanotechnology and Bone Healing,Power Density Limits and Benchmarking of Resonant Piezoelectric Vibration Energy Harvesters,0.149507
+Design strategies for controlling damping in micromechanical and nanomechanical resonators,Residual force enhancement is regulated by titin in skeletal and cardiac myofibrils,0.236724
+Design strategies for controlling damping in micromechanical and nanomechanical resonators,"Thermoelastic Damping in Layered Microresonators: Critical Frequencies, Peak Values, and Rule of Mixture",0.733672
+Design strategies for controlling damping in micromechanical and nanomechanical resonators,Low-Stress CMOS-Compatible Silicon Carbide Surface-Micromachining Technology—Part I: Process Development and Characterization,0.417215
+Design strategies for controlling damping in micromechanical and nanomechanical resonators,Thermoelastic Damping in Hollow and Slotted Microresonators,0.71586
+Design strategies for controlling damping in micromechanical and nanomechanical resonators,Controlling damping and quality factors of silicon microcantilevers by selective metallization,0.776914
+Design strategies for controlling damping in micromechanical and nanomechanical resonators,A Microcantilever Platform for Measuring Internal Friction in Thin Films Using Thermoelastic Damping for Calibration,0.778226
+Design strategies for controlling damping in micromechanical and nanomechanical resonators,Mechanical spectroscopy of nanocrystalline aluminum films: effects of frequency and grain size on internal friction,0.747381
+Design strategies for controlling damping in micromechanical and nanomechanical resonators,"Piezoelectric Vibration Energy Harvesters Modeling, Design, Limits, and Benchmarking",0.472062
+Design strategies for controlling damping in micromechanical and nanomechanical resonators,Direct-write microfabrication of single-chamber micro solid oxide fuel cells,0.217608
+Design strategies for controlling damping in micromechanical and nanomechanical resonators,Ingestible Gastrointestinal Sampling Devices: State-of-the-Art and Future Directions,0.096363
+Design strategies for controlling damping in micromechanical and nanomechanical resonators,Design Methodology for a Rankine Microturbine: Thermomechanical Analysis and Material Selection,0.333646
+Design strategies for controlling damping in micromechanical and nanomechanical resonators,LOW-TEMPERATURE (&amp;lt;300ºC) LOW-STRESS SILICON CARBIDE SURFACE MICROMACHINING FABRICATION TECHNOLOGY,0.571121
+Design strategies for controlling damping in micromechanical and nanomechanical resonators,Estimating Damping in Microresonators by Measuring Thermomechanical Noise Using Laser Doppler Vibrometry,0.75931
+Design strategies for controlling damping in micromechanical and nanomechanical resonators,Methods for Atomistic Simulations of Linear and Nonlinear Damping in Nanomechanical Resonators,0.667983
+Design strategies for controlling damping in micromechanical and nanomechanical resonators,"Design, implementation, and application of a microresonator platform for measuring energy dissipation by internal friction in nanowires",0.791532
+Design strategies for controlling damping in micromechanical and nanomechanical resonators,Analysis of Nonlinear Thermoelastic Dissipation in Euler-Bernoulli Beam Resonators,0.575482
+Design strategies for controlling damping in micromechanical and nanomechanical resonators,Achieving High Quality Factor Without Vacuum Packaging by High Density Proof Mass Integration in Vibration Energy Harvesters,0.644106
+Design strategies for controlling damping in micromechanical and nanomechanical resonators,Damage and Failure in Silicon-Glass-Metal Microfluidic Joints for High-Pressure MEMS Devices,0.420404
+Design strategies for controlling damping in micromechanical and nanomechanical resonators,Colloidal self-assembly on internal surfaces of partially sealed microchannels,0.296307
+Design strategies for controlling damping in micromechanical and nanomechanical resonators,Atomistic simulations of material damping in amorphous silicon nanoresonators,0.714484
+Design strategies for controlling damping in micromechanical and nanomechanical resonators,Elastic Characterization of SWNT-Reinforced Polymer Thin Films Using a Nanoindener-Based Bending Test,0.547574
+Design strategies for controlling damping in micromechanical and nanomechanical resonators,"Microelectromechanical systems-materials and devices II : symposium held December 1-2, 2008, Boston, Massachusetts, U.S.A.",0.539235
+Design strategies for controlling damping in micromechanical and nanomechanical resonators,Production and characterization of a novel carbon nanotube/titanium nitride nanocomposite,0.34769
+Design strategies for controlling damping in micromechanical and nanomechanical resonators,Power Density Limits and Benchmarking of Resonant Piezoelectric Vibration Energy Harvesters,0.456647
+Residual force enhancement is regulated by titin in skeletal and cardiac myofibrils,"Thermoelastic Damping in Layered Microresonators: Critical Frequencies, Peak Values, and Rule of Mixture",0.116755
+Residual force enhancement is regulated by titin in skeletal and cardiac myofibrils,Low-Stress CMOS-Compatible Silicon Carbide Surface-Micromachining Technology—Part I: Process Development and Characterization,0.059504
+Residual force enhancement is regulated by titin in skeletal and cardiac myofibrils,Thermoelastic Damping in Hollow and Slotted Microresonators,0.087283
+Residual force enhancement is regulated by titin in skeletal and cardiac myofibrils,Controlling damping and quality factors of silicon microcantilevers by selective metallization,0.145881
+Residual force enhancement is regulated by titin in skeletal and cardiac myofibrils,A Microcantilever Platform for Measuring Internal Friction in Thin Films Using Thermoelastic Damping for Calibration,0.153387
+Residual force enhancement is regulated by titin in skeletal and cardiac myofibrils,Mechanical spectroscopy of nanocrystalline aluminum films: effects of frequency and grain size on internal friction,0.15231
+Residual force enhancement is regulated by titin in skeletal and cardiac myofibrils,"Piezoelectric Vibration Energy Harvesters Modeling, Design, Limits, and Benchmarking",0.068043
+Residual force enhancement is regulated by titin in skeletal and cardiac myofibrils,Direct-write microfabrication of single-chamber micro solid oxide fuel cells,0.038583
+Residual force enhancement is regulated by titin in skeletal and cardiac myofibrils,Ingestible Gastrointestinal Sampling Devices: State-of-the-Art and Future Directions,0.088102
+Residual force enhancement is regulated by titin in skeletal and cardiac myofibrils,Design Methodology for a Rankine Microturbine: Thermomechanical Analysis and Material Selection,0.037893
+Residual force enhancement is regulated by titin in skeletal and cardiac myofibrils,LOW-TEMPERATURE (&amp;lt;300ºC) LOW-STRESS SILICON CARBIDE SURFACE MICROMACHINING FABRICATION TECHNOLOGY,0.119697
+Residual force enhancement is regulated by titin in skeletal and cardiac myofibrils,Estimating Damping in Microresonators by Measuring Thermomechanical Noise Using Laser Doppler Vibrometry,0.149216
+Residual force enhancement is regulated by titin in skeletal and cardiac myofibrils,Methods for Atomistic Simulations of Linear and Nonlinear Damping in Nanomechanical Resonators,0.108063
+Residual force enhancement is regulated by titin in skeletal and cardiac myofibrils,"Design, implementation, and application of a microresonator platform for measuring energy dissipation by internal friction in nanowires",0.169777
+Residual force enhancement is regulated by titin in skeletal and cardiac myofibrils,Analysis of Nonlinear Thermoelastic Dissipation in Euler-Bernoulli Beam Resonators,0.126986
+Residual force enhancement is regulated by titin in skeletal and cardiac myofibrils,Achieving High Quality Factor Without Vacuum Packaging by High Density Proof Mass Integration in Vibration Energy Harvesters,0.132333
+Residual force enhancement is regulated by titin in skeletal and cardiac myofibrils,Damage and Failure in Silicon-Glass-Metal Microfluidic Joints for High-Pressure MEMS Devices,0.096212
+Residual force enhancement is regulated by titin in skeletal and cardiac myofibrils,Colloidal self-assembly on internal surfaces of partially sealed microchannels,0.06658
+Residual force enhancement is regulated by titin in skeletal and cardiac myofibrils,Atomistic simulations of material damping in amorphous silicon nanoresonators,0.160337
+Residual force enhancement is regulated by titin in skeletal and cardiac myofibrils,Elastic Characterization of SWNT-Reinforced Polymer Thin Films Using a Nanoindener-Based Bending Test,0.17146
+Residual force enhancement is regulated by titin in skeletal and cardiac myofibrils,"Microelectromechanical systems-materials and devices II : symposium held December 1-2, 2008, Boston, Massachusetts, U.S.A.",0.169938
+Residual force enhancement is regulated by titin in skeletal and cardiac myofibrils,Production and characterization of a novel carbon nanotube/titanium nitride nanocomposite,0.150977
+Residual force enhancement is regulated by titin in skeletal and cardiac myofibrils,Power Density Limits and Benchmarking of Resonant Piezoelectric Vibration Energy Harvesters,0.057755
+"Thermoelastic Damping in Layered Microresonators: Critical Frequencies, Peak Values, and Rule of Mixture",Low-Stress CMOS-Compatible Silicon Carbide Surface-Micromachining Technology—Part I: Process Development and Characterization,0.268326
+"Thermoelastic Damping in Layered Microresonators: Critical Frequencies, Peak Values, and Rule of Mixture",Thermoelastic Damping in Hollow and Slotted Microresonators,0.81153
+"Thermoelastic Damping in Layered Microresonators: Critical Frequencies, Peak Values, and Rule of Mixture",Controlling damping and quality factors of silicon microcantilevers by selective metallization,0.717054
+"Thermoelastic Damping in Layered Microresonators: Critical Frequencies, Peak Values, and Rule of Mixture",A Microcantilever Platform for Measuring Internal Friction in Thin Films Using Thermoelastic Damping for Calibration,0.706539
+"Thermoelastic Damping in Layered Microresonators: Critical Frequencies, Peak Values, and Rule of Mixture",Mechanical spectroscopy of nanocrystalline aluminum films: effects of frequency and grain size on internal friction,0.639141
+"Thermoelastic Damping in Layered Microresonators: Critical Frequencies, Peak Values, and Rule of Mixture","Piezoelectric Vibration Energy Harvesters Modeling, Design, Limits, and Benchmarking",0.454912
+"Thermoelastic Damping in Layered Microresonators: Critical Frequencies, Peak Values, and Rule of Mixture",Direct-write microfabrication of single-chamber micro solid oxide fuel cells,0.165818
+"Thermoelastic Damping in Layered Microresonators: Critical Frequencies, Peak Values, and Rule of Mixture",Ingestible Gastrointestinal Sampling Devices: State-of-the-Art and Future Directions,0.05099
+"Thermoelastic Damping in Layered Microresonators: Critical Frequencies, Peak Values, and Rule of Mixture",Design Methodology for a Rankine Microturbine: Thermomechanical Analysis and Material Selection,0.3285
+"Thermoelastic Damping in Layered Microresonators: Critical Frequencies, Peak Values, and Rule of Mixture",LOW-TEMPERATURE (&amp;lt;300ºC) LOW-STRESS SILICON CARBIDE SURFACE MICROMACHINING FABRICATION TECHNOLOGY,0.429066
+"Thermoelastic Damping in Layered Microresonators: Critical Frequencies, Peak Values, and Rule of Mixture",Estimating Damping in Microresonators by Measuring Thermomechanical Noise Using Laser Doppler Vibrometry,0.721244
+"Thermoelastic Damping in Layered Microresonators: Critical Frequencies, Peak Values, and Rule of Mixture",Methods for Atomistic Simulations of Linear and Nonlinear Damping in Nanomechanical Resonators,0.537271
+"Thermoelastic Damping in Layered Microresonators: Critical Frequencies, Peak Values, and Rule of Mixture","Design, implementation, and application of a microresonator platform for measuring energy dissipation by internal friction in nanowires",0.633783
+"Thermoelastic Damping in Layered Microresonators: Critical Frequencies, Peak Values, and Rule of Mixture",Analysis of Nonlinear Thermoelastic Dissipation in Euler-Bernoulli Beam Resonators,0.677878
+"Thermoelastic Damping in Layered Microresonators: Critical Frequencies, Peak Values, and Rule of Mixture",Achieving High Quality Factor Without Vacuum Packaging by High Density Proof Mass Integration in Vibration Energy Harvesters,0.507198
+"Thermoelastic Damping in Layered Microresonators: Critical Frequencies, Peak Values, and Rule of Mixture",Damage and Failure in Silicon-Glass-Metal Microfluidic Joints for High-Pressure MEMS Devices,0.329104
+"Thermoelastic Damping in Layered Microresonators: Critical Frequencies, Peak Values, and Rule of Mixture",Colloidal self-assembly on internal surfaces of partially sealed microchannels,0.169133
+"Thermoelastic Damping in Layered Microresonators: Critical Frequencies, Peak Values, and Rule of Mixture",Atomistic simulations of material damping in amorphous silicon nanoresonators,0.622131
+"Thermoelastic Damping in Layered Microresonators: Critical Frequencies, Peak Values, and Rule of Mixture",Elastic Characterization of SWNT-Reinforced Polymer Thin Films Using a Nanoindener-Based Bending Test,0.528935
+"Thermoelastic Damping in Layered Microresonators: Critical Frequencies, Peak Values, and Rule of Mixture","Microelectromechanical systems-materials and devices II : symposium held December 1-2, 2008, Boston, Massachusetts, U.S.A.",0.455463
+"Thermoelastic Damping in Layered Microresonators: Critical Frequencies, Peak Values, and Rule of Mixture",Production and characterization of a novel carbon nanotube/titanium nitride nanocomposite,0.239187
+"Thermoelastic Damping in Layered Microresonators: Critical Frequencies, Peak Values, and Rule of Mixture",Power Density Limits and Benchmarking of Resonant Piezoelectric Vibration Energy Harvesters,0.425838
+Low-Stress CMOS-Compatible Silicon Carbide Surface-Micromachining Technology—Part I: Process Development and Characterization,Thermoelastic Damping in Hollow and Slotted Microresonators,0.359165
+Low-Stress CMOS-Compatible Silicon Carbide Surface-Micromachining Technology—Part I: Process Development and Characterization,Controlling damping and quality factors of silicon microcantilevers by selective metallization,0.482597
+Low-Stress CMOS-Compatible Silicon Carbide Surface-Micromachining Technology—Part I: Process Development and Characterization,A Microcantilever Platform for Measuring Internal Friction in Thin Films Using Thermoelastic Damping for Calibration,0.441543
+Low-Stress CMOS-Compatible Silicon Carbide Surface-Micromachining Technology—Part I: Process Development and Characterization,Mechanical spectroscopy of nanocrystalline aluminum films: effects of frequency and grain size on internal friction,0.442653
+Low-Stress CMOS-Compatible Silicon Carbide Surface-Micromachining Technology—Part I: Process Development and Characterization,"Piezoelectric Vibration Energy Harvesters Modeling, Design, Limits, and Benchmarking",0.255657
+Low-Stress CMOS-Compatible Silicon Carbide Surface-Micromachining Technology—Part I: Process Development and Characterization,Direct-write microfabrication of single-chamber micro solid oxide fuel cells,0.395283
+Low-Stress CMOS-Compatible Silicon Carbide Surface-Micromachining Technology—Part I: Process Development and Characterization,Ingestible Gastrointestinal Sampling Devices: State-of-the-Art and Future Directions,0.089715
+Low-Stress CMOS-Compatible Silicon Carbide Surface-Micromachining Technology—Part I: Process Development and Characterization,Design Methodology for a Rankine Microturbine: Thermomechanical Analysis and Material Selection,0.379563
+Low-Stress CMOS-Compatible Silicon Carbide Surface-Micromachining Technology—Part I: Process Development and Characterization,LOW-TEMPERATURE (&amp;lt;300ºC) LOW-STRESS SILICON CARBIDE SURFACE MICROMACHINING FABRICATION TECHNOLOGY,0.872243
+Low-Stress CMOS-Compatible Silicon Carbide Surface-Micromachining Technology—Part I: Process Development and Characterization,Estimating Damping in Microresonators by Measuring Thermomechanical Noise Using Laser Doppler Vibrometry,0.336472
+Low-Stress CMOS-Compatible Silicon Carbide Surface-Micromachining Technology—Part I: Process Development and Characterization,Methods for Atomistic Simulations of Linear and Nonlinear Damping in Nanomechanical Resonators,0.276412
+Low-Stress CMOS-Compatible Silicon Carbide Surface-Micromachining Technology—Part I: Process Development and Characterization,"Design, implementation, and application of a microresonator platform for measuring energy dissipation by internal friction in nanowires",0.45369
+Low-Stress CMOS-Compatible Silicon Carbide Surface-Micromachining Technology—Part I: Process Development and Characterization,Analysis of Nonlinear Thermoelastic Dissipation in Euler-Bernoulli Beam Resonators,0.149336
+Low-Stress CMOS-Compatible Silicon Carbide Surface-Micromachining Technology—Part I: Process Development and Characterization,Achieving High Quality Factor Without Vacuum Packaging by High Density Proof Mass Integration in Vibration Energy Harvesters,0.388496
+Low-Stress CMOS-Compatible Silicon Carbide Surface-Micromachining Technology—Part I: Process Development and Characterization,Damage and Failure in Silicon-Glass-Metal Microfluidic Joints for High-Pressure MEMS Devices,0.48499
+Low-Stress CMOS-Compatible Silicon Carbide Surface-Micromachining Technology—Part I: Process Development and Characterization,Colloidal self-assembly on internal surfaces of partially sealed microchannels,0.285534
+Low-Stress CMOS-Compatible Silicon Carbide Surface-Micromachining Technology—Part I: Process Development and Characterization,Atomistic simulations of material damping in amorphous silicon nanoresonators,0.289168
+Low-Stress CMOS-Compatible Silicon Carbide Surface-Micromachining Technology—Part I: Process Development and Characterization,Elastic Characterization of SWNT-Reinforced Polymer Thin Films Using a Nanoindener-Based Bending Test,0.38607
+Low-Stress CMOS-Compatible Silicon Carbide Surface-Micromachining Technology—Part I: Process Development and Characterization,"Microelectromechanical systems-materials and devices II : symposium held December 1-2, 2008, Boston, Massachusetts, U.S.A.",0.459005
+Low-Stress CMOS-Compatible Silicon Carbide Surface-Micromachining Technology—Part I: Process Development and Characterization,Production and characterization of a novel carbon nanotube/titanium nitride nanocomposite,0.388462
+Low-Stress CMOS-Compatible Silicon Carbide Surface-Micromachining Technology—Part I: Process Development and Characterization,Power Density Limits and Benchmarking of Resonant Piezoelectric Vibration Energy Harvesters,0.239075
+Thermoelastic Damping in Hollow and Slotted Microresonators,Controlling damping and quality factors of silicon microcantilevers by selective metallization,0.708954
+Thermoelastic Damping in Hollow and Slotted Microresonators,A Microcantilever Platform for Measuring Internal Friction in Thin Films Using Thermoelastic Damping for Calibration,0.689976
+Thermoelastic Damping in Hollow and Slotted Microresonators,Mechanical spectroscopy of nanocrystalline aluminum films: effects of frequency and grain size on internal friction,0.568855
+Thermoelastic Damping in Hollow and Slotted Microresonators,"Piezoelectric Vibration Energy Harvesters Modeling, Design, Limits, and Benchmarking",0.426393
+Thermoelastic Damping in Hollow and Slotted Microresonators,Direct-write microfabrication of single-chamber micro solid oxide fuel cells,0.194657
+Thermoelastic Damping in Hollow and Slotted Microresonators,Ingestible Gastrointestinal Sampling Devices: State-of-the-Art and Future Directions,0.061971
+Thermoelastic Damping in Hollow and Slotted Microresonators,Design Methodology for a Rankine Microturbine: Thermomechanical Analysis and Material Selection,0.37487
+Thermoelastic Damping in Hollow and Slotted Microresonators,LOW-TEMPERATURE (&amp;lt;300ºC) LOW-STRESS SILICON CARBIDE SURFACE MICROMACHINING FABRICATION TECHNOLOGY,0.519454
+Thermoelastic Damping in Hollow and Slotted Microresonators,Estimating Damping in Microresonators by Measuring Thermomechanical Noise Using Laser Doppler Vibrometry,0.758227
+Thermoelastic Damping in Hollow and Slotted Microresonators,Methods for Atomistic Simulations of Linear and Nonlinear Damping in Nanomechanical Resonators,0.473096
+Thermoelastic Damping in Hollow and Slotted Microresonators,"Design, implementation, and application of a microresonator platform for measuring energy dissipation by internal friction in nanowires",0.65215
+Thermoelastic Damping in Hollow and Slotted Microresonators,Analysis of Nonlinear Thermoelastic Dissipation in Euler-Bernoulli Beam Resonators,0.57463
+Thermoelastic Damping in Hollow and Slotted Microresonators,Achieving High Quality Factor Without Vacuum Packaging by High Density Proof Mass Integration in Vibration Energy Harvesters,0.477208
+Thermoelastic Damping in Hollow and Slotted Microresonators,Damage and Failure in Silicon-Glass-Metal Microfluidic Joints for High-Pressure MEMS Devices,0.48011
+Thermoelastic Damping in Hollow and Slotted Microresonators,Colloidal self-assembly on internal surfaces of partially sealed microchannels,0.259031
+Thermoelastic Damping in Hollow and Slotted Microresonators,Atomistic simulations of material damping in amorphous silicon nanoresonators,0.585803
+Thermoelastic Damping in Hollow and Slotted Microresonators,Elastic Characterization of SWNT-Reinforced Polymer Thin Films Using a Nanoindener-Based Bending Test,0.458327
+Thermoelastic Damping in Hollow and Slotted Microresonators,"Microelectromechanical systems-materials and devices II : symposium held December 1-2, 2008, Boston, Massachusetts, U.S.A.",0.467812
+Thermoelastic Damping in Hollow and Slotted Microresonators,Production and characterization of a novel carbon nanotube/titanium nitride nanocomposite,0.172479
+Thermoelastic Damping in Hollow and Slotted Microresonators,Power Density Limits and Benchmarking of Resonant Piezoelectric Vibration Energy Harvesters,0.42658
+Controlling damping and quality factors of silicon microcantilevers by selective metallization,A Microcantilever Platform for Measuring Internal Friction in Thin Films Using Thermoelastic Damping for Calibration,0.792209
+Controlling damping and quality factors of silicon microcantilevers by selective metallization,Mechanical spectroscopy of nanocrystalline aluminum films: effects of frequency and grain size on internal friction,0.723595
+Controlling damping and quality factors of silicon microcantilevers by selective metallization,"Piezoelectric Vibration Energy Harvesters Modeling, Design, Limits, and Benchmarking",0.512813
+Controlling damping and quality factors of silicon microcantilevers by selective metallization,Direct-write microfabrication of single-chamber micro solid oxide fuel cells,0.281141
+Controlling damping and quality factors of silicon microcantilevers by selective metallization,Ingestible Gastrointestinal Sampling Devices: State-of-the-Art and Future Directions,0.090178
+Controlling damping and quality factors of silicon microcantilevers by selective metallization,Design Methodology for a Rankine Microturbine: Thermomechanical Analysis and Material Selection,0.387826
+Controlling damping and quality factors of silicon microcantilevers by selective metallization,LOW-TEMPERATURE (&amp;lt;300ºC) LOW-STRESS SILICON CARBIDE SURFACE MICROMACHINING FABRICATION TECHNOLOGY,0.616641
+Controlling damping and quality factors of silicon microcantilevers by selective metallization,Estimating Damping in Microresonators by Measuring Thermomechanical Noise Using Laser Doppler Vibrometry,0.678866
+Controlling damping and quality factors of silicon microcantilevers by selective metallization,Methods for Atomistic Simulations of Linear and Nonlinear Damping in Nanomechanical Resonators,0.504953
+Controlling damping and quality factors of silicon microcantilevers by selective metallization,"Design, implementation, and application of a microresonator platform for measuring energy dissipation by internal friction in nanowires",0.747665
+Controlling damping and quality factors of silicon microcantilevers by selective metallization,Analysis of Nonlinear Thermoelastic Dissipation in Euler-Bernoulli Beam Resonators,0.42856
+Controlling damping and quality factors of silicon microcantilevers by selective metallization,Achieving High Quality Factor Without Vacuum Packaging by High Density Proof Mass Integration in Vibration Energy Harvesters,0.653951
+Controlling damping and quality factors of silicon microcantilevers by selective metallization,Damage and Failure in Silicon-Glass-Metal Microfluidic Joints for High-Pressure MEMS Devices,0.47571
+Controlling damping and quality factors of silicon microcantilevers by selective metallization,Colloidal self-assembly on internal surfaces of partially sealed microchannels,0.307128
+Controlling damping and quality factors of silicon microcantilevers by selective metallization,Atomistic simulations of material damping in amorphous silicon nanoresonators,0.58856
+Controlling damping and quality factors of silicon microcantilevers by selective metallization,Elastic Characterization of SWNT-Reinforced Polymer Thin Films Using a Nanoindener-Based Bending Test,0.554871
+Controlling damping and quality factors of silicon microcantilevers by selective metallization,"Microelectromechanical systems-materials and devices II : symposium held December 1-2, 2008, Boston, Massachusetts, U.S.A.",0.492701
+Controlling damping and quality factors of silicon microcantilevers by selective metallization,Production and characterization of a novel carbon nanotube/titanium nitride nanocomposite,0.38743
+Controlling damping and quality factors of silicon microcantilevers by selective metallization,Power Density Limits and Benchmarking of Resonant Piezoelectric Vibration Energy Harvesters,0.512244
+A Microcantilever Platform for Measuring Internal Friction in Thin Films Using Thermoelastic Damping for Calibration,Mechanical spectroscopy of nanocrystalline aluminum films: effects of frequency and grain size on internal friction,0.841615
+A Microcantilever Platform for Measuring Internal Friction in Thin Films Using Thermoelastic Damping for Calibration,"Piezoelectric Vibration Energy Harvesters Modeling, Design, Limits, and Benchmarking",0.484859
+A Microcantilever Platform for Measuring Internal Friction in Thin Films Using Thermoelastic Damping for Calibration,Direct-write microfabrication of single-chamber micro solid oxide fuel cells,0.183939
+A Microcantilever Platform for Measuring Internal Friction in Thin Films Using Thermoelastic Damping for Calibration,Ingestible Gastrointestinal Sampling Devices: State-of-the-Art and Future Directions,0.05626
+A Microcantilever Platform for Measuring Internal Friction in Thin Films Using Thermoelastic Damping for Calibration,Design Methodology for a Rankine Microturbine: Thermomechanical Analysis and Material Selection,0.312259
+A Microcantilever Platform for Measuring Internal Friction in Thin Films Using Thermoelastic Damping for Calibration,LOW-TEMPERATURE (&amp;lt;300ºC) LOW-STRESS SILICON CARBIDE SURFACE MICROMACHINING FABRICATION TECHNOLOGY,0.548722
+A Microcantilever Platform for Measuring Internal Friction in Thin Films Using Thermoelastic Damping for Calibration,Estimating Damping in Microresonators by Measuring Thermomechanical Noise Using Laser Doppler Vibrometry,0.722112
+A Microcantilever Platform for Measuring Internal Friction in Thin Films Using Thermoelastic Damping for Calibration,Methods for Atomistic Simulations of Linear and Nonlinear Damping in Nanomechanical Resonators,0.599619
+A Microcantilever Platform for Measuring Internal Friction in Thin Films Using Thermoelastic Damping for Calibration,"Design, implementation, and application of a microresonator platform for measuring energy dissipation by internal friction in nanowires",0.87162
+A Microcantilever Platform for Measuring Internal Friction in Thin Films Using Thermoelastic Damping for Calibration,Analysis of Nonlinear Thermoelastic Dissipation in Euler-Bernoulli Beam Resonators,0.580474
+A Microcantilever Platform for Measuring Internal Friction in Thin Films Using Thermoelastic Damping for Calibration,Achieving High Quality Factor Without Vacuum Packaging by High Density Proof Mass Integration in Vibration Energy Harvesters,0.640725
+A Microcantilever Platform for Measuring Internal Friction in Thin Films Using Thermoelastic Damping for Calibration,Damage and Failure in Silicon-Glass-Metal Microfluidic Joints for High-Pressure MEMS Devices,0.414797
+A Microcantilever Platform for Measuring Internal Friction in Thin Films Using Thermoelastic Damping for Calibration,Colloidal self-assembly on internal surfaces of partially sealed microchannels,0.27245
+A Microcantilever Platform for Measuring Internal Friction in Thin Films Using Thermoelastic Damping for Calibration,Atomistic simulations of material damping in amorphous silicon nanoresonators,0.617623
+A Microcantilever Platform for Measuring Internal Friction in Thin Films Using Thermoelastic Damping for Calibration,Elastic Characterization of SWNT-Reinforced Polymer Thin Films Using a Nanoindener-Based Bending Test,0.548604
+A Microcantilever Platform for Measuring Internal Friction in Thin Films Using Thermoelastic Damping for Calibration,"Microelectromechanical systems-materials and devices II : symposium held December 1-2, 2008, Boston, Massachusetts, U.S.A.",0.465638
+A Microcantilever Platform for Measuring Internal Friction in Thin Films Using Thermoelastic Damping for Calibration,Production and characterization of a novel carbon nanotube/titanium nitride nanocomposite,0.370836
+A Microcantilever Platform for Measuring Internal Friction in Thin Films Using Thermoelastic Damping for Calibration,Power Density Limits and Benchmarking of Resonant Piezoelectric Vibration Energy Harvesters,0.466645
+Mechanical spectroscopy of nanocrystalline aluminum films: effects of frequency and grain size on internal friction,"Piezoelectric Vibration Energy Harvesters Modeling, Design, Limits, and Benchmarking",0.370486
+Mechanical spectroscopy of nanocrystalline aluminum films: effects of frequency and grain size on internal friction,Direct-write microfabrication of single-chamber micro solid oxide fuel cells,0.207938
+Mechanical spectroscopy of nanocrystalline aluminum films: effects of frequency and grain size on internal friction,Ingestible Gastrointestinal Sampling Devices: State-of-the-Art and Future Directions,-0.019569
+Mechanical spectroscopy of nanocrystalline aluminum films: effects of frequency and grain size on internal friction,Design Methodology for a Rankine Microturbine: Thermomechanical Analysis and Material Selection,0.345217
+Mechanical spectroscopy of nanocrystalline aluminum films: effects of frequency and grain size on internal friction,LOW-TEMPERATURE (&amp;lt;300ºC) LOW-STRESS SILICON CARBIDE SURFACE MICROMACHINING FABRICATION TECHNOLOGY,0.575725
+Mechanical spectroscopy of nanocrystalline aluminum films: effects of frequency and grain size on internal friction,Estimating Damping in Microresonators by Measuring Thermomechanical Noise Using Laser Doppler Vibrometry,0.645048
+Mechanical spectroscopy of nanocrystalline aluminum films: effects of frequency and grain size on internal friction,Methods for Atomistic Simulations of Linear and Nonlinear Damping in Nanomechanical Resonators,0.602096
+Mechanical spectroscopy of nanocrystalline aluminum films: effects of frequency and grain size on internal friction,"Design, implementation, and application of a microresonator platform for measuring energy dissipation by internal friction in nanowires",0.85094
+Mechanical spectroscopy of nanocrystalline aluminum films: effects of frequency and grain size on internal friction,Analysis of Nonlinear Thermoelastic Dissipation in Euler-Bernoulli Beam Resonators,0.549213
+Mechanical spectroscopy of nanocrystalline aluminum films: effects of frequency and grain size on internal friction,Achieving High Quality Factor Without Vacuum Packaging by High Density Proof Mass Integration in Vibration Energy Harvesters,0.554427
+Mechanical spectroscopy of nanocrystalline aluminum films: effects of frequency and grain size on internal friction,Damage and Failure in Silicon-Glass-Metal Microfluidic Joints for High-Pressure MEMS Devices,0.318269
+Mechanical spectroscopy of nanocrystalline aluminum films: effects of frequency and grain size on internal friction,Colloidal self-assembly on internal surfaces of partially sealed microchannels,0.262505
+Mechanical spectroscopy of nanocrystalline aluminum films: effects of frequency and grain size on internal friction,Atomistic simulations of material damping in amorphous silicon nanoresonators,0.635464
+Mechanical spectroscopy of nanocrystalline aluminum films: effects of frequency and grain size on internal friction,Elastic Characterization of SWNT-Reinforced Polymer Thin Films Using a Nanoindener-Based Bending Test,0.49535
+Mechanical spectroscopy of nanocrystalline aluminum films: effects of frequency and grain size on internal friction,"Microelectromechanical systems-materials and devices II : symposium held December 1-2, 2008, Boston, Massachusetts, U.S.A.",0.441603
+Mechanical spectroscopy of nanocrystalline aluminum films: effects of frequency and grain size on internal friction,Production and characterization of a novel carbon nanotube/titanium nitride nanocomposite,0.437583
+Mechanical spectroscopy of nanocrystalline aluminum films: effects of frequency and grain size on internal friction,Power Density Limits and Benchmarking of Resonant Piezoelectric Vibration Energy Harvesters,0.359953
+"Piezoelectric Vibration Energy Harvesters Modeling, Design, Limits, and Benchmarking",Direct-write microfabrication of single-chamber micro solid oxide fuel cells,0.189894
+"Piezoelectric Vibration Energy Harvesters Modeling, Design, Limits, and Benchmarking",Ingestible Gastrointestinal Sampling Devices: State-of-the-Art and Future Directions,0.146225
+"Piezoelectric Vibration Energy Harvesters Modeling, Design, Limits, and Benchmarking",Design Methodology for a Rankine Microturbine: Thermomechanical Analysis and Material Selection,0.419453
+"Piezoelectric Vibration Energy Harvesters Modeling, Design, Limits, and Benchmarking",LOW-TEMPERATURE (&amp;lt;300ºC) LOW-STRESS SILICON CARBIDE SURFACE MICROMACHINING FABRICATION TECHNOLOGY,0.390121
+"Piezoelectric Vibration Energy Harvesters Modeling, Design, Limits, and Benchmarking",Estimating Damping in Microresonators by Measuring Thermomechanical Noise Using Laser Doppler Vibrometry,0.407732
+"Piezoelectric Vibration Energy Harvesters Modeling, Design, Limits, and Benchmarking",Methods for Atomistic Simulations of Linear and Nonlinear Damping in Nanomechanical Resonators,0.307511
+"Piezoelectric Vibration Energy Harvesters Modeling, Design, Limits, and Benchmarking","Design, implementation, and application of a microresonator platform for measuring energy dissipation by internal friction in nanowires",0.40203
+"Piezoelectric Vibration Energy Harvesters Modeling, Design, Limits, and Benchmarking",Analysis of Nonlinear Thermoelastic Dissipation in Euler-Bernoulli Beam Resonators,0.336906
+"Piezoelectric Vibration Energy Harvesters Modeling, Design, Limits, and Benchmarking",Achieving High Quality Factor Without Vacuum Packaging by High Density Proof Mass Integration in Vibration Energy Harvesters,0.755791
+"Piezoelectric Vibration Energy Harvesters Modeling, Design, Limits, and Benchmarking",Damage and Failure in Silicon-Glass-Metal Microfluidic Joints for High-Pressure MEMS Devices,0.251297
+"Piezoelectric Vibration Energy Harvesters Modeling, Design, Limits, and Benchmarking",Colloidal self-assembly on internal surfaces of partially sealed microchannels,0.101882
+"Piezoelectric Vibration Energy Harvesters Modeling, Design, Limits, and Benchmarking",Atomistic simulations of material damping in amorphous silicon nanoresonators,0.31824
+"Piezoelectric Vibration Energy Harvesters Modeling, Design, Limits, and Benchmarking",Elastic Characterization of SWNT-Reinforced Polymer Thin Films Using a Nanoindener-Based Bending Test,0.397528
+"Piezoelectric Vibration Energy Harvesters Modeling, Design, Limits, and Benchmarking","Microelectromechanical systems-materials and devices II : symposium held December 1-2, 2008, Boston, Massachusetts, U.S.A.",0.303776
+"Piezoelectric Vibration Energy Harvesters Modeling, Design, Limits, and Benchmarking",Production and characterization of a novel carbon nanotube/titanium nitride nanocomposite,0.233177
+"Piezoelectric Vibration Energy Harvesters Modeling, Design, Limits, and Benchmarking",Power Density Limits and Benchmarking of Resonant Piezoelectric Vibration Energy Harvesters,0.912725
+Direct-write microfabrication of single-chamber micro solid oxide fuel cells,Ingestible Gastrointestinal Sampling Devices: State-of-the-Art and Future Directions,0.124185
+Direct-write microfabrication of single-chamber micro solid oxide fuel cells,Design Methodology for a Rankine Microturbine: Thermomechanical Analysis and Material Selection,0.420383
+Direct-write microfabrication of single-chamber micro solid oxide fuel cells,LOW-TEMPERATURE (&amp;lt;300ºC) LOW-STRESS SILICON CARBIDE SURFACE MICROMACHINING FABRICATION TECHNOLOGY,0.405629
+Direct-write microfabrication of single-chamber micro solid oxide fuel cells,Estimating Damping in Microresonators by Measuring Thermomechanical Noise Using Laser Doppler Vibrometry,0.171327
+Direct-write microfabrication of single-chamber micro solid oxide fuel cells,Methods for Atomistic Simulations of Linear and Nonlinear Damping in Nanomechanical Resonators,0.165584
+Direct-write microfabrication of single-chamber micro solid oxide fuel cells,"Design, implementation, and application of a microresonator platform for measuring energy dissipation by internal friction in nanowires",0.201593
+Direct-write microfabrication of single-chamber micro solid oxide fuel cells,Analysis of Nonlinear Thermoelastic Dissipation in Euler-Bernoulli Beam Resonators,0.036826
+Direct-write microfabrication of single-chamber micro solid oxide fuel cells,Achieving High Quality Factor Without Vacuum Packaging by High Density Proof Mass Integration in Vibration Energy Harvesters,0.245993
+Direct-write microfabrication of single-chamber micro solid oxide fuel cells,Damage and Failure in Silicon-Glass-Metal Microfluidic Joints for High-Pressure MEMS Devices,0.261129
+Direct-write microfabrication of single-chamber micro solid oxide fuel cells,Colloidal self-assembly on internal surfaces of partially sealed microchannels,0.256409
+Direct-write microfabrication of single-chamber micro solid oxide fuel cells,Atomistic simulations of material damping in amorphous silicon nanoresonators,0.122395
+Direct-write microfabrication of single-chamber micro solid oxide fuel cells,Elastic Characterization of SWNT-Reinforced Polymer Thin Films Using a Nanoindener-Based Bending Test,0.180795
+Direct-write microfabrication of single-chamber micro solid oxide fuel cells,"Microelectromechanical systems-materials and devices II : symposium held December 1-2, 2008, Boston, Massachusetts, U.S.A.",0.364762
+Direct-write microfabrication of single-chamber micro solid oxide fuel cells,Production and characterization of a novel carbon nanotube/titanium nitride nanocomposite,0.285623
+Direct-write microfabrication of single-chamber micro solid oxide fuel cells,Power Density Limits and Benchmarking of Resonant Piezoelectric Vibration Energy Harvesters,0.241034
+Ingestible Gastrointestinal Sampling Devices: State-of-the-Art and Future Directions,Design Methodology for a Rankine Microturbine: Thermomechanical Analysis and Material Selection,0.105843
+Ingestible Gastrointestinal Sampling Devices: State-of-the-Art and Future Directions,LOW-TEMPERATURE (&amp;lt;300ºC) LOW-STRESS SILICON CARBIDE SURFACE MICROMACHINING FABRICATION TECHNOLOGY,0.070146
+Ingestible Gastrointestinal Sampling Devices: State-of-the-Art and Future Directions,Estimating Damping in Microresonators by Measuring Thermomechanical Noise Using Laser Doppler Vibrometry,0.036771
+Ingestible Gastrointestinal Sampling Devices: State-of-the-Art and Future Directions,Methods for Atomistic Simulations of Linear and Nonlinear Damping in Nanomechanical Resonators,-0.00939
+Ingestible Gastrointestinal Sampling Devices: State-of-the-Art and Future Directions,"Design, implementation, and application of a microresonator platform for measuring energy dissipation by internal friction in nanowires",0.067977
+Ingestible Gastrointestinal Sampling Devices: State-of-the-Art and Future Directions,Analysis of Nonlinear Thermoelastic Dissipation in Euler-Bernoulli Beam Resonators,-0.067456
+Ingestible Gastrointestinal Sampling Devices: State-of-the-Art and Future Directions,Achieving High Quality Factor Without Vacuum Packaging by High Density Proof Mass Integration in Vibration Energy Harvesters,0.104278
+Ingestible Gastrointestinal Sampling Devices: State-of-the-Art and Future Directions,Damage and Failure in Silicon-Glass-Metal Microfluidic Joints for High-Pressure MEMS Devices,0.150124
+Ingestible Gastrointestinal Sampling Devices: State-of-the-Art and Future Directions,Colloidal self-assembly on internal surfaces of partially sealed microchannels,0.25202
+Ingestible Gastrointestinal Sampling Devices: State-of-the-Art and Future Directions,Atomistic simulations of material damping in amorphous silicon nanoresonators,-0.049818
+Ingestible Gastrointestinal Sampling Devices: State-of-the-Art and Future Directions,Elastic Characterization of SWNT-Reinforced Polymer Thin Films Using a Nanoindener-Based Bending Test,0.08178
+Ingestible Gastrointestinal Sampling Devices: State-of-the-Art and Future Directions,"Microelectromechanical systems-materials and devices II : symposium held December 1-2, 2008, Boston, Massachusetts, U.S.A.",0.228378
+Ingestible Gastrointestinal Sampling Devices: State-of-the-Art and Future Directions,Production and characterization of a novel carbon nanotube/titanium nitride nanocomposite,0.049687
+Ingestible Gastrointestinal Sampling Devices: State-of-the-Art and Future Directions,Power Density Limits and Benchmarking of Resonant Piezoelectric Vibration Energy Harvesters,0.159946
+Design Methodology for a Rankine Microturbine: Thermomechanical Analysis and Material Selection,LOW-TEMPERATURE (&amp;lt;300ºC) LOW-STRESS SILICON CARBIDE SURFACE MICROMACHINING FABRICATION TECHNOLOGY,0.493493
+Design Methodology for a Rankine Microturbine: Thermomechanical Analysis and Material Selection,Estimating Damping in Microresonators by Measuring Thermomechanical Noise Using Laser Doppler Vibrometry,0.359125
+Design Methodology for a Rankine Microturbine: Thermomechanical Analysis and Material Selection,Methods for Atomistic Simulations of Linear and Nonlinear Damping in Nanomechanical Resonators,0.228065
+Design Methodology for a Rankine Microturbine: Thermomechanical Analysis and Material Selection,"Design, implementation, and application of a microresonator platform for measuring energy dissipation by internal friction in nanowires",0.302298
+Design Methodology for a Rankine Microturbine: Thermomechanical Analysis and Material Selection,Analysis of Nonlinear Thermoelastic Dissipation in Euler-Bernoulli Beam Resonators,0.252307
+Design Methodology for a Rankine Microturbine: Thermomechanical Analysis and Material Selection,Achieving High Quality Factor Without Vacuum Packaging by High Density Proof Mass Integration in Vibration Energy Harvesters,0.435213
+Design Methodology for a Rankine Microturbine: Thermomechanical Analysis and Material Selection,Damage and Failure in Silicon-Glass-Metal Microfluidic Joints for High-Pressure MEMS Devices,0.414
+Design Methodology for a Rankine Microturbine: Thermomechanical Analysis and Material Selection,Colloidal self-assembly on internal surfaces of partially sealed microchannels,0.225827
+Design Methodology for a Rankine Microturbine: Thermomechanical Analysis and Material Selection,Atomistic simulations of material damping in amorphous silicon nanoresonators,0.203702
+Design Methodology for a Rankine Microturbine: Thermomechanical Analysis and Material Selection,Elastic Characterization of SWNT-Reinforced Polymer Thin Films Using a Nanoindener-Based Bending Test,0.324623
+Design Methodology for a Rankine Microturbine: Thermomechanical Analysis and Material Selection,"Microelectromechanical systems-materials and devices II : symposium held December 1-2, 2008, Boston, Massachusetts, U.S.A.",0.387364
+Design Methodology for a Rankine Microturbine: Thermomechanical Analysis and Material Selection,Production and characterization of a novel carbon nanotube/titanium nitride nanocomposite,0.277075
+Design Methodology for a Rankine Microturbine: Thermomechanical Analysis and Material Selection,Power Density Limits and Benchmarking of Resonant Piezoelectric Vibration Energy Harvesters,0.416761
+LOW-TEMPERATURE (&amp;lt;300ºC) LOW-STRESS SILICON CARBIDE SURFACE MICROMACHINING FABRICATION TECHNOLOGY,Estimating Damping in Microresonators by Measuring Thermomechanical Noise Using Laser Doppler Vibrometry,0.508228
+LOW-TEMPERATURE (&amp;lt;300ºC) LOW-STRESS SILICON CARBIDE SURFACE MICROMACHINING FABRICATION TECHNOLOGY,Methods for Atomistic Simulations of Linear and Nonlinear Damping in Nanomechanical Resonators,0.375149
+LOW-TEMPERATURE (&amp;lt;300ºC) LOW-STRESS SILICON CARBIDE SURFACE MICROMACHINING FABRICATION TECHNOLOGY,"Design, implementation, and application of a microresonator platform for measuring energy dissipation by internal friction in nanowires",0.580213
+LOW-TEMPERATURE (&amp;lt;300ºC) LOW-STRESS SILICON CARBIDE SURFACE MICROMACHINING FABRICATION TECHNOLOGY,Analysis of Nonlinear Thermoelastic Dissipation in Euler-Bernoulli Beam Resonators,0.299374
+LOW-TEMPERATURE (&amp;lt;300ºC) LOW-STRESS SILICON CARBIDE SURFACE MICROMACHINING FABRICATION TECHNOLOGY,Achieving High Quality Factor Without Vacuum Packaging by High Density Proof Mass Integration in Vibration Energy Harvesters,0.502006
+LOW-TEMPERATURE (&amp;lt;300ºC) LOW-STRESS SILICON CARBIDE SURFACE MICROMACHINING FABRICATION TECHNOLOGY,Damage and Failure in Silicon-Glass-Metal Microfluidic Joints for High-Pressure MEMS Devices,0.532242
+LOW-TEMPERATURE (&amp;lt;300ºC) LOW-STRESS SILICON CARBIDE SURFACE MICROMACHINING FABRICATION TECHNOLOGY,Colloidal self-assembly on internal surfaces of partially sealed microchannels,0.28556
+LOW-TEMPERATURE (&amp;lt;300ºC) LOW-STRESS SILICON CARBIDE SURFACE MICROMACHINING FABRICATION TECHNOLOGY,Atomistic simulations of material damping in amorphous silicon nanoresonators,0.458882
+LOW-TEMPERATURE (&amp;lt;300ºC) LOW-STRESS SILICON CARBIDE SURFACE MICROMACHINING FABRICATION TECHNOLOGY,Elastic Characterization of SWNT-Reinforced Polymer Thin Films Using a Nanoindener-Based Bending Test,0.502559
+LOW-TEMPERATURE (&amp;lt;300ºC) LOW-STRESS SILICON CARBIDE SURFACE MICROMACHINING FABRICATION TECHNOLOGY,"Microelectromechanical systems-materials and devices II : symposium held December 1-2, 2008, Boston, Massachusetts, U.S.A.",0.533034
+LOW-TEMPERATURE (&amp;lt;300ºC) LOW-STRESS SILICON CARBIDE SURFACE MICROMACHINING FABRICATION TECHNOLOGY,Production and characterization of a novel carbon nanotube/titanium nitride nanocomposite,0.409367
+LOW-TEMPERATURE (&amp;lt;300ºC) LOW-STRESS SILICON CARBIDE SURFACE MICROMACHINING FABRICATION TECHNOLOGY,Power Density Limits and Benchmarking of Resonant Piezoelectric Vibration Energy Harvesters,0.353943
+Estimating Damping in Microresonators by Measuring Thermomechanical Noise Using Laser Doppler Vibrometry,Methods for Atomistic Simulations of Linear and Nonlinear Damping in Nanomechanical Resonators,0.621118
+Estimating Damping in Microresonators by Measuring Thermomechanical Noise Using Laser Doppler Vibrometry,"Design, implementation, and application of a microresonator platform for measuring energy dissipation by internal friction in nanowires",0.68311
+Estimating Damping in Microresonators by Measuring Thermomechanical Noise Using Laser Doppler Vibrometry,Analysis of Nonlinear Thermoelastic Dissipation in Euler-Bernoulli Beam Resonators,0.587245
+Estimating Damping in Microresonators by Measuring Thermomechanical Noise Using Laser Doppler Vibrometry,Achieving High Quality Factor Without Vacuum Packaging by High Density Proof Mass Integration in Vibration Energy Harvesters,0.537737
+Estimating Damping in Microresonators by Measuring Thermomechanical Noise Using Laser Doppler Vibrometry,Damage and Failure in Silicon-Glass-Metal Microfluidic Joints for High-Pressure MEMS Devices,0.379744
+Estimating Damping in Microresonators by Measuring Thermomechanical Noise Using Laser Doppler Vibrometry,Colloidal self-assembly on internal surfaces of partially sealed microchannels,0.216241
+Estimating Damping in Microresonators by Measuring Thermomechanical Noise Using Laser Doppler Vibrometry,Atomistic simulations of material damping in amorphous silicon nanoresonators,0.652538
+Estimating Damping in Microresonators by Measuring Thermomechanical Noise Using Laser Doppler Vibrometry,Elastic Characterization of SWNT-Reinforced Polymer Thin Films Using a Nanoindener-Based Bending Test,0.422908
+Estimating Damping in Microresonators by Measuring Thermomechanical Noise Using Laser Doppler Vibrometry,"Microelectromechanical systems-materials and devices II : symposium held December 1-2, 2008, Boston, Massachusetts, U.S.A.",0.424503
+Estimating Damping in Microresonators by Measuring Thermomechanical Noise Using Laser Doppler Vibrometry,Production and characterization of a novel carbon nanotube/titanium nitride nanocomposite,0.171324
+Estimating Damping in Microresonators by Measuring Thermomechanical Noise Using Laser Doppler Vibrometry,Power Density Limits and Benchmarking of Resonant Piezoelectric Vibration Energy Harvesters,0.448957
+Methods for Atomistic Simulations of Linear and Nonlinear Damping in Nanomechanical Resonators,"Design, implementation, and application of a microresonator platform for measuring energy dissipation by internal friction in nanowires",0.669743
+Methods for Atomistic Simulations of Linear and Nonlinear Damping in Nanomechanical Resonators,Analysis of Nonlinear Thermoelastic Dissipation in Euler-Bernoulli Beam Resonators,0.562027
+Methods for Atomistic Simulations of Linear and Nonlinear Damping in Nanomechanical Resonators,Achieving High Quality Factor Without Vacuum Packaging by High Density Proof Mass Integration in Vibration Energy Harvesters,0.436236
+Methods for Atomistic Simulations of Linear and Nonlinear Damping in Nanomechanical Resonators,Damage and Failure in Silicon-Glass-Metal Microfluidic Joints for High-Pressure MEMS Devices,0.173356
+Methods for Atomistic Simulations of Linear and Nonlinear Damping in Nanomechanical Resonators,Colloidal self-assembly on internal surfaces of partially sealed microchannels,0.204251
+Methods for Atomistic Simulations of Linear and Nonlinear Damping in Nanomechanical Resonators,Atomistic simulations of material damping in amorphous silicon nanoresonators,0.798401
+Methods for Atomistic Simulations of Linear and Nonlinear Damping in Nanomechanical Resonators,Elastic Characterization of SWNT-Reinforced Polymer Thin Films Using a Nanoindener-Based Bending Test,0.400206
+Methods for Atomistic Simulations of Linear and Nonlinear Damping in Nanomechanical Resonators,"Microelectromechanical systems-materials and devices II : symposium held December 1-2, 2008, Boston, Massachusetts, U.S.A.",0.313995
+Methods for Atomistic Simulations of Linear and Nonlinear Damping in Nanomechanical Resonators,Production and characterization of a novel carbon nanotube/titanium nitride nanocomposite,0.284326
+Methods for Atomistic Simulations of Linear and Nonlinear Damping in Nanomechanical Resonators,Power Density Limits and Benchmarking of Resonant Piezoelectric Vibration Energy Harvesters,0.335237
+"Design, implementation, and application of a microresonator platform for measuring energy dissipation by internal friction in nanowires",Analysis of Nonlinear Thermoelastic Dissipation in Euler-Bernoulli Beam Resonators,0.530233
+"Design, implementation, and application of a microresonator platform for measuring energy dissipation by internal friction in nanowires",Achieving High Quality Factor Without Vacuum Packaging by High Density Proof Mass Integration in Vibration Energy Harvesters,0.561548
+"Design, implementation, and application of a microresonator platform for measuring energy dissipation by internal friction in nanowires",Damage and Failure in Silicon-Glass-Metal Microfluidic Joints for High-Pressure MEMS Devices,0.392737
+"Design, implementation, and application of a microresonator platform for measuring energy dissipation by internal friction in nanowires",Colloidal self-assembly on internal surfaces of partially sealed microchannels,0.304492
+"Design, implementation, and application of a microresonator platform for measuring energy dissipation by internal friction in nanowires",Atomistic simulations of material damping in amorphous silicon nanoresonators,0.661287
+"Design, implementation, and application of a microresonator platform for measuring energy dissipation by internal friction in nanowires",Elastic Characterization of SWNT-Reinforced Polymer Thin Films Using a Nanoindener-Based Bending Test,0.562092
+"Design, implementation, and application of a microresonator platform for measuring energy dissipation by internal friction in nanowires","Microelectromechanical systems-materials and devices II : symposium held December 1-2, 2008, Boston, Massachusetts, U.S.A.",0.468589
+"Design, implementation, and application of a microresonator platform for measuring energy dissipation by internal friction in nanowires",Production and characterization of a novel carbon nanotube/titanium nitride nanocomposite,0.420895
+"Design, implementation, and application of a microresonator platform for measuring energy dissipation by internal friction in nanowires",Power Density Limits and Benchmarking of Resonant Piezoelectric Vibration Energy Harvesters,0.387627
+Analysis of Nonlinear Thermoelastic Dissipation in Euler-Bernoulli Beam Resonators,Achieving High Quality Factor Without Vacuum Packaging by High Density Proof Mass Integration in Vibration Energy Harvesters,0.376171
+Analysis of Nonlinear Thermoelastic Dissipation in Euler-Bernoulli Beam Resonators,Damage and Failure in Silicon-Glass-Metal Microfluidic Joints for High-Pressure MEMS Devices,0.211932
+Analysis of Nonlinear Thermoelastic Dissipation in Euler-Bernoulli Beam Resonators,Colloidal self-assembly on internal surfaces of partially sealed microchannels,0.031132
+Analysis of Nonlinear Thermoelastic Dissipation in Euler-Bernoulli Beam Resonators,Atomistic simulations of material damping in amorphous silicon nanoresonators,0.501011
+Analysis of Nonlinear Thermoelastic Dissipation in Euler-Bernoulli Beam Resonators,Elastic Characterization of SWNT-Reinforced Polymer Thin Films Using a Nanoindener-Based Bending Test,0.438717
+Analysis of Nonlinear Thermoelastic Dissipation in Euler-Bernoulli Beam Resonators,"Microelectromechanical systems-materials and devices II : symposium held December 1-2, 2008, Boston, Massachusetts, U.S.A.",0.275848
+Analysis of Nonlinear Thermoelastic Dissipation in Euler-Bernoulli Beam Resonators,Production and characterization of a novel carbon nanotube/titanium nitride nanocomposite,0.263002
+Analysis of Nonlinear Thermoelastic Dissipation in Euler-Bernoulli Beam Resonators,Power Density Limits and Benchmarking of Resonant Piezoelectric Vibration Energy Harvesters,0.272667
+Achieving High Quality Factor Without Vacuum Packaging by High Density Proof Mass Integration in Vibration Energy Harvesters,Damage and Failure in Silicon-Glass-Metal Microfluidic Joints for High-Pressure MEMS Devices,0.417809
+Achieving High Quality Factor Without Vacuum Packaging by High Density Proof Mass Integration in Vibration Energy Harvesters,Colloidal self-assembly on internal surfaces of partially sealed microchannels,0.291438
+Achieving High Quality Factor Without Vacuum Packaging by High Density Proof Mass Integration in Vibration Energy Harvesters,Atomistic simulations of material damping in amorphous silicon nanoresonators,0.462694
+Achieving High Quality Factor Without Vacuum Packaging by High Density Proof Mass Integration in Vibration Energy Harvesters,Elastic Characterization of SWNT-Reinforced Polymer Thin Films Using a Nanoindener-Based Bending Test,0.42067
+Achieving High Quality Factor Without Vacuum Packaging by High Density Proof Mass Integration in Vibration Energy Harvesters,"Microelectromechanical systems-materials and devices II : symposium held December 1-2, 2008, Boston, Massachusetts, U.S.A.",0.465351
+Achieving High Quality Factor Without Vacuum Packaging by High Density Proof Mass Integration in Vibration Energy Harvesters,Production and characterization of a novel carbon nanotube/titanium nitride nanocomposite,0.370211
+Achieving High Quality Factor Without Vacuum Packaging by High Density Proof Mass Integration in Vibration Energy Harvesters,Power Density Limits and Benchmarking of Resonant Piezoelectric Vibration Energy Harvesters,0.753281
+Damage and Failure in Silicon-Glass-Metal Microfluidic Joints for High-Pressure MEMS Devices,Colloidal self-assembly on internal surfaces of partially sealed microchannels,0.433536
+Damage and Failure in Silicon-Glass-Metal Microfluidic Joints for High-Pressure MEMS Devices,Atomistic simulations of material damping in amorphous silicon nanoresonators,0.24322
+Damage and Failure in Silicon-Glass-Metal Microfluidic Joints for High-Pressure MEMS Devices,Elastic Characterization of SWNT-Reinforced Polymer Thin Films Using a Nanoindener-Based Bending Test,0.401126
+Damage and Failure in Silicon-Glass-Metal Microfluidic Joints for High-Pressure MEMS Devices,"Microelectromechanical systems-materials and devices II : symposium held December 1-2, 2008, Boston, Massachusetts, U.S.A.",0.539063
+Damage and Failure in Silicon-Glass-Metal Microfluidic Joints for High-Pressure MEMS Devices,Production and characterization of a novel carbon nanotube/titanium nitride nanocomposite,0.251653
+Damage and Failure in Silicon-Glass-Metal Microfluidic Joints for High-Pressure MEMS Devices,Power Density Limits and Benchmarking of Resonant Piezoelectric Vibration Energy Harvesters,0.220093
+Colloidal self-assembly on internal surfaces of partially sealed microchannels,Atomistic simulations of material damping in amorphous silicon nanoresonators,0.216216
+Colloidal self-assembly on internal surfaces of partially sealed microchannels,Elastic Characterization of SWNT-Reinforced Polymer Thin Films Using a Nanoindener-Based Bending Test,0.142794
+Colloidal self-assembly on internal surfaces of partially sealed microchannels,"Microelectromechanical systems-materials and devices II : symposium held December 1-2, 2008, Boston, Massachusetts, U.S.A.",0.419187
+Colloidal self-assembly on internal surfaces of partially sealed microchannels,Production and characterization of a novel carbon nanotube/titanium nitride nanocomposite,0.216112
+Colloidal self-assembly on internal surfaces of partially sealed microchannels,Power Density Limits and Benchmarking of Resonant Piezoelectric Vibration Energy Harvesters,0.104564
+Atomistic simulations of material damping in amorphous silicon nanoresonators,Elastic Characterization of SWNT-Reinforced Polymer Thin Films Using a Nanoindener-Based Bending Test,0.390707
+Atomistic simulations of material damping in amorphous silicon nanoresonators,"Microelectromechanical systems-materials and devices II : symposium held December 1-2, 2008, Boston, Massachusetts, U.S.A.",0.38281
+Atomistic simulations of material damping in amorphous silicon nanoresonators,Production and characterization of a novel carbon nanotube/titanium nitride nanocomposite,0.209135
+Atomistic simulations of material damping in amorphous silicon nanoresonators,Power Density Limits and Benchmarking of Resonant Piezoelectric Vibration Energy Harvesters,0.327148
+Elastic Characterization of SWNT-Reinforced Polymer Thin Films Using a Nanoindener-Based Bending Test,"Microelectromechanical systems-materials and devices II : symposium held December 1-2, 2008, Boston, Massachusetts, U.S.A.",0.380355
+Elastic Characterization of SWNT-Reinforced Polymer Thin Films Using a Nanoindener-Based Bending Test,Production and characterization of a novel carbon nanotube/titanium nitride nanocomposite,0.596971
+Elastic Characterization of SWNT-Reinforced Polymer Thin Films Using a Nanoindener-Based Bending Test,Power Density Limits and Benchmarking of Resonant Piezoelectric Vibration Energy Harvesters,0.342104
+"Microelectromechanical systems-materials and devices II : symposium held December 1-2, 2008, Boston, Massachusetts, U.S.A.",Production and characterization of a novel carbon nanotube/titanium nitride nanocomposite,0.335326
+"Microelectromechanical systems-materials and devices II : symposium held December 1-2, 2008, Boston, Massachusetts, U.S.A.",Power Density Limits and Benchmarking of Resonant Piezoelectric Vibration Energy Harvesters,0.294032
+Production and characterization of a novel carbon nanotube/titanium nitride nanocomposite,Power Density Limits and Benchmarking of Resonant Piezoelectric Vibration Energy Harvesters,0.222107

@@ -1,1327 +1,742 @@
-abstract_i,abstract_j,cosine_similarity
-0,1,0.409439
-0,2,0.719783
-0,3,0.778446
-0,4,0.544692
-0,5,0.832166
-0,6,0.762841
-0,7,0.736685
-0,8,0.871992
-0,9,0.764076
-0,10,0.770694
-0,11,0.719044
-0,12,0.839418
-0,13,0.702389
-0,14,0.683823
-0,15,0.780143
-0,16,0.749475
-0,17,0.831107
-0,18,0.522193
-0,19,0.413231
-0,20,0.987087
-0,21,0.764729
-0,22,0.832615
-0,23,0.727804
-0,24,0.818164
-0,25,0.451567
-0,26,0.777265
-0,27,0.736332
-0,28,0.858624
-0,29,0.885302
-0,30,0.742335
-0,31,0.418277
-0,32,0.805929
-0,33,0.741677
-0,34,0.739582
-0,35,0.825099
-0,36,0.786472
-0,37,0.851074
-0,38,0.804524
-0,39,0.759118
-0,40,0.824074
-0,41,0.702619
-0,42,0.78547
-0,43,0.702478
-0,44,0.705679
-0,45,0.812476
-0,46,0.722468
-0,47,0.763849
-0,48,0.77903
-0,49,0.710506
-0,50,0.789085
-0,51,0.814971
-1,2,0.443179
-1,3,0.427099
-1,4,0.535373
-1,5,0.506295
-1,6,0.451521
-1,7,0.336322
-1,8,0.406404
-1,9,0.555243
-1,10,0.48944
-1,11,0.439192
-1,12,0.47859
-1,13,0.443077
-1,14,0.466247
-1,15,0.372825
-1,16,0.497966
-1,17,0.500286
-1,18,0.55886
-1,19,0.996669
-1,20,0.419694
-1,21,0.482925
-1,22,0.378853
-1,23,0.282328
-1,24,0.378322
-1,25,0.423854
-1,26,0.454002
-1,27,0.289997
-1,28,0.337952
-1,29,0.406245
-1,30,0.384166
-1,31,0.474145
-1,32,0.305015
-1,33,0.356791
-1,34,0.333836
-1,35,0.435438
-1,36,0.353492
-1,37,0.330971
-1,38,0.305797
-1,39,0.547421
-1,40,0.440462
-1,41,0.446524
-1,42,0.469165
-1,43,0.311039
-1,44,0.463
-1,45,0.380601
-1,46,0.328783
-1,47,0.467967
-1,48,0.460904
-1,49,0.419892
-1,50,0.480585
-1,51,0.364129
-2,3,0.733908
-2,4,0.541655
-2,5,0.707958
-2,6,0.691422
-2,7,0.547287
-2,8,0.763314
-2,9,0.701507
-2,10,0.676431
-2,11,0.997385
-2,12,0.700382
-2,13,0.638552
-2,14,0.712837
-2,15,0.789124
-2,16,0.752777
-2,17,0.703328
-2,18,0.531001
-2,19,0.447331
-2,20,0.729288
-2,21,0.66584
-2,22,0.599283
-2,23,0.578518
-2,24,0.728114
-2,25,0.493294
-2,26,0.782845
-2,27,0.589699
-2,28,0.739072
-2,29,0.780485
-2,30,0.752267
-2,31,0.44364
-2,32,0.667729
-2,33,0.802065
-2,34,0.530879
-2,35,0.666721
-2,36,0.788455
-2,37,0.728221
-2,38,0.664054
-2,39,0.695946
-2,40,0.669039
-2,41,0.693208
-2,42,0.745798
-2,43,0.547804
-2,44,0.729993
-2,45,0.722296
-2,46,0.790098
-2,47,0.687751
-2,48,0.689606
-2,49,0.82803
-2,50,0.650533
-2,51,0.767302
-3,4,0.619294
-3,5,0.739123
-3,6,0.687334
-3,7,0.655614
-3,8,0.858537
-3,9,0.743124
-3,10,0.782638
-3,11,0.737087
-3,12,0.776888
-3,13,0.629512
-3,14,0.776091
-3,15,0.689397
-3,16,0.766099
-3,17,0.742296
-3,18,0.590567
-3,19,0.431875
-3,20,0.788758
-3,21,0.779242
-3,22,0.7287
-3,23,0.670244
-3,24,0.792288
-3,25,0.493497
-3,26,0.709823
-3,27,0.680637
-3,28,0.779168
-3,29,0.849778
-3,30,0.795788
-3,31,0.428941
-3,32,0.782665
-3,33,0.800723
-3,34,0.656641
-3,35,0.771177
-3,36,0.680112
-3,37,0.802066
-3,38,0.782166
-3,39,0.745793
-3,40,0.77992
-3,41,0.697057
-3,42,0.740744
-3,43,0.661884
-3,44,0.71863
-3,45,0.793689
-3,46,0.782625
-3,47,0.696534
-3,48,0.751547
-3,49,0.792651
-3,50,0.654636
-3,51,0.884364
-4,5,0.560026
-4,6,0.532318
-4,7,0.507937
-4,8,0.61586
-4,9,0.622859
-4,10,0.565817
-4,11,0.537093
-4,12,0.638872
-4,13,0.478881
-4,14,0.673336
-4,15,0.464833
-4,16,0.586392
-4,17,0.545724
-4,18,0.980209
-4,19,0.536368
-4,20,0.557408
-4,21,0.555246
-4,22,0.508291
-4,23,0.400125
-4,24,0.513062
-4,25,0.654992
-4,26,0.551361
-4,27,0.409864
-4,28,0.451857
-4,29,0.608984
-4,30,0.603059
-4,31,0.688894
-4,32,0.521384
-4,33,0.530535
-4,34,0.507373
-4,35,0.530938
-4,36,0.453418
-4,37,0.472772
-4,38,0.521365
-4,39,0.622805
-4,40,0.538888
-4,41,0.474466
-4,42,0.602931
-4,43,0.50815
-4,44,0.680655
-4,45,0.513998
-4,46,0.504213
-4,47,0.558616
-4,48,0.495529
-4,49,0.620605
-4,50,0.467289
-4,51,0.559219
-5,6,0.855197
-5,7,0.588904
-5,8,0.818927
-5,9,0.871686
-5,10,0.77501
-5,11,0.706405
-5,12,0.834765
-5,13,0.661351
-5,14,0.650967
-5,15,0.757649
-5,16,0.771803
-5,17,0.990823
-5,18,0.542194
-5,19,0.508885
-5,20,0.843184
-5,21,0.766458
-5,22,0.728795
-5,23,0.583602
-5,24,0.781493
-5,25,0.466678
-5,26,0.784566
-5,27,0.588598
-5,28,0.732433
-5,29,0.833006
-5,30,0.733101
-5,31,0.507112
-5,32,0.664291
-5,33,0.692815
-5,34,0.59416
-5,35,0.7272
-5,36,0.768307
-5,37,0.704486
-5,38,0.658632
-5,39,0.863265
-5,40,0.729012
-5,41,0.731038
-5,42,0.818821
-5,43,0.610594
-5,44,0.74814
-5,45,0.780776
-5,46,0.682059
-5,47,0.84982
-5,48,0.768682
-5,49,0.710433
-5,50,0.779102
-5,51,0.702148
-6,7,0.566204
-6,8,0.765047
-6,9,0.818401
-6,10,0.779734
-6,11,0.690756
-6,12,0.812021
-6,13,0.659609
-6,14,0.651942
-6,15,0.719907
-6,16,0.807645
-6,17,0.85879
-6,18,0.503163
-6,19,0.455185
-6,20,0.768041
-6,21,0.771092
-6,22,0.711957
-6,23,0.576204
-6,24,0.742382
-6,25,0.483697
-6,26,0.773975
-6,27,0.581209
-6,28,0.64019
-6,29,0.773181
-6,30,0.670146
-6,31,0.510224
-6,32,0.609188
-6,33,0.618662
-6,34,0.568971
-6,35,0.688424
-6,36,0.732972
-6,37,0.619688
-6,38,0.60069
-6,39,0.810746
-6,40,0.688395
-6,41,0.720207
-6,42,0.836034
-6,43,0.639642
-6,44,0.6908
-6,45,0.748279
-6,46,0.61273
-6,47,0.990831
-6,48,0.715402
-6,49,0.718376
-6,50,0.758895
-6,51,0.639021
-7,8,0.708177
-7,9,0.544418
-7,10,0.629265
-7,11,0.550863
-7,12,0.715176
-7,13,0.521895
-7,14,0.546173
-7,15,0.548381
-7,16,0.688209
-7,17,0.601293
-7,18,0.485462
-7,19,0.339783
-7,20,0.726124
-7,21,0.62672
-7,22,0.843427
-7,23,0.730052
-7,24,0.646134
-7,25,0.43022
-7,26,0.535565
-7,27,0.733087
-7,28,0.717131
-7,29,0.714349
-7,30,0.600178
-7,31,0.373987
-7,32,0.802917
-7,33,0.606086
-7,34,0.958319
-7,35,0.781692
-7,36,0.55406
-7,37,0.726273
-7,38,0.804692
-7,39,0.540971
-7,40,0.778943
-7,41,0.528072
-7,42,0.655244
-7,43,0.868717
-7,44,0.575317
-7,45,0.646705
-7,46,0.583784
-7,47,0.586564
-7,48,0.618201
-7,49,0.57386
-7,50,0.572066
-7,51,0.717859
-8,9,0.776228
-8,10,0.768941
-8,11,0.768815
-8,12,0.871808
-8,13,0.652072
-8,14,0.74035
-8,15,0.815652
-8,16,0.811912
-8,17,0.813323
-8,18,0.589312
-8,19,0.405929
-8,20,0.886669
-8,21,0.760612
-8,22,0.814722
-8,23,0.69473
-8,24,0.798165
-8,25,0.487415
-8,26,0.784678
-8,27,0.7074
-8,28,0.825922
-8,29,0.984555
-8,30,0.79204
-8,31,0.441784
-8,32,0.81238
-8,33,0.833431
-8,34,0.736751
-8,35,0.81867
-8,36,0.814393
-8,37,0.837972
-8,38,0.813607
-8,39,0.771088
-8,40,0.825887
-8,41,0.683037
-8,42,0.814439
-8,43,0.719171
-8,44,0.756457
-8,45,0.794599
-8,46,0.809907
-8,47,0.775279
-8,48,0.759147
-8,49,0.766655
-8,50,0.710664
-8,51,0.868114
-9,10,0.793429
-9,11,0.704024
-9,12,0.831401
-9,13,0.692763
-9,14,0.729602
-9,15,0.650235
-9,16,0.744936
-9,17,0.877576
-9,18,0.607453
-9,19,0.55365
-9,20,0.771278
-9,21,0.781526
-9,22,0.685993
-9,23,0.540752
-9,24,0.7322
-9,25,0.50328
-9,26,0.826456
-9,27,0.549272
-9,28,0.617879
-9,29,0.77371
-9,30,0.754719
-9,31,0.562564
-9,32,0.632328
-9,33,0.706888
-9,34,0.554711
-9,35,0.716316
-9,36,0.646193
-9,37,0.611808
-9,38,0.626562
-9,39,0.989314
-9,40,0.722694
-9,41,0.681833
-9,42,0.825691
-9,43,0.57728
-9,44,0.770603
-9,45,0.736876
-9,46,0.702325
-9,47,0.825003
-9,48,0.698582
-9,49,0.752764
-9,50,0.729004
-9,51,0.690486
-10,11,0.67754
-10,12,0.765764
-10,13,0.678084
-10,14,0.764539
-10,15,0.649558
-10,16,0.776017
-10,17,0.788666
-10,18,0.531607
-10,19,0.489334
-10,20,0.768763
-10,21,0.997781
-10,22,0.751633
-10,23,0.644321
-10,24,0.777609
-10,25,0.480644
-10,26,0.707605
-10,27,0.650795
-10,28,0.703403
-10,29,0.76149
-10,30,0.753424
-10,31,0.501462
-10,32,0.691214
-10,33,0.679698
-10,34,0.629311
-10,35,0.747786
-10,36,0.648579
-10,37,0.701936
-10,38,0.6888
-10,39,0.798585
-10,40,0.752597
-10,41,0.630262
-10,42,0.742896
-10,43,0.63529
-10,44,0.702408
-10,45,0.780468
-10,46,0.662716
-10,47,0.785773
-10,48,0.662133
-10,49,0.719053
-10,50,0.673942
-10,51,0.741966
-11,12,0.702463
-11,13,0.638649
-11,14,0.712314
-11,15,0.794886
-11,16,0.7536
-11,17,0.703428
-11,18,0.528652
-11,19,0.441206
-11,20,0.725674
-11,21,0.666044
-11,22,0.602567
-11,23,0.585307
-11,24,0.73052
-11,25,0.492553
-11,26,0.787206
-11,27,0.597053
-11,28,0.735599
-11,29,0.781655
-11,30,0.757199
-11,31,0.433632
-11,32,0.670558
-11,33,0.812709
-11,34,0.535419
-11,35,0.668131
-11,36,0.79125
-11,37,0.728311
-11,38,0.668481
-11,39,0.70064
-11,40,0.672191
-11,41,0.686674
-11,42,0.746823
-11,43,0.553263
-11,44,0.731026
-11,45,0.723998
-11,46,0.799789
-11,47,0.688483
-11,48,0.686361
-11,49,0.833704
-11,50,0.643737
-11,51,0.768803
-12,13,0.635023
-12,14,0.72967
-12,15,0.716631
-12,16,0.813007
-12,17,0.837497
-12,18,0.618949
-12,19,0.479882
-12,20,0.846175
-12,21,0.755573
-12,22,0.841704
-12,23,0.646307
-12,24,0.765028
-12,25,0.54224
-12,26,0.805035
-12,27,0.659023
-12,28,0.727744
-12,29,0.867317
-12,30,0.740463
-12,31,0.541049
-12,32,0.7664
-12,33,0.72909
-12,34,0.743358
-12,35,0.800874
-12,36,0.717493
-12,37,0.729821
-12,38,0.763817
-12,39,0.837276
-12,40,0.805001
-12,41,0.710351
-12,42,0.950405
-12,43,0.750078
-12,44,0.737051
-12,45,0.769629
-12,46,0.708965
-12,47,0.821687
-12,48,0.765096
-12,49,0.745604
-12,50,0.725385
-12,51,0.786902
-13,14,0.6692
-13,15,0.647456
-13,16,0.628609
-13,17,0.674618
-13,18,0.459605
-13,19,0.448838
-13,20,0.708601
-13,21,0.674657
-13,22,0.626493
-13,23,0.586334
-13,24,0.762905
-13,25,0.444108
-13,26,0.636994
-13,27,0.597772
-13,28,0.624364
-13,29,0.673484
-13,30,0.69556
-13,31,0.473826
-13,32,0.622157
-13,33,0.558655
-13,34,0.51178
-13,35,0.716498
-13,36,0.628211
-13,37,0.626751
-13,38,0.618543
-13,39,0.6998
-13,40,0.717765
-13,41,0.670764
-13,42,0.652631
-13,43,0.547817
-13,44,0.729968
-13,45,0.76569
-13,46,0.529199
-13,47,0.662629
-13,48,0.683466
-13,49,0.640552
-13,50,0.707668
-13,51,0.61366
-14,15,0.644897
-14,16,0.722593
-14,17,0.653483
-14,18,0.630935
-14,19,0.471728
-14,20,0.693479
-14,21,0.758272
-14,22,0.605173
-14,23,0.551358
-14,24,0.70946
-14,25,0.585999
-14,26,0.718052
-14,27,0.563887
-14,28,0.642548
-14,29,0.740519
-14,30,0.73168
-14,31,0.574334
-14,32,0.639926
-14,33,0.696673
-14,34,0.541539
-14,35,0.667313
-14,36,0.632437
-14,37,0.650821
-14,38,0.637951
-14,39,0.737309
-14,40,0.676963
-14,41,0.611782
-14,42,0.729446
-14,43,0.564895
-14,44,0.729985
-14,45,0.712767
-14,46,0.674244
-14,47,0.668203
-14,48,0.622775
-14,49,0.779521
-14,50,0.615704
-14,51,0.743091
-15,16,0.737869
-15,17,0.743495
-15,18,0.450636
-15,19,0.374947
-15,20,0.78693
-15,21,0.637558
-15,22,0.636787
-15,23,0.642828
-15,24,0.756398
-15,25,0.458185
-15,26,0.76713
-15,27,0.652989
-15,28,0.80207
-15,29,0.848432
-15,30,0.719881
-15,31,0.380687
-15,32,0.64365
-15,33,0.75392
-15,34,0.531763
-15,35,0.654161
-15,36,0.986627
-15,37,0.786702
-15,38,0.642046
-15,39,0.6434
-15,40,0.656129
-15,41,0.660965
-15,42,0.751135
-15,43,0.547943
-15,44,0.679313
-15,45,0.745461
-15,46,0.725296
-15,47,0.717801
-15,48,0.681908
-15,49,0.727033
-15,50,0.682465
-15,51,0.748669
-16,17,0.762675
-16,18,0.562377
-16,19,0.499717
-16,20,0.75943
-16,21,0.770361
-16,22,0.761663
-16,23,0.607691
-16,24,0.731311
-16,25,0.500537
-16,26,0.745805
-16,27,0.614294
-16,28,0.711024
-16,29,0.800842
-16,30,0.710478
-16,31,0.475651
-16,32,0.682202
-16,33,0.731979
-16,34,0.684742
-16,35,0.737175
-16,36,0.747999
-16,37,0.693076
-16,38,0.67553
-16,39,0.740802
-16,40,0.738071
-16,41,0.726365
-16,42,0.822265
-16,43,0.662938
-16,44,0.702205
-16,45,0.7408
-16,46,0.720629
-16,47,0.809901
-16,48,0.735109
-16,49,0.747626
-16,50,0.681202
-16,51,0.731597
-17,18,0.527885
-17,19,0.501932
-17,20,0.837341
-17,21,0.780164
-17,22,0.747371
-17,23,0.59581
-17,24,0.791816
-17,25,0.463866
-17,26,0.784954
-17,27,0.601698
-17,28,0.727315
-17,29,0.827884
-17,30,0.734167
-17,31,0.497713
-17,32,0.682684
-17,33,0.691709
-17,34,0.607074
-17,35,0.744433
-17,36,0.749313
-17,37,0.704932
-17,38,0.677723
-17,39,0.87258
-17,40,0.747361
-17,41,0.739397
-17,42,0.823024
-17,43,0.622373
-17,44,0.750884
-17,45,0.791926
-17,46,0.6818
-17,47,0.854397
-17,48,0.778217
-17,49,0.71769
-17,50,0.789339
-17,51,0.704265
-18,19,0.557588
-18,20,0.53081
-18,21,0.519349
-18,22,0.491481
-18,23,0.37903
-18,24,0.49283
-18,25,0.653192
-18,26,0.533574
-18,27,0.390496
-18,28,0.429288
-18,29,0.580765
-18,30,0.578236
-18,31,0.656471
-18,32,0.500174
-18,33,0.521089
-18,34,0.485998
-18,35,0.510218
-18,36,0.437067
-18,37,0.44598
-18,38,0.501731
-18,39,0.603654
-18,40,0.519697
-18,41,0.470989
-18,42,0.584642
-18,43,0.481625
-18,44,0.66992
-18,45,0.491757
-18,46,0.491437
-18,47,0.530273
-18,48,0.49073
-18,49,0.596405
-18,50,0.453719
-18,51,0.53684
-19,20,0.425144
-19,21,0.483795
-19,22,0.378324
-19,23,0.280975
-19,24,0.382187
-19,25,0.424588
-19,26,0.455496
-19,27,0.288042
-19,28,0.34481
-19,29,0.41027
-19,30,0.383808
-19,31,0.480113
-19,32,0.308633
-19,33,0.35556
-19,34,0.335379
-19,35,0.435293
-19,36,0.358496
-19,37,0.334842
-19,38,0.308161
-19,39,0.54486
-19,40,0.438727
-19,41,0.45587
-19,42,0.472921
-19,43,0.313025
-19,44,0.466746
-19,45,0.384683
-19,46,0.327833
-19,47,0.469796
-19,48,0.467862
-19,49,0.42194
-19,50,0.491101
-19,51,0.367809
-20,21,0.763164
-20,22,0.827351
-20,23,0.725929
-20,24,0.817427
-20,25,0.45472
-20,26,0.780685
-20,27,0.733446
-20,28,0.870497
-20,29,0.901154
-20,30,0.744763
-20,31,0.429225
-20,32,0.806586
-20,33,0.742811
-20,34,0.732549
-20,35,0.831255
-20,36,0.795922
-20,37,0.862977
-20,38,0.804429
-20,39,0.763415
-20,40,0.829127
-20,41,0.709506
-20,42,0.788469
-20,43,0.695724
-20,44,0.707295
-20,45,0.811556
-20,46,0.722121
-20,47,0.767856
-20,48,0.789043
-20,49,0.701817
-20,50,0.797923
-20,51,0.821596
-21,22,0.74796
-21,23,0.641492
-21,24,0.772216
-21,25,0.471665
-21,26,0.696902
-21,27,0.647643
-21,28,0.700941
-21,29,0.752915
-21,30,0.745818
-21,31,0.492343
-21,32,0.69199
-21,33,0.670873
-21,34,0.626296
-21,35,0.747435
-21,36,0.638505
-21,37,0.698753
-21,38,0.688179
-21,39,0.787269
-21,40,0.750984
-21,41,0.627746
-21,42,0.732984
-21,43,0.630556
-21,44,0.694453
-21,45,0.776207
-21,46,0.654765
-21,47,0.775065
-21,48,0.659298
-21,49,0.711118
-21,50,0.667882
-21,51,0.739736
-22,23,0.751743
-22,24,0.755532
-22,25,0.445239
-22,26,0.652387
-22,27,0.763325
-22,28,0.771576
-22,29,0.80975
-22,30,0.700448
-22,31,0.417272
-22,32,0.833388
-22,33,0.644623
-22,34,0.878832
-22,35,0.87484
-22,36,0.632828
-22,37,0.779177
-22,38,0.836089
-22,39,0.682621
-22,40,0.875878
-22,41,0.673464
-22,42,0.763423
-22,43,0.833496
-22,44,0.669159
-22,45,0.756192
-22,46,0.622982
-22,47,0.719269
-22,48,0.761067
-22,49,0.641397
-22,50,0.689356
-22,51,0.783934
-23,24,0.695755
-23,25,0.467052
-23,26,0.563566
-23,27,0.996002
-23,28,0.776062
-23,29,0.711983
-23,30,0.621025
-23,31,0.29171
-23,32,0.767433
-23,33,0.579402
-23,34,0.72293
-23,35,0.797132
-23,36,0.628694
-23,37,0.780566
-23,38,0.771669
-23,39,0.532848
-23,40,0.795999
-23,41,0.51857
-23,42,0.609962
-23,43,0.723725
-23,44,0.538082
-23,45,0.682067
-23,46,0.550621
-23,47,0.589189
-23,48,0.604868
-23,49,0.57643
-23,50,0.586262
-23,51,0.732737
-24,25,0.48289
-24,26,0.695478
-24,27,0.708327
-24,28,0.779772
-24,29,0.811678
-24,30,0.781694
-24,31,0.477064
-24,32,0.76599
-24,33,0.698455
-24,34,0.641582
-24,35,0.816385
-24,36,0.749499
-24,37,0.785235
-24,38,0.767656
-24,39,0.741581
-24,40,0.820967
-24,41,0.718649
-24,42,0.737877
-24,43,0.650531
-24,44,0.747396
-24,45,0.99434
-24,46,0.671518
-24,47,0.740524
-24,48,0.775015
-24,49,0.73902
-24,50,0.758706
-24,51,0.781637
-25,26,0.522619
-25,27,0.48356
-25,28,0.404281
-25,29,0.492214
-25,30,0.501864
-25,31,0.619796
-25,32,0.415226
-25,33,0.454087
-25,34,0.425746
-25,35,0.491448
-25,36,0.455253
-25,37,0.404093
-25,38,0.414272
-25,39,0.49812
-25,40,0.496033
-25,41,0.411578
-25,42,0.572423
-25,43,0.43734
-25,44,0.582895
-25,45,0.470715
-25,46,0.427381
-25,47,0.49839
-25,48,0.42086
-25,49,0.55334
-25,50,0.398762
-25,51,0.480313
-26,27,0.573856
-26,28,0.654861
-26,29,0.791392
-26,30,0.720816
-26,31,0.484278
-26,32,0.63386
-26,33,0.778259
-26,34,0.535742
-26,35,0.696658
-26,36,0.766063
-26,37,0.651471
-26,38,0.628881
-26,39,0.834035
-26,40,0.699979
-26,41,0.674148
-26,42,0.850701
-26,43,0.584903
-26,44,0.691942
-26,45,0.696997
-26,46,0.774359
-26,47,0.77731
-26,48,0.682073
-26,49,0.781806
-26,50,0.708021
-26,51,0.732577
-27,28,0.780121
-27,29,0.722832
-27,30,0.636196
-27,31,0.302621
-27,32,0.777964
-27,33,0.589544
-27,34,0.731317
-27,35,0.811528
-27,36,0.636719
-27,37,0.787243
-27,38,0.783039
-27,39,0.541305
-27,40,0.811069
-27,41,0.525029
-27,42,0.62344
-27,43,0.725413
-27,44,0.550513
-27,45,0.695242
-27,46,0.558837
-27,47,0.595857
-27,48,0.614649
-27,49,0.589057
-27,50,0.598019
-27,51,0.745831
-28,29,0.852797
-28,30,0.719778
-28,31,0.294634
-28,32,0.819224
-28,33,0.723977
-28,34,0.724234
-28,35,0.790344
-28,36,0.803061
-28,37,0.980314
-28,38,0.818657
-28,39,0.605028
-28,40,0.788295
-28,41,0.651603
-28,42,0.668818
-28,43,0.633777
-28,44,0.627015
-28,45,0.765198
-28,46,0.698866
-28,47,0.634297
-28,48,0.732678
-28,49,0.665505
-28,50,0.679095
-28,51,0.855256
-29,30,0.780513
-29,31,0.451317
-29,32,0.816705
-29,33,0.828567
-29,34,0.724158
-29,35,0.821098
-29,36,0.847856
-29,37,0.85391
-29,38,0.815721
-29,39,0.763852
-29,40,0.82477
-29,41,0.709014
-29,42,0.830547
-29,43,0.721941
-29,44,0.767902
-29,45,0.808785
-29,46,0.806087
-29,47,0.779514
-29,48,0.776025
-29,49,0.772889
-29,50,0.745914
-29,51,0.866063
-30,31,0.565785
-30,32,0.719352
-30,33,0.727475
-30,34,0.603999
-30,35,0.731209
-30,36,0.703075
-30,37,0.740335
-30,38,0.722321
-30,39,0.758353
-30,40,0.740865
-30,41,0.66482
-30,42,0.726836
-30,43,0.58852
-30,44,0.828773
-30,45,0.776235
-30,46,0.703853
-30,47,0.674372
-30,48,0.696299
-30,49,0.831436
-30,50,0.63472
-30,51,0.798946
-31,32,0.328742
-31,33,0.363877
-31,34,0.364058
-31,35,0.408088
-31,36,0.383403
-31,37,0.291735
-31,38,0.324849
-31,39,0.573272
-31,40,0.408383
-31,41,0.477524
-31,42,0.555026
-31,43,0.396546
-31,44,0.620789
-31,45,0.485381
-31,46,0.351968
-31,47,0.511886
-31,48,0.447066
-31,49,0.56943
-31,50,0.442298
-31,51,0.399257
-32,33,0.713712
-32,34,0.806157
-32,35,0.861288
-32,36,0.635089
-32,37,0.841102
-32,38,0.998106
-32,39,0.635971
-32,40,0.860913
-32,41,0.639682
-32,42,0.698109
-32,43,0.784422
-32,44,0.696785
-32,45,0.762301
-32,46,0.694979
-32,47,0.617006
-32,48,0.738372
-32,49,0.673449
-32,50,0.643046
-32,51,0.851692
-33,34,0.598437
-33,35,0.665929
-33,36,0.744219
-33,37,0.743283
-33,38,0.71074
-33,39,0.711295
-33,40,0.673777
-33,41,0.596544
-33,42,0.732362
-33,43,0.577959
-33,44,0.692749
-33,45,0.699834
-33,46,0.992804
-33,47,0.626088
-33,48,0.6369
-33,49,0.779794
-33,50,0.549515
-33,51,0.838195
-34,35,0.800784
-34,36,0.536165
-34,37,0.738818
-34,38,0.811174
-34,39,0.550379
-34,40,0.800802
-34,41,0.505929
-34,42,0.648977
-34,43,0.83657
-34,44,0.563656
-34,45,0.640015
-34,46,0.573083
-34,47,0.590693
-34,48,0.611664
-34,49,0.556122
-34,50,0.581657
-34,51,0.722899
-35,36,0.642563
-35,37,0.803766
-35,38,0.862559
-35,39,0.71721
-35,40,0.998267
-35,41,0.676267
-35,42,0.748103
-35,43,0.756071
-35,44,0.697947
-35,45,0.81762
-35,46,0.643267
-35,47,0.701619
-35,48,0.759507
-35,49,0.681999
-35,50,0.742474
-35,51,0.806655
-36,37,0.771662
-36,38,0.630239
-36,39,0.639912
-36,40,0.641507
-36,41,0.66354
-36,42,0.759451
-36,43,0.547687
-36,44,0.661603
-36,45,0.739858
-36,46,0.719736
-36,47,0.728604
-36,48,0.670415
-36,49,0.714535
-36,50,0.68884
-36,51,0.742007
-37,38,0.844138
-37,39,0.606025
-37,40,0.805458
-37,41,0.6394
-37,42,0.654612
-37,43,0.649356
-37,44,0.6264
-37,45,0.770574
-37,46,0.714939
-37,47,0.620321
-37,48,0.739854
-37,49,0.672073
-37,50,0.656843
-37,51,0.873362
-38,39,0.630243
-38,40,0.863885
-38,41,0.629566
-38,42,0.690021
-38,43,0.786862
-38,44,0.694064
-38,45,0.762074
-38,46,0.689275
-38,47,0.610536
-38,48,0.734534
-38,49,0.668979
-38,50,0.639077
-38,51,0.853349
-39,40,0.724067
-39,41,0.680753
-39,42,0.833669
-39,43,0.578603
-39,44,0.760791
-39,45,0.748775
-39,46,0.709032
-39,47,0.817728
-39,48,0.696519
-39,49,0.757957
-39,50,0.720361
-39,51,0.691274
-40,41,0.674663
-40,42,0.749439
-40,43,0.758017
-40,44,0.703945
-40,45,0.821309
-40,46,0.649715
-40,47,0.703611
-40,48,0.761322
-40,49,0.689714
-40,50,0.740388
-40,51,0.810523
-41,42,0.741609
-41,43,0.570314
-41,44,0.698128
-41,45,0.732687
-41,46,0.588847
-41,47,0.70066
-41,48,0.952269
-41,49,0.718376
-41,50,0.76508
-41,51,0.685525
-42,43,0.703498
-42,44,0.753158
-42,45,0.750074
-42,46,0.720785
-42,47,0.839117
-42,48,0.741394
-42,49,0.789173
-42,50,0.753999
-42,51,0.744861
-43,44,0.587271
-43,45,0.652949
-43,46,0.555612
-43,47,0.661239
-43,48,0.651126
-43,49,0.60639
-43,50,0.58768
-43,51,0.699296
-44,45,0.746195
-44,46,0.670899
-44,47,0.688137
-44,48,0.704725
-44,49,0.794899
-44,50,0.656767
-44,51,0.700445
-45,46,0.676305
-45,47,0.745939
-45,48,0.781885
-45,49,0.745314
-45,50,0.765854
-45,51,0.775003
-46,47,0.616135
-46,48,0.620673
-46,49,0.775138
-46,50,0.533051
-46,51,0.813631
-47,48,0.702175
-47,49,0.716641
-47,50,0.75957
-47,51,0.647575
-48,49,0.708072
-48,50,0.772207
-48,51,0.750341
-49,50,0.640093
-49,51,0.77333
-50,51,0.62953
+title_i,title_j,cosine_similarity
+The First CHIME/FRB Fast Radio Burst Catalog,CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,0.837972
+The First CHIME/FRB Fast Radio Burst Catalog,LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,0.672073
+The First CHIME/FRB Fast Radio Burst Catalog,CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,0.786702
+The First CHIME/FRB Fast Radio Burst Catalog,CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,0.873362
+The First CHIME/FRB Fast Radio Burst Catalog,A Fourier Domain “Jerk” Search for Binary Pulsars,0.404093
+The First CHIME/FRB Fast Radio Burst Catalog,A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,0.651471
+The First CHIME/FRB Fast Radio Burst Catalog,Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,0.704932
+The First CHIME/FRB Fast Radio Burst Catalog,Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,0.844138
+The First CHIME/FRB Fast Radio Burst Catalog,A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,0.729821
+The First CHIME/FRB Fast Radio Burst Catalog,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,0.606025
+The First CHIME/FRB Fast Radio Burst Catalog,An Injection System for the CHIME/FRB Experiment,0.787243
+The First CHIME/FRB Fast Radio Burst Catalog,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,0.620321
+The First CHIME/FRB Fast Radio Burst Catalog,A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,0.728311
+The First CHIME/FRB Fast Radio Burst Catalog,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,0.851074
+The First CHIME/FRB Fast Radio Burst Catalog,Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,0.650821
+The First CHIME/FRB Fast Radio Burst Catalog,CHIME/FRB Outriggers: Design Overview,0.779177
+The First CHIME/FRB Fast Radio Burst Catalog,The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,0.330971
+The First CHIME/FRB Fast Radio Burst Catalog,Multiband Detection of Repeating FRB 20180916B,0.743283
+The First CHIME/FRB Fast Radio Burst Catalog,Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,0.785235
+The First CHIME/FRB Fast Radio Burst Catalog,Flux Calibration of CHIME/FRB Intensity Data,0.805458
+The First CHIME/FRB Fast Radio Burst Catalog,FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,0.693076
+The First CHIME/FRB Fast Radio Burst Catalog,A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.738818
+The First CHIME/FRB Fast Radio Burst Catalog,Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,0.739854
+The First CHIME/FRB Fast Radio Burst Catalog,Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,0.701936
+The First CHIME/FRB Fast Radio Burst Catalog,CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,0.472772
+The First CHIME/FRB Fast Radio Burst Catalog,Commissioning Status of the Green Bank CHIME/FRB Outrigger,0.649356
+The First CHIME/FRB Fast Radio Burst Catalog,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.85391
+The First CHIME/FRB Fast Radio Burst Catalog,Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,0.626751
+The First CHIME/FRB Fast Radio Burst Catalog,Sub-second periodicity in a fast radio burst,0.740335
+The First CHIME/FRB Fast Radio Burst Catalog,A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,0.6264
+The First CHIME/FRB Fast Radio Burst Catalog,Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,0.6394
+The First CHIME/FRB Fast Radio Burst Catalog,Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,0.770574
+The First CHIME/FRB Fast Radio Burst Catalog,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.862977
+The First CHIME/FRB Fast Radio Burst Catalog,Basic Physics with Exotic Millisecond Pulsars,0.291735
+The First CHIME/FRB Fast Radio Burst Catalog,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.656843
+The First CHIME/FRB Fast Radio Burst Catalog,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.726273
+The First CHIME/FRB Fast Radio Burst Catalog,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.611808
+The First CHIME/FRB Fast Radio Burst Catalog,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.619688
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,0.766655
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,0.815652
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,0.868114
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,A Fourier Domain “Jerk” Search for Binary Pulsars,0.487415
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,0.784678
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,0.813323
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,0.813607
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,0.871808
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,0.771088
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,An Injection System for the CHIME/FRB Experiment,0.7074
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,0.775279
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,0.768815
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,0.871992
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,0.74035
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,CHIME/FRB Outriggers: Design Overview,0.814722
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,0.406404
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,Multiband Detection of Repeating FRB 20180916B,0.833431
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,0.798165
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,Flux Calibration of CHIME/FRB Intensity Data,0.825887
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,0.811912
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.736751
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,0.759147
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,0.768941
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,0.61586
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,Commissioning Status of the Green Bank CHIME/FRB Outrigger,0.719171
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.984555
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,0.652072
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,Sub-second periodicity in a fast radio burst,0.79204
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,0.756457
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,0.683037
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,0.794599
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.886669
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,Basic Physics with Exotic Millisecond Pulsars,0.441784
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.710664
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.708177
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.776228
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.765047
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,0.727033
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,0.77333
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,A Fourier Domain “Jerk” Search for Binary Pulsars,0.55334
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,0.781806
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,0.71769
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,0.668979
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,0.745604
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,0.757957
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,An Injection System for the CHIME/FRB Experiment,0.589057
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,0.716641
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,0.833704
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,0.710506
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,0.779521
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,CHIME/FRB Outriggers: Design Overview,0.641397
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,0.419892
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,Multiband Detection of Repeating FRB 20180916B,0.779794
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,0.73902
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,Flux Calibration of CHIME/FRB Intensity Data,0.689714
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,0.747626
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.556122
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,0.708072
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,0.719053
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,0.620605
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,Commissioning Status of the Green Bank CHIME/FRB Outrigger,0.60639
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.772889
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,0.640552
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,Sub-second periodicity in a fast radio burst,0.831436
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,0.794899
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,0.718376
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,0.745314
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.701817
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,Basic Physics with Exotic Millisecond Pulsars,0.56943
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.640093
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.57386
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.752764
+LOFAR Detection of 110–188 MHz Emission and Frequency-dependent Activity from FRB 20180916B,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.718376
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,0.748669
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,A Fourier Domain “Jerk” Search for Binary Pulsars,0.458185
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,0.76713
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,0.743495
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,0.642046
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,0.716631
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,0.6434
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,An Injection System for the CHIME/FRB Experiment,0.652989
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,0.717801
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,0.794886
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,0.780143
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,0.644897
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,CHIME/FRB Outriggers: Design Overview,0.636787
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,0.372825
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,Multiband Detection of Repeating FRB 20180916B,0.75392
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,0.756398
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,Flux Calibration of CHIME/FRB Intensity Data,0.656129
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,0.737869
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.531763
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,0.681908
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,0.649558
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,0.464833
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,Commissioning Status of the Green Bank CHIME/FRB Outrigger,0.547943
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.848432
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,0.647456
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,Sub-second periodicity in a fast radio burst,0.719881
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,0.679313
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,0.660965
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,0.745461
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.78693
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,Basic Physics with Exotic Millisecond Pulsars,0.380687
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.682465
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.548381
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.650235
+CHIME/FRB Discovery of 25 Repeating Fast Radio Burst Sources,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.719907
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,A Fourier Domain “Jerk” Search for Binary Pulsars,0.480313
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,0.732577
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,0.704265
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,0.853349
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,0.786902
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,0.691274
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,An Injection System for the CHIME/FRB Experiment,0.745831
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,0.647575
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,0.768803
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,0.814971
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,0.743091
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,CHIME/FRB Outriggers: Design Overview,0.783934
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,0.364129
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,Multiband Detection of Repeating FRB 20180916B,0.838195
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,0.781637
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,Flux Calibration of CHIME/FRB Intensity Data,0.810523
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,0.731597
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.722899
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,0.750341
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,0.741966
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,0.559219
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,Commissioning Status of the Green Bank CHIME/FRB Outrigger,0.699296
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.866063
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,0.61366
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,Sub-second periodicity in a fast radio burst,0.798946
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,0.700445
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,0.685525
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,0.775003
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.821596
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,Basic Physics with Exotic Millisecond Pulsars,0.399257
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.62953
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.717859
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.690486
+CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.639021
+A Fourier Domain “Jerk” Search for Binary Pulsars,A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,0.522619
+A Fourier Domain “Jerk” Search for Binary Pulsars,Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,0.463866
+A Fourier Domain “Jerk” Search for Binary Pulsars,Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,0.414272
+A Fourier Domain “Jerk” Search for Binary Pulsars,A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,0.54224
+A Fourier Domain “Jerk” Search for Binary Pulsars,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,0.49812
+A Fourier Domain “Jerk” Search for Binary Pulsars,An Injection System for the CHIME/FRB Experiment,0.48356
+A Fourier Domain “Jerk” Search for Binary Pulsars,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,0.49839
+A Fourier Domain “Jerk” Search for Binary Pulsars,A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,0.492553
+A Fourier Domain “Jerk” Search for Binary Pulsars,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,0.451567
+A Fourier Domain “Jerk” Search for Binary Pulsars,Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,0.585999
+A Fourier Domain “Jerk” Search for Binary Pulsars,CHIME/FRB Outriggers: Design Overview,0.445239
+A Fourier Domain “Jerk” Search for Binary Pulsars,The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,0.423854
+A Fourier Domain “Jerk” Search for Binary Pulsars,Multiband Detection of Repeating FRB 20180916B,0.454087
+A Fourier Domain “Jerk” Search for Binary Pulsars,Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,0.48289
+A Fourier Domain “Jerk” Search for Binary Pulsars,Flux Calibration of CHIME/FRB Intensity Data,0.496033
+A Fourier Domain “Jerk” Search for Binary Pulsars,FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,0.500537
+A Fourier Domain “Jerk” Search for Binary Pulsars,A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.425746
+A Fourier Domain “Jerk” Search for Binary Pulsars,Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,0.42086
+A Fourier Domain “Jerk” Search for Binary Pulsars,Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,0.480644
+A Fourier Domain “Jerk” Search for Binary Pulsars,CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,0.654992
+A Fourier Domain “Jerk” Search for Binary Pulsars,Commissioning Status of the Green Bank CHIME/FRB Outrigger,0.43734
+A Fourier Domain “Jerk” Search for Binary Pulsars,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.492214
+A Fourier Domain “Jerk” Search for Binary Pulsars,Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,0.444108
+A Fourier Domain “Jerk” Search for Binary Pulsars,Sub-second periodicity in a fast radio burst,0.501864
+A Fourier Domain “Jerk” Search for Binary Pulsars,A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,0.582895
+A Fourier Domain “Jerk” Search for Binary Pulsars,Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,0.411578
+A Fourier Domain “Jerk” Search for Binary Pulsars,Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,0.470715
+A Fourier Domain “Jerk” Search for Binary Pulsars,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.45472
+A Fourier Domain “Jerk” Search for Binary Pulsars,Basic Physics with Exotic Millisecond Pulsars,0.619796
+A Fourier Domain “Jerk” Search for Binary Pulsars,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.398762
+A Fourier Domain “Jerk” Search for Binary Pulsars,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.43022
+A Fourier Domain “Jerk” Search for Binary Pulsars,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.50328
+A Fourier Domain “Jerk” Search for Binary Pulsars,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.483697
+A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,0.784954
+A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,0.628881
+A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,0.805035
+A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,0.834035
+A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,An Injection System for the CHIME/FRB Experiment,0.573856
+A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,0.77731
+A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,0.787206
+A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,0.777265
+A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,0.718052
+A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,CHIME/FRB Outriggers: Design Overview,0.652387
+A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,0.454002
+A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,Multiband Detection of Repeating FRB 20180916B,0.778259
+A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,0.695478
+A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,Flux Calibration of CHIME/FRB Intensity Data,0.699979
+A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,0.745805
+A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.535742
+A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,0.682073
+A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,0.707605
+A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,0.551361
+A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,Commissioning Status of the Green Bank CHIME/FRB Outrigger,0.584903
+A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.791392
+A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,0.636994
+A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,Sub-second periodicity in a fast radio burst,0.720816
+A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,0.691942
+A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,0.674148
+A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,0.696997
+A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.780685
+A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,Basic Physics with Exotic Millisecond Pulsars,0.484278
+A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.708021
+A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.535565
+A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.826456
+A Sudden Period of High Activity from Repeating Fast Radio Burst 20201124A,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.773975
+Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,0.677723
+Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,0.837497
+Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,0.87258
+Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,An Injection System for the CHIME/FRB Experiment,0.601698
+Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,0.854397
+Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,0.703428
+Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,0.831107
+Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,0.653483
+Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,CHIME/FRB Outriggers: Design Overview,0.747371
+Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,0.500286
+Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,Multiband Detection of Repeating FRB 20180916B,0.691709
+Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,0.791816
+Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,Flux Calibration of CHIME/FRB Intensity Data,0.747361
+Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,0.762675
+Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.607074
+Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,0.778217
+Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,0.788666
+Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,0.545724
+Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,Commissioning Status of the Green Bank CHIME/FRB Outrigger,0.622373
+Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.827884
+Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,0.674618
+Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,Sub-second periodicity in a fast radio burst,0.734167
+Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,0.750884
+Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,0.739397
+Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,0.791926
+Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.837341
+Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,Basic Physics with Exotic Millisecond Pulsars,0.497713
+Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.789339
+Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.601293
+Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.877576
+Host Galaxies for Four Nearby CHIME/FRB Sources and the Local Universe FRB Host Galaxy Population,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.85879
+Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,0.763817
+Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,0.630243
+Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,An Injection System for the CHIME/FRB Experiment,0.783039
+Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,0.610536
+Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,0.668481
+Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,0.804524
+Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,0.637951
+Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,CHIME/FRB Outriggers: Design Overview,0.836089
+Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,0.305797
+Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,Multiband Detection of Repeating FRB 20180916B,0.71074
+Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,0.767656
+Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,Flux Calibration of CHIME/FRB Intensity Data,0.863885
+Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,0.67553
+Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.811174
+Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,0.734534
+Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,0.6888
+Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,0.521365
+Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,Commissioning Status of the Green Bank CHIME/FRB Outrigger,0.786862
+Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.815721
+Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,0.618543
+Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,Sub-second periodicity in a fast radio burst,0.722321
+Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,0.694064
+Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,0.629566
+Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,0.762074
+Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.804429
+Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,Basic Physics with Exotic Millisecond Pulsars,0.324849
+Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.639077
+Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.804692
+Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.626562
+Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.60069
+A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,0.837276
+A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,An Injection System for the CHIME/FRB Experiment,0.659023
+A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,0.821687
+A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,0.702463
+A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,0.839418
+A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,0.72967
+A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,CHIME/FRB Outriggers: Design Overview,0.841704
+A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,0.47859
+A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,Multiband Detection of Repeating FRB 20180916B,0.72909
+A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,0.765028
+A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,Flux Calibration of CHIME/FRB Intensity Data,0.805001
+A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,0.813007
+A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.743358
+A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,0.765096
+A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,0.765764
+A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,0.638872
+A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,Commissioning Status of the Green Bank CHIME/FRB Outrigger,0.750078
+A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.867317
+A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,0.635023
+A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,Sub-second periodicity in a fast radio burst,0.740463
+A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,0.737051
+A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,0.710351
+A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,0.769629
+A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.846175
+A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,Basic Physics with Exotic Millisecond Pulsars,0.541049
+A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.725385
+A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.715176
+A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.831401
+A Repeating Fast Radio Burst Source in the Outskirts of a Quiescent Galaxy,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.812021
+The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,An Injection System for the CHIME/FRB Experiment,0.541305
+The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,0.817728
+The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,0.70064
+The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,0.759118
+The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,0.737309
+The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,CHIME/FRB Outriggers: Design Overview,0.682621
+The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,0.547421
+The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,Multiband Detection of Repeating FRB 20180916B,0.711295
+The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,0.741581
+The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,Flux Calibration of CHIME/FRB Intensity Data,0.724067
+The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,0.740802
+The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.550379
+The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,0.696519
+The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,0.798585
+The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,0.622805
+The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,Commissioning Status of the Green Bank CHIME/FRB Outrigger,0.578603
+The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.763852
+The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,0.6998
+The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,Sub-second periodicity in a fast radio burst,0.758353
+The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,0.760791
+The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,0.680753
+The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,0.748775
+The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.763415
+The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,Basic Physics with Exotic Millisecond Pulsars,0.573272
+The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.720361
+The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.540971
+The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.989314
+The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB 20240209A,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.810746
+An Injection System for the CHIME/FRB Experiment,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,0.595857
+An Injection System for the CHIME/FRB Experiment,A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,0.597053
+An Injection System for the CHIME/FRB Experiment,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,0.736332
+An Injection System for the CHIME/FRB Experiment,Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,0.563887
+An Injection System for the CHIME/FRB Experiment,CHIME/FRB Outriggers: Design Overview,0.763325
+An Injection System for the CHIME/FRB Experiment,The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,0.289997
+An Injection System for the CHIME/FRB Experiment,Multiband Detection of Repeating FRB 20180916B,0.589544
+An Injection System for the CHIME/FRB Experiment,Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,0.708327
+An Injection System for the CHIME/FRB Experiment,Flux Calibration of CHIME/FRB Intensity Data,0.811069
+An Injection System for the CHIME/FRB Experiment,FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,0.614294
+An Injection System for the CHIME/FRB Experiment,A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.731317
+An Injection System for the CHIME/FRB Experiment,Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,0.614649
+An Injection System for the CHIME/FRB Experiment,Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,0.650795
+An Injection System for the CHIME/FRB Experiment,CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,0.409864
+An Injection System for the CHIME/FRB Experiment,Commissioning Status of the Green Bank CHIME/FRB Outrigger,0.725413
+An Injection System for the CHIME/FRB Experiment,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.722832
+An Injection System for the CHIME/FRB Experiment,Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,0.597772
+An Injection System for the CHIME/FRB Experiment,Sub-second periodicity in a fast radio burst,0.636196
+An Injection System for the CHIME/FRB Experiment,A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,0.550513
+An Injection System for the CHIME/FRB Experiment,Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,0.525029
+An Injection System for the CHIME/FRB Experiment,Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,0.695242
+An Injection System for the CHIME/FRB Experiment,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.733446
+An Injection System for the CHIME/FRB Experiment,Basic Physics with Exotic Millisecond Pulsars,0.302621
+An Injection System for the CHIME/FRB Experiment,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.598019
+An Injection System for the CHIME/FRB Experiment,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.733087
+An Injection System for the CHIME/FRB Experiment,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.549272
+An Injection System for the CHIME/FRB Experiment,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.581209
+A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,0.688483
+A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,0.763849
+A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,0.668203
+A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,CHIME/FRB Outriggers: Design Overview,0.719269
+A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,0.467967
+A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,Multiband Detection of Repeating FRB 20180916B,0.626088
+A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,0.740524
+A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,Flux Calibration of CHIME/FRB Intensity Data,0.703611
+A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,0.809901
+A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.590693
+A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,0.702175
+A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,0.785773
+A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,0.558616
+A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,Commissioning Status of the Green Bank CHIME/FRB Outrigger,0.661239
+A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.779514
+A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,0.662629
+A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,Sub-second periodicity in a fast radio burst,0.674372
+A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,0.688137
+A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,0.70066
+A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,0.745939
+A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.767856
+A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,Basic Physics with Exotic Millisecond Pulsars,0.511886
+A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.75957
+A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.586564
+A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.825003
+A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.990831
+A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,0.719044
+A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,0.712314
+A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,CHIME/FRB Outriggers: Design Overview,0.602567
+A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,0.439192
+A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,Multiband Detection of Repeating FRB 20180916B,0.812709
+A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,0.73052
+A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,Flux Calibration of CHIME/FRB Intensity Data,0.672191
+A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,0.7536
+A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.535419
+A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,0.686361
+A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,0.67754
+A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,0.537093
+A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,Commissioning Status of the Green Bank CHIME/FRB Outrigger,0.553263
+A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.781655
+A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,0.638649
+A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,Sub-second periodicity in a fast radio burst,0.757199
+A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,0.731026
+A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,0.686674
+A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,0.723998
+A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.725674
+A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,Basic Physics with Exotic Millisecond Pulsars,0.433632
+A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.643737
+A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.550863
+A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.704024
+A CHIME/FRB Study of Burst Rate and Morphological Evolution of the Periodically Repeating FRB 20180916B,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.690756
+Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,0.683823
+Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,CHIME/FRB Outriggers: Design Overview,0.832615
+Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,0.409439
+Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,Multiband Detection of Repeating FRB 20180916B,0.741677
+Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,0.818164
+Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,Flux Calibration of CHIME/FRB Intensity Data,0.824074
+Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,0.749475
+Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.739582
+Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,0.77903
+Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,0.770694
+Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,0.544692
+Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,Commissioning Status of the Green Bank CHIME/FRB Outrigger,0.702478
+Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.885302
+Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,0.702389
+Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,Sub-second periodicity in a fast radio burst,0.742335
+Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,0.705679
+Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,0.702619
+Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,0.812476
+Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.987087
+Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,Basic Physics with Exotic Millisecond Pulsars,0.418277
+Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.789085
+Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.736685
+Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.764076
+Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.762841
+Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,CHIME/FRB Outriggers: Design Overview,0.605173
+Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,0.466247
+Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,Multiband Detection of Repeating FRB 20180916B,0.696673
+Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,0.70946
+Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,Flux Calibration of CHIME/FRB Intensity Data,0.676963
+Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,0.722593
+Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.541539
+Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,0.622775
+Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,0.764539
+Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,0.673336
+Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,Commissioning Status of the Green Bank CHIME/FRB Outrigger,0.564895
+Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.740519
+Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,0.6692
+Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,Sub-second periodicity in a fast radio burst,0.73168
+Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,0.729985
+Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,0.611782
+Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,0.712767
+Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.693479
+Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,Basic Physics with Exotic Millisecond Pulsars,0.574334
+Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.615704
+Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.546173
+Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.729602
+Limits on Optical Counterparts to the Repeating Fast Radio Burst 20180916B from High-speed Imaging with Gemini-North/‘Alopeke,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.651942
+CHIME/FRB Outriggers: Design Overview,The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,0.378853
+CHIME/FRB Outriggers: Design Overview,Multiband Detection of Repeating FRB 20180916B,0.644623
+CHIME/FRB Outriggers: Design Overview,Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,0.755532
+CHIME/FRB Outriggers: Design Overview,Flux Calibration of CHIME/FRB Intensity Data,0.875878
+CHIME/FRB Outriggers: Design Overview,FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,0.761663
+CHIME/FRB Outriggers: Design Overview,A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.878832
+CHIME/FRB Outriggers: Design Overview,Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,0.761067
+CHIME/FRB Outriggers: Design Overview,Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,0.751633
+CHIME/FRB Outriggers: Design Overview,CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,0.508291
+CHIME/FRB Outriggers: Design Overview,Commissioning Status of the Green Bank CHIME/FRB Outrigger,0.833496
+CHIME/FRB Outriggers: Design Overview,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.80975
+CHIME/FRB Outriggers: Design Overview,Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,0.626493
+CHIME/FRB Outriggers: Design Overview,Sub-second periodicity in a fast radio burst,0.700448
+CHIME/FRB Outriggers: Design Overview,A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,0.669159
+CHIME/FRB Outriggers: Design Overview,Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,0.673464
+CHIME/FRB Outriggers: Design Overview,Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,0.756192
+CHIME/FRB Outriggers: Design Overview,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.827351
+CHIME/FRB Outriggers: Design Overview,Basic Physics with Exotic Millisecond Pulsars,0.417272
+CHIME/FRB Outriggers: Design Overview,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.689356
+CHIME/FRB Outriggers: Design Overview,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.843427
+CHIME/FRB Outriggers: Design Overview,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.685993
+CHIME/FRB Outriggers: Design Overview,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.711957
+The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,Multiband Detection of Repeating FRB 20180916B,0.356791
+The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,0.378322
+The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,Flux Calibration of CHIME/FRB Intensity Data,0.440462
+The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,0.497966
+The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.333836
+The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,0.460904
+The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,0.48944
+The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,0.535373
+The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,Commissioning Status of the Green Bank CHIME/FRB Outrigger,0.311039
+The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.406245
+The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,0.443077
+The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,Sub-second periodicity in a fast radio burst,0.384166
+The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,0.463
+The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,0.446524
+The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,0.380601
+The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.419694
+The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,Basic Physics with Exotic Millisecond Pulsars,0.474145
+The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.480585
+The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.336322
+The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.555243
+The Mass Evolution of Protostellar Disks and Envelopes in the Perseus Molecular Cloud,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.451521
+Multiband Detection of Repeating FRB 20180916B,Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,0.698455
+Multiband Detection of Repeating FRB 20180916B,Flux Calibration of CHIME/FRB Intensity Data,0.673777
+Multiband Detection of Repeating FRB 20180916B,FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,0.731979
+Multiband Detection of Repeating FRB 20180916B,A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.598437
+Multiband Detection of Repeating FRB 20180916B,Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,0.6369
+Multiband Detection of Repeating FRB 20180916B,Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,0.679698
+Multiband Detection of Repeating FRB 20180916B,CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,0.530535
+Multiband Detection of Repeating FRB 20180916B,Commissioning Status of the Green Bank CHIME/FRB Outrigger,0.577959
+Multiband Detection of Repeating FRB 20180916B,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.828567
+Multiband Detection of Repeating FRB 20180916B,Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,0.558655
+Multiband Detection of Repeating FRB 20180916B,Sub-second periodicity in a fast radio burst,0.727475
+Multiband Detection of Repeating FRB 20180916B,A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,0.692749
+Multiband Detection of Repeating FRB 20180916B,Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,0.596544
+Multiband Detection of Repeating FRB 20180916B,Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,0.699834
+Multiband Detection of Repeating FRB 20180916B,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.742811
+Multiband Detection of Repeating FRB 20180916B,Basic Physics with Exotic Millisecond Pulsars,0.363877
+Multiband Detection of Repeating FRB 20180916B,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.549515
+Multiband Detection of Repeating FRB 20180916B,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.606086
+Multiband Detection of Repeating FRB 20180916B,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.706888
+Multiband Detection of Repeating FRB 20180916B,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.618662
+Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,Flux Calibration of CHIME/FRB Intensity Data,0.820967
+Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,0.731311
+Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.641582
+Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,0.775015
+Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,0.777609
+Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,0.513062
+Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,Commissioning Status of the Green Bank CHIME/FRB Outrigger,0.650531
+Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.811678
+Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,0.762905
+Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,Sub-second periodicity in a fast radio burst,0.781694
+Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,0.747396
+Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,0.718649
+Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,0.99434
+Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.817427
+Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,Basic Physics with Exotic Millisecond Pulsars,0.477064
+Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.758706
+Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.646134
+Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.7322
+Limits on Fast Radio Burst–like Counterparts to Gamma-Ray Bursts Using CHIME/FRB,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.742382
+Flux Calibration of CHIME/FRB Intensity Data,FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,0.738071
+Flux Calibration of CHIME/FRB Intensity Data,A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.800802
+Flux Calibration of CHIME/FRB Intensity Data,Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,0.761322
+Flux Calibration of CHIME/FRB Intensity Data,Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,0.752597
+Flux Calibration of CHIME/FRB Intensity Data,CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,0.538888
+Flux Calibration of CHIME/FRB Intensity Data,Commissioning Status of the Green Bank CHIME/FRB Outrigger,0.758017
+Flux Calibration of CHIME/FRB Intensity Data,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.82477
+Flux Calibration of CHIME/FRB Intensity Data,Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,0.717765
+Flux Calibration of CHIME/FRB Intensity Data,Sub-second periodicity in a fast radio burst,0.740865
+Flux Calibration of CHIME/FRB Intensity Data,A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,0.703945
+Flux Calibration of CHIME/FRB Intensity Data,Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,0.674663
+Flux Calibration of CHIME/FRB Intensity Data,Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,0.821309
+Flux Calibration of CHIME/FRB Intensity Data,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.829127
+Flux Calibration of CHIME/FRB Intensity Data,Basic Physics with Exotic Millisecond Pulsars,0.408383
+Flux Calibration of CHIME/FRB Intensity Data,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.740388
+Flux Calibration of CHIME/FRB Intensity Data,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.778943
+Flux Calibration of CHIME/FRB Intensity Data,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.722694
+Flux Calibration of CHIME/FRB Intensity Data,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.688395
+FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.684742
+FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,0.735109
+FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,0.776017
+FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,0.586392
+FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,Commissioning Status of the Green Bank CHIME/FRB Outrigger,0.662938
+FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.800842
+FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,0.628609
+FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,Sub-second periodicity in a fast radio burst,0.710478
+FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,0.702205
+FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,0.726365
+FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,0.7408
+FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.75943
+FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,Basic Physics with Exotic Millisecond Pulsars,0.475651
+FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.681202
+FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.688209
+FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.744936
+FRB 20250316A: A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.807645
+A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,0.611664
+A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,0.629311
+A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,0.507373
+A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,Commissioning Status of the Green Bank CHIME/FRB Outrigger,0.83657
+A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.724158
+A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,0.51178
+A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,Sub-second periodicity in a fast radio burst,0.603999
+A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,0.563656
+A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,0.505929
+A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,0.640015
+A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.732549
+A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,Basic Physics with Exotic Millisecond Pulsars,0.364058
+A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.581657
+A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.958319
+A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.554711
+A Very Long Baseline Interferometry Calibrator Grid at 600 MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.568971
+Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,0.662133
+Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,0.495529
+Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,Commissioning Status of the Green Bank CHIME/FRB Outrigger,0.651126
+Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.776025
+Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,0.683466
+Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,Sub-second periodicity in a fast radio burst,0.696299
+Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,0.704725
+Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,0.952269
+Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,0.781885
+Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.789043
+Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,Basic Physics with Exotic Millisecond Pulsars,0.447066
+Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.772207
+Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.618201
+Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.698582
+Investigating the Sightline of a Highly Scattered Fast Radio Burst through a Cosmic Sheet Structure in the Local Universe,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.715402
+Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,0.565817
+Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,Commissioning Status of the Green Bank CHIME/FRB Outrigger,0.63529
+Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.76149
+Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,0.678084
+Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,Sub-second periodicity in a fast radio burst,0.753424
+Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,0.702408
+Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,0.630262
+Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,0.780468
+Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.768763
+Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,Basic Physics with Exotic Millisecond Pulsars,0.501462
+Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.673942
+Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.629265
+Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.793429
+Searching for Historical Extragalactic Optical Transients Associated with Fast Radio Bursts,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.779734
+CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,Commissioning Status of the Green Bank CHIME/FRB Outrigger,0.50815
+CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.608984
+CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,0.478881
+CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,Sub-second periodicity in a fast radio burst,0.603059
+CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,0.680655
+CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,0.474466
+CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,0.513998
+CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.557408
+CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,Basic Physics with Exotic Millisecond Pulsars,0.688894
+CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.467289
+CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.507937
+CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.622859
+CHIME Discovery of a Binary Pulsar with a Massive Non-Degenerate Companion,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.532318
+Commissioning Status of the Green Bank CHIME/FRB Outrigger,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.721941
+Commissioning Status of the Green Bank CHIME/FRB Outrigger,Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,0.547817
+Commissioning Status of the Green Bank CHIME/FRB Outrigger,Sub-second periodicity in a fast radio burst,0.58852
+Commissioning Status of the Green Bank CHIME/FRB Outrigger,A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,0.587271
+Commissioning Status of the Green Bank CHIME/FRB Outrigger,Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,0.570314
+Commissioning Status of the Green Bank CHIME/FRB Outrigger,Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,0.652949
+Commissioning Status of the Green Bank CHIME/FRB Outrigger,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.695724
+Commissioning Status of the Green Bank CHIME/FRB Outrigger,Basic Physics with Exotic Millisecond Pulsars,0.396546
+Commissioning Status of the Green Bank CHIME/FRB Outrigger,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.58768
+Commissioning Status of the Green Bank CHIME/FRB Outrigger,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.868717
+Commissioning Status of the Green Bank CHIME/FRB Outrigger,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.57728
+Commissioning Status of the Green Bank CHIME/FRB Outrigger,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.639642
+CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,0.673484
+CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,Sub-second periodicity in a fast radio burst,0.780513
+CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,0.767902
+CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,0.709014
+CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,0.808785
+CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.901154
+CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,Basic Physics with Exotic Millisecond Pulsars,0.451317
+CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.745914
+CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.714349
+CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.77371
+CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.773181
+Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,Sub-second periodicity in a fast radio burst,0.69556
+Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,0.729968
+Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,0.670764
+Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,0.76569
+Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.708601
+Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,Basic Physics with Exotic Millisecond Pulsars,0.473826
+Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.707668
+Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.521895
+Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.692763
+Comprehensive Bayesian analysis of FRB-like bursts from SGR 1935+2154 observed by CHIME/FRB,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.659609
+Sub-second periodicity in a fast radio burst,A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,0.828773
+Sub-second periodicity in a fast radio burst,Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,0.66482
+Sub-second periodicity in a fast radio burst,Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,0.776235
+Sub-second periodicity in a fast radio burst,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.744763
+Sub-second periodicity in a fast radio burst,Basic Physics with Exotic Millisecond Pulsars,0.565785
+Sub-second periodicity in a fast radio burst,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.63472
+Sub-second periodicity in a fast radio burst,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.600178
+Sub-second periodicity in a fast radio burst,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.754719
+Sub-second periodicity in a fast radio burst,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.670146
+A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,0.698128
+A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,0.746195
+A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.707295
+A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,Basic Physics with Exotic Millisecond Pulsars,0.620789
+A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.656767
+A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.575317
+A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.770603
+A pulsar-like swing in the polarisation position angle of a nearby fast radio burst,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.6908
+Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,0.732687
+Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.709506
+Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,Basic Physics with Exotic Millisecond Pulsars,0.477524
+Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.76508
+Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.528072
+Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.681833
+Investigating the sightline of a highly scattered FRB through a filamentary structure in the local Universe,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.720207
+Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,0.811556
+Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,Basic Physics with Exotic Millisecond Pulsars,0.485381
+Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.765854
+Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.646705
+Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.736876
+Limits on Fast Radio Burst-like Counterparts to Gamma-ray Bursts using CHIME/FRB,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.748279
+Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,Basic Physics with Exotic Millisecond Pulsars,0.429225
+Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.797923
+Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.726124
+Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.771278
+Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Side-Lobe FRBs,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.768042
+Basic Physics with Exotic Millisecond Pulsars,Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,0.442298
+Basic Physics with Exotic Millisecond Pulsars,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.373987
+Basic Physics with Exotic Millisecond Pulsars,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.562564
+Basic Physics with Exotic Millisecond Pulsars,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.510224
+Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,0.572066
+Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.729004
+Constraints on the Intergalactic and Local Dispersion Measure of Fast Radio Bursts with the CHIME/FRB far side-lobe events,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.758894
+A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,0.544418
+A VLBI Calibrator Grid at 600MHz for Fast Radio Transient Localizations with CHIME/FRB Outriggers,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.566204
+The Massive and Quiescent Elliptical Host Galaxy of the Repeating Fast Radio Burst FRB20240209A,A Catalog of Local Universe Fast Radio Bursts from CHIME/FRB and the KKO Outrigger,0.818401

@@ -1,0 +1,22 @@
+title_i,title_j,cosine_similarity
+Prediction of complex atrioventricular conduction rhythms in humans with use of the atrioventricular nodal recovery curve.,Phase-locked rhythms in periodically stimulated heart cell aggregates,0.640869
+Prediction of complex atrioventricular conduction rhythms in humans with use of the atrioventricular nodal recovery curve.,Phase resetting in a model of sinoatrial nodal membrane: ionic and topological aspects,0.591237
+Prediction of complex atrioventricular conduction rhythms in humans with use of the atrioventricular nodal recovery curve.,Phase resetting of spontaneously beating embryonic ventricular heart cell aggregates,0.633106
+Prediction of complex atrioventricular conduction rhythms in humans with use of the atrioventricular nodal recovery curve.,Three ways of abolishing automaticity in sinoatrial node: ionic modeling and nonlinear dynamics,0.589364
+Prediction of complex atrioventricular conduction rhythms in humans with use of the atrioventricular nodal recovery curve.,Bifurcation analysis of a periodically forced relaxation oscillator: Differential model versus phase-resetting map,0.319033
+Prediction of complex atrioventricular conduction rhythms in humans with use of the atrioventricular nodal recovery curve.,Transient outward current contributes to Wenckebach-like rhythms in isolated rabbit ventricular cells,0.64573
+Phase-locked rhythms in periodically stimulated heart cell aggregates,Phase resetting in a model of sinoatrial nodal membrane: ionic and topological aspects,0.689459
+Phase-locked rhythms in periodically stimulated heart cell aggregates,Phase resetting of spontaneously beating embryonic ventricular heart cell aggregates,0.874601
+Phase-locked rhythms in periodically stimulated heart cell aggregates,Three ways of abolishing automaticity in sinoatrial node: ionic modeling and nonlinear dynamics,0.672506
+Phase-locked rhythms in periodically stimulated heart cell aggregates,Bifurcation analysis of a periodically forced relaxation oscillator: Differential model versus phase-resetting map,0.464574
+Phase-locked rhythms in periodically stimulated heart cell aggregates,Transient outward current contributes to Wenckebach-like rhythms in isolated rabbit ventricular cells,0.764158
+Phase resetting in a model of sinoatrial nodal membrane: ionic and topological aspects,Phase resetting of spontaneously beating embryonic ventricular heart cell aggregates,0.788387
+Phase resetting in a model of sinoatrial nodal membrane: ionic and topological aspects,Three ways of abolishing automaticity in sinoatrial node: ionic modeling and nonlinear dynamics,0.786735
+Phase resetting in a model of sinoatrial nodal membrane: ionic and topological aspects,Bifurcation analysis of a periodically forced relaxation oscillator: Differential model versus phase-resetting map,0.524915
+Phase resetting in a model of sinoatrial nodal membrane: ionic and topological aspects,Transient outward current contributes to Wenckebach-like rhythms in isolated rabbit ventricular cells,0.743856
+Phase resetting of spontaneously beating embryonic ventricular heart cell aggregates,Three ways of abolishing automaticity in sinoatrial node: ionic modeling and nonlinear dynamics,0.706989
+Phase resetting of spontaneously beating embryonic ventricular heart cell aggregates,Bifurcation analysis of a periodically forced relaxation oscillator: Differential model versus phase-resetting map,0.449364
+Phase resetting of spontaneously beating embryonic ventricular heart cell aggregates,Transient outward current contributes to Wenckebach-like rhythms in isolated rabbit ventricular cells,0.771348
+Three ways of abolishing automaticity in sinoatrial node: ionic modeling and nonlinear dynamics,Bifurcation analysis of a periodically forced relaxation oscillator: Differential model versus phase-resetting map,0.415613
+Three ways of abolishing automaticity in sinoatrial node: ionic modeling and nonlinear dynamics,Transient outward current contributes to Wenckebach-like rhythms in isolated rabbit ventricular cells,0.681778
+Bifurcation analysis of a periodically forced relaxation oscillator: Differential model versus phase-resetting map,Transient outward current contributes to Wenckebach-like rhythms in isolated rabbit ventricular cells,0.403231

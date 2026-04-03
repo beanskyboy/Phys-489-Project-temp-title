@@ -1,0 +1,22 @@
+title_i,title_j,cosine_similarity
+14 examples of how LLMs can transform materials science and chemistry: a reflection on a large language model hackathon,Generating Multiscale Amorphous Molecular Structures Using Deep Learning: A Study in 2D,0.528896
+14 examples of how LLMs can transform materials science and chemistry: a reflection on a large language model hackathon,Optoelectronic Current through Unbiased Monolayer Amorphous Carbon Nanojunctions,0.211086
+14 examples of how LLMs can transform materials science and chemistry: a reflection on a large language model hackathon,Electronic Conduction through Monolayer Amorphous Carbon Nanojunctions,0.291645
+14 examples of how LLMs can transform materials science and chemistry: a reflection on a large language model hackathon,Electronic Conduction Through Monolayer Amorphous Carbon Nano-Junctions,0.297436
+14 examples of how LLMs can transform materials science and chemistry: a reflection on a large language model hackathon,Electronic Conduction through Monolayer Amorphous\nCarbon Nanojunctions,0.299321
+14 examples of how LLMs can transform materials science and chemistry: a reflection on a large language model hackathon,Disentangling morphology and conductance in amorphous graphene,0.344306
+Generating Multiscale Amorphous Molecular Structures Using Deep Learning: A Study in 2D,Optoelectronic Current through Unbiased Monolayer Amorphous Carbon Nanojunctions,0.500112
+Generating Multiscale Amorphous Molecular Structures Using Deep Learning: A Study in 2D,Electronic Conduction through Monolayer Amorphous Carbon Nanojunctions,0.528876
+Generating Multiscale Amorphous Molecular Structures Using Deep Learning: A Study in 2D,Electronic Conduction Through Monolayer Amorphous Carbon Nano-Junctions,0.533503
+Generating Multiscale Amorphous Molecular Structures Using Deep Learning: A Study in 2D,Electronic Conduction through Monolayer Amorphous\nCarbon Nanojunctions,0.45071
+Generating Multiscale Amorphous Molecular Structures Using Deep Learning: A Study in 2D,Disentangling morphology and conductance in amorphous graphene,0.660369
+Optoelectronic Current through Unbiased Monolayer Amorphous Carbon Nanojunctions,Electronic Conduction through Monolayer Amorphous Carbon Nanojunctions,0.824947
+Optoelectronic Current through Unbiased Monolayer Amorphous Carbon Nanojunctions,Electronic Conduction Through Monolayer Amorphous Carbon Nano-Junctions,0.813586
+Optoelectronic Current through Unbiased Monolayer Amorphous Carbon Nanojunctions,Electronic Conduction through Monolayer Amorphous\nCarbon Nanojunctions,0.754687
+Optoelectronic Current through Unbiased Monolayer Amorphous Carbon Nanojunctions,Disentangling morphology and conductance in amorphous graphene,0.692732
+Electronic Conduction through Monolayer Amorphous Carbon Nanojunctions,Electronic Conduction Through Monolayer Amorphous Carbon Nano-Junctions,0.991621
+Electronic Conduction through Monolayer Amorphous Carbon Nanojunctions,Electronic Conduction through Monolayer Amorphous\nCarbon Nanojunctions,0.918775
+Electronic Conduction through Monolayer Amorphous Carbon Nanojunctions,Disentangling morphology and conductance in amorphous graphene,0.747524
+Electronic Conduction Through Monolayer Amorphous Carbon Nano-Junctions,Electronic Conduction through Monolayer Amorphous\nCarbon Nanojunctions,0.911655
+Electronic Conduction Through Monolayer Amorphous Carbon Nano-Junctions,Disentangling morphology and conductance in amorphous graphene,0.739012
+Electronic Conduction through Monolayer Amorphous\nCarbon Nanojunctions,Disentangling morphology and conductance in amorphous graphene,0.69294

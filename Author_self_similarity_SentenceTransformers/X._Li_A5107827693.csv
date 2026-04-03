@@ -1,106 +1,106 @@
-abstract_i,abstract_j,cosine_similarity
-0,1,0.068142
-0,2,0.198421
-0,3,-0.115376
-0,4,0.188548
-0,5,0.031222
-0,6,0.053335
-0,7,0.088584
-0,8,0.127942
-0,9,0.120732
-0,10,0.638292
-0,11,0.68528
-0,12,-0.064425
-0,13,-0.034648
-0,14,0.090727
-1,2,0.00261
-1,3,0.012856
-1,4,-0.06568
-1,5,0.702478
-1,6,-0.093896
-1,7,0.706686
-1,8,-0.033355
-1,9,-0.062667
-1,10,0.117938
-1,11,0.045714
-1,12,0.038505
-1,13,-0.045367
-1,14,-0.033144
-2,3,-0.096446
-2,4,0.026486
-2,5,0.084597
-2,6,0.002815
-2,7,0.043103
-2,8,0.022871
-2,9,-0.002738
-2,10,0.096545
-2,11,0.054806
-2,12,0.009444
-2,13,-0.03432
-2,14,0.047825
-3,4,-0.128493
-3,5,0.019554
-3,6,0.077831
-3,7,-0.023407
-3,8,-0.059758
-3,9,-0.04116
-3,10,-0.062944
-3,11,-0.103075
-3,12,0.029201
-3,13,0.327487
-3,14,-0.050209
-4,5,-0.024574
-4,6,-0.053973
-4,7,-0.037341
-4,8,0.200248
-4,9,-0.007758
-4,10,0.098384
-4,11,0.154358
-4,12,0.01404
-4,13,-0.115594
-4,14,0.139756
-5,6,-0.052289
-5,7,0.484289
-5,8,0.016937
-5,9,-0.109815
-5,10,0.018261
-5,11,-0.022363
-5,12,0.056282
-5,13,0.036332
-5,14,0.01156
-6,7,-0.033784
-6,8,-0.085655
-6,9,-0.031843
-6,10,0.037036
-6,11,0.022787
-6,12,-0.03957
-6,13,0.140623
-6,14,-0.030885
-7,8,-0.078134
-7,9,-0.077345
-7,10,0.109213
-7,11,0.106371
-7,12,0.002098
-7,13,-0.058638
-7,14,-0.029159
-8,9,0.068664
-8,10,0.158908
-8,11,0.118653
-8,12,-0.057509
-8,13,-0.054645
-8,14,-0.097099
-9,10,0.187662
-9,11,0.144993
-9,12,-0.038419
-9,13,0.007783
-9,14,-0.024392
-10,11,0.683144
-10,12,-0.012266
-10,13,-0.038448
-10,14,-0.001951
-11,12,-0.083977
-11,13,-0.028009
-11,14,0.070245
-12,13,-0.038441
-12,14,0.128718
-13,14,-0.021034
+title_i,title_j,cosine_similarity
+Equine Multinodular Pulmonary Fibrosis: A Newly Recognized Herpesvirus-Associated Fibrotic Lung Disease,Mycophenolate mofetil or tacrolimus compared with intravenous cyclophosphamide in the induction treatment for active lupus nephritis,0.077831
+Equine Multinodular Pulmonary Fibrosis: A Newly Recognized Herpesvirus-Associated Fibrotic Lung Disease,First Limits on Light Dark Matter Interactions in a Low Threshold Two-Channel Athermal Phonon Detector from the TESSERACT Collaboration,-0.085655
+Equine Multinodular Pulmonary Fibrosis: A Newly Recognized Herpesvirus-Associated Fibrotic Lung Disease,A novel rat model of chronic heart failure following myocardialinfarction,0.140623
+Equine Multinodular Pulmonary Fibrosis: A Newly Recognized Herpesvirus-Associated Fibrotic Lung Disease,The collision-induced polarizability of a pair of hydrogen molecules,0.053335
+Equine Multinodular Pulmonary Fibrosis: A Newly Recognized Herpesvirus-Associated Fibrotic Lung Disease,One-pot synthesis and magnetic properties of hollow Fe<sub>70</sub>Co<sub>30</sub>nanospheres,-0.031843
+Equine Multinodular Pulmonary Fibrosis: A Newly Recognized Herpesvirus-Associated Fibrotic Lung Disease,"Nonadditive, three-body dipoles and forces on nuclei: New interrelations and an electrostatic interpretation",0.037036
+Equine Multinodular Pulmonary Fibrosis: A Newly Recognized Herpesvirus-Associated Fibrotic Lung Disease,Nonadditive three-body dipoles of inert gas trimers and H2⋯H2⋯H2: Long-range effects in far infrared absorption and triple vibrational transitions,0.022787
+Equine Multinodular Pulmonary Fibrosis: A Newly Recognized Herpesvirus-Associated Fibrotic Lung Disease,Differentiating the contributions of surface feature and boundary contour strengths in binocular rivalry,0.002815
+Equine Multinodular Pulmonary Fibrosis: A Newly Recognized Herpesvirus-Associated Fibrotic Lung Disease,Advances in Mixed Precision Algorithms: 2021 Edition,-0.053973
+Equine Multinodular Pulmonary Fibrosis: A Newly Recognized Herpesvirus-Associated Fibrotic Lung Disease,Frequency coding waveform with non-uniform segmented LFM for MIMO radars,-0.030885
+Equine Multinodular Pulmonary Fibrosis: A Newly Recognized Herpesvirus-Associated Fibrotic Lung Disease,Amenable Metric Mean Dimension and Amenable Mean Hausdorff Dimension of Product Sets and Metric Varying,-0.093896
+Equine Multinodular Pulmonary Fibrosis: A Newly Recognized Herpesvirus-Associated Fibrotic Lung Disease,Mean Hausdorff Dimension of Some Infinite Dimensional Fractals for Amenable Group Actions,-0.033784
+Equine Multinodular Pulmonary Fibrosis: A Newly Recognized Herpesvirus-Associated Fibrotic Lung Disease,Equivalence between sofic metric mean dimension and sofic $p$-metric mean dimension with a product formula,-0.052289
+Equine Multinodular Pulmonary Fibrosis: A Newly Recognized Herpesvirus-Associated Fibrotic Lung Disease,Research on the Optimization of Artificial Intelligence-Driven Customer Relationship Management Systems,-0.03957
+Mycophenolate mofetil or tacrolimus compared with intravenous cyclophosphamide in the induction treatment for active lupus nephritis,First Limits on Light Dark Matter Interactions in a Low Threshold Two-Channel Athermal Phonon Detector from the TESSERACT Collaboration,-0.059758
+Mycophenolate mofetil or tacrolimus compared with intravenous cyclophosphamide in the induction treatment for active lupus nephritis,A novel rat model of chronic heart failure following myocardialinfarction,0.327487
+Mycophenolate mofetil or tacrolimus compared with intravenous cyclophosphamide in the induction treatment for active lupus nephritis,The collision-induced polarizability of a pair of hydrogen molecules,-0.115376
+Mycophenolate mofetil or tacrolimus compared with intravenous cyclophosphamide in the induction treatment for active lupus nephritis,One-pot synthesis and magnetic properties of hollow Fe<sub>70</sub>Co<sub>30</sub>nanospheres,-0.04116
+Mycophenolate mofetil or tacrolimus compared with intravenous cyclophosphamide in the induction treatment for active lupus nephritis,"Nonadditive, three-body dipoles and forces on nuclei: New interrelations and an electrostatic interpretation",-0.062944
+Mycophenolate mofetil or tacrolimus compared with intravenous cyclophosphamide in the induction treatment for active lupus nephritis,Nonadditive three-body dipoles of inert gas trimers and H2⋯H2⋯H2: Long-range effects in far infrared absorption and triple vibrational transitions,-0.103075
+Mycophenolate mofetil or tacrolimus compared with intravenous cyclophosphamide in the induction treatment for active lupus nephritis,Differentiating the contributions of surface feature and boundary contour strengths in binocular rivalry,-0.096446
+Mycophenolate mofetil or tacrolimus compared with intravenous cyclophosphamide in the induction treatment for active lupus nephritis,Advances in Mixed Precision Algorithms: 2021 Edition,-0.128493
+Mycophenolate mofetil or tacrolimus compared with intravenous cyclophosphamide in the induction treatment for active lupus nephritis,Frequency coding waveform with non-uniform segmented LFM for MIMO radars,-0.050209
+Mycophenolate mofetil or tacrolimus compared with intravenous cyclophosphamide in the induction treatment for active lupus nephritis,Amenable Metric Mean Dimension and Amenable Mean Hausdorff Dimension of Product Sets and Metric Varying,0.012856
+Mycophenolate mofetil or tacrolimus compared with intravenous cyclophosphamide in the induction treatment for active lupus nephritis,Mean Hausdorff Dimension of Some Infinite Dimensional Fractals for Amenable Group Actions,-0.023407
+Mycophenolate mofetil or tacrolimus compared with intravenous cyclophosphamide in the induction treatment for active lupus nephritis,Equivalence between sofic metric mean dimension and sofic $p$-metric mean dimension with a product formula,0.019554
+Mycophenolate mofetil or tacrolimus compared with intravenous cyclophosphamide in the induction treatment for active lupus nephritis,Research on the Optimization of Artificial Intelligence-Driven Customer Relationship Management Systems,0.029201
+First Limits on Light Dark Matter Interactions in a Low Threshold Two-Channel Athermal Phonon Detector from the TESSERACT Collaboration,A novel rat model of chronic heart failure following myocardialinfarction,-0.054645
+First Limits on Light Dark Matter Interactions in a Low Threshold Two-Channel Athermal Phonon Detector from the TESSERACT Collaboration,The collision-induced polarizability of a pair of hydrogen molecules,0.127942
+First Limits on Light Dark Matter Interactions in a Low Threshold Two-Channel Athermal Phonon Detector from the TESSERACT Collaboration,One-pot synthesis and magnetic properties of hollow Fe<sub>70</sub>Co<sub>30</sub>nanospheres,0.068664
+First Limits on Light Dark Matter Interactions in a Low Threshold Two-Channel Athermal Phonon Detector from the TESSERACT Collaboration,"Nonadditive, three-body dipoles and forces on nuclei: New interrelations and an electrostatic interpretation",0.158908
+First Limits on Light Dark Matter Interactions in a Low Threshold Two-Channel Athermal Phonon Detector from the TESSERACT Collaboration,Nonadditive three-body dipoles of inert gas trimers and H2⋯H2⋯H2: Long-range effects in far infrared absorption and triple vibrational transitions,0.118653
+First Limits on Light Dark Matter Interactions in a Low Threshold Two-Channel Athermal Phonon Detector from the TESSERACT Collaboration,Differentiating the contributions of surface feature and boundary contour strengths in binocular rivalry,0.022871
+First Limits on Light Dark Matter Interactions in a Low Threshold Two-Channel Athermal Phonon Detector from the TESSERACT Collaboration,Advances in Mixed Precision Algorithms: 2021 Edition,0.200248
+First Limits on Light Dark Matter Interactions in a Low Threshold Two-Channel Athermal Phonon Detector from the TESSERACT Collaboration,Frequency coding waveform with non-uniform segmented LFM for MIMO radars,-0.097099
+First Limits on Light Dark Matter Interactions in a Low Threshold Two-Channel Athermal Phonon Detector from the TESSERACT Collaboration,Amenable Metric Mean Dimension and Amenable Mean Hausdorff Dimension of Product Sets and Metric Varying,-0.033355
+First Limits on Light Dark Matter Interactions in a Low Threshold Two-Channel Athermal Phonon Detector from the TESSERACT Collaboration,Mean Hausdorff Dimension of Some Infinite Dimensional Fractals for Amenable Group Actions,-0.078134
+First Limits on Light Dark Matter Interactions in a Low Threshold Two-Channel Athermal Phonon Detector from the TESSERACT Collaboration,Equivalence between sofic metric mean dimension and sofic $p$-metric mean dimension with a product formula,0.016937
+First Limits on Light Dark Matter Interactions in a Low Threshold Two-Channel Athermal Phonon Detector from the TESSERACT Collaboration,Research on the Optimization of Artificial Intelligence-Driven Customer Relationship Management Systems,-0.057509
+A novel rat model of chronic heart failure following myocardialinfarction,The collision-induced polarizability of a pair of hydrogen molecules,-0.034648
+A novel rat model of chronic heart failure following myocardialinfarction,One-pot synthesis and magnetic properties of hollow Fe<sub>70</sub>Co<sub>30</sub>nanospheres,0.007783
+A novel rat model of chronic heart failure following myocardialinfarction,"Nonadditive, three-body dipoles and forces on nuclei: New interrelations and an electrostatic interpretation",-0.038448
+A novel rat model of chronic heart failure following myocardialinfarction,Nonadditive three-body dipoles of inert gas trimers and H2⋯H2⋯H2: Long-range effects in far infrared absorption and triple vibrational transitions,-0.028009
+A novel rat model of chronic heart failure following myocardialinfarction,Differentiating the contributions of surface feature and boundary contour strengths in binocular rivalry,-0.03432
+A novel rat model of chronic heart failure following myocardialinfarction,Advances in Mixed Precision Algorithms: 2021 Edition,-0.115594
+A novel rat model of chronic heart failure following myocardialinfarction,Frequency coding waveform with non-uniform segmented LFM for MIMO radars,-0.021034
+A novel rat model of chronic heart failure following myocardialinfarction,Amenable Metric Mean Dimension and Amenable Mean Hausdorff Dimension of Product Sets and Metric Varying,-0.045367
+A novel rat model of chronic heart failure following myocardialinfarction,Mean Hausdorff Dimension of Some Infinite Dimensional Fractals for Amenable Group Actions,-0.058638
+A novel rat model of chronic heart failure following myocardialinfarction,Equivalence between sofic metric mean dimension and sofic $p$-metric mean dimension with a product formula,0.036332
+A novel rat model of chronic heart failure following myocardialinfarction,Research on the Optimization of Artificial Intelligence-Driven Customer Relationship Management Systems,-0.038441
+The collision-induced polarizability of a pair of hydrogen molecules,One-pot synthesis and magnetic properties of hollow Fe<sub>70</sub>Co<sub>30</sub>nanospheres,0.120732
+The collision-induced polarizability of a pair of hydrogen molecules,"Nonadditive, three-body dipoles and forces on nuclei: New interrelations and an electrostatic interpretation",0.638292
+The collision-induced polarizability of a pair of hydrogen molecules,Nonadditive three-body dipoles of inert gas trimers and H2⋯H2⋯H2: Long-range effects in far infrared absorption and triple vibrational transitions,0.68528
+The collision-induced polarizability of a pair of hydrogen molecules,Differentiating the contributions of surface feature and boundary contour strengths in binocular rivalry,0.198421
+The collision-induced polarizability of a pair of hydrogen molecules,Advances in Mixed Precision Algorithms: 2021 Edition,0.188548
+The collision-induced polarizability of a pair of hydrogen molecules,Frequency coding waveform with non-uniform segmented LFM for MIMO radars,0.090727
+The collision-induced polarizability of a pair of hydrogen molecules,Amenable Metric Mean Dimension and Amenable Mean Hausdorff Dimension of Product Sets and Metric Varying,0.068142
+The collision-induced polarizability of a pair of hydrogen molecules,Mean Hausdorff Dimension of Some Infinite Dimensional Fractals for Amenable Group Actions,0.088584
+The collision-induced polarizability of a pair of hydrogen molecules,Equivalence between sofic metric mean dimension and sofic $p$-metric mean dimension with a product formula,0.031222
+The collision-induced polarizability of a pair of hydrogen molecules,Research on the Optimization of Artificial Intelligence-Driven Customer Relationship Management Systems,-0.064425
+One-pot synthesis and magnetic properties of hollow Fe<sub>70</sub>Co<sub>30</sub>nanospheres,"Nonadditive, three-body dipoles and forces on nuclei: New interrelations and an electrostatic interpretation",0.187662
+One-pot synthesis and magnetic properties of hollow Fe<sub>70</sub>Co<sub>30</sub>nanospheres,Nonadditive three-body dipoles of inert gas trimers and H2⋯H2⋯H2: Long-range effects in far infrared absorption and triple vibrational transitions,0.144993
+One-pot synthesis and magnetic properties of hollow Fe<sub>70</sub>Co<sub>30</sub>nanospheres,Differentiating the contributions of surface feature and boundary contour strengths in binocular rivalry,-0.002738
+One-pot synthesis and magnetic properties of hollow Fe<sub>70</sub>Co<sub>30</sub>nanospheres,Advances in Mixed Precision Algorithms: 2021 Edition,-0.007758
+One-pot synthesis and magnetic properties of hollow Fe<sub>70</sub>Co<sub>30</sub>nanospheres,Frequency coding waveform with non-uniform segmented LFM for MIMO radars,-0.024392
+One-pot synthesis and magnetic properties of hollow Fe<sub>70</sub>Co<sub>30</sub>nanospheres,Amenable Metric Mean Dimension and Amenable Mean Hausdorff Dimension of Product Sets and Metric Varying,-0.062667
+One-pot synthesis and magnetic properties of hollow Fe<sub>70</sub>Co<sub>30</sub>nanospheres,Mean Hausdorff Dimension of Some Infinite Dimensional Fractals for Amenable Group Actions,-0.077345
+One-pot synthesis and magnetic properties of hollow Fe<sub>70</sub>Co<sub>30</sub>nanospheres,Equivalence between sofic metric mean dimension and sofic $p$-metric mean dimension with a product formula,-0.109815
+One-pot synthesis and magnetic properties of hollow Fe<sub>70</sub>Co<sub>30</sub>nanospheres,Research on the Optimization of Artificial Intelligence-Driven Customer Relationship Management Systems,-0.038419
+"Nonadditive, three-body dipoles and forces on nuclei: New interrelations and an electrostatic interpretation",Nonadditive three-body dipoles of inert gas trimers and H2⋯H2⋯H2: Long-range effects in far infrared absorption and triple vibrational transitions,0.683144
+"Nonadditive, three-body dipoles and forces on nuclei: New interrelations and an electrostatic interpretation",Differentiating the contributions of surface feature and boundary contour strengths in binocular rivalry,0.096545
+"Nonadditive, three-body dipoles and forces on nuclei: New interrelations and an electrostatic interpretation",Advances in Mixed Precision Algorithms: 2021 Edition,0.098384
+"Nonadditive, three-body dipoles and forces on nuclei: New interrelations and an electrostatic interpretation",Frequency coding waveform with non-uniform segmented LFM for MIMO radars,-0.001951
+"Nonadditive, three-body dipoles and forces on nuclei: New interrelations and an electrostatic interpretation",Amenable Metric Mean Dimension and Amenable Mean Hausdorff Dimension of Product Sets and Metric Varying,0.117938
+"Nonadditive, three-body dipoles and forces on nuclei: New interrelations and an electrostatic interpretation",Mean Hausdorff Dimension of Some Infinite Dimensional Fractals for Amenable Group Actions,0.109213
+"Nonadditive, three-body dipoles and forces on nuclei: New interrelations and an electrostatic interpretation",Equivalence between sofic metric mean dimension and sofic $p$-metric mean dimension with a product formula,0.018261
+"Nonadditive, three-body dipoles and forces on nuclei: New interrelations and an electrostatic interpretation",Research on the Optimization of Artificial Intelligence-Driven Customer Relationship Management Systems,-0.012266
+Nonadditive three-body dipoles of inert gas trimers and H2⋯H2⋯H2: Long-range effects in far infrared absorption and triple vibrational transitions,Differentiating the contributions of surface feature and boundary contour strengths in binocular rivalry,0.054806
+Nonadditive three-body dipoles of inert gas trimers and H2⋯H2⋯H2: Long-range effects in far infrared absorption and triple vibrational transitions,Advances in Mixed Precision Algorithms: 2021 Edition,0.154358
+Nonadditive three-body dipoles of inert gas trimers and H2⋯H2⋯H2: Long-range effects in far infrared absorption and triple vibrational transitions,Frequency coding waveform with non-uniform segmented LFM for MIMO radars,0.070245
+Nonadditive three-body dipoles of inert gas trimers and H2⋯H2⋯H2: Long-range effects in far infrared absorption and triple vibrational transitions,Amenable Metric Mean Dimension and Amenable Mean Hausdorff Dimension of Product Sets and Metric Varying,0.045714
+Nonadditive three-body dipoles of inert gas trimers and H2⋯H2⋯H2: Long-range effects in far infrared absorption and triple vibrational transitions,Mean Hausdorff Dimension of Some Infinite Dimensional Fractals for Amenable Group Actions,0.106371
+Nonadditive three-body dipoles of inert gas trimers and H2⋯H2⋯H2: Long-range effects in far infrared absorption and triple vibrational transitions,Equivalence between sofic metric mean dimension and sofic $p$-metric mean dimension with a product formula,-0.022363
+Nonadditive three-body dipoles of inert gas trimers and H2⋯H2⋯H2: Long-range effects in far infrared absorption and triple vibrational transitions,Research on the Optimization of Artificial Intelligence-Driven Customer Relationship Management Systems,-0.083977
+Differentiating the contributions of surface feature and boundary contour strengths in binocular rivalry,Advances in Mixed Precision Algorithms: 2021 Edition,0.026486
+Differentiating the contributions of surface feature and boundary contour strengths in binocular rivalry,Frequency coding waveform with non-uniform segmented LFM for MIMO radars,0.047825
+Differentiating the contributions of surface feature and boundary contour strengths in binocular rivalry,Amenable Metric Mean Dimension and Amenable Mean Hausdorff Dimension of Product Sets and Metric Varying,0.00261
+Differentiating the contributions of surface feature and boundary contour strengths in binocular rivalry,Mean Hausdorff Dimension of Some Infinite Dimensional Fractals for Amenable Group Actions,0.043103
+Differentiating the contributions of surface feature and boundary contour strengths in binocular rivalry,Equivalence between sofic metric mean dimension and sofic $p$-metric mean dimension with a product formula,0.084597
+Differentiating the contributions of surface feature and boundary contour strengths in binocular rivalry,Research on the Optimization of Artificial Intelligence-Driven Customer Relationship Management Systems,0.009444
+Advances in Mixed Precision Algorithms: 2021 Edition,Frequency coding waveform with non-uniform segmented LFM for MIMO radars,0.139756
+Advances in Mixed Precision Algorithms: 2021 Edition,Amenable Metric Mean Dimension and Amenable Mean Hausdorff Dimension of Product Sets and Metric Varying,-0.06568
+Advances in Mixed Precision Algorithms: 2021 Edition,Mean Hausdorff Dimension of Some Infinite Dimensional Fractals for Amenable Group Actions,-0.037341
+Advances in Mixed Precision Algorithms: 2021 Edition,Equivalence between sofic metric mean dimension and sofic $p$-metric mean dimension with a product formula,-0.024574
+Advances in Mixed Precision Algorithms: 2021 Edition,Research on the Optimization of Artificial Intelligence-Driven Customer Relationship Management Systems,0.01404
+Frequency coding waveform with non-uniform segmented LFM for MIMO radars,Amenable Metric Mean Dimension and Amenable Mean Hausdorff Dimension of Product Sets and Metric Varying,-0.033144
+Frequency coding waveform with non-uniform segmented LFM for MIMO radars,Mean Hausdorff Dimension of Some Infinite Dimensional Fractals for Amenable Group Actions,-0.029159
+Frequency coding waveform with non-uniform segmented LFM for MIMO radars,Equivalence between sofic metric mean dimension and sofic $p$-metric mean dimension with a product formula,0.01156
+Frequency coding waveform with non-uniform segmented LFM for MIMO radars,Research on the Optimization of Artificial Intelligence-Driven Customer Relationship Management Systems,0.128718
+Amenable Metric Mean Dimension and Amenable Mean Hausdorff Dimension of Product Sets and Metric Varying,Mean Hausdorff Dimension of Some Infinite Dimensional Fractals for Amenable Group Actions,0.706686
+Amenable Metric Mean Dimension and Amenable Mean Hausdorff Dimension of Product Sets and Metric Varying,Equivalence between sofic metric mean dimension and sofic $p$-metric mean dimension with a product formula,0.702478
+Amenable Metric Mean Dimension and Amenable Mean Hausdorff Dimension of Product Sets and Metric Varying,Research on the Optimization of Artificial Intelligence-Driven Customer Relationship Management Systems,0.038505
+Mean Hausdorff Dimension of Some Infinite Dimensional Fractals for Amenable Group Actions,Equivalence between sofic metric mean dimension and sofic $p$-metric mean dimension with a product formula,0.484289
+Mean Hausdorff Dimension of Some Infinite Dimensional Fractals for Amenable Group Actions,Research on the Optimization of Artificial Intelligence-Driven Customer Relationship Management Systems,0.002098
+Equivalence between sofic metric mean dimension and sofic $p$-metric mean dimension with a product formula,Research on the Optimization of Artificial Intelligence-Driven Customer Relationship Management Systems,0.056282

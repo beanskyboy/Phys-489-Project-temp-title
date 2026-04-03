@@ -1,0 +1,22 @@
+title_i,title_j,cosine_similarity
+"A simple isocentric technique for irradiation of the breast, chest wall and peripheral lymphatics",Verification of cell irradiation dose deposition using a radiochromic film,0.481351
+"A simple isocentric technique for irradiation of the breast, chest wall and peripheral lymphatics",Superficial and orthovoltage x-ray beam dosimetry,0.557513
+"A simple isocentric technique for irradiation of the breast, chest wall and peripheral lymphatics",[Black esophagus. Three new cases].,0.055194
+"A simple isocentric technique for irradiation of the breast, chest wall and peripheral lymphatics",Dosimetry of centrally shielded electron beams,0.580308
+"A simple isocentric technique for irradiation of the breast, chest wall and peripheral lymphatics",[Gastroduodenal invagination. Radio-endoscopic aspects].,0.140492
+"A simple isocentric technique for irradiation of the breast, chest wall and peripheral lymphatics",SU‐FF‐T‐452: Verification of Cell Irradiation Dose Deposition Using Radiochromic Film,0.464637
+Verification of cell irradiation dose deposition using a radiochromic film,Superficial and orthovoltage x-ray beam dosimetry,0.455337
+Verification of cell irradiation dose deposition using a radiochromic film,[Black esophagus. Three new cases].,0.040504
+Verification of cell irradiation dose deposition using a radiochromic film,Dosimetry of centrally shielded electron beams,0.534038
+Verification of cell irradiation dose deposition using a radiochromic film,[Gastroduodenal invagination. Radio-endoscopic aspects].,-0.013357
+Verification of cell irradiation dose deposition using a radiochromic film,SU‐FF‐T‐452: Verification of Cell Irradiation Dose Deposition Using Radiochromic Film,0.863032
+Superficial and orthovoltage x-ray beam dosimetry,[Black esophagus. Three new cases].,0.131836
+Superficial and orthovoltage x-ray beam dosimetry,Dosimetry of centrally shielded electron beams,0.627716
+Superficial and orthovoltage x-ray beam dosimetry,[Gastroduodenal invagination. Radio-endoscopic aspects].,0.126541
+Superficial and orthovoltage x-ray beam dosimetry,SU‐FF‐T‐452: Verification of Cell Irradiation Dose Deposition Using Radiochromic Film,0.486488
+[Black esophagus. Three new cases].,Dosimetry of centrally shielded electron beams,0.032885
+[Black esophagus. Three new cases].,[Gastroduodenal invagination. Radio-endoscopic aspects].,0.3416
+[Black esophagus. Three new cases].,SU‐FF‐T‐452: Verification of Cell Irradiation Dose Deposition Using Radiochromic Film,0.053751
+Dosimetry of centrally shielded electron beams,[Gastroduodenal invagination. Radio-endoscopic aspects].,0.080541
+Dosimetry of centrally shielded electron beams,SU‐FF‐T‐452: Verification of Cell Irradiation Dose Deposition Using Radiochromic Film,0.566688
+[Gastroduodenal invagination. Radio-endoscopic aspects].,SU‐FF‐T‐452: Verification of Cell Irradiation Dose Deposition Using Radiochromic Film,-0.021795

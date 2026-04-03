@@ -1,232 +1,232 @@
-abstract_i,abstract_j,cosine_similarity
-0,1,0.22375
-0,2,0.600152
-0,3,0.665107
-0,4,0.245982
-0,5,0.220091
-0,6,0.343914
-0,7,0.250439
-0,8,0.124551
-0,9,0.473003
-0,10,0.368391
-0,11,0.156327
-0,12,0.527453
-0,13,0.273557
-0,14,0.354804
-0,15,0.156275
-0,16,0.374233
-0,17,0.071465
-0,18,0.465945
-0,19,0.535818
-0,20,0.602616
-0,21,0.123073
-1,2,0.225691
-1,3,0.1782
-1,4,0.080337
-1,5,0.12001
-1,6,0.173725
-1,7,0.147149
-1,8,0.144055
-1,9,0.179048
-1,10,0.384456
-1,11,0.141661
-1,12,0.119439
-1,13,0.101349
-1,14,0.12985
-1,15,0.109642
-1,16,0.335952
-1,17,-0.028946
-1,18,0.090351
-1,19,0.258035
-1,20,0.240634
-1,21,0.026188
-2,3,0.522314
-2,4,0.298129
-2,5,0.213242
-2,6,0.328052
-2,7,0.275024
-2,8,0.125283
-2,9,0.408531
-2,10,0.33601
-2,11,0.160238
-2,12,0.449652
-2,13,0.205203
-2,14,0.427109
-2,15,0.194587
-2,16,0.323843
-2,17,0.156521
-2,18,0.466264
-2,19,0.545774
-2,20,0.586986
-2,21,0.152691
-3,4,0.293382
-3,5,0.247884
-3,6,0.244748
-3,7,0.261879
-3,8,0.123116
-3,9,0.402441
-3,10,0.28197
-3,11,0.143529
-3,12,0.616279
-3,13,0.29397
-3,14,0.283276
-3,15,0.170728
-3,16,0.234542
-3,17,0.034748
-3,18,0.425773
-3,19,0.457884
-3,20,0.512871
-3,21,0.141511
-4,5,0.231012
-4,6,0.620869
-4,7,0.3116
-4,8,0.168085
-4,9,0.239344
-4,10,0.206028
-4,11,0.204454
-4,12,0.252862
-4,13,0.215433
-4,14,0.763094
-4,15,0.224144
-4,16,0.261196
-4,17,0.207894
-4,18,0.34197
-4,19,0.234923
-4,20,0.285603
-4,21,0.206648
-5,6,0.163273
-5,7,0.504984
-5,8,0.803129
-5,9,0.484923
-5,10,0.202426
-5,11,0.829555
-5,12,0.229707
-5,13,0.858138
-5,14,0.250932
-5,15,0.725368
-5,16,0.116928
-5,17,0.124879
-5,18,0.43653
-5,19,0.348438
-5,20,0.349741
-5,21,0.293065
-6,7,0.197594
-6,8,0.063937
-6,9,0.264723
-6,10,0.261492
-6,11,0.137385
-6,12,0.352465
-6,13,0.132353
-6,14,0.724468
-6,15,0.148251
-6,16,0.360576
-6,17,0.256806
-6,18,0.260338
-6,19,0.314594
-6,20,0.301341
-6,21,0.147046
-7,8,0.454212
-7,9,0.442256
-7,10,0.194367
-7,11,0.495224
-7,12,0.22136
-7,13,0.594911
-7,14,0.279361
-7,15,0.527231
-7,16,0.154503
-7,17,0.081384
-7,18,0.407798
-7,19,0.341194
-7,20,0.391285
-7,21,0.360655
-8,9,0.3811
-8,10,0.180653
-8,11,0.790145
-8,12,0.132547
-8,13,0.72379
-8,14,0.156946
-8,15,0.717039
-8,16,0.140232
-8,17,0.138038
-8,18,0.318216
-8,19,0.230883
-8,20,0.257647
-8,21,0.297816
-9,10,0.256958
-9,11,0.414813
-9,12,0.403092
-9,13,0.468507
-9,14,0.252132
-9,15,0.421048
-9,16,0.234499
-9,17,0.050738
-9,18,0.794526
-9,19,0.687783
-9,20,0.559875
-9,21,0.272954
-10,11,0.188042
-10,12,0.277866
-10,13,0.189353
-10,14,0.277167
-10,15,0.157869
-10,16,0.427868
-10,17,-0.054208
-10,18,0.17571
-10,19,0.347304
-10,20,0.26765
-10,21,0.196843
-11,12,0.140892
-11,13,0.758926
-11,14,0.22465
-11,15,0.879828
-11,16,0.148351
-11,17,0.085916
-11,18,0.370342
-11,19,0.270317
-11,20,0.28526
-11,21,0.348946
-12,13,0.271386
-12,14,0.357366
-12,15,0.173683
-12,16,0.244734
-12,17,0.118599
-12,18,0.401609
-12,19,0.47699
-12,20,0.480884
-12,21,0.151205
-13,14,0.245361
-13,15,0.711674
-13,16,0.110525
-13,17,0.127825
-13,18,0.424764
-13,19,0.317883
-13,20,0.319791
-13,21,0.282422
-14,15,0.233416
-14,16,0.33846
-14,17,0.181652
-14,18,0.303625
-14,19,0.295697
-14,20,0.377842
-14,21,0.168225
-15,16,0.135627
-15,17,0.089901
-15,18,0.433074
-15,19,0.272982
-15,20,0.315652
-15,21,0.389345
-16,17,0.003943
-16,18,0.226414
-16,19,0.310994
-16,20,0.321228
-16,21,0.130333
-17,18,0.044771
-17,19,0.029424
-17,20,0.084888
-17,21,0.142979
-18,19,0.712717
-18,20,0.596126
-18,21,0.223054
-19,20,0.683354
-19,21,0.189925
-20,21,0.203464
+title_i,title_j,cosine_similarity
+Spectral reflectance properties of ureilites,Thermodynamic Assessment of <scp> <scp>P</scp> </scp> <sub>2</sub> <scp> <scp>O</scp> </scp> <sub>5</sub>,0.173683
+Spectral reflectance properties of ureilites,"Experimental Investigation and Optimization of Thermodynamic Properties and Phase Diagrams in the Systems CaO–SiO2, MgO–SiO2, CaMgSi2O6–SiO2 and CaMgSi2O6–Mg2SiO4 to 1·0 GPa",0.272982
+Spectral reflectance properties of ureilites,Phase Diagram Study of the CaO^|^ndash;CaF2 System,0.194587
+Spectral reflectance properties of ureilites,A method to assess the quality of additive manufacturing metal powders using the triboelectric charging concept,0.135627
+Spectral reflectance properties of ureilites,Correlating immediate vapour reactivity with dentin remineralization and tubule occlusion capacity of a bioactive sol-gel borate glass,0.224144
+Spectral reflectance properties of ureilites,Thermodynamic Database of P <sub>2</sub> O <sub>5</sub> -containing Oxide Systems for the Dephosphorization Process in Steelmaking,0.170728
+Spectral reflectance properties of ureilites,Experimental investigation of the LiAlSi <sub>2</sub> O <sub>6</sub> ‐MgSiO <sub>3</sub> and LiAlSi <sub>2</sub> O <sub>6</sub> ‐CaMgSi <sub>2</sub> O <sub>6</sub> isopleths at 1 atm,0.315652
+Spectral reflectance properties of ureilites,"Trace Element Analysis of Rough Diamond by LA‐ICP‐MS: A Case of Source Discrimination?*<sup>,†</sup>",0.389345
+Spectral reflectance properties of ureilites,"Effect of pressure on liquid‐liquid miscibility gaps: A case study of the systems CaO‐SiO<sub>2</sub>, MgO‐SiO<sub>2</sub>, and CaMgSi<sub>2</sub>O<sub>6</sub>‐SiO<sub>2</sub>",0.421048
+Spectral reflectance properties of ureilites,Coupled Experimental and Thermodynamic Optimization of the Na <sub>2</sub> O–FeO–Fe <sub>2</sub> O <sub>3</sub> –Al <sub>2</sub> O <sub>3</sub> System: Part 1. Phase Diagram Experiments,0.156275
+Spectral reflectance properties of ureilites,"Age of the Cabonga nepheline syenite, Grenville Province, western Quebec",0.527231
+Spectral reflectance properties of ureilites,Laser Powder Bed Fusion Additive Manufacturing of Mo and TZM Exoskeleton with Cu Infiltration for New Heat Sinks Configuration,0.109642
+Spectral reflectance properties of ureilites,"Petrology, Geochemistry and Genesis of Ureilites",0.711674
+Spectral reflectance properties of ureilites,Reflectance Spectra of Ureilites: Nature of the Mafic Silicate Absorption Features,0.879828
+Spectral reflectance properties of ureilites,Disappearance of the Liquid-Liquid Miscibility Gap in the System CaO-MgO-SiO2 at High Pressure,0.433074
+Spectral reflectance properties of ureilites,ChemInform Abstract: The Nature of Phase Separation in Binary Oxide Melts and Glasses. Part 3. Borate and Germanate Systems.,0.089901
+Spectral reflectance properties of ureilites,"Accretion, Differentiation, and Impact Processes on the Ureilite Parent Body",0.725368
+Spectral reflectance properties of ureilites,Asteroidal differentiation processes deduced from ultramafic achondrite ureilite meteorites,0.717039
+Spectral reflectance properties of ureilites,"Dual Structural Role of Niobium in Bioactive Borate Glasses Modulates Bioactivity, Cytocompatibility, and Hemostatic Potential",0.148251
+Spectral reflectance properties of ureilites,Quasistatic and dynamic mechanical response of laser powder bed fusion manufactured AA2219 alloy at cryogenic temperature,0.157869
+Spectral reflectance properties of ureilites,Effect of calcination temperature on the bioactivity of a sol-gel-derived 40CaO-60B₂O₃ glass composition,0.233416
+Thermodynamic Assessment of <scp> <scp>P</scp> </scp> <sub>2</sub> <scp> <scp>O</scp> </scp> <sub>5</sub>,"Experimental Investigation and Optimization of Thermodynamic Properties and Phase Diagrams in the Systems CaO–SiO2, MgO–SiO2, CaMgSi2O6–SiO2 and CaMgSi2O6–Mg2SiO4 to 1·0 GPa",0.47699
+Thermodynamic Assessment of <scp> <scp>P</scp> </scp> <sub>2</sub> <scp> <scp>O</scp> </scp> <sub>5</sub>,Phase Diagram Study of the CaO^|^ndash;CaF2 System,0.449652
+Thermodynamic Assessment of <scp> <scp>P</scp> </scp> <sub>2</sub> <scp> <scp>O</scp> </scp> <sub>5</sub>,A method to assess the quality of additive manufacturing metal powders using the triboelectric charging concept,0.244734
+Thermodynamic Assessment of <scp> <scp>P</scp> </scp> <sub>2</sub> <scp> <scp>O</scp> </scp> <sub>5</sub>,Correlating immediate vapour reactivity with dentin remineralization and tubule occlusion capacity of a bioactive sol-gel borate glass,0.252862
+Thermodynamic Assessment of <scp> <scp>P</scp> </scp> <sub>2</sub> <scp> <scp>O</scp> </scp> <sub>5</sub>,Thermodynamic Database of P <sub>2</sub> O <sub>5</sub> -containing Oxide Systems for the Dephosphorization Process in Steelmaking,0.616279
+Thermodynamic Assessment of <scp> <scp>P</scp> </scp> <sub>2</sub> <scp> <scp>O</scp> </scp> <sub>5</sub>,Experimental investigation of the LiAlSi <sub>2</sub> O <sub>6</sub> ‐MgSiO <sub>3</sub> and LiAlSi <sub>2</sub> O <sub>6</sub> ‐CaMgSi <sub>2</sub> O <sub>6</sub> isopleths at 1 atm,0.480884
+Thermodynamic Assessment of <scp> <scp>P</scp> </scp> <sub>2</sub> <scp> <scp>O</scp> </scp> <sub>5</sub>,"Trace Element Analysis of Rough Diamond by LA‐ICP‐MS: A Case of Source Discrimination?*<sup>,†</sup>",0.151205
+Thermodynamic Assessment of <scp> <scp>P</scp> </scp> <sub>2</sub> <scp> <scp>O</scp> </scp> <sub>5</sub>,"Effect of pressure on liquid‐liquid miscibility gaps: A case study of the systems CaO‐SiO<sub>2</sub>, MgO‐SiO<sub>2</sub>, and CaMgSi<sub>2</sub>O<sub>6</sub>‐SiO<sub>2</sub>",0.403092
+Thermodynamic Assessment of <scp> <scp>P</scp> </scp> <sub>2</sub> <scp> <scp>O</scp> </scp> <sub>5</sub>,Coupled Experimental and Thermodynamic Optimization of the Na <sub>2</sub> O–FeO–Fe <sub>2</sub> O <sub>3</sub> –Al <sub>2</sub> O <sub>3</sub> System: Part 1. Phase Diagram Experiments,0.527453
+Thermodynamic Assessment of <scp> <scp>P</scp> </scp> <sub>2</sub> <scp> <scp>O</scp> </scp> <sub>5</sub>,"Age of the Cabonga nepheline syenite, Grenville Province, western Quebec",0.22136
+Thermodynamic Assessment of <scp> <scp>P</scp> </scp> <sub>2</sub> <scp> <scp>O</scp> </scp> <sub>5</sub>,Laser Powder Bed Fusion Additive Manufacturing of Mo and TZM Exoskeleton with Cu Infiltration for New Heat Sinks Configuration,0.119439
+Thermodynamic Assessment of <scp> <scp>P</scp> </scp> <sub>2</sub> <scp> <scp>O</scp> </scp> <sub>5</sub>,"Petrology, Geochemistry and Genesis of Ureilites",0.271386
+Thermodynamic Assessment of <scp> <scp>P</scp> </scp> <sub>2</sub> <scp> <scp>O</scp> </scp> <sub>5</sub>,Reflectance Spectra of Ureilites: Nature of the Mafic Silicate Absorption Features,0.140892
+Thermodynamic Assessment of <scp> <scp>P</scp> </scp> <sub>2</sub> <scp> <scp>O</scp> </scp> <sub>5</sub>,Disappearance of the Liquid-Liquid Miscibility Gap in the System CaO-MgO-SiO2 at High Pressure,0.401609
+Thermodynamic Assessment of <scp> <scp>P</scp> </scp> <sub>2</sub> <scp> <scp>O</scp> </scp> <sub>5</sub>,ChemInform Abstract: The Nature of Phase Separation in Binary Oxide Melts and Glasses. Part 3. Borate and Germanate Systems.,0.118599
+Thermodynamic Assessment of <scp> <scp>P</scp> </scp> <sub>2</sub> <scp> <scp>O</scp> </scp> <sub>5</sub>,"Accretion, Differentiation, and Impact Processes on the Ureilite Parent Body",0.229707
+Thermodynamic Assessment of <scp> <scp>P</scp> </scp> <sub>2</sub> <scp> <scp>O</scp> </scp> <sub>5</sub>,Asteroidal differentiation processes deduced from ultramafic achondrite ureilite meteorites,0.132547
+Thermodynamic Assessment of <scp> <scp>P</scp> </scp> <sub>2</sub> <scp> <scp>O</scp> </scp> <sub>5</sub>,"Dual Structural Role of Niobium in Bioactive Borate Glasses Modulates Bioactivity, Cytocompatibility, and Hemostatic Potential",0.352465
+Thermodynamic Assessment of <scp> <scp>P</scp> </scp> <sub>2</sub> <scp> <scp>O</scp> </scp> <sub>5</sub>,Quasistatic and dynamic mechanical response of laser powder bed fusion manufactured AA2219 alloy at cryogenic temperature,0.277866
+Thermodynamic Assessment of <scp> <scp>P</scp> </scp> <sub>2</sub> <scp> <scp>O</scp> </scp> <sub>5</sub>,Effect of calcination temperature on the bioactivity of a sol-gel-derived 40CaO-60B₂O₃ glass composition,0.357366
+"Experimental Investigation and Optimization of Thermodynamic Properties and Phase Diagrams in the Systems CaO–SiO2, MgO–SiO2, CaMgSi2O6–SiO2 and CaMgSi2O6–Mg2SiO4 to 1·0 GPa",Phase Diagram Study of the CaO^|^ndash;CaF2 System,0.545774
+"Experimental Investigation and Optimization of Thermodynamic Properties and Phase Diagrams in the Systems CaO–SiO2, MgO–SiO2, CaMgSi2O6–SiO2 and CaMgSi2O6–Mg2SiO4 to 1·0 GPa",A method to assess the quality of additive manufacturing metal powders using the triboelectric charging concept,0.310994
+"Experimental Investigation and Optimization of Thermodynamic Properties and Phase Diagrams in the Systems CaO–SiO2, MgO–SiO2, CaMgSi2O6–SiO2 and CaMgSi2O6–Mg2SiO4 to 1·0 GPa",Correlating immediate vapour reactivity with dentin remineralization and tubule occlusion capacity of a bioactive sol-gel borate glass,0.234923
+"Experimental Investigation and Optimization of Thermodynamic Properties and Phase Diagrams in the Systems CaO–SiO2, MgO–SiO2, CaMgSi2O6–SiO2 and CaMgSi2O6–Mg2SiO4 to 1·0 GPa",Thermodynamic Database of P <sub>2</sub> O <sub>5</sub> -containing Oxide Systems for the Dephosphorization Process in Steelmaking,0.457884
+"Experimental Investigation and Optimization of Thermodynamic Properties and Phase Diagrams in the Systems CaO–SiO2, MgO–SiO2, CaMgSi2O6–SiO2 and CaMgSi2O6–Mg2SiO4 to 1·0 GPa",Experimental investigation of the LiAlSi <sub>2</sub> O <sub>6</sub> ‐MgSiO <sub>3</sub> and LiAlSi <sub>2</sub> O <sub>6</sub> ‐CaMgSi <sub>2</sub> O <sub>6</sub> isopleths at 1 atm,0.683354
+"Experimental Investigation and Optimization of Thermodynamic Properties and Phase Diagrams in the Systems CaO–SiO2, MgO–SiO2, CaMgSi2O6–SiO2 and CaMgSi2O6–Mg2SiO4 to 1·0 GPa","Trace Element Analysis of Rough Diamond by LA‐ICP‐MS: A Case of Source Discrimination?*<sup>,†</sup>",0.189925
+"Experimental Investigation and Optimization of Thermodynamic Properties and Phase Diagrams in the Systems CaO–SiO2, MgO–SiO2, CaMgSi2O6–SiO2 and CaMgSi2O6–Mg2SiO4 to 1·0 GPa","Effect of pressure on liquid‐liquid miscibility gaps: A case study of the systems CaO‐SiO<sub>2</sub>, MgO‐SiO<sub>2</sub>, and CaMgSi<sub>2</sub>O<sub>6</sub>‐SiO<sub>2</sub>",0.687783
+"Experimental Investigation and Optimization of Thermodynamic Properties and Phase Diagrams in the Systems CaO–SiO2, MgO–SiO2, CaMgSi2O6–SiO2 and CaMgSi2O6–Mg2SiO4 to 1·0 GPa",Coupled Experimental and Thermodynamic Optimization of the Na <sub>2</sub> O–FeO–Fe <sub>2</sub> O <sub>3</sub> –Al <sub>2</sub> O <sub>3</sub> System: Part 1. Phase Diagram Experiments,0.535818
+"Experimental Investigation and Optimization of Thermodynamic Properties and Phase Diagrams in the Systems CaO–SiO2, MgO–SiO2, CaMgSi2O6–SiO2 and CaMgSi2O6–Mg2SiO4 to 1·0 GPa","Age of the Cabonga nepheline syenite, Grenville Province, western Quebec",0.341194
+"Experimental Investigation and Optimization of Thermodynamic Properties and Phase Diagrams in the Systems CaO–SiO2, MgO–SiO2, CaMgSi2O6–SiO2 and CaMgSi2O6–Mg2SiO4 to 1·0 GPa",Laser Powder Bed Fusion Additive Manufacturing of Mo and TZM Exoskeleton with Cu Infiltration for New Heat Sinks Configuration,0.258035
+"Experimental Investigation and Optimization of Thermodynamic Properties and Phase Diagrams in the Systems CaO–SiO2, MgO–SiO2, CaMgSi2O6–SiO2 and CaMgSi2O6–Mg2SiO4 to 1·0 GPa","Petrology, Geochemistry and Genesis of Ureilites",0.317883
+"Experimental Investigation and Optimization of Thermodynamic Properties and Phase Diagrams in the Systems CaO–SiO2, MgO–SiO2, CaMgSi2O6–SiO2 and CaMgSi2O6–Mg2SiO4 to 1·0 GPa",Reflectance Spectra of Ureilites: Nature of the Mafic Silicate Absorption Features,0.270317
+"Experimental Investigation and Optimization of Thermodynamic Properties and Phase Diagrams in the Systems CaO–SiO2, MgO–SiO2, CaMgSi2O6–SiO2 and CaMgSi2O6–Mg2SiO4 to 1·0 GPa",Disappearance of the Liquid-Liquid Miscibility Gap in the System CaO-MgO-SiO2 at High Pressure,0.712717
+"Experimental Investigation and Optimization of Thermodynamic Properties and Phase Diagrams in the Systems CaO–SiO2, MgO–SiO2, CaMgSi2O6–SiO2 and CaMgSi2O6–Mg2SiO4 to 1·0 GPa",ChemInform Abstract: The Nature of Phase Separation in Binary Oxide Melts and Glasses. Part 3. Borate and Germanate Systems.,0.029424
+"Experimental Investigation and Optimization of Thermodynamic Properties and Phase Diagrams in the Systems CaO–SiO2, MgO–SiO2, CaMgSi2O6–SiO2 and CaMgSi2O6–Mg2SiO4 to 1·0 GPa","Accretion, Differentiation, and Impact Processes on the Ureilite Parent Body",0.348438
+"Experimental Investigation and Optimization of Thermodynamic Properties and Phase Diagrams in the Systems CaO–SiO2, MgO–SiO2, CaMgSi2O6–SiO2 and CaMgSi2O6–Mg2SiO4 to 1·0 GPa",Asteroidal differentiation processes deduced from ultramafic achondrite ureilite meteorites,0.230883
+"Experimental Investigation and Optimization of Thermodynamic Properties and Phase Diagrams in the Systems CaO–SiO2, MgO–SiO2, CaMgSi2O6–SiO2 and CaMgSi2O6–Mg2SiO4 to 1·0 GPa","Dual Structural Role of Niobium in Bioactive Borate Glasses Modulates Bioactivity, Cytocompatibility, and Hemostatic Potential",0.314594
+"Experimental Investigation and Optimization of Thermodynamic Properties and Phase Diagrams in the Systems CaO–SiO2, MgO–SiO2, CaMgSi2O6–SiO2 and CaMgSi2O6–Mg2SiO4 to 1·0 GPa",Quasistatic and dynamic mechanical response of laser powder bed fusion manufactured AA2219 alloy at cryogenic temperature,0.347304
+"Experimental Investigation and Optimization of Thermodynamic Properties and Phase Diagrams in the Systems CaO–SiO2, MgO–SiO2, CaMgSi2O6–SiO2 and CaMgSi2O6–Mg2SiO4 to 1·0 GPa",Effect of calcination temperature on the bioactivity of a sol-gel-derived 40CaO-60B₂O₃ glass composition,0.295697
+Phase Diagram Study of the CaO^|^ndash;CaF2 System,A method to assess the quality of additive manufacturing metal powders using the triboelectric charging concept,0.323843
+Phase Diagram Study of the CaO^|^ndash;CaF2 System,Correlating immediate vapour reactivity with dentin remineralization and tubule occlusion capacity of a bioactive sol-gel borate glass,0.298129
+Phase Diagram Study of the CaO^|^ndash;CaF2 System,Thermodynamic Database of P <sub>2</sub> O <sub>5</sub> -containing Oxide Systems for the Dephosphorization Process in Steelmaking,0.522314
+Phase Diagram Study of the CaO^|^ndash;CaF2 System,Experimental investigation of the LiAlSi <sub>2</sub> O <sub>6</sub> ‐MgSiO <sub>3</sub> and LiAlSi <sub>2</sub> O <sub>6</sub> ‐CaMgSi <sub>2</sub> O <sub>6</sub> isopleths at 1 atm,0.586986
+Phase Diagram Study of the CaO^|^ndash;CaF2 System,"Trace Element Analysis of Rough Diamond by LA‐ICP‐MS: A Case of Source Discrimination?*<sup>,†</sup>",0.152691
+Phase Diagram Study of the CaO^|^ndash;CaF2 System,"Effect of pressure on liquid‐liquid miscibility gaps: A case study of the systems CaO‐SiO<sub>2</sub>, MgO‐SiO<sub>2</sub>, and CaMgSi<sub>2</sub>O<sub>6</sub>‐SiO<sub>2</sub>",0.408531
+Phase Diagram Study of the CaO^|^ndash;CaF2 System,Coupled Experimental and Thermodynamic Optimization of the Na <sub>2</sub> O–FeO–Fe <sub>2</sub> O <sub>3</sub> –Al <sub>2</sub> O <sub>3</sub> System: Part 1. Phase Diagram Experiments,0.600152
+Phase Diagram Study of the CaO^|^ndash;CaF2 System,"Age of the Cabonga nepheline syenite, Grenville Province, western Quebec",0.275024
+Phase Diagram Study of the CaO^|^ndash;CaF2 System,Laser Powder Bed Fusion Additive Manufacturing of Mo and TZM Exoskeleton with Cu Infiltration for New Heat Sinks Configuration,0.225691
+Phase Diagram Study of the CaO^|^ndash;CaF2 System,"Petrology, Geochemistry and Genesis of Ureilites",0.205203
+Phase Diagram Study of the CaO^|^ndash;CaF2 System,Reflectance Spectra of Ureilites: Nature of the Mafic Silicate Absorption Features,0.160238
+Phase Diagram Study of the CaO^|^ndash;CaF2 System,Disappearance of the Liquid-Liquid Miscibility Gap in the System CaO-MgO-SiO2 at High Pressure,0.466264
+Phase Diagram Study of the CaO^|^ndash;CaF2 System,ChemInform Abstract: The Nature of Phase Separation in Binary Oxide Melts and Glasses. Part 3. Borate and Germanate Systems.,0.156521
+Phase Diagram Study of the CaO^|^ndash;CaF2 System,"Accretion, Differentiation, and Impact Processes on the Ureilite Parent Body",0.213242
+Phase Diagram Study of the CaO^|^ndash;CaF2 System,Asteroidal differentiation processes deduced from ultramafic achondrite ureilite meteorites,0.125283
+Phase Diagram Study of the CaO^|^ndash;CaF2 System,"Dual Structural Role of Niobium in Bioactive Borate Glasses Modulates Bioactivity, Cytocompatibility, and Hemostatic Potential",0.328052
+Phase Diagram Study of the CaO^|^ndash;CaF2 System,Quasistatic and dynamic mechanical response of laser powder bed fusion manufactured AA2219 alloy at cryogenic temperature,0.33601
+Phase Diagram Study of the CaO^|^ndash;CaF2 System,Effect of calcination temperature on the bioactivity of a sol-gel-derived 40CaO-60B₂O₃ glass composition,0.427109
+A method to assess the quality of additive manufacturing metal powders using the triboelectric charging concept,Correlating immediate vapour reactivity with dentin remineralization and tubule occlusion capacity of a bioactive sol-gel borate glass,0.261196
+A method to assess the quality of additive manufacturing metal powders using the triboelectric charging concept,Thermodynamic Database of P <sub>2</sub> O <sub>5</sub> -containing Oxide Systems for the Dephosphorization Process in Steelmaking,0.234542
+A method to assess the quality of additive manufacturing metal powders using the triboelectric charging concept,Experimental investigation of the LiAlSi <sub>2</sub> O <sub>6</sub> ‐MgSiO <sub>3</sub> and LiAlSi <sub>2</sub> O <sub>6</sub> ‐CaMgSi <sub>2</sub> O <sub>6</sub> isopleths at 1 atm,0.321228
+A method to assess the quality of additive manufacturing metal powders using the triboelectric charging concept,"Trace Element Analysis of Rough Diamond by LA‐ICP‐MS: A Case of Source Discrimination?*<sup>,†</sup>",0.130333
+A method to assess the quality of additive manufacturing metal powders using the triboelectric charging concept,"Effect of pressure on liquid‐liquid miscibility gaps: A case study of the systems CaO‐SiO<sub>2</sub>, MgO‐SiO<sub>2</sub>, and CaMgSi<sub>2</sub>O<sub>6</sub>‐SiO<sub>2</sub>",0.234499
+A method to assess the quality of additive manufacturing metal powders using the triboelectric charging concept,Coupled Experimental and Thermodynamic Optimization of the Na <sub>2</sub> O–FeO–Fe <sub>2</sub> O <sub>3</sub> –Al <sub>2</sub> O <sub>3</sub> System: Part 1. Phase Diagram Experiments,0.374233
+A method to assess the quality of additive manufacturing metal powders using the triboelectric charging concept,"Age of the Cabonga nepheline syenite, Grenville Province, western Quebec",0.154503
+A method to assess the quality of additive manufacturing metal powders using the triboelectric charging concept,Laser Powder Bed Fusion Additive Manufacturing of Mo and TZM Exoskeleton with Cu Infiltration for New Heat Sinks Configuration,0.335952
+A method to assess the quality of additive manufacturing metal powders using the triboelectric charging concept,"Petrology, Geochemistry and Genesis of Ureilites",0.110525
+A method to assess the quality of additive manufacturing metal powders using the triboelectric charging concept,Reflectance Spectra of Ureilites: Nature of the Mafic Silicate Absorption Features,0.148351
+A method to assess the quality of additive manufacturing metal powders using the triboelectric charging concept,Disappearance of the Liquid-Liquid Miscibility Gap in the System CaO-MgO-SiO2 at High Pressure,0.226414
+A method to assess the quality of additive manufacturing metal powders using the triboelectric charging concept,ChemInform Abstract: The Nature of Phase Separation in Binary Oxide Melts and Glasses. Part 3. Borate and Germanate Systems.,0.003943
+A method to assess the quality of additive manufacturing metal powders using the triboelectric charging concept,"Accretion, Differentiation, and Impact Processes on the Ureilite Parent Body",0.116928
+A method to assess the quality of additive manufacturing metal powders using the triboelectric charging concept,Asteroidal differentiation processes deduced from ultramafic achondrite ureilite meteorites,0.140232
+A method to assess the quality of additive manufacturing metal powders using the triboelectric charging concept,"Dual Structural Role of Niobium in Bioactive Borate Glasses Modulates Bioactivity, Cytocompatibility, and Hemostatic Potential",0.360576
+A method to assess the quality of additive manufacturing metal powders using the triboelectric charging concept,Quasistatic and dynamic mechanical response of laser powder bed fusion manufactured AA2219 alloy at cryogenic temperature,0.427868
+A method to assess the quality of additive manufacturing metal powders using the triboelectric charging concept,Effect of calcination temperature on the bioactivity of a sol-gel-derived 40CaO-60B₂O₃ glass composition,0.33846
+Correlating immediate vapour reactivity with dentin remineralization and tubule occlusion capacity of a bioactive sol-gel borate glass,Thermodynamic Database of P <sub>2</sub> O <sub>5</sub> -containing Oxide Systems for the Dephosphorization Process in Steelmaking,0.293382
+Correlating immediate vapour reactivity with dentin remineralization and tubule occlusion capacity of a bioactive sol-gel borate glass,Experimental investigation of the LiAlSi <sub>2</sub> O <sub>6</sub> ‐MgSiO <sub>3</sub> and LiAlSi <sub>2</sub> O <sub>6</sub> ‐CaMgSi <sub>2</sub> O <sub>6</sub> isopleths at 1 atm,0.285603
+Correlating immediate vapour reactivity with dentin remineralization and tubule occlusion capacity of a bioactive sol-gel borate glass,"Trace Element Analysis of Rough Diamond by LA‐ICP‐MS: A Case of Source Discrimination?*<sup>,†</sup>",0.206648
+Correlating immediate vapour reactivity with dentin remineralization and tubule occlusion capacity of a bioactive sol-gel borate glass,"Effect of pressure on liquid‐liquid miscibility gaps: A case study of the systems CaO‐SiO<sub>2</sub>, MgO‐SiO<sub>2</sub>, and CaMgSi<sub>2</sub>O<sub>6</sub>‐SiO<sub>2</sub>",0.239344
+Correlating immediate vapour reactivity with dentin remineralization and tubule occlusion capacity of a bioactive sol-gel borate glass,Coupled Experimental and Thermodynamic Optimization of the Na <sub>2</sub> O–FeO–Fe <sub>2</sub> O <sub>3</sub> –Al <sub>2</sub> O <sub>3</sub> System: Part 1. Phase Diagram Experiments,0.245982
+Correlating immediate vapour reactivity with dentin remineralization and tubule occlusion capacity of a bioactive sol-gel borate glass,"Age of the Cabonga nepheline syenite, Grenville Province, western Quebec",0.3116
+Correlating immediate vapour reactivity with dentin remineralization and tubule occlusion capacity of a bioactive sol-gel borate glass,Laser Powder Bed Fusion Additive Manufacturing of Mo and TZM Exoskeleton with Cu Infiltration for New Heat Sinks Configuration,0.080337
+Correlating immediate vapour reactivity with dentin remineralization and tubule occlusion capacity of a bioactive sol-gel borate glass,"Petrology, Geochemistry and Genesis of Ureilites",0.215433
+Correlating immediate vapour reactivity with dentin remineralization and tubule occlusion capacity of a bioactive sol-gel borate glass,Reflectance Spectra of Ureilites: Nature of the Mafic Silicate Absorption Features,0.204454
+Correlating immediate vapour reactivity with dentin remineralization and tubule occlusion capacity of a bioactive sol-gel borate glass,Disappearance of the Liquid-Liquid Miscibility Gap in the System CaO-MgO-SiO2 at High Pressure,0.34197
+Correlating immediate vapour reactivity with dentin remineralization and tubule occlusion capacity of a bioactive sol-gel borate glass,ChemInform Abstract: The Nature of Phase Separation in Binary Oxide Melts and Glasses. Part 3. Borate and Germanate Systems.,0.207894
+Correlating immediate vapour reactivity with dentin remineralization and tubule occlusion capacity of a bioactive sol-gel borate glass,"Accretion, Differentiation, and Impact Processes on the Ureilite Parent Body",0.231012
+Correlating immediate vapour reactivity with dentin remineralization and tubule occlusion capacity of a bioactive sol-gel borate glass,Asteroidal differentiation processes deduced from ultramafic achondrite ureilite meteorites,0.168085
+Correlating immediate vapour reactivity with dentin remineralization and tubule occlusion capacity of a bioactive sol-gel borate glass,"Dual Structural Role of Niobium in Bioactive Borate Glasses Modulates Bioactivity, Cytocompatibility, and Hemostatic Potential",0.620869
+Correlating immediate vapour reactivity with dentin remineralization and tubule occlusion capacity of a bioactive sol-gel borate glass,Quasistatic and dynamic mechanical response of laser powder bed fusion manufactured AA2219 alloy at cryogenic temperature,0.206028
+Correlating immediate vapour reactivity with dentin remineralization and tubule occlusion capacity of a bioactive sol-gel borate glass,Effect of calcination temperature on the bioactivity of a sol-gel-derived 40CaO-60B₂O₃ glass composition,0.763094
+Thermodynamic Database of P <sub>2</sub> O <sub>5</sub> -containing Oxide Systems for the Dephosphorization Process in Steelmaking,Experimental investigation of the LiAlSi <sub>2</sub> O <sub>6</sub> ‐MgSiO <sub>3</sub> and LiAlSi <sub>2</sub> O <sub>6</sub> ‐CaMgSi <sub>2</sub> O <sub>6</sub> isopleths at 1 atm,0.512871
+Thermodynamic Database of P <sub>2</sub> O <sub>5</sub> -containing Oxide Systems for the Dephosphorization Process in Steelmaking,"Trace Element Analysis of Rough Diamond by LA‐ICP‐MS: A Case of Source Discrimination?*<sup>,†</sup>",0.141511
+Thermodynamic Database of P <sub>2</sub> O <sub>5</sub> -containing Oxide Systems for the Dephosphorization Process in Steelmaking,"Effect of pressure on liquid‐liquid miscibility gaps: A case study of the systems CaO‐SiO<sub>2</sub>, MgO‐SiO<sub>2</sub>, and CaMgSi<sub>2</sub>O<sub>6</sub>‐SiO<sub>2</sub>",0.402441
+Thermodynamic Database of P <sub>2</sub> O <sub>5</sub> -containing Oxide Systems for the Dephosphorization Process in Steelmaking,Coupled Experimental and Thermodynamic Optimization of the Na <sub>2</sub> O–FeO–Fe <sub>2</sub> O <sub>3</sub> –Al <sub>2</sub> O <sub>3</sub> System: Part 1. Phase Diagram Experiments,0.665107
+Thermodynamic Database of P <sub>2</sub> O <sub>5</sub> -containing Oxide Systems for the Dephosphorization Process in Steelmaking,"Age of the Cabonga nepheline syenite, Grenville Province, western Quebec",0.261879
+Thermodynamic Database of P <sub>2</sub> O <sub>5</sub> -containing Oxide Systems for the Dephosphorization Process in Steelmaking,Laser Powder Bed Fusion Additive Manufacturing of Mo and TZM Exoskeleton with Cu Infiltration for New Heat Sinks Configuration,0.1782
+Thermodynamic Database of P <sub>2</sub> O <sub>5</sub> -containing Oxide Systems for the Dephosphorization Process in Steelmaking,"Petrology, Geochemistry and Genesis of Ureilites",0.29397
+Thermodynamic Database of P <sub>2</sub> O <sub>5</sub> -containing Oxide Systems for the Dephosphorization Process in Steelmaking,Reflectance Spectra of Ureilites: Nature of the Mafic Silicate Absorption Features,0.143529
+Thermodynamic Database of P <sub>2</sub> O <sub>5</sub> -containing Oxide Systems for the Dephosphorization Process in Steelmaking,Disappearance of the Liquid-Liquid Miscibility Gap in the System CaO-MgO-SiO2 at High Pressure,0.425773
+Thermodynamic Database of P <sub>2</sub> O <sub>5</sub> -containing Oxide Systems for the Dephosphorization Process in Steelmaking,ChemInform Abstract: The Nature of Phase Separation in Binary Oxide Melts and Glasses. Part 3. Borate and Germanate Systems.,0.034748
+Thermodynamic Database of P <sub>2</sub> O <sub>5</sub> -containing Oxide Systems for the Dephosphorization Process in Steelmaking,"Accretion, Differentiation, and Impact Processes on the Ureilite Parent Body",0.247884
+Thermodynamic Database of P <sub>2</sub> O <sub>5</sub> -containing Oxide Systems for the Dephosphorization Process in Steelmaking,Asteroidal differentiation processes deduced from ultramafic achondrite ureilite meteorites,0.123116
+Thermodynamic Database of P <sub>2</sub> O <sub>5</sub> -containing Oxide Systems for the Dephosphorization Process in Steelmaking,"Dual Structural Role of Niobium in Bioactive Borate Glasses Modulates Bioactivity, Cytocompatibility, and Hemostatic Potential",0.244748
+Thermodynamic Database of P <sub>2</sub> O <sub>5</sub> -containing Oxide Systems for the Dephosphorization Process in Steelmaking,Quasistatic and dynamic mechanical response of laser powder bed fusion manufactured AA2219 alloy at cryogenic temperature,0.28197
+Thermodynamic Database of P <sub>2</sub> O <sub>5</sub> -containing Oxide Systems for the Dephosphorization Process in Steelmaking,Effect of calcination temperature on the bioactivity of a sol-gel-derived 40CaO-60B₂O₃ glass composition,0.283276
+Experimental investigation of the LiAlSi <sub>2</sub> O <sub>6</sub> ‐MgSiO <sub>3</sub> and LiAlSi <sub>2</sub> O <sub>6</sub> ‐CaMgSi <sub>2</sub> O <sub>6</sub> isopleths at 1 atm,"Trace Element Analysis of Rough Diamond by LA‐ICP‐MS: A Case of Source Discrimination?*<sup>,†</sup>",0.203464
+Experimental investigation of the LiAlSi <sub>2</sub> O <sub>6</sub> ‐MgSiO <sub>3</sub> and LiAlSi <sub>2</sub> O <sub>6</sub> ‐CaMgSi <sub>2</sub> O <sub>6</sub> isopleths at 1 atm,"Effect of pressure on liquid‐liquid miscibility gaps: A case study of the systems CaO‐SiO<sub>2</sub>, MgO‐SiO<sub>2</sub>, and CaMgSi<sub>2</sub>O<sub>6</sub>‐SiO<sub>2</sub>",0.559875
+Experimental investigation of the LiAlSi <sub>2</sub> O <sub>6</sub> ‐MgSiO <sub>3</sub> and LiAlSi <sub>2</sub> O <sub>6</sub> ‐CaMgSi <sub>2</sub> O <sub>6</sub> isopleths at 1 atm,Coupled Experimental and Thermodynamic Optimization of the Na <sub>2</sub> O–FeO–Fe <sub>2</sub> O <sub>3</sub> –Al <sub>2</sub> O <sub>3</sub> System: Part 1. Phase Diagram Experiments,0.602616
+Experimental investigation of the LiAlSi <sub>2</sub> O <sub>6</sub> ‐MgSiO <sub>3</sub> and LiAlSi <sub>2</sub> O <sub>6</sub> ‐CaMgSi <sub>2</sub> O <sub>6</sub> isopleths at 1 atm,"Age of the Cabonga nepheline syenite, Grenville Province, western Quebec",0.391285
+Experimental investigation of the LiAlSi <sub>2</sub> O <sub>6</sub> ‐MgSiO <sub>3</sub> and LiAlSi <sub>2</sub> O <sub>6</sub> ‐CaMgSi <sub>2</sub> O <sub>6</sub> isopleths at 1 atm,Laser Powder Bed Fusion Additive Manufacturing of Mo and TZM Exoskeleton with Cu Infiltration for New Heat Sinks Configuration,0.240634
+Experimental investigation of the LiAlSi <sub>2</sub> O <sub>6</sub> ‐MgSiO <sub>3</sub> and LiAlSi <sub>2</sub> O <sub>6</sub> ‐CaMgSi <sub>2</sub> O <sub>6</sub> isopleths at 1 atm,"Petrology, Geochemistry and Genesis of Ureilites",0.319791
+Experimental investigation of the LiAlSi <sub>2</sub> O <sub>6</sub> ‐MgSiO <sub>3</sub> and LiAlSi <sub>2</sub> O <sub>6</sub> ‐CaMgSi <sub>2</sub> O <sub>6</sub> isopleths at 1 atm,Reflectance Spectra of Ureilites: Nature of the Mafic Silicate Absorption Features,0.28526
+Experimental investigation of the LiAlSi <sub>2</sub> O <sub>6</sub> ‐MgSiO <sub>3</sub> and LiAlSi <sub>2</sub> O <sub>6</sub> ‐CaMgSi <sub>2</sub> O <sub>6</sub> isopleths at 1 atm,Disappearance of the Liquid-Liquid Miscibility Gap in the System CaO-MgO-SiO2 at High Pressure,0.596126
+Experimental investigation of the LiAlSi <sub>2</sub> O <sub>6</sub> ‐MgSiO <sub>3</sub> and LiAlSi <sub>2</sub> O <sub>6</sub> ‐CaMgSi <sub>2</sub> O <sub>6</sub> isopleths at 1 atm,ChemInform Abstract: The Nature of Phase Separation in Binary Oxide Melts and Glasses. Part 3. Borate and Germanate Systems.,0.084888
+Experimental investigation of the LiAlSi <sub>2</sub> O <sub>6</sub> ‐MgSiO <sub>3</sub> and LiAlSi <sub>2</sub> O <sub>6</sub> ‐CaMgSi <sub>2</sub> O <sub>6</sub> isopleths at 1 atm,"Accretion, Differentiation, and Impact Processes on the Ureilite Parent Body",0.349741
+Experimental investigation of the LiAlSi <sub>2</sub> O <sub>6</sub> ‐MgSiO <sub>3</sub> and LiAlSi <sub>2</sub> O <sub>6</sub> ‐CaMgSi <sub>2</sub> O <sub>6</sub> isopleths at 1 atm,Asteroidal differentiation processes deduced from ultramafic achondrite ureilite meteorites,0.257647
+Experimental investigation of the LiAlSi <sub>2</sub> O <sub>6</sub> ‐MgSiO <sub>3</sub> and LiAlSi <sub>2</sub> O <sub>6</sub> ‐CaMgSi <sub>2</sub> O <sub>6</sub> isopleths at 1 atm,"Dual Structural Role of Niobium in Bioactive Borate Glasses Modulates Bioactivity, Cytocompatibility, and Hemostatic Potential",0.301341
+Experimental investigation of the LiAlSi <sub>2</sub> O <sub>6</sub> ‐MgSiO <sub>3</sub> and LiAlSi <sub>2</sub> O <sub>6</sub> ‐CaMgSi <sub>2</sub> O <sub>6</sub> isopleths at 1 atm,Quasistatic and dynamic mechanical response of laser powder bed fusion manufactured AA2219 alloy at cryogenic temperature,0.26765
+Experimental investigation of the LiAlSi <sub>2</sub> O <sub>6</sub> ‐MgSiO <sub>3</sub> and LiAlSi <sub>2</sub> O <sub>6</sub> ‐CaMgSi <sub>2</sub> O <sub>6</sub> isopleths at 1 atm,Effect of calcination temperature on the bioactivity of a sol-gel-derived 40CaO-60B₂O₃ glass composition,0.377842
+"Trace Element Analysis of Rough Diamond by LA‐ICP‐MS: A Case of Source Discrimination?*<sup>,†</sup>","Effect of pressure on liquid‐liquid miscibility gaps: A case study of the systems CaO‐SiO<sub>2</sub>, MgO‐SiO<sub>2</sub>, and CaMgSi<sub>2</sub>O<sub>6</sub>‐SiO<sub>2</sub>",0.272954
+"Trace Element Analysis of Rough Diamond by LA‐ICP‐MS: A Case of Source Discrimination?*<sup>,†</sup>",Coupled Experimental and Thermodynamic Optimization of the Na <sub>2</sub> O–FeO–Fe <sub>2</sub> O <sub>3</sub> –Al <sub>2</sub> O <sub>3</sub> System: Part 1. Phase Diagram Experiments,0.123073
+"Trace Element Analysis of Rough Diamond by LA‐ICP‐MS: A Case of Source Discrimination?*<sup>,†</sup>","Age of the Cabonga nepheline syenite, Grenville Province, western Quebec",0.360655
+"Trace Element Analysis of Rough Diamond by LA‐ICP‐MS: A Case of Source Discrimination?*<sup>,†</sup>",Laser Powder Bed Fusion Additive Manufacturing of Mo and TZM Exoskeleton with Cu Infiltration for New Heat Sinks Configuration,0.026188
+"Trace Element Analysis of Rough Diamond by LA‐ICP‐MS: A Case of Source Discrimination?*<sup>,†</sup>","Petrology, Geochemistry and Genesis of Ureilites",0.282422
+"Trace Element Analysis of Rough Diamond by LA‐ICP‐MS: A Case of Source Discrimination?*<sup>,†</sup>",Reflectance Spectra of Ureilites: Nature of the Mafic Silicate Absorption Features,0.348946
+"Trace Element Analysis of Rough Diamond by LA‐ICP‐MS: A Case of Source Discrimination?*<sup>,†</sup>",Disappearance of the Liquid-Liquid Miscibility Gap in the System CaO-MgO-SiO2 at High Pressure,0.223054
+"Trace Element Analysis of Rough Diamond by LA‐ICP‐MS: A Case of Source Discrimination?*<sup>,†</sup>",ChemInform Abstract: The Nature of Phase Separation in Binary Oxide Melts and Glasses. Part 3. Borate and Germanate Systems.,0.142979
+"Trace Element Analysis of Rough Diamond by LA‐ICP‐MS: A Case of Source Discrimination?*<sup>,†</sup>","Accretion, Differentiation, and Impact Processes on the Ureilite Parent Body",0.293065
+"Trace Element Analysis of Rough Diamond by LA‐ICP‐MS: A Case of Source Discrimination?*<sup>,†</sup>",Asteroidal differentiation processes deduced from ultramafic achondrite ureilite meteorites,0.297816
+"Trace Element Analysis of Rough Diamond by LA‐ICP‐MS: A Case of Source Discrimination?*<sup>,†</sup>","Dual Structural Role of Niobium in Bioactive Borate Glasses Modulates Bioactivity, Cytocompatibility, and Hemostatic Potential",0.147046
+"Trace Element Analysis of Rough Diamond by LA‐ICP‐MS: A Case of Source Discrimination?*<sup>,†</sup>",Quasistatic and dynamic mechanical response of laser powder bed fusion manufactured AA2219 alloy at cryogenic temperature,0.196843
+"Trace Element Analysis of Rough Diamond by LA‐ICP‐MS: A Case of Source Discrimination?*<sup>,†</sup>",Effect of calcination temperature on the bioactivity of a sol-gel-derived 40CaO-60B₂O₃ glass composition,0.168225
+"Effect of pressure on liquid‐liquid miscibility gaps: A case study of the systems CaO‐SiO<sub>2</sub>, MgO‐SiO<sub>2</sub>, and CaMgSi<sub>2</sub>O<sub>6</sub>‐SiO<sub>2</sub>",Coupled Experimental and Thermodynamic Optimization of the Na <sub>2</sub> O–FeO–Fe <sub>2</sub> O <sub>3</sub> –Al <sub>2</sub> O <sub>3</sub> System: Part 1. Phase Diagram Experiments,0.473003
+"Effect of pressure on liquid‐liquid miscibility gaps: A case study of the systems CaO‐SiO<sub>2</sub>, MgO‐SiO<sub>2</sub>, and CaMgSi<sub>2</sub>O<sub>6</sub>‐SiO<sub>2</sub>","Age of the Cabonga nepheline syenite, Grenville Province, western Quebec",0.442256
+"Effect of pressure on liquid‐liquid miscibility gaps: A case study of the systems CaO‐SiO<sub>2</sub>, MgO‐SiO<sub>2</sub>, and CaMgSi<sub>2</sub>O<sub>6</sub>‐SiO<sub>2</sub>",Laser Powder Bed Fusion Additive Manufacturing of Mo and TZM Exoskeleton with Cu Infiltration for New Heat Sinks Configuration,0.179048
+"Effect of pressure on liquid‐liquid miscibility gaps: A case study of the systems CaO‐SiO<sub>2</sub>, MgO‐SiO<sub>2</sub>, and CaMgSi<sub>2</sub>O<sub>6</sub>‐SiO<sub>2</sub>","Petrology, Geochemistry and Genesis of Ureilites",0.468507
+"Effect of pressure on liquid‐liquid miscibility gaps: A case study of the systems CaO‐SiO<sub>2</sub>, MgO‐SiO<sub>2</sub>, and CaMgSi<sub>2</sub>O<sub>6</sub>‐SiO<sub>2</sub>",Reflectance Spectra of Ureilites: Nature of the Mafic Silicate Absorption Features,0.414813
+"Effect of pressure on liquid‐liquid miscibility gaps: A case study of the systems CaO‐SiO<sub>2</sub>, MgO‐SiO<sub>2</sub>, and CaMgSi<sub>2</sub>O<sub>6</sub>‐SiO<sub>2</sub>",Disappearance of the Liquid-Liquid Miscibility Gap in the System CaO-MgO-SiO2 at High Pressure,0.794526
+"Effect of pressure on liquid‐liquid miscibility gaps: A case study of the systems CaO‐SiO<sub>2</sub>, MgO‐SiO<sub>2</sub>, and CaMgSi<sub>2</sub>O<sub>6</sub>‐SiO<sub>2</sub>",ChemInform Abstract: The Nature of Phase Separation in Binary Oxide Melts and Glasses. Part 3. Borate and Germanate Systems.,0.050738
+"Effect of pressure on liquid‐liquid miscibility gaps: A case study of the systems CaO‐SiO<sub>2</sub>, MgO‐SiO<sub>2</sub>, and CaMgSi<sub>2</sub>O<sub>6</sub>‐SiO<sub>2</sub>","Accretion, Differentiation, and Impact Processes on the Ureilite Parent Body",0.484923
+"Effect of pressure on liquid‐liquid miscibility gaps: A case study of the systems CaO‐SiO<sub>2</sub>, MgO‐SiO<sub>2</sub>, and CaMgSi<sub>2</sub>O<sub>6</sub>‐SiO<sub>2</sub>",Asteroidal differentiation processes deduced from ultramafic achondrite ureilite meteorites,0.3811
+"Effect of pressure on liquid‐liquid miscibility gaps: A case study of the systems CaO‐SiO<sub>2</sub>, MgO‐SiO<sub>2</sub>, and CaMgSi<sub>2</sub>O<sub>6</sub>‐SiO<sub>2</sub>","Dual Structural Role of Niobium in Bioactive Borate Glasses Modulates Bioactivity, Cytocompatibility, and Hemostatic Potential",0.264723
+"Effect of pressure on liquid‐liquid miscibility gaps: A case study of the systems CaO‐SiO<sub>2</sub>, MgO‐SiO<sub>2</sub>, and CaMgSi<sub>2</sub>O<sub>6</sub>‐SiO<sub>2</sub>",Quasistatic and dynamic mechanical response of laser powder bed fusion manufactured AA2219 alloy at cryogenic temperature,0.256958
+"Effect of pressure on liquid‐liquid miscibility gaps: A case study of the systems CaO‐SiO<sub>2</sub>, MgO‐SiO<sub>2</sub>, and CaMgSi<sub>2</sub>O<sub>6</sub>‐SiO<sub>2</sub>",Effect of calcination temperature on the bioactivity of a sol-gel-derived 40CaO-60B₂O₃ glass composition,0.252132
+Coupled Experimental and Thermodynamic Optimization of the Na <sub>2</sub> O–FeO–Fe <sub>2</sub> O <sub>3</sub> –Al <sub>2</sub> O <sub>3</sub> System: Part 1. Phase Diagram Experiments,"Age of the Cabonga nepheline syenite, Grenville Province, western Quebec",0.250439
+Coupled Experimental and Thermodynamic Optimization of the Na <sub>2</sub> O–FeO–Fe <sub>2</sub> O <sub>3</sub> –Al <sub>2</sub> O <sub>3</sub> System: Part 1. Phase Diagram Experiments,Laser Powder Bed Fusion Additive Manufacturing of Mo and TZM Exoskeleton with Cu Infiltration for New Heat Sinks Configuration,0.22375
+Coupled Experimental and Thermodynamic Optimization of the Na <sub>2</sub> O–FeO–Fe <sub>2</sub> O <sub>3</sub> –Al <sub>2</sub> O <sub>3</sub> System: Part 1. Phase Diagram Experiments,"Petrology, Geochemistry and Genesis of Ureilites",0.273557
+Coupled Experimental and Thermodynamic Optimization of the Na <sub>2</sub> O–FeO–Fe <sub>2</sub> O <sub>3</sub> –Al <sub>2</sub> O <sub>3</sub> System: Part 1. Phase Diagram Experiments,Reflectance Spectra of Ureilites: Nature of the Mafic Silicate Absorption Features,0.156327
+Coupled Experimental and Thermodynamic Optimization of the Na <sub>2</sub> O–FeO–Fe <sub>2</sub> O <sub>3</sub> –Al <sub>2</sub> O <sub>3</sub> System: Part 1. Phase Diagram Experiments,Disappearance of the Liquid-Liquid Miscibility Gap in the System CaO-MgO-SiO2 at High Pressure,0.465945
+Coupled Experimental and Thermodynamic Optimization of the Na <sub>2</sub> O–FeO–Fe <sub>2</sub> O <sub>3</sub> –Al <sub>2</sub> O <sub>3</sub> System: Part 1. Phase Diagram Experiments,ChemInform Abstract: The Nature of Phase Separation in Binary Oxide Melts and Glasses. Part 3. Borate and Germanate Systems.,0.071465
+Coupled Experimental and Thermodynamic Optimization of the Na <sub>2</sub> O–FeO–Fe <sub>2</sub> O <sub>3</sub> –Al <sub>2</sub> O <sub>3</sub> System: Part 1. Phase Diagram Experiments,"Accretion, Differentiation, and Impact Processes on the Ureilite Parent Body",0.220091
+Coupled Experimental and Thermodynamic Optimization of the Na <sub>2</sub> O–FeO–Fe <sub>2</sub> O <sub>3</sub> –Al <sub>2</sub> O <sub>3</sub> System: Part 1. Phase Diagram Experiments,Asteroidal differentiation processes deduced from ultramafic achondrite ureilite meteorites,0.124551
+Coupled Experimental and Thermodynamic Optimization of the Na <sub>2</sub> O–FeO–Fe <sub>2</sub> O <sub>3</sub> –Al <sub>2</sub> O <sub>3</sub> System: Part 1. Phase Diagram Experiments,"Dual Structural Role of Niobium in Bioactive Borate Glasses Modulates Bioactivity, Cytocompatibility, and Hemostatic Potential",0.343914
+Coupled Experimental and Thermodynamic Optimization of the Na <sub>2</sub> O–FeO–Fe <sub>2</sub> O <sub>3</sub> –Al <sub>2</sub> O <sub>3</sub> System: Part 1. Phase Diagram Experiments,Quasistatic and dynamic mechanical response of laser powder bed fusion manufactured AA2219 alloy at cryogenic temperature,0.368391
+Coupled Experimental and Thermodynamic Optimization of the Na <sub>2</sub> O–FeO–Fe <sub>2</sub> O <sub>3</sub> –Al <sub>2</sub> O <sub>3</sub> System: Part 1. Phase Diagram Experiments,Effect of calcination temperature on the bioactivity of a sol-gel-derived 40CaO-60B₂O₃ glass composition,0.354804
+"Age of the Cabonga nepheline syenite, Grenville Province, western Quebec",Laser Powder Bed Fusion Additive Manufacturing of Mo and TZM Exoskeleton with Cu Infiltration for New Heat Sinks Configuration,0.147149
+"Age of the Cabonga nepheline syenite, Grenville Province, western Quebec","Petrology, Geochemistry and Genesis of Ureilites",0.594911
+"Age of the Cabonga nepheline syenite, Grenville Province, western Quebec",Reflectance Spectra of Ureilites: Nature of the Mafic Silicate Absorption Features,0.495224
+"Age of the Cabonga nepheline syenite, Grenville Province, western Quebec",Disappearance of the Liquid-Liquid Miscibility Gap in the System CaO-MgO-SiO2 at High Pressure,0.407798
+"Age of the Cabonga nepheline syenite, Grenville Province, western Quebec",ChemInform Abstract: The Nature of Phase Separation in Binary Oxide Melts and Glasses. Part 3. Borate and Germanate Systems.,0.081384
+"Age of the Cabonga nepheline syenite, Grenville Province, western Quebec","Accretion, Differentiation, and Impact Processes on the Ureilite Parent Body",0.504984
+"Age of the Cabonga nepheline syenite, Grenville Province, western Quebec",Asteroidal differentiation processes deduced from ultramafic achondrite ureilite meteorites,0.454212
+"Age of the Cabonga nepheline syenite, Grenville Province, western Quebec","Dual Structural Role of Niobium in Bioactive Borate Glasses Modulates Bioactivity, Cytocompatibility, and Hemostatic Potential",0.197594
+"Age of the Cabonga nepheline syenite, Grenville Province, western Quebec",Quasistatic and dynamic mechanical response of laser powder bed fusion manufactured AA2219 alloy at cryogenic temperature,0.194367
+"Age of the Cabonga nepheline syenite, Grenville Province, western Quebec",Effect of calcination temperature on the bioactivity of a sol-gel-derived 40CaO-60B₂O₃ glass composition,0.279361
+Laser Powder Bed Fusion Additive Manufacturing of Mo and TZM Exoskeleton with Cu Infiltration for New Heat Sinks Configuration,"Petrology, Geochemistry and Genesis of Ureilites",0.101349
+Laser Powder Bed Fusion Additive Manufacturing of Mo and TZM Exoskeleton with Cu Infiltration for New Heat Sinks Configuration,Reflectance Spectra of Ureilites: Nature of the Mafic Silicate Absorption Features,0.141661
+Laser Powder Bed Fusion Additive Manufacturing of Mo and TZM Exoskeleton with Cu Infiltration for New Heat Sinks Configuration,Disappearance of the Liquid-Liquid Miscibility Gap in the System CaO-MgO-SiO2 at High Pressure,0.090351
+Laser Powder Bed Fusion Additive Manufacturing of Mo and TZM Exoskeleton with Cu Infiltration for New Heat Sinks Configuration,ChemInform Abstract: The Nature of Phase Separation in Binary Oxide Melts and Glasses. Part 3. Borate and Germanate Systems.,-0.028946
+Laser Powder Bed Fusion Additive Manufacturing of Mo and TZM Exoskeleton with Cu Infiltration for New Heat Sinks Configuration,"Accretion, Differentiation, and Impact Processes on the Ureilite Parent Body",0.12001
+Laser Powder Bed Fusion Additive Manufacturing of Mo and TZM Exoskeleton with Cu Infiltration for New Heat Sinks Configuration,Asteroidal differentiation processes deduced from ultramafic achondrite ureilite meteorites,0.144055
+Laser Powder Bed Fusion Additive Manufacturing of Mo and TZM Exoskeleton with Cu Infiltration for New Heat Sinks Configuration,"Dual Structural Role of Niobium in Bioactive Borate Glasses Modulates Bioactivity, Cytocompatibility, and Hemostatic Potential",0.173725
+Laser Powder Bed Fusion Additive Manufacturing of Mo and TZM Exoskeleton with Cu Infiltration for New Heat Sinks Configuration,Quasistatic and dynamic mechanical response of laser powder bed fusion manufactured AA2219 alloy at cryogenic temperature,0.384456
+Laser Powder Bed Fusion Additive Manufacturing of Mo and TZM Exoskeleton with Cu Infiltration for New Heat Sinks Configuration,Effect of calcination temperature on the bioactivity of a sol-gel-derived 40CaO-60B₂O₃ glass composition,0.12985
+"Petrology, Geochemistry and Genesis of Ureilites",Reflectance Spectra of Ureilites: Nature of the Mafic Silicate Absorption Features,0.758926
+"Petrology, Geochemistry and Genesis of Ureilites",Disappearance of the Liquid-Liquid Miscibility Gap in the System CaO-MgO-SiO2 at High Pressure,0.424764
+"Petrology, Geochemistry and Genesis of Ureilites",ChemInform Abstract: The Nature of Phase Separation in Binary Oxide Melts and Glasses. Part 3. Borate and Germanate Systems.,0.127825
+"Petrology, Geochemistry and Genesis of Ureilites","Accretion, Differentiation, and Impact Processes on the Ureilite Parent Body",0.858138
+"Petrology, Geochemistry and Genesis of Ureilites",Asteroidal differentiation processes deduced from ultramafic achondrite ureilite meteorites,0.72379
+"Petrology, Geochemistry and Genesis of Ureilites","Dual Structural Role of Niobium in Bioactive Borate Glasses Modulates Bioactivity, Cytocompatibility, and Hemostatic Potential",0.132353
+"Petrology, Geochemistry and Genesis of Ureilites",Quasistatic and dynamic mechanical response of laser powder bed fusion manufactured AA2219 alloy at cryogenic temperature,0.189353
+"Petrology, Geochemistry and Genesis of Ureilites",Effect of calcination temperature on the bioactivity of a sol-gel-derived 40CaO-60B₂O₃ glass composition,0.245361
+Reflectance Spectra of Ureilites: Nature of the Mafic Silicate Absorption Features,Disappearance of the Liquid-Liquid Miscibility Gap in the System CaO-MgO-SiO2 at High Pressure,0.370342
+Reflectance Spectra of Ureilites: Nature of the Mafic Silicate Absorption Features,ChemInform Abstract: The Nature of Phase Separation in Binary Oxide Melts and Glasses. Part 3. Borate and Germanate Systems.,0.085916
+Reflectance Spectra of Ureilites: Nature of the Mafic Silicate Absorption Features,"Accretion, Differentiation, and Impact Processes on the Ureilite Parent Body",0.829555
+Reflectance Spectra of Ureilites: Nature of the Mafic Silicate Absorption Features,Asteroidal differentiation processes deduced from ultramafic achondrite ureilite meteorites,0.790145
+Reflectance Spectra of Ureilites: Nature of the Mafic Silicate Absorption Features,"Dual Structural Role of Niobium in Bioactive Borate Glasses Modulates Bioactivity, Cytocompatibility, and Hemostatic Potential",0.137385
+Reflectance Spectra of Ureilites: Nature of the Mafic Silicate Absorption Features,Quasistatic and dynamic mechanical response of laser powder bed fusion manufactured AA2219 alloy at cryogenic temperature,0.188042
+Reflectance Spectra of Ureilites: Nature of the Mafic Silicate Absorption Features,Effect of calcination temperature on the bioactivity of a sol-gel-derived 40CaO-60B₂O₃ glass composition,0.22465
+Disappearance of the Liquid-Liquid Miscibility Gap in the System CaO-MgO-SiO2 at High Pressure,ChemInform Abstract: The Nature of Phase Separation in Binary Oxide Melts and Glasses. Part 3. Borate and Germanate Systems.,0.044771
+Disappearance of the Liquid-Liquid Miscibility Gap in the System CaO-MgO-SiO2 at High Pressure,"Accretion, Differentiation, and Impact Processes on the Ureilite Parent Body",0.43653
+Disappearance of the Liquid-Liquid Miscibility Gap in the System CaO-MgO-SiO2 at High Pressure,Asteroidal differentiation processes deduced from ultramafic achondrite ureilite meteorites,0.318216
+Disappearance of the Liquid-Liquid Miscibility Gap in the System CaO-MgO-SiO2 at High Pressure,"Dual Structural Role of Niobium in Bioactive Borate Glasses Modulates Bioactivity, Cytocompatibility, and Hemostatic Potential",0.260338
+Disappearance of the Liquid-Liquid Miscibility Gap in the System CaO-MgO-SiO2 at High Pressure,Quasistatic and dynamic mechanical response of laser powder bed fusion manufactured AA2219 alloy at cryogenic temperature,0.17571
+Disappearance of the Liquid-Liquid Miscibility Gap in the System CaO-MgO-SiO2 at High Pressure,Effect of calcination temperature on the bioactivity of a sol-gel-derived 40CaO-60B₂O₃ glass composition,0.303625
+ChemInform Abstract: The Nature of Phase Separation in Binary Oxide Melts and Glasses. Part 3. Borate and Germanate Systems.,"Accretion, Differentiation, and Impact Processes on the Ureilite Parent Body",0.124879
+ChemInform Abstract: The Nature of Phase Separation in Binary Oxide Melts and Glasses. Part 3. Borate and Germanate Systems.,Asteroidal differentiation processes deduced from ultramafic achondrite ureilite meteorites,0.138038
+ChemInform Abstract: The Nature of Phase Separation in Binary Oxide Melts and Glasses. Part 3. Borate and Germanate Systems.,"Dual Structural Role of Niobium in Bioactive Borate Glasses Modulates Bioactivity, Cytocompatibility, and Hemostatic Potential",0.256806
+ChemInform Abstract: The Nature of Phase Separation in Binary Oxide Melts and Glasses. Part 3. Borate and Germanate Systems.,Quasistatic and dynamic mechanical response of laser powder bed fusion manufactured AA2219 alloy at cryogenic temperature,-0.054208
+ChemInform Abstract: The Nature of Phase Separation in Binary Oxide Melts and Glasses. Part 3. Borate and Germanate Systems.,Effect of calcination temperature on the bioactivity of a sol-gel-derived 40CaO-60B₂O₃ glass composition,0.181652
+"Accretion, Differentiation, and Impact Processes on the Ureilite Parent Body",Asteroidal differentiation processes deduced from ultramafic achondrite ureilite meteorites,0.803129
+"Accretion, Differentiation, and Impact Processes on the Ureilite Parent Body","Dual Structural Role of Niobium in Bioactive Borate Glasses Modulates Bioactivity, Cytocompatibility, and Hemostatic Potential",0.163273
+"Accretion, Differentiation, and Impact Processes on the Ureilite Parent Body",Quasistatic and dynamic mechanical response of laser powder bed fusion manufactured AA2219 alloy at cryogenic temperature,0.202426
+"Accretion, Differentiation, and Impact Processes on the Ureilite Parent Body",Effect of calcination temperature on the bioactivity of a sol-gel-derived 40CaO-60B₂O₃ glass composition,0.250932
+Asteroidal differentiation processes deduced from ultramafic achondrite ureilite meteorites,"Dual Structural Role of Niobium in Bioactive Borate Glasses Modulates Bioactivity, Cytocompatibility, and Hemostatic Potential",0.063937
+Asteroidal differentiation processes deduced from ultramafic achondrite ureilite meteorites,Quasistatic and dynamic mechanical response of laser powder bed fusion manufactured AA2219 alloy at cryogenic temperature,0.180653
+Asteroidal differentiation processes deduced from ultramafic achondrite ureilite meteorites,Effect of calcination temperature on the bioactivity of a sol-gel-derived 40CaO-60B₂O₃ glass composition,0.156946
+"Dual Structural Role of Niobium in Bioactive Borate Glasses Modulates Bioactivity, Cytocompatibility, and Hemostatic Potential",Quasistatic and dynamic mechanical response of laser powder bed fusion manufactured AA2219 alloy at cryogenic temperature,0.261492
+"Dual Structural Role of Niobium in Bioactive Borate Glasses Modulates Bioactivity, Cytocompatibility, and Hemostatic Potential",Effect of calcination temperature on the bioactivity of a sol-gel-derived 40CaO-60B₂O₃ glass composition,0.724468
+Quasistatic and dynamic mechanical response of laser powder bed fusion manufactured AA2219 alloy at cryogenic temperature,Effect of calcination temperature on the bioactivity of a sol-gel-derived 40CaO-60B₂O₃ glass composition,0.277167

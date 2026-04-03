@@ -1,0 +1,29 @@
+title_i,title_j,cosine_similarity
+Dose Exposure of Patients Undergoing Comprehensive Stroke Imaging by Multidetector-Row CT: Comparison of 320-Detector Row and 64-Detector Row CT Scanners,Chronic exposure to E-cigarette aerosols potentiates atherosclerosis in a sex-dependent manner,0.15122
+Dose Exposure of Patients Undergoing Comprehensive Stroke Imaging by Multidetector-Row CT: Comparison of 320-Detector Row and 64-Detector Row CT Scanners,Experimental Study of X-Ray Mammography in a Fluid Bath,0.268093
+Dose Exposure of Patients Undergoing Comprehensive Stroke Imaging by Multidetector-Row CT: Comparison of 320-Detector Row and 64-Detector Row CT Scanners,"Technische Erfolgsrate, peri-interventionelle Komplikationen und Strahlenexposition der transarteriellen Embolisation bei Uterus myomatosus",0.316554
+Dose Exposure of Patients Undergoing Comprehensive Stroke Imaging by Multidetector-Row CT: Comparison of 320-Detector Row and 64-Detector Row CT Scanners,270 * RADIATION DOSE DURING TRANSAPICAL TRANSCATHETER AORTIC VALVE IMPLANTATION,0.441784
+Dose Exposure of Patients Undergoing Comprehensive Stroke Imaging by Multidetector-Row CT: Comparison of 320-Detector Row and 64-Detector Row CT Scanners,Safety considerations during transcatheter aortic valve implantation,0.430387
+Dose Exposure of Patients Undergoing Comprehensive Stroke Imaging by Multidetector-Row CT: Comparison of 320-Detector Row and 64-Detector Row CT Scanners,[Extrafocal radiation of medical x-ray tubes with a rotating anode].,0.49371
+Dose Exposure of Patients Undergoing Comprehensive Stroke Imaging by Multidetector-Row CT: Comparison of 320-Detector Row and 64-Detector Row CT Scanners,[Technical quality assurance in conventional x-ray diagnosis using medico-technical radiologists].,0.345429
+Chronic exposure to E-cigarette aerosols potentiates atherosclerosis in a sex-dependent manner,Experimental Study of X-Ray Mammography in a Fluid Bath,0.028353
+Chronic exposure to E-cigarette aerosols potentiates atherosclerosis in a sex-dependent manner,"Technische Erfolgsrate, peri-interventionelle Komplikationen und Strahlenexposition der transarteriellen Embolisation bei Uterus myomatosus",0.134789
+Chronic exposure to E-cigarette aerosols potentiates atherosclerosis in a sex-dependent manner,270 * RADIATION DOSE DURING TRANSAPICAL TRANSCATHETER AORTIC VALVE IMPLANTATION,0.119898
+Chronic exposure to E-cigarette aerosols potentiates atherosclerosis in a sex-dependent manner,Safety considerations during transcatheter aortic valve implantation,0.137659
+Chronic exposure to E-cigarette aerosols potentiates atherosclerosis in a sex-dependent manner,[Extrafocal radiation of medical x-ray tubes with a rotating anode].,0.096184
+Chronic exposure to E-cigarette aerosols potentiates atherosclerosis in a sex-dependent manner,[Technical quality assurance in conventional x-ray diagnosis using medico-technical radiologists].,-0.002125
+Experimental Study of X-Ray Mammography in a Fluid Bath,"Technische Erfolgsrate, peri-interventionelle Komplikationen und Strahlenexposition der transarteriellen Embolisation bei Uterus myomatosus",0.302583
+Experimental Study of X-Ray Mammography in a Fluid Bath,270 * RADIATION DOSE DURING TRANSAPICAL TRANSCATHETER AORTIC VALVE IMPLANTATION,0.289307
+Experimental Study of X-Ray Mammography in a Fluid Bath,Safety considerations during transcatheter aortic valve implantation,0.22541
+Experimental Study of X-Ray Mammography in a Fluid Bath,[Extrafocal radiation of medical x-ray tubes with a rotating anode].,0.407695
+Experimental Study of X-Ray Mammography in a Fluid Bath,[Technical quality assurance in conventional x-ray diagnosis using medico-technical radiologists].,0.365807
+"Technische Erfolgsrate, peri-interventionelle Komplikationen und Strahlenexposition der transarteriellen Embolisation bei Uterus myomatosus",270 * RADIATION DOSE DURING TRANSAPICAL TRANSCATHETER AORTIC VALVE IMPLANTATION,0.446436
+"Technische Erfolgsrate, peri-interventionelle Komplikationen und Strahlenexposition der transarteriellen Embolisation bei Uterus myomatosus",Safety considerations during transcatheter aortic valve implantation,0.428897
+"Technische Erfolgsrate, peri-interventionelle Komplikationen und Strahlenexposition der transarteriellen Embolisation bei Uterus myomatosus",[Extrafocal radiation of medical x-ray tubes with a rotating anode].,0.341227
+"Technische Erfolgsrate, peri-interventionelle Komplikationen und Strahlenexposition der transarteriellen Embolisation bei Uterus myomatosus",[Technical quality assurance in conventional x-ray diagnosis using medico-technical radiologists].,0.31619
+270 * RADIATION DOSE DURING TRANSAPICAL TRANSCATHETER AORTIC VALVE IMPLANTATION,Safety considerations during transcatheter aortic valve implantation,0.832972
+270 * RADIATION DOSE DURING TRANSAPICAL TRANSCATHETER AORTIC VALVE IMPLANTATION,[Extrafocal radiation of medical x-ray tubes with a rotating anode].,0.493099
+270 * RADIATION DOSE DURING TRANSAPICAL TRANSCATHETER AORTIC VALVE IMPLANTATION,[Technical quality assurance in conventional x-ray diagnosis using medico-technical radiologists].,0.454641
+Safety considerations during transcatheter aortic valve implantation,[Extrafocal radiation of medical x-ray tubes with a rotating anode].,0.367309
+Safety considerations during transcatheter aortic valve implantation,[Technical quality assurance in conventional x-ray diagnosis using medico-technical radiologists].,0.331743
+[Extrafocal radiation of medical x-ray tubes with a rotating anode].,[Technical quality assurance in conventional x-ray diagnosis using medico-technical radiologists].,0.586513

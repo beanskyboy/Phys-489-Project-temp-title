@@ -1,0 +1,7 @@
+title_i,title_j,cosine_similarity
+Efficient and accurate model order reduction of interconnect networks in the presence of incident fields,Time domain reduced order macromodel for interconnects excited by incident fields,0.798181
+Efficient and accurate model order reduction of interconnect networks in the presence of incident fields,Efficient simulation of transmission lines with EBG ground planes,0.469191
+Efficient and accurate model order reduction of interconnect networks in the presence of incident fields,Efficient Macromodel for Interconnects Excited by Incident Fields,0.770719
+Time domain reduced order macromodel for interconnects excited by incident fields,Efficient simulation of transmission lines with EBG ground planes,0.490911
+Time domain reduced order macromodel for interconnects excited by incident fields,Efficient Macromodel for Interconnects Excited by Incident Fields,0.841932
+Efficient simulation of transmission lines with EBG ground planes,Efficient Macromodel for Interconnects Excited by Incident Fields,0.534275

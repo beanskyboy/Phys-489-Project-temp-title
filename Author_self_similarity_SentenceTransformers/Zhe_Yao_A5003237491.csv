@@ -1,0 +1,11 @@
+title_i,title_j,cosine_similarity
+Anomaly Detection Using Proximity Graph and PageRank Algorithm,A GPU-based associative memory using sparse Neural Networks,0.01155
+Anomaly Detection Using Proximity Graph and PageRank Algorithm,A Massively Parallel Associative Memory Based on Sparse Neural Networks,0.311231
+Anomaly Detection Using Proximity Graph and PageRank Algorithm,Improving Sparse Associative Memories by Escaping from Bogus Fixed Points,0.089246
+Anomaly Detection Using Proximity Graph and PageRank Algorithm,Combating Corrupt Messages in Sparse Clustered Associative Memories,0.114426
+A GPU-based associative memory using sparse Neural Networks,A Massively Parallel Associative Memory Based on Sparse Neural Networks,0.032237
+A GPU-based associative memory using sparse Neural Networks,Improving Sparse Associative Memories by Escaping from Bogus Fixed Points,0.015168
+A GPU-based associative memory using sparse Neural Networks,Combating Corrupt Messages in Sparse Clustered Associative Memories,2e-06
+A Massively Parallel Associative Memory Based on Sparse Neural Networks,Improving Sparse Associative Memories by Escaping from Bogus Fixed Points,0.602636
+A Massively Parallel Associative Memory Based on Sparse Neural Networks,Combating Corrupt Messages in Sparse Clustered Associative Memories,0.735893
+Improving Sparse Associative Memories by Escaping from Bogus Fixed Points,Combating Corrupt Messages in Sparse Clustered Associative Memories,0.709252

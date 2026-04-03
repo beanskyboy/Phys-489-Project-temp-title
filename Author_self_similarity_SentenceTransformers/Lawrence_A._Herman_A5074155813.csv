@@ -1,0 +1,11 @@
+title_i,title_j,cosine_similarity
+Odd and Even Model Self-Assembled Monolayers:  Links between Friction and Structure,The Effects of Multisensory Imagery on Vocabulary Learning,-0.009408
+Odd and Even Model Self-Assembled Monolayers:  Links between Friction and Structure,Drone-Based Antenna Beam Calibration in the High Arctic,-0.009208
+Odd and Even Model Self-Assembled Monolayers:  Links between Friction and Structure,Drone-Based Beam Mapping of the Array of Long Baseline Antennas for Taking Radio Observations from the Seventy-Ninth Parallel (ALBATROS),-0.051206
+Odd and Even Model Self-Assembled Monolayers:  Links between Friction and Structure,Updates on the Array of Long Baseline Antennas for Taking Radio Observations from the Seventy-Ninth Parallel,-0.059042
+The Effects of Multisensory Imagery on Vocabulary Learning,Drone-Based Antenna Beam Calibration in the High Arctic,-0.052817
+The Effects of Multisensory Imagery on Vocabulary Learning,Drone-Based Beam Mapping of the Array of Long Baseline Antennas for Taking Radio Observations from the Seventy-Ninth Parallel (ALBATROS),-0.104744
+The Effects of Multisensory Imagery on Vocabulary Learning,Updates on the Array of Long Baseline Antennas for Taking Radio Observations from the Seventy-Ninth Parallel,-0.107512
+Drone-Based Antenna Beam Calibration in the High Arctic,Drone-Based Beam Mapping of the Array of Long Baseline Antennas for Taking Radio Observations from the Seventy-Ninth Parallel (ALBATROS),0.676839
+Drone-Based Antenna Beam Calibration in the High Arctic,Updates on the Array of Long Baseline Antennas for Taking Radio Observations from the Seventy-Ninth Parallel,0.638603
+Drone-Based Beam Mapping of the Array of Long Baseline Antennas for Taking Radio Observations from the Seventy-Ninth Parallel (ALBATROS),Updates on the Array of Long Baseline Antennas for Taking Radio Observations from the Seventy-Ninth Parallel,0.988301

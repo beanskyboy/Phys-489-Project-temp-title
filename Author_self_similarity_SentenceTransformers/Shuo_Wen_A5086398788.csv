@@ -1,0 +1,29 @@
+title_i,title_j,cosine_similarity
+Crime forecasting: A spatio-temporal analysis with deep learning models,Water lever decoupling control strategy and simulation experiments of high pressure heating system,-0.053105
+Crime forecasting: A spatio-temporal analysis with deep learning models,Research on Analysis of China’s Logistics Robotics Industry,0.150571
+Crime forecasting: A spatio-temporal analysis with deep learning models,Research on the Application of Artificial Intelligence Platform in Quantitative Investment,0.200157
+Crime forecasting: A spatio-temporal analysis with deep learning models,Prediction of material concentration and reaction temperature of cstr process based on sugeno-type fuzzy inference system,0.135926
+Crime forecasting: A spatio-temporal analysis with deep learning models,Research on Investment and Financing Data Analysis in the Chinese Robotics Industry,0.103828
+Crime forecasting: A spatio-temporal analysis with deep learning models,Research on the Training Model for Big Data Major,0.238176
+Crime forecasting: A spatio-temporal analysis with deep learning models,SMA-GNN: A Symbol-Aware Graph Neural Network for Signed Link Prediction in Recommender Systems,0.304139
+Water lever decoupling control strategy and simulation experiments of high pressure heating system,Research on Analysis of China’s Logistics Robotics Industry,0.020602
+Water lever decoupling control strategy and simulation experiments of high pressure heating system,Research on the Application of Artificial Intelligence Platform in Quantitative Investment,0.101298
+Water lever decoupling control strategy and simulation experiments of high pressure heating system,Prediction of material concentration and reaction temperature of cstr process based on sugeno-type fuzzy inference system,0.355221
+Water lever decoupling control strategy and simulation experiments of high pressure heating system,Research on Investment and Financing Data Analysis in the Chinese Robotics Industry,0.004202
+Water lever decoupling control strategy and simulation experiments of high pressure heating system,Research on the Training Model for Big Data Major,0.011226
+Water lever decoupling control strategy and simulation experiments of high pressure heating system,SMA-GNN: A Symbol-Aware Graph Neural Network for Signed Link Prediction in Recommender Systems,0.025482
+Research on Analysis of China’s Logistics Robotics Industry,Research on the Application of Artificial Intelligence Platform in Quantitative Investment,0.245542
+Research on Analysis of China’s Logistics Robotics Industry,Prediction of material concentration and reaction temperature of cstr process based on sugeno-type fuzzy inference system,0.158473
+Research on Analysis of China’s Logistics Robotics Industry,Research on Investment and Financing Data Analysis in the Chinese Robotics Industry,0.502682
+Research on Analysis of China’s Logistics Robotics Industry,Research on the Training Model for Big Data Major,0.168791
+Research on Analysis of China’s Logistics Robotics Industry,SMA-GNN: A Symbol-Aware Graph Neural Network for Signed Link Prediction in Recommender Systems,0.116268
+Research on the Application of Artificial Intelligence Platform in Quantitative Investment,Prediction of material concentration and reaction temperature of cstr process based on sugeno-type fuzzy inference system,0.312534
+Research on the Application of Artificial Intelligence Platform in Quantitative Investment,Research on Investment and Financing Data Analysis in the Chinese Robotics Industry,0.330962
+Research on the Application of Artificial Intelligence Platform in Quantitative Investment,Research on the Training Model for Big Data Major,0.221623
+Research on the Application of Artificial Intelligence Platform in Quantitative Investment,SMA-GNN: A Symbol-Aware Graph Neural Network for Signed Link Prediction in Recommender Systems,0.110858
+Prediction of material concentration and reaction temperature of cstr process based on sugeno-type fuzzy inference system,Research on Investment and Financing Data Analysis in the Chinese Robotics Industry,0.08709
+Prediction of material concentration and reaction temperature of cstr process based on sugeno-type fuzzy inference system,Research on the Training Model for Big Data Major,0.13837
+Prediction of material concentration and reaction temperature of cstr process based on sugeno-type fuzzy inference system,SMA-GNN: A Symbol-Aware Graph Neural Network for Signed Link Prediction in Recommender Systems,0.085667
+Research on Investment and Financing Data Analysis in the Chinese Robotics Industry,Research on the Training Model for Big Data Major,0.117249
+Research on Investment and Financing Data Analysis in the Chinese Robotics Industry,SMA-GNN: A Symbol-Aware Graph Neural Network for Signed Link Prediction in Recommender Systems,0.039037
+Research on the Training Model for Big Data Major,SMA-GNN: A Symbol-Aware Graph Neural Network for Signed Link Prediction in Recommender Systems,0.123305

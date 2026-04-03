@@ -1,79 +1,79 @@
-abstract_i,abstract_j,cosine_similarity
-0,1,0.084351
-0,2,0.273242
-0,3,0.147568
-0,4,0.148841
-0,5,0.24505
-0,6,0.18449
-0,7,0.325589
-0,8,0.464337
-0,9,0.265498
-0,10,0.205916
-0,11,0.285075
-0,12,0.118892
-1,2,0.147042
-1,3,0.251708
-1,4,0.235413
-1,5,0.174125
-1,6,0.363033
-1,7,0.266775
-1,8,0.101045
-1,9,0.128659
-1,10,0.642695
-1,11,0.207102
-1,12,0.570131
-2,3,0.271037
-2,4,0.267914
-2,5,0.703363
-2,6,0.545331
-2,7,0.317011
-2,8,0.253365
-2,9,0.702123
-2,10,0.28015
-2,11,0.649692
-2,12,0.330685
-3,4,0.986898
-3,5,0.350388
-3,6,0.230762
-3,7,0.284923
-3,8,0.171892
-3,9,0.349261
-3,10,0.255244
-3,11,0.269188
-3,12,0.249414
-4,5,0.342956
-4,6,0.218901
-4,7,0.282914
-4,8,0.171031
-4,9,0.344252
-4,10,0.240765
-4,11,0.260525
-4,12,0.247866
-5,6,0.470406
-5,7,0.282579
-5,8,0.246535
-5,9,0.755008
-5,10,0.262375
-5,11,0.746553
-5,12,0.231162
-6,7,0.327451
-6,8,0.249536
-6,9,0.433797
-6,10,0.49439
-6,11,0.471308
-6,12,0.41786
-7,8,0.321305
-7,9,0.337921
-7,10,0.335072
-7,11,0.234082
-7,12,0.238729
-8,9,0.376411
-8,10,0.204699
-8,11,0.274903
-8,12,0.189097
-9,10,0.260927
-9,11,0.634854
-9,12,0.261178
-10,11,0.220664
-10,12,0.58638
-11,12,0.274988
+title_i,title_j,cosine_similarity
+"Modelling the size effect on the melting temperature of nanoparticles, nanowires and nanofilms",Modeling the Melting Temperature of Nanoparticles by an Analytical Approach,0.755008
+"Modelling the size effect on the melting temperature of nanoparticles, nanowires and nanofilms",Effective coordination number model for the size dependency of physical properties of nanocrystals,0.634854
+"Modelling the size effect on the melting temperature of nanoparticles, nanowires and nanofilms",Fabrication of Crack-Free Nickel-Based Superalloy Considered Non-Weldable during Laser Powder Bed Fusion,0.265498
+"Modelling the size effect on the melting temperature of nanoparticles, nanowires and nanofilms",Microscopy and microanalysis of complex nanosized strengthening precipitates in new generation commercial Al–Cu–Li alloys,0.337921
+"Modelling the size effect on the melting temperature of nanoparticles, nanowires and nanofilms",Melting entropy of nanocrystals: an approach from statistical physics,0.702123
+"Modelling the size effect on the melting temperature of nanoparticles, nanowires and nanofilms",Detailed Monte Carlo Simulation of electron transport and electron energy loss spectra,0.260927
+"Modelling the size effect on the melting temperature of nanoparticles, nanowires and nanofilms",Density functional and theoretical study of the temperature and pressure dependency of the plasmon energy of solids,0.433797
+"Modelling the size effect on the melting temperature of nanoparticles, nanowires and nanofilms",Monte Carlo Simulations of Electron Energy-Loss Spectra with the Addition of Fine Structure from Density Functional Theory Calculations,0.128659
+"Modelling the size effect on the melting temperature of nanoparticles, nanowires and nanofilms",Detectability Limits in EELS by Monte Carlo Simulations,0.349261
+"Modelling the size effect on the melting temperature of nanoparticles, nanowires and nanofilms",Fine Structure of Core Loss Excitations in EELS by Monte Carlo Simulation,0.344252
+"Modelling the size effect on the melting temperature of nanoparticles, nanowires and nanofilms",Monte Carlo Simulation of Electron Energy Loss Spectra of Group III-Nitride Nanoscale Semiconductors,0.261178
+"Modelling the size effect on the melting temperature of nanoparticles, nanowires and nanofilms",Microstructure homogenization of laser powder bed fusion support-free low angle IN718 walls through heat treatment,0.376411
+Modeling the Melting Temperature of Nanoparticles by an Analytical Approach,Effective coordination number model for the size dependency of physical properties of nanocrystals,0.746553
+Modeling the Melting Temperature of Nanoparticles by an Analytical Approach,Fabrication of Crack-Free Nickel-Based Superalloy Considered Non-Weldable during Laser Powder Bed Fusion,0.24505
+Modeling the Melting Temperature of Nanoparticles by an Analytical Approach,Microscopy and microanalysis of complex nanosized strengthening precipitates in new generation commercial Al–Cu–Li alloys,0.282579
+Modeling the Melting Temperature of Nanoparticles by an Analytical Approach,Melting entropy of nanocrystals: an approach from statistical physics,0.703363
+Modeling the Melting Temperature of Nanoparticles by an Analytical Approach,Detailed Monte Carlo Simulation of electron transport and electron energy loss spectra,0.262375
+Modeling the Melting Temperature of Nanoparticles by an Analytical Approach,Density functional and theoretical study of the temperature and pressure dependency of the plasmon energy of solids,0.470406
+Modeling the Melting Temperature of Nanoparticles by an Analytical Approach,Monte Carlo Simulations of Electron Energy-Loss Spectra with the Addition of Fine Structure from Density Functional Theory Calculations,0.174125
+Modeling the Melting Temperature of Nanoparticles by an Analytical Approach,Detectability Limits in EELS by Monte Carlo Simulations,0.350388
+Modeling the Melting Temperature of Nanoparticles by an Analytical Approach,Fine Structure of Core Loss Excitations in EELS by Monte Carlo Simulation,0.342956
+Modeling the Melting Temperature of Nanoparticles by an Analytical Approach,Monte Carlo Simulation of Electron Energy Loss Spectra of Group III-Nitride Nanoscale Semiconductors,0.231162
+Modeling the Melting Temperature of Nanoparticles by an Analytical Approach,Microstructure homogenization of laser powder bed fusion support-free low angle IN718 walls through heat treatment,0.246535
+Effective coordination number model for the size dependency of physical properties of nanocrystals,Fabrication of Crack-Free Nickel-Based Superalloy Considered Non-Weldable during Laser Powder Bed Fusion,0.285075
+Effective coordination number model for the size dependency of physical properties of nanocrystals,Microscopy and microanalysis of complex nanosized strengthening precipitates in new generation commercial Al–Cu–Li alloys,0.234082
+Effective coordination number model for the size dependency of physical properties of nanocrystals,Melting entropy of nanocrystals: an approach from statistical physics,0.649692
+Effective coordination number model for the size dependency of physical properties of nanocrystals,Detailed Monte Carlo Simulation of electron transport and electron energy loss spectra,0.220665
+Effective coordination number model for the size dependency of physical properties of nanocrystals,Density functional and theoretical study of the temperature and pressure dependency of the plasmon energy of solids,0.471308
+Effective coordination number model for the size dependency of physical properties of nanocrystals,Monte Carlo Simulations of Electron Energy-Loss Spectra with the Addition of Fine Structure from Density Functional Theory Calculations,0.207102
+Effective coordination number model for the size dependency of physical properties of nanocrystals,Detectability Limits in EELS by Monte Carlo Simulations,0.269188
+Effective coordination number model for the size dependency of physical properties of nanocrystals,Fine Structure of Core Loss Excitations in EELS by Monte Carlo Simulation,0.260525
+Effective coordination number model for the size dependency of physical properties of nanocrystals,Monte Carlo Simulation of Electron Energy Loss Spectra of Group III-Nitride Nanoscale Semiconductors,0.274988
+Effective coordination number model for the size dependency of physical properties of nanocrystals,Microstructure homogenization of laser powder bed fusion support-free low angle IN718 walls through heat treatment,0.274903
+Fabrication of Crack-Free Nickel-Based Superalloy Considered Non-Weldable during Laser Powder Bed Fusion,Microscopy and microanalysis of complex nanosized strengthening precipitates in new generation commercial Al–Cu–Li alloys,0.325589
+Fabrication of Crack-Free Nickel-Based Superalloy Considered Non-Weldable during Laser Powder Bed Fusion,Melting entropy of nanocrystals: an approach from statistical physics,0.273242
+Fabrication of Crack-Free Nickel-Based Superalloy Considered Non-Weldable during Laser Powder Bed Fusion,Detailed Monte Carlo Simulation of electron transport and electron energy loss spectra,0.205916
+Fabrication of Crack-Free Nickel-Based Superalloy Considered Non-Weldable during Laser Powder Bed Fusion,Density functional and theoretical study of the temperature and pressure dependency of the plasmon energy of solids,0.18449
+Fabrication of Crack-Free Nickel-Based Superalloy Considered Non-Weldable during Laser Powder Bed Fusion,Monte Carlo Simulations of Electron Energy-Loss Spectra with the Addition of Fine Structure from Density Functional Theory Calculations,0.084351
+Fabrication of Crack-Free Nickel-Based Superalloy Considered Non-Weldable during Laser Powder Bed Fusion,Detectability Limits in EELS by Monte Carlo Simulations,0.147568
+Fabrication of Crack-Free Nickel-Based Superalloy Considered Non-Weldable during Laser Powder Bed Fusion,Fine Structure of Core Loss Excitations in EELS by Monte Carlo Simulation,0.148841
+Fabrication of Crack-Free Nickel-Based Superalloy Considered Non-Weldable during Laser Powder Bed Fusion,Monte Carlo Simulation of Electron Energy Loss Spectra of Group III-Nitride Nanoscale Semiconductors,0.118892
+Fabrication of Crack-Free Nickel-Based Superalloy Considered Non-Weldable during Laser Powder Bed Fusion,Microstructure homogenization of laser powder bed fusion support-free low angle IN718 walls through heat treatment,0.464337
+Microscopy and microanalysis of complex nanosized strengthening precipitates in new generation commercial Al–Cu–Li alloys,Melting entropy of nanocrystals: an approach from statistical physics,0.317011
+Microscopy and microanalysis of complex nanosized strengthening precipitates in new generation commercial Al–Cu–Li alloys,Detailed Monte Carlo Simulation of electron transport and electron energy loss spectra,0.335072
+Microscopy and microanalysis of complex nanosized strengthening precipitates in new generation commercial Al–Cu–Li alloys,Density functional and theoretical study of the temperature and pressure dependency of the plasmon energy of solids,0.327451
+Microscopy and microanalysis of complex nanosized strengthening precipitates in new generation commercial Al–Cu–Li alloys,Monte Carlo Simulations of Electron Energy-Loss Spectra with the Addition of Fine Structure from Density Functional Theory Calculations,0.266775
+Microscopy and microanalysis of complex nanosized strengthening precipitates in new generation commercial Al–Cu–Li alloys,Detectability Limits in EELS by Monte Carlo Simulations,0.284923
+Microscopy and microanalysis of complex nanosized strengthening precipitates in new generation commercial Al–Cu–Li alloys,Fine Structure of Core Loss Excitations in EELS by Monte Carlo Simulation,0.282914
+Microscopy and microanalysis of complex nanosized strengthening precipitates in new generation commercial Al–Cu–Li alloys,Monte Carlo Simulation of Electron Energy Loss Spectra of Group III-Nitride Nanoscale Semiconductors,0.238729
+Microscopy and microanalysis of complex nanosized strengthening precipitates in new generation commercial Al–Cu–Li alloys,Microstructure homogenization of laser powder bed fusion support-free low angle IN718 walls through heat treatment,0.321305
+Melting entropy of nanocrystals: an approach from statistical physics,Detailed Monte Carlo Simulation of electron transport and electron energy loss spectra,0.28015
+Melting entropy of nanocrystals: an approach from statistical physics,Density functional and theoretical study of the temperature and pressure dependency of the plasmon energy of solids,0.545331
+Melting entropy of nanocrystals: an approach from statistical physics,Monte Carlo Simulations of Electron Energy-Loss Spectra with the Addition of Fine Structure from Density Functional Theory Calculations,0.147042
+Melting entropy of nanocrystals: an approach from statistical physics,Detectability Limits in EELS by Monte Carlo Simulations,0.271037
+Melting entropy of nanocrystals: an approach from statistical physics,Fine Structure of Core Loss Excitations in EELS by Monte Carlo Simulation,0.267914
+Melting entropy of nanocrystals: an approach from statistical physics,Monte Carlo Simulation of Electron Energy Loss Spectra of Group III-Nitride Nanoscale Semiconductors,0.330685
+Melting entropy of nanocrystals: an approach from statistical physics,Microstructure homogenization of laser powder bed fusion support-free low angle IN718 walls through heat treatment,0.253365
+Detailed Monte Carlo Simulation of electron transport and electron energy loss spectra,Density functional and theoretical study of the temperature and pressure dependency of the plasmon energy of solids,0.49439
+Detailed Monte Carlo Simulation of electron transport and electron energy loss spectra,Monte Carlo Simulations of Electron Energy-Loss Spectra with the Addition of Fine Structure from Density Functional Theory Calculations,0.642695
+Detailed Monte Carlo Simulation of electron transport and electron energy loss spectra,Detectability Limits in EELS by Monte Carlo Simulations,0.255244
+Detailed Monte Carlo Simulation of electron transport and electron energy loss spectra,Fine Structure of Core Loss Excitations in EELS by Monte Carlo Simulation,0.240765
+Detailed Monte Carlo Simulation of electron transport and electron energy loss spectra,Monte Carlo Simulation of Electron Energy Loss Spectra of Group III-Nitride Nanoscale Semiconductors,0.58638
+Detailed Monte Carlo Simulation of electron transport and electron energy loss spectra,Microstructure homogenization of laser powder bed fusion support-free low angle IN718 walls through heat treatment,0.204699
+Density functional and theoretical study of the temperature and pressure dependency of the plasmon energy of solids,Monte Carlo Simulations of Electron Energy-Loss Spectra with the Addition of Fine Structure from Density Functional Theory Calculations,0.363033
+Density functional and theoretical study of the temperature and pressure dependency of the plasmon energy of solids,Detectability Limits in EELS by Monte Carlo Simulations,0.230762
+Density functional and theoretical study of the temperature and pressure dependency of the plasmon energy of solids,Fine Structure of Core Loss Excitations in EELS by Monte Carlo Simulation,0.218901
+Density functional and theoretical study of the temperature and pressure dependency of the plasmon energy of solids,Monte Carlo Simulation of Electron Energy Loss Spectra of Group III-Nitride Nanoscale Semiconductors,0.41786
+Density functional and theoretical study of the temperature and pressure dependency of the plasmon energy of solids,Microstructure homogenization of laser powder bed fusion support-free low angle IN718 walls through heat treatment,0.249536
+Monte Carlo Simulations of Electron Energy-Loss Spectra with the Addition of Fine Structure from Density Functional Theory Calculations,Detectability Limits in EELS by Monte Carlo Simulations,0.251708
+Monte Carlo Simulations of Electron Energy-Loss Spectra with the Addition of Fine Structure from Density Functional Theory Calculations,Fine Structure of Core Loss Excitations in EELS by Monte Carlo Simulation,0.235413
+Monte Carlo Simulations of Electron Energy-Loss Spectra with the Addition of Fine Structure from Density Functional Theory Calculations,Monte Carlo Simulation of Electron Energy Loss Spectra of Group III-Nitride Nanoscale Semiconductors,0.570131
+Monte Carlo Simulations of Electron Energy-Loss Spectra with the Addition of Fine Structure from Density Functional Theory Calculations,Microstructure homogenization of laser powder bed fusion support-free low angle IN718 walls through heat treatment,0.101046
+Detectability Limits in EELS by Monte Carlo Simulations,Fine Structure of Core Loss Excitations in EELS by Monte Carlo Simulation,0.986898
+Detectability Limits in EELS by Monte Carlo Simulations,Monte Carlo Simulation of Electron Energy Loss Spectra of Group III-Nitride Nanoscale Semiconductors,0.249414
+Detectability Limits in EELS by Monte Carlo Simulations,Microstructure homogenization of laser powder bed fusion support-free low angle IN718 walls through heat treatment,0.171892
+Fine Structure of Core Loss Excitations in EELS by Monte Carlo Simulation,Monte Carlo Simulation of Electron Energy Loss Spectra of Group III-Nitride Nanoscale Semiconductors,0.247866
+Fine Structure of Core Loss Excitations in EELS by Monte Carlo Simulation,Microstructure homogenization of laser powder bed fusion support-free low angle IN718 walls through heat treatment,0.171031
+Monte Carlo Simulation of Electron Energy Loss Spectra of Group III-Nitride Nanoscale Semiconductors,Microstructure homogenization of laser powder bed fusion support-free low angle IN718 walls through heat treatment,0.189097

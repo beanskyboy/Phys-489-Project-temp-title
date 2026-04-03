@@ -1,742 +1,704 @@
-abstract_i,abstract_j,cosine_similarity
-0,1,0.276461
-0,2,0.696574
-0,3,0.745856
-0,4,0.326628
-0,5,0.505621
-0,6,0.587182
-0,7,0.584876
-0,8,0.31122
-0,9,0.345013
-0,10,0.345826
-0,11,0.524464
-0,12,0.630977
-0,13,0.515404
-0,14,0.505984
-0,15,0.65267
-0,16,0.257322
-0,17,0.321088
-0,18,0.569456
-0,19,0.789558
-0,20,0.589411
-0,21,0.72494
-0,22,0.355484
-0,23,0.368073
-0,24,0.338671
-0,25,0.364285
-0,26,0.402504
-0,27,0.246286
-0,28,0.620654
-0,29,0.569456
-0,30,0.358988
-0,31,0.625933
-0,32,0.336352
-0,33,0.547978
-0,34,0.295793
-0,35,0.725236
-0,36,0.278799
-0,37,0.710966
-0,38,0.550113
-1,2,0.199129
-1,3,0.360361
-1,4,0.838009
-1,5,0.647909
-1,6,0.398459
-1,7,0.356949
-1,8,0.820465
-1,9,0.712684
-1,10,0.792219
-1,11,0.623303
-1,12,0.231406
-1,13,0.735496
-1,14,0.743058
-1,15,0.471662
-1,16,0.620565
-1,17,0.851321
-1,18,0.327315
-1,19,0.196913
-1,20,0.335186
-1,21,0.212765
-1,22,0.818379
-1,23,0.844385
-1,24,0.906564
-1,25,0.760958
-1,26,0.450174
-1,27,0.650611
-1,28,0.30768
-1,29,0.327315
-1,30,0.856655
-1,31,0.355441
-1,32,0.834655
-1,33,0.349219
-1,34,0.718527
-1,35,0.216668
-1,36,0.746738
-1,37,0.313477
-1,38,0.351117
-2,3,0.786266
-2,4,0.21341
-2,5,0.427283
-2,6,0.488215
-2,7,0.437477
-2,8,0.211963
-2,9,0.246664
-2,10,0.255831
-2,11,0.481842
-2,12,0.690253
-2,13,0.386659
-2,14,0.396424
-2,15,0.500033
-2,16,0.184252
-2,17,0.234288
-2,18,0.425943
-2,19,0.735937
-2,20,0.499054
-2,21,0.822343
-2,22,0.231442
-2,23,0.255614
-2,24,0.223382
-2,25,0.275676
-2,26,0.304391
-2,27,0.175237
-2,28,0.53483
-2,29,0.425943
-2,30,0.298666
-2,31,0.501951
-2,32,0.216659
-2,33,0.423478
-2,34,0.203253
-2,35,0.821002
-2,36,0.185243
-2,37,0.57601
-2,38,0.424235
-3,4,0.398235
-3,5,0.539044
-3,6,0.550859
-3,7,0.513455
-3,8,0.37532
-3,9,0.406164
-3,10,0.407609
-3,11,0.573043
-3,12,0.696846
-3,13,0.518489
-3,14,0.528013
-3,15,0.615737
-3,16,0.317915
-3,17,0.366558
-3,18,0.464839
-3,19,0.786846
-3,20,0.549656
-3,21,0.830862
-3,22,0.384035
-3,23,0.43308
-3,24,0.389708
-3,25,0.384994
-3,26,0.388858
-3,27,0.313965
-3,28,0.606109
-3,29,0.464839
-3,30,0.420942
-3,31,0.576606
-3,32,0.401989
-3,33,0.468019
-3,34,0.349619
-3,35,0.833628
-3,36,0.328715
-3,37,0.621286
-3,38,0.473681
-4,5,0.629753
-4,6,0.415024
-4,7,0.411217
-4,8,0.805978
-4,9,0.705333
-4,10,0.82303
-4,11,0.610931
-4,12,0.273423
-4,13,0.72848
-4,14,0.686189
-4,15,0.554206
-4,16,0.633615
-4,17,0.827378
-4,18,0.373016
-4,19,0.247167
-4,20,0.377802
-4,21,0.249241
-4,22,0.795182
-4,23,0.977668
-4,24,0.833403
-4,25,0.75327
-4,26,0.522316
-4,27,0.719668
-4,28,0.379944
-4,29,0.373016
-4,30,0.794294
-4,31,0.412389
-4,32,0.996128
-4,33,0.404475
-4,34,0.783122
-4,35,0.251355
-4,36,0.826469
-4,37,0.402684
-4,38,0.405071
-5,6,0.554359
-5,7,0.530501
-5,8,0.619766
-5,9,0.513617
-5,10,0.651042
-5,11,0.924036
-5,12,0.456888
-5,13,0.85752
-5,14,0.828858
-5,15,0.645526
-5,16,0.514136
-5,17,0.653317
-5,18,0.520565
-5,19,0.426096
-5,20,0.511325
-5,21,0.424487
-5,22,0.597874
-5,23,0.634902
-5,24,0.701738
-5,25,0.696035
-5,26,0.459006
-5,27,0.567825
-5,28,0.522664
-5,29,0.520565
-5,30,0.701429
-5,31,0.511616
-5,32,0.62712
-5,33,0.528167
-5,34,0.599544
-5,35,0.425254
-5,36,0.516156
-5,37,0.566234
-5,38,0.531148
-6,7,0.716127
-6,8,0.388282
-6,9,0.401451
-6,10,0.37859
-6,11,0.594545
-6,12,0.542167
-6,13,0.552505
-6,14,0.555575
-6,15,0.696523
-6,16,0.343657
-6,17,0.388977
-6,18,0.797462
-6,19,0.482849
-6,20,0.804462
-6,21,0.495936
-6,22,0.462137
-6,23,0.44757
-6,24,0.428808
-6,25,0.404824
-6,26,0.346183
-6,27,0.296433
-6,28,0.73073
-6,29,0.797462
-6,30,0.40635
-6,31,0.753488
-6,32,0.41969
-6,33,0.714884
-6,34,0.383936
-6,35,0.496491
-6,36,0.354096
-6,37,0.622067
-6,38,0.720513
-7,8,0.471976
-7,9,0.39375
-7,10,0.425211
-7,11,0.528838
-7,12,0.477687
-7,13,0.547432
-7,14,0.482544
-7,15,0.815427
-7,16,0.285474
-7,17,0.358256
-7,18,0.77609
-7,19,0.444186
-7,20,0.719141
-7,21,0.475453
-7,22,0.403166
-7,23,0.431404
-7,24,0.439985
-7,25,0.366361
-7,26,0.345522
-7,27,0.28415
-7,28,0.787476
-7,29,0.77609
-7,30,0.384338
-7,31,0.763267
-7,32,0.419182
-7,33,0.76372
-7,34,0.360069
-7,35,0.474803
-7,36,0.398924
-7,37,0.688969
-7,38,0.769113
-8,9,0.717966
-8,10,0.859809
-8,11,0.587974
-8,12,0.263635
-8,13,0.685562
-8,14,0.677765
-8,15,0.570403
-8,16,0.539829
-8,17,0.786063
-8,18,0.409466
-8,19,0.246179
-8,20,0.388243
-8,21,0.238493
-8,22,0.71344
-8,23,0.802021
-8,24,0.883582
-8,25,0.708709
-8,26,0.454218
-8,27,0.564264
-8,28,0.396823
-8,29,0.409466
-8,30,0.739338
-8,31,0.436157
-8,32,0.807981
-8,33,0.435272
-8,34,0.711007
-8,35,0.241211
-8,36,0.738918
-8,37,0.394017
-8,38,0.437102
-9,10,0.630291
-9,11,0.503674
-9,12,0.2471
-9,13,0.564024
-9,14,0.614227
-9,15,0.481194
-9,16,0.489816
-9,17,0.684672
-9,18,0.373248
-9,19,0.246324
-9,20,0.372997
-9,21,0.250541
-9,22,0.592706
-9,23,0.730091
-9,24,0.770475
-9,25,0.639079
-9,26,0.488648
-9,27,0.480731
-9,28,0.383784
-9,29,0.373248
-9,30,0.639818
-9,31,0.400137
-9,32,0.71156
-9,33,0.341202
-9,34,0.587631
-9,35,0.250176
-9,36,0.663252
-9,37,0.370808
-9,38,0.347498
-10,11,0.593507
-10,12,0.287941
-10,13,0.697395
-10,14,0.673271
-10,15,0.538412
-10,16,0.549028
-10,17,0.795155
-10,18,0.349042
-10,19,0.286344
-10,20,0.335015
-10,21,0.277514
-10,22,0.691671
-10,23,0.819962
-10,24,0.807503
-10,25,0.751682
-10,26,0.487245
-10,27,0.607946
-10,28,0.339166
-10,29,0.349042
-10,30,0.775954
-10,31,0.382305
-10,32,0.822198
-10,33,0.360106
-10,34,0.733727
-10,35,0.281066
-10,36,0.724395
-10,37,0.347496
-10,38,0.361928
-11,12,0.505006
-11,13,0.831227
-11,14,0.804924
-11,15,0.652562
-11,16,0.570924
-11,17,0.623228
-11,18,0.528245
-11,19,0.473373
-11,20,0.560331
-11,21,0.472972
-11,22,0.598219
-11,23,0.639272
-11,24,0.664566
-11,25,0.640513
-11,26,0.486486
-11,27,0.619847
-11,28,0.567763
-11,29,0.528245
-11,30,0.678207
-11,31,0.534015
-11,32,0.60871
-11,33,0.539021
-11,34,0.56973
-11,35,0.473784
-11,36,0.501514
-11,37,0.574154
-11,38,0.543949
-12,13,0.40592
-12,14,0.429819
-12,15,0.568938
-12,16,0.154124
-12,17,0.240166
-12,18,0.44553
-12,19,0.653224
-12,20,0.50879
-12,21,0.671587
-12,22,0.290854
-12,23,0.319017
-12,24,0.286192
-12,25,0.227611
-12,26,0.260321
-12,27,0.215219
-12,28,0.54028
-12,29,0.44553
-12,30,0.260158
-12,31,0.518032
-12,32,0.281721
-12,33,0.469244
-12,34,0.257132
-12,35,0.672502
-12,36,0.162899
-12,37,0.588529
-12,38,0.47024
-13,14,0.850689
-13,15,0.646764
-13,16,0.505246
-13,17,0.731679
-13,18,0.518604
-13,19,0.396554
-13,20,0.507044
-13,21,0.394524
-13,22,0.722432
-13,23,0.742067
-13,24,0.756672
-13,25,0.732567
-13,26,0.534794
-13,27,0.615247
-13,28,0.511312
-13,29,0.518604
-13,30,0.780964
-13,31,0.531932
-13,32,0.730891
-13,33,0.523078
-13,34,0.631744
-13,35,0.396943
-13,36,0.61851
-13,37,0.552295
-13,38,0.5255
-14,15,0.615024
-14,16,0.529019
-14,17,0.736724
-14,18,0.520323
-14,19,0.401432
-14,20,0.502326
-14,21,0.403109
-14,22,0.708912
-14,23,0.689361
-14,24,0.783195
-14,25,0.733718
-14,26,0.551319
-14,27,0.587241
-14,28,0.511624
-14,29,0.520323
-14,30,0.75638
-14,31,0.517094
-14,32,0.687069
-14,33,0.489564
-14,34,0.660002
-14,35,0.404914
-14,36,0.553666
-14,37,0.539547
-14,38,0.491209
-15,16,0.378496
-15,17,0.53188
-15,18,0.702653
-15,19,0.525529
-15,20,0.727795
-15,21,0.546725
-15,22,0.54415
-15,23,0.568386
-15,24,0.556575
-15,25,0.523198
-15,26,0.567064
-15,27,0.4041
-15,28,0.730493
-15,29,0.702653
-15,30,0.539783
-15,31,0.808243
-15,32,0.562086
-15,33,0.75316
-15,34,0.520925
-15,35,0.543874
-15,36,0.487962
-15,37,0.74468
-15,38,0.756157
-16,17,0.602218
-16,18,0.301964
-16,19,0.206854
-16,20,0.275494
-16,21,0.19316
-16,22,0.502509
-16,23,0.642627
-16,24,0.582757
-16,25,0.550766
-16,26,0.42204
-16,27,0.55538
-16,28,0.29492
-16,29,0.301964
-16,30,0.573672
-16,31,0.274926
-16,32,0.625184
-16,33,0.327167
-16,34,0.541447
-16,35,0.194105
-16,36,0.549698
-16,37,0.275741
-16,38,0.32788
-17,18,0.362858
-17,19,0.225372
-17,20,0.369115
-17,21,0.254153
-17,22,0.752438
-17,23,0.821525
-17,24,0.847915
-17,25,0.819704
-17,26,0.541062
-17,27,0.622033
-17,28,0.332174
-17,29,0.362858
-17,30,0.885016
-17,31,0.42284
-17,32,0.827302
-17,33,0.380147
-17,34,0.700609
-17,35,0.254851
-17,36,0.700504
-17,37,0.354425
-17,38,0.379836
-18,19,0.41682
-18,20,0.795412
-18,21,0.425754
-18,22,0.422264
-18,23,0.389736
-18,24,0.426129
-18,25,0.381749
-18,26,0.347518
-18,27,0.253613
-18,28,0.708274
-18,29,1.0
-18,30,0.355166
-18,31,0.827851
-18,32,0.381851
-18,33,0.858081
-18,34,0.330601
-18,35,0.422569
-18,36,0.345025
-18,37,0.687648
-18,38,0.861182
-19,20,0.507137
-19,21,0.785491
-19,22,0.253842
-19,23,0.293315
-19,24,0.239844
-19,25,0.255931
-19,26,0.289761
-19,27,0.186851
-19,28,0.561398
-19,29,0.41682
-19,30,0.283326
-19,31,0.552604
-19,32,0.25281
-19,33,0.43218
-19,34,0.229544
-19,35,0.786551
-19,36,0.210536
-19,37,0.628096
-19,38,0.438589
-20,21,0.482236
-20,22,0.455007
-20,23,0.405869
-20,24,0.388351
-20,25,0.375173
-20,26,0.397653
-20,27,0.294753
-20,28,0.728041
-20,29,0.795412
-20,30,0.385026
-20,31,0.849598
-20,32,0.3866
-20,33,0.734394
-20,34,0.369569
-20,35,0.482807
-20,36,0.355109
-20,37,0.666898
-20,38,0.734265
-21,22,0.266411
-21,23,0.290909
-21,24,0.248009
-21,25,0.284218
-21,26,0.315388
-21,27,0.196858
-21,28,0.565982
-21,29,0.425754
-21,30,0.310569
-21,31,0.525254
-21,32,0.253881
-21,33,0.431113
-21,34,0.235099
-21,35,0.998778
-21,36,0.185612
-21,37,0.584986
-21,38,0.434982
-22,23,0.779924
-22,24,0.753182
-22,25,0.722467
-22,26,0.52346
-22,27,0.594974
-22,28,0.398239
-22,29,0.422264
-22,30,0.791724
-22,31,0.48419
-22,32,0.789558
-22,33,0.390594
-22,34,0.72672
-22,35,0.269943
-22,36,0.725101
-22,37,0.361739
-22,38,0.39191
-23,24,0.836906
-23,25,0.746673
-23,26,0.527676
-23,27,0.714746
-23,28,0.404084
-23,29,0.389736
-23,30,0.790392
-23,31,0.433406
-23,32,0.982036
-23,33,0.415848
-23,34,0.765101
-23,35,0.293647
-23,36,0.80312
-23,37,0.434488
-23,38,0.417232
-24,25,0.753555
-24,26,0.493332
-24,27,0.639881
-24,28,0.39605
-24,29,0.426129
-24,30,0.823592
-24,31,0.424356
-24,32,0.839048
-24,33,0.432154
-24,34,0.714414
-24,35,0.250753
-24,36,0.716027
-24,37,0.394255
-24,38,0.433261
-25,26,0.571187
-25,27,0.549414
-25,28,0.334598
-25,29,0.381749
-25,30,0.806198
-25,31,0.439279
-25,32,0.749148
-25,33,0.384234
-25,34,0.707307
-25,35,0.281416
-25,36,0.696049
-25,37,0.397118
-25,38,0.38651
-26,27,0.419269
-26,28,0.360925
-26,29,0.347518
-26,30,0.557577
-26,31,0.447168
-26,32,0.524107
-26,33,0.327303
-26,34,0.46806
-26,35,0.30933
-26,36,0.493829
-26,37,0.372999
-26,38,0.33351
-27,28,0.325928
-27,29,0.253613
-27,30,0.650498
-27,31,0.276931
-27,32,0.722204
-27,33,0.299855
-27,34,0.634813
-27,35,0.198647
-27,36,0.609884
-27,37,0.307684
-27,38,0.293914
-28,29,0.708274
-28,30,0.351747
-28,31,0.746239
-28,32,0.382347
-28,33,0.677906
-28,34,0.345181
-28,35,0.568359
-28,36,0.355917
-28,37,0.60765
-28,38,0.685217
-29,30,0.355166
-29,31,0.827851
-29,32,0.381851
-29,33,0.858081
-29,34,0.330601
-29,35,0.422569
-29,36,0.345025
-29,37,0.687648
-29,38,0.861182
-30,31,0.41174
-30,32,0.787836
-30,33,0.358283
-30,34,0.685377
-30,35,0.311003
-30,36,0.699625
-30,37,0.362992
-30,38,0.360047
-31,32,0.421777
-31,33,0.817957
-31,34,0.384394
-31,35,0.52282
-31,36,0.387232
-31,37,0.721476
-31,38,0.818525
-32,33,0.411581
-32,34,0.779802
-32,35,0.256139
-32,36,0.821831
-32,37,0.411645
-32,38,0.412628
-33,34,0.357793
-33,35,0.425637
-33,36,0.340117
-33,37,0.703635
-33,38,0.997539
-34,35,0.234161
-34,36,0.684528
-34,37,0.350665
-34,38,0.356411
-35,36,0.187405
-35,37,0.580415
-35,38,0.429503
-36,37,0.336716
-36,38,0.347756
-37,38,0.704957
+title_i,title_j,cosine_similarity
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,High precision determination of the gluon fusion Higgs boson cross-section at the LHC,0.833403
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,Higgs boson gluon–fusion production at threshold in N 3 LO QCD,0.906564
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,0.770475
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,0.389708
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,Elliptic Feynman integrals and pure functions,0.239844
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,Higgs boson gluon-fusion production beyond threshold in N3LO QCD,0.753182
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,0.39605
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",0.847915
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,0.388351
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,0.883582
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,An analytic solution for the equal-mass banana graph,0.286192
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,Leading-color fully differential two-loop soft corrections to QCD dipole showers,0.493332
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,0.714414
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,0.756672
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,0.439985
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,Soft expansion of double-real-virtual corrections to Higgs production at N3LO,0.783195
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,Differential Higgs production at N3LO beyond threshold,0.823592
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,0.807503
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,0.424356
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,0.556575
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,Higgs-differential cross section at NNLO in dimensional regularisation,0.753555
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,Manifestly dual-conformal loop integration,0.394255
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,CP-even scalar boson production via gluon fusion at the LHC,0.716027
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,All two-loop MHV remainder functions in multi-Regge kinematics,0.428808
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,Elliptic polylogarithms and two-loop Feynman integrals,0.250753
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,0.432154
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,0.439985
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,0.582757
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,0.701738
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,0.836906
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,Limit setting procedures and theoretical uncertainties in Higgs boson searches,0.639881
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,From modular forms to differential equations for Feynman integrals,0.223382
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,Amplitudes in the Multi-Regge Limit of N=4 SYM,0.433261
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.426129
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,Cuts and Feynman amplitudes beyond polylogarithms,0.338671
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.432154
+Higgs Boson Gluon-Fusion Production in QCD at Three Loops,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.426129
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,Higgs boson gluon–fusion production at threshold in N 3 LO QCD,0.838009
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,0.705333
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,0.398235
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,Elliptic Feynman integrals and pure functions,0.247167
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,Higgs boson gluon-fusion production beyond threshold in N3LO QCD,0.795182
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,0.379944
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",0.827378
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,0.377802
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,0.805978
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,An analytic solution for the equal-mass banana graph,0.273423
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,Leading-color fully differential two-loop soft corrections to QCD dipole showers,0.522316
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,0.783122
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,0.72848
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,0.411217
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,Soft expansion of double-real-virtual corrections to Higgs production at N3LO,0.686189
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,Differential Higgs production at N3LO beyond threshold,0.794294
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,0.82303
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,0.412389
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,0.554206
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,Higgs-differential cross section at NNLO in dimensional regularisation,0.75327
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,Manifestly dual-conformal loop integration,0.402684
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,CP-even scalar boson production via gluon fusion at the LHC,0.826469
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,All two-loop MHV remainder functions in multi-Regge kinematics,0.415024
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,Elliptic polylogarithms and two-loop Feynman integrals,0.251355
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,0.404475
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,0.411217
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,0.633615
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,0.629753
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,0.977668
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,Limit setting procedures and theoretical uncertainties in Higgs boson searches,0.719668
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,From modular forms to differential equations for Feynman integrals,0.21341
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,Amplitudes in the Multi-Regge Limit of N=4 SYM,0.405071
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.373016
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,Cuts and Feynman amplitudes beyond polylogarithms,0.326628
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.404475
+High precision determination of the gluon fusion Higgs boson cross-section at the LHC,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.373016
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,0.712684
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,0.360361
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,Elliptic Feynman integrals and pure functions,0.196913
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,Higgs boson gluon-fusion production beyond threshold in N3LO QCD,0.818379
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,0.30768
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",0.851321
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,0.335186
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,0.820465
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,An analytic solution for the equal-mass banana graph,0.231406
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,Leading-color fully differential two-loop soft corrections to QCD dipole showers,0.450174
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,0.718527
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,0.735496
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,0.356949
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,Soft expansion of double-real-virtual corrections to Higgs production at N3LO,0.743058
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,Differential Higgs production at N3LO beyond threshold,0.856655
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,0.792219
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,0.355441
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,0.471662
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,Higgs-differential cross section at NNLO in dimensional regularisation,0.760958
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,Manifestly dual-conformal loop integration,0.313477
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,CP-even scalar boson production via gluon fusion at the LHC,0.746738
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,All two-loop MHV remainder functions in multi-Regge kinematics,0.398459
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,Elliptic polylogarithms and two-loop Feynman integrals,0.216668
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,0.349219
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,0.356949
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,0.620565
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,0.647909
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,0.844385
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,Limit setting procedures and theoretical uncertainties in Higgs boson searches,0.650611
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,From modular forms to differential equations for Feynman integrals,0.199129
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,Amplitudes in the Multi-Regge Limit of N=4 SYM,0.351117
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.327315
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,Cuts and Feynman amplitudes beyond polylogarithms,0.276461
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.349219
+Higgs boson gluon–fusion production at threshold in N 3 LO QCD,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.327315
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,0.406164
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,Elliptic Feynman integrals and pure functions,0.246324
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,Higgs boson gluon-fusion production beyond threshold in N3LO QCD,0.592706
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,0.383784
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",0.684672
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,0.372997
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,0.717966
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,An analytic solution for the equal-mass banana graph,0.2471
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,Leading-color fully differential two-loop soft corrections to QCD dipole showers,0.488648
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,0.587631
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,0.564024
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,0.39375
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,Soft expansion of double-real-virtual corrections to Higgs production at N3LO,0.614227
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,Differential Higgs production at N3LO beyond threshold,0.639818
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,0.630291
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,0.400137
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,0.481194
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,Higgs-differential cross section at NNLO in dimensional regularisation,0.639079
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,Manifestly dual-conformal loop integration,0.370808
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,CP-even scalar boson production via gluon fusion at the LHC,0.663252
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,All two-loop MHV remainder functions in multi-Regge kinematics,0.401451
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,Elliptic polylogarithms and two-loop Feynman integrals,0.250176
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,0.341202
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,0.39375
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,0.489816
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,0.513617
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,0.730091
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,Limit setting procedures and theoretical uncertainties in Higgs boson searches,0.480731
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,From modular forms to differential equations for Feynman integrals,0.246664
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,Amplitudes in the Multi-Regge Limit of N=4 SYM,0.347498
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.373248
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,Cuts and Feynman amplitudes beyond polylogarithms,0.345013
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.341202
+Drell-Yan Cross Section to Third Order in the Strong Coupling Constant,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.373248
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,Elliptic Feynman integrals and pure functions,0.786846
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,Higgs boson gluon-fusion production beyond threshold in N3LO QCD,0.384035
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,0.606109
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",0.366558
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,0.549656
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,0.37532
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,An analytic solution for the equal-mass banana graph,0.696846
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,Leading-color fully differential two-loop soft corrections to QCD dipole showers,0.388858
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,0.349619
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,0.518489
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,0.513455
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,Soft expansion of double-real-virtual corrections to Higgs production at N3LO,0.528013
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,Differential Higgs production at N3LO beyond threshold,0.420942
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,0.407609
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,0.576606
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,0.615737
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,Higgs-differential cross section at NNLO in dimensional regularisation,0.384994
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,Manifestly dual-conformal loop integration,0.621286
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,CP-even scalar boson production via gluon fusion at the LHC,0.328715
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,All two-loop MHV remainder functions in multi-Regge kinematics,0.550859
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,Elliptic polylogarithms and two-loop Feynman integrals,0.833628
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,0.468019
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,0.513455
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,0.317915
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,0.539044
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,0.43308
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,Limit setting procedures and theoretical uncertainties in Higgs boson searches,0.313965
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,From modular forms to differential equations for Feynman integrals,0.786266
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,Amplitudes in the Multi-Regge Limit of N=4 SYM,0.473681
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.464839
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,Cuts and Feynman amplitudes beyond polylogarithms,0.745856
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.468019
+Elliptic polylogarithms and iterated integrals on elliptic curves. II. An application to the sunrise integral,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.464839
+Elliptic Feynman integrals and pure functions,Higgs boson gluon-fusion production beyond threshold in N3LO QCD,0.253842
+Elliptic Feynman integrals and pure functions,The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,0.561398
+Elliptic Feynman integrals and pure functions,"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",0.225372
+Elliptic Feynman integrals and pure functions,Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,0.507137
+Elliptic Feynman integrals and pure functions,Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,0.246179
+Elliptic Feynman integrals and pure functions,An analytic solution for the equal-mass banana graph,0.653224
+Elliptic Feynman integrals and pure functions,Leading-color fully differential two-loop soft corrections to QCD dipole showers,0.289761
+Elliptic Feynman integrals and pure functions,Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,0.229544
+Elliptic Feynman integrals and pure functions,Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,0.396554
+Elliptic Feynman integrals and pure functions,The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,0.444186
+Elliptic Feynman integrals and pure functions,Soft expansion of double-real-virtual corrections to Higgs production at N3LO,0.401432
+Elliptic Feynman integrals and pure functions,Differential Higgs production at N3LO beyond threshold,0.283326
+Elliptic Feynman integrals and pure functions,Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,0.286344
+Elliptic Feynman integrals and pure functions,All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,0.552604
+Elliptic Feynman integrals and pure functions,The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,0.525529
+Elliptic Feynman integrals and pure functions,Higgs-differential cross section at NNLO in dimensional regularisation,0.255931
+Elliptic Feynman integrals and pure functions,Manifestly dual-conformal loop integration,0.628096
+Elliptic Feynman integrals and pure functions,CP-even scalar boson production via gluon fusion at the LHC,0.210536
+Elliptic Feynman integrals and pure functions,All two-loop MHV remainder functions in multi-Regge kinematics,0.482849
+Elliptic Feynman integrals and pure functions,Elliptic polylogarithms and two-loop Feynman integrals,0.786551
+Elliptic Feynman integrals and pure functions,Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,0.43218
+Elliptic Feynman integrals and pure functions,The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,0.444186
+Elliptic Feynman integrals and pure functions,Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,0.206854
+Elliptic Feynman integrals and pure functions,Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,0.426096
+Elliptic Feynman integrals and pure functions,High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,0.293315
+Elliptic Feynman integrals and pure functions,Limit setting procedures and theoretical uncertainties in Higgs boson searches,0.186851
+Elliptic Feynman integrals and pure functions,From modular forms to differential equations for Feynman integrals,0.735937
+Elliptic Feynman integrals and pure functions,Amplitudes in the Multi-Regge Limit of N=4 SYM,0.438589
+Elliptic Feynman integrals and pure functions,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.41682
+Elliptic Feynman integrals and pure functions,Cuts and Feynman amplitudes beyond polylogarithms,0.789558
+Elliptic Feynman integrals and pure functions,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.43218
+Elliptic Feynman integrals and pure functions,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.41682
+Higgs boson gluon-fusion production beyond threshold in N3LO QCD,The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,0.398239
+Higgs boson gluon-fusion production beyond threshold in N3LO QCD,"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",0.752438
+Higgs boson gluon-fusion production beyond threshold in N3LO QCD,Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,0.455007
+Higgs boson gluon-fusion production beyond threshold in N3LO QCD,Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,0.71344
+Higgs boson gluon-fusion production beyond threshold in N3LO QCD,An analytic solution for the equal-mass banana graph,0.290854
+Higgs boson gluon-fusion production beyond threshold in N3LO QCD,Leading-color fully differential two-loop soft corrections to QCD dipole showers,0.52346
+Higgs boson gluon-fusion production beyond threshold in N3LO QCD,Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,0.72672
+Higgs boson gluon-fusion production beyond threshold in N3LO QCD,Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,0.722432
+Higgs boson gluon-fusion production beyond threshold in N3LO QCD,The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,0.403166
+Higgs boson gluon-fusion production beyond threshold in N3LO QCD,Soft expansion of double-real-virtual corrections to Higgs production at N3LO,0.708912
+Higgs boson gluon-fusion production beyond threshold in N3LO QCD,Differential Higgs production at N3LO beyond threshold,0.791724
+Higgs boson gluon-fusion production beyond threshold in N3LO QCD,Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,0.691671
+Higgs boson gluon-fusion production beyond threshold in N3LO QCD,All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,0.48419
+Higgs boson gluon-fusion production beyond threshold in N3LO QCD,The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,0.54415
+Higgs boson gluon-fusion production beyond threshold in N3LO QCD,Higgs-differential cross section at NNLO in dimensional regularisation,0.722467
+Higgs boson gluon-fusion production beyond threshold in N3LO QCD,Manifestly dual-conformal loop integration,0.361739
+Higgs boson gluon-fusion production beyond threshold in N3LO QCD,CP-even scalar boson production via gluon fusion at the LHC,0.725101
+Higgs boson gluon-fusion production beyond threshold in N3LO QCD,All two-loop MHV remainder functions in multi-Regge kinematics,0.462137
+Higgs boson gluon-fusion production beyond threshold in N3LO QCD,Elliptic polylogarithms and two-loop Feynman integrals,0.269943
+Higgs boson gluon-fusion production beyond threshold in N3LO QCD,Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,0.390594
+Higgs boson gluon-fusion production beyond threshold in N3LO QCD,The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,0.403166
+Higgs boson gluon-fusion production beyond threshold in N3LO QCD,Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,0.502509
+Higgs boson gluon-fusion production beyond threshold in N3LO QCD,Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,0.597874
+Higgs boson gluon-fusion production beyond threshold in N3LO QCD,High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,0.779924
+Higgs boson gluon-fusion production beyond threshold in N3LO QCD,Limit setting procedures and theoretical uncertainties in Higgs boson searches,0.594974
+Higgs boson gluon-fusion production beyond threshold in N3LO QCD,From modular forms to differential equations for Feynman integrals,0.231442
+Higgs boson gluon-fusion production beyond threshold in N3LO QCD,Amplitudes in the Multi-Regge Limit of N=4 SYM,0.39191
+Higgs boson gluon-fusion production beyond threshold in N3LO QCD,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.422264
+Higgs boson gluon-fusion production beyond threshold in N3LO QCD,Cuts and Feynman amplitudes beyond polylogarithms,0.355484
+Higgs boson gluon-fusion production beyond threshold in N3LO QCD,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.390594
+Higgs boson gluon-fusion production beyond threshold in N3LO QCD,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.422264
+The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",0.332174
+The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,0.728041
+The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,0.396823
+The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,An analytic solution for the equal-mass banana graph,0.540279
+The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,Leading-color fully differential two-loop soft corrections to QCD dipole showers,0.360925
+The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,0.345181
+The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,0.511312
+The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,0.787476
+The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,Soft expansion of double-real-virtual corrections to Higgs production at N3LO,0.511624
+The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,Differential Higgs production at N3LO beyond threshold,0.351747
+The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,0.339166
+The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,0.746239
+The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,0.730493
+The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,Higgs-differential cross section at NNLO in dimensional regularisation,0.334598
+The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,Manifestly dual-conformal loop integration,0.60765
+The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,CP-even scalar boson production via gluon fusion at the LHC,0.355917
+The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,All two-loop MHV remainder functions in multi-Regge kinematics,0.73073
+The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,Elliptic polylogarithms and two-loop Feynman integrals,0.568359
+The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,0.677906
+The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,0.787476
+The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,0.29492
+The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,0.522664
+The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,0.404084
+The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,Limit setting procedures and theoretical uncertainties in Higgs boson searches,0.325928
+The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,From modular forms to differential equations for Feynman integrals,0.53483
+The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,Amplitudes in the Multi-Regge Limit of N=4 SYM,0.685217
+The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.708274
+The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,Cuts and Feynman amplitudes beyond polylogarithms,0.620654
+The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.677906
+The cosmic Galois group and extended Steinmann relations for planar $$ \mathcal{N} $$ = 4 SYM amplitudes,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.708274
+"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,0.369115
+"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,0.786063
+"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",An analytic solution for the equal-mass banana graph,0.240166
+"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",Leading-color fully differential two-loop soft corrections to QCD dipole showers,0.541062
+"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,0.700609
+"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,0.731679
+"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,0.358256
+"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",Soft expansion of double-real-virtual corrections to Higgs production at N3LO,0.736724
+"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",Differential Higgs production at N3LO beyond threshold,0.885016
+"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,0.795155
+"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,0.42284
+"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,0.53188
+"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",Higgs-differential cross section at NNLO in dimensional regularisation,0.819704
+"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",Manifestly dual-conformal loop integration,0.354425
+"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",CP-even scalar boson production via gluon fusion at the LHC,0.700504
+"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",All two-loop MHV remainder functions in multi-Regge kinematics,0.388977
+"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",Elliptic polylogarithms and two-loop Feynman integrals,0.254851
+"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,0.380147
+"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,0.358256
+"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,0.602218
+"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,0.653317
+"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,0.821525
+"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",Limit setting procedures and theoretical uncertainties in Higgs boson searches,0.622033
+"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",From modular forms to differential equations for Feynman integrals,0.234288
+"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",Amplitudes in the Multi-Regge Limit of N=4 SYM,0.379836
+"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.362858
+"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",Cuts and Feynman amplitudes beyond polylogarithms,0.321088
+"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.380147
+"Precision predictions at <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant=""normal"">N</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>LO</mml:mi></mml:mrow></mml:math> for the Higgs boson rapidity distribution at the LHC",Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.362858
+Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,0.388243
+Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,An analytic solution for the equal-mass banana graph,0.50879
+Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,Leading-color fully differential two-loop soft corrections to QCD dipole showers,0.397653
+Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,0.369569
+Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,0.507044
+Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,0.719141
+Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,Soft expansion of double-real-virtual corrections to Higgs production at N3LO,0.502326
+Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,Differential Higgs production at N3LO beyond threshold,0.385026
+Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,0.335015
+Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,0.849598
+Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,0.727795
+Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,Higgs-differential cross section at NNLO in dimensional regularisation,0.375173
+Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,Manifestly dual-conformal loop integration,0.666898
+Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,CP-even scalar boson production via gluon fusion at the LHC,0.355109
+Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,All two-loop MHV remainder functions in multi-Regge kinematics,0.804462
+Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,Elliptic polylogarithms and two-loop Feynman integrals,0.482807
+Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,0.734394
+Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,0.719141
+Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,0.275494
+Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,0.511325
+Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,0.405869
+Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,Limit setting procedures and theoretical uncertainties in Higgs boson searches,0.294753
+Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,From modular forms to differential equations for Feynman integrals,0.499054
+Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,Amplitudes in the Multi-Regge Limit of N=4 SYM,0.734265
+Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.795412
+Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,Cuts and Feynman amplitudes beyond polylogarithms,0.589411
+Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.734394
+Multi-Regge kinematics and the moduli space of Riemann spheres with marked points,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.795412
+Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,An analytic solution for the equal-mass banana graph,0.263635
+Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,Leading-color fully differential two-loop soft corrections to QCD dipole showers,0.454218
+Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,0.711007
+Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,0.685562
+Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,0.471976
+Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,Soft expansion of double-real-virtual corrections to Higgs production at N3LO,0.677765
+Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,Differential Higgs production at N3LO beyond threshold,0.739338
+Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,0.859809
+Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,0.436157
+Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,0.570403
+Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,Higgs-differential cross section at NNLO in dimensional regularisation,0.708709
+Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,Manifestly dual-conformal loop integration,0.394017
+Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,CP-even scalar boson production via gluon fusion at the LHC,0.738918
+Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,All two-loop MHV remainder functions in multi-Regge kinematics,0.388282
+Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,Elliptic polylogarithms and two-loop Feynman integrals,0.241211
+Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,0.435272
+Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,0.471976
+Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,0.539829
+Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,0.619766
+Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,0.802021
+Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,Limit setting procedures and theoretical uncertainties in Higgs boson searches,0.564264
+Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,From modular forms to differential equations for Feynman integrals,0.211963
+Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,Amplitudes in the Multi-Regge Limit of N=4 SYM,0.437102
+Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.409466
+Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,Cuts and Feynman amplitudes beyond polylogarithms,0.31122
+Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.435272
+Higgs Boson Production in Bottom-Quark Fusion to Third Order in the Strong Coupling,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.409466
+An analytic solution for the equal-mass banana graph,Leading-color fully differential two-loop soft corrections to QCD dipole showers,0.260321
+An analytic solution for the equal-mass banana graph,Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,0.257132
+An analytic solution for the equal-mass banana graph,Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,0.40592
+An analytic solution for the equal-mass banana graph,The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,0.477687
+An analytic solution for the equal-mass banana graph,Soft expansion of double-real-virtual corrections to Higgs production at N3LO,0.429819
+An analytic solution for the equal-mass banana graph,Differential Higgs production at N3LO beyond threshold,0.260158
+An analytic solution for the equal-mass banana graph,Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,0.287941
+An analytic solution for the equal-mass banana graph,All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,0.518032
+An analytic solution for the equal-mass banana graph,The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,0.568938
+An analytic solution for the equal-mass banana graph,Higgs-differential cross section at NNLO in dimensional regularisation,0.227611
+An analytic solution for the equal-mass banana graph,Manifestly dual-conformal loop integration,0.588529
+An analytic solution for the equal-mass banana graph,CP-even scalar boson production via gluon fusion at the LHC,0.162899
+An analytic solution for the equal-mass banana graph,All two-loop MHV remainder functions in multi-Regge kinematics,0.542167
+An analytic solution for the equal-mass banana graph,Elliptic polylogarithms and two-loop Feynman integrals,0.672502
+An analytic solution for the equal-mass banana graph,Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,0.469244
+An analytic solution for the equal-mass banana graph,The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,0.477687
+An analytic solution for the equal-mass banana graph,Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,0.154124
+An analytic solution for the equal-mass banana graph,Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,0.456888
+An analytic solution for the equal-mass banana graph,High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,0.319017
+An analytic solution for the equal-mass banana graph,Limit setting procedures and theoretical uncertainties in Higgs boson searches,0.215219
+An analytic solution for the equal-mass banana graph,From modular forms to differential equations for Feynman integrals,0.690253
+An analytic solution for the equal-mass banana graph,Amplitudes in the Multi-Regge Limit of N=4 SYM,0.47024
+An analytic solution for the equal-mass banana graph,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.44553
+An analytic solution for the equal-mass banana graph,Cuts and Feynman amplitudes beyond polylogarithms,0.630977
+An analytic solution for the equal-mass banana graph,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.469244
+An analytic solution for the equal-mass banana graph,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.44553
+Leading-color fully differential two-loop soft corrections to QCD dipole showers,Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,0.46806
+Leading-color fully differential two-loop soft corrections to QCD dipole showers,Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,0.534794
+Leading-color fully differential two-loop soft corrections to QCD dipole showers,The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,0.345522
+Leading-color fully differential two-loop soft corrections to QCD dipole showers,Soft expansion of double-real-virtual corrections to Higgs production at N3LO,0.551319
+Leading-color fully differential two-loop soft corrections to QCD dipole showers,Differential Higgs production at N3LO beyond threshold,0.557577
+Leading-color fully differential two-loop soft corrections to QCD dipole showers,Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,0.487245
+Leading-color fully differential two-loop soft corrections to QCD dipole showers,All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,0.447168
+Leading-color fully differential two-loop soft corrections to QCD dipole showers,The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,0.567064
+Leading-color fully differential two-loop soft corrections to QCD dipole showers,Higgs-differential cross section at NNLO in dimensional regularisation,0.571187
+Leading-color fully differential two-loop soft corrections to QCD dipole showers,Manifestly dual-conformal loop integration,0.372999
+Leading-color fully differential two-loop soft corrections to QCD dipole showers,CP-even scalar boson production via gluon fusion at the LHC,0.493829
+Leading-color fully differential two-loop soft corrections to QCD dipole showers,All two-loop MHV remainder functions in multi-Regge kinematics,0.346183
+Leading-color fully differential two-loop soft corrections to QCD dipole showers,Elliptic polylogarithms and two-loop Feynman integrals,0.30933
+Leading-color fully differential two-loop soft corrections to QCD dipole showers,Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,0.327303
+Leading-color fully differential two-loop soft corrections to QCD dipole showers,The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,0.345522
+Leading-color fully differential two-loop soft corrections to QCD dipole showers,Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,0.42204
+Leading-color fully differential two-loop soft corrections to QCD dipole showers,Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,0.459006
+Leading-color fully differential two-loop soft corrections to QCD dipole showers,High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,0.527676
+Leading-color fully differential two-loop soft corrections to QCD dipole showers,Limit setting procedures and theoretical uncertainties in Higgs boson searches,0.419269
+Leading-color fully differential two-loop soft corrections to QCD dipole showers,From modular forms to differential equations for Feynman integrals,0.304391
+Leading-color fully differential two-loop soft corrections to QCD dipole showers,Amplitudes in the Multi-Regge Limit of N=4 SYM,0.33351
+Leading-color fully differential two-loop soft corrections to QCD dipole showers,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.347518
+Leading-color fully differential two-loop soft corrections to QCD dipole showers,Cuts and Feynman amplitudes beyond polylogarithms,0.402504
+Leading-color fully differential two-loop soft corrections to QCD dipole showers,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.327303
+Leading-color fully differential two-loop soft corrections to QCD dipole showers,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.347518
+Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,0.631744
+Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,0.360069
+Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,Soft expansion of double-real-virtual corrections to Higgs production at N3LO,0.660002
+Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,Differential Higgs production at N3LO beyond threshold,0.685377
+Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,0.733727
+Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,0.384394
+Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,0.520925
+Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,Higgs-differential cross section at NNLO in dimensional regularisation,0.707307
+Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,Manifestly dual-conformal loop integration,0.350665
+Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,CP-even scalar boson production via gluon fusion at the LHC,0.684528
+Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,All two-loop MHV remainder functions in multi-Regge kinematics,0.383936
+Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,Elliptic polylogarithms and two-loop Feynman integrals,0.234161
+Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,0.357793
+Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,0.360069
+Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,0.541447
+Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,0.599544
+Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,0.765101
+Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,Limit setting procedures and theoretical uncertainties in Higgs boson searches,0.634813
+Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,From modular forms to differential equations for Feynman integrals,0.203253
+Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,Amplitudes in the Multi-Regge Limit of N=4 SYM,0.35641
+Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.330601
+Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,Cuts and Feynman amplitudes beyond polylogarithms,0.295793
+Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.357793
+Jet-vetoed Higgs cross section in gluon fusion at N3LO+NNLL with small-R resummation,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.330601
+Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,0.547432
+Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,Soft expansion of double-real-virtual corrections to Higgs production at N3LO,0.850689
+Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,Differential Higgs production at N3LO beyond threshold,0.780964
+Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,0.697395
+Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,0.531932
+Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,0.646764
+Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,Higgs-differential cross section at NNLO in dimensional regularisation,0.732567
+Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,Manifestly dual-conformal loop integration,0.552295
+Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,CP-even scalar boson production via gluon fusion at the LHC,0.61851
+Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,All two-loop MHV remainder functions in multi-Regge kinematics,0.552505
+Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,Elliptic polylogarithms and two-loop Feynman integrals,0.396943
+Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,0.523078
+Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,0.547432
+Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,0.505246
+Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,0.85752
+Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,0.742067
+Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,Limit setting procedures and theoretical uncertainties in Higgs boson searches,0.615247
+Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,From modular forms to differential equations for Feynman integrals,0.386659
+Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,Amplitudes in the Multi-Regge Limit of N=4 SYM,0.5255
+Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.518604
+Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,Cuts and Feynman amplitudes beyond polylogarithms,0.515404
+Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.523078
+Real-virtual contributions to the inclusive Higgs cross-section at (NLO)-L-3,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.518604
+The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,Soft expansion of double-real-virtual corrections to Higgs production at N3LO,0.482544
+The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,Differential Higgs production at N3LO beyond threshold,0.384338
+The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,0.425211
+The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,0.763267
+The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,0.815427
+The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,Higgs-differential cross section at NNLO in dimensional regularisation,0.366361
+The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,Manifestly dual-conformal loop integration,0.688969
+The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,CP-even scalar boson production via gluon fusion at the LHC,0.398924
+The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,All two-loop MHV remainder functions in multi-Regge kinematics,0.716127
+The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,Elliptic polylogarithms and two-loop Feynman integrals,0.474803
+The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,0.76372
+The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,1.0
+The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,0.285474
+The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,0.530501
+The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,0.431404
+The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,Limit setting procedures and theoretical uncertainties in Higgs boson searches,0.28415
+The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,From modular forms to differential equations for Feynman integrals,0.437477
+The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,Amplitudes in the Multi-Regge Limit of N=4 SYM,0.769113
+The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.77609
+The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,Cuts and Feynman amplitudes beyond polylogarithms,0.584876
+The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.76372
+The Steinmann Cluster Bootstrap for N=4 Super Yang-Mills Amplitudes,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.77609
+Soft expansion of double-real-virtual corrections to Higgs production at N3LO,Differential Higgs production at N3LO beyond threshold,0.75638
+Soft expansion of double-real-virtual corrections to Higgs production at N3LO,Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,0.673271
+Soft expansion of double-real-virtual corrections to Higgs production at N3LO,All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,0.517094
+Soft expansion of double-real-virtual corrections to Higgs production at N3LO,The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,0.615024
+Soft expansion of double-real-virtual corrections to Higgs production at N3LO,Higgs-differential cross section at NNLO in dimensional regularisation,0.733718
+Soft expansion of double-real-virtual corrections to Higgs production at N3LO,Manifestly dual-conformal loop integration,0.539547
+Soft expansion of double-real-virtual corrections to Higgs production at N3LO,CP-even scalar boson production via gluon fusion at the LHC,0.553666
+Soft expansion of double-real-virtual corrections to Higgs production at N3LO,All two-loop MHV remainder functions in multi-Regge kinematics,0.555575
+Soft expansion of double-real-virtual corrections to Higgs production at N3LO,Elliptic polylogarithms and two-loop Feynman integrals,0.404914
+Soft expansion of double-real-virtual corrections to Higgs production at N3LO,Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,0.489564
+Soft expansion of double-real-virtual corrections to Higgs production at N3LO,The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,0.482544
+Soft expansion of double-real-virtual corrections to Higgs production at N3LO,Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,0.529019
+Soft expansion of double-real-virtual corrections to Higgs production at N3LO,Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,0.828858
+Soft expansion of double-real-virtual corrections to Higgs production at N3LO,High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,0.689361
+Soft expansion of double-real-virtual corrections to Higgs production at N3LO,Limit setting procedures and theoretical uncertainties in Higgs boson searches,0.587241
+Soft expansion of double-real-virtual corrections to Higgs production at N3LO,From modular forms to differential equations for Feynman integrals,0.396424
+Soft expansion of double-real-virtual corrections to Higgs production at N3LO,Amplitudes in the Multi-Regge Limit of N=4 SYM,0.491209
+Soft expansion of double-real-virtual corrections to Higgs production at N3LO,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.520323
+Soft expansion of double-real-virtual corrections to Higgs production at N3LO,Cuts and Feynman amplitudes beyond polylogarithms,0.505984
+Soft expansion of double-real-virtual corrections to Higgs production at N3LO,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.489564
+Soft expansion of double-real-virtual corrections to Higgs production at N3LO,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.520323
+Differential Higgs production at N3LO beyond threshold,Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,0.775954
+Differential Higgs production at N3LO beyond threshold,All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,0.41174
+Differential Higgs production at N3LO beyond threshold,The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,0.539783
+Differential Higgs production at N3LO beyond threshold,Higgs-differential cross section at NNLO in dimensional regularisation,0.806198
+Differential Higgs production at N3LO beyond threshold,Manifestly dual-conformal loop integration,0.362992
+Differential Higgs production at N3LO beyond threshold,CP-even scalar boson production via gluon fusion at the LHC,0.699625
+Differential Higgs production at N3LO beyond threshold,All two-loop MHV remainder functions in multi-Regge kinematics,0.40635
+Differential Higgs production at N3LO beyond threshold,Elliptic polylogarithms and two-loop Feynman integrals,0.311003
+Differential Higgs production at N3LO beyond threshold,Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,0.358283
+Differential Higgs production at N3LO beyond threshold,The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,0.384338
+Differential Higgs production at N3LO beyond threshold,Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,0.573672
+Differential Higgs production at N3LO beyond threshold,Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,0.701429
+Differential Higgs production at N3LO beyond threshold,High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,0.790392
+Differential Higgs production at N3LO beyond threshold,Limit setting procedures and theoretical uncertainties in Higgs boson searches,0.650498
+Differential Higgs production at N3LO beyond threshold,From modular forms to differential equations for Feynman integrals,0.298666
+Differential Higgs production at N3LO beyond threshold,Amplitudes in the Multi-Regge Limit of N=4 SYM,0.360047
+Differential Higgs production at N3LO beyond threshold,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.355166
+Differential Higgs production at N3LO beyond threshold,Cuts and Feynman amplitudes beyond polylogarithms,0.358988
+Differential Higgs production at N3LO beyond threshold,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.358283
+Differential Higgs production at N3LO beyond threshold,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.355166
+Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,0.382305
+Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,0.538412
+Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,Higgs-differential cross section at NNLO in dimensional regularisation,0.751682
+Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,Manifestly dual-conformal loop integration,0.347496
+Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,CP-even scalar boson production via gluon fusion at the LHC,0.724395
+Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,All two-loop MHV remainder functions in multi-Regge kinematics,0.37859
+Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,Elliptic polylogarithms and two-loop Feynman integrals,0.281066
+Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,0.360106
+Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,0.425211
+Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,0.549028
+Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,0.651042
+Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,0.819962
+Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,Limit setting procedures and theoretical uncertainties in Higgs boson searches,0.607946
+Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,From modular forms to differential equations for Feynman integrals,0.255831
+Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,Amplitudes in the Multi-Regge Limit of N=4 SYM,0.361928
+Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.349042
+Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,Cuts and Feynman amplitudes beyond polylogarithms,0.345826
+Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.360106
+Higgs production in bottom quark fusion: matching the 4- and 5-flavour schemes to third order in the strong coupling,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.349042
+All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,0.808243
+All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,Higgs-differential cross section at NNLO in dimensional regularisation,0.439279
+All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,Manifestly dual-conformal loop integration,0.721476
+All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,CP-even scalar boson production via gluon fusion at the LHC,0.387232
+All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,All two-loop MHV remainder functions in multi-Regge kinematics,0.753488
+All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,Elliptic polylogarithms and two-loop Feynman integrals,0.52282
+All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,0.817957
+All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,0.763267
+All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,0.274926
+All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,0.511616
+All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,0.433406
+All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,Limit setting procedures and theoretical uncertainties in Higgs boson searches,0.276931
+All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,From modular forms to differential equations for Feynman integrals,0.501951
+All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,Amplitudes in the Multi-Regge Limit of N=4 SYM,0.818525
+All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.827851
+All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,Cuts and Feynman amplitudes beyond polylogarithms,0.625933
+All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.817957
+All-Order Amplitudes at any Multiplicity in the Multi-Regge Limit,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.827851
+The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,Higgs-differential cross section at NNLO in dimensional regularisation,0.523198
+The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,Manifestly dual-conformal loop integration,0.74468
+The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,CP-even scalar boson production via gluon fusion at the LHC,0.487962
+The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,All two-loop MHV remainder functions in multi-Regge kinematics,0.696523
+The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,Elliptic polylogarithms and two-loop Feynman integrals,0.543874
+The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,0.75316
+The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,0.815427
+The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,0.378496
+The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,0.645526
+The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,0.568386
+The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,Limit setting procedures and theoretical uncertainties in Higgs boson searches,0.4041
+The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,From modular forms to differential equations for Feynman integrals,0.500033
+The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,Amplitudes in the Multi-Regge Limit of N=4 SYM,0.756157
+The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.702653
+The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,Cuts and Feynman amplitudes beyond polylogarithms,0.65267
+The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.75316
+The seven-gluon amplitude in multi-Regge kinematics beyond leading logarithmic accuracy,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.702653
+Higgs-differential cross section at NNLO in dimensional regularisation,Manifestly dual-conformal loop integration,0.397118
+Higgs-differential cross section at NNLO in dimensional regularisation,CP-even scalar boson production via gluon fusion at the LHC,0.696049
+Higgs-differential cross section at NNLO in dimensional regularisation,All two-loop MHV remainder functions in multi-Regge kinematics,0.404824
+Higgs-differential cross section at NNLO in dimensional regularisation,Elliptic polylogarithms and two-loop Feynman integrals,0.281416
+Higgs-differential cross section at NNLO in dimensional regularisation,Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,0.384234
+Higgs-differential cross section at NNLO in dimensional regularisation,The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,0.366361
+Higgs-differential cross section at NNLO in dimensional regularisation,Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,0.550766
+Higgs-differential cross section at NNLO in dimensional regularisation,Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,0.696035
+Higgs-differential cross section at NNLO in dimensional regularisation,High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,0.746673
+Higgs-differential cross section at NNLO in dimensional regularisation,Limit setting procedures and theoretical uncertainties in Higgs boson searches,0.549414
+Higgs-differential cross section at NNLO in dimensional regularisation,From modular forms to differential equations for Feynman integrals,0.275676
+Higgs-differential cross section at NNLO in dimensional regularisation,Amplitudes in the Multi-Regge Limit of N=4 SYM,0.38651
+Higgs-differential cross section at NNLO in dimensional regularisation,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.381749
+Higgs-differential cross section at NNLO in dimensional regularisation,Cuts and Feynman amplitudes beyond polylogarithms,0.364285
+Higgs-differential cross section at NNLO in dimensional regularisation,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.384234
+Higgs-differential cross section at NNLO in dimensional regularisation,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.381749
+Manifestly dual-conformal loop integration,CP-even scalar boson production via gluon fusion at the LHC,0.336716
+Manifestly dual-conformal loop integration,All two-loop MHV remainder functions in multi-Regge kinematics,0.622067
+Manifestly dual-conformal loop integration,Elliptic polylogarithms and two-loop Feynman integrals,0.580415
+Manifestly dual-conformal loop integration,Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,0.703635
+Manifestly dual-conformal loop integration,The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,0.688969
+Manifestly dual-conformal loop integration,Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,0.275741
+Manifestly dual-conformal loop integration,Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,0.566234
+Manifestly dual-conformal loop integration,High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,0.434488
+Manifestly dual-conformal loop integration,Limit setting procedures and theoretical uncertainties in Higgs boson searches,0.307684
+Manifestly dual-conformal loop integration,From modular forms to differential equations for Feynman integrals,0.57601
+Manifestly dual-conformal loop integration,Amplitudes in the Multi-Regge Limit of N=4 SYM,0.704957
+Manifestly dual-conformal loop integration,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.687648
+Manifestly dual-conformal loop integration,Cuts and Feynman amplitudes beyond polylogarithms,0.710966
+Manifestly dual-conformal loop integration,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.703635
+Manifestly dual-conformal loop integration,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.687648
+CP-even scalar boson production via gluon fusion at the LHC,All two-loop MHV remainder functions in multi-Regge kinematics,0.354096
+CP-even scalar boson production via gluon fusion at the LHC,Elliptic polylogarithms and two-loop Feynman integrals,0.187405
+CP-even scalar boson production via gluon fusion at the LHC,Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,0.340117
+CP-even scalar boson production via gluon fusion at the LHC,The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,0.398924
+CP-even scalar boson production via gluon fusion at the LHC,Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,0.549698
+CP-even scalar boson production via gluon fusion at the LHC,Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,0.516156
+CP-even scalar boson production via gluon fusion at the LHC,High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,0.80312
+CP-even scalar boson production via gluon fusion at the LHC,Limit setting procedures and theoretical uncertainties in Higgs boson searches,0.609884
+CP-even scalar boson production via gluon fusion at the LHC,From modular forms to differential equations for Feynman integrals,0.185243
+CP-even scalar boson production via gluon fusion at the LHC,Amplitudes in the Multi-Regge Limit of N=4 SYM,0.347756
+CP-even scalar boson production via gluon fusion at the LHC,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.345025
+CP-even scalar boson production via gluon fusion at the LHC,Cuts and Feynman amplitudes beyond polylogarithms,0.278799
+CP-even scalar boson production via gluon fusion at the LHC,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.340117
+CP-even scalar boson production via gluon fusion at the LHC,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.345025
+All two-loop MHV remainder functions in multi-Regge kinematics,Elliptic polylogarithms and two-loop Feynman integrals,0.496491
+All two-loop MHV remainder functions in multi-Regge kinematics,Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,0.714884
+All two-loop MHV remainder functions in multi-Regge kinematics,The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,0.716127
+All two-loop MHV remainder functions in multi-Regge kinematics,Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,0.343657
+All two-loop MHV remainder functions in multi-Regge kinematics,Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,0.554359
+All two-loop MHV remainder functions in multi-Regge kinematics,High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,0.44757
+All two-loop MHV remainder functions in multi-Regge kinematics,Limit setting procedures and theoretical uncertainties in Higgs boson searches,0.296433
+All two-loop MHV remainder functions in multi-Regge kinematics,From modular forms to differential equations for Feynman integrals,0.488215
+All two-loop MHV remainder functions in multi-Regge kinematics,Amplitudes in the Multi-Regge Limit of N=4 SYM,0.720513
+All two-loop MHV remainder functions in multi-Regge kinematics,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.797462
+All two-loop MHV remainder functions in multi-Regge kinematics,Cuts and Feynman amplitudes beyond polylogarithms,0.587182
+All two-loop MHV remainder functions in multi-Regge kinematics,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.714884
+All two-loop MHV remainder functions in multi-Regge kinematics,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.797462
+Elliptic polylogarithms and two-loop Feynman integrals,Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,0.425637
+Elliptic polylogarithms and two-loop Feynman integrals,The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,0.474803
+Elliptic polylogarithms and two-loop Feynman integrals,Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,0.194105
+Elliptic polylogarithms and two-loop Feynman integrals,Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,0.425254
+Elliptic polylogarithms and two-loop Feynman integrals,High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,0.293647
+Elliptic polylogarithms and two-loop Feynman integrals,Limit setting procedures and theoretical uncertainties in Higgs boson searches,0.198647
+Elliptic polylogarithms and two-loop Feynman integrals,From modular forms to differential equations for Feynman integrals,0.821002
+Elliptic polylogarithms and two-loop Feynman integrals,Amplitudes in the Multi-Regge Limit of N=4 SYM,0.429503
+Elliptic polylogarithms and two-loop Feynman integrals,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.422569
+Elliptic polylogarithms and two-loop Feynman integrals,Cuts and Feynman amplitudes beyond polylogarithms,0.725236
+Elliptic polylogarithms and two-loop Feynman integrals,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.425637
+Elliptic polylogarithms and two-loop Feynman integrals,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.422569
+Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,0.76372
+Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,0.327167
+Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,0.528167
+Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,0.415848
+Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,Limit setting procedures and theoretical uncertainties in Higgs boson searches,0.299855
+Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,From modular forms to differential equations for Feynman integrals,0.423478
+Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,Amplitudes in the Multi-Regge Limit of N=4 SYM,0.997539
+Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.858081
+Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,Cuts and Feynman amplitudes beyond polylogarithms,0.547978
+Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,1.0
+Amplitudes in the Multi-Regge Limit of $\mathcal {N}=4$ SYM,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.858081
+The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,0.285474
+The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,0.530501
+The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,0.431404
+The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,Limit setting procedures and theoretical uncertainties in Higgs boson searches,0.28415
+The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,From modular forms to differential equations for Feynman integrals,0.437477
+The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,Amplitudes in the Multi-Regge Limit of N=4 SYM,0.769113
+The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.77609
+The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,Cuts and Feynman amplitudes beyond polylogarithms,0.584876
+The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.76372
+The Steinmann Cluster Bootstrap for $\cal{N}$ = 4 Super Yang-Mills Amplitudes,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.77609
+Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,0.514136
+Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,0.642627
+Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,Limit setting procedures and theoretical uncertainties in Higgs boson searches,0.55538
+Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,From modular forms to differential equations for Feynman integrals,0.184252
+Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,Amplitudes in the Multi-Regge Limit of N=4 SYM,0.32788
+Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.301964
+Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,Cuts and Feynman amplitudes beyond polylogarithms,0.257322
+Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.327167
+Physics at a 100 TeV pp collider: Higgs and EW symmetry breaking studies,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.301964
+Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,0.634902
+Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,Limit setting procedures and theoretical uncertainties in Higgs boson searches,0.567825
+Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,From modular forms to differential equations for Feynman integrals,0.427283
+Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,Amplitudes in the Multi-Regge Limit of N=4 SYM,0.531148
+Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.520565
+Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,Cuts and Feynman amplitudes beyond polylogarithms,0.505621
+Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.528167
+Real-Virtual-Virtual contributions to the inclusive Higgs cross section at N3LO,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.520565
+High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,Limit setting procedures and theoretical uncertainties in Higgs boson searches,0.714746
+High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,From modular forms to differential equations for Feynman integrals,0.255614
+High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,Amplitudes in the Multi-Regge Limit of N=4 SYM,0.417232
+High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.389736
+High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,Cuts and Feynman amplitudes beyond polylogarithms,0.368073
+High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.415848
+High precision determination of the gluon fusion Higgs boson\n cross-section at the LHC,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.389736
+Limit setting procedures and theoretical uncertainties in Higgs boson searches,From modular forms to differential equations for Feynman integrals,0.175237
+Limit setting procedures and theoretical uncertainties in Higgs boson searches,Amplitudes in the Multi-Regge Limit of N=4 SYM,0.293914
+Limit setting procedures and theoretical uncertainties in Higgs boson searches,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.253613
+Limit setting procedures and theoretical uncertainties in Higgs boson searches,Cuts and Feynman amplitudes beyond polylogarithms,0.246286
+Limit setting procedures and theoretical uncertainties in Higgs boson searches,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.299855
+Limit setting procedures and theoretical uncertainties in Higgs boson searches,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.253613
+From modular forms to differential equations for Feynman integrals,Amplitudes in the Multi-Regge Limit of N=4 SYM,0.424235
+From modular forms to differential equations for Feynman integrals,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.425943
+From modular forms to differential equations for Feynman integrals,Cuts and Feynman amplitudes beyond polylogarithms,0.696574
+From modular forms to differential equations for Feynman integrals,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.423478
+From modular forms to differential equations for Feynman integrals,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.425943
+Amplitudes in the Multi-Regge Limit of N=4 SYM,Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,0.861182
+Amplitudes in the Multi-Regge Limit of N=4 SYM,Cuts and Feynman amplitudes beyond polylogarithms,0.550113
+Amplitudes in the Multi-Regge Limit of N=4 SYM,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.997539
+Amplitudes in the Multi-Regge Limit of N=4 SYM,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.861182
+Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,Cuts and Feynman amplitudes beyond polylogarithms,0.569456
+Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.858081
+Multi-Loop Amplitudes in the High-Energy Limit in N = 4 SYM,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,1.0
+Cuts and Feynman amplitudes beyond polylogarithms,Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,0.547978
+Cuts and Feynman amplitudes beyond polylogarithms,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.569456
+Amplitudes in the Multi-Regge Limit of $\mathcal{N} = 4$ SYM,Multi-Loop Amplitudes in the High-Energy Limit in N=4 SYM,0.858081

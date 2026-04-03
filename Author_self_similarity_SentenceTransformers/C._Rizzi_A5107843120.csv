@@ -1,4 +1,4 @@
-abstract_i,abstract_j,cosine_similarity
-0,1,0.529302
-0,2,0.674626
-1,2,0.539657
+title_i,title_j,cosine_similarity
+Searches for long-lived particles at the future FCC-ee,The trigger and data acquisition system of the FASER experiment,0.539658
+Searches for long-lived particles at the future FCC-ee,Performance in beam tests of irradiated Low Gain Avalanche Detectors for the ATLAS High Granularity Timing Detector,0.529303
+The trigger and data acquisition system of the FASER experiment,Performance in beam tests of irradiated Low Gain Avalanche Detectors for the ATLAS High Granularity Timing Detector,0.674626

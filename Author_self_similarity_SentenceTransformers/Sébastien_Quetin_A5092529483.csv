@@ -1,0 +1,11 @@
+title_i,title_j,cosine_similarity
+Automatic catheter digitization in breast brachytherapy,Deep learning for high-resolution dose prediction in high dose rate brachytherapy for breast cancer treatment,0.578699
+Automatic catheter digitization in breast brachytherapy,Bridging the Gap: Generalising State-of-the-Art U-Net Models to Sub-Saharan African Populations,0.249888
+Automatic catheter digitization in breast brachytherapy,Automatic segmentation of Organs at Risk in Head and Neck cancer patients from CT and MRI scans,0.336259
+Automatic catheter digitization in breast brachytherapy,Beyond the Encoder: Joint Encoder-Decoder Contrastive Pre-Training Improves Dense Prediction,0.11581
+Deep learning for high-resolution dose prediction in high dose rate brachytherapy for breast cancer treatment,Bridging the Gap: Generalising State-of-the-Art U-Net Models to Sub-Saharan African Populations,0.49819
+Deep learning for high-resolution dose prediction in high dose rate brachytherapy for breast cancer treatment,Automatic segmentation of Organs at Risk in Head and Neck cancer patients from CT and MRI scans,0.544423
+Deep learning for high-resolution dose prediction in high dose rate brachytherapy for breast cancer treatment,Beyond the Encoder: Joint Encoder-Decoder Contrastive Pre-Training Improves Dense Prediction,0.296773
+Bridging the Gap: Generalising State-of-the-Art U-Net Models to Sub-Saharan African Populations,Automatic segmentation of Organs at Risk in Head and Neck cancer patients from CT and MRI scans,0.680373
+Bridging the Gap: Generalising State-of-the-Art U-Net Models to Sub-Saharan African Populations,Beyond the Encoder: Joint Encoder-Decoder Contrastive Pre-Training Improves Dense Prediction,0.356973
+Automatic segmentation of Organs at Risk in Head and Neck cancer patients from CT and MRI scans,Beyond the Encoder: Joint Encoder-Decoder Contrastive Pre-Training Improves Dense Prediction,0.427982

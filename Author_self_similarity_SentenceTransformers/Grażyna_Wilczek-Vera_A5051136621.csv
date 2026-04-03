@@ -1,211 +1,211 @@
-abstract_i,abstract_j,cosine_similarity
-0,1,0.637246
-0,2,0.192144
-0,3,0.259631
-0,4,0.717392
-0,5,0.725351
-0,6,0.343392
-0,7,0.720182
-0,8,0.266727
-0,9,0.537199
-0,10,0.541778
-0,11,0.780612
-0,12,0.241152
-0,13,0.567605
-0,14,0.302469
-0,15,0.477536
-0,16,0.434325
-0,17,0.807875
-0,18,0.735704
-0,19,0.394103
-0,20,0.353768
-1,2,0.257041
-1,3,0.265755
-1,4,0.569207
-1,5,0.563207
-1,6,0.345076
-1,7,0.525544
-1,8,0.285822
-1,9,0.473266
-1,10,0.453281
-1,11,0.460842
-1,12,0.247515
-1,13,0.490501
-1,14,0.275601
-1,15,0.422922
-1,16,0.358254
-1,17,0.643982
-1,18,0.589889
-1,19,0.387012
-1,20,0.38221
-2,3,0.262421
-2,4,0.230373
-2,5,0.26506
-2,6,0.470833
-2,7,0.23527
-2,8,0.273427
-2,9,0.315747
-2,10,0.274345
-2,11,0.274051
-2,12,0.640447
-2,13,0.306918
-2,14,0.262163
-2,15,0.088295
-2,16,0.252082
-2,17,0.213186
-2,18,0.205306
-2,19,0.430049
-2,20,0.249924
-3,4,0.153779
-3,5,0.193151
-3,6,0.195977
-3,7,0.186043
-3,8,0.855679
-3,9,0.220857
-3,10,0.172771
-3,11,0.288973
-3,12,0.194872
-3,13,0.361902
-3,14,0.870332
-3,15,0.10538
-3,16,0.178287
-3,17,0.177718
-3,18,0.150169
-3,19,0.302772
-3,20,0.171168
-4,5,0.699188
-4,6,0.381553
-4,7,0.735696
-4,8,0.119348
-4,9,0.388504
-4,10,0.603045
-4,11,0.538538
-4,12,0.312618
-4,13,0.40174
-4,14,0.15966
-4,15,0.491105
-4,16,0.330521
-4,17,0.711028
-4,18,0.827598
-4,19,0.373555
-4,20,0.24823
-5,6,0.415171
-5,7,0.691863
-5,8,0.213179
-5,9,0.465832
-5,10,0.528357
-5,11,0.595434
-5,12,0.279354
-5,13,0.530262
-5,14,0.248127
-5,15,0.518544
-5,16,0.391789
-5,17,0.699148
-5,18,0.765372
-5,19,0.72679
-5,20,0.340941
-6,7,0.395307
-6,8,0.188274
-6,9,0.32383
-6,10,0.41711
-6,11,0.264163
-6,12,0.585977
-6,13,0.308185
-6,14,0.241306
-6,15,0.1879
-6,16,0.329739
-6,17,0.340979
-6,18,0.353181
-6,19,0.4427
-6,20,0.172489
-7,8,0.172216
-7,9,0.399075
-7,10,0.855847
-7,11,0.579129
-7,12,0.281849
-7,13,0.411418
-7,14,0.233007
-7,15,0.52406
-7,16,0.385354
-7,17,0.69959
-7,18,0.803667
-7,19,0.448123
-7,20,0.273569
-8,9,0.295697
-8,10,0.149658
-8,11,0.340238
-8,12,0.161188
-8,13,0.425149
-8,14,0.927305
-8,15,0.146704
-8,16,0.23867
-8,17,0.216205
-8,18,0.140201
-8,19,0.333252
-8,20,0.260824
-9,10,0.288633
-9,11,0.618432
-9,12,0.241504
-9,13,0.830571
-9,14,0.282739
-9,15,0.300718
-9,16,0.505591
-9,17,0.609776
-9,18,0.439166
-9,19,0.398834
-9,20,0.689872
-10,11,0.426669
-10,12,0.330108
-10,13,0.33037
-10,14,0.200556
-10,15,0.404989
-10,16,0.362506
-10,17,0.546272
-10,18,0.700149
-10,19,0.384107
-10,20,0.168473
-11,12,0.206911
-11,13,0.608612
-11,14,0.360988
-11,15,0.324532
-11,16,0.389118
-11,17,0.632486
-11,18,0.602201
-11,19,0.413703
-11,20,0.458872
-12,13,0.249295
-12,14,0.173726
-12,15,0.151783
-12,16,0.227548
-12,17,0.203179
-12,18,0.241227
-12,19,0.375829
-12,20,0.092695
-13,14,0.454226
-13,15,0.384694
-13,16,0.485327
-13,17,0.636576
-13,18,0.459335
-13,19,0.418313
-13,20,0.585342
-14,15,0.19545
-14,16,0.244987
-14,17,0.257239
-14,18,0.173694
-14,19,0.326838
-14,20,0.245081
-15,16,0.325607
-15,17,0.550689
-15,18,0.497517
-15,19,0.248203
-15,20,0.173571
-16,17,0.478933
-16,18,0.396016
-16,19,0.308046
-16,20,0.412216
-17,18,0.764209
-17,19,0.347069
-17,20,0.414818
-18,19,0.381167
-18,20,0.306515
-19,20,0.338832
+title_i,title_j,cosine_similarity
+On the activity of ions and the junction potential: Revised values for all data,Understanding cubic equations of state: A search for the hidden clues of their success,0.273569
+On the activity of ions and the junction potential: Revised values for all data,Classical Thermodynamics of Fluid Systems,0.399075
+On the activity of ions and the junction potential: Revised values for all data,The Influence of Chemical Activity Models on the Description of Ion Transport through Micro-Structured Cementitious Materials,0.52406
+On the activity of ions and the junction potential: Revised values for all data,Individual Block Length Distributions of Block Copolymers of Polystyrene-<i>block</i>-Poly(α-methylstyrene) by MALDI/TOF Mass Spectrometry,0.172216
+On the activity of ions and the junction potential: Revised values for all data,Understanding Fluorescence Measurements through a Guided-Inquiry and Discovery Experiment in Advanced Analytical Laboratory,0.281849
+On the activity of ions and the junction potential: Revised values for all data,Classical and Molecular Thermodynamics of Fluid Systems,0.411418
+On the activity of ions and the junction potential: Revised values for all data,Detailed structural analysis of diblock copolymers by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry,0.186043
+On the activity of ions and the junction potential: Revised values for all data,On the Predictive Ability of the New Thermodynamics of Electrolyte Solutions,0.69959
+On the activity of ions and the junction potential: Revised values for all data,Teaching Data Acquisition. An Undergraduate Experiment in the Advanced Analytical Chemistry Laboratory,0.395307
+On the activity of ions and the junction potential: Revised values for all data,Analysis of Diblock Copolymers of Poly(α-methylstyrene)-<i>b</i><i>lock</i>-polystyrene by Mass Spectrometry,0.233007
+On the activity of ions and the junction potential: Revised values for all data,Determination of the activity of H<sup>+</sup> ions within and beyond the pH meter range,0.735696
+On the activity of ions and the junction potential: Revised values for all data,"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl, and NaBr + NaCl",0.803667
+On the activity of ions and the junction potential: Revised values for all data,Peculiarities of the Thermodynamics of Electrolyte Solutions: A Critical Discussion,0.720182
+On the activity of ions and the junction potential: Revised values for all data,"Reply to Comments by F. Malatesta on<i>J. Chem. Eng. Data</i><b>2009</b>,<i>54</i>, 345−350",0.448123
+On the activity of ions and the junction potential: Revised values for all data,"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl and NaBr + NaCl",0.691863
+On the activity of ions and the junction potential: Revised values for all data,Excited-State Processes in Slow Motion: An Experiment in the Undergraduate Laboratory,0.23527
+On the activity of ions and the junction potential: Revised values for all data,On the relation between activity coefficients and excess gibbs energy functions,0.579129
+On the activity of ions and the junction potential: Revised values for all data,The Effect of Diffusion Due to a Temperature Gradient on the Measurement of the N2O4-NO2 Equilibrium Constant,0.385354
+On the activity of ions and the junction potential: Revised values for all data,"Ionic Liquids in Chemical Analysis, CRC Press, 2009 a Compendium of Knowledge on ILs that Goes Well Beyond the Analytical Field",0.525544
+On the activity of ions and the junction potential: Revised values for all data,On the measurement of the junction potential between two aqueous single electrolyte solutions,0.855847
+Understanding cubic equations of state: A search for the hidden clues of their success,Classical Thermodynamics of Fluid Systems,0.689872
+Understanding cubic equations of state: A search for the hidden clues of their success,The Influence of Chemical Activity Models on the Description of Ion Transport through Micro-Structured Cementitious Materials,0.173571
+Understanding cubic equations of state: A search for the hidden clues of their success,Individual Block Length Distributions of Block Copolymers of Polystyrene-<i>block</i>-Poly(α-methylstyrene) by MALDI/TOF Mass Spectrometry,0.260824
+Understanding cubic equations of state: A search for the hidden clues of their success,Understanding Fluorescence Measurements through a Guided-Inquiry and Discovery Experiment in Advanced Analytical Laboratory,0.092695
+Understanding cubic equations of state: A search for the hidden clues of their success,Classical and Molecular Thermodynamics of Fluid Systems,0.585342
+Understanding cubic equations of state: A search for the hidden clues of their success,Detailed structural analysis of diblock copolymers by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry,0.171168
+Understanding cubic equations of state: A search for the hidden clues of their success,On the Predictive Ability of the New Thermodynamics of Electrolyte Solutions,0.414818
+Understanding cubic equations of state: A search for the hidden clues of their success,Teaching Data Acquisition. An Undergraduate Experiment in the Advanced Analytical Chemistry Laboratory,0.172489
+Understanding cubic equations of state: A search for the hidden clues of their success,Analysis of Diblock Copolymers of Poly(α-methylstyrene)-<i>b</i><i>lock</i>-polystyrene by Mass Spectrometry,0.245081
+Understanding cubic equations of state: A search for the hidden clues of their success,Determination of the activity of H<sup>+</sup> ions within and beyond the pH meter range,0.24823
+Understanding cubic equations of state: A search for the hidden clues of their success,"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl, and NaBr + NaCl",0.306516
+Understanding cubic equations of state: A search for the hidden clues of their success,Peculiarities of the Thermodynamics of Electrolyte Solutions: A Critical Discussion,0.353768
+Understanding cubic equations of state: A search for the hidden clues of their success,"Reply to Comments by F. Malatesta on<i>J. Chem. Eng. Data</i><b>2009</b>,<i>54</i>, 345−350",0.338833
+Understanding cubic equations of state: A search for the hidden clues of their success,"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl and NaBr + NaCl",0.340941
+Understanding cubic equations of state: A search for the hidden clues of their success,Excited-State Processes in Slow Motion: An Experiment in the Undergraduate Laboratory,0.249924
+Understanding cubic equations of state: A search for the hidden clues of their success,On the relation between activity coefficients and excess gibbs energy functions,0.458872
+Understanding cubic equations of state: A search for the hidden clues of their success,The Effect of Diffusion Due to a Temperature Gradient on the Measurement of the N2O4-NO2 Equilibrium Constant,0.412216
+Understanding cubic equations of state: A search for the hidden clues of their success,"Ionic Liquids in Chemical Analysis, CRC Press, 2009 a Compendium of Knowledge on ILs that Goes Well Beyond the Analytical Field",0.38221
+Understanding cubic equations of state: A search for the hidden clues of their success,On the measurement of the junction potential between two aqueous single electrolyte solutions,0.168473
+Classical Thermodynamics of Fluid Systems,The Influence of Chemical Activity Models on the Description of Ion Transport through Micro-Structured Cementitious Materials,0.300718
+Classical Thermodynamics of Fluid Systems,Individual Block Length Distributions of Block Copolymers of Polystyrene-<i>block</i>-Poly(α-methylstyrene) by MALDI/TOF Mass Spectrometry,0.295697
+Classical Thermodynamics of Fluid Systems,Understanding Fluorescence Measurements through a Guided-Inquiry and Discovery Experiment in Advanced Analytical Laboratory,0.241504
+Classical Thermodynamics of Fluid Systems,Classical and Molecular Thermodynamics of Fluid Systems,0.830571
+Classical Thermodynamics of Fluid Systems,Detailed structural analysis of diblock copolymers by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry,0.220857
+Classical Thermodynamics of Fluid Systems,On the Predictive Ability of the New Thermodynamics of Electrolyte Solutions,0.609776
+Classical Thermodynamics of Fluid Systems,Teaching Data Acquisition. An Undergraduate Experiment in the Advanced Analytical Chemistry Laboratory,0.32383
+Classical Thermodynamics of Fluid Systems,Analysis of Diblock Copolymers of Poly(α-methylstyrene)-<i>b</i><i>lock</i>-polystyrene by Mass Spectrometry,0.282739
+Classical Thermodynamics of Fluid Systems,Determination of the activity of H<sup>+</sup> ions within and beyond the pH meter range,0.388504
+Classical Thermodynamics of Fluid Systems,"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl, and NaBr + NaCl",0.439166
+Classical Thermodynamics of Fluid Systems,Peculiarities of the Thermodynamics of Electrolyte Solutions: A Critical Discussion,0.537199
+Classical Thermodynamics of Fluid Systems,"Reply to Comments by F. Malatesta on<i>J. Chem. Eng. Data</i><b>2009</b>,<i>54</i>, 345−350",0.398834
+Classical Thermodynamics of Fluid Systems,"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl and NaBr + NaCl",0.465832
+Classical Thermodynamics of Fluid Systems,Excited-State Processes in Slow Motion: An Experiment in the Undergraduate Laboratory,0.315747
+Classical Thermodynamics of Fluid Systems,On the relation between activity coefficients and excess gibbs energy functions,0.618432
+Classical Thermodynamics of Fluid Systems,The Effect of Diffusion Due to a Temperature Gradient on the Measurement of the N2O4-NO2 Equilibrium Constant,0.505591
+Classical Thermodynamics of Fluid Systems,"Ionic Liquids in Chemical Analysis, CRC Press, 2009 a Compendium of Knowledge on ILs that Goes Well Beyond the Analytical Field",0.473266
+Classical Thermodynamics of Fluid Systems,On the measurement of the junction potential between two aqueous single electrolyte solutions,0.288634
+The Influence of Chemical Activity Models on the Description of Ion Transport through Micro-Structured Cementitious Materials,Individual Block Length Distributions of Block Copolymers of Polystyrene-<i>block</i>-Poly(α-methylstyrene) by MALDI/TOF Mass Spectrometry,0.146704
+The Influence of Chemical Activity Models on the Description of Ion Transport through Micro-Structured Cementitious Materials,Understanding Fluorescence Measurements through a Guided-Inquiry and Discovery Experiment in Advanced Analytical Laboratory,0.151783
+The Influence of Chemical Activity Models on the Description of Ion Transport through Micro-Structured Cementitious Materials,Classical and Molecular Thermodynamics of Fluid Systems,0.384694
+The Influence of Chemical Activity Models on the Description of Ion Transport through Micro-Structured Cementitious Materials,Detailed structural analysis of diblock copolymers by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry,0.10538
+The Influence of Chemical Activity Models on the Description of Ion Transport through Micro-Structured Cementitious Materials,On the Predictive Ability of the New Thermodynamics of Electrolyte Solutions,0.550689
+The Influence of Chemical Activity Models on the Description of Ion Transport through Micro-Structured Cementitious Materials,Teaching Data Acquisition. An Undergraduate Experiment in the Advanced Analytical Chemistry Laboratory,0.1879
+The Influence of Chemical Activity Models on the Description of Ion Transport through Micro-Structured Cementitious Materials,Analysis of Diblock Copolymers of Poly(α-methylstyrene)-<i>b</i><i>lock</i>-polystyrene by Mass Spectrometry,0.19545
+The Influence of Chemical Activity Models on the Description of Ion Transport through Micro-Structured Cementitious Materials,Determination of the activity of H<sup>+</sup> ions within and beyond the pH meter range,0.491105
+The Influence of Chemical Activity Models on the Description of Ion Transport through Micro-Structured Cementitious Materials,"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl, and NaBr + NaCl",0.497517
+The Influence of Chemical Activity Models on the Description of Ion Transport through Micro-Structured Cementitious Materials,Peculiarities of the Thermodynamics of Electrolyte Solutions: A Critical Discussion,0.477536
+The Influence of Chemical Activity Models on the Description of Ion Transport through Micro-Structured Cementitious Materials,"Reply to Comments by F. Malatesta on<i>J. Chem. Eng. Data</i><b>2009</b>,<i>54</i>, 345−350",0.248203
+The Influence of Chemical Activity Models on the Description of Ion Transport through Micro-Structured Cementitious Materials,"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl and NaBr + NaCl",0.518544
+The Influence of Chemical Activity Models on the Description of Ion Transport through Micro-Structured Cementitious Materials,Excited-State Processes in Slow Motion: An Experiment in the Undergraduate Laboratory,0.088295
+The Influence of Chemical Activity Models on the Description of Ion Transport through Micro-Structured Cementitious Materials,On the relation between activity coefficients and excess gibbs energy functions,0.324532
+The Influence of Chemical Activity Models on the Description of Ion Transport through Micro-Structured Cementitious Materials,The Effect of Diffusion Due to a Temperature Gradient on the Measurement of the N2O4-NO2 Equilibrium Constant,0.325607
+The Influence of Chemical Activity Models on the Description of Ion Transport through Micro-Structured Cementitious Materials,"Ionic Liquids in Chemical Analysis, CRC Press, 2009 a Compendium of Knowledge on ILs that Goes Well Beyond the Analytical Field",0.422922
+The Influence of Chemical Activity Models on the Description of Ion Transport through Micro-Structured Cementitious Materials,On the measurement of the junction potential between two aqueous single electrolyte solutions,0.404989
+Individual Block Length Distributions of Block Copolymers of Polystyrene-<i>block</i>-Poly(α-methylstyrene) by MALDI/TOF Mass Spectrometry,Understanding Fluorescence Measurements through a Guided-Inquiry and Discovery Experiment in Advanced Analytical Laboratory,0.161188
+Individual Block Length Distributions of Block Copolymers of Polystyrene-<i>block</i>-Poly(α-methylstyrene) by MALDI/TOF Mass Spectrometry,Classical and Molecular Thermodynamics of Fluid Systems,0.425149
+Individual Block Length Distributions of Block Copolymers of Polystyrene-<i>block</i>-Poly(α-methylstyrene) by MALDI/TOF Mass Spectrometry,Detailed structural analysis of diblock copolymers by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry,0.855679
+Individual Block Length Distributions of Block Copolymers of Polystyrene-<i>block</i>-Poly(α-methylstyrene) by MALDI/TOF Mass Spectrometry,On the Predictive Ability of the New Thermodynamics of Electrolyte Solutions,0.216205
+Individual Block Length Distributions of Block Copolymers of Polystyrene-<i>block</i>-Poly(α-methylstyrene) by MALDI/TOF Mass Spectrometry,Teaching Data Acquisition. An Undergraduate Experiment in the Advanced Analytical Chemistry Laboratory,0.188274
+Individual Block Length Distributions of Block Copolymers of Polystyrene-<i>block</i>-Poly(α-methylstyrene) by MALDI/TOF Mass Spectrometry,Analysis of Diblock Copolymers of Poly(α-methylstyrene)-<i>b</i><i>lock</i>-polystyrene by Mass Spectrometry,0.927305
+Individual Block Length Distributions of Block Copolymers of Polystyrene-<i>block</i>-Poly(α-methylstyrene) by MALDI/TOF Mass Spectrometry,Determination of the activity of H<sup>+</sup> ions within and beyond the pH meter range,0.119348
+Individual Block Length Distributions of Block Copolymers of Polystyrene-<i>block</i>-Poly(α-methylstyrene) by MALDI/TOF Mass Spectrometry,"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl, and NaBr + NaCl",0.140201
+Individual Block Length Distributions of Block Copolymers of Polystyrene-<i>block</i>-Poly(α-methylstyrene) by MALDI/TOF Mass Spectrometry,Peculiarities of the Thermodynamics of Electrolyte Solutions: A Critical Discussion,0.266727
+Individual Block Length Distributions of Block Copolymers of Polystyrene-<i>block</i>-Poly(α-methylstyrene) by MALDI/TOF Mass Spectrometry,"Reply to Comments by F. Malatesta on<i>J. Chem. Eng. Data</i><b>2009</b>,<i>54</i>, 345−350",0.333252
+Individual Block Length Distributions of Block Copolymers of Polystyrene-<i>block</i>-Poly(α-methylstyrene) by MALDI/TOF Mass Spectrometry,"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl and NaBr + NaCl",0.213179
+Individual Block Length Distributions of Block Copolymers of Polystyrene-<i>block</i>-Poly(α-methylstyrene) by MALDI/TOF Mass Spectrometry,Excited-State Processes in Slow Motion: An Experiment in the Undergraduate Laboratory,0.273427
+Individual Block Length Distributions of Block Copolymers of Polystyrene-<i>block</i>-Poly(α-methylstyrene) by MALDI/TOF Mass Spectrometry,On the relation between activity coefficients and excess gibbs energy functions,0.340238
+Individual Block Length Distributions of Block Copolymers of Polystyrene-<i>block</i>-Poly(α-methylstyrene) by MALDI/TOF Mass Spectrometry,The Effect of Diffusion Due to a Temperature Gradient on the Measurement of the N2O4-NO2 Equilibrium Constant,0.23867
+Individual Block Length Distributions of Block Copolymers of Polystyrene-<i>block</i>-Poly(α-methylstyrene) by MALDI/TOF Mass Spectrometry,"Ionic Liquids in Chemical Analysis, CRC Press, 2009 a Compendium of Knowledge on ILs that Goes Well Beyond the Analytical Field",0.285822
+Individual Block Length Distributions of Block Copolymers of Polystyrene-<i>block</i>-Poly(α-methylstyrene) by MALDI/TOF Mass Spectrometry,On the measurement of the junction potential between two aqueous single electrolyte solutions,0.149658
+Understanding Fluorescence Measurements through a Guided-Inquiry and Discovery Experiment in Advanced Analytical Laboratory,Classical and Molecular Thermodynamics of Fluid Systems,0.249295
+Understanding Fluorescence Measurements through a Guided-Inquiry and Discovery Experiment in Advanced Analytical Laboratory,Detailed structural analysis of diblock copolymers by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry,0.194872
+Understanding Fluorescence Measurements through a Guided-Inquiry and Discovery Experiment in Advanced Analytical Laboratory,On the Predictive Ability of the New Thermodynamics of Electrolyte Solutions,0.203179
+Understanding Fluorescence Measurements through a Guided-Inquiry and Discovery Experiment in Advanced Analytical Laboratory,Teaching Data Acquisition. An Undergraduate Experiment in the Advanced Analytical Chemistry Laboratory,0.585977
+Understanding Fluorescence Measurements through a Guided-Inquiry and Discovery Experiment in Advanced Analytical Laboratory,Analysis of Diblock Copolymers of Poly(α-methylstyrene)-<i>b</i><i>lock</i>-polystyrene by Mass Spectrometry,0.173726
+Understanding Fluorescence Measurements through a Guided-Inquiry and Discovery Experiment in Advanced Analytical Laboratory,Determination of the activity of H<sup>+</sup> ions within and beyond the pH meter range,0.312618
+Understanding Fluorescence Measurements through a Guided-Inquiry and Discovery Experiment in Advanced Analytical Laboratory,"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl, and NaBr + NaCl",0.241227
+Understanding Fluorescence Measurements through a Guided-Inquiry and Discovery Experiment in Advanced Analytical Laboratory,Peculiarities of the Thermodynamics of Electrolyte Solutions: A Critical Discussion,0.241152
+Understanding Fluorescence Measurements through a Guided-Inquiry and Discovery Experiment in Advanced Analytical Laboratory,"Reply to Comments by F. Malatesta on<i>J. Chem. Eng. Data</i><b>2009</b>,<i>54</i>, 345−350",0.375829
+Understanding Fluorescence Measurements through a Guided-Inquiry and Discovery Experiment in Advanced Analytical Laboratory,"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl and NaBr + NaCl",0.279354
+Understanding Fluorescence Measurements through a Guided-Inquiry and Discovery Experiment in Advanced Analytical Laboratory,Excited-State Processes in Slow Motion: An Experiment in the Undergraduate Laboratory,0.640447
+Understanding Fluorescence Measurements through a Guided-Inquiry and Discovery Experiment in Advanced Analytical Laboratory,On the relation between activity coefficients and excess gibbs energy functions,0.206911
+Understanding Fluorescence Measurements through a Guided-Inquiry and Discovery Experiment in Advanced Analytical Laboratory,The Effect of Diffusion Due to a Temperature Gradient on the Measurement of the N2O4-NO2 Equilibrium Constant,0.227548
+Understanding Fluorescence Measurements through a Guided-Inquiry and Discovery Experiment in Advanced Analytical Laboratory,"Ionic Liquids in Chemical Analysis, CRC Press, 2009 a Compendium of Knowledge on ILs that Goes Well Beyond the Analytical Field",0.247515
+Understanding Fluorescence Measurements through a Guided-Inquiry and Discovery Experiment in Advanced Analytical Laboratory,On the measurement of the junction potential between two aqueous single electrolyte solutions,0.330108
+Classical and Molecular Thermodynamics of Fluid Systems,Detailed structural analysis of diblock copolymers by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry,0.361902
+Classical and Molecular Thermodynamics of Fluid Systems,On the Predictive Ability of the New Thermodynamics of Electrolyte Solutions,0.636576
+Classical and Molecular Thermodynamics of Fluid Systems,Teaching Data Acquisition. An Undergraduate Experiment in the Advanced Analytical Chemistry Laboratory,0.308185
+Classical and Molecular Thermodynamics of Fluid Systems,Analysis of Diblock Copolymers of Poly(α-methylstyrene)-<i>b</i><i>lock</i>-polystyrene by Mass Spectrometry,0.454226
+Classical and Molecular Thermodynamics of Fluid Systems,Determination of the activity of H<sup>+</sup> ions within and beyond the pH meter range,0.40174
+Classical and Molecular Thermodynamics of Fluid Systems,"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl, and NaBr + NaCl",0.459335
+Classical and Molecular Thermodynamics of Fluid Systems,Peculiarities of the Thermodynamics of Electrolyte Solutions: A Critical Discussion,0.567605
+Classical and Molecular Thermodynamics of Fluid Systems,"Reply to Comments by F. Malatesta on<i>J. Chem. Eng. Data</i><b>2009</b>,<i>54</i>, 345−350",0.418313
+Classical and Molecular Thermodynamics of Fluid Systems,"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl and NaBr + NaCl",0.530262
+Classical and Molecular Thermodynamics of Fluid Systems,Excited-State Processes in Slow Motion: An Experiment in the Undergraduate Laboratory,0.306918
+Classical and Molecular Thermodynamics of Fluid Systems,On the relation between activity coefficients and excess gibbs energy functions,0.608612
+Classical and Molecular Thermodynamics of Fluid Systems,The Effect of Diffusion Due to a Temperature Gradient on the Measurement of the N2O4-NO2 Equilibrium Constant,0.485327
+Classical and Molecular Thermodynamics of Fluid Systems,"Ionic Liquids in Chemical Analysis, CRC Press, 2009 a Compendium of Knowledge on ILs that Goes Well Beyond the Analytical Field",0.490501
+Classical and Molecular Thermodynamics of Fluid Systems,On the measurement of the junction potential between two aqueous single electrolyte solutions,0.33037
+Detailed structural analysis of diblock copolymers by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry,On the Predictive Ability of the New Thermodynamics of Electrolyte Solutions,0.177718
+Detailed structural analysis of diblock copolymers by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry,Teaching Data Acquisition. An Undergraduate Experiment in the Advanced Analytical Chemistry Laboratory,0.195977
+Detailed structural analysis of diblock copolymers by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry,Analysis of Diblock Copolymers of Poly(α-methylstyrene)-<i>b</i><i>lock</i>-polystyrene by Mass Spectrometry,0.870332
+Detailed structural analysis of diblock copolymers by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry,Determination of the activity of H<sup>+</sup> ions within and beyond the pH meter range,0.153779
+Detailed structural analysis of diblock copolymers by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry,"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl, and NaBr + NaCl",0.150169
+Detailed structural analysis of diblock copolymers by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry,Peculiarities of the Thermodynamics of Electrolyte Solutions: A Critical Discussion,0.259631
+Detailed structural analysis of diblock copolymers by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry,"Reply to Comments by F. Malatesta on<i>J. Chem. Eng. Data</i><b>2009</b>,<i>54</i>, 345−350",0.302772
+Detailed structural analysis of diblock copolymers by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry,"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl and NaBr + NaCl",0.193151
+Detailed structural analysis of diblock copolymers by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry,Excited-State Processes in Slow Motion: An Experiment in the Undergraduate Laboratory,0.262421
+Detailed structural analysis of diblock copolymers by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry,On the relation between activity coefficients and excess gibbs energy functions,0.288973
+Detailed structural analysis of diblock copolymers by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry,The Effect of Diffusion Due to a Temperature Gradient on the Measurement of the N2O4-NO2 Equilibrium Constant,0.178287
+Detailed structural analysis of diblock copolymers by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry,"Ionic Liquids in Chemical Analysis, CRC Press, 2009 a Compendium of Knowledge on ILs that Goes Well Beyond the Analytical Field",0.265755
+Detailed structural analysis of diblock copolymers by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry,On the measurement of the junction potential between two aqueous single electrolyte solutions,0.172771
+On the Predictive Ability of the New Thermodynamics of Electrolyte Solutions,Teaching Data Acquisition. An Undergraduate Experiment in the Advanced Analytical Chemistry Laboratory,0.340979
+On the Predictive Ability of the New Thermodynamics of Electrolyte Solutions,Analysis of Diblock Copolymers of Poly(α-methylstyrene)-<i>b</i><i>lock</i>-polystyrene by Mass Spectrometry,0.257239
+On the Predictive Ability of the New Thermodynamics of Electrolyte Solutions,Determination of the activity of H<sup>+</sup> ions within and beyond the pH meter range,0.711028
+On the Predictive Ability of the New Thermodynamics of Electrolyte Solutions,"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl, and NaBr + NaCl",0.764209
+On the Predictive Ability of the New Thermodynamics of Electrolyte Solutions,Peculiarities of the Thermodynamics of Electrolyte Solutions: A Critical Discussion,0.807875
+On the Predictive Ability of the New Thermodynamics of Electrolyte Solutions,"Reply to Comments by F. Malatesta on<i>J. Chem. Eng. Data</i><b>2009</b>,<i>54</i>, 345−350",0.347069
+On the Predictive Ability of the New Thermodynamics of Electrolyte Solutions,"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl and NaBr + NaCl",0.699148
+On the Predictive Ability of the New Thermodynamics of Electrolyte Solutions,Excited-State Processes in Slow Motion: An Experiment in the Undergraduate Laboratory,0.213186
+On the Predictive Ability of the New Thermodynamics of Electrolyte Solutions,On the relation between activity coefficients and excess gibbs energy functions,0.632486
+On the Predictive Ability of the New Thermodynamics of Electrolyte Solutions,The Effect of Diffusion Due to a Temperature Gradient on the Measurement of the N2O4-NO2 Equilibrium Constant,0.478933
+On the Predictive Ability of the New Thermodynamics of Electrolyte Solutions,"Ionic Liquids in Chemical Analysis, CRC Press, 2009 a Compendium of Knowledge on ILs that Goes Well Beyond the Analytical Field",0.643982
+On the Predictive Ability of the New Thermodynamics of Electrolyte Solutions,On the measurement of the junction potential between two aqueous single electrolyte solutions,0.546272
+Teaching Data Acquisition. An Undergraduate Experiment in the Advanced Analytical Chemistry Laboratory,Analysis of Diblock Copolymers of Poly(α-methylstyrene)-<i>b</i><i>lock</i>-polystyrene by Mass Spectrometry,0.241306
+Teaching Data Acquisition. An Undergraduate Experiment in the Advanced Analytical Chemistry Laboratory,Determination of the activity of H<sup>+</sup> ions within and beyond the pH meter range,0.381553
+Teaching Data Acquisition. An Undergraduate Experiment in the Advanced Analytical Chemistry Laboratory,"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl, and NaBr + NaCl",0.353181
+Teaching Data Acquisition. An Undergraduate Experiment in the Advanced Analytical Chemistry Laboratory,Peculiarities of the Thermodynamics of Electrolyte Solutions: A Critical Discussion,0.343393
+Teaching Data Acquisition. An Undergraduate Experiment in the Advanced Analytical Chemistry Laboratory,"Reply to Comments by F. Malatesta on<i>J. Chem. Eng. Data</i><b>2009</b>,<i>54</i>, 345−350",0.4427
+Teaching Data Acquisition. An Undergraduate Experiment in the Advanced Analytical Chemistry Laboratory,"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl and NaBr + NaCl",0.415171
+Teaching Data Acquisition. An Undergraduate Experiment in the Advanced Analytical Chemistry Laboratory,Excited-State Processes in Slow Motion: An Experiment in the Undergraduate Laboratory,0.470833
+Teaching Data Acquisition. An Undergraduate Experiment in the Advanced Analytical Chemistry Laboratory,On the relation between activity coefficients and excess gibbs energy functions,0.264163
+Teaching Data Acquisition. An Undergraduate Experiment in the Advanced Analytical Chemistry Laboratory,The Effect of Diffusion Due to a Temperature Gradient on the Measurement of the N2O4-NO2 Equilibrium Constant,0.329739
+Teaching Data Acquisition. An Undergraduate Experiment in the Advanced Analytical Chemistry Laboratory,"Ionic Liquids in Chemical Analysis, CRC Press, 2009 a Compendium of Knowledge on ILs that Goes Well Beyond the Analytical Field",0.345076
+Teaching Data Acquisition. An Undergraduate Experiment in the Advanced Analytical Chemistry Laboratory,On the measurement of the junction potential between two aqueous single electrolyte solutions,0.41711
+Analysis of Diblock Copolymers of Poly(α-methylstyrene)-<i>b</i><i>lock</i>-polystyrene by Mass Spectrometry,Determination of the activity of H<sup>+</sup> ions within and beyond the pH meter range,0.15966
+Analysis of Diblock Copolymers of Poly(α-methylstyrene)-<i>b</i><i>lock</i>-polystyrene by Mass Spectrometry,"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl, and NaBr + NaCl",0.173694
+Analysis of Diblock Copolymers of Poly(α-methylstyrene)-<i>b</i><i>lock</i>-polystyrene by Mass Spectrometry,Peculiarities of the Thermodynamics of Electrolyte Solutions: A Critical Discussion,0.302469
+Analysis of Diblock Copolymers of Poly(α-methylstyrene)-<i>b</i><i>lock</i>-polystyrene by Mass Spectrometry,"Reply to Comments by F. Malatesta on<i>J. Chem. Eng. Data</i><b>2009</b>,<i>54</i>, 345−350",0.326838
+Analysis of Diblock Copolymers of Poly(α-methylstyrene)-<i>b</i><i>lock</i>-polystyrene by Mass Spectrometry,"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl and NaBr + NaCl",0.248127
+Analysis of Diblock Copolymers of Poly(α-methylstyrene)-<i>b</i><i>lock</i>-polystyrene by Mass Spectrometry,Excited-State Processes in Slow Motion: An Experiment in the Undergraduate Laboratory,0.262163
+Analysis of Diblock Copolymers of Poly(α-methylstyrene)-<i>b</i><i>lock</i>-polystyrene by Mass Spectrometry,On the relation between activity coefficients and excess gibbs energy functions,0.360988
+Analysis of Diblock Copolymers of Poly(α-methylstyrene)-<i>b</i><i>lock</i>-polystyrene by Mass Spectrometry,The Effect of Diffusion Due to a Temperature Gradient on the Measurement of the N2O4-NO2 Equilibrium Constant,0.244987
+Analysis of Diblock Copolymers of Poly(α-methylstyrene)-<i>b</i><i>lock</i>-polystyrene by Mass Spectrometry,"Ionic Liquids in Chemical Analysis, CRC Press, 2009 a Compendium of Knowledge on ILs that Goes Well Beyond the Analytical Field",0.275601
+Analysis of Diblock Copolymers of Poly(α-methylstyrene)-<i>b</i><i>lock</i>-polystyrene by Mass Spectrometry,On the measurement of the junction potential between two aqueous single electrolyte solutions,0.200556
+Determination of the activity of H<sup>+</sup> ions within and beyond the pH meter range,"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl, and NaBr + NaCl",0.827598
+Determination of the activity of H<sup>+</sup> ions within and beyond the pH meter range,Peculiarities of the Thermodynamics of Electrolyte Solutions: A Critical Discussion,0.717392
+Determination of the activity of H<sup>+</sup> ions within and beyond the pH meter range,"Reply to Comments by F. Malatesta on<i>J. Chem. Eng. Data</i><b>2009</b>,<i>54</i>, 345−350",0.373555
+Determination of the activity of H<sup>+</sup> ions within and beyond the pH meter range,"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl and NaBr + NaCl",0.699188
+Determination of the activity of H<sup>+</sup> ions within and beyond the pH meter range,Excited-State Processes in Slow Motion: An Experiment in the Undergraduate Laboratory,0.230373
+Determination of the activity of H<sup>+</sup> ions within and beyond the pH meter range,On the relation between activity coefficients and excess gibbs energy functions,0.538538
+Determination of the activity of H<sup>+</sup> ions within and beyond the pH meter range,The Effect of Diffusion Due to a Temperature Gradient on the Measurement of the N2O4-NO2 Equilibrium Constant,0.330521
+Determination of the activity of H<sup>+</sup> ions within and beyond the pH meter range,"Ionic Liquids in Chemical Analysis, CRC Press, 2009 a Compendium of Knowledge on ILs that Goes Well Beyond the Analytical Field",0.569207
+Determination of the activity of H<sup>+</sup> ions within and beyond the pH meter range,On the measurement of the junction potential between two aqueous single electrolyte solutions,0.603045
+"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl, and NaBr + NaCl",Peculiarities of the Thermodynamics of Electrolyte Solutions: A Critical Discussion,0.735704
+"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl, and NaBr + NaCl","Reply to Comments by F. Malatesta on<i>J. Chem. Eng. Data</i><b>2009</b>,<i>54</i>, 345−350",0.381167
+"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl, and NaBr + NaCl","Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl and NaBr + NaCl",0.765372
+"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl, and NaBr + NaCl",Excited-State Processes in Slow Motion: An Experiment in the Undergraduate Laboratory,0.205306
+"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl, and NaBr + NaCl",On the relation between activity coefficients and excess gibbs energy functions,0.602201
+"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl, and NaBr + NaCl",The Effect of Diffusion Due to a Temperature Gradient on the Measurement of the N2O4-NO2 Equilibrium Constant,0.396016
+"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl, and NaBr + NaCl","Ionic Liquids in Chemical Analysis, CRC Press, 2009 a Compendium of Knowledge on ILs that Goes Well Beyond the Analytical Field",0.589889
+"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl, and NaBr + NaCl",On the measurement of the junction potential between two aqueous single electrolyte solutions,0.700148
+Peculiarities of the Thermodynamics of Electrolyte Solutions: A Critical Discussion,"Reply to Comments by F. Malatesta on<i>J. Chem. Eng. Data</i><b>2009</b>,<i>54</i>, 345−350",0.394103
+Peculiarities of the Thermodynamics of Electrolyte Solutions: A Critical Discussion,"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl and NaBr + NaCl",0.725351
+Peculiarities of the Thermodynamics of Electrolyte Solutions: A Critical Discussion,Excited-State Processes in Slow Motion: An Experiment in the Undergraduate Laboratory,0.192144
+Peculiarities of the Thermodynamics of Electrolyte Solutions: A Critical Discussion,On the relation between activity coefficients and excess gibbs energy functions,0.780612
+Peculiarities of the Thermodynamics of Electrolyte Solutions: A Critical Discussion,The Effect of Diffusion Due to a Temperature Gradient on the Measurement of the N2O4-NO2 Equilibrium Constant,0.434325
+Peculiarities of the Thermodynamics of Electrolyte Solutions: A Critical Discussion,"Ionic Liquids in Chemical Analysis, CRC Press, 2009 a Compendium of Knowledge on ILs that Goes Well Beyond the Analytical Field",0.637246
+Peculiarities of the Thermodynamics of Electrolyte Solutions: A Critical Discussion,On the measurement of the junction potential between two aqueous single electrolyte solutions,0.541778
+"Reply to Comments by F. Malatesta on<i>J. Chem. Eng. Data</i><b>2009</b>,<i>54</i>, 345−350","Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl and NaBr + NaCl",0.72679
+"Reply to Comments by F. Malatesta on<i>J. Chem. Eng. Data</i><b>2009</b>,<i>54</i>, 345−350",Excited-State Processes in Slow Motion: An Experiment in the Undergraduate Laboratory,0.430049
+"Reply to Comments by F. Malatesta on<i>J. Chem. Eng. Data</i><b>2009</b>,<i>54</i>, 345−350",On the relation between activity coefficients and excess gibbs energy functions,0.413703
+"Reply to Comments by F. Malatesta on<i>J. Chem. Eng. Data</i><b>2009</b>,<i>54</i>, 345−350",The Effect of Diffusion Due to a Temperature Gradient on the Measurement of the N2O4-NO2 Equilibrium Constant,0.308046
+"Reply to Comments by F. Malatesta on<i>J. Chem. Eng. Data</i><b>2009</b>,<i>54</i>, 345−350","Ionic Liquids in Chemical Analysis, CRC Press, 2009 a Compendium of Knowledge on ILs that Goes Well Beyond the Analytical Field",0.387012
+"Reply to Comments by F. Malatesta on<i>J. Chem. Eng. Data</i><b>2009</b>,<i>54</i>, 345−350",On the measurement of the junction potential between two aqueous single electrolyte solutions,0.384107
+"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl and NaBr + NaCl",Excited-State Processes in Slow Motion: An Experiment in the Undergraduate Laboratory,0.26506
+"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl and NaBr + NaCl",On the relation between activity coefficients and excess gibbs energy functions,0.595434
+"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl and NaBr + NaCl",The Effect of Diffusion Due to a Temperature Gradient on the Measurement of the N2O4-NO2 Equilibrium Constant,0.391789
+"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl and NaBr + NaCl","Ionic Liquids in Chemical Analysis, CRC Press, 2009 a Compendium of Knowledge on ILs that Goes Well Beyond the Analytical Field",0.563207
+"Measurement of Ion Activity Coefficients in Aqueous Solutions of Mixed Electrolyte with a Common Ion: NaNO<sub>3</sub> + KNO<sub>3</sub>, NaCl + KCl and NaBr + NaCl",On the measurement of the junction potential between two aqueous single electrolyte solutions,0.528357
+Excited-State Processes in Slow Motion: An Experiment in the Undergraduate Laboratory,On the relation between activity coefficients and excess gibbs energy functions,0.274051
+Excited-State Processes in Slow Motion: An Experiment in the Undergraduate Laboratory,The Effect of Diffusion Due to a Temperature Gradient on the Measurement of the N2O4-NO2 Equilibrium Constant,0.252082
+Excited-State Processes in Slow Motion: An Experiment in the Undergraduate Laboratory,"Ionic Liquids in Chemical Analysis, CRC Press, 2009 a Compendium of Knowledge on ILs that Goes Well Beyond the Analytical Field",0.257041
+Excited-State Processes in Slow Motion: An Experiment in the Undergraduate Laboratory,On the measurement of the junction potential between two aqueous single electrolyte solutions,0.274345
+On the relation between activity coefficients and excess gibbs energy functions,The Effect of Diffusion Due to a Temperature Gradient on the Measurement of the N2O4-NO2 Equilibrium Constant,0.389118
+On the relation between activity coefficients and excess gibbs energy functions,"Ionic Liquids in Chemical Analysis, CRC Press, 2009 a Compendium of Knowledge on ILs that Goes Well Beyond the Analytical Field",0.460842
+On the relation between activity coefficients and excess gibbs energy functions,On the measurement of the junction potential between two aqueous single electrolyte solutions,0.426669
+The Effect of Diffusion Due to a Temperature Gradient on the Measurement of the N2O4-NO2 Equilibrium Constant,"Ionic Liquids in Chemical Analysis, CRC Press, 2009 a Compendium of Knowledge on ILs that Goes Well Beyond the Analytical Field",0.358254
+The Effect of Diffusion Due to a Temperature Gradient on the Measurement of the N2O4-NO2 Equilibrium Constant,On the measurement of the junction potential between two aqueous single electrolyte solutions,0.362506
+"Ionic Liquids in Chemical Analysis, CRC Press, 2009 a Compendium of Knowledge on ILs that Goes Well Beyond the Analytical Field",On the measurement of the junction potential between two aqueous single electrolyte solutions,0.453281

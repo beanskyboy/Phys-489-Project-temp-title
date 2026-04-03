@@ -1,37 +1,29 @@
-abstract_i,abstract_j,cosine_similarity
-0,1,0.016948
-0,2,0.081342
-0,3,0.018702
-0,4,0.07359
-0,5,0.281678
-0,6,0.040045
-0,7,0.369104
-0,8,-0.001823
-1,2,0.505404
-1,3,0.097737
-1,4,-0.053568
-1,5,-0.035463
-1,6,0.862009
-1,7,0.020373
-1,8,0.690679
-2,3,-0.002828
-2,4,-0.073383
-2,5,-0.03333
-2,6,0.482298
-2,7,0.00406
-2,8,0.475825
-3,4,0.007573
-3,5,0.029414
-3,6,0.092986
-3,7,0.060325
-3,8,0.091008
-4,5,0.248695
-4,6,-0.106753
-4,7,0.276077
-4,8,-0.119079
-5,6,-0.018761
-5,7,0.38299
-5,8,-0.04527
-6,7,0.051496
-6,8,0.705601
-7,8,0.014043
+title_i,title_j,cosine_similarity
+Improved methods for detecting gravitational waves associated with short gamma-ray bursts,Peer Information and Substance Use Decision Making in Street‐Involved Youth,0.016948
+Improved methods for detecting gravitational waves associated with short gamma-ray bursts,You’ve Got E-Mail: A Pilot Study Examining the Feasibility and Impact of a Group-Based Technology-Training Intervention Among Older Adults Living in Residential Care,-0.035463
+Improved methods for detecting gravitational waves associated with short gamma-ray bursts,A Qualitative Study of the Lived Treatment Experiences of Women With an Eating Disorder and Comorbid Borderline Personality Disorder,-0.053568
+Improved methods for detecting gravitational waves associated with short gamma-ray bursts,THE ALFALFA H I ABSORPTION PILOT SURVEY: A WIDE-AREA BLIND DAMPED Lyα SYSTEM SURVEY OF THE LOCAL UNIVERSE,0.505404
+Improved methods for detecting gravitational waves associated with short gamma-ray bursts,"Say you’ll be there: Associations between observed verbal responses, friendship quality, and perceptions of support in young adult friendships",0.020373
+Improved methods for detecting gravitational waves associated with short gamma-ray bursts,Robust storm surge forecasts for early warning system: a machine learning approach using Monte Carlo Bayesian model selection algorithm,0.097737
+Improved methods for detecting gravitational waves associated with short gamma-ray bursts,From upper limits to detection: continuous gravitational waves in the advanced detector era,0.690679
+Peer Information and Substance Use Decision Making in Street‐Involved Youth,You’ve Got E-Mail: A Pilot Study Examining the Feasibility and Impact of a Group-Based Technology-Training Intervention Among Older Adults Living in Residential Care,0.281678
+Peer Information and Substance Use Decision Making in Street‐Involved Youth,A Qualitative Study of the Lived Treatment Experiences of Women With an Eating Disorder and Comorbid Borderline Personality Disorder,0.07359
+Peer Information and Substance Use Decision Making in Street‐Involved Youth,THE ALFALFA H I ABSORPTION PILOT SURVEY: A WIDE-AREA BLIND DAMPED Lyα SYSTEM SURVEY OF THE LOCAL UNIVERSE,0.081342
+Peer Information and Substance Use Decision Making in Street‐Involved Youth,"Say you’ll be there: Associations between observed verbal responses, friendship quality, and perceptions of support in young adult friendships",0.369104
+Peer Information and Substance Use Decision Making in Street‐Involved Youth,Robust storm surge forecasts for early warning system: a machine learning approach using Monte Carlo Bayesian model selection algorithm,0.018702
+Peer Information and Substance Use Decision Making in Street‐Involved Youth,From upper limits to detection: continuous gravitational waves in the advanced detector era,-0.001823
+You’ve Got E-Mail: A Pilot Study Examining the Feasibility and Impact of a Group-Based Technology-Training Intervention Among Older Adults Living in Residential Care,A Qualitative Study of the Lived Treatment Experiences of Women With an Eating Disorder and Comorbid Borderline Personality Disorder,0.248695
+You’ve Got E-Mail: A Pilot Study Examining the Feasibility and Impact of a Group-Based Technology-Training Intervention Among Older Adults Living in Residential Care,THE ALFALFA H I ABSORPTION PILOT SURVEY: A WIDE-AREA BLIND DAMPED Lyα SYSTEM SURVEY OF THE LOCAL UNIVERSE,-0.03333
+You’ve Got E-Mail: A Pilot Study Examining the Feasibility and Impact of a Group-Based Technology-Training Intervention Among Older Adults Living in Residential Care,"Say you’ll be there: Associations between observed verbal responses, friendship quality, and perceptions of support in young adult friendships",0.38299
+You’ve Got E-Mail: A Pilot Study Examining the Feasibility and Impact of a Group-Based Technology-Training Intervention Among Older Adults Living in Residential Care,Robust storm surge forecasts for early warning system: a machine learning approach using Monte Carlo Bayesian model selection algorithm,0.029414
+You’ve Got E-Mail: A Pilot Study Examining the Feasibility and Impact of a Group-Based Technology-Training Intervention Among Older Adults Living in Residential Care,From upper limits to detection: continuous gravitational waves in the advanced detector era,-0.04527
+A Qualitative Study of the Lived Treatment Experiences of Women With an Eating Disorder and Comorbid Borderline Personality Disorder,THE ALFALFA H I ABSORPTION PILOT SURVEY: A WIDE-AREA BLIND DAMPED Lyα SYSTEM SURVEY OF THE LOCAL UNIVERSE,-0.073383
+A Qualitative Study of the Lived Treatment Experiences of Women With an Eating Disorder and Comorbid Borderline Personality Disorder,"Say you’ll be there: Associations between observed verbal responses, friendship quality, and perceptions of support in young adult friendships",0.276077
+A Qualitative Study of the Lived Treatment Experiences of Women With an Eating Disorder and Comorbid Borderline Personality Disorder,Robust storm surge forecasts for early warning system: a machine learning approach using Monte Carlo Bayesian model selection algorithm,0.007573
+A Qualitative Study of the Lived Treatment Experiences of Women With an Eating Disorder and Comorbid Borderline Personality Disorder,From upper limits to detection: continuous gravitational waves in the advanced detector era,-0.119079
+THE ALFALFA H I ABSORPTION PILOT SURVEY: A WIDE-AREA BLIND DAMPED Lyα SYSTEM SURVEY OF THE LOCAL UNIVERSE,"Say you’ll be there: Associations between observed verbal responses, friendship quality, and perceptions of support in young adult friendships",0.00406
+THE ALFALFA H I ABSORPTION PILOT SURVEY: A WIDE-AREA BLIND DAMPED Lyα SYSTEM SURVEY OF THE LOCAL UNIVERSE,Robust storm surge forecasts for early warning system: a machine learning approach using Monte Carlo Bayesian model selection algorithm,-0.002828
+THE ALFALFA H I ABSORPTION PILOT SURVEY: A WIDE-AREA BLIND DAMPED Lyα SYSTEM SURVEY OF THE LOCAL UNIVERSE,From upper limits to detection: continuous gravitational waves in the advanced detector era,0.475825
+"Say you’ll be there: Associations between observed verbal responses, friendship quality, and perceptions of support in young adult friendships",Robust storm surge forecasts for early warning system: a machine learning approach using Monte Carlo Bayesian model selection algorithm,0.060325
+"Say you’ll be there: Associations between observed verbal responses, friendship quality, and perceptions of support in young adult friendships",From upper limits to detection: continuous gravitational waves in the advanced detector era,0.014043
+Robust storm surge forecasts for early warning system: a machine learning approach using Monte Carlo Bayesian model selection algorithm,From upper limits to detection: continuous gravitational waves in the advanced detector era,0.091008

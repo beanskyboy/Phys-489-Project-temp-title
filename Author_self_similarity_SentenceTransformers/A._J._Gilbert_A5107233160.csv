@@ -1,0 +1,172 @@
+title_i,title_j,cosine_similarity
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,The CHIME Fast Radio Burst Project: System Overview,0.786078
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,Analysis of CLL Voltage-Output ResonantConverters Using Describing Functions,-0.069154
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,"ICE: A Scalable, Low-Cost FPGA-Based Telescope Signal Processing and Networking System",0.462928
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,Normalized Analysis and Design of LCC Resonant Converters,-0.030897
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,The Simons Array CMB polarization experiment,0.490316
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,Holographic beam mapping of the CHIME pathfinder array,0.692781
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,Self-Oscillating Control Methods for the LCC Current-Output Resonant Converter,-0.028077
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,A method of measuring loss distribution in electrical machines,0.048497
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,Rapid design of LCC current-output resonant converters with reduced electrical stresses,-0.02915
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,Design of an LCC current-output resonant converter for use as a constant current source,0.04058
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,Phase Locked Loop (PLL) based self-oscillating controller for LCC resonant converters,0.022778
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,EKF-based output-voltage regulation of 3/sup rd/-order LCC resonant converters subject to load variations,-0.012078
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,Power-factor control of the LCC current-output resonant converter,-0.033527
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.984555
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,"Analysis, design and control of LCC resonant power converters",-0.015669
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,EKF based feedback control of 3rd order LCC resonant converters with significant load variations,-0.012337
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,RapidDesign ofLCC Current-output Resonant Converters withReduced Electrical Stresses,-0.015317
+CHIME/FRB Discovery of Eight New Repeating Fast Radio Burst Sources,Digital frequency multiplexing with sub-Kelvin SQUIDs,0.298784
+The CHIME Fast Radio Burst Project: System Overview,Analysis of CLL Voltage-Output ResonantConverters Using Describing Functions,-0.08661
+The CHIME Fast Radio Burst Project: System Overview,"ICE: A Scalable, Low-Cost FPGA-Based Telescope Signal Processing and Networking System",0.568564
+The CHIME Fast Radio Burst Project: System Overview,Normalized Analysis and Design of LCC Resonant Converters,-0.021493
+The CHIME Fast Radio Burst Project: System Overview,The Simons Array CMB polarization experiment,0.502752
+The CHIME Fast Radio Burst Project: System Overview,Holographic beam mapping of the CHIME pathfinder array,0.722811
+The CHIME Fast Radio Burst Project: System Overview,Self-Oscillating Control Methods for the LCC Current-Output Resonant Converter,-0.053429
+The CHIME Fast Radio Burst Project: System Overview,A method of measuring loss distribution in electrical machines,0.058794
+The CHIME Fast Radio Burst Project: System Overview,Rapid design of LCC current-output resonant converters with reduced electrical stresses,-0.013878
+The CHIME Fast Radio Burst Project: System Overview,Design of an LCC current-output resonant converter for use as a constant current source,-0.009071
+The CHIME Fast Radio Burst Project: System Overview,Phase Locked Loop (PLL) based self-oscillating controller for LCC resonant converters,0.02198
+The CHIME Fast Radio Burst Project: System Overview,EKF-based output-voltage regulation of 3/sup rd/-order LCC resonant converters subject to load variations,-0.064999
+The CHIME Fast Radio Burst Project: System Overview,Power-factor control of the LCC current-output resonant converter,-0.086874
+The CHIME Fast Radio Burst Project: System Overview,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.788172
+The CHIME Fast Radio Burst Project: System Overview,"Analysis, design and control of LCC resonant power converters",-0.034744
+The CHIME Fast Radio Burst Project: System Overview,EKF based feedback control of 3rd order LCC resonant converters with significant load variations,-0.044836
+The CHIME Fast Radio Burst Project: System Overview,RapidDesign ofLCC Current-output Resonant Converters withReduced Electrical Stresses,-0.021617
+The CHIME Fast Radio Burst Project: System Overview,Digital frequency multiplexing with sub-Kelvin SQUIDs,0.350544
+Analysis of CLL Voltage-Output ResonantConverters Using Describing Functions,"ICE: A Scalable, Low-Cost FPGA-Based Telescope Signal Processing and Networking System",0.017268
+Analysis of CLL Voltage-Output ResonantConverters Using Describing Functions,Normalized Analysis and Design of LCC Resonant Converters,0.750256
+Analysis of CLL Voltage-Output ResonantConverters Using Describing Functions,The Simons Array CMB polarization experiment,-0.02617
+Analysis of CLL Voltage-Output ResonantConverters Using Describing Functions,Holographic beam mapping of the CHIME pathfinder array,-0.056872
+Analysis of CLL Voltage-Output ResonantConverters Using Describing Functions,Self-Oscillating Control Methods for the LCC Current-Output Resonant Converter,0.644573
+Analysis of CLL Voltage-Output ResonantConverters Using Describing Functions,A method of measuring loss distribution in electrical machines,0.242591
+Analysis of CLL Voltage-Output ResonantConverters Using Describing Functions,Rapid design of LCC current-output resonant converters with reduced electrical stresses,0.662149
+Analysis of CLL Voltage-Output ResonantConverters Using Describing Functions,Design of an LCC current-output resonant converter for use as a constant current source,0.5631
+Analysis of CLL Voltage-Output ResonantConverters Using Describing Functions,Phase Locked Loop (PLL) based self-oscillating controller for LCC resonant converters,0.596338
+Analysis of CLL Voltage-Output ResonantConverters Using Describing Functions,EKF-based output-voltage regulation of 3/sup rd/-order LCC resonant converters subject to load variations,0.504779
+Analysis of CLL Voltage-Output ResonantConverters Using Describing Functions,Power-factor control of the LCC current-output resonant converter,0.640651
+Analysis of CLL Voltage-Output ResonantConverters Using Describing Functions,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,-0.077725
+Analysis of CLL Voltage-Output ResonantConverters Using Describing Functions,"Analysis, design and control of LCC resonant power converters",0.633129
+Analysis of CLL Voltage-Output ResonantConverters Using Describing Functions,EKF based feedback control of 3rd order LCC resonant converters with significant load variations,-0.020214
+Analysis of CLL Voltage-Output ResonantConverters Using Describing Functions,RapidDesign ofLCC Current-output Resonant Converters withReduced Electrical Stresses,0.650523
+Analysis of CLL Voltage-Output ResonantConverters Using Describing Functions,Digital frequency multiplexing with sub-Kelvin SQUIDs,0.050727
+"ICE: A Scalable, Low-Cost FPGA-Based Telescope Signal Processing and Networking System",Normalized Analysis and Design of LCC Resonant Converters,0.018572
+"ICE: A Scalable, Low-Cost FPGA-Based Telescope Signal Processing and Networking System",The Simons Array CMB polarization experiment,0.550382
+"ICE: A Scalable, Low-Cost FPGA-Based Telescope Signal Processing and Networking System",Holographic beam mapping of the CHIME pathfinder array,0.473845
+"ICE: A Scalable, Low-Cost FPGA-Based Telescope Signal Processing and Networking System",Self-Oscillating Control Methods for the LCC Current-Output Resonant Converter,0.02295
+"ICE: A Scalable, Low-Cost FPGA-Based Telescope Signal Processing and Networking System",A method of measuring loss distribution in electrical machines,0.106846
+"ICE: A Scalable, Low-Cost FPGA-Based Telescope Signal Processing and Networking System",Rapid design of LCC current-output resonant converters with reduced electrical stresses,0.036348
+"ICE: A Scalable, Low-Cost FPGA-Based Telescope Signal Processing and Networking System",Design of an LCC current-output resonant converter for use as a constant current source,0.033781
+"ICE: A Scalable, Low-Cost FPGA-Based Telescope Signal Processing and Networking System",Phase Locked Loop (PLL) based self-oscillating controller for LCC resonant converters,0.103359
+"ICE: A Scalable, Low-Cost FPGA-Based Telescope Signal Processing and Networking System",EKF-based output-voltage regulation of 3/sup rd/-order LCC resonant converters subject to load variations,0.028249
+"ICE: A Scalable, Low-Cost FPGA-Based Telescope Signal Processing and Networking System",Power-factor control of the LCC current-output resonant converter,-0.015235
+"ICE: A Scalable, Low-Cost FPGA-Based Telescope Signal Processing and Networking System",CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.458523
+"ICE: A Scalable, Low-Cost FPGA-Based Telescope Signal Processing and Networking System","Analysis, design and control of LCC resonant power converters",0.004031
+"ICE: A Scalable, Low-Cost FPGA-Based Telescope Signal Processing and Networking System",EKF based feedback control of 3rd order LCC resonant converters with significant load variations,-0.049211
+"ICE: A Scalable, Low-Cost FPGA-Based Telescope Signal Processing and Networking System",RapidDesign ofLCC Current-output Resonant Converters withReduced Electrical Stresses,0.070286
+"ICE: A Scalable, Low-Cost FPGA-Based Telescope Signal Processing and Networking System",Digital frequency multiplexing with sub-Kelvin SQUIDs,0.600153
+Normalized Analysis and Design of LCC Resonant Converters,The Simons Array CMB polarization experiment,-0.025584
+Normalized Analysis and Design of LCC Resonant Converters,Holographic beam mapping of the CHIME pathfinder array,-0.02138
+Normalized Analysis and Design of LCC Resonant Converters,Self-Oscillating Control Methods for the LCC Current-Output Resonant Converter,0.680954
+Normalized Analysis and Design of LCC Resonant Converters,A method of measuring loss distribution in electrical machines,0.224358
+Normalized Analysis and Design of LCC Resonant Converters,Rapid design of LCC current-output resonant converters with reduced electrical stresses,0.82354
+Normalized Analysis and Design of LCC Resonant Converters,Design of an LCC current-output resonant converter for use as a constant current source,0.642231
+Normalized Analysis and Design of LCC Resonant Converters,Phase Locked Loop (PLL) based self-oscillating controller for LCC resonant converters,0.687534
+Normalized Analysis and Design of LCC Resonant Converters,EKF-based output-voltage regulation of 3/sup rd/-order LCC resonant converters subject to load variations,0.523279
+Normalized Analysis and Design of LCC Resonant Converters,Power-factor control of the LCC current-output resonant converter,0.666908
+Normalized Analysis and Design of LCC Resonant Converters,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,-0.035511
+Normalized Analysis and Design of LCC Resonant Converters,"Analysis, design and control of LCC resonant power converters",0.649394
+Normalized Analysis and Design of LCC Resonant Converters,EKF based feedback control of 3rd order LCC resonant converters with significant load variations,0.017496
+Normalized Analysis and Design of LCC Resonant Converters,RapidDesign ofLCC Current-output Resonant Converters withReduced Electrical Stresses,0.788738
+Normalized Analysis and Design of LCC Resonant Converters,Digital frequency multiplexing with sub-Kelvin SQUIDs,-0.001261
+The Simons Array CMB polarization experiment,Holographic beam mapping of the CHIME pathfinder array,0.516237
+The Simons Array CMB polarization experiment,Self-Oscillating Control Methods for the LCC Current-Output Resonant Converter,-0.003226
+The Simons Array CMB polarization experiment,A method of measuring loss distribution in electrical machines,0.038949
+The Simons Array CMB polarization experiment,Rapid design of LCC current-output resonant converters with reduced electrical stresses,-0.014218
+The Simons Array CMB polarization experiment,Design of an LCC current-output resonant converter for use as a constant current source,0.031479
+The Simons Array CMB polarization experiment,Phase Locked Loop (PLL) based self-oscillating controller for LCC resonant converters,0.077233
+The Simons Array CMB polarization experiment,EKF-based output-voltage regulation of 3/sup rd/-order LCC resonant converters subject to load variations,0.005078
+The Simons Array CMB polarization experiment,Power-factor control of the LCC current-output resonant converter,-0.059563
+The Simons Array CMB polarization experiment,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.504474
+The Simons Array CMB polarization experiment,"Analysis, design and control of LCC resonant power converters",-0.064842
+The Simons Array CMB polarization experiment,EKF based feedback control of 3rd order LCC resonant converters with significant load variations,-0.055277
+The Simons Array CMB polarization experiment,RapidDesign ofLCC Current-output Resonant Converters withReduced Electrical Stresses,-0.009404
+The Simons Array CMB polarization experiment,Digital frequency multiplexing with sub-Kelvin SQUIDs,0.618272
+Holographic beam mapping of the CHIME pathfinder array,Self-Oscillating Control Methods for the LCC Current-Output Resonant Converter,-0.024959
+Holographic beam mapping of the CHIME pathfinder array,A method of measuring loss distribution in electrical machines,0.079181
+Holographic beam mapping of the CHIME pathfinder array,Rapid design of LCC current-output resonant converters with reduced electrical stresses,-0.045381
+Holographic beam mapping of the CHIME pathfinder array,Design of an LCC current-output resonant converter for use as a constant current source,0.006972
+Holographic beam mapping of the CHIME pathfinder array,Phase Locked Loop (PLL) based self-oscillating controller for LCC resonant converters,0.014463
+Holographic beam mapping of the CHIME pathfinder array,EKF-based output-voltage regulation of 3/sup rd/-order LCC resonant converters subject to load variations,-0.040277
+Holographic beam mapping of the CHIME pathfinder array,Power-factor control of the LCC current-output resonant converter,-0.061061
+Holographic beam mapping of the CHIME pathfinder array,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.688259
+Holographic beam mapping of the CHIME pathfinder array,"Analysis, design and control of LCC resonant power converters",-0.049386
+Holographic beam mapping of the CHIME pathfinder array,EKF based feedback control of 3rd order LCC resonant converters with significant load variations,-0.055968
+Holographic beam mapping of the CHIME pathfinder array,RapidDesign ofLCC Current-output Resonant Converters withReduced Electrical Stresses,-0.049923
+Holographic beam mapping of the CHIME pathfinder array,Digital frequency multiplexing with sub-Kelvin SQUIDs,0.285517
+Self-Oscillating Control Methods for the LCC Current-Output Resonant Converter,A method of measuring loss distribution in electrical machines,0.128013
+Self-Oscillating Control Methods for the LCC Current-Output Resonant Converter,Rapid design of LCC current-output resonant converters with reduced electrical stresses,0.766566
+Self-Oscillating Control Methods for the LCC Current-Output Resonant Converter,Design of an LCC current-output resonant converter for use as a constant current source,0.847675
+Self-Oscillating Control Methods for the LCC Current-Output Resonant Converter,Phase Locked Loop (PLL) based self-oscillating controller for LCC resonant converters,0.78989
+Self-Oscillating Control Methods for the LCC Current-Output Resonant Converter,EKF-based output-voltage regulation of 3/sup rd/-order LCC resonant converters subject to load variations,0.648654
+Self-Oscillating Control Methods for the LCC Current-Output Resonant Converter,Power-factor control of the LCC current-output resonant converter,0.87858
+Self-Oscillating Control Methods for the LCC Current-Output Resonant Converter,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,-0.034246
+Self-Oscillating Control Methods for the LCC Current-Output Resonant Converter,"Analysis, design and control of LCC resonant power converters",0.582668
+Self-Oscillating Control Methods for the LCC Current-Output Resonant Converter,EKF based feedback control of 3rd order LCC resonant converters with significant load variations,-0.041599
+Self-Oscillating Control Methods for the LCC Current-Output Resonant Converter,RapidDesign ofLCC Current-output Resonant Converters withReduced Electrical Stresses,0.71118
+Self-Oscillating Control Methods for the LCC Current-Output Resonant Converter,Digital frequency multiplexing with sub-Kelvin SQUIDs,0.006509
+A method of measuring loss distribution in electrical machines,Rapid design of LCC current-output resonant converters with reduced electrical stresses,0.198603
+A method of measuring loss distribution in electrical machines,Design of an LCC current-output resonant converter for use as a constant current source,0.122943
+A method of measuring loss distribution in electrical machines,Phase Locked Loop (PLL) based self-oscillating controller for LCC resonant converters,0.201668
+A method of measuring loss distribution in electrical machines,EKF-based output-voltage regulation of 3/sup rd/-order LCC resonant converters subject to load variations,0.238211
+A method of measuring loss distribution in electrical machines,Power-factor control of the LCC current-output resonant converter,0.131907
+A method of measuring loss distribution in electrical machines,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.05523
+A method of measuring loss distribution in electrical machines,"Analysis, design and control of LCC resonant power converters",0.223179
+A method of measuring loss distribution in electrical machines,EKF based feedback control of 3rd order LCC resonant converters with significant load variations,0.05317
+A method of measuring loss distribution in electrical machines,RapidDesign ofLCC Current-output Resonant Converters withReduced Electrical Stresses,0.249506
+A method of measuring loss distribution in electrical machines,Digital frequency multiplexing with sub-Kelvin SQUIDs,0.11073
+Rapid design of LCC current-output resonant converters with reduced electrical stresses,Design of an LCC current-output resonant converter for use as a constant current source,0.779298
+Rapid design of LCC current-output resonant converters with reduced electrical stresses,Phase Locked Loop (PLL) based self-oscillating controller for LCC resonant converters,0.70771
+Rapid design of LCC current-output resonant converters with reduced electrical stresses,EKF-based output-voltage regulation of 3/sup rd/-order LCC resonant converters subject to load variations,0.533437
+Rapid design of LCC current-output resonant converters with reduced electrical stresses,Power-factor control of the LCC current-output resonant converter,0.738179
+Rapid design of LCC current-output resonant converters with reduced electrical stresses,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,-0.031171
+Rapid design of LCC current-output resonant converters with reduced electrical stresses,"Analysis, design and control of LCC resonant power converters",0.633066
+Rapid design of LCC current-output resonant converters with reduced electrical stresses,EKF based feedback control of 3rd order LCC resonant converters with significant load variations,-0.041519
+Rapid design of LCC current-output resonant converters with reduced electrical stresses,RapidDesign ofLCC Current-output Resonant Converters withReduced Electrical Stresses,0.915282
+Rapid design of LCC current-output resonant converters with reduced electrical stresses,Digital frequency multiplexing with sub-Kelvin SQUIDs,0.060225
+Design of an LCC current-output resonant converter for use as a constant current source,Phase Locked Loop (PLL) based self-oscillating controller for LCC resonant converters,0.725215
+Design of an LCC current-output resonant converter for use as a constant current source,EKF-based output-voltage regulation of 3/sup rd/-order LCC resonant converters subject to load variations,0.498624
+Design of an LCC current-output resonant converter for use as a constant current source,Power-factor control of the LCC current-output resonant converter,0.778433
+Design of an LCC current-output resonant converter for use as a constant current source,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.035176
+Design of an LCC current-output resonant converter for use as a constant current source,"Analysis, design and control of LCC resonant power converters",0.536848
+Design of an LCC current-output resonant converter for use as a constant current source,EKF based feedback control of 3rd order LCC resonant converters with significant load variations,-0.014372
+Design of an LCC current-output resonant converter for use as a constant current source,RapidDesign ofLCC Current-output Resonant Converters withReduced Electrical Stresses,0.734034
+Design of an LCC current-output resonant converter for use as a constant current source,Digital frequency multiplexing with sub-Kelvin SQUIDs,0.057567
+Phase Locked Loop (PLL) based self-oscillating controller for LCC resonant converters,EKF-based output-voltage regulation of 3/sup rd/-order LCC resonant converters subject to load variations,0.61441
+Phase Locked Loop (PLL) based self-oscillating controller for LCC resonant converters,Power-factor control of the LCC current-output resonant converter,0.749132
+Phase Locked Loop (PLL) based self-oscillating controller for LCC resonant converters,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,0.013577
+Phase Locked Loop (PLL) based self-oscillating controller for LCC resonant converters,"Analysis, design and control of LCC resonant power converters",0.583454
+Phase Locked Loop (PLL) based self-oscillating controller for LCC resonant converters,EKF based feedback control of 3rd order LCC resonant converters with significant load variations,0.002491
+Phase Locked Loop (PLL) based self-oscillating controller for LCC resonant converters,RapidDesign ofLCC Current-output Resonant Converters withReduced Electrical Stresses,0.655859
+Phase Locked Loop (PLL) based self-oscillating controller for LCC resonant converters,Digital frequency multiplexing with sub-Kelvin SQUIDs,0.105384
+EKF-based output-voltage regulation of 3/sup rd/-order LCC resonant converters subject to load variations,Power-factor control of the LCC current-output resonant converter,0.655071
+EKF-based output-voltage regulation of 3/sup rd/-order LCC resonant converters subject to load variations,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,-0.026888
+EKF-based output-voltage regulation of 3/sup rd/-order LCC resonant converters subject to load variations,"Analysis, design and control of LCC resonant power converters",0.540598
+EKF-based output-voltage regulation of 3/sup rd/-order LCC resonant converters subject to load variations,EKF based feedback control of 3rd order LCC resonant converters with significant load variations,0.016215
+EKF-based output-voltage regulation of 3/sup rd/-order LCC resonant converters subject to load variations,RapidDesign ofLCC Current-output Resonant Converters withReduced Electrical Stresses,0.513853
+EKF-based output-voltage regulation of 3/sup rd/-order LCC resonant converters subject to load variations,Digital frequency multiplexing with sub-Kelvin SQUIDs,0.045014
+Power-factor control of the LCC current-output resonant converter,CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,-0.040476
+Power-factor control of the LCC current-output resonant converter,"Analysis, design and control of LCC resonant power converters",0.599927
+Power-factor control of the LCC current-output resonant converter,EKF based feedback control of 3rd order LCC resonant converters with significant load variations,-0.027647
+Power-factor control of the LCC current-output resonant converter,RapidDesign ofLCC Current-output Resonant Converters withReduced Electrical Stresses,0.70073
+Power-factor control of the LCC current-output resonant converter,Digital frequency multiplexing with sub-Kelvin SQUIDs,-0.018402
+CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,"Analysis, design and control of LCC resonant power converters",-0.022937
+CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,EKF based feedback control of 3rd order LCC resonant converters with significant load variations,-0.0412
+CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,RapidDesign ofLCC Current-output Resonant Converters withReduced Electrical Stresses,-0.013867
+CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources,Digital frequency multiplexing with sub-Kelvin SQUIDs,0.293908
+"Analysis, design and control of LCC resonant power converters",EKF based feedback control of 3rd order LCC resonant converters with significant load variations,-0.079591
+"Analysis, design and control of LCC resonant power converters",RapidDesign ofLCC Current-output Resonant Converters withReduced Electrical Stresses,0.64061
+"Analysis, design and control of LCC resonant power converters",Digital frequency multiplexing with sub-Kelvin SQUIDs,0.008012
+EKF based feedback control of 3rd order LCC resonant converters with significant load variations,RapidDesign ofLCC Current-output Resonant Converters withReduced Electrical Stresses,-0.019393
+EKF based feedback control of 3rd order LCC resonant converters with significant load variations,Digital frequency multiplexing with sub-Kelvin SQUIDs,-0.017884
+RapidDesign ofLCC Current-output Resonant Converters withReduced Electrical Stresses,Digital frequency multiplexing with sub-Kelvin SQUIDs,0.094584

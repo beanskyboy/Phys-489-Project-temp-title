@@ -1,0 +1,16 @@
+title_i,title_j,cosine_similarity
+Monte Carlo calculation of the relative TG-43 dosimetry parameters for the INTRABEAM electronic brachytherapy source,Reference datasets for commissioning of model‐based dose calculation algorithms for electronic brachytherapy,0.720347
+Monte Carlo calculation of the relative TG-43 dosimetry parameters for the INTRABEAM electronic brachytherapy source,Monte Carlo calculation of the TG-43 dosimetry parameters for the INTRABEAM source with spherical applicators,0.732333
+Monte Carlo calculation of the relative TG-43 dosimetry parameters for the INTRABEAM electronic brachytherapy source,Dosimetric impact of physics libraries for electronic brachytherapy Monte Carlo studies,0.522684
+Monte Carlo calculation of the relative TG-43 dosimetry parameters for the INTRABEAM electronic brachytherapy source,In vivo association of 14-3-3 isoforms with mammalian origins of DNA replication,0.021843
+Monte Carlo calculation of the relative TG-43 dosimetry parameters for the INTRABEAM electronic brachytherapy source,Evaluation of the TG‐43 formalism for intraoperative radiotherapy dosimetry in glioblastoma treatment,0.579826
+Reference datasets for commissioning of model‐based dose calculation algorithms for electronic brachytherapy,Monte Carlo calculation of the TG-43 dosimetry parameters for the INTRABEAM source with spherical applicators,0.589432
+Reference datasets for commissioning of model‐based dose calculation algorithms for electronic brachytherapy,Dosimetric impact of physics libraries for electronic brachytherapy Monte Carlo studies,0.624709
+Reference datasets for commissioning of model‐based dose calculation algorithms for electronic brachytherapy,In vivo association of 14-3-3 isoforms with mammalian origins of DNA replication,0.06064
+Reference datasets for commissioning of model‐based dose calculation algorithms for electronic brachytherapy,Evaluation of the TG‐43 formalism for intraoperative radiotherapy dosimetry in glioblastoma treatment,0.53428
+Monte Carlo calculation of the TG-43 dosimetry parameters for the INTRABEAM source with spherical applicators,Dosimetric impact of physics libraries for electronic brachytherapy Monte Carlo studies,0.412386
+Monte Carlo calculation of the TG-43 dosimetry parameters for the INTRABEAM source with spherical applicators,In vivo association of 14-3-3 isoforms with mammalian origins of DNA replication,-0.050141
+Monte Carlo calculation of the TG-43 dosimetry parameters for the INTRABEAM source with spherical applicators,Evaluation of the TG‐43 formalism for intraoperative radiotherapy dosimetry in glioblastoma treatment,0.539896
+Dosimetric impact of physics libraries for electronic brachytherapy Monte Carlo studies,In vivo association of 14-3-3 isoforms with mammalian origins of DNA replication,0.087021
+Dosimetric impact of physics libraries for electronic brachytherapy Monte Carlo studies,Evaluation of the TG‐43 formalism for intraoperative radiotherapy dosimetry in glioblastoma treatment,0.3917
+In vivo association of 14-3-3 isoforms with mammalian origins of DNA replication,Evaluation of the TG‐43 formalism for intraoperative radiotherapy dosimetry in glioblastoma treatment,0.074926

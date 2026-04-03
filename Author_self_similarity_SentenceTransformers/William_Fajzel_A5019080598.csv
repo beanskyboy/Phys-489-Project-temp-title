@@ -1,0 +1,16 @@
+title_i,title_j,cosine_similarity
+The global human day,Resolving the Technosphere,0.558486
+The global human day,Interdisciplinary applications of human time use with generalized lexicons,0.717308
+The global human day,Comment on egusphere-2024-1133,0.560046
+The global human day,"Delineating the technosphere: definition, categorization, and characteristics",0.621394
+The global human day,Energy use per hour is key determinant of future transport energy consumption,0.591091
+Resolving the Technosphere,Interdisciplinary applications of human time use with generalized lexicons,0.3684
+Resolving the Technosphere,Comment on egusphere-2024-1133,0.99777
+Resolving the Technosphere,"Delineating the technosphere: definition, categorization, and characteristics",0.944102
+Resolving the Technosphere,Energy use per hour is key determinant of future transport energy consumption,0.414646
+Interdisciplinary applications of human time use with generalized lexicons,Comment on egusphere-2024-1133,0.370435
+Interdisciplinary applications of human time use with generalized lexicons,"Delineating the technosphere: definition, categorization, and characteristics",0.431076
+Interdisciplinary applications of human time use with generalized lexicons,Energy use per hour is key determinant of future transport energy consumption,0.461878
+Comment on egusphere-2024-1133,"Delineating the technosphere: definition, categorization, and characteristics",0.943882
+Comment on egusphere-2024-1133,Energy use per hour is key determinant of future transport energy consumption,0.425417
+"Delineating the technosphere: definition, categorization, and characteristics",Energy use per hour is key determinant of future transport energy consumption,0.485427

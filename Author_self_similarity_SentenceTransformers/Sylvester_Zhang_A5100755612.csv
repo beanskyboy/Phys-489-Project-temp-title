@@ -1,0 +1,11 @@
+title_i,title_j,cosine_similarity
+14 examples of how LLMs can transform materials science and chemistry: a reflection on a large language model hackathon,Polystyrene-Microsphere-Assisted Patterning of ZnO Nanostructures: Growth and Characterization,0.073683
+14 examples of how LLMs can transform materials science and chemistry: a reflection on a large language model hackathon,Correlating structural assemblies of photosynthetic reaction centers on a gold electrode and the photocurrent - potential response,0.198519
+14 examples of how LLMs can transform materials science and chemistry: a reflection on a large language model hackathon,Purification and preparation of Rhodobacter sphaeroides reaction centers for photocurrent measurements and atomic force microscopy characterization,0.21198
+14 examples of how LLMs can transform materials science and chemistry: a reflection on a large language model hackathon,Computational design of gallium imides for methane activation,0.260275
+Polystyrene-Microsphere-Assisted Patterning of ZnO Nanostructures: Growth and Characterization,Correlating structural assemblies of photosynthetic reaction centers on a gold electrode and the photocurrent - potential response,0.305469
+Polystyrene-Microsphere-Assisted Patterning of ZnO Nanostructures: Growth and Characterization,Purification and preparation of Rhodobacter sphaeroides reaction centers for photocurrent measurements and atomic force microscopy characterization,0.384144
+Polystyrene-Microsphere-Assisted Patterning of ZnO Nanostructures: Growth and Characterization,Computational design of gallium imides for methane activation,0.179198
+Correlating structural assemblies of photosynthetic reaction centers on a gold electrode and the photocurrent - potential response,Purification and preparation of Rhodobacter sphaeroides reaction centers for photocurrent measurements and atomic force microscopy characterization,0.799912
+Correlating structural assemblies of photosynthetic reaction centers on a gold electrode and the photocurrent - potential response,Computational design of gallium imides for methane activation,0.268184
+Purification and preparation of Rhodobacter sphaeroides reaction centers for photocurrent measurements and atomic force microscopy characterization,Computational design of gallium imides for methane activation,0.311324

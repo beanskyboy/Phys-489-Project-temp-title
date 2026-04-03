@@ -1,0 +1,16 @@
+title_i,title_j,cosine_similarity
+Law and Foreign Policy in International Aviation.,Free Trade Law Reporter.,1.0
+Law and Foreign Policy in International Aviation.,Computerized Reservations Systems in the Air Transport Industry: How to Optimize the Passenger's Benefits,0.101352
+Law and Foreign Policy in International Aviation.,Space Stations: Legal Aspects of Scientific and Commercial Use in a Framework of Transatlantic Cooperation,0.136004
+Law and Foreign Policy in International Aviation.,Space Debris: Legal and Policy Implications.,0.123653
+Law and Foreign Policy in International Aviation.,The Warsaw Convention Annotated; A Legal Handbook,1.0
+Free Trade Law Reporter.,Computerized Reservations Systems in the Air Transport Industry: How to Optimize the Passenger's Benefits,0.101352
+Free Trade Law Reporter.,Space Stations: Legal Aspects of Scientific and Commercial Use in a Framework of Transatlantic Cooperation,0.136004
+Free Trade Law Reporter.,Space Debris: Legal and Policy Implications.,0.123653
+Free Trade Law Reporter.,The Warsaw Convention Annotated; A Legal Handbook,1.0
+Computerized Reservations Systems in the Air Transport Industry: How to Optimize the Passenger's Benefits,Space Stations: Legal Aspects of Scientific and Commercial Use in a Framework of Transatlantic Cooperation,0.279962
+Computerized Reservations Systems in the Air Transport Industry: How to Optimize the Passenger's Benefits,Space Debris: Legal and Policy Implications.,0.186416
+Computerized Reservations Systems in the Air Transport Industry: How to Optimize the Passenger's Benefits,The Warsaw Convention Annotated; A Legal Handbook,0.101352
+Space Stations: Legal Aspects of Scientific and Commercial Use in a Framework of Transatlantic Cooperation,Space Debris: Legal and Policy Implications.,0.676383
+Space Stations: Legal Aspects of Scientific and Commercial Use in a Framework of Transatlantic Cooperation,The Warsaw Convention Annotated; A Legal Handbook,0.136004
+Space Debris: Legal and Policy Implications.,The Warsaw Convention Annotated; A Legal Handbook,0.123653

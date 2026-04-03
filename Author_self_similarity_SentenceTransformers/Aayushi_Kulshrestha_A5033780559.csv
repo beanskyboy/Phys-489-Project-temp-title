@@ -1,0 +1,11 @@
+title_i,title_j,cosine_similarity
+INFOSHIELD: Generalizable Information-Theoretic Human-Trafficking Detection,DeltaShield: Information Theory for Human- Trafficking Detection,0.981306
+INFOSHIELD: Generalizable Information-Theoretic Human-Trafficking Detection,Detection of organized activity in online escort advertisements,0.776366
+INFOSHIELD: Generalizable Information-Theoretic Human-Trafficking Detection,Anomaly Detection with Joint Representation Learning of Content and Connection,0.550601
+INFOSHIELD: Generalizable Information-Theoretic Human-Trafficking Detection,SCG: Spotting Coordinated Groups in Social Media,0.573766
+DeltaShield: Information Theory for Human- Trafficking Detection,Detection of organized activity in online escort advertisements,0.747169
+DeltaShield: Information Theory for Human- Trafficking Detection,Anomaly Detection with Joint Representation Learning of Content and Connection,0.559316
+DeltaShield: Information Theory for Human- Trafficking Detection,SCG: Spotting Coordinated Groups in Social Media,0.588913
+Detection of organized activity in online escort advertisements,Anomaly Detection with Joint Representation Learning of Content and Connection,0.548482
+Detection of organized activity in online escort advertisements,SCG: Spotting Coordinated Groups in Social Media,0.511173
+Anomaly Detection with Joint Representation Learning of Content and Connection,SCG: Spotting Coordinated Groups in Social Media,0.842993

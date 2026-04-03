@@ -1,0 +1,11 @@
+title_i,title_j,cosine_similarity
+Noise shaping in neural populations,Noise Shaping in Neural Populations with Global Delayed Feedback,0.81807
+Noise shaping in neural populations,Coding signal strength by correlated activity in bursting neurons,0.530382
+Noise shaping in neural populations,Burst firing regulates correlated activity in neurons,0.751639
+Noise shaping in neural populations,Burst dynamics enable contrast coding via synchrony,0.662839
+Noise Shaping in Neural Populations with Global Delayed Feedback,Coding signal strength by correlated activity in bursting neurons,0.435671
+Noise Shaping in Neural Populations with Global Delayed Feedback,Burst firing regulates correlated activity in neurons,0.690334
+Noise Shaping in Neural Populations with Global Delayed Feedback,Burst dynamics enable contrast coding via synchrony,0.544365
+Coding signal strength by correlated activity in bursting neurons,Burst firing regulates correlated activity in neurons,0.587634
+Coding signal strength by correlated activity in bursting neurons,Burst dynamics enable contrast coding via synchrony,0.651833
+Burst firing regulates correlated activity in neurons,Burst dynamics enable contrast coding via synchrony,0.763447

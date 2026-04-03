@@ -1,7 +1,7 @@
-abstract_i,abstract_j,cosine_similarity
-0,1,0.160517
-0,2,0.52529
-0,3,0.988561
-1,2,0.169694
-1,3,0.156139
-2,3,0.526026
+title_i,title_j,cosine_similarity
+Probing triple Higgs production via 4τ2b decay channel at a 100 TeV hadron collider,A Robust Two-Dimensional Shallow Flow Model with Adaptive Quadtree Mesh,0.160517
+Probing triple Higgs production via 4τ2b decay channel at a 100 TeV hadron collider,The development of missing transverse momentum reconstruction with the ATLAS detector using the PUfit algorithm in pp collisions at 13 TeV,0.52529
+Probing triple Higgs production via 4τ2b decay channel at a 100 TeV hadron collider,Probing triple Higgs production via $4τ2b$ decay channel at a 100 TeV hadron collider,0.988561
+A Robust Two-Dimensional Shallow Flow Model with Adaptive Quadtree Mesh,The development of missing transverse momentum reconstruction with the ATLAS detector using the PUfit algorithm in pp collisions at 13 TeV,0.169694
+A Robust Two-Dimensional Shallow Flow Model with Adaptive Quadtree Mesh,Probing triple Higgs production via $4τ2b$ decay channel at a 100 TeV hadron collider,0.156139
+The development of missing transverse momentum reconstruction with the ATLAS detector using the PUfit algorithm in pp collisions at 13 TeV,Probing triple Higgs production via $4τ2b$ decay channel at a 100 TeV hadron collider,0.526026

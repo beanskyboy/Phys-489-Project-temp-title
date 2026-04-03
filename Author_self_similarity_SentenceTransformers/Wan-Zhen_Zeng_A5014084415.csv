@@ -1,0 +1,11 @@
+title_i,title_j,cosine_similarity
+BIFURCATIONS IN FLAT-TOPPED MAPS AND THE CONTROL OF CARDIAC CHAOS,Statistical properties of heartbeat intervals during atrial fibrillation,0.65451
+BIFURCATIONS IN FLAT-TOPPED MAPS AND THE CONTROL OF CARDIAC CHAOS,Evolution of rhythms during periodic stimulation of embryonic chick heart cell aggregates.,0.633211
+BIFURCATIONS IN FLAT-TOPPED MAPS AND THE CONTROL OF CARDIAC CHAOS,The Topology of Phase Response Curves Induced by Single and Paired Stimuli in Spontaneously Oscillating Chick Heart Cell Aggregates,0.639852
+BIFURCATIONS IN FLAT-TOPPED MAPS AND THE CONTROL OF CARDIAC CHAOS,Complex Rhythms Resulting From Overdrive Suppression in Electrically Stimulated Heart Cell Aggregates,0.616479
+Statistical properties of heartbeat intervals during atrial fibrillation,Evolution of rhythms during periodic stimulation of embryonic chick heart cell aggregates.,0.615333
+Statistical properties of heartbeat intervals during atrial fibrillation,The Topology of Phase Response Curves Induced by Single and Paired Stimuli in Spontaneously Oscillating Chick Heart Cell Aggregates,0.548312
+Statistical properties of heartbeat intervals during atrial fibrillation,Complex Rhythms Resulting From Overdrive Suppression in Electrically Stimulated Heart Cell Aggregates,0.54857
+Evolution of rhythms during periodic stimulation of embryonic chick heart cell aggregates.,The Topology of Phase Response Curves Induced by Single and Paired Stimuli in Spontaneously Oscillating Chick Heart Cell Aggregates,0.775899
+Evolution of rhythms during periodic stimulation of embryonic chick heart cell aggregates.,Complex Rhythms Resulting From Overdrive Suppression in Electrically Stimulated Heart Cell Aggregates,0.851131
+The Topology of Phase Response Curves Induced by Single and Paired Stimuli in Spontaneously Oscillating Chick Heart Cell Aggregates,Complex Rhythms Resulting From Overdrive Suppression in Electrically Stimulated Heart Cell Aggregates,0.716648

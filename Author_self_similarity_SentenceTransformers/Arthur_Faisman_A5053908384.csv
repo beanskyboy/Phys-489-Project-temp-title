@@ -1,0 +1,11 @@
+title_i,title_j,cosine_similarity
+"Qualitative shape from shading, highlights, and mirror reflections",How does lighting direction affect shape perception of glossy and matte surfaces?,0.857223
+"Qualitative shape from shading, highlights, and mirror reflections",Environment maps and the perception of shape from mirror reflections,0.815374
+"Qualitative shape from shading, highlights, and mirror reflections",Perception of qualitative shape from diffuse and specular reflections,0.764693
+"Qualitative shape from shading, highlights, and mirror reflections","Qualitative shape from shading, specular highlights, and mirror reflections",0.840904
+How does lighting direction affect shape perception of glossy and matte surfaces?,Environment maps and the perception of shape from mirror reflections,0.832731
+How does lighting direction affect shape perception of glossy and matte surfaces?,Perception of qualitative shape from diffuse and specular reflections,0.849431
+How does lighting direction affect shape perception of glossy and matte surfaces?,"Qualitative shape from shading, specular highlights, and mirror reflections",0.85165
+Environment maps and the perception of shape from mirror reflections,Perception of qualitative shape from diffuse and specular reflections,0.820944
+Environment maps and the perception of shape from mirror reflections,"Qualitative shape from shading, specular highlights, and mirror reflections",0.754198
+Perception of qualitative shape from diffuse and specular reflections,"Qualitative shape from shading, specular highlights, and mirror reflections",0.811305

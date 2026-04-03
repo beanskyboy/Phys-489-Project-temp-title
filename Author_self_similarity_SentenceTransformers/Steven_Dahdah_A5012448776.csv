@@ -1,0 +1,56 @@
+title_i,title_j,cosine_similarity
+Synthesizing Control Laws from Data using Sum-of-Squares Optimization,Closed-loop Koopman operator approximation,0.710183
+Synthesizing Control Laws from Data using Sum-of-Squares Optimization,Deep Koopman Representation for Control over Images (DKRCI),0.534627
+Synthesizing Control Laws from Data using Sum-of-Squares Optimization,Linear Matrix Inequality Approaches to Koopman Operator Approximation,0.528719
+Synthesizing Control Laws from Data using Sum-of-Squares Optimization,Forward-Backward Extended DMD with an Asymptotic Stability Constraint,0.586044
+Synthesizing Control Laws from Data using Sum-of-Squares Optimization,Uncertainty Modelling and Robust Observer Synthesis using the Koopman Operator,0.571131
+Synthesizing Control Laws from Data using Sum-of-Squares Optimization,System norm regularization methods for Koopman operator approximation,0.626964
+Synthesizing Control Laws from Data using Sum-of-Squares Optimization,Companion code from System norm regularization methods for Koopman operator approximation,0.187324
+Synthesizing Control Laws from Data using Sum-of-Squares Optimization,pykoop library from System norm regularization methods for Koopman operator approximation,0.112697
+Synthesizing Control Laws from Data using Sum-of-Squares Optimization,Discretization of Linear Systems using the Matrix Exponential,0.389646
+Synthesizing Control Laws from Data using Sum-of-Squares Optimization,pykoop: a Python Library for Koopman Operator Approximation,0.48669
+Closed-loop Koopman operator approximation,Deep Koopman Representation for Control over Images (DKRCI),0.619965
+Closed-loop Koopman operator approximation,Linear Matrix Inequality Approaches to Koopman Operator Approximation,0.576557
+Closed-loop Koopman operator approximation,Forward-Backward Extended DMD with an Asymptotic Stability Constraint,0.72468
+Closed-loop Koopman operator approximation,Uncertainty Modelling and Robust Observer Synthesis using the Koopman Operator,0.620444
+Closed-loop Koopman operator approximation,System norm regularization methods for Koopman operator approximation,0.628449
+Closed-loop Koopman operator approximation,Companion code from System norm regularization methods for Koopman operator approximation,0.348716
+Closed-loop Koopman operator approximation,pykoop library from System norm regularization methods for Koopman operator approximation,0.178089
+Closed-loop Koopman operator approximation,Discretization of Linear Systems using the Matrix Exponential,0.427716
+Closed-loop Koopman operator approximation,pykoop: a Python Library for Koopman Operator Approximation,0.594504
+Deep Koopman Representation for Control over Images (DKRCI),Linear Matrix Inequality Approaches to Koopman Operator Approximation,0.457979
+Deep Koopman Representation for Control over Images (DKRCI),Forward-Backward Extended DMD with an Asymptotic Stability Constraint,0.520603
+Deep Koopman Representation for Control over Images (DKRCI),Uncertainty Modelling and Robust Observer Synthesis using the Koopman Operator,0.497591
+Deep Koopman Representation for Control over Images (DKRCI),System norm regularization methods for Koopman operator approximation,0.480434
+Deep Koopman Representation for Control over Images (DKRCI),Companion code from System norm regularization methods for Koopman operator approximation,0.211116
+Deep Koopman Representation for Control over Images (DKRCI),pykoop library from System norm regularization methods for Koopman operator approximation,0.143689
+Deep Koopman Representation for Control over Images (DKRCI),Discretization of Linear Systems using the Matrix Exponential,0.269144
+Deep Koopman Representation for Control over Images (DKRCI),pykoop: a Python Library for Koopman Operator Approximation,0.622752
+Linear Matrix Inequality Approaches to Koopman Operator Approximation,Forward-Backward Extended DMD with an Asymptotic Stability Constraint,0.587967
+Linear Matrix Inequality Approaches to Koopman Operator Approximation,Uncertainty Modelling and Robust Observer Synthesis using the Koopman Operator,0.517966
+Linear Matrix Inequality Approaches to Koopman Operator Approximation,System norm regularization methods for Koopman operator approximation,0.696027
+Linear Matrix Inequality Approaches to Koopman Operator Approximation,Companion code from System norm regularization methods for Koopman operator approximation,0.459512
+Linear Matrix Inequality Approaches to Koopman Operator Approximation,pykoop library from System norm regularization methods for Koopman operator approximation,0.31483
+Linear Matrix Inequality Approaches to Koopman Operator Approximation,Discretization of Linear Systems using the Matrix Exponential,0.373298
+Linear Matrix Inequality Approaches to Koopman Operator Approximation,pykoop: a Python Library for Koopman Operator Approximation,0.480972
+Forward-Backward Extended DMD with an Asymptotic Stability Constraint,Uncertainty Modelling and Robust Observer Synthesis using the Koopman Operator,0.540482
+Forward-Backward Extended DMD with an Asymptotic Stability Constraint,System norm regularization methods for Koopman operator approximation,0.628212
+Forward-Backward Extended DMD with an Asymptotic Stability Constraint,Companion code from System norm regularization methods for Koopman operator approximation,0.363862
+Forward-Backward Extended DMD with an Asymptotic Stability Constraint,pykoop library from System norm regularization methods for Koopman operator approximation,0.256887
+Forward-Backward Extended DMD with an Asymptotic Stability Constraint,Discretization of Linear Systems using the Matrix Exponential,0.422203
+Forward-Backward Extended DMD with an Asymptotic Stability Constraint,pykoop: a Python Library for Koopman Operator Approximation,0.578402
+Uncertainty Modelling and Robust Observer Synthesis using the Koopman Operator,System norm regularization methods for Koopman operator approximation,0.506313
+Uncertainty Modelling and Robust Observer Synthesis using the Koopman Operator,Companion code from System norm regularization methods for Koopman operator approximation,0.186202
+Uncertainty Modelling and Robust Observer Synthesis using the Koopman Operator,pykoop library from System norm regularization methods for Koopman operator approximation,0.084775
+Uncertainty Modelling and Robust Observer Synthesis using the Koopman Operator,Discretization of Linear Systems using the Matrix Exponential,0.373329
+Uncertainty Modelling and Robust Observer Synthesis using the Koopman Operator,pykoop: a Python Library for Koopman Operator Approximation,0.508793
+System norm regularization methods for Koopman operator approximation,Companion code from System norm regularization methods for Koopman operator approximation,0.325173
+System norm regularization methods for Koopman operator approximation,pykoop library from System norm regularization methods for Koopman operator approximation,0.229923
+System norm regularization methods for Koopman operator approximation,Discretization of Linear Systems using the Matrix Exponential,0.409108
+System norm regularization methods for Koopman operator approximation,pykoop: a Python Library for Koopman Operator Approximation,0.482412
+Companion code from System norm regularization methods for Koopman operator approximation,pykoop library from System norm regularization methods for Koopman operator approximation,0.456408
+Companion code from System norm regularization methods for Koopman operator approximation,Discretization of Linear Systems using the Matrix Exponential,0.310643
+Companion code from System norm regularization methods for Koopman operator approximation,pykoop: a Python Library for Koopman Operator Approximation,0.33957
+pykoop library from System norm regularization methods for Koopman operator approximation,Discretization of Linear Systems using the Matrix Exponential,0.207171
+pykoop library from System norm regularization methods for Koopman operator approximation,pykoop: a Python Library for Koopman Operator Approximation,0.385965
+Discretization of Linear Systems using the Matrix Exponential,pykoop: a Python Library for Koopman Operator Approximation,0.457456

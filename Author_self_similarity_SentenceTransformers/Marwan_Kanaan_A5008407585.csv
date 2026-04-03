@@ -1,0 +1,22 @@
+title_i,title_j,cosine_similarity
+Nonlinear time-domain macromodeling using proper orthogonal decomposition and feedforward neural networks,Model order reduction for nonlinear macromodeling of RF circuits,0.727458
+Nonlinear time-domain macromodeling using proper orthogonal decomposition and feedforward neural networks,Simple And Effective Teaching Strategies for Increasing Graduate Attributes Competency Levels,0.063814
+Nonlinear time-domain macromodeling using proper orthogonal decomposition and feedforward neural networks,Innovative Assessment Strategies for Measuring Graduate Attribute Competencies,0.019296
+Nonlinear time-domain macromodeling using proper orthogonal decomposition and feedforward neural networks,Scaffolding Lifelong Learning in First-Year Engineering Courses,0.027642
+Nonlinear time-domain macromodeling using proper orthogonal decomposition and feedforward neural networks,Identifying Common Themes in Technical Graduate Attribute Indicators Across Canadian Universities,0.026409
+Nonlinear time-domain macromodeling using proper orthogonal decomposition and feedforward neural networks,Identifying Common Themes of Professional Graduate Attribute Indicators Across Canadian Universities,0.00608
+Model order reduction for nonlinear macromodeling of RF circuits,Simple And Effective Teaching Strategies for Increasing Graduate Attributes Competency Levels,0.059223
+Model order reduction for nonlinear macromodeling of RF circuits,Innovative Assessment Strategies for Measuring Graduate Attribute Competencies,-0.015175
+Model order reduction for nonlinear macromodeling of RF circuits,Scaffolding Lifelong Learning in First-Year Engineering Courses,-0.037586
+Model order reduction for nonlinear macromodeling of RF circuits,Identifying Common Themes in Technical Graduate Attribute Indicators Across Canadian Universities,0.012892
+Model order reduction for nonlinear macromodeling of RF circuits,Identifying Common Themes of Professional Graduate Attribute Indicators Across Canadian Universities,-0.020524
+Simple And Effective Teaching Strategies for Increasing Graduate Attributes Competency Levels,Innovative Assessment Strategies for Measuring Graduate Attribute Competencies,0.758656
+Simple And Effective Teaching Strategies for Increasing Graduate Attributes Competency Levels,Scaffolding Lifelong Learning in First-Year Engineering Courses,0.628747
+Simple And Effective Teaching Strategies for Increasing Graduate Attributes Competency Levels,Identifying Common Themes in Technical Graduate Attribute Indicators Across Canadian Universities,0.603613
+Simple And Effective Teaching Strategies for Increasing Graduate Attributes Competency Levels,Identifying Common Themes of Professional Graduate Attribute Indicators Across Canadian Universities,0.645995
+Innovative Assessment Strategies for Measuring Graduate Attribute Competencies,Scaffolding Lifelong Learning in First-Year Engineering Courses,0.678468
+Innovative Assessment Strategies for Measuring Graduate Attribute Competencies,Identifying Common Themes in Technical Graduate Attribute Indicators Across Canadian Universities,0.738424
+Innovative Assessment Strategies for Measuring Graduate Attribute Competencies,Identifying Common Themes of Professional Graduate Attribute Indicators Across Canadian Universities,0.722256
+Scaffolding Lifelong Learning in First-Year Engineering Courses,Identifying Common Themes in Technical Graduate Attribute Indicators Across Canadian Universities,0.635619
+Scaffolding Lifelong Learning in First-Year Engineering Courses,Identifying Common Themes of Professional Graduate Attribute Indicators Across Canadian Universities,0.719219
+Identifying Common Themes in Technical Graduate Attribute Indicators Across Canadian Universities,Identifying Common Themes of Professional Graduate Attribute Indicators Across Canadian Universities,0.87309

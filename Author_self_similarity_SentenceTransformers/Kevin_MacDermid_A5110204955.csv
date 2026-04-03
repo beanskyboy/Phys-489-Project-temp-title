@@ -1,0 +1,121 @@
+title_i,title_j,cosine_similarity
+"The EBEX Balloon-borne Experiment—Gondola, Attitude Control, and Control Software",A cryogenic half-wave plate polarimeter using a superconducting magnetic bearing,0.656309
+"The EBEX Balloon-borne Experiment—Gondola, Attitude Control, and Control Software",The EBEX Balloon-borne Experiment—Detectors and Readout,0.860589
+"The EBEX Balloon-borne Experiment—Gondola, Attitude Control, and Control Software",A Biasing and Demodulation System for Kilopixel TES Bolometer Arrays,0.639294
+"The EBEX Balloon-borne Experiment—Gondola, Attitude Control, and Control Software",EBEX: the E and B Experiment,0.624106
+"The EBEX Balloon-borne Experiment—Gondola, Attitude Control, and Control Software","Software systems for operation, control, and monitoring of the EBEX instrument",0.575663
+"The EBEX Balloon-borne Experiment—Gondola, Attitude Control, and Control Software",Design and characterization of TES bolometers and SQUID readout electronics for a balloon-borne application,0.617686
+"The EBEX Balloon-borne Experiment—Gondola, Attitude Control, and Control Software",First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,0.772334
+"The EBEX Balloon-borne Experiment—Gondola, Attitude Control, and Control Software",Intensity-coupled Polarization in Instruments with a Continuously Rotating Half-wave Plate,0.67996
+"The EBEX Balloon-borne Experiment—Gondola, Attitude Control, and Control Software",Temperature calibration of the E and B Experiment,0.85426
+"The EBEX Balloon-borne Experiment—Gondola, Attitude Control, and Control Software",The performance of the bolometer array and readout system during the 2012/2013 flight of the E and B experiment (EBEX),0.797082
+"The EBEX Balloon-borne Experiment—Gondola, Attitude Control, and Control Software",Biasing and Demodulation Firmware for Kilopixel TES Bolometer Arrays,0.657265
+"The EBEX Balloon-borne Experiment—Gondola, Attitude Control, and Control Software",The EBEX Cryostat and Supporting Electronics,0.819631
+"The EBEX Balloon-borne Experiment—Gondola, Attitude Control, and Control Software",Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.571209
+"The EBEX Balloon-borne Experiment—Gondola, Attitude Control, and Control Software",The E and B EXperiment (EBEX); Progress and Status,0.827545
+"The EBEX Balloon-borne Experiment—Gondola, Attitude Control, and Control Software",Design and testing of tuning algorithms for the E and B EXperiment (EBEX),0.798604
+A cryogenic half-wave plate polarimeter using a superconducting magnetic bearing,The EBEX Balloon-borne Experiment—Detectors and Readout,0.61877
+A cryogenic half-wave plate polarimeter using a superconducting magnetic bearing,A Biasing and Demodulation System for Kilopixel TES Bolometer Arrays,0.419382
+A cryogenic half-wave plate polarimeter using a superconducting magnetic bearing,EBEX: the E and B Experiment,0.508086
+A cryogenic half-wave plate polarimeter using a superconducting magnetic bearing,"Software systems for operation, control, and monitoring of the EBEX instrument",0.479044
+A cryogenic half-wave plate polarimeter using a superconducting magnetic bearing,Design and characterization of TES bolometers and SQUID readout electronics for a balloon-borne application,0.399761
+A cryogenic half-wave plate polarimeter using a superconducting magnetic bearing,First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,0.660649
+A cryogenic half-wave plate polarimeter using a superconducting magnetic bearing,Intensity-coupled Polarization in Instruments with a Continuously Rotating Half-wave Plate,0.702126
+A cryogenic half-wave plate polarimeter using a superconducting magnetic bearing,Temperature calibration of the E and B Experiment,0.659944
+A cryogenic half-wave plate polarimeter using a superconducting magnetic bearing,The performance of the bolometer array and readout system during the 2012/2013 flight of the E and B experiment (EBEX),0.673416
+A cryogenic half-wave plate polarimeter using a superconducting magnetic bearing,Biasing and Demodulation Firmware for Kilopixel TES Bolometer Arrays,0.396551
+A cryogenic half-wave plate polarimeter using a superconducting magnetic bearing,The EBEX Cryostat and Supporting Electronics,0.683237
+A cryogenic half-wave plate polarimeter using a superconducting magnetic bearing,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.31437
+A cryogenic half-wave plate polarimeter using a superconducting magnetic bearing,The E and B EXperiment (EBEX); Progress and Status,0.786806
+A cryogenic half-wave plate polarimeter using a superconducting magnetic bearing,Design and testing of tuning algorithms for the E and B EXperiment (EBEX),0.665311
+The EBEX Balloon-borne Experiment—Detectors and Readout,A Biasing and Demodulation System for Kilopixel TES Bolometer Arrays,0.695962
+The EBEX Balloon-borne Experiment—Detectors and Readout,EBEX: the E and B Experiment,0.595767
+The EBEX Balloon-borne Experiment—Detectors and Readout,"Software systems for operation, control, and monitoring of the EBEX instrument",0.525532
+The EBEX Balloon-borne Experiment—Detectors and Readout,Design and characterization of TES bolometers and SQUID readout electronics for a balloon-borne application,0.742531
+The EBEX Balloon-borne Experiment—Detectors and Readout,First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,0.819869
+The EBEX Balloon-borne Experiment—Detectors and Readout,Intensity-coupled Polarization in Instruments with a Continuously Rotating Half-wave Plate,0.630191
+The EBEX Balloon-borne Experiment—Detectors and Readout,Temperature calibration of the E and B Experiment,0.861795
+The EBEX Balloon-borne Experiment—Detectors and Readout,The performance of the bolometer array and readout system during the 2012/2013 flight of the E and B experiment (EBEX),0.849637
+The EBEX Balloon-borne Experiment—Detectors and Readout,Biasing and Demodulation Firmware for Kilopixel TES Bolometer Arrays,0.698385
+The EBEX Balloon-borne Experiment—Detectors and Readout,The EBEX Cryostat and Supporting Electronics,0.788693
+The EBEX Balloon-borne Experiment—Detectors and Readout,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.534069
+The EBEX Balloon-borne Experiment—Detectors and Readout,The E and B EXperiment (EBEX); Progress and Status,0.789541
+The EBEX Balloon-borne Experiment—Detectors and Readout,Design and testing of tuning algorithms for the E and B EXperiment (EBEX),0.819336
+A Biasing and Demodulation System for Kilopixel TES Bolometer Arrays,EBEX: the E and B Experiment,0.393159
+A Biasing and Demodulation System for Kilopixel TES Bolometer Arrays,"Software systems for operation, control, and monitoring of the EBEX instrument",0.514165
+A Biasing and Demodulation System for Kilopixel TES Bolometer Arrays,Design and characterization of TES bolometers and SQUID readout electronics for a balloon-borne application,0.600935
+A Biasing and Demodulation System for Kilopixel TES Bolometer Arrays,First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,0.675862
+A Biasing and Demodulation System for Kilopixel TES Bolometer Arrays,Intensity-coupled Polarization in Instruments with a Continuously Rotating Half-wave Plate,0.388412
+A Biasing and Demodulation System for Kilopixel TES Bolometer Arrays,Temperature calibration of the E and B Experiment,0.63792
+A Biasing and Demodulation System for Kilopixel TES Bolometer Arrays,The performance of the bolometer array and readout system during the 2012/2013 flight of the E and B experiment (EBEX),0.683917
+A Biasing and Demodulation System for Kilopixel TES Bolometer Arrays,Biasing and Demodulation Firmware for Kilopixel TES Bolometer Arrays,0.958719
+A Biasing and Demodulation System for Kilopixel TES Bolometer Arrays,The EBEX Cryostat and Supporting Electronics,0.594003
+A Biasing and Demodulation System for Kilopixel TES Bolometer Arrays,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.710325
+A Biasing and Demodulation System for Kilopixel TES Bolometer Arrays,The E and B EXperiment (EBEX); Progress and Status,0.561297
+A Biasing and Demodulation System for Kilopixel TES Bolometer Arrays,Design and testing of tuning algorithms for the E and B EXperiment (EBEX),0.704783
+EBEX: the E and B Experiment,"Software systems for operation, control, and monitoring of the EBEX instrument",0.338261
+EBEX: the E and B Experiment,Design and characterization of TES bolometers and SQUID readout electronics for a balloon-borne application,0.32525
+EBEX: the E and B Experiment,First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,0.516999
+EBEX: the E and B Experiment,Intensity-coupled Polarization in Instruments with a Continuously Rotating Half-wave Plate,0.573834
+EBEX: the E and B Experiment,Temperature calibration of the E and B Experiment,0.65554
+EBEX: the E and B Experiment,The performance of the bolometer array and readout system during the 2012/2013 flight of the E and B experiment (EBEX),0.522645
+EBEX: the E and B Experiment,Biasing and Demodulation Firmware for Kilopixel TES Bolometer Arrays,0.394046
+EBEX: the E and B Experiment,The EBEX Cryostat and Supporting Electronics,0.574931
+EBEX: the E and B Experiment,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.269837
+EBEX: the E and B Experiment,The E and B EXperiment (EBEX); Progress and Status,0.712534
+EBEX: the E and B Experiment,Design and testing of tuning algorithms for the E and B EXperiment (EBEX),0.698288
+"Software systems for operation, control, and monitoring of the EBEX instrument",Design and characterization of TES bolometers and SQUID readout electronics for a balloon-borne application,0.435269
+"Software systems for operation, control, and monitoring of the EBEX instrument",First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,0.652402
+"Software systems for operation, control, and monitoring of the EBEX instrument",Intensity-coupled Polarization in Instruments with a Continuously Rotating Half-wave Plate,0.382538
+"Software systems for operation, control, and monitoring of the EBEX instrument",Temperature calibration of the E and B Experiment,0.596268
+"Software systems for operation, control, and monitoring of the EBEX instrument",The performance of the bolometer array and readout system during the 2012/2013 flight of the E and B experiment (EBEX),0.575336
+"Software systems for operation, control, and monitoring of the EBEX instrument",Biasing and Demodulation Firmware for Kilopixel TES Bolometer Arrays,0.51751
+"Software systems for operation, control, and monitoring of the EBEX instrument",The EBEX Cryostat and Supporting Electronics,0.678844
+"Software systems for operation, control, and monitoring of the EBEX instrument",Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.506813
+"Software systems for operation, control, and monitoring of the EBEX instrument",The E and B EXperiment (EBEX); Progress and Status,0.53172
+"Software systems for operation, control, and monitoring of the EBEX instrument",Design and testing of tuning algorithms for the E and B EXperiment (EBEX),0.555525
+Design and characterization of TES bolometers and SQUID readout electronics for a balloon-borne application,First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,0.765015
+Design and characterization of TES bolometers and SQUID readout electronics for a balloon-borne application,Intensity-coupled Polarization in Instruments with a Continuously Rotating Half-wave Plate,0.26322
+Design and characterization of TES bolometers and SQUID readout electronics for a balloon-borne application,Temperature calibration of the E and B Experiment,0.611834
+Design and characterization of TES bolometers and SQUID readout electronics for a balloon-borne application,The performance of the bolometer array and readout system during the 2012/2013 flight of the E and B experiment (EBEX),0.755431
+Design and characterization of TES bolometers and SQUID readout electronics for a balloon-borne application,Biasing and Demodulation Firmware for Kilopixel TES Bolometer Arrays,0.600296
+Design and characterization of TES bolometers and SQUID readout electronics for a balloon-borne application,The EBEX Cryostat and Supporting Electronics,0.600004
+Design and characterization of TES bolometers and SQUID readout electronics for a balloon-borne application,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.52435
+Design and characterization of TES bolometers and SQUID readout electronics for a balloon-borne application,The E and B EXperiment (EBEX); Progress and Status,0.470505
+Design and characterization of TES bolometers and SQUID readout electronics for a balloon-borne application,Design and testing of tuning algorithms for the E and B EXperiment (EBEX),0.655441
+First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,Intensity-coupled Polarization in Instruments with a Continuously Rotating Half-wave Plate,0.548411
+First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,Temperature calibration of the E and B Experiment,0.778154
+First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,The performance of the bolometer array and readout system during the 2012/2013 flight of the E and B experiment (EBEX),0.935796
+First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,Biasing and Demodulation Firmware for Kilopixel TES Bolometer Arrays,0.661725
+First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,The EBEX Cryostat and Supporting Electronics,0.761786
+First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.540161
+First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,The E and B EXperiment (EBEX); Progress and Status,0.731331
+First implementation of TES bolometer arrays with SQUID-based multiplexed readout on a balloon-borne platform,Design and testing of tuning algorithms for the E and B EXperiment (EBEX),0.831335
+Intensity-coupled Polarization in Instruments with a Continuously Rotating Half-wave Plate,Temperature calibration of the E and B Experiment,0.726495
+Intensity-coupled Polarization in Instruments with a Continuously Rotating Half-wave Plate,The performance of the bolometer array and readout system during the 2012/2013 flight of the E and B experiment (EBEX),0.608281
+Intensity-coupled Polarization in Instruments with a Continuously Rotating Half-wave Plate,Biasing and Demodulation Firmware for Kilopixel TES Bolometer Arrays,0.386321
+Intensity-coupled Polarization in Instruments with a Continuously Rotating Half-wave Plate,The EBEX Cryostat and Supporting Electronics,0.597406
+Intensity-coupled Polarization in Instruments with a Continuously Rotating Half-wave Plate,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.281192
+Intensity-coupled Polarization in Instruments with a Continuously Rotating Half-wave Plate,The E and B EXperiment (EBEX); Progress and Status,0.809053
+Intensity-coupled Polarization in Instruments with a Continuously Rotating Half-wave Plate,Design and testing of tuning algorithms for the E and B EXperiment (EBEX),0.642191
+Temperature calibration of the E and B Experiment,The performance of the bolometer array and readout system during the 2012/2013 flight of the E and B experiment (EBEX),0.801892
+Temperature calibration of the E and B Experiment,Biasing and Demodulation Firmware for Kilopixel TES Bolometer Arrays,0.654933
+Temperature calibration of the E and B Experiment,The EBEX Cryostat and Supporting Electronics,0.821468
+Temperature calibration of the E and B Experiment,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.520034
+Temperature calibration of the E and B Experiment,The E and B EXperiment (EBEX); Progress and Status,0.851378
+Temperature calibration of the E and B Experiment,Design and testing of tuning algorithms for the E and B EXperiment (EBEX),0.8267
+The performance of the bolometer array and readout system during the 2012/2013 flight of the E and B experiment (EBEX),Biasing and Demodulation Firmware for Kilopixel TES Bolometer Arrays,0.669258
+The performance of the bolometer array and readout system during the 2012/2013 flight of the E and B experiment (EBEX),The EBEX Cryostat and Supporting Electronics,0.763267
+The performance of the bolometer array and readout system during the 2012/2013 flight of the E and B experiment (EBEX),Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.531768
+The performance of the bolometer array and readout system during the 2012/2013 flight of the E and B experiment (EBEX),The E and B EXperiment (EBEX); Progress and Status,0.774871
+The performance of the bolometer array and readout system during the 2012/2013 flight of the E and B experiment (EBEX),Design and testing of tuning algorithms for the E and B EXperiment (EBEX),0.818259
+Biasing and Demodulation Firmware for Kilopixel TES Bolometer Arrays,The EBEX Cryostat and Supporting Electronics,0.583737
+Biasing and Demodulation Firmware for Kilopixel TES Bolometer Arrays,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.769801
+Biasing and Demodulation Firmware for Kilopixel TES Bolometer Arrays,The E and B EXperiment (EBEX); Progress and Status,0.553871
+Biasing and Demodulation Firmware for Kilopixel TES Bolometer Arrays,Design and testing of tuning algorithms for the E and B EXperiment (EBEX),0.685561
+The EBEX Cryostat and Supporting Electronics,Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,0.507905
+The EBEX Cryostat and Supporting Electronics,The E and B EXperiment (EBEX); Progress and Status,0.794887
+The EBEX Cryostat and Supporting Electronics,Design and testing of tuning algorithms for the E and B EXperiment (EBEX),0.798377
+Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,The E and B EXperiment (EBEX); Progress and Status,0.413522
+Detection and repair of radiation induced single event upsets in an FPGA-based readout for TES bolometer arrays,Design and testing of tuning algorithms for the E and B EXperiment (EBEX),0.552758
+The E and B EXperiment (EBEX); Progress and Status,Design and testing of tuning algorithms for the E and B EXperiment (EBEX),0.803782

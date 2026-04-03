@@ -1,0 +1,7 @@
+title_i,title_j,cosine_similarity
+A prototype modular detector design for high resolution positron emission mammography imaging,Evaluation of a neck shield for use during neurological studies with a whole-body PET scanner,0.51063
+A prototype modular detector design for high resolution positron emission mammography imaging,"""ANIPET"" a versatile PET scanner for imaging small animals",0.6813
+A prototype modular detector design for high resolution positron emission mammography imaging,"Operational and performance report on ANIPET, a versatile PET scanner for laboratory animals",0.669265
+Evaluation of a neck shield for use during neurological studies with a whole-body PET scanner,"""ANIPET"" a versatile PET scanner for imaging small animals",0.582009
+Evaluation of a neck shield for use during neurological studies with a whole-body PET scanner,"Operational and performance report on ANIPET, a versatile PET scanner for laboratory animals",0.698159
+"""ANIPET"" a versatile PET scanner for imaging small animals","Operational and performance report on ANIPET, a versatile PET scanner for laboratory animals",0.74524

@@ -1,0 +1,22 @@
+title_i,title_j,cosine_similarity
+Producing realistic climate data with generative adversarial networks,Attention-guided convolutional network for bias-mitigated and interpretable oral lesion classification,0.206872
+Producing realistic climate data with generative adversarial networks,Producing realistic climate data with generative adversarial networks GANs,0.999565
+Producing realistic climate data with generative adversarial networks,Reply on RC2,0.997163
+Producing realistic climate data with generative adversarial networks,Comment on npg-2021-6,0.997163
+Producing realistic climate data with generative adversarial networks,Reply on RC1,0.997163
+Producing realistic climate data with generative adversarial networks,Parameterization using generative adversarial networks for control space reduction in data assimilation,0.627093
+Attention-guided convolutional network for bias-mitigated and interpretable oral lesion classification,Producing realistic climate data with generative adversarial networks GANs,0.20866
+Attention-guided convolutional network for bias-mitigated and interpretable oral lesion classification,Reply on RC2,0.209008
+Attention-guided convolutional network for bias-mitigated and interpretable oral lesion classification,Comment on npg-2021-6,0.209008
+Attention-guided convolutional network for bias-mitigated and interpretable oral lesion classification,Reply on RC1,0.209008
+Attention-guided convolutional network for bias-mitigated and interpretable oral lesion classification,Parameterization using generative adversarial networks for control space reduction in data assimilation,0.251564
+Producing realistic climate data with generative adversarial networks GANs,Reply on RC2,0.996726
+Producing realistic climate data with generative adversarial networks GANs,Comment on npg-2021-6,0.996726
+Producing realistic climate data with generative adversarial networks GANs,Reply on RC1,0.996726
+Producing realistic climate data with generative adversarial networks GANs,Parameterization using generative adversarial networks for control space reduction in data assimilation,0.625247
+Reply on RC2,Comment on npg-2021-6,1.0
+Reply on RC2,Reply on RC1,1.0
+Reply on RC2,Parameterization using generative adversarial networks for control space reduction in data assimilation,0.629733
+Comment on npg-2021-6,Reply on RC1,1.0
+Comment on npg-2021-6,Parameterization using generative adversarial networks for control space reduction in data assimilation,0.629733
+Reply on RC1,Parameterization using generative adversarial networks for control space reduction in data assimilation,0.629733

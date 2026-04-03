@@ -1,154 +1,137 @@
-abstract_i,abstract_j,cosine_similarity
-0,1,0.606382
-0,2,0.670472
-0,3,0.739362
-0,4,0.37265
-0,5,0.268937
-0,6,0.252719
-0,7,0.648229
-0,8,0.673219
-0,9,0.263007
-0,10,0.57835
-0,11,0.582473
-0,12,0.750715
-0,13,0.586135
-0,14,0.77747
-0,15,0.479806
-0,16,0.272045
-0,17,0.236429
-1,2,0.882588
-1,3,0.727302
-1,4,0.356514
-1,5,0.383146
-1,6,0.400607
-1,7,0.654942
-1,8,0.680536
-1,9,0.431475
-1,10,0.536237
-1,11,0.719934
-1,12,0.621881
-1,13,0.692642
-1,14,0.768005
-1,15,0.449792
-1,16,0.385176
-1,17,0.381692
-2,3,0.790565
-2,4,0.309085
-2,5,0.424698
-2,6,0.46529
-2,7,0.705177
-2,8,0.730311
-2,9,0.448729
-2,10,0.59376
-2,11,0.714686
-2,12,0.728639
-2,13,0.752171
-2,14,0.844519
-2,15,0.488567
-2,16,0.427909
-2,17,0.445454
-3,4,0.343041
-3,5,0.448771
-3,6,0.434276
-3,7,0.850593
-3,8,0.865436
-3,9,0.484365
-3,10,0.639269
-3,11,0.775707
-3,12,0.770406
-3,13,0.717143
-3,14,0.895659
-3,15,0.522544
-3,16,0.454115
-3,17,0.41006
-4,5,0.066273
-4,6,0.010622
-4,7,0.280271
-4,8,0.283165
-4,9,0.06269
-4,10,0.222846
-4,11,0.300682
-4,12,0.273743
-4,13,0.30912
-4,14,0.334373
-4,15,0.190618
-4,16,0.062904
-4,17,0.000428
-5,6,0.833125
-5,7,0.409613
-5,8,0.426328
-5,9,0.608482
-5,10,0.359024
-5,11,0.454001
-5,12,0.343584
-5,13,0.402698
-5,14,0.466601
-5,15,0.300471
-5,16,0.998648
-5,17,0.846882
-6,7,0.381803
-6,8,0.404753
-6,9,0.578542
-6,10,0.324647
-6,11,0.409545
-6,12,0.343049
-6,13,0.415647
-6,14,0.462441
-6,15,0.256123
-6,16,0.8377
-6,17,0.978871
-7,8,0.9935
-7,9,0.423225
-7,10,0.635091
-7,11,0.728851
-7,12,0.710307
-7,13,0.697015
-7,14,0.833104
-7,15,0.530929
-7,16,0.409437
-7,17,0.356509
-8,9,0.441043
-8,10,0.633924
-8,11,0.741699
-8,12,0.722878
-8,13,0.714971
-8,14,0.853082
-8,15,0.523301
-8,16,0.427098
-8,17,0.377217
-9,10,0.29983
-9,11,0.420344
-9,12,0.349281
-9,13,0.375421
-9,14,0.487295
-9,15,0.210611
-9,16,0.614075
-9,17,0.557224
-10,11,0.730351
-10,12,0.605259
-10,13,0.555435
-10,14,0.657673
-10,15,0.818593
-10,16,0.359074
-10,17,0.318752
-11,12,0.589929
-11,13,0.688622
-11,14,0.737458
-11,15,0.716183
-11,16,0.454351
-11,17,0.392713
-12,13,0.644952
-12,14,0.88405
-12,15,0.507473
-12,16,0.35488
-12,17,0.336014
-13,14,0.714902
-13,15,0.474518
-13,16,0.404742
-13,17,0.40726
-14,15,0.540882
-14,16,0.472306
-14,17,0.446628
-15,16,0.302754
-15,17,0.2542
-16,17,0.852042
+title_i,title_j,cosine_similarity
+Exposing a fibre-based dual-readout calorimeter to a positron beam,Evolution of the Trigger and Data Acquisition System for the ATLAS experiment,0.41006
+Exposing a fibre-based dual-readout calorimeter to a positron beam,Cooling and Timing Tests of the ATLAS Fast TracKer VME Boards,0.318752
+Exposing a fibre-based dual-readout calorimeter to a positron beam,The ATLAS Trigger/DAQ Authorlist,0.000428
+Exposing a fibre-based dual-readout calorimeter to a positron beam,The ATLAS event builder,0.377217
+Exposing a fibre-based dual-readout calorimeter to a positron beam,The ATLAS fast tracker processor design,0.392713
+Exposing a fibre-based dual-readout calorimeter to a positron beam,Development and tests of the event filter for the ATLAS experiment,0.446628
+Exposing a fibre-based dual-readout calorimeter to a positron beam,Performance of the final Event Builder for the ATLAS Experiment,0.356509
+Exposing a fibre-based dual-readout calorimeter to a positron beam,An Overview of Algorithms for the ATLAS High Level Trigger,0.40726
+Exposing a fibre-based dual-readout calorimeter to a positron beam,"Design, deployment and functional tests of the on-line event filter for the ATLAS experiment at LHC",0.336014
+Exposing a fibre-based dual-readout calorimeter to a positron beam,The ATLAS event filter,0.236429
+Exposing a fibre-based dual-readout calorimeter to a positron beam,A Level-2 trigger algorithm for the identification of muons in the ATLAS Muon Spectrometer,0.381692
+Exposing a fibre-based dual-readout calorimeter to a positron beam,Measurement of the neutron fraction event-by-event in DREAM,0.557224
+Exposing a fibre-based dual-readout calorimeter to a positron beam,Implementation and Performance of the Event Filter Muon Selection for the ATLAS experiment at LHC A. Ventura on behalf of the ATLAS TDAQ group,0.445454
+Exposing a fibre-based dual-readout calorimeter to a positron beam,Performance Studies of the Associative Memory System of the ATLAS Fast Tracker,0.2542
+Exposing a fibre-based dual-readout calorimeter to a positron beam,Energy response and resolution to positrons in a capillary-tube dual-readout calorimeter prototype,0.852042
+Exposing a fibre-based dual-readout calorimeter to a positron beam,Energy Response and Resolution to Positrons in a Capillary-Tube Dual-Readout Calorimeter,0.846882
+Evolution of the Trigger and Data Acquisition System for the ATLAS experiment,Cooling and Timing Tests of the ATLAS Fast TracKer VME Boards,0.639269
+Evolution of the Trigger and Data Acquisition System for the ATLAS experiment,The ATLAS Trigger/DAQ Authorlist,0.343041
+Evolution of the Trigger and Data Acquisition System for the ATLAS experiment,The ATLAS event builder,0.865436
+Evolution of the Trigger and Data Acquisition System for the ATLAS experiment,The ATLAS fast tracker processor design,0.775707
+Evolution of the Trigger and Data Acquisition System for the ATLAS experiment,Development and tests of the event filter for the ATLAS experiment,0.895659
+Evolution of the Trigger and Data Acquisition System for the ATLAS experiment,Performance of the final Event Builder for the ATLAS Experiment,0.850593
+Evolution of the Trigger and Data Acquisition System for the ATLAS experiment,An Overview of Algorithms for the ATLAS High Level Trigger,0.717143
+Evolution of the Trigger and Data Acquisition System for the ATLAS experiment,"Design, deployment and functional tests of the on-line event filter for the ATLAS experiment at LHC",0.770406
+Evolution of the Trigger and Data Acquisition System for the ATLAS experiment,The ATLAS event filter,0.739362
+Evolution of the Trigger and Data Acquisition System for the ATLAS experiment,A Level-2 trigger algorithm for the identification of muons in the ATLAS Muon Spectrometer,0.727302
+Evolution of the Trigger and Data Acquisition System for the ATLAS experiment,Measurement of the neutron fraction event-by-event in DREAM,0.484365
+Evolution of the Trigger and Data Acquisition System for the ATLAS experiment,Implementation and Performance of the Event Filter Muon Selection for the ATLAS experiment at LHC A. Ventura on behalf of the ATLAS TDAQ group,0.790565
+Evolution of the Trigger and Data Acquisition System for the ATLAS experiment,Performance Studies of the Associative Memory System of the ATLAS Fast Tracker,0.522544
+Evolution of the Trigger and Data Acquisition System for the ATLAS experiment,Energy response and resolution to positrons in a capillary-tube dual-readout calorimeter prototype,0.454115
+Evolution of the Trigger and Data Acquisition System for the ATLAS experiment,Energy Response and Resolution to Positrons in a Capillary-Tube Dual-Readout Calorimeter,0.448771
+Cooling and Timing Tests of the ATLAS Fast TracKer VME Boards,The ATLAS Trigger/DAQ Authorlist,0.222846
+Cooling and Timing Tests of the ATLAS Fast TracKer VME Boards,The ATLAS event builder,0.633924
+Cooling and Timing Tests of the ATLAS Fast TracKer VME Boards,The ATLAS fast tracker processor design,0.730351
+Cooling and Timing Tests of the ATLAS Fast TracKer VME Boards,Development and tests of the event filter for the ATLAS experiment,0.657673
+Cooling and Timing Tests of the ATLAS Fast TracKer VME Boards,Performance of the final Event Builder for the ATLAS Experiment,0.635091
+Cooling and Timing Tests of the ATLAS Fast TracKer VME Boards,An Overview of Algorithms for the ATLAS High Level Trigger,0.555435
+Cooling and Timing Tests of the ATLAS Fast TracKer VME Boards,"Design, deployment and functional tests of the on-line event filter for the ATLAS experiment at LHC",0.605259
+Cooling and Timing Tests of the ATLAS Fast TracKer VME Boards,The ATLAS event filter,0.57835
+Cooling and Timing Tests of the ATLAS Fast TracKer VME Boards,A Level-2 trigger algorithm for the identification of muons in the ATLAS Muon Spectrometer,0.536237
+Cooling and Timing Tests of the ATLAS Fast TracKer VME Boards,Measurement of the neutron fraction event-by-event in DREAM,0.29983
+Cooling and Timing Tests of the ATLAS Fast TracKer VME Boards,Implementation and Performance of the Event Filter Muon Selection for the ATLAS experiment at LHC A. Ventura on behalf of the ATLAS TDAQ group,0.59376
+Cooling and Timing Tests of the ATLAS Fast TracKer VME Boards,Performance Studies of the Associative Memory System of the ATLAS Fast Tracker,0.818593
+Cooling and Timing Tests of the ATLAS Fast TracKer VME Boards,Energy response and resolution to positrons in a capillary-tube dual-readout calorimeter prototype,0.359074
+Cooling and Timing Tests of the ATLAS Fast TracKer VME Boards,Energy Response and Resolution to Positrons in a Capillary-Tube Dual-Readout Calorimeter,0.359024
+The ATLAS Trigger/DAQ Authorlist,The ATLAS event builder,0.283165
+The ATLAS Trigger/DAQ Authorlist,The ATLAS fast tracker processor design,0.300682
+The ATLAS Trigger/DAQ Authorlist,Development and tests of the event filter for the ATLAS experiment,0.334373
+The ATLAS Trigger/DAQ Authorlist,Performance of the final Event Builder for the ATLAS Experiment,0.280271
+The ATLAS Trigger/DAQ Authorlist,An Overview of Algorithms for the ATLAS High Level Trigger,0.30912
+The ATLAS Trigger/DAQ Authorlist,"Design, deployment and functional tests of the on-line event filter for the ATLAS experiment at LHC",0.273743
+The ATLAS Trigger/DAQ Authorlist,The ATLAS event filter,0.37265
+The ATLAS Trigger/DAQ Authorlist,A Level-2 trigger algorithm for the identification of muons in the ATLAS Muon Spectrometer,0.356514
+The ATLAS Trigger/DAQ Authorlist,Measurement of the neutron fraction event-by-event in DREAM,0.06269
+The ATLAS Trigger/DAQ Authorlist,Implementation and Performance of the Event Filter Muon Selection for the ATLAS experiment at LHC A. Ventura on behalf of the ATLAS TDAQ group,0.309085
+The ATLAS Trigger/DAQ Authorlist,Performance Studies of the Associative Memory System of the ATLAS Fast Tracker,0.190618
+The ATLAS Trigger/DAQ Authorlist,Energy response and resolution to positrons in a capillary-tube dual-readout calorimeter prototype,0.062904
+The ATLAS Trigger/DAQ Authorlist,Energy Response and Resolution to Positrons in a Capillary-Tube Dual-Readout Calorimeter,0.066273
+The ATLAS event builder,The ATLAS fast tracker processor design,0.741699
+The ATLAS event builder,Development and tests of the event filter for the ATLAS experiment,0.853082
+The ATLAS event builder,Performance of the final Event Builder for the ATLAS Experiment,0.9935
+The ATLAS event builder,An Overview of Algorithms for the ATLAS High Level Trigger,0.714971
+The ATLAS event builder,"Design, deployment and functional tests of the on-line event filter for the ATLAS experiment at LHC",0.722878
+The ATLAS event builder,The ATLAS event filter,0.673219
+The ATLAS event builder,A Level-2 trigger algorithm for the identification of muons in the ATLAS Muon Spectrometer,0.680536
+The ATLAS event builder,Measurement of the neutron fraction event-by-event in DREAM,0.441043
+The ATLAS event builder,Implementation and Performance of the Event Filter Muon Selection for the ATLAS experiment at LHC A. Ventura on behalf of the ATLAS TDAQ group,0.730311
+The ATLAS event builder,Performance Studies of the Associative Memory System of the ATLAS Fast Tracker,0.523301
+The ATLAS event builder,Energy response and resolution to positrons in a capillary-tube dual-readout calorimeter prototype,0.427098
+The ATLAS event builder,Energy Response and Resolution to Positrons in a Capillary-Tube Dual-Readout Calorimeter,0.426328
+The ATLAS fast tracker processor design,Development and tests of the event filter for the ATLAS experiment,0.737458
+The ATLAS fast tracker processor design,Performance of the final Event Builder for the ATLAS Experiment,0.728851
+The ATLAS fast tracker processor design,An Overview of Algorithms for the ATLAS High Level Trigger,0.688622
+The ATLAS fast tracker processor design,"Design, deployment and functional tests of the on-line event filter for the ATLAS experiment at LHC",0.589929
+The ATLAS fast tracker processor design,The ATLAS event filter,0.582473
+The ATLAS fast tracker processor design,A Level-2 trigger algorithm for the identification of muons in the ATLAS Muon Spectrometer,0.719934
+The ATLAS fast tracker processor design,Measurement of the neutron fraction event-by-event in DREAM,0.420344
+The ATLAS fast tracker processor design,Implementation and Performance of the Event Filter Muon Selection for the ATLAS experiment at LHC A. Ventura on behalf of the ATLAS TDAQ group,0.714686
+The ATLAS fast tracker processor design,Performance Studies of the Associative Memory System of the ATLAS Fast Tracker,0.716183
+The ATLAS fast tracker processor design,Energy response and resolution to positrons in a capillary-tube dual-readout calorimeter prototype,0.454351
+The ATLAS fast tracker processor design,Energy Response and Resolution to Positrons in a Capillary-Tube Dual-Readout Calorimeter,0.454001
+Development and tests of the event filter for the ATLAS experiment,Performance of the final Event Builder for the ATLAS Experiment,0.833104
+Development and tests of the event filter for the ATLAS experiment,An Overview of Algorithms for the ATLAS High Level Trigger,0.714902
+Development and tests of the event filter for the ATLAS experiment,"Design, deployment and functional tests of the on-line event filter for the ATLAS experiment at LHC",0.88405
+Development and tests of the event filter for the ATLAS experiment,The ATLAS event filter,0.77747
+Development and tests of the event filter for the ATLAS experiment,A Level-2 trigger algorithm for the identification of muons in the ATLAS Muon Spectrometer,0.768005
+Development and tests of the event filter for the ATLAS experiment,Measurement of the neutron fraction event-by-event in DREAM,0.487295
+Development and tests of the event filter for the ATLAS experiment,Implementation and Performance of the Event Filter Muon Selection for the ATLAS experiment at LHC A. Ventura on behalf of the ATLAS TDAQ group,0.844519
+Development and tests of the event filter for the ATLAS experiment,Performance Studies of the Associative Memory System of the ATLAS Fast Tracker,0.540882
+Development and tests of the event filter for the ATLAS experiment,Energy response and resolution to positrons in a capillary-tube dual-readout calorimeter prototype,0.472306
+Development and tests of the event filter for the ATLAS experiment,Energy Response and Resolution to Positrons in a Capillary-Tube Dual-Readout Calorimeter,0.466601
+Performance of the final Event Builder for the ATLAS Experiment,An Overview of Algorithms for the ATLAS High Level Trigger,0.697015
+Performance of the final Event Builder for the ATLAS Experiment,"Design, deployment and functional tests of the on-line event filter for the ATLAS experiment at LHC",0.710307
+Performance of the final Event Builder for the ATLAS Experiment,The ATLAS event filter,0.648229
+Performance of the final Event Builder for the ATLAS Experiment,A Level-2 trigger algorithm for the identification of muons in the ATLAS Muon Spectrometer,0.654942
+Performance of the final Event Builder for the ATLAS Experiment,Measurement of the neutron fraction event-by-event in DREAM,0.423225
+Performance of the final Event Builder for the ATLAS Experiment,Implementation and Performance of the Event Filter Muon Selection for the ATLAS experiment at LHC A. Ventura on behalf of the ATLAS TDAQ group,0.705177
+Performance of the final Event Builder for the ATLAS Experiment,Performance Studies of the Associative Memory System of the ATLAS Fast Tracker,0.530929
+Performance of the final Event Builder for the ATLAS Experiment,Energy response and resolution to positrons in a capillary-tube dual-readout calorimeter prototype,0.409437
+Performance of the final Event Builder for the ATLAS Experiment,Energy Response and Resolution to Positrons in a Capillary-Tube Dual-Readout Calorimeter,0.409613
+An Overview of Algorithms for the ATLAS High Level Trigger,"Design, deployment and functional tests of the on-line event filter for the ATLAS experiment at LHC",0.644952
+An Overview of Algorithms for the ATLAS High Level Trigger,The ATLAS event filter,0.586135
+An Overview of Algorithms for the ATLAS High Level Trigger,A Level-2 trigger algorithm for the identification of muons in the ATLAS Muon Spectrometer,0.692642
+An Overview of Algorithms for the ATLAS High Level Trigger,Measurement of the neutron fraction event-by-event in DREAM,0.375421
+An Overview of Algorithms for the ATLAS High Level Trigger,Implementation and Performance of the Event Filter Muon Selection for the ATLAS experiment at LHC A. Ventura on behalf of the ATLAS TDAQ group,0.752171
+An Overview of Algorithms for the ATLAS High Level Trigger,Performance Studies of the Associative Memory System of the ATLAS Fast Tracker,0.474518
+An Overview of Algorithms for the ATLAS High Level Trigger,Energy response and resolution to positrons in a capillary-tube dual-readout calorimeter prototype,0.404742
+An Overview of Algorithms for the ATLAS High Level Trigger,Energy Response and Resolution to Positrons in a Capillary-Tube Dual-Readout Calorimeter,0.402698
+"Design, deployment and functional tests of the on-line event filter for the ATLAS experiment at LHC",The ATLAS event filter,0.750715
+"Design, deployment and functional tests of the on-line event filter for the ATLAS experiment at LHC",A Level-2 trigger algorithm for the identification of muons in the ATLAS Muon Spectrometer,0.621881
+"Design, deployment and functional tests of the on-line event filter for the ATLAS experiment at LHC",Measurement of the neutron fraction event-by-event in DREAM,0.349281
+"Design, deployment and functional tests of the on-line event filter for the ATLAS experiment at LHC",Implementation and Performance of the Event Filter Muon Selection for the ATLAS experiment at LHC A. Ventura on behalf of the ATLAS TDAQ group,0.728639
+"Design, deployment and functional tests of the on-line event filter for the ATLAS experiment at LHC",Performance Studies of the Associative Memory System of the ATLAS Fast Tracker,0.507473
+"Design, deployment and functional tests of the on-line event filter for the ATLAS experiment at LHC",Energy response and resolution to positrons in a capillary-tube dual-readout calorimeter prototype,0.35488
+"Design, deployment and functional tests of the on-line event filter for the ATLAS experiment at LHC",Energy Response and Resolution to Positrons in a Capillary-Tube Dual-Readout Calorimeter,0.343584
+The ATLAS event filter,A Level-2 trigger algorithm for the identification of muons in the ATLAS Muon Spectrometer,0.606382
+The ATLAS event filter,Measurement of the neutron fraction event-by-event in DREAM,0.263007
+The ATLAS event filter,Implementation and Performance of the Event Filter Muon Selection for the ATLAS experiment at LHC A. Ventura on behalf of the ATLAS TDAQ group,0.670472
+The ATLAS event filter,Performance Studies of the Associative Memory System of the ATLAS Fast Tracker,0.479806
+The ATLAS event filter,Energy response and resolution to positrons in a capillary-tube dual-readout calorimeter prototype,0.272045
+The ATLAS event filter,Energy Response and Resolution to Positrons in a Capillary-Tube Dual-Readout Calorimeter,0.268937
+A Level-2 trigger algorithm for the identification of muons in the ATLAS Muon Spectrometer,Measurement of the neutron fraction event-by-event in DREAM,0.431475
+A Level-2 trigger algorithm for the identification of muons in the ATLAS Muon Spectrometer,Implementation and Performance of the Event Filter Muon Selection for the ATLAS experiment at LHC A. Ventura on behalf of the ATLAS TDAQ group,0.882588
+A Level-2 trigger algorithm for the identification of muons in the ATLAS Muon Spectrometer,Performance Studies of the Associative Memory System of the ATLAS Fast Tracker,0.449792
+A Level-2 trigger algorithm for the identification of muons in the ATLAS Muon Spectrometer,Energy response and resolution to positrons in a capillary-tube dual-readout calorimeter prototype,0.385176
+A Level-2 trigger algorithm for the identification of muons in the ATLAS Muon Spectrometer,Energy Response and Resolution to Positrons in a Capillary-Tube Dual-Readout Calorimeter,0.383146
+Measurement of the neutron fraction event-by-event in DREAM,Implementation and Performance of the Event Filter Muon Selection for the ATLAS experiment at LHC A. Ventura on behalf of the ATLAS TDAQ group,0.448729
+Measurement of the neutron fraction event-by-event in DREAM,Performance Studies of the Associative Memory System of the ATLAS Fast Tracker,0.210611
+Measurement of the neutron fraction event-by-event in DREAM,Energy response and resolution to positrons in a capillary-tube dual-readout calorimeter prototype,0.614075
+Measurement of the neutron fraction event-by-event in DREAM,Energy Response and Resolution to Positrons in a Capillary-Tube Dual-Readout Calorimeter,0.608482
+Implementation and Performance of the Event Filter Muon Selection for the ATLAS experiment at LHC A. Ventura on behalf of the ATLAS TDAQ group,Performance Studies of the Associative Memory System of the ATLAS Fast Tracker,0.488567
+Implementation and Performance of the Event Filter Muon Selection for the ATLAS experiment at LHC A. Ventura on behalf of the ATLAS TDAQ group,Energy response and resolution to positrons in a capillary-tube dual-readout calorimeter prototype,0.427909
+Implementation and Performance of the Event Filter Muon Selection for the ATLAS experiment at LHC A. Ventura on behalf of the ATLAS TDAQ group,Energy Response and Resolution to Positrons in a Capillary-Tube Dual-Readout Calorimeter,0.424698
+Performance Studies of the Associative Memory System of the ATLAS Fast Tracker,Energy response and resolution to positrons in a capillary-tube dual-readout calorimeter prototype,0.302754
+Performance Studies of the Associative Memory System of the ATLAS Fast Tracker,Energy Response and Resolution to Positrons in a Capillary-Tube Dual-Readout Calorimeter,0.300471
+Energy response and resolution to positrons in a capillary-tube dual-readout calorimeter prototype,Energy Response and Resolution to Positrons in a Capillary-Tube Dual-Readout Calorimeter,0.998648

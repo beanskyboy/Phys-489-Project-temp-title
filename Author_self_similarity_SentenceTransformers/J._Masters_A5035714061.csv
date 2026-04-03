@@ -1,0 +1,7 @@
+title_i,title_j,cosine_similarity
+Textbook of veterinary surgical nursing,"Comparison of axillary, oral, and forehead temperature.",0.242095
+Textbook of veterinary surgical nursing,Percutaneous Freehand™ System Intramuscular Electrode Placement,0.254513
+Textbook of veterinary surgical nursing,Quick Reference Guide to Veterinary Surgical Kits,0.833192
+"Comparison of axillary, oral, and forehead temperature.",Percutaneous Freehand™ System Intramuscular Electrode Placement,0.001443
+"Comparison of axillary, oral, and forehead temperature.",Quick Reference Guide to Veterinary Surgical Kits,0.177238
+Percutaneous Freehand™ System Intramuscular Electrode Placement,Quick Reference Guide to Veterinary Surgical Kits,0.321697

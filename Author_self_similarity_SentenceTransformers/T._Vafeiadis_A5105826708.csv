@@ -1,254 +1,232 @@
-abstract_i,abstract_j,cosine_similarity
-0,1,0.878602
-0,2,0.348093
-0,3,0.875955
-0,4,0.324316
-0,5,0.285084
-0,6,0.351147
-0,7,0.651436
-0,8,0.348123
-0,9,0.335962
-0,10,0.386968
-0,11,0.347293
-0,12,0.379094
-0,13,0.415887
-0,14,0.387703
-0,15,0.159804
-0,16,0.325521
-0,17,0.307851
-0,18,0.294381
-0,19,0.398252
-0,20,0.264462
-0,21,0.347394
-0,22,0.361677
-1,2,0.27195
-1,3,0.989097
-1,4,0.253992
-1,5,0.307683
-1,6,0.251782
-1,7,0.546548
-1,8,0.271144
-1,9,0.25765
-1,10,0.290429
-1,11,0.298436
-1,12,0.365915
-1,13,0.298421
-1,14,0.30685
-1,15,0.105595
-1,16,0.269707
-1,17,0.247655
-1,18,0.285165
-1,19,0.294044
-1,20,0.261727
-1,21,0.276611
-1,22,0.299906
-2,3,0.266708
-2,4,0.479034
-2,5,0.310594
-2,6,0.492154
-2,7,0.319497
-2,8,0.999314
-2,9,0.353367
-2,10,0.599896
-2,11,0.592793
-2,12,0.531612
-2,13,0.328281
-2,14,0.682041
-2,15,0.387541
-2,16,0.711717
-2,17,0.38107
-2,18,0.64674
-2,19,0.303157
-2,20,0.602145
-2,21,0.544983
-2,22,0.617468
-3,4,0.248622
-3,5,0.310869
-3,6,0.245039
-3,7,0.566446
-3,8,0.265302
-3,9,0.249029
-3,10,0.294064
-3,11,0.292474
-3,12,0.356387
-3,13,0.289252
-3,14,0.309397
-3,15,0.113444
-3,16,0.271419
-3,17,0.233209
-3,18,0.271071
-3,19,0.279615
-3,20,0.24924
-3,21,0.280317
-3,22,0.295608
-4,5,0.223592
-4,6,0.883243
-4,7,0.4445
-4,8,0.475171
-4,9,0.264986
-4,10,0.750268
-4,11,0.477994
-4,12,0.37397
-4,13,0.403657
-4,14,0.760189
-4,15,0.430623
-4,16,0.437821
-4,17,0.385816
-4,18,0.429413
-4,19,0.387043
-4,20,0.403028
-4,21,0.819842
-4,22,0.859074
-5,6,0.249407
-5,7,0.376662
-5,8,0.307834
-5,9,0.302356
-5,10,0.304299
-5,11,0.373853
-5,12,0.458015
-5,13,0.263208
-5,14,0.320038
-5,15,0.211124
-5,16,0.366055
-5,17,0.247226
-5,18,0.377068
-5,19,0.266158
-5,20,0.359246
-5,21,0.275314
-5,22,0.296142
-6,7,0.452059
-6,8,0.488584
-6,9,0.344925
-6,10,0.771207
-6,11,0.551642
-6,12,0.427506
-6,13,0.394099
-6,14,0.793382
-6,15,0.520954
-6,16,0.470006
-6,17,0.421836
-6,18,0.473949
-6,19,0.379074
-6,20,0.438181
-6,21,0.828849
-6,22,0.883277
-7,8,0.315425
-7,9,0.340078
-7,10,0.451751
-7,11,0.35068
-7,12,0.289648
-7,13,0.527739
-7,14,0.444
-7,15,0.339876
-7,16,0.311095
-7,17,0.35712
-7,18,0.263443
-7,19,0.503178
-7,20,0.243703
-7,21,0.459427
-7,22,0.428061
-8,9,0.35329
-8,10,0.59828
-8,11,0.593626
-8,12,0.528562
-8,13,0.325639
-8,14,0.678586
-8,15,0.387877
-8,16,0.708924
-8,17,0.380209
-8,18,0.642872
-8,19,0.29997
-8,20,0.597114
-8,21,0.543083
-8,22,0.614166
-9,10,0.356652
-9,11,0.452465
-9,12,0.312658
-9,13,0.382115
-9,14,0.381386
-9,15,0.454727
-9,16,0.397246
-9,17,0.82645
-9,18,0.334893
-9,19,0.372823
-9,20,0.294557
-9,21,0.332266
-9,22,0.359114
-10,11,0.69113
-10,12,0.595549
-10,13,0.404445
-10,14,0.859518
-10,15,0.504931
-10,16,0.661369
-10,17,0.383615
-10,18,0.547249
-10,19,0.387015
-10,20,0.517274
-10,21,0.860712
-10,22,0.842068
-11,12,0.733252
-11,13,0.347292
-11,14,0.777661
-11,15,0.391386
-11,16,0.776763
-11,17,0.440812
-11,18,0.635556
-11,19,0.330634
-11,20,0.642896
-11,21,0.601634
-11,22,0.685844
-12,13,0.291853
-12,14,0.65335
-12,15,0.220191
-12,16,0.707628
-12,17,0.314887
-12,18,0.714834
-12,19,0.279468
-12,20,0.715206
-12,21,0.476014
-12,22,0.586408
-13,14,0.395665
-13,15,0.254798
-13,16,0.33366
-13,17,0.406351
-13,18,0.342241
-13,19,0.991081
-13,20,0.331427
-13,21,0.386766
-13,22,0.413763
-14,15,0.480342
-14,16,0.793248
-14,17,0.433684
-14,18,0.619318
-14,19,0.379329
-14,20,0.614373
-14,21,0.839346
-14,22,0.888894
-15,16,0.345726
-15,17,0.415877
-15,18,0.301938
-15,19,0.241385
-15,20,0.245581
-15,21,0.527387
-15,22,0.485844
-16,17,0.369885
-16,18,0.672085
-16,19,0.320265
-16,20,0.676988
-16,21,0.557134
-16,22,0.654253
-17,18,0.337712
-17,19,0.39651
-17,20,0.332371
-17,21,0.403466
-17,22,0.413083
-18,19,0.320074
-18,20,0.918516
-18,21,0.478937
-18,22,0.621153
-19,20,0.312681
-19,21,0.371796
-19,22,0.396657
-20,21,0.44973
-20,22,0.603881
-21,22,0.850602
+title_i,title_j,cosine_similarity
+Axion searches with microwave filters: the RADES project,Real-time antiproton annihilation vertexing with submicrometer resolution,0.303157
+Axion searches with microwave filters: the RADES project,MICROMEGAS detectors in the CAST experiment,0.492154
+Axion searches with microwave filters: the RADES project,"Positronium Laser Cooling via the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>S</mml:mi><mml:mtext>−</mml:mtext><mml:msup><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>P</mml:mi></mml:mrow></mml:math> Transition with a Broadband Laser Pulse",0.266708
+Axion searches with microwave filters: the RADES project,The new micromegas X-ray detectors in CAST,0.479034
+Axion searches with microwave filters: the RADES project,"CIRCUS: an autonomous control system for antimatter, atomic and quantum physics experiments",0.353367
+Axion searches with microwave filters: the RADES project,TALOS (Total Automation of LabVIEW Operations for Science): A framework for autonomous control systems for complex experiments,0.38107
+Axion searches with microwave filters: the RADES project,Daily modulations and broadband strategy in axion searches: An application with the CAST-CAPP detector,0.602145
+Axion searches with microwave filters: the RADES project,Positron-Positronium Converters in Reflection and Transmission Geometry for Gravitational Experiments with Antihydrogen using Moiré Deflectometry,0.319497
+Axion searches with microwave filters: the RADES project,Search for solar axions produced through the axion-electron coupling gae using a new GridPix detector at CAST,0.592793
+Axion searches with microwave filters: the RADES project,An InGrid based Low Energy X-ray Detector for the CAST Experiment,0.599896
+Axion searches with microwave filters: the RADES project,The T-REX project: Micromegas for Rare Event Searches,0.310594
+Axion searches with microwave filters: the RADES project,Integration and commissioning of ATLAS New Small Wheel Micromegas detectors with electronics at CERN,0.387541
+Axion searches with microwave filters: the RADES project,An InGrid based Low Energy X-ray Detector,0.544983
+Axion searches with microwave filters: the RADES project,Signatures for Solar Axions/WISPs,0.531612
+Axion searches with microwave filters: the RADES project,Positronium laser cooling via the $1^3S$-$2^3P$ transition with a broadband laser pulse,0.27195
+Axion searches with microwave filters: the RADES project,Performance of micromegas detectors in the CAST Experiment,0.617468
+Axion searches with microwave filters: the RADES project,Lowering the background level and the energy threshold of Micromegas x-ray detectors for axion searches,0.682041
+Axion searches with microwave filters: the RADES project,IAXO-the Future Axion Helioscope,0.711717
+Axion searches with microwave filters: the RADES project,Daily modulations and broadband strategy in axion searches. An application with CAST-CAPP detector,0.64674
+Axion searches with microwave filters: the RADES project,Real-time antiproton annihilation vertexing with sub-micron resolution,0.328281
+Axion searches with microwave filters: the RADES project,Laser Cooling Positronium with Broadband Laser Pulses,0.348093
+Real-time antiproton annihilation vertexing with submicrometer resolution,MICROMEGAS detectors in the CAST experiment,0.379074
+Real-time antiproton annihilation vertexing with submicrometer resolution,"Positronium Laser Cooling via the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>S</mml:mi><mml:mtext>−</mml:mtext><mml:msup><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>P</mml:mi></mml:mrow></mml:math> Transition with a Broadband Laser Pulse",0.279615
+Real-time antiproton annihilation vertexing with submicrometer resolution,The new micromegas X-ray detectors in CAST,0.387043
+Real-time antiproton annihilation vertexing with submicrometer resolution,"CIRCUS: an autonomous control system for antimatter, atomic and quantum physics experiments",0.372823
+Real-time antiproton annihilation vertexing with submicrometer resolution,TALOS (Total Automation of LabVIEW Operations for Science): A framework for autonomous control systems for complex experiments,0.39651
+Real-time antiproton annihilation vertexing with submicrometer resolution,Daily modulations and broadband strategy in axion searches: An application with the CAST-CAPP detector,0.312681
+Real-time antiproton annihilation vertexing with submicrometer resolution,Positron-Positronium Converters in Reflection and Transmission Geometry for Gravitational Experiments with Antihydrogen using Moiré Deflectometry,0.503178
+Real-time antiproton annihilation vertexing with submicrometer resolution,Search for solar axions produced through the axion-electron coupling gae using a new GridPix detector at CAST,0.330634
+Real-time antiproton annihilation vertexing with submicrometer resolution,An InGrid based Low Energy X-ray Detector for the CAST Experiment,0.387015
+Real-time antiproton annihilation vertexing with submicrometer resolution,The T-REX project: Micromegas for Rare Event Searches,0.266158
+Real-time antiproton annihilation vertexing with submicrometer resolution,Integration and commissioning of ATLAS New Small Wheel Micromegas detectors with electronics at CERN,0.241385
+Real-time antiproton annihilation vertexing with submicrometer resolution,An InGrid based Low Energy X-ray Detector,0.371796
+Real-time antiproton annihilation vertexing with submicrometer resolution,Signatures for Solar Axions/WISPs,0.279468
+Real-time antiproton annihilation vertexing with submicrometer resolution,Positronium laser cooling via the $1^3S$-$2^3P$ transition with a broadband laser pulse,0.294044
+Real-time antiproton annihilation vertexing with submicrometer resolution,Performance of micromegas detectors in the CAST Experiment,0.396657
+Real-time antiproton annihilation vertexing with submicrometer resolution,Lowering the background level and the energy threshold of Micromegas x-ray detectors for axion searches,0.379329
+Real-time antiproton annihilation vertexing with submicrometer resolution,IAXO-the Future Axion Helioscope,0.320265
+Real-time antiproton annihilation vertexing with submicrometer resolution,Daily modulations and broadband strategy in axion searches. An application with CAST-CAPP detector,0.320074
+Real-time antiproton annihilation vertexing with submicrometer resolution,Real-time antiproton annihilation vertexing with sub-micron resolution,0.991081
+Real-time antiproton annihilation vertexing with submicrometer resolution,Laser Cooling Positronium with Broadband Laser Pulses,0.398252
+MICROMEGAS detectors in the CAST experiment,"Positronium Laser Cooling via the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>S</mml:mi><mml:mtext>−</mml:mtext><mml:msup><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>P</mml:mi></mml:mrow></mml:math> Transition with a Broadband Laser Pulse",0.245039
+MICROMEGAS detectors in the CAST experiment,The new micromegas X-ray detectors in CAST,0.883243
+MICROMEGAS detectors in the CAST experiment,"CIRCUS: an autonomous control system for antimatter, atomic and quantum physics experiments",0.344925
+MICROMEGAS detectors in the CAST experiment,TALOS (Total Automation of LabVIEW Operations for Science): A framework for autonomous control systems for complex experiments,0.421836
+MICROMEGAS detectors in the CAST experiment,Daily modulations and broadband strategy in axion searches: An application with the CAST-CAPP detector,0.438181
+MICROMEGAS detectors in the CAST experiment,Positron-Positronium Converters in Reflection and Transmission Geometry for Gravitational Experiments with Antihydrogen using Moiré Deflectometry,0.452059
+MICROMEGAS detectors in the CAST experiment,Search for solar axions produced through the axion-electron coupling gae using a new GridPix detector at CAST,0.551642
+MICROMEGAS detectors in the CAST experiment,An InGrid based Low Energy X-ray Detector for the CAST Experiment,0.771207
+MICROMEGAS detectors in the CAST experiment,The T-REX project: Micromegas for Rare Event Searches,0.249407
+MICROMEGAS detectors in the CAST experiment,Integration and commissioning of ATLAS New Small Wheel Micromegas detectors with electronics at CERN,0.520954
+MICROMEGAS detectors in the CAST experiment,An InGrid based Low Energy X-ray Detector,0.828849
+MICROMEGAS detectors in the CAST experiment,Signatures for Solar Axions/WISPs,0.427506
+MICROMEGAS detectors in the CAST experiment,Positronium laser cooling via the $1^3S$-$2^3P$ transition with a broadband laser pulse,0.251782
+MICROMEGAS detectors in the CAST experiment,Performance of micromegas detectors in the CAST Experiment,0.883277
+MICROMEGAS detectors in the CAST experiment,Lowering the background level and the energy threshold of Micromegas x-ray detectors for axion searches,0.793382
+MICROMEGAS detectors in the CAST experiment,IAXO-the Future Axion Helioscope,0.470006
+MICROMEGAS detectors in the CAST experiment,Daily modulations and broadband strategy in axion searches. An application with CAST-CAPP detector,0.473949
+MICROMEGAS detectors in the CAST experiment,Real-time antiproton annihilation vertexing with sub-micron resolution,0.394099
+MICROMEGAS detectors in the CAST experiment,Laser Cooling Positronium with Broadband Laser Pulses,0.351147
+"Positronium Laser Cooling via the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>S</mml:mi><mml:mtext>−</mml:mtext><mml:msup><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>P</mml:mi></mml:mrow></mml:math> Transition with a Broadband Laser Pulse",The new micromegas X-ray detectors in CAST,0.248622
+"Positronium Laser Cooling via the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>S</mml:mi><mml:mtext>−</mml:mtext><mml:msup><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>P</mml:mi></mml:mrow></mml:math> Transition with a Broadband Laser Pulse","CIRCUS: an autonomous control system for antimatter, atomic and quantum physics experiments",0.249029
+"Positronium Laser Cooling via the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>S</mml:mi><mml:mtext>−</mml:mtext><mml:msup><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>P</mml:mi></mml:mrow></mml:math> Transition with a Broadband Laser Pulse",TALOS (Total Automation of LabVIEW Operations for Science): A framework for autonomous control systems for complex experiments,0.233209
+"Positronium Laser Cooling via the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>S</mml:mi><mml:mtext>−</mml:mtext><mml:msup><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>P</mml:mi></mml:mrow></mml:math> Transition with a Broadband Laser Pulse",Daily modulations and broadband strategy in axion searches: An application with the CAST-CAPP detector,0.24924
+"Positronium Laser Cooling via the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>S</mml:mi><mml:mtext>−</mml:mtext><mml:msup><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>P</mml:mi></mml:mrow></mml:math> Transition with a Broadband Laser Pulse",Positron-Positronium Converters in Reflection and Transmission Geometry for Gravitational Experiments with Antihydrogen using Moiré Deflectometry,0.566446
+"Positronium Laser Cooling via the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>S</mml:mi><mml:mtext>−</mml:mtext><mml:msup><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>P</mml:mi></mml:mrow></mml:math> Transition with a Broadband Laser Pulse",Search for solar axions produced through the axion-electron coupling gae using a new GridPix detector at CAST,0.292474
+"Positronium Laser Cooling via the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>S</mml:mi><mml:mtext>−</mml:mtext><mml:msup><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>P</mml:mi></mml:mrow></mml:math> Transition with a Broadband Laser Pulse",An InGrid based Low Energy X-ray Detector for the CAST Experiment,0.294064
+"Positronium Laser Cooling via the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>S</mml:mi><mml:mtext>−</mml:mtext><mml:msup><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>P</mml:mi></mml:mrow></mml:math> Transition with a Broadband Laser Pulse",The T-REX project: Micromegas for Rare Event Searches,0.310869
+"Positronium Laser Cooling via the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>S</mml:mi><mml:mtext>−</mml:mtext><mml:msup><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>P</mml:mi></mml:mrow></mml:math> Transition with a Broadband Laser Pulse",Integration and commissioning of ATLAS New Small Wheel Micromegas detectors with electronics at CERN,0.113444
+"Positronium Laser Cooling via the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>S</mml:mi><mml:mtext>−</mml:mtext><mml:msup><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>P</mml:mi></mml:mrow></mml:math> Transition with a Broadband Laser Pulse",An InGrid based Low Energy X-ray Detector,0.280317
+"Positronium Laser Cooling via the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>S</mml:mi><mml:mtext>−</mml:mtext><mml:msup><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>P</mml:mi></mml:mrow></mml:math> Transition with a Broadband Laser Pulse",Signatures for Solar Axions/WISPs,0.356387
+"Positronium Laser Cooling via the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>S</mml:mi><mml:mtext>−</mml:mtext><mml:msup><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>P</mml:mi></mml:mrow></mml:math> Transition with a Broadband Laser Pulse",Positronium laser cooling via the $1^3S$-$2^3P$ transition with a broadband laser pulse,0.989097
+"Positronium Laser Cooling via the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>S</mml:mi><mml:mtext>−</mml:mtext><mml:msup><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>P</mml:mi></mml:mrow></mml:math> Transition with a Broadband Laser Pulse",Performance of micromegas detectors in the CAST Experiment,0.295608
+"Positronium Laser Cooling via the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>S</mml:mi><mml:mtext>−</mml:mtext><mml:msup><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>P</mml:mi></mml:mrow></mml:math> Transition with a Broadband Laser Pulse",Lowering the background level and the energy threshold of Micromegas x-ray detectors for axion searches,0.309397
+"Positronium Laser Cooling via the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>S</mml:mi><mml:mtext>−</mml:mtext><mml:msup><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>P</mml:mi></mml:mrow></mml:math> Transition with a Broadband Laser Pulse",IAXO-the Future Axion Helioscope,0.271419
+"Positronium Laser Cooling via the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>S</mml:mi><mml:mtext>−</mml:mtext><mml:msup><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>P</mml:mi></mml:mrow></mml:math> Transition with a Broadband Laser Pulse",Daily modulations and broadband strategy in axion searches. An application with CAST-CAPP detector,0.271071
+"Positronium Laser Cooling via the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>S</mml:mi><mml:mtext>−</mml:mtext><mml:msup><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>P</mml:mi></mml:mrow></mml:math> Transition with a Broadband Laser Pulse",Real-time antiproton annihilation vertexing with sub-micron resolution,0.289252
+"Positronium Laser Cooling via the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msup><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>S</mml:mi><mml:mtext>−</mml:mtext><mml:msup><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi>P</mml:mi></mml:mrow></mml:math> Transition with a Broadband Laser Pulse",Laser Cooling Positronium with Broadband Laser Pulses,0.875955
+The new micromegas X-ray detectors in CAST,"CIRCUS: an autonomous control system for antimatter, atomic and quantum physics experiments",0.264986
+The new micromegas X-ray detectors in CAST,TALOS (Total Automation of LabVIEW Operations for Science): A framework for autonomous control systems for complex experiments,0.385816
+The new micromegas X-ray detectors in CAST,Daily modulations and broadband strategy in axion searches: An application with the CAST-CAPP detector,0.403028
+The new micromegas X-ray detectors in CAST,Positron-Positronium Converters in Reflection and Transmission Geometry for Gravitational Experiments with Antihydrogen using Moiré Deflectometry,0.4445
+The new micromegas X-ray detectors in CAST,Search for solar axions produced through the axion-electron coupling gae using a new GridPix detector at CAST,0.477994
+The new micromegas X-ray detectors in CAST,An InGrid based Low Energy X-ray Detector for the CAST Experiment,0.750268
+The new micromegas X-ray detectors in CAST,The T-REX project: Micromegas for Rare Event Searches,0.223592
+The new micromegas X-ray detectors in CAST,Integration and commissioning of ATLAS New Small Wheel Micromegas detectors with electronics at CERN,0.430623
+The new micromegas X-ray detectors in CAST,An InGrid based Low Energy X-ray Detector,0.819842
+The new micromegas X-ray detectors in CAST,Signatures for Solar Axions/WISPs,0.37397
+The new micromegas X-ray detectors in CAST,Positronium laser cooling via the $1^3S$-$2^3P$ transition with a broadband laser pulse,0.253992
+The new micromegas X-ray detectors in CAST,Performance of micromegas detectors in the CAST Experiment,0.859074
+The new micromegas X-ray detectors in CAST,Lowering the background level and the energy threshold of Micromegas x-ray detectors for axion searches,0.760189
+The new micromegas X-ray detectors in CAST,IAXO-the Future Axion Helioscope,0.437821
+The new micromegas X-ray detectors in CAST,Daily modulations and broadband strategy in axion searches. An application with CAST-CAPP detector,0.429413
+The new micromegas X-ray detectors in CAST,Real-time antiproton annihilation vertexing with sub-micron resolution,0.403657
+The new micromegas X-ray detectors in CAST,Laser Cooling Positronium with Broadband Laser Pulses,0.324316
+"CIRCUS: an autonomous control system for antimatter, atomic and quantum physics experiments",TALOS (Total Automation of LabVIEW Operations for Science): A framework for autonomous control systems for complex experiments,0.82645
+"CIRCUS: an autonomous control system for antimatter, atomic and quantum physics experiments",Daily modulations and broadband strategy in axion searches: An application with the CAST-CAPP detector,0.294557
+"CIRCUS: an autonomous control system for antimatter, atomic and quantum physics experiments",Positron-Positronium Converters in Reflection and Transmission Geometry for Gravitational Experiments with Antihydrogen using Moiré Deflectometry,0.340078
+"CIRCUS: an autonomous control system for antimatter, atomic and quantum physics experiments",Search for solar axions produced through the axion-electron coupling gae using a new GridPix detector at CAST,0.452465
+"CIRCUS: an autonomous control system for antimatter, atomic and quantum physics experiments",An InGrid based Low Energy X-ray Detector for the CAST Experiment,0.356652
+"CIRCUS: an autonomous control system for antimatter, atomic and quantum physics experiments",The T-REX project: Micromegas for Rare Event Searches,0.302356
+"CIRCUS: an autonomous control system for antimatter, atomic and quantum physics experiments",Integration and commissioning of ATLAS New Small Wheel Micromegas detectors with electronics at CERN,0.454727
+"CIRCUS: an autonomous control system for antimatter, atomic and quantum physics experiments",An InGrid based Low Energy X-ray Detector,0.332266
+"CIRCUS: an autonomous control system for antimatter, atomic and quantum physics experiments",Signatures for Solar Axions/WISPs,0.312658
+"CIRCUS: an autonomous control system for antimatter, atomic and quantum physics experiments",Positronium laser cooling via the $1^3S$-$2^3P$ transition with a broadband laser pulse,0.25765
+"CIRCUS: an autonomous control system for antimatter, atomic and quantum physics experiments",Performance of micromegas detectors in the CAST Experiment,0.359114
+"CIRCUS: an autonomous control system for antimatter, atomic and quantum physics experiments",Lowering the background level and the energy threshold of Micromegas x-ray detectors for axion searches,0.381386
+"CIRCUS: an autonomous control system for antimatter, atomic and quantum physics experiments",IAXO-the Future Axion Helioscope,0.397246
+"CIRCUS: an autonomous control system for antimatter, atomic and quantum physics experiments",Daily modulations and broadband strategy in axion searches. An application with CAST-CAPP detector,0.334893
+"CIRCUS: an autonomous control system for antimatter, atomic and quantum physics experiments",Real-time antiproton annihilation vertexing with sub-micron resolution,0.382115
+"CIRCUS: an autonomous control system for antimatter, atomic and quantum physics experiments",Laser Cooling Positronium with Broadband Laser Pulses,0.335962
+TALOS (Total Automation of LabVIEW Operations for Science): A framework for autonomous control systems for complex experiments,Daily modulations and broadband strategy in axion searches: An application with the CAST-CAPP detector,0.332371
+TALOS (Total Automation of LabVIEW Operations for Science): A framework for autonomous control systems for complex experiments,Positron-Positronium Converters in Reflection and Transmission Geometry for Gravitational Experiments with Antihydrogen using Moiré Deflectometry,0.35712
+TALOS (Total Automation of LabVIEW Operations for Science): A framework for autonomous control systems for complex experiments,Search for solar axions produced through the axion-electron coupling gae using a new GridPix detector at CAST,0.440812
+TALOS (Total Automation of LabVIEW Operations for Science): A framework for autonomous control systems for complex experiments,An InGrid based Low Energy X-ray Detector for the CAST Experiment,0.383615
+TALOS (Total Automation of LabVIEW Operations for Science): A framework for autonomous control systems for complex experiments,The T-REX project: Micromegas for Rare Event Searches,0.247226
+TALOS (Total Automation of LabVIEW Operations for Science): A framework for autonomous control systems for complex experiments,Integration and commissioning of ATLAS New Small Wheel Micromegas detectors with electronics at CERN,0.415877
+TALOS (Total Automation of LabVIEW Operations for Science): A framework for autonomous control systems for complex experiments,An InGrid based Low Energy X-ray Detector,0.403466
+TALOS (Total Automation of LabVIEW Operations for Science): A framework for autonomous control systems for complex experiments,Signatures for Solar Axions/WISPs,0.314887
+TALOS (Total Automation of LabVIEW Operations for Science): A framework for autonomous control systems for complex experiments,Positronium laser cooling via the $1^3S$-$2^3P$ transition with a broadband laser pulse,0.247655
+TALOS (Total Automation of LabVIEW Operations for Science): A framework for autonomous control systems for complex experiments,Performance of micromegas detectors in the CAST Experiment,0.413083
+TALOS (Total Automation of LabVIEW Operations for Science): A framework for autonomous control systems for complex experiments,Lowering the background level and the energy threshold of Micromegas x-ray detectors for axion searches,0.433684
+TALOS (Total Automation of LabVIEW Operations for Science): A framework for autonomous control systems for complex experiments,IAXO-the Future Axion Helioscope,0.369885
+TALOS (Total Automation of LabVIEW Operations for Science): A framework for autonomous control systems for complex experiments,Daily modulations and broadband strategy in axion searches. An application with CAST-CAPP detector,0.337712
+TALOS (Total Automation of LabVIEW Operations for Science): A framework for autonomous control systems for complex experiments,Real-time antiproton annihilation vertexing with sub-micron resolution,0.406351
+TALOS (Total Automation of LabVIEW Operations for Science): A framework for autonomous control systems for complex experiments,Laser Cooling Positronium with Broadband Laser Pulses,0.307851
+Daily modulations and broadband strategy in axion searches: An application with the CAST-CAPP detector,Positron-Positronium Converters in Reflection and Transmission Geometry for Gravitational Experiments with Antihydrogen using Moiré Deflectometry,0.243703
+Daily modulations and broadband strategy in axion searches: An application with the CAST-CAPP detector,Search for solar axions produced through the axion-electron coupling gae using a new GridPix detector at CAST,0.642896
+Daily modulations and broadband strategy in axion searches: An application with the CAST-CAPP detector,An InGrid based Low Energy X-ray Detector for the CAST Experiment,0.517274
+Daily modulations and broadband strategy in axion searches: An application with the CAST-CAPP detector,The T-REX project: Micromegas for Rare Event Searches,0.359246
+Daily modulations and broadband strategy in axion searches: An application with the CAST-CAPP detector,Integration and commissioning of ATLAS New Small Wheel Micromegas detectors with electronics at CERN,0.245581
+Daily modulations and broadband strategy in axion searches: An application with the CAST-CAPP detector,An InGrid based Low Energy X-ray Detector,0.44973
+Daily modulations and broadband strategy in axion searches: An application with the CAST-CAPP detector,Signatures for Solar Axions/WISPs,0.715206
+Daily modulations and broadband strategy in axion searches: An application with the CAST-CAPP detector,Positronium laser cooling via the $1^3S$-$2^3P$ transition with a broadband laser pulse,0.261727
+Daily modulations and broadband strategy in axion searches: An application with the CAST-CAPP detector,Performance of micromegas detectors in the CAST Experiment,0.603881
+Daily modulations and broadband strategy in axion searches: An application with the CAST-CAPP detector,Lowering the background level and the energy threshold of Micromegas x-ray detectors for axion searches,0.614373
+Daily modulations and broadband strategy in axion searches: An application with the CAST-CAPP detector,IAXO-the Future Axion Helioscope,0.676988
+Daily modulations and broadband strategy in axion searches: An application with the CAST-CAPP detector,Daily modulations and broadband strategy in axion searches. An application with CAST-CAPP detector,0.918516
+Daily modulations and broadband strategy in axion searches: An application with the CAST-CAPP detector,Real-time antiproton annihilation vertexing with sub-micron resolution,0.331427
+Daily modulations and broadband strategy in axion searches: An application with the CAST-CAPP detector,Laser Cooling Positronium with Broadband Laser Pulses,0.264462
+Positron-Positronium Converters in Reflection and Transmission Geometry for Gravitational Experiments with Antihydrogen using Moiré Deflectometry,Search for solar axions produced through the axion-electron coupling gae using a new GridPix detector at CAST,0.35068
+Positron-Positronium Converters in Reflection and Transmission Geometry for Gravitational Experiments with Antihydrogen using Moiré Deflectometry,An InGrid based Low Energy X-ray Detector for the CAST Experiment,0.451751
+Positron-Positronium Converters in Reflection and Transmission Geometry for Gravitational Experiments with Antihydrogen using Moiré Deflectometry,The T-REX project: Micromegas for Rare Event Searches,0.376662
+Positron-Positronium Converters in Reflection and Transmission Geometry for Gravitational Experiments with Antihydrogen using Moiré Deflectometry,Integration and commissioning of ATLAS New Small Wheel Micromegas detectors with electronics at CERN,0.339876
+Positron-Positronium Converters in Reflection and Transmission Geometry for Gravitational Experiments with Antihydrogen using Moiré Deflectometry,An InGrid based Low Energy X-ray Detector,0.459427
+Positron-Positronium Converters in Reflection and Transmission Geometry for Gravitational Experiments with Antihydrogen using Moiré Deflectometry,Signatures for Solar Axions/WISPs,0.289648
+Positron-Positronium Converters in Reflection and Transmission Geometry for Gravitational Experiments with Antihydrogen using Moiré Deflectometry,Positronium laser cooling via the $1^3S$-$2^3P$ transition with a broadband laser pulse,0.546548
+Positron-Positronium Converters in Reflection and Transmission Geometry for Gravitational Experiments with Antihydrogen using Moiré Deflectometry,Performance of micromegas detectors in the CAST Experiment,0.428061
+Positron-Positronium Converters in Reflection and Transmission Geometry for Gravitational Experiments with Antihydrogen using Moiré Deflectometry,Lowering the background level and the energy threshold of Micromegas x-ray detectors for axion searches,0.444
+Positron-Positronium Converters in Reflection and Transmission Geometry for Gravitational Experiments with Antihydrogen using Moiré Deflectometry,IAXO-the Future Axion Helioscope,0.311095
+Positron-Positronium Converters in Reflection and Transmission Geometry for Gravitational Experiments with Antihydrogen using Moiré Deflectometry,Daily modulations and broadband strategy in axion searches. An application with CAST-CAPP detector,0.263443
+Positron-Positronium Converters in Reflection and Transmission Geometry for Gravitational Experiments with Antihydrogen using Moiré Deflectometry,Real-time antiproton annihilation vertexing with sub-micron resolution,0.527739
+Positron-Positronium Converters in Reflection and Transmission Geometry for Gravitational Experiments with Antihydrogen using Moiré Deflectometry,Laser Cooling Positronium with Broadband Laser Pulses,0.651436
+Search for solar axions produced through the axion-electron coupling gae using a new GridPix detector at CAST,An InGrid based Low Energy X-ray Detector for the CAST Experiment,0.69113
+Search for solar axions produced through the axion-electron coupling gae using a new GridPix detector at CAST,The T-REX project: Micromegas for Rare Event Searches,0.373853
+Search for solar axions produced through the axion-electron coupling gae using a new GridPix detector at CAST,Integration and commissioning of ATLAS New Small Wheel Micromegas detectors with electronics at CERN,0.391386
+Search for solar axions produced through the axion-electron coupling gae using a new GridPix detector at CAST,An InGrid based Low Energy X-ray Detector,0.601634
+Search for solar axions produced through the axion-electron coupling gae using a new GridPix detector at CAST,Signatures for Solar Axions/WISPs,0.733252
+Search for solar axions produced through the axion-electron coupling gae using a new GridPix detector at CAST,Positronium laser cooling via the $1^3S$-$2^3P$ transition with a broadband laser pulse,0.298436
+Search for solar axions produced through the axion-electron coupling gae using a new GridPix detector at CAST,Performance of micromegas detectors in the CAST Experiment,0.685844
+Search for solar axions produced through the axion-electron coupling gae using a new GridPix detector at CAST,Lowering the background level and the energy threshold of Micromegas x-ray detectors for axion searches,0.777661
+Search for solar axions produced through the axion-electron coupling gae using a new GridPix detector at CAST,IAXO-the Future Axion Helioscope,0.776763
+Search for solar axions produced through the axion-electron coupling gae using a new GridPix detector at CAST,Daily modulations and broadband strategy in axion searches. An application with CAST-CAPP detector,0.635556
+Search for solar axions produced through the axion-electron coupling gae using a new GridPix detector at CAST,Real-time antiproton annihilation vertexing with sub-micron resolution,0.347292
+Search for solar axions produced through the axion-electron coupling gae using a new GridPix detector at CAST,Laser Cooling Positronium with Broadband Laser Pulses,0.347293
+An InGrid based Low Energy X-ray Detector for the CAST Experiment,The T-REX project: Micromegas for Rare Event Searches,0.304299
+An InGrid based Low Energy X-ray Detector for the CAST Experiment,Integration and commissioning of ATLAS New Small Wheel Micromegas detectors with electronics at CERN,0.504931
+An InGrid based Low Energy X-ray Detector for the CAST Experiment,An InGrid based Low Energy X-ray Detector,0.860712
+An InGrid based Low Energy X-ray Detector for the CAST Experiment,Signatures for Solar Axions/WISPs,0.595549
+An InGrid based Low Energy X-ray Detector for the CAST Experiment,Positronium laser cooling via the $1^3S$-$2^3P$ transition with a broadband laser pulse,0.290429
+An InGrid based Low Energy X-ray Detector for the CAST Experiment,Performance of micromegas detectors in the CAST Experiment,0.842068
+An InGrid based Low Energy X-ray Detector for the CAST Experiment,Lowering the background level and the energy threshold of Micromegas x-ray detectors for axion searches,0.859518
+An InGrid based Low Energy X-ray Detector for the CAST Experiment,IAXO-the Future Axion Helioscope,0.661369
+An InGrid based Low Energy X-ray Detector for the CAST Experiment,Daily modulations and broadband strategy in axion searches. An application with CAST-CAPP detector,0.547249
+An InGrid based Low Energy X-ray Detector for the CAST Experiment,Real-time antiproton annihilation vertexing with sub-micron resolution,0.404445
+An InGrid based Low Energy X-ray Detector for the CAST Experiment,Laser Cooling Positronium with Broadband Laser Pulses,0.386968
+The T-REX project: Micromegas for Rare Event Searches,Integration and commissioning of ATLAS New Small Wheel Micromegas detectors with electronics at CERN,0.211124
+The T-REX project: Micromegas for Rare Event Searches,An InGrid based Low Energy X-ray Detector,0.275314
+The T-REX project: Micromegas for Rare Event Searches,Signatures for Solar Axions/WISPs,0.458015
+The T-REX project: Micromegas for Rare Event Searches,Positronium laser cooling via the $1^3S$-$2^3P$ transition with a broadband laser pulse,0.307683
+The T-REX project: Micromegas for Rare Event Searches,Performance of micromegas detectors in the CAST Experiment,0.296142
+The T-REX project: Micromegas for Rare Event Searches,Lowering the background level and the energy threshold of Micromegas x-ray detectors for axion searches,0.320038
+The T-REX project: Micromegas for Rare Event Searches,IAXO-the Future Axion Helioscope,0.366055
+The T-REX project: Micromegas for Rare Event Searches,Daily modulations and broadband strategy in axion searches. An application with CAST-CAPP detector,0.377068
+The T-REX project: Micromegas for Rare Event Searches,Real-time antiproton annihilation vertexing with sub-micron resolution,0.263208
+The T-REX project: Micromegas for Rare Event Searches,Laser Cooling Positronium with Broadband Laser Pulses,0.285084
+Integration and commissioning of ATLAS New Small Wheel Micromegas detectors with electronics at CERN,An InGrid based Low Energy X-ray Detector,0.527387
+Integration and commissioning of ATLAS New Small Wheel Micromegas detectors with electronics at CERN,Signatures for Solar Axions/WISPs,0.220191
+Integration and commissioning of ATLAS New Small Wheel Micromegas detectors with electronics at CERN,Positronium laser cooling via the $1^3S$-$2^3P$ transition with a broadband laser pulse,0.105595
+Integration and commissioning of ATLAS New Small Wheel Micromegas detectors with electronics at CERN,Performance of micromegas detectors in the CAST Experiment,0.485844
+Integration and commissioning of ATLAS New Small Wheel Micromegas detectors with electronics at CERN,Lowering the background level and the energy threshold of Micromegas x-ray detectors for axion searches,0.480342
+Integration and commissioning of ATLAS New Small Wheel Micromegas detectors with electronics at CERN,IAXO-the Future Axion Helioscope,0.345726
+Integration and commissioning of ATLAS New Small Wheel Micromegas detectors with electronics at CERN,Daily modulations and broadband strategy in axion searches. An application with CAST-CAPP detector,0.301938
+Integration and commissioning of ATLAS New Small Wheel Micromegas detectors with electronics at CERN,Real-time antiproton annihilation vertexing with sub-micron resolution,0.254798
+Integration and commissioning of ATLAS New Small Wheel Micromegas detectors with electronics at CERN,Laser Cooling Positronium with Broadband Laser Pulses,0.159804
+An InGrid based Low Energy X-ray Detector,Signatures for Solar Axions/WISPs,0.476014
+An InGrid based Low Energy X-ray Detector,Positronium laser cooling via the $1^3S$-$2^3P$ transition with a broadband laser pulse,0.276611
+An InGrid based Low Energy X-ray Detector,Performance of micromegas detectors in the CAST Experiment,0.850602
+An InGrid based Low Energy X-ray Detector,Lowering the background level and the energy threshold of Micromegas x-ray detectors for axion searches,0.839346
+An InGrid based Low Energy X-ray Detector,IAXO-the Future Axion Helioscope,0.557134
+An InGrid based Low Energy X-ray Detector,Daily modulations and broadband strategy in axion searches. An application with CAST-CAPP detector,0.478937
+An InGrid based Low Energy X-ray Detector,Real-time antiproton annihilation vertexing with sub-micron resolution,0.386766
+An InGrid based Low Energy X-ray Detector,Laser Cooling Positronium with Broadband Laser Pulses,0.347394
+Signatures for Solar Axions/WISPs,Positronium laser cooling via the $1^3S$-$2^3P$ transition with a broadband laser pulse,0.365915
+Signatures for Solar Axions/WISPs,Performance of micromegas detectors in the CAST Experiment,0.586408
+Signatures for Solar Axions/WISPs,Lowering the background level and the energy threshold of Micromegas x-ray detectors for axion searches,0.65335
+Signatures for Solar Axions/WISPs,IAXO-the Future Axion Helioscope,0.707628
+Signatures for Solar Axions/WISPs,Daily modulations and broadband strategy in axion searches. An application with CAST-CAPP detector,0.714834
+Signatures for Solar Axions/WISPs,Real-time antiproton annihilation vertexing with sub-micron resolution,0.291853
+Signatures for Solar Axions/WISPs,Laser Cooling Positronium with Broadband Laser Pulses,0.379094
+Positronium laser cooling via the $1^3S$-$2^3P$ transition with a broadband laser pulse,Performance of micromegas detectors in the CAST Experiment,0.299906
+Positronium laser cooling via the $1^3S$-$2^3P$ transition with a broadband laser pulse,Lowering the background level and the energy threshold of Micromegas x-ray detectors for axion searches,0.30685
+Positronium laser cooling via the $1^3S$-$2^3P$ transition with a broadband laser pulse,IAXO-the Future Axion Helioscope,0.269707
+Positronium laser cooling via the $1^3S$-$2^3P$ transition with a broadband laser pulse,Daily modulations and broadband strategy in axion searches. An application with CAST-CAPP detector,0.285165
+Positronium laser cooling via the $1^3S$-$2^3P$ transition with a broadband laser pulse,Real-time antiproton annihilation vertexing with sub-micron resolution,0.298421
+Positronium laser cooling via the $1^3S$-$2^3P$ transition with a broadband laser pulse,Laser Cooling Positronium with Broadband Laser Pulses,0.878602
+Performance of micromegas detectors in the CAST Experiment,Lowering the background level and the energy threshold of Micromegas x-ray detectors for axion searches,0.888894
+Performance of micromegas detectors in the CAST Experiment,IAXO-the Future Axion Helioscope,0.654253
+Performance of micromegas detectors in the CAST Experiment,Daily modulations and broadband strategy in axion searches. An application with CAST-CAPP detector,0.621153
+Performance of micromegas detectors in the CAST Experiment,Real-time antiproton annihilation vertexing with sub-micron resolution,0.413763
+Performance of micromegas detectors in the CAST Experiment,Laser Cooling Positronium with Broadband Laser Pulses,0.361677
+Lowering the background level and the energy threshold of Micromegas x-ray detectors for axion searches,IAXO-the Future Axion Helioscope,0.793248
+Lowering the background level and the energy threshold of Micromegas x-ray detectors for axion searches,Daily modulations and broadband strategy in axion searches. An application with CAST-CAPP detector,0.619318
+Lowering the background level and the energy threshold of Micromegas x-ray detectors for axion searches,Real-time antiproton annihilation vertexing with sub-micron resolution,0.395665
+Lowering the background level and the energy threshold of Micromegas x-ray detectors for axion searches,Laser Cooling Positronium with Broadband Laser Pulses,0.387703
+IAXO-the Future Axion Helioscope,Daily modulations and broadband strategy in axion searches. An application with CAST-CAPP detector,0.672085
+IAXO-the Future Axion Helioscope,Real-time antiproton annihilation vertexing with sub-micron resolution,0.33366
+IAXO-the Future Axion Helioscope,Laser Cooling Positronium with Broadband Laser Pulses,0.325521
+Daily modulations and broadband strategy in axion searches. An application with CAST-CAPP detector,Real-time antiproton annihilation vertexing with sub-micron resolution,0.342241
+Daily modulations and broadband strategy in axion searches. An application with CAST-CAPP detector,Laser Cooling Positronium with Broadband Laser Pulses,0.294381
+Real-time antiproton annihilation vertexing with sub-micron resolution,Laser Cooling Positronium with Broadband Laser Pulses,0.415887

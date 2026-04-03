@@ -1,0 +1,29 @@
+title_i,title_j,cosine_similarity
+Parkes observations for project P885 semester 2017OCTS,Parkes observations for project P885 semester 2021APRS_03,0.827361
+Parkes observations for project P885 semester 2017OCTS,Parkes observations for project P885 semester 2021APRS_04,0.827361
+Parkes observations for project P885 semester 2017OCTS,Long-term project observations for project P885 semester 2025OCTS_10,0.825212
+Parkes observations for project P885 semester 2017OCTS,Long-term project observations for project P885 semester 2025OCTS_11,0.825212
+Parkes observations for project P885 semester 2017OCTS,Long-term project observations for project P885 semester 2025OCTS_12,0.825212
+Parkes observations for project P885 semester 2017OCTS,Long-term project observations for project P885 semester 2025OCTS_13,0.825212
+Parkes observations for project P885 semester 2017OCTS,Long-term project observations for project P885 semester 2025OCTS_16,0.825212
+Parkes observations for project P885 semester 2021APRS_03,Parkes observations for project P885 semester 2021APRS_04,1.0
+Parkes observations for project P885 semester 2021APRS_03,Long-term project observations for project P885 semester 2025OCTS_10,0.838282
+Parkes observations for project P885 semester 2021APRS_03,Long-term project observations for project P885 semester 2025OCTS_11,0.838282
+Parkes observations for project P885 semester 2021APRS_03,Long-term project observations for project P885 semester 2025OCTS_12,0.838282
+Parkes observations for project P885 semester 2021APRS_03,Long-term project observations for project P885 semester 2025OCTS_13,0.838282
+Parkes observations for project P885 semester 2021APRS_03,Long-term project observations for project P885 semester 2025OCTS_16,0.838282
+Parkes observations for project P885 semester 2021APRS_04,Long-term project observations for project P885 semester 2025OCTS_10,0.838282
+Parkes observations for project P885 semester 2021APRS_04,Long-term project observations for project P885 semester 2025OCTS_11,0.838282
+Parkes observations for project P885 semester 2021APRS_04,Long-term project observations for project P885 semester 2025OCTS_12,0.838282
+Parkes observations for project P885 semester 2021APRS_04,Long-term project observations for project P885 semester 2025OCTS_13,0.838282
+Parkes observations for project P885 semester 2021APRS_04,Long-term project observations for project P885 semester 2025OCTS_16,0.838282
+Long-term project observations for project P885 semester 2025OCTS_10,Long-term project observations for project P885 semester 2025OCTS_11,1.0
+Long-term project observations for project P885 semester 2025OCTS_10,Long-term project observations for project P885 semester 2025OCTS_12,1.0
+Long-term project observations for project P885 semester 2025OCTS_10,Long-term project observations for project P885 semester 2025OCTS_13,1.0
+Long-term project observations for project P885 semester 2025OCTS_10,Long-term project observations for project P885 semester 2025OCTS_16,1.0
+Long-term project observations for project P885 semester 2025OCTS_11,Long-term project observations for project P885 semester 2025OCTS_12,1.0
+Long-term project observations for project P885 semester 2025OCTS_11,Long-term project observations for project P885 semester 2025OCTS_13,1.0
+Long-term project observations for project P885 semester 2025OCTS_11,Long-term project observations for project P885 semester 2025OCTS_16,1.0
+Long-term project observations for project P885 semester 2025OCTS_12,Long-term project observations for project P885 semester 2025OCTS_13,1.0
+Long-term project observations for project P885 semester 2025OCTS_12,Long-term project observations for project P885 semester 2025OCTS_16,1.0
+Long-term project observations for project P885 semester 2025OCTS_13,Long-term project observations for project P885 semester 2025OCTS_16,1.0

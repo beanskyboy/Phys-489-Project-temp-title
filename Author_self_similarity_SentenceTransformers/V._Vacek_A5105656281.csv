@@ -1,497 +1,529 @@
-abstract_i,abstract_j,cosine_similarity
-0,1,0.784196
-0,2,0.792982
-0,3,0.489771
-0,4,0.139008
-0,5,0.756331
-0,6,0.497854
-0,7,0.158387
-0,8,0.465248
-0,9,0.684385
-0,10,0.650978
-0,11,0.299397
-0,12,0.759571
-0,13,0.374713
-0,14,0.386337
-0,15,0.465787
-0,16,0.783545
-0,17,0.124136
-0,18,0.28686
-0,19,0.628365
-0,20,-0.063441
-0,21,0.191211
-0,22,0.223082
-0,23,0.86763
-0,24,0.322647
-0,25,0.745246
-0,26,0.790605
-0,27,0.498954
-0,28,0.214216
-0,29,0.225394
-0,30,0.315888
-0,31,0.352802
-1,2,0.780413
-1,3,0.636643
-1,4,0.154294
-1,5,0.823469
-1,6,0.575164
-1,7,0.172565
-1,8,0.605894
-1,9,0.701694
-1,10,0.814651
-1,11,0.31141
-1,12,0.75475
-1,13,0.475146
-1,14,0.348436
-1,15,0.543317
-1,16,0.856617
-1,17,0.126747
-1,18,0.262272
-1,19,0.723481
-1,20,-0.036357
-1,21,0.136038
-1,22,0.271003
-1,23,0.825676
-1,24,0.266245
-1,25,0.769457
-1,26,0.961963
-1,27,0.558578
-1,28,0.088909
-1,29,0.159016
-1,30,0.305688
-1,31,0.455921
-2,3,0.539015
-2,4,0.083654
-2,5,0.734424
-2,6,0.488973
-2,7,0.103202
-2,8,0.428449
-2,9,0.779257
-2,10,0.677177
-2,11,0.227102
-2,12,0.797324
-2,13,0.331862
-2,14,0.342323
-2,15,0.43902
-2,16,0.727233
-2,17,0.055708
-2,18,0.195451
-2,19,0.64044
-2,20,-0.056948
-2,21,0.099582
-2,22,0.124194
-2,23,0.831584
-2,24,0.32153
-2,25,0.705792
-2,26,0.806667
-2,27,0.474559
-2,28,0.295878
-2,29,0.344222
-2,30,0.399144
-2,31,0.387286
-3,4,0.086231
-3,5,0.78661
-3,6,0.790918
-3,7,0.16726
-3,8,0.668961
-3,9,0.748997
-3,10,0.604344
-3,11,0.128409
-3,12,0.65986
-3,13,0.37919
-3,14,0.326498
-3,15,0.728208
-3,16,0.607985
-3,17,0.122817
-3,18,0.152516
-3,19,0.817567
-3,20,-0.006218
-3,21,0.136013
-3,22,0.193143
-3,23,0.648215
-3,24,0.310776
-3,25,0.790981
-3,26,0.593143
-3,27,0.724474
-3,28,0.374059
-3,29,0.398238
-3,30,0.549381
-3,31,0.69255
-4,5,0.168872
-4,6,0.183194
-4,7,0.586749
-4,8,0.115544
-4,9,0.080487
-4,10,0.147845
-4,11,0.146653
-4,12,0.102487
-4,13,0.199148
-4,14,0.192398
-4,15,0.235067
-4,16,0.167227
-4,17,0.879795
-4,18,0.047185
-4,19,0.103597
-4,20,-0.03318
-4,21,0.299438
-4,22,0.323758
-4,23,0.186516
-4,24,0.120868
-4,25,0.158575
-4,26,0.153289
-4,27,0.171619
-4,28,0.00578
-4,29,0.023482
-4,30,0.041534
-4,31,0.1928
-5,6,0.776152
-5,7,0.165044
-5,8,0.738246
-5,9,0.843123
-5,10,0.747856
-5,11,0.214224
-5,12,0.812705
-5,13,0.389937
-5,14,0.372216
-5,15,0.710252
-5,16,0.843423
-5,17,0.157299
-5,18,0.198895
-5,19,0.910986
-5,20,-0.022649
-5,21,0.150929
-5,22,0.255269
-5,23,0.886164
-5,24,0.33874
-5,25,0.931107
-5,26,0.787073
-5,27,0.776965
-5,28,0.292589
-5,29,0.31545
-5,30,0.541703
-5,31,0.622448
-6,7,0.237376
-6,8,0.698464
-6,9,0.722026
-6,10,0.492712
-6,11,0.072083
-6,12,0.607742
-6,13,0.31873
-6,14,0.249851
-6,15,0.780576
-6,16,0.629367
-6,17,0.214004
-6,18,0.106695
-6,19,0.734876
-6,20,-0.04403
-6,21,0.181647
-6,22,0.193633
-6,23,0.655596
-6,24,0.290762
-6,25,0.754747
-6,26,0.555539
-6,27,0.737572
-6,28,0.287822
-6,29,0.28584
-6,30,0.508703
-6,31,0.703181
-7,8,0.055426
-7,9,0.06859
-7,10,0.140124
-7,11,0.212635
-7,12,0.109676
-7,13,0.285693
-7,14,0.35259
-7,15,0.222512
-7,16,0.173907
-7,17,0.588253
-7,18,0.174385
-7,19,0.113215
-7,20,-0.061283
-7,21,0.295386
-7,22,0.398676
-7,23,0.167553
-7,24,0.176935
-7,25,0.161524
-7,26,0.169345
-7,27,0.18488
-7,28,0.028131
-7,29,0.004865
-7,30,0.010038
-7,31,0.183872
-8,9,0.679009
-8,10,0.64482
-8,11,0.163847
-8,12,0.603207
-8,13,0.293781
-8,14,0.231778
-8,15,0.69961
-8,16,0.709328
-8,17,0.107242
-8,18,0.200189
-8,19,0.716717
-8,20,-0.029164
-8,21,0.091916
-8,22,0.1613
-8,23,0.629678
-8,24,0.261885
-8,25,0.697282
-8,26,0.605568
-8,27,0.771533
-8,28,0.077339
-8,29,0.138324
-8,30,0.596892
-8,31,0.609054
-9,10,0.66933
-9,11,0.196328
-9,12,0.888099
-9,13,0.303358
-9,14,0.298008
-9,15,0.706713
-9,16,0.788466
-9,17,0.060233
-9,18,0.20393
-9,19,0.825269
-9,20,-0.030735
-9,21,0.07317
-9,22,0.117085
-9,23,0.840597
-9,24,0.385985
-9,25,0.847334
-9,26,0.706423
-9,27,0.733317
-9,28,0.322826
-9,29,0.388712
-9,30,0.676129
-9,31,0.660648
-10,11,0.28811
-10,12,0.666092
-10,13,0.393186
-10,14,0.34471
-10,15,0.529635
-10,16,0.797972
-10,17,0.098405
-10,18,0.250989
-10,19,0.704129
-10,20,-0.038453
-10,21,0.11907
-10,22,0.259752
-10,23,0.745713
-10,24,0.249331
-10,25,0.710769
-10,26,0.817662
-10,27,0.580314
-10,28,0.109327
-10,29,0.178454
-10,30,0.43829
-10,31,0.468251
-11,12,0.277864
-11,13,0.473196
-11,14,0.42665
-11,15,0.104249
-11,16,0.31702
-11,17,0.15704
-11,18,0.855705
-11,19,0.174956
-11,20,-0.026111
-11,21,0.179474
-11,22,0.203306
-11,23,0.282775
-11,24,0.188643
-11,25,0.231241
-11,26,0.338261
-11,27,0.174539
-11,28,0.056675
-11,29,0.075453
-11,30,0.057095
-11,31,0.13773
-12,13,0.374657
-12,14,0.42079
-12,15,0.572276
-12,16,0.767362
-12,17,0.08041
-12,18,0.289417
-12,19,0.741042
-12,20,-0.05618
-12,21,0.150689
-12,22,0.155693
-12,23,0.854383
-12,24,0.42515
-12,25,0.831266
-12,26,0.750226
-12,27,0.604691
-12,28,0.238671
-12,29,0.279171
-12,30,0.479732
-12,31,0.494923
-13,14,0.470706
-13,15,0.305008
-13,16,0.403158
-13,17,0.211434
-13,18,0.470151
-13,19,0.312263
-13,20,-0.084817
-13,21,0.269399
-13,22,0.305749
-13,23,0.391544
-13,24,0.265888
-13,25,0.368584
-13,26,0.458724
-13,27,0.290128
-13,28,0.096322
-13,29,0.151041
-13,30,0.097568
-13,31,0.306546
-14,15,0.205961
-14,16,0.330321
-14,17,0.21073
-14,18,0.45914
-14,19,0.262135
-14,20,0.04948
-14,21,0.343229
-14,22,0.253431
-14,23,0.351544
-14,24,0.355348
-14,25,0.373145
-14,26,0.350466
-14,27,0.271448
-14,28,0.180862
-14,29,0.132734
-14,30,0.109401
-14,31,0.199838
-15,16,0.629272
-15,17,0.218545
-15,18,0.095335
-15,19,0.679911
-15,20,-0.01123
-15,21,0.163511
-15,22,0.224153
-15,23,0.671141
-15,24,0.346959
-15,25,0.673648
-15,26,0.509687
-15,27,0.855507
-15,28,0.321333
-15,29,0.36671
-15,30,0.628505
-15,31,0.839838
-16,17,0.139167
-16,18,0.289092
-16,19,0.754839
-16,20,-0.014762
-16,21,0.142663
-16,22,0.219892
-16,23,0.862585
-16,24,0.287108
-16,25,0.80628
-16,26,0.872609
-16,27,0.679718
-16,28,0.102201
-16,29,0.164312
-16,30,0.502606
-16,31,0.547878
-17,18,0.063638
-17,19,0.107734
-17,20,-0.076774
-17,21,0.333526
-17,22,0.408538
-17,23,0.163743
-17,24,0.127801
-17,25,0.142342
-17,26,0.126091
-17,27,0.175179
-17,28,0.020637
-17,29,0.035516
-17,30,0.017012
-17,31,0.162988
-18,19,0.161027
-18,20,-0.021088
-18,21,0.230483
-18,22,0.130313
-18,23,0.240145
-18,24,0.233819
-18,25,0.231111
-18,26,0.280478
-18,27,0.157131
-18,28,0.087053
-18,29,0.079215
-18,30,0.071672
-18,31,0.14239
-19,20,-0.003301
-19,21,0.079747
-19,22,0.206563
-19,23,0.777805
-19,24,0.269419
-19,25,0.942455
-19,26,0.68472
-19,27,0.730817
-19,28,0.308489
-19,29,0.333478
-19,30,0.611398
-19,31,0.611964
-20,21,0.003913
-20,22,-0.054319
-20,23,-0.057372
-20,24,0.002757
-20,25,-0.012774
-20,26,-0.041351
-20,27,-0.002435
-20,28,0.052058
-20,29,0.010581
-20,30,0.059301
-20,31,0.010484
-21,22,0.373317
-21,23,0.143372
-21,24,0.228745
-21,25,0.161838
-21,26,0.128674
-21,27,0.141997
-21,28,0.096129
-21,29,0.095818
-21,30,-0.003771
-21,31,0.142111
-22,23,0.234437
-22,24,0.238633
-22,25,0.205895
-22,26,0.251585
-22,27,0.257933
-22,28,0.099168
-22,29,0.098918
-22,30,-0.042709
-22,31,0.121991
-23,24,0.376962
-23,25,0.844616
-23,26,0.82339
-23,27,0.703819
-23,28,0.26431
-23,29,0.320797
-23,30,0.520795
-23,31,0.567929
-24,25,0.333298
-24,26,0.28504
-24,27,0.316246
-24,28,0.205238
-24,29,0.263547
-24,30,0.254976
-24,31,0.375466
-25,26,0.737548
-25,27,0.708367
-25,28,0.303454
-25,29,0.307568
-25,30,0.584666
-25,31,0.593742
-26,27,0.537132
-26,28,0.064
-26,29,0.124411
-26,30,0.321387
-26,31,0.443096
-27,28,0.269875
-27,29,0.33882
-27,30,0.644002
-27,31,0.754075
-28,29,0.794356
-28,30,0.278005
-28,31,0.312115
-29,30,0.35544
-29,31,0.382313
-30,31,0.672815
+title_i,title_j,cosine_similarity
+The evaporative cooling system for the ATLAS inner detector,The Thermosiphon Cooling System of the ATLAS Experiment at the CERN Large Hadron Collider,0.855507
+The evaporative cooling system for the ATLAS inner detector,A combined ultrasonic flow meter and binary vapour mixture analyzer for the ATLAS silicon tracker,0.710252
+The evaporative cooling system for the ATLAS inner detector,The cooling capabilities of C<sub>2</sub>F<sub>6</sub>/C<sub>3</sub>F<sub>8</sub>saturated fluorocarbon blends for the ATLAS silicon tracker,0.780576
+The evaporative cooling system for the ATLAS inner detector,An On-Line Acoustic Fluorocarbon Coolant Mixture Analyzer for the ATLAS Silicon Tracker,0.728208
+The evaporative cooling system for the ATLAS inner detector,"Development of a custom on-line ultrasonic vapour analyzer and flow meter for the ATLAS inner detector, with application to Cherenkov and gaseous charged particle detectors",0.706713
+The evaporative cooling system for the ATLAS inner detector,Performance of the ALICE SPD cooling system,0.839838
+The evaporative cooling system for the ATLAS inner detector,"Development of a custom on-line ultrasonic vapour analyzer/flowmeter for the ATLAS inner detector, with application to gaseous tracking and Cherenkov detectors",0.572276
+The evaporative cooling system for the ATLAS inner detector,"A Custom Online Ultrasonic Gas Mixture Analyzer With Simultaneous Flowmetry, Developed for the Upgraded Evaporative Cooling System of the ATLAS Silicon Tracker",0.543317
+The evaporative cooling system for the ATLAS inner detector,Oxygen electrode response lag induced by liquid film resistance against oxygen transfer,0.095335
+The evaporative cooling system for the ATLAS inner detector,Dynamic measurement of the volumetric mass transfer coefficient in agitated vessels: Effect of the start‐up period on the response of an oxygen electrode,0.104249
+The evaporative cooling system for the ATLAS inner detector,Oxygen Probe Dynamics in Flowing Fluids,0.205961
+The evaporative cooling system for the ATLAS inner detector,Transient characteristics of oxygen probes with significant liquid film effects,0.305008
+The evaporative cooling system for the ATLAS inner detector,Development of fluorocarbon evaporative cooling recirculators and controls for the ATLAS inner silicon tracker,0.69961
+The evaporative cooling system for the ATLAS inner detector,"A custom on-line ultrasonic gas mixture analyzer with simultaneous flowmetry developed for use in the LHC-ATLAS experiment, with wide application in high and low flow gas delivery systems",0.509687
+The evaporative cooling system for the ATLAS inner detector,Custom ultrasonic instrumentation for flow measurement and real-time binary gas analysis in the CERN ATLAS experiment,0.629272
+The evaporative cooling system for the ATLAS inner detector,A Combined On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyser for the ATLAS Silicon Tracker,-0.01123
+The evaporative cooling system for the ATLAS inner detector,Applications and Perspectives of Ultrasonic Multi-Gas Analysis with Simultaneous Flowmetry,0.465787
+The evaporative cooling system for the ATLAS inner detector,Recrystallization rates at periodic temperature changes,0.218545
+The evaporative cooling system for the ATLAS inner detector,Periodical temperature changes and the behaviour of individual crystals,0.222512
+The evaporative cooling system for the ATLAS inner detector,First determination of the $\rho $ parameter at $\sqrt{s} = 13$ TeV -- probing the existence of a colourless three-gluon bound state,0.321333
+The evaporative cooling system for the ATLAS inner detector,AIRFLY: Air Fluorescence Induced by Electrons in a Wide Energy Range,0.346959
+The evaporative cooling system for the ATLAS inner detector,Continuous Recrystallization in a Double Crystallizer,0.235067
+The evaporative cooling system for the ATLAS inner detector,A Combine On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyzer for The ATLAS Silicon Tracker,0.673648
+The evaporative cooling system for the ATLAS inner detector,First Results from the TOTEM Experiment,0.36671
+The evaporative cooling system for the ATLAS inner detector,Development of a Detector Control System for the ATLAS Pixel Detector,0.628505
+The evaporative cooling system for the ATLAS inner detector,Simultaneous On-line Ultrasonic Flowmetery and Binary Gas Mixture Analysis for the ATLAS Silicon Tracker Cooling Control System,0.529635
+The evaporative cooling system for the ATLAS inner detector,A COMBINED ON-LINE ACOUSTIC FLOWMETER AND FLUOROCARBON COOLANT MIXTURE ANALYZER FOR THE ATLAS,0.679911
+The evaporative cooling system for the ATLAS inner detector,Implementation of an ultrasonic instrument for simultaneous mixture and flow analysis of binary gas systems,0.43902
+The evaporative cooling system for the ATLAS inner detector,Applications and perspectives of gas analysis based on sonar instrumentation,0.671141
+The evaporative cooling system for the ATLAS inner detector,ChemInform Abstract: PERIODIC TEMPERATURE CHANGES AND CRYSTAL RIPENING,0.224153
+The evaporative cooling system for the ATLAS inner detector,ChemInform Abstract: INTEGRAL HEAT OF DISSOLUTION OF POTASSIUM CHLORATE IN WATER AT 298.15 K,0.163511
+The evaporative cooling system for the ATLAS inner detector,Learning IoT skills in the context of student projects,-0.01123
+The Thermosiphon Cooling System of the ATLAS Experiment at the CERN Large Hadron Collider,A combined ultrasonic flow meter and binary vapour mixture analyzer for the ATLAS silicon tracker,0.776965
+The Thermosiphon Cooling System of the ATLAS Experiment at the CERN Large Hadron Collider,The cooling capabilities of C<sub>2</sub>F<sub>6</sub>/C<sub>3</sub>F<sub>8</sub>saturated fluorocarbon blends for the ATLAS silicon tracker,0.737572
+The Thermosiphon Cooling System of the ATLAS Experiment at the CERN Large Hadron Collider,An On-Line Acoustic Fluorocarbon Coolant Mixture Analyzer for the ATLAS Silicon Tracker,0.724474
+The Thermosiphon Cooling System of the ATLAS Experiment at the CERN Large Hadron Collider,"Development of a custom on-line ultrasonic vapour analyzer and flow meter for the ATLAS inner detector, with application to Cherenkov and gaseous charged particle detectors",0.733317
+The Thermosiphon Cooling System of the ATLAS Experiment at the CERN Large Hadron Collider,Performance of the ALICE SPD cooling system,0.754075
+The Thermosiphon Cooling System of the ATLAS Experiment at the CERN Large Hadron Collider,"Development of a custom on-line ultrasonic vapour analyzer/flowmeter for the ATLAS inner detector, with application to gaseous tracking and Cherenkov detectors",0.604691
+The Thermosiphon Cooling System of the ATLAS Experiment at the CERN Large Hadron Collider,"A Custom Online Ultrasonic Gas Mixture Analyzer With Simultaneous Flowmetry, Developed for the Upgraded Evaporative Cooling System of the ATLAS Silicon Tracker",0.558578
+The Thermosiphon Cooling System of the ATLAS Experiment at the CERN Large Hadron Collider,Oxygen electrode response lag induced by liquid film resistance against oxygen transfer,0.157131
+The Thermosiphon Cooling System of the ATLAS Experiment at the CERN Large Hadron Collider,Dynamic measurement of the volumetric mass transfer coefficient in agitated vessels: Effect of the start‐up period on the response of an oxygen electrode,0.174539
+The Thermosiphon Cooling System of the ATLAS Experiment at the CERN Large Hadron Collider,Oxygen Probe Dynamics in Flowing Fluids,0.271448
+The Thermosiphon Cooling System of the ATLAS Experiment at the CERN Large Hadron Collider,Transient characteristics of oxygen probes with significant liquid film effects,0.290128
+The Thermosiphon Cooling System of the ATLAS Experiment at the CERN Large Hadron Collider,Development of fluorocarbon evaporative cooling recirculators and controls for the ATLAS inner silicon tracker,0.771533
+The Thermosiphon Cooling System of the ATLAS Experiment at the CERN Large Hadron Collider,"A custom on-line ultrasonic gas mixture analyzer with simultaneous flowmetry developed for use in the LHC-ATLAS experiment, with wide application in high and low flow gas delivery systems",0.537132
+The Thermosiphon Cooling System of the ATLAS Experiment at the CERN Large Hadron Collider,Custom ultrasonic instrumentation for flow measurement and real-time binary gas analysis in the CERN ATLAS experiment,0.679718
+The Thermosiphon Cooling System of the ATLAS Experiment at the CERN Large Hadron Collider,A Combined On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyser for the ATLAS Silicon Tracker,-0.002435
+The Thermosiphon Cooling System of the ATLAS Experiment at the CERN Large Hadron Collider,Applications and Perspectives of Ultrasonic Multi-Gas Analysis with Simultaneous Flowmetry,0.498954
+The Thermosiphon Cooling System of the ATLAS Experiment at the CERN Large Hadron Collider,Recrystallization rates at periodic temperature changes,0.175179
+The Thermosiphon Cooling System of the ATLAS Experiment at the CERN Large Hadron Collider,Periodical temperature changes and the behaviour of individual crystals,0.18488
+The Thermosiphon Cooling System of the ATLAS Experiment at the CERN Large Hadron Collider,First determination of the $\rho $ parameter at $\sqrt{s} = 13$ TeV -- probing the existence of a colourless three-gluon bound state,0.269875
+The Thermosiphon Cooling System of the ATLAS Experiment at the CERN Large Hadron Collider,AIRFLY: Air Fluorescence Induced by Electrons in a Wide Energy Range,0.316246
+The Thermosiphon Cooling System of the ATLAS Experiment at the CERN Large Hadron Collider,Continuous Recrystallization in a Double Crystallizer,0.171619
+The Thermosiphon Cooling System of the ATLAS Experiment at the CERN Large Hadron Collider,A Combine On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyzer for The ATLAS Silicon Tracker,0.708367
+The Thermosiphon Cooling System of the ATLAS Experiment at the CERN Large Hadron Collider,First Results from the TOTEM Experiment,0.33882
+The Thermosiphon Cooling System of the ATLAS Experiment at the CERN Large Hadron Collider,Development of a Detector Control System for the ATLAS Pixel Detector,0.644002
+The Thermosiphon Cooling System of the ATLAS Experiment at the CERN Large Hadron Collider,Simultaneous On-line Ultrasonic Flowmetery and Binary Gas Mixture Analysis for the ATLAS Silicon Tracker Cooling Control System,0.580314
+The Thermosiphon Cooling System of the ATLAS Experiment at the CERN Large Hadron Collider,A COMBINED ON-LINE ACOUSTIC FLOWMETER AND FLUOROCARBON COOLANT MIXTURE ANALYZER FOR THE ATLAS,0.730817
+The Thermosiphon Cooling System of the ATLAS Experiment at the CERN Large Hadron Collider,Implementation of an ultrasonic instrument for simultaneous mixture and flow analysis of binary gas systems,0.474559
+The Thermosiphon Cooling System of the ATLAS Experiment at the CERN Large Hadron Collider,Applications and perspectives of gas analysis based on sonar instrumentation,0.703819
+The Thermosiphon Cooling System of the ATLAS Experiment at the CERN Large Hadron Collider,ChemInform Abstract: PERIODIC TEMPERATURE CHANGES AND CRYSTAL RIPENING,0.257933
+The Thermosiphon Cooling System of the ATLAS Experiment at the CERN Large Hadron Collider,ChemInform Abstract: INTEGRAL HEAT OF DISSOLUTION OF POTASSIUM CHLORATE IN WATER AT 298.15 K,0.141997
+The Thermosiphon Cooling System of the ATLAS Experiment at the CERN Large Hadron Collider,Learning IoT skills in the context of student projects,-0.002435
+A combined ultrasonic flow meter and binary vapour mixture analyzer for the ATLAS silicon tracker,The cooling capabilities of C<sub>2</sub>F<sub>6</sub>/C<sub>3</sub>F<sub>8</sub>saturated fluorocarbon blends for the ATLAS silicon tracker,0.776152
+A combined ultrasonic flow meter and binary vapour mixture analyzer for the ATLAS silicon tracker,An On-Line Acoustic Fluorocarbon Coolant Mixture Analyzer for the ATLAS Silicon Tracker,0.78661
+A combined ultrasonic flow meter and binary vapour mixture analyzer for the ATLAS silicon tracker,"Development of a custom on-line ultrasonic vapour analyzer and flow meter for the ATLAS inner detector, with application to Cherenkov and gaseous charged particle detectors",0.843123
+A combined ultrasonic flow meter and binary vapour mixture analyzer for the ATLAS silicon tracker,Performance of the ALICE SPD cooling system,0.622448
+A combined ultrasonic flow meter and binary vapour mixture analyzer for the ATLAS silicon tracker,"Development of a custom on-line ultrasonic vapour analyzer/flowmeter for the ATLAS inner detector, with application to gaseous tracking and Cherenkov detectors",0.812705
+A combined ultrasonic flow meter and binary vapour mixture analyzer for the ATLAS silicon tracker,"A Custom Online Ultrasonic Gas Mixture Analyzer With Simultaneous Flowmetry, Developed for the Upgraded Evaporative Cooling System of the ATLAS Silicon Tracker",0.823469
+A combined ultrasonic flow meter and binary vapour mixture analyzer for the ATLAS silicon tracker,Oxygen electrode response lag induced by liquid film resistance against oxygen transfer,0.198895
+A combined ultrasonic flow meter and binary vapour mixture analyzer for the ATLAS silicon tracker,Dynamic measurement of the volumetric mass transfer coefficient in agitated vessels: Effect of the start‐up period on the response of an oxygen electrode,0.214224
+A combined ultrasonic flow meter and binary vapour mixture analyzer for the ATLAS silicon tracker,Oxygen Probe Dynamics in Flowing Fluids,0.372216
+A combined ultrasonic flow meter and binary vapour mixture analyzer for the ATLAS silicon tracker,Transient characteristics of oxygen probes with significant liquid film effects,0.389937
+A combined ultrasonic flow meter and binary vapour mixture analyzer for the ATLAS silicon tracker,Development of fluorocarbon evaporative cooling recirculators and controls for the ATLAS inner silicon tracker,0.738246
+A combined ultrasonic flow meter and binary vapour mixture analyzer for the ATLAS silicon tracker,"A custom on-line ultrasonic gas mixture analyzer with simultaneous flowmetry developed for use in the LHC-ATLAS experiment, with wide application in high and low flow gas delivery systems",0.787073
+A combined ultrasonic flow meter and binary vapour mixture analyzer for the ATLAS silicon tracker,Custom ultrasonic instrumentation for flow measurement and real-time binary gas analysis in the CERN ATLAS experiment,0.843423
+A combined ultrasonic flow meter and binary vapour mixture analyzer for the ATLAS silicon tracker,A Combined On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyser for the ATLAS Silicon Tracker,-0.022649
+A combined ultrasonic flow meter and binary vapour mixture analyzer for the ATLAS silicon tracker,Applications and Perspectives of Ultrasonic Multi-Gas Analysis with Simultaneous Flowmetry,0.756331
+A combined ultrasonic flow meter and binary vapour mixture analyzer for the ATLAS silicon tracker,Recrystallization rates at periodic temperature changes,0.157299
+A combined ultrasonic flow meter and binary vapour mixture analyzer for the ATLAS silicon tracker,Periodical temperature changes and the behaviour of individual crystals,0.165044
+A combined ultrasonic flow meter and binary vapour mixture analyzer for the ATLAS silicon tracker,First determination of the $\rho $ parameter at $\sqrt{s} = 13$ TeV -- probing the existence of a colourless three-gluon bound state,0.292589
+A combined ultrasonic flow meter and binary vapour mixture analyzer for the ATLAS silicon tracker,AIRFLY: Air Fluorescence Induced by Electrons in a Wide Energy Range,0.33874
+A combined ultrasonic flow meter and binary vapour mixture analyzer for the ATLAS silicon tracker,Continuous Recrystallization in a Double Crystallizer,0.168872
+A combined ultrasonic flow meter and binary vapour mixture analyzer for the ATLAS silicon tracker,A Combine On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyzer for The ATLAS Silicon Tracker,0.931107
+A combined ultrasonic flow meter and binary vapour mixture analyzer for the ATLAS silicon tracker,First Results from the TOTEM Experiment,0.31545
+A combined ultrasonic flow meter and binary vapour mixture analyzer for the ATLAS silicon tracker,Development of a Detector Control System for the ATLAS Pixel Detector,0.541703
+A combined ultrasonic flow meter and binary vapour mixture analyzer for the ATLAS silicon tracker,Simultaneous On-line Ultrasonic Flowmetery and Binary Gas Mixture Analysis for the ATLAS Silicon Tracker Cooling Control System,0.747856
+A combined ultrasonic flow meter and binary vapour mixture analyzer for the ATLAS silicon tracker,A COMBINED ON-LINE ACOUSTIC FLOWMETER AND FLUOROCARBON COOLANT MIXTURE ANALYZER FOR THE ATLAS,0.910986
+A combined ultrasonic flow meter and binary vapour mixture analyzer for the ATLAS silicon tracker,Implementation of an ultrasonic instrument for simultaneous mixture and flow analysis of binary gas systems,0.734424
+A combined ultrasonic flow meter and binary vapour mixture analyzer for the ATLAS silicon tracker,Applications and perspectives of gas analysis based on sonar instrumentation,0.886164
+A combined ultrasonic flow meter and binary vapour mixture analyzer for the ATLAS silicon tracker,ChemInform Abstract: PERIODIC TEMPERATURE CHANGES AND CRYSTAL RIPENING,0.255269
+A combined ultrasonic flow meter and binary vapour mixture analyzer for the ATLAS silicon tracker,ChemInform Abstract: INTEGRAL HEAT OF DISSOLUTION OF POTASSIUM CHLORATE IN WATER AT 298.15 K,0.150929
+A combined ultrasonic flow meter and binary vapour mixture analyzer for the ATLAS silicon tracker,Learning IoT skills in the context of student projects,-0.022649
+The cooling capabilities of C<sub>2</sub>F<sub>6</sub>/C<sub>3</sub>F<sub>8</sub>saturated fluorocarbon blends for the ATLAS silicon tracker,An On-Line Acoustic Fluorocarbon Coolant Mixture Analyzer for the ATLAS Silicon Tracker,0.790918
+The cooling capabilities of C<sub>2</sub>F<sub>6</sub>/C<sub>3</sub>F<sub>8</sub>saturated fluorocarbon blends for the ATLAS silicon tracker,"Development of a custom on-line ultrasonic vapour analyzer and flow meter for the ATLAS inner detector, with application to Cherenkov and gaseous charged particle detectors",0.722026
+The cooling capabilities of C<sub>2</sub>F<sub>6</sub>/C<sub>3</sub>F<sub>8</sub>saturated fluorocarbon blends for the ATLAS silicon tracker,Performance of the ALICE SPD cooling system,0.703181
+The cooling capabilities of C<sub>2</sub>F<sub>6</sub>/C<sub>3</sub>F<sub>8</sub>saturated fluorocarbon blends for the ATLAS silicon tracker,"Development of a custom on-line ultrasonic vapour analyzer/flowmeter for the ATLAS inner detector, with application to gaseous tracking and Cherenkov detectors",0.607742
+The cooling capabilities of C<sub>2</sub>F<sub>6</sub>/C<sub>3</sub>F<sub>8</sub>saturated fluorocarbon blends for the ATLAS silicon tracker,"A Custom Online Ultrasonic Gas Mixture Analyzer With Simultaneous Flowmetry, Developed for the Upgraded Evaporative Cooling System of the ATLAS Silicon Tracker",0.575164
+The cooling capabilities of C<sub>2</sub>F<sub>6</sub>/C<sub>3</sub>F<sub>8</sub>saturated fluorocarbon blends for the ATLAS silicon tracker,Oxygen electrode response lag induced by liquid film resistance against oxygen transfer,0.106695
+The cooling capabilities of C<sub>2</sub>F<sub>6</sub>/C<sub>3</sub>F<sub>8</sub>saturated fluorocarbon blends for the ATLAS silicon tracker,Dynamic measurement of the volumetric mass transfer coefficient in agitated vessels: Effect of the start‐up period on the response of an oxygen electrode,0.072083
+The cooling capabilities of C<sub>2</sub>F<sub>6</sub>/C<sub>3</sub>F<sub>8</sub>saturated fluorocarbon blends for the ATLAS silicon tracker,Oxygen Probe Dynamics in Flowing Fluids,0.249851
+The cooling capabilities of C<sub>2</sub>F<sub>6</sub>/C<sub>3</sub>F<sub>8</sub>saturated fluorocarbon blends for the ATLAS silicon tracker,Transient characteristics of oxygen probes with significant liquid film effects,0.31873
+The cooling capabilities of C<sub>2</sub>F<sub>6</sub>/C<sub>3</sub>F<sub>8</sub>saturated fluorocarbon blends for the ATLAS silicon tracker,Development of fluorocarbon evaporative cooling recirculators and controls for the ATLAS inner silicon tracker,0.698464
+The cooling capabilities of C<sub>2</sub>F<sub>6</sub>/C<sub>3</sub>F<sub>8</sub>saturated fluorocarbon blends for the ATLAS silicon tracker,"A custom on-line ultrasonic gas mixture analyzer with simultaneous flowmetry developed for use in the LHC-ATLAS experiment, with wide application in high and low flow gas delivery systems",0.555539
+The cooling capabilities of C<sub>2</sub>F<sub>6</sub>/C<sub>3</sub>F<sub>8</sub>saturated fluorocarbon blends for the ATLAS silicon tracker,Custom ultrasonic instrumentation for flow measurement and real-time binary gas analysis in the CERN ATLAS experiment,0.629367
+The cooling capabilities of C<sub>2</sub>F<sub>6</sub>/C<sub>3</sub>F<sub>8</sub>saturated fluorocarbon blends for the ATLAS silicon tracker,A Combined On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyser for the ATLAS Silicon Tracker,-0.04403
+The cooling capabilities of C<sub>2</sub>F<sub>6</sub>/C<sub>3</sub>F<sub>8</sub>saturated fluorocarbon blends for the ATLAS silicon tracker,Applications and Perspectives of Ultrasonic Multi-Gas Analysis with Simultaneous Flowmetry,0.497854
+The cooling capabilities of C<sub>2</sub>F<sub>6</sub>/C<sub>3</sub>F<sub>8</sub>saturated fluorocarbon blends for the ATLAS silicon tracker,Recrystallization rates at periodic temperature changes,0.214004
+The cooling capabilities of C<sub>2</sub>F<sub>6</sub>/C<sub>3</sub>F<sub>8</sub>saturated fluorocarbon blends for the ATLAS silicon tracker,Periodical temperature changes and the behaviour of individual crystals,0.237376
+The cooling capabilities of C<sub>2</sub>F<sub>6</sub>/C<sub>3</sub>F<sub>8</sub>saturated fluorocarbon blends for the ATLAS silicon tracker,First determination of the $\rho $ parameter at $\sqrt{s} = 13$ TeV -- probing the existence of a colourless three-gluon bound state,0.287822
+The cooling capabilities of C<sub>2</sub>F<sub>6</sub>/C<sub>3</sub>F<sub>8</sub>saturated fluorocarbon blends for the ATLAS silicon tracker,AIRFLY: Air Fluorescence Induced by Electrons in a Wide Energy Range,0.290762
+The cooling capabilities of C<sub>2</sub>F<sub>6</sub>/C<sub>3</sub>F<sub>8</sub>saturated fluorocarbon blends for the ATLAS silicon tracker,Continuous Recrystallization in a Double Crystallizer,0.183194
+The cooling capabilities of C<sub>2</sub>F<sub>6</sub>/C<sub>3</sub>F<sub>8</sub>saturated fluorocarbon blends for the ATLAS silicon tracker,A Combine On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyzer for The ATLAS Silicon Tracker,0.754747
+The cooling capabilities of C<sub>2</sub>F<sub>6</sub>/C<sub>3</sub>F<sub>8</sub>saturated fluorocarbon blends for the ATLAS silicon tracker,First Results from the TOTEM Experiment,0.28584
+The cooling capabilities of C<sub>2</sub>F<sub>6</sub>/C<sub>3</sub>F<sub>8</sub>saturated fluorocarbon blends for the ATLAS silicon tracker,Development of a Detector Control System for the ATLAS Pixel Detector,0.508703
+The cooling capabilities of C<sub>2</sub>F<sub>6</sub>/C<sub>3</sub>F<sub>8</sub>saturated fluorocarbon blends for the ATLAS silicon tracker,Simultaneous On-line Ultrasonic Flowmetery and Binary Gas Mixture Analysis for the ATLAS Silicon Tracker Cooling Control System,0.492712
+The cooling capabilities of C<sub>2</sub>F<sub>6</sub>/C<sub>3</sub>F<sub>8</sub>saturated fluorocarbon blends for the ATLAS silicon tracker,A COMBINED ON-LINE ACOUSTIC FLOWMETER AND FLUOROCARBON COOLANT MIXTURE ANALYZER FOR THE ATLAS,0.734876
+The cooling capabilities of C<sub>2</sub>F<sub>6</sub>/C<sub>3</sub>F<sub>8</sub>saturated fluorocarbon blends for the ATLAS silicon tracker,Implementation of an ultrasonic instrument for simultaneous mixture and flow analysis of binary gas systems,0.488973
+The cooling capabilities of C<sub>2</sub>F<sub>6</sub>/C<sub>3</sub>F<sub>8</sub>saturated fluorocarbon blends for the ATLAS silicon tracker,Applications and perspectives of gas analysis based on sonar instrumentation,0.655596
+The cooling capabilities of C<sub>2</sub>F<sub>6</sub>/C<sub>3</sub>F<sub>8</sub>saturated fluorocarbon blends for the ATLAS silicon tracker,ChemInform Abstract: PERIODIC TEMPERATURE CHANGES AND CRYSTAL RIPENING,0.193633
+The cooling capabilities of C<sub>2</sub>F<sub>6</sub>/C<sub>3</sub>F<sub>8</sub>saturated fluorocarbon blends for the ATLAS silicon tracker,ChemInform Abstract: INTEGRAL HEAT OF DISSOLUTION OF POTASSIUM CHLORATE IN WATER AT 298.15 K,0.181647
+The cooling capabilities of C<sub>2</sub>F<sub>6</sub>/C<sub>3</sub>F<sub>8</sub>saturated fluorocarbon blends for the ATLAS silicon tracker,Learning IoT skills in the context of student projects,-0.04403
+An On-Line Acoustic Fluorocarbon Coolant Mixture Analyzer for the ATLAS Silicon Tracker,"Development of a custom on-line ultrasonic vapour analyzer and flow meter for the ATLAS inner detector, with application to Cherenkov and gaseous charged particle detectors",0.748997
+An On-Line Acoustic Fluorocarbon Coolant Mixture Analyzer for the ATLAS Silicon Tracker,Performance of the ALICE SPD cooling system,0.69255
+An On-Line Acoustic Fluorocarbon Coolant Mixture Analyzer for the ATLAS Silicon Tracker,"Development of a custom on-line ultrasonic vapour analyzer/flowmeter for the ATLAS inner detector, with application to gaseous tracking and Cherenkov detectors",0.65986
+An On-Line Acoustic Fluorocarbon Coolant Mixture Analyzer for the ATLAS Silicon Tracker,"A Custom Online Ultrasonic Gas Mixture Analyzer With Simultaneous Flowmetry, Developed for the Upgraded Evaporative Cooling System of the ATLAS Silicon Tracker",0.636643
+An On-Line Acoustic Fluorocarbon Coolant Mixture Analyzer for the ATLAS Silicon Tracker,Oxygen electrode response lag induced by liquid film resistance against oxygen transfer,0.152516
+An On-Line Acoustic Fluorocarbon Coolant Mixture Analyzer for the ATLAS Silicon Tracker,Dynamic measurement of the volumetric mass transfer coefficient in agitated vessels: Effect of the start‐up period on the response of an oxygen electrode,0.128409
+An On-Line Acoustic Fluorocarbon Coolant Mixture Analyzer for the ATLAS Silicon Tracker,Oxygen Probe Dynamics in Flowing Fluids,0.326498
+An On-Line Acoustic Fluorocarbon Coolant Mixture Analyzer for the ATLAS Silicon Tracker,Transient characteristics of oxygen probes with significant liquid film effects,0.37919
+An On-Line Acoustic Fluorocarbon Coolant Mixture Analyzer for the ATLAS Silicon Tracker,Development of fluorocarbon evaporative cooling recirculators and controls for the ATLAS inner silicon tracker,0.668961
+An On-Line Acoustic Fluorocarbon Coolant Mixture Analyzer for the ATLAS Silicon Tracker,"A custom on-line ultrasonic gas mixture analyzer with simultaneous flowmetry developed for use in the LHC-ATLAS experiment, with wide application in high and low flow gas delivery systems",0.593143
+An On-Line Acoustic Fluorocarbon Coolant Mixture Analyzer for the ATLAS Silicon Tracker,Custom ultrasonic instrumentation for flow measurement and real-time binary gas analysis in the CERN ATLAS experiment,0.607985
+An On-Line Acoustic Fluorocarbon Coolant Mixture Analyzer for the ATLAS Silicon Tracker,A Combined On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyser for the ATLAS Silicon Tracker,-0.006218
+An On-Line Acoustic Fluorocarbon Coolant Mixture Analyzer for the ATLAS Silicon Tracker,Applications and Perspectives of Ultrasonic Multi-Gas Analysis with Simultaneous Flowmetry,0.489771
+An On-Line Acoustic Fluorocarbon Coolant Mixture Analyzer for the ATLAS Silicon Tracker,Recrystallization rates at periodic temperature changes,0.122817
+An On-Line Acoustic Fluorocarbon Coolant Mixture Analyzer for the ATLAS Silicon Tracker,Periodical temperature changes and the behaviour of individual crystals,0.16726
+An On-Line Acoustic Fluorocarbon Coolant Mixture Analyzer for the ATLAS Silicon Tracker,First determination of the $\rho $ parameter at $\sqrt{s} = 13$ TeV -- probing the existence of a colourless three-gluon bound state,0.374059
+An On-Line Acoustic Fluorocarbon Coolant Mixture Analyzer for the ATLAS Silicon Tracker,AIRFLY: Air Fluorescence Induced by Electrons in a Wide Energy Range,0.310776
+An On-Line Acoustic Fluorocarbon Coolant Mixture Analyzer for the ATLAS Silicon Tracker,Continuous Recrystallization in a Double Crystallizer,0.086231
+An On-Line Acoustic Fluorocarbon Coolant Mixture Analyzer for the ATLAS Silicon Tracker,A Combine On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyzer for The ATLAS Silicon Tracker,0.790981
+An On-Line Acoustic Fluorocarbon Coolant Mixture Analyzer for the ATLAS Silicon Tracker,First Results from the TOTEM Experiment,0.398238
+An On-Line Acoustic Fluorocarbon Coolant Mixture Analyzer for the ATLAS Silicon Tracker,Development of a Detector Control System for the ATLAS Pixel Detector,0.549381
+An On-Line Acoustic Fluorocarbon Coolant Mixture Analyzer for the ATLAS Silicon Tracker,Simultaneous On-line Ultrasonic Flowmetery and Binary Gas Mixture Analysis for the ATLAS Silicon Tracker Cooling Control System,0.604344
+An On-Line Acoustic Fluorocarbon Coolant Mixture Analyzer for the ATLAS Silicon Tracker,A COMBINED ON-LINE ACOUSTIC FLOWMETER AND FLUOROCARBON COOLANT MIXTURE ANALYZER FOR THE ATLAS,0.817567
+An On-Line Acoustic Fluorocarbon Coolant Mixture Analyzer for the ATLAS Silicon Tracker,Implementation of an ultrasonic instrument for simultaneous mixture and flow analysis of binary gas systems,0.539015
+An On-Line Acoustic Fluorocarbon Coolant Mixture Analyzer for the ATLAS Silicon Tracker,Applications and perspectives of gas analysis based on sonar instrumentation,0.648215
+An On-Line Acoustic Fluorocarbon Coolant Mixture Analyzer for the ATLAS Silicon Tracker,ChemInform Abstract: PERIODIC TEMPERATURE CHANGES AND CRYSTAL RIPENING,0.193143
+An On-Line Acoustic Fluorocarbon Coolant Mixture Analyzer for the ATLAS Silicon Tracker,ChemInform Abstract: INTEGRAL HEAT OF DISSOLUTION OF POTASSIUM CHLORATE IN WATER AT 298.15 K,0.136013
+An On-Line Acoustic Fluorocarbon Coolant Mixture Analyzer for the ATLAS Silicon Tracker,Learning IoT skills in the context of student projects,-0.006218
+"Development of a custom on-line ultrasonic vapour analyzer and flow meter for the ATLAS inner detector, with application to Cherenkov and gaseous charged particle detectors",Performance of the ALICE SPD cooling system,0.660648
+"Development of a custom on-line ultrasonic vapour analyzer and flow meter for the ATLAS inner detector, with application to Cherenkov and gaseous charged particle detectors","Development of a custom on-line ultrasonic vapour analyzer/flowmeter for the ATLAS inner detector, with application to gaseous tracking and Cherenkov detectors",0.888099
+"Development of a custom on-line ultrasonic vapour analyzer and flow meter for the ATLAS inner detector, with application to Cherenkov and gaseous charged particle detectors","A Custom Online Ultrasonic Gas Mixture Analyzer With Simultaneous Flowmetry, Developed for the Upgraded Evaporative Cooling System of the ATLAS Silicon Tracker",0.701694
+"Development of a custom on-line ultrasonic vapour analyzer and flow meter for the ATLAS inner detector, with application to Cherenkov and gaseous charged particle detectors",Oxygen electrode response lag induced by liquid film resistance against oxygen transfer,0.20393
+"Development of a custom on-line ultrasonic vapour analyzer and flow meter for the ATLAS inner detector, with application to Cherenkov and gaseous charged particle detectors",Dynamic measurement of the volumetric mass transfer coefficient in agitated vessels: Effect of the start‐up period on the response of an oxygen electrode,0.196328
+"Development of a custom on-line ultrasonic vapour analyzer and flow meter for the ATLAS inner detector, with application to Cherenkov and gaseous charged particle detectors",Oxygen Probe Dynamics in Flowing Fluids,0.298008
+"Development of a custom on-line ultrasonic vapour analyzer and flow meter for the ATLAS inner detector, with application to Cherenkov and gaseous charged particle detectors",Transient characteristics of oxygen probes with significant liquid film effects,0.303358
+"Development of a custom on-line ultrasonic vapour analyzer and flow meter for the ATLAS inner detector, with application to Cherenkov and gaseous charged particle detectors",Development of fluorocarbon evaporative cooling recirculators and controls for the ATLAS inner silicon tracker,0.679009
+"Development of a custom on-line ultrasonic vapour analyzer and flow meter for the ATLAS inner detector, with application to Cherenkov and gaseous charged particle detectors","A custom on-line ultrasonic gas mixture analyzer with simultaneous flowmetry developed for use in the LHC-ATLAS experiment, with wide application in high and low flow gas delivery systems",0.706423
+"Development of a custom on-line ultrasonic vapour analyzer and flow meter for the ATLAS inner detector, with application to Cherenkov and gaseous charged particle detectors",Custom ultrasonic instrumentation for flow measurement and real-time binary gas analysis in the CERN ATLAS experiment,0.788466
+"Development of a custom on-line ultrasonic vapour analyzer and flow meter for the ATLAS inner detector, with application to Cherenkov and gaseous charged particle detectors",A Combined On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyser for the ATLAS Silicon Tracker,-0.030735
+"Development of a custom on-line ultrasonic vapour analyzer and flow meter for the ATLAS inner detector, with application to Cherenkov and gaseous charged particle detectors",Applications and Perspectives of Ultrasonic Multi-Gas Analysis with Simultaneous Flowmetry,0.684385
+"Development of a custom on-line ultrasonic vapour analyzer and flow meter for the ATLAS inner detector, with application to Cherenkov and gaseous charged particle detectors",Recrystallization rates at periodic temperature changes,0.060233
+"Development of a custom on-line ultrasonic vapour analyzer and flow meter for the ATLAS inner detector, with application to Cherenkov and gaseous charged particle detectors",Periodical temperature changes and the behaviour of individual crystals,0.06859
+"Development of a custom on-line ultrasonic vapour analyzer and flow meter for the ATLAS inner detector, with application to Cherenkov and gaseous charged particle detectors",First determination of the $\rho $ parameter at $\sqrt{s} = 13$ TeV -- probing the existence of a colourless three-gluon bound state,0.322826
+"Development of a custom on-line ultrasonic vapour analyzer and flow meter for the ATLAS inner detector, with application to Cherenkov and gaseous charged particle detectors",AIRFLY: Air Fluorescence Induced by Electrons in a Wide Energy Range,0.385985
+"Development of a custom on-line ultrasonic vapour analyzer and flow meter for the ATLAS inner detector, with application to Cherenkov and gaseous charged particle detectors",Continuous Recrystallization in a Double Crystallizer,0.080487
+"Development of a custom on-line ultrasonic vapour analyzer and flow meter for the ATLAS inner detector, with application to Cherenkov and gaseous charged particle detectors",A Combine On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyzer for The ATLAS Silicon Tracker,0.847334
+"Development of a custom on-line ultrasonic vapour analyzer and flow meter for the ATLAS inner detector, with application to Cherenkov and gaseous charged particle detectors",First Results from the TOTEM Experiment,0.388712
+"Development of a custom on-line ultrasonic vapour analyzer and flow meter for the ATLAS inner detector, with application to Cherenkov and gaseous charged particle detectors",Development of a Detector Control System for the ATLAS Pixel Detector,0.676129
+"Development of a custom on-line ultrasonic vapour analyzer and flow meter for the ATLAS inner detector, with application to Cherenkov and gaseous charged particle detectors",Simultaneous On-line Ultrasonic Flowmetery and Binary Gas Mixture Analysis for the ATLAS Silicon Tracker Cooling Control System,0.66933
+"Development of a custom on-line ultrasonic vapour analyzer and flow meter for the ATLAS inner detector, with application to Cherenkov and gaseous charged particle detectors",A COMBINED ON-LINE ACOUSTIC FLOWMETER AND FLUOROCARBON COOLANT MIXTURE ANALYZER FOR THE ATLAS,0.825269
+"Development of a custom on-line ultrasonic vapour analyzer and flow meter for the ATLAS inner detector, with application to Cherenkov and gaseous charged particle detectors",Implementation of an ultrasonic instrument for simultaneous mixture and flow analysis of binary gas systems,0.779257
+"Development of a custom on-line ultrasonic vapour analyzer and flow meter for the ATLAS inner detector, with application to Cherenkov and gaseous charged particle detectors",Applications and perspectives of gas analysis based on sonar instrumentation,0.840597
+"Development of a custom on-line ultrasonic vapour analyzer and flow meter for the ATLAS inner detector, with application to Cherenkov and gaseous charged particle detectors",ChemInform Abstract: PERIODIC TEMPERATURE CHANGES AND CRYSTAL RIPENING,0.117085
+"Development of a custom on-line ultrasonic vapour analyzer and flow meter for the ATLAS inner detector, with application to Cherenkov and gaseous charged particle detectors",ChemInform Abstract: INTEGRAL HEAT OF DISSOLUTION OF POTASSIUM CHLORATE IN WATER AT 298.15 K,0.07317
+"Development of a custom on-line ultrasonic vapour analyzer and flow meter for the ATLAS inner detector, with application to Cherenkov and gaseous charged particle detectors",Learning IoT skills in the context of student projects,-0.030735
+Performance of the ALICE SPD cooling system,"Development of a custom on-line ultrasonic vapour analyzer/flowmeter for the ATLAS inner detector, with application to gaseous tracking and Cherenkov detectors",0.494923
+Performance of the ALICE SPD cooling system,"A Custom Online Ultrasonic Gas Mixture Analyzer With Simultaneous Flowmetry, Developed for the Upgraded Evaporative Cooling System of the ATLAS Silicon Tracker",0.455921
+Performance of the ALICE SPD cooling system,Oxygen electrode response lag induced by liquid film resistance against oxygen transfer,0.14239
+Performance of the ALICE SPD cooling system,Dynamic measurement of the volumetric mass transfer coefficient in agitated vessels: Effect of the start‐up period on the response of an oxygen electrode,0.13773
+Performance of the ALICE SPD cooling system,Oxygen Probe Dynamics in Flowing Fluids,0.199838
+Performance of the ALICE SPD cooling system,Transient characteristics of oxygen probes with significant liquid film effects,0.306546
+Performance of the ALICE SPD cooling system,Development of fluorocarbon evaporative cooling recirculators and controls for the ATLAS inner silicon tracker,0.609054
+Performance of the ALICE SPD cooling system,"A custom on-line ultrasonic gas mixture analyzer with simultaneous flowmetry developed for use in the LHC-ATLAS experiment, with wide application in high and low flow gas delivery systems",0.443096
+Performance of the ALICE SPD cooling system,Custom ultrasonic instrumentation for flow measurement and real-time binary gas analysis in the CERN ATLAS experiment,0.547878
+Performance of the ALICE SPD cooling system,A Combined On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyser for the ATLAS Silicon Tracker,0.010484
+Performance of the ALICE SPD cooling system,Applications and Perspectives of Ultrasonic Multi-Gas Analysis with Simultaneous Flowmetry,0.352802
+Performance of the ALICE SPD cooling system,Recrystallization rates at periodic temperature changes,0.162988
+Performance of the ALICE SPD cooling system,Periodical temperature changes and the behaviour of individual crystals,0.183872
+Performance of the ALICE SPD cooling system,First determination of the $\rho $ parameter at $\sqrt{s} = 13$ TeV -- probing the existence of a colourless three-gluon bound state,0.312115
+Performance of the ALICE SPD cooling system,AIRFLY: Air Fluorescence Induced by Electrons in a Wide Energy Range,0.375466
+Performance of the ALICE SPD cooling system,Continuous Recrystallization in a Double Crystallizer,0.1928
+Performance of the ALICE SPD cooling system,A Combine On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyzer for The ATLAS Silicon Tracker,0.593742
+Performance of the ALICE SPD cooling system,First Results from the TOTEM Experiment,0.382313
+Performance of the ALICE SPD cooling system,Development of a Detector Control System for the ATLAS Pixel Detector,0.672815
+Performance of the ALICE SPD cooling system,Simultaneous On-line Ultrasonic Flowmetery and Binary Gas Mixture Analysis for the ATLAS Silicon Tracker Cooling Control System,0.468251
+Performance of the ALICE SPD cooling system,A COMBINED ON-LINE ACOUSTIC FLOWMETER AND FLUOROCARBON COOLANT MIXTURE ANALYZER FOR THE ATLAS,0.611964
+Performance of the ALICE SPD cooling system,Implementation of an ultrasonic instrument for simultaneous mixture and flow analysis of binary gas systems,0.387286
+Performance of the ALICE SPD cooling system,Applications and perspectives of gas analysis based on sonar instrumentation,0.567929
+Performance of the ALICE SPD cooling system,ChemInform Abstract: PERIODIC TEMPERATURE CHANGES AND CRYSTAL RIPENING,0.121991
+Performance of the ALICE SPD cooling system,ChemInform Abstract: INTEGRAL HEAT OF DISSOLUTION OF POTASSIUM CHLORATE IN WATER AT 298.15 K,0.142111
+Performance of the ALICE SPD cooling system,Learning IoT skills in the context of student projects,0.010484
+"Development of a custom on-line ultrasonic vapour analyzer/flowmeter for the ATLAS inner detector, with application to gaseous tracking and Cherenkov detectors","A Custom Online Ultrasonic Gas Mixture Analyzer With Simultaneous Flowmetry, Developed for the Upgraded Evaporative Cooling System of the ATLAS Silicon Tracker",0.75475
+"Development of a custom on-line ultrasonic vapour analyzer/flowmeter for the ATLAS inner detector, with application to gaseous tracking and Cherenkov detectors",Oxygen electrode response lag induced by liquid film resistance against oxygen transfer,0.289417
+"Development of a custom on-line ultrasonic vapour analyzer/flowmeter for the ATLAS inner detector, with application to gaseous tracking and Cherenkov detectors",Dynamic measurement of the volumetric mass transfer coefficient in agitated vessels: Effect of the start‐up period on the response of an oxygen electrode,0.277864
+"Development of a custom on-line ultrasonic vapour analyzer/flowmeter for the ATLAS inner detector, with application to gaseous tracking and Cherenkov detectors",Oxygen Probe Dynamics in Flowing Fluids,0.42079
+"Development of a custom on-line ultrasonic vapour analyzer/flowmeter for the ATLAS inner detector, with application to gaseous tracking and Cherenkov detectors",Transient characteristics of oxygen probes with significant liquid film effects,0.374657
+"Development of a custom on-line ultrasonic vapour analyzer/flowmeter for the ATLAS inner detector, with application to gaseous tracking and Cherenkov detectors",Development of fluorocarbon evaporative cooling recirculators and controls for the ATLAS inner silicon tracker,0.603207
+"Development of a custom on-line ultrasonic vapour analyzer/flowmeter for the ATLAS inner detector, with application to gaseous tracking and Cherenkov detectors","A custom on-line ultrasonic gas mixture analyzer with simultaneous flowmetry developed for use in the LHC-ATLAS experiment, with wide application in high and low flow gas delivery systems",0.750226
+"Development of a custom on-line ultrasonic vapour analyzer/flowmeter for the ATLAS inner detector, with application to gaseous tracking and Cherenkov detectors",Custom ultrasonic instrumentation for flow measurement and real-time binary gas analysis in the CERN ATLAS experiment,0.767362
+"Development of a custom on-line ultrasonic vapour analyzer/flowmeter for the ATLAS inner detector, with application to gaseous tracking and Cherenkov detectors",A Combined On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyser for the ATLAS Silicon Tracker,-0.05618
+"Development of a custom on-line ultrasonic vapour analyzer/flowmeter for the ATLAS inner detector, with application to gaseous tracking and Cherenkov detectors",Applications and Perspectives of Ultrasonic Multi-Gas Analysis with Simultaneous Flowmetry,0.759571
+"Development of a custom on-line ultrasonic vapour analyzer/flowmeter for the ATLAS inner detector, with application to gaseous tracking and Cherenkov detectors",Recrystallization rates at periodic temperature changes,0.08041
+"Development of a custom on-line ultrasonic vapour analyzer/flowmeter for the ATLAS inner detector, with application to gaseous tracking and Cherenkov detectors",Periodical temperature changes and the behaviour of individual crystals,0.109676
+"Development of a custom on-line ultrasonic vapour analyzer/flowmeter for the ATLAS inner detector, with application to gaseous tracking and Cherenkov detectors",First determination of the $\rho $ parameter at $\sqrt{s} = 13$ TeV -- probing the existence of a colourless three-gluon bound state,0.238671
+"Development of a custom on-line ultrasonic vapour analyzer/flowmeter for the ATLAS inner detector, with application to gaseous tracking and Cherenkov detectors",AIRFLY: Air Fluorescence Induced by Electrons in a Wide Energy Range,0.42515
+"Development of a custom on-line ultrasonic vapour analyzer/flowmeter for the ATLAS inner detector, with application to gaseous tracking and Cherenkov detectors",Continuous Recrystallization in a Double Crystallizer,0.102487
+"Development of a custom on-line ultrasonic vapour analyzer/flowmeter for the ATLAS inner detector, with application to gaseous tracking and Cherenkov detectors",A Combine On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyzer for The ATLAS Silicon Tracker,0.831266
+"Development of a custom on-line ultrasonic vapour analyzer/flowmeter for the ATLAS inner detector, with application to gaseous tracking and Cherenkov detectors",First Results from the TOTEM Experiment,0.279171
+"Development of a custom on-line ultrasonic vapour analyzer/flowmeter for the ATLAS inner detector, with application to gaseous tracking and Cherenkov detectors",Development of a Detector Control System for the ATLAS Pixel Detector,0.479732
+"Development of a custom on-line ultrasonic vapour analyzer/flowmeter for the ATLAS inner detector, with application to gaseous tracking and Cherenkov detectors",Simultaneous On-line Ultrasonic Flowmetery and Binary Gas Mixture Analysis for the ATLAS Silicon Tracker Cooling Control System,0.666092
+"Development of a custom on-line ultrasonic vapour analyzer/flowmeter for the ATLAS inner detector, with application to gaseous tracking and Cherenkov detectors",A COMBINED ON-LINE ACOUSTIC FLOWMETER AND FLUOROCARBON COOLANT MIXTURE ANALYZER FOR THE ATLAS,0.741042
+"Development of a custom on-line ultrasonic vapour analyzer/flowmeter for the ATLAS inner detector, with application to gaseous tracking and Cherenkov detectors",Implementation of an ultrasonic instrument for simultaneous mixture and flow analysis of binary gas systems,0.797324
+"Development of a custom on-line ultrasonic vapour analyzer/flowmeter for the ATLAS inner detector, with application to gaseous tracking and Cherenkov detectors",Applications and perspectives of gas analysis based on sonar instrumentation,0.854383
+"Development of a custom on-line ultrasonic vapour analyzer/flowmeter for the ATLAS inner detector, with application to gaseous tracking and Cherenkov detectors",ChemInform Abstract: PERIODIC TEMPERATURE CHANGES AND CRYSTAL RIPENING,0.155693
+"Development of a custom on-line ultrasonic vapour analyzer/flowmeter for the ATLAS inner detector, with application to gaseous tracking and Cherenkov detectors",ChemInform Abstract: INTEGRAL HEAT OF DISSOLUTION OF POTASSIUM CHLORATE IN WATER AT 298.15 K,0.150689
+"Development of a custom on-line ultrasonic vapour analyzer/flowmeter for the ATLAS inner detector, with application to gaseous tracking and Cherenkov detectors",Learning IoT skills in the context of student projects,-0.05618
+"A Custom Online Ultrasonic Gas Mixture Analyzer With Simultaneous Flowmetry, Developed for the Upgraded Evaporative Cooling System of the ATLAS Silicon Tracker",Oxygen electrode response lag induced by liquid film resistance against oxygen transfer,0.262272
+"A Custom Online Ultrasonic Gas Mixture Analyzer With Simultaneous Flowmetry, Developed for the Upgraded Evaporative Cooling System of the ATLAS Silicon Tracker",Dynamic measurement of the volumetric mass transfer coefficient in agitated vessels: Effect of the start‐up period on the response of an oxygen electrode,0.31141
+"A Custom Online Ultrasonic Gas Mixture Analyzer With Simultaneous Flowmetry, Developed for the Upgraded Evaporative Cooling System of the ATLAS Silicon Tracker",Oxygen Probe Dynamics in Flowing Fluids,0.348436
+"A Custom Online Ultrasonic Gas Mixture Analyzer With Simultaneous Flowmetry, Developed for the Upgraded Evaporative Cooling System of the ATLAS Silicon Tracker",Transient characteristics of oxygen probes with significant liquid film effects,0.475146
+"A Custom Online Ultrasonic Gas Mixture Analyzer With Simultaneous Flowmetry, Developed for the Upgraded Evaporative Cooling System of the ATLAS Silicon Tracker",Development of fluorocarbon evaporative cooling recirculators and controls for the ATLAS inner silicon tracker,0.605894
+"A Custom Online Ultrasonic Gas Mixture Analyzer With Simultaneous Flowmetry, Developed for the Upgraded Evaporative Cooling System of the ATLAS Silicon Tracker","A custom on-line ultrasonic gas mixture analyzer with simultaneous flowmetry developed for use in the LHC-ATLAS experiment, with wide application in high and low flow gas delivery systems",0.961963
+"A Custom Online Ultrasonic Gas Mixture Analyzer With Simultaneous Flowmetry, Developed for the Upgraded Evaporative Cooling System of the ATLAS Silicon Tracker",Custom ultrasonic instrumentation for flow measurement and real-time binary gas analysis in the CERN ATLAS experiment,0.856617
+"A Custom Online Ultrasonic Gas Mixture Analyzer With Simultaneous Flowmetry, Developed for the Upgraded Evaporative Cooling System of the ATLAS Silicon Tracker",A Combined On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyser for the ATLAS Silicon Tracker,-0.036357
+"A Custom Online Ultrasonic Gas Mixture Analyzer With Simultaneous Flowmetry, Developed for the Upgraded Evaporative Cooling System of the ATLAS Silicon Tracker",Applications and Perspectives of Ultrasonic Multi-Gas Analysis with Simultaneous Flowmetry,0.784196
+"A Custom Online Ultrasonic Gas Mixture Analyzer With Simultaneous Flowmetry, Developed for the Upgraded Evaporative Cooling System of the ATLAS Silicon Tracker",Recrystallization rates at periodic temperature changes,0.126747
+"A Custom Online Ultrasonic Gas Mixture Analyzer With Simultaneous Flowmetry, Developed for the Upgraded Evaporative Cooling System of the ATLAS Silicon Tracker",Periodical temperature changes and the behaviour of individual crystals,0.172565
+"A Custom Online Ultrasonic Gas Mixture Analyzer With Simultaneous Flowmetry, Developed for the Upgraded Evaporative Cooling System of the ATLAS Silicon Tracker",First determination of the $\rho $ parameter at $\sqrt{s} = 13$ TeV -- probing the existence of a colourless three-gluon bound state,0.088909
+"A Custom Online Ultrasonic Gas Mixture Analyzer With Simultaneous Flowmetry, Developed for the Upgraded Evaporative Cooling System of the ATLAS Silicon Tracker",AIRFLY: Air Fluorescence Induced by Electrons in a Wide Energy Range,0.266245
+"A Custom Online Ultrasonic Gas Mixture Analyzer With Simultaneous Flowmetry, Developed for the Upgraded Evaporative Cooling System of the ATLAS Silicon Tracker",Continuous Recrystallization in a Double Crystallizer,0.154294
+"A Custom Online Ultrasonic Gas Mixture Analyzer With Simultaneous Flowmetry, Developed for the Upgraded Evaporative Cooling System of the ATLAS Silicon Tracker",A Combine On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyzer for The ATLAS Silicon Tracker,0.769457
+"A Custom Online Ultrasonic Gas Mixture Analyzer With Simultaneous Flowmetry, Developed for the Upgraded Evaporative Cooling System of the ATLAS Silicon Tracker",First Results from the TOTEM Experiment,0.159016
+"A Custom Online Ultrasonic Gas Mixture Analyzer With Simultaneous Flowmetry, Developed for the Upgraded Evaporative Cooling System of the ATLAS Silicon Tracker",Development of a Detector Control System for the ATLAS Pixel Detector,0.305688
+"A Custom Online Ultrasonic Gas Mixture Analyzer With Simultaneous Flowmetry, Developed for the Upgraded Evaporative Cooling System of the ATLAS Silicon Tracker",Simultaneous On-line Ultrasonic Flowmetery and Binary Gas Mixture Analysis for the ATLAS Silicon Tracker Cooling Control System,0.814651
+"A Custom Online Ultrasonic Gas Mixture Analyzer With Simultaneous Flowmetry, Developed for the Upgraded Evaporative Cooling System of the ATLAS Silicon Tracker",A COMBINED ON-LINE ACOUSTIC FLOWMETER AND FLUOROCARBON COOLANT MIXTURE ANALYZER FOR THE ATLAS,0.723481
+"A Custom Online Ultrasonic Gas Mixture Analyzer With Simultaneous Flowmetry, Developed for the Upgraded Evaporative Cooling System of the ATLAS Silicon Tracker",Implementation of an ultrasonic instrument for simultaneous mixture and flow analysis of binary gas systems,0.780413
+"A Custom Online Ultrasonic Gas Mixture Analyzer With Simultaneous Flowmetry, Developed for the Upgraded Evaporative Cooling System of the ATLAS Silicon Tracker",Applications and perspectives of gas analysis based on sonar instrumentation,0.825676
+"A Custom Online Ultrasonic Gas Mixture Analyzer With Simultaneous Flowmetry, Developed for the Upgraded Evaporative Cooling System of the ATLAS Silicon Tracker",ChemInform Abstract: PERIODIC TEMPERATURE CHANGES AND CRYSTAL RIPENING,0.271003
+"A Custom Online Ultrasonic Gas Mixture Analyzer With Simultaneous Flowmetry, Developed for the Upgraded Evaporative Cooling System of the ATLAS Silicon Tracker",ChemInform Abstract: INTEGRAL HEAT OF DISSOLUTION OF POTASSIUM CHLORATE IN WATER AT 298.15 K,0.136038
+"A Custom Online Ultrasonic Gas Mixture Analyzer With Simultaneous Flowmetry, Developed for the Upgraded Evaporative Cooling System of the ATLAS Silicon Tracker",Learning IoT skills in the context of student projects,-0.036357
+Oxygen electrode response lag induced by liquid film resistance against oxygen transfer,Dynamic measurement of the volumetric mass transfer coefficient in agitated vessels: Effect of the start‐up period on the response of an oxygen electrode,0.855705
+Oxygen electrode response lag induced by liquid film resistance against oxygen transfer,Oxygen Probe Dynamics in Flowing Fluids,0.45914
+Oxygen electrode response lag induced by liquid film resistance against oxygen transfer,Transient characteristics of oxygen probes with significant liquid film effects,0.470151
+Oxygen electrode response lag induced by liquid film resistance against oxygen transfer,Development of fluorocarbon evaporative cooling recirculators and controls for the ATLAS inner silicon tracker,0.200189
+Oxygen electrode response lag induced by liquid film resistance against oxygen transfer,"A custom on-line ultrasonic gas mixture analyzer with simultaneous flowmetry developed for use in the LHC-ATLAS experiment, with wide application in high and low flow gas delivery systems",0.280478
+Oxygen electrode response lag induced by liquid film resistance against oxygen transfer,Custom ultrasonic instrumentation for flow measurement and real-time binary gas analysis in the CERN ATLAS experiment,0.289092
+Oxygen electrode response lag induced by liquid film resistance against oxygen transfer,A Combined On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyser for the ATLAS Silicon Tracker,-0.021088
+Oxygen electrode response lag induced by liquid film resistance against oxygen transfer,Applications and Perspectives of Ultrasonic Multi-Gas Analysis with Simultaneous Flowmetry,0.28686
+Oxygen electrode response lag induced by liquid film resistance against oxygen transfer,Recrystallization rates at periodic temperature changes,0.063638
+Oxygen electrode response lag induced by liquid film resistance against oxygen transfer,Periodical temperature changes and the behaviour of individual crystals,0.174385
+Oxygen electrode response lag induced by liquid film resistance against oxygen transfer,First determination of the $\rho $ parameter at $\sqrt{s} = 13$ TeV -- probing the existence of a colourless three-gluon bound state,0.087053
+Oxygen electrode response lag induced by liquid film resistance against oxygen transfer,AIRFLY: Air Fluorescence Induced by Electrons in a Wide Energy Range,0.233819
+Oxygen electrode response lag induced by liquid film resistance against oxygen transfer,Continuous Recrystallization in a Double Crystallizer,0.047185
+Oxygen electrode response lag induced by liquid film resistance against oxygen transfer,A Combine On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyzer for The ATLAS Silicon Tracker,0.231111
+Oxygen electrode response lag induced by liquid film resistance against oxygen transfer,First Results from the TOTEM Experiment,0.079215
+Oxygen electrode response lag induced by liquid film resistance against oxygen transfer,Development of a Detector Control System for the ATLAS Pixel Detector,0.071672
+Oxygen electrode response lag induced by liquid film resistance against oxygen transfer,Simultaneous On-line Ultrasonic Flowmetery and Binary Gas Mixture Analysis for the ATLAS Silicon Tracker Cooling Control System,0.250989
+Oxygen electrode response lag induced by liquid film resistance against oxygen transfer,A COMBINED ON-LINE ACOUSTIC FLOWMETER AND FLUOROCARBON COOLANT MIXTURE ANALYZER FOR THE ATLAS,0.161027
+Oxygen electrode response lag induced by liquid film resistance against oxygen transfer,Implementation of an ultrasonic instrument for simultaneous mixture and flow analysis of binary gas systems,0.195451
+Oxygen electrode response lag induced by liquid film resistance against oxygen transfer,Applications and perspectives of gas analysis based on sonar instrumentation,0.240145
+Oxygen electrode response lag induced by liquid film resistance against oxygen transfer,ChemInform Abstract: PERIODIC TEMPERATURE CHANGES AND CRYSTAL RIPENING,0.130313
+Oxygen electrode response lag induced by liquid film resistance against oxygen transfer,ChemInform Abstract: INTEGRAL HEAT OF DISSOLUTION OF POTASSIUM CHLORATE IN WATER AT 298.15 K,0.230483
+Oxygen electrode response lag induced by liquid film resistance against oxygen transfer,Learning IoT skills in the context of student projects,-0.021088
+Dynamic measurement of the volumetric mass transfer coefficient in agitated vessels: Effect of the start‐up period on the response of an oxygen electrode,Oxygen Probe Dynamics in Flowing Fluids,0.42665
+Dynamic measurement of the volumetric mass transfer coefficient in agitated vessels: Effect of the start‐up period on the response of an oxygen electrode,Transient characteristics of oxygen probes with significant liquid film effects,0.473196
+Dynamic measurement of the volumetric mass transfer coefficient in agitated vessels: Effect of the start‐up period on the response of an oxygen electrode,Development of fluorocarbon evaporative cooling recirculators and controls for the ATLAS inner silicon tracker,0.163847
+Dynamic measurement of the volumetric mass transfer coefficient in agitated vessels: Effect of the start‐up period on the response of an oxygen electrode,"A custom on-line ultrasonic gas mixture analyzer with simultaneous flowmetry developed for use in the LHC-ATLAS experiment, with wide application in high and low flow gas delivery systems",0.338261
+Dynamic measurement of the volumetric mass transfer coefficient in agitated vessels: Effect of the start‐up period on the response of an oxygen electrode,Custom ultrasonic instrumentation for flow measurement and real-time binary gas analysis in the CERN ATLAS experiment,0.31702
+Dynamic measurement of the volumetric mass transfer coefficient in agitated vessels: Effect of the start‐up period on the response of an oxygen electrode,A Combined On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyser for the ATLAS Silicon Tracker,-0.026111
+Dynamic measurement of the volumetric mass transfer coefficient in agitated vessels: Effect of the start‐up period on the response of an oxygen electrode,Applications and Perspectives of Ultrasonic Multi-Gas Analysis with Simultaneous Flowmetry,0.299397
+Dynamic measurement of the volumetric mass transfer coefficient in agitated vessels: Effect of the start‐up period on the response of an oxygen electrode,Recrystallization rates at periodic temperature changes,0.15704
+Dynamic measurement of the volumetric mass transfer coefficient in agitated vessels: Effect of the start‐up period on the response of an oxygen electrode,Periodical temperature changes and the behaviour of individual crystals,0.212635
+Dynamic measurement of the volumetric mass transfer coefficient in agitated vessels: Effect of the start‐up period on the response of an oxygen electrode,First determination of the $\rho $ parameter at $\sqrt{s} = 13$ TeV -- probing the existence of a colourless three-gluon bound state,0.056675
+Dynamic measurement of the volumetric mass transfer coefficient in agitated vessels: Effect of the start‐up period on the response of an oxygen electrode,AIRFLY: Air Fluorescence Induced by Electrons in a Wide Energy Range,0.188643
+Dynamic measurement of the volumetric mass transfer coefficient in agitated vessels: Effect of the start‐up period on the response of an oxygen electrode,Continuous Recrystallization in a Double Crystallizer,0.146653
+Dynamic measurement of the volumetric mass transfer coefficient in agitated vessels: Effect of the start‐up period on the response of an oxygen electrode,A Combine On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyzer for The ATLAS Silicon Tracker,0.231241
+Dynamic measurement of the volumetric mass transfer coefficient in agitated vessels: Effect of the start‐up period on the response of an oxygen electrode,First Results from the TOTEM Experiment,0.075453
+Dynamic measurement of the volumetric mass transfer coefficient in agitated vessels: Effect of the start‐up period on the response of an oxygen electrode,Development of a Detector Control System for the ATLAS Pixel Detector,0.057095
+Dynamic measurement of the volumetric mass transfer coefficient in agitated vessels: Effect of the start‐up period on the response of an oxygen electrode,Simultaneous On-line Ultrasonic Flowmetery and Binary Gas Mixture Analysis for the ATLAS Silicon Tracker Cooling Control System,0.28811
+Dynamic measurement of the volumetric mass transfer coefficient in agitated vessels: Effect of the start‐up period on the response of an oxygen electrode,A COMBINED ON-LINE ACOUSTIC FLOWMETER AND FLUOROCARBON COOLANT MIXTURE ANALYZER FOR THE ATLAS,0.174956
+Dynamic measurement of the volumetric mass transfer coefficient in agitated vessels: Effect of the start‐up period on the response of an oxygen electrode,Implementation of an ultrasonic instrument for simultaneous mixture and flow analysis of binary gas systems,0.227102
+Dynamic measurement of the volumetric mass transfer coefficient in agitated vessels: Effect of the start‐up period on the response of an oxygen electrode,Applications and perspectives of gas analysis based on sonar instrumentation,0.282775
+Dynamic measurement of the volumetric mass transfer coefficient in agitated vessels: Effect of the start‐up period on the response of an oxygen electrode,ChemInform Abstract: PERIODIC TEMPERATURE CHANGES AND CRYSTAL RIPENING,0.203306
+Dynamic measurement of the volumetric mass transfer coefficient in agitated vessels: Effect of the start‐up period on the response of an oxygen electrode,ChemInform Abstract: INTEGRAL HEAT OF DISSOLUTION OF POTASSIUM CHLORATE IN WATER AT 298.15 K,0.179474
+Dynamic measurement of the volumetric mass transfer coefficient in agitated vessels: Effect of the start‐up period on the response of an oxygen electrode,Learning IoT skills in the context of student projects,-0.026111
+Oxygen Probe Dynamics in Flowing Fluids,Transient characteristics of oxygen probes with significant liquid film effects,0.470706
+Oxygen Probe Dynamics in Flowing Fluids,Development of fluorocarbon evaporative cooling recirculators and controls for the ATLAS inner silicon tracker,0.231778
+Oxygen Probe Dynamics in Flowing Fluids,"A custom on-line ultrasonic gas mixture analyzer with simultaneous flowmetry developed for use in the LHC-ATLAS experiment, with wide application in high and low flow gas delivery systems",0.350466
+Oxygen Probe Dynamics in Flowing Fluids,Custom ultrasonic instrumentation for flow measurement and real-time binary gas analysis in the CERN ATLAS experiment,0.330321
+Oxygen Probe Dynamics in Flowing Fluids,A Combined On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyser for the ATLAS Silicon Tracker,0.04948
+Oxygen Probe Dynamics in Flowing Fluids,Applications and Perspectives of Ultrasonic Multi-Gas Analysis with Simultaneous Flowmetry,0.386337
+Oxygen Probe Dynamics in Flowing Fluids,Recrystallization rates at periodic temperature changes,0.21073
+Oxygen Probe Dynamics in Flowing Fluids,Periodical temperature changes and the behaviour of individual crystals,0.35259
+Oxygen Probe Dynamics in Flowing Fluids,First determination of the $\rho $ parameter at $\sqrt{s} = 13$ TeV -- probing the existence of a colourless three-gluon bound state,0.180862
+Oxygen Probe Dynamics in Flowing Fluids,AIRFLY: Air Fluorescence Induced by Electrons in a Wide Energy Range,0.355348
+Oxygen Probe Dynamics in Flowing Fluids,Continuous Recrystallization in a Double Crystallizer,0.192398
+Oxygen Probe Dynamics in Flowing Fluids,A Combine On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyzer for The ATLAS Silicon Tracker,0.373145
+Oxygen Probe Dynamics in Flowing Fluids,First Results from the TOTEM Experiment,0.132734
+Oxygen Probe Dynamics in Flowing Fluids,Development of a Detector Control System for the ATLAS Pixel Detector,0.109401
+Oxygen Probe Dynamics in Flowing Fluids,Simultaneous On-line Ultrasonic Flowmetery and Binary Gas Mixture Analysis for the ATLAS Silicon Tracker Cooling Control System,0.34471
+Oxygen Probe Dynamics in Flowing Fluids,A COMBINED ON-LINE ACOUSTIC FLOWMETER AND FLUOROCARBON COOLANT MIXTURE ANALYZER FOR THE ATLAS,0.262135
+Oxygen Probe Dynamics in Flowing Fluids,Implementation of an ultrasonic instrument for simultaneous mixture and flow analysis of binary gas systems,0.342323
+Oxygen Probe Dynamics in Flowing Fluids,Applications and perspectives of gas analysis based on sonar instrumentation,0.351544
+Oxygen Probe Dynamics in Flowing Fluids,ChemInform Abstract: PERIODIC TEMPERATURE CHANGES AND CRYSTAL RIPENING,0.253431
+Oxygen Probe Dynamics in Flowing Fluids,ChemInform Abstract: INTEGRAL HEAT OF DISSOLUTION OF POTASSIUM CHLORATE IN WATER AT 298.15 K,0.343229
+Oxygen Probe Dynamics in Flowing Fluids,Learning IoT skills in the context of student projects,0.04948
+Transient characteristics of oxygen probes with significant liquid film effects,Development of fluorocarbon evaporative cooling recirculators and controls for the ATLAS inner silicon tracker,0.293781
+Transient characteristics of oxygen probes with significant liquid film effects,"A custom on-line ultrasonic gas mixture analyzer with simultaneous flowmetry developed for use in the LHC-ATLAS experiment, with wide application in high and low flow gas delivery systems",0.458724
+Transient characteristics of oxygen probes with significant liquid film effects,Custom ultrasonic instrumentation for flow measurement and real-time binary gas analysis in the CERN ATLAS experiment,0.403158
+Transient characteristics of oxygen probes with significant liquid film effects,A Combined On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyser for the ATLAS Silicon Tracker,-0.084817
+Transient characteristics of oxygen probes with significant liquid film effects,Applications and Perspectives of Ultrasonic Multi-Gas Analysis with Simultaneous Flowmetry,0.374713
+Transient characteristics of oxygen probes with significant liquid film effects,Recrystallization rates at periodic temperature changes,0.211434
+Transient characteristics of oxygen probes with significant liquid film effects,Periodical temperature changes and the behaviour of individual crystals,0.285693
+Transient characteristics of oxygen probes with significant liquid film effects,First determination of the $\rho $ parameter at $\sqrt{s} = 13$ TeV -- probing the existence of a colourless three-gluon bound state,0.096322
+Transient characteristics of oxygen probes with significant liquid film effects,AIRFLY: Air Fluorescence Induced by Electrons in a Wide Energy Range,0.265888
+Transient characteristics of oxygen probes with significant liquid film effects,Continuous Recrystallization in a Double Crystallizer,0.199148
+Transient characteristics of oxygen probes with significant liquid film effects,A Combine On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyzer for The ATLAS Silicon Tracker,0.368584
+Transient characteristics of oxygen probes with significant liquid film effects,First Results from the TOTEM Experiment,0.151041
+Transient characteristics of oxygen probes with significant liquid film effects,Development of a Detector Control System for the ATLAS Pixel Detector,0.097568
+Transient characteristics of oxygen probes with significant liquid film effects,Simultaneous On-line Ultrasonic Flowmetery and Binary Gas Mixture Analysis for the ATLAS Silicon Tracker Cooling Control System,0.393186
+Transient characteristics of oxygen probes with significant liquid film effects,A COMBINED ON-LINE ACOUSTIC FLOWMETER AND FLUOROCARBON COOLANT MIXTURE ANALYZER FOR THE ATLAS,0.312263
+Transient characteristics of oxygen probes with significant liquid film effects,Implementation of an ultrasonic instrument for simultaneous mixture and flow analysis of binary gas systems,0.331862
+Transient characteristics of oxygen probes with significant liquid film effects,Applications and perspectives of gas analysis based on sonar instrumentation,0.391544
+Transient characteristics of oxygen probes with significant liquid film effects,ChemInform Abstract: PERIODIC TEMPERATURE CHANGES AND CRYSTAL RIPENING,0.305749
+Transient characteristics of oxygen probes with significant liquid film effects,ChemInform Abstract: INTEGRAL HEAT OF DISSOLUTION OF POTASSIUM CHLORATE IN WATER AT 298.15 K,0.269399
+Transient characteristics of oxygen probes with significant liquid film effects,Learning IoT skills in the context of student projects,-0.084817
+Development of fluorocarbon evaporative cooling recirculators and controls for the ATLAS inner silicon tracker,"A custom on-line ultrasonic gas mixture analyzer with simultaneous flowmetry developed for use in the LHC-ATLAS experiment, with wide application in high and low flow gas delivery systems",0.605568
+Development of fluorocarbon evaporative cooling recirculators and controls for the ATLAS inner silicon tracker,Custom ultrasonic instrumentation for flow measurement and real-time binary gas analysis in the CERN ATLAS experiment,0.709328
+Development of fluorocarbon evaporative cooling recirculators and controls for the ATLAS inner silicon tracker,A Combined On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyser for the ATLAS Silicon Tracker,-0.029164
+Development of fluorocarbon evaporative cooling recirculators and controls for the ATLAS inner silicon tracker,Applications and Perspectives of Ultrasonic Multi-Gas Analysis with Simultaneous Flowmetry,0.465248
+Development of fluorocarbon evaporative cooling recirculators and controls for the ATLAS inner silicon tracker,Recrystallization rates at periodic temperature changes,0.107242
+Development of fluorocarbon evaporative cooling recirculators and controls for the ATLAS inner silicon tracker,Periodical temperature changes and the behaviour of individual crystals,0.055426
+Development of fluorocarbon evaporative cooling recirculators and controls for the ATLAS inner silicon tracker,First determination of the $\rho $ parameter at $\sqrt{s} = 13$ TeV -- probing the existence of a colourless three-gluon bound state,0.077339
+Development of fluorocarbon evaporative cooling recirculators and controls for the ATLAS inner silicon tracker,AIRFLY: Air Fluorescence Induced by Electrons in a Wide Energy Range,0.261885
+Development of fluorocarbon evaporative cooling recirculators and controls for the ATLAS inner silicon tracker,Continuous Recrystallization in a Double Crystallizer,0.115544
+Development of fluorocarbon evaporative cooling recirculators and controls for the ATLAS inner silicon tracker,A Combine On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyzer for The ATLAS Silicon Tracker,0.697282
+Development of fluorocarbon evaporative cooling recirculators and controls for the ATLAS inner silicon tracker,First Results from the TOTEM Experiment,0.138324
+Development of fluorocarbon evaporative cooling recirculators and controls for the ATLAS inner silicon tracker,Development of a Detector Control System for the ATLAS Pixel Detector,0.596892
+Development of fluorocarbon evaporative cooling recirculators and controls for the ATLAS inner silicon tracker,Simultaneous On-line Ultrasonic Flowmetery and Binary Gas Mixture Analysis for the ATLAS Silicon Tracker Cooling Control System,0.64482
+Development of fluorocarbon evaporative cooling recirculators and controls for the ATLAS inner silicon tracker,A COMBINED ON-LINE ACOUSTIC FLOWMETER AND FLUOROCARBON COOLANT MIXTURE ANALYZER FOR THE ATLAS,0.716717
+Development of fluorocarbon evaporative cooling recirculators and controls for the ATLAS inner silicon tracker,Implementation of an ultrasonic instrument for simultaneous mixture and flow analysis of binary gas systems,0.428449
+Development of fluorocarbon evaporative cooling recirculators and controls for the ATLAS inner silicon tracker,Applications and perspectives of gas analysis based on sonar instrumentation,0.629678
+Development of fluorocarbon evaporative cooling recirculators and controls for the ATLAS inner silicon tracker,ChemInform Abstract: PERIODIC TEMPERATURE CHANGES AND CRYSTAL RIPENING,0.1613
+Development of fluorocarbon evaporative cooling recirculators and controls for the ATLAS inner silicon tracker,ChemInform Abstract: INTEGRAL HEAT OF DISSOLUTION OF POTASSIUM CHLORATE IN WATER AT 298.15 K,0.091916
+Development of fluorocarbon evaporative cooling recirculators and controls for the ATLAS inner silicon tracker,Learning IoT skills in the context of student projects,-0.029164
+"A custom on-line ultrasonic gas mixture analyzer with simultaneous flowmetry developed for use in the LHC-ATLAS experiment, with wide application in high and low flow gas delivery systems",Custom ultrasonic instrumentation for flow measurement and real-time binary gas analysis in the CERN ATLAS experiment,0.872609
+"A custom on-line ultrasonic gas mixture analyzer with simultaneous flowmetry developed for use in the LHC-ATLAS experiment, with wide application in high and low flow gas delivery systems",A Combined On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyser for the ATLAS Silicon Tracker,-0.041351
+"A custom on-line ultrasonic gas mixture analyzer with simultaneous flowmetry developed for use in the LHC-ATLAS experiment, with wide application in high and low flow gas delivery systems",Applications and Perspectives of Ultrasonic Multi-Gas Analysis with Simultaneous Flowmetry,0.790605
+"A custom on-line ultrasonic gas mixture analyzer with simultaneous flowmetry developed for use in the LHC-ATLAS experiment, with wide application in high and low flow gas delivery systems",Recrystallization rates at periodic temperature changes,0.126091
+"A custom on-line ultrasonic gas mixture analyzer with simultaneous flowmetry developed for use in the LHC-ATLAS experiment, with wide application in high and low flow gas delivery systems",Periodical temperature changes and the behaviour of individual crystals,0.169345
+"A custom on-line ultrasonic gas mixture analyzer with simultaneous flowmetry developed for use in the LHC-ATLAS experiment, with wide application in high and low flow gas delivery systems",First determination of the $\rho $ parameter at $\sqrt{s} = 13$ TeV -- probing the existence of a colourless three-gluon bound state,0.064
+"A custom on-line ultrasonic gas mixture analyzer with simultaneous flowmetry developed for use in the LHC-ATLAS experiment, with wide application in high and low flow gas delivery systems",AIRFLY: Air Fluorescence Induced by Electrons in a Wide Energy Range,0.28504
+"A custom on-line ultrasonic gas mixture analyzer with simultaneous flowmetry developed for use in the LHC-ATLAS experiment, with wide application in high and low flow gas delivery systems",Continuous Recrystallization in a Double Crystallizer,0.153289
+"A custom on-line ultrasonic gas mixture analyzer with simultaneous flowmetry developed for use in the LHC-ATLAS experiment, with wide application in high and low flow gas delivery systems",A Combine On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyzer for The ATLAS Silicon Tracker,0.737548
+"A custom on-line ultrasonic gas mixture analyzer with simultaneous flowmetry developed for use in the LHC-ATLAS experiment, with wide application in high and low flow gas delivery systems",First Results from the TOTEM Experiment,0.124411
+"A custom on-line ultrasonic gas mixture analyzer with simultaneous flowmetry developed for use in the LHC-ATLAS experiment, with wide application in high and low flow gas delivery systems",Development of a Detector Control System for the ATLAS Pixel Detector,0.321387
+"A custom on-line ultrasonic gas mixture analyzer with simultaneous flowmetry developed for use in the LHC-ATLAS experiment, with wide application in high and low flow gas delivery systems",Simultaneous On-line Ultrasonic Flowmetery and Binary Gas Mixture Analysis for the ATLAS Silicon Tracker Cooling Control System,0.817662
+"A custom on-line ultrasonic gas mixture analyzer with simultaneous flowmetry developed for use in the LHC-ATLAS experiment, with wide application in high and low flow gas delivery systems",A COMBINED ON-LINE ACOUSTIC FLOWMETER AND FLUOROCARBON COOLANT MIXTURE ANALYZER FOR THE ATLAS,0.68472
+"A custom on-line ultrasonic gas mixture analyzer with simultaneous flowmetry developed for use in the LHC-ATLAS experiment, with wide application in high and low flow gas delivery systems",Implementation of an ultrasonic instrument for simultaneous mixture and flow analysis of binary gas systems,0.806667
+"A custom on-line ultrasonic gas mixture analyzer with simultaneous flowmetry developed for use in the LHC-ATLAS experiment, with wide application in high and low flow gas delivery systems",Applications and perspectives of gas analysis based on sonar instrumentation,0.82339
+"A custom on-line ultrasonic gas mixture analyzer with simultaneous flowmetry developed for use in the LHC-ATLAS experiment, with wide application in high and low flow gas delivery systems",ChemInform Abstract: PERIODIC TEMPERATURE CHANGES AND CRYSTAL RIPENING,0.251585
+"A custom on-line ultrasonic gas mixture analyzer with simultaneous flowmetry developed for use in the LHC-ATLAS experiment, with wide application in high and low flow gas delivery systems",ChemInform Abstract: INTEGRAL HEAT OF DISSOLUTION OF POTASSIUM CHLORATE IN WATER AT 298.15 K,0.128674
+"A custom on-line ultrasonic gas mixture analyzer with simultaneous flowmetry developed for use in the LHC-ATLAS experiment, with wide application in high and low flow gas delivery systems",Learning IoT skills in the context of student projects,-0.041351
+Custom ultrasonic instrumentation for flow measurement and real-time binary gas analysis in the CERN ATLAS experiment,A Combined On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyser for the ATLAS Silicon Tracker,-0.014762
+Custom ultrasonic instrumentation for flow measurement and real-time binary gas analysis in the CERN ATLAS experiment,Applications and Perspectives of Ultrasonic Multi-Gas Analysis with Simultaneous Flowmetry,0.783545
+Custom ultrasonic instrumentation for flow measurement and real-time binary gas analysis in the CERN ATLAS experiment,Recrystallization rates at periodic temperature changes,0.139167
+Custom ultrasonic instrumentation for flow measurement and real-time binary gas analysis in the CERN ATLAS experiment,Periodical temperature changes and the behaviour of individual crystals,0.173907
+Custom ultrasonic instrumentation for flow measurement and real-time binary gas analysis in the CERN ATLAS experiment,First determination of the $\rho $ parameter at $\sqrt{s} = 13$ TeV -- probing the existence of a colourless three-gluon bound state,0.102201
+Custom ultrasonic instrumentation for flow measurement and real-time binary gas analysis in the CERN ATLAS experiment,AIRFLY: Air Fluorescence Induced by Electrons in a Wide Energy Range,0.287108
+Custom ultrasonic instrumentation for flow measurement and real-time binary gas analysis in the CERN ATLAS experiment,Continuous Recrystallization in a Double Crystallizer,0.167227
+Custom ultrasonic instrumentation for flow measurement and real-time binary gas analysis in the CERN ATLAS experiment,A Combine On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyzer for The ATLAS Silicon Tracker,0.80628
+Custom ultrasonic instrumentation for flow measurement and real-time binary gas analysis in the CERN ATLAS experiment,First Results from the TOTEM Experiment,0.164312
+Custom ultrasonic instrumentation for flow measurement and real-time binary gas analysis in the CERN ATLAS experiment,Development of a Detector Control System for the ATLAS Pixel Detector,0.502606
+Custom ultrasonic instrumentation for flow measurement and real-time binary gas analysis in the CERN ATLAS experiment,Simultaneous On-line Ultrasonic Flowmetery and Binary Gas Mixture Analysis for the ATLAS Silicon Tracker Cooling Control System,0.797972
+Custom ultrasonic instrumentation for flow measurement and real-time binary gas analysis in the CERN ATLAS experiment,A COMBINED ON-LINE ACOUSTIC FLOWMETER AND FLUOROCARBON COOLANT MIXTURE ANALYZER FOR THE ATLAS,0.754839
+Custom ultrasonic instrumentation for flow measurement and real-time binary gas analysis in the CERN ATLAS experiment,Implementation of an ultrasonic instrument for simultaneous mixture and flow analysis of binary gas systems,0.727233
+Custom ultrasonic instrumentation for flow measurement and real-time binary gas analysis in the CERN ATLAS experiment,Applications and perspectives of gas analysis based on sonar instrumentation,0.862585
+Custom ultrasonic instrumentation for flow measurement and real-time binary gas analysis in the CERN ATLAS experiment,ChemInform Abstract: PERIODIC TEMPERATURE CHANGES AND CRYSTAL RIPENING,0.219892
+Custom ultrasonic instrumentation for flow measurement and real-time binary gas analysis in the CERN ATLAS experiment,ChemInform Abstract: INTEGRAL HEAT OF DISSOLUTION OF POTASSIUM CHLORATE IN WATER AT 298.15 K,0.142663
+Custom ultrasonic instrumentation for flow measurement and real-time binary gas analysis in the CERN ATLAS experiment,Learning IoT skills in the context of student projects,-0.014762
+A Combined On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyser for the ATLAS Silicon Tracker,Applications and Perspectives of Ultrasonic Multi-Gas Analysis with Simultaneous Flowmetry,-0.063441
+A Combined On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyser for the ATLAS Silicon Tracker,Recrystallization rates at periodic temperature changes,-0.076774
+A Combined On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyser for the ATLAS Silicon Tracker,Periodical temperature changes and the behaviour of individual crystals,-0.061283
+A Combined On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyser for the ATLAS Silicon Tracker,First determination of the $\rho $ parameter at $\sqrt{s} = 13$ TeV -- probing the existence of a colourless three-gluon bound state,0.052058
+A Combined On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyser for the ATLAS Silicon Tracker,AIRFLY: Air Fluorescence Induced by Electrons in a Wide Energy Range,0.002757
+A Combined On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyser for the ATLAS Silicon Tracker,Continuous Recrystallization in a Double Crystallizer,-0.03318
+A Combined On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyser for the ATLAS Silicon Tracker,A Combine On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyzer for The ATLAS Silicon Tracker,-0.012774
+A Combined On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyser for the ATLAS Silicon Tracker,First Results from the TOTEM Experiment,0.010581
+A Combined On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyser for the ATLAS Silicon Tracker,Development of a Detector Control System for the ATLAS Pixel Detector,0.059301
+A Combined On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyser for the ATLAS Silicon Tracker,Simultaneous On-line Ultrasonic Flowmetery and Binary Gas Mixture Analysis for the ATLAS Silicon Tracker Cooling Control System,-0.038453
+A Combined On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyser for the ATLAS Silicon Tracker,A COMBINED ON-LINE ACOUSTIC FLOWMETER AND FLUOROCARBON COOLANT MIXTURE ANALYZER FOR THE ATLAS,-0.003301
+A Combined On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyser for the ATLAS Silicon Tracker,Implementation of an ultrasonic instrument for simultaneous mixture and flow analysis of binary gas systems,-0.056948
+A Combined On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyser for the ATLAS Silicon Tracker,Applications and perspectives of gas analysis based on sonar instrumentation,-0.057372
+A Combined On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyser for the ATLAS Silicon Tracker,ChemInform Abstract: PERIODIC TEMPERATURE CHANGES AND CRYSTAL RIPENING,-0.054319
+A Combined On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyser for the ATLAS Silicon Tracker,ChemInform Abstract: INTEGRAL HEAT OF DISSOLUTION OF POTASSIUM CHLORATE IN WATER AT 298.15 K,0.003913
+A Combined On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyser for the ATLAS Silicon Tracker,Learning IoT skills in the context of student projects,1.0
+Applications and Perspectives of Ultrasonic Multi-Gas Analysis with Simultaneous Flowmetry,Recrystallization rates at periodic temperature changes,0.124136
+Applications and Perspectives of Ultrasonic Multi-Gas Analysis with Simultaneous Flowmetry,Periodical temperature changes and the behaviour of individual crystals,0.158387
+Applications and Perspectives of Ultrasonic Multi-Gas Analysis with Simultaneous Flowmetry,First determination of the $\rho $ parameter at $\sqrt{s} = 13$ TeV -- probing the existence of a colourless three-gluon bound state,0.214216
+Applications and Perspectives of Ultrasonic Multi-Gas Analysis with Simultaneous Flowmetry,AIRFLY: Air Fluorescence Induced by Electrons in a Wide Energy Range,0.322647
+Applications and Perspectives of Ultrasonic Multi-Gas Analysis with Simultaneous Flowmetry,Continuous Recrystallization in a Double Crystallizer,0.139008
+Applications and Perspectives of Ultrasonic Multi-Gas Analysis with Simultaneous Flowmetry,A Combine On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyzer for The ATLAS Silicon Tracker,0.745246
+Applications and Perspectives of Ultrasonic Multi-Gas Analysis with Simultaneous Flowmetry,First Results from the TOTEM Experiment,0.225394
+Applications and Perspectives of Ultrasonic Multi-Gas Analysis with Simultaneous Flowmetry,Development of a Detector Control System for the ATLAS Pixel Detector,0.315888
+Applications and Perspectives of Ultrasonic Multi-Gas Analysis with Simultaneous Flowmetry,Simultaneous On-line Ultrasonic Flowmetery and Binary Gas Mixture Analysis for the ATLAS Silicon Tracker Cooling Control System,0.650978
+Applications and Perspectives of Ultrasonic Multi-Gas Analysis with Simultaneous Flowmetry,A COMBINED ON-LINE ACOUSTIC FLOWMETER AND FLUOROCARBON COOLANT MIXTURE ANALYZER FOR THE ATLAS,0.628365
+Applications and Perspectives of Ultrasonic Multi-Gas Analysis with Simultaneous Flowmetry,Implementation of an ultrasonic instrument for simultaneous mixture and flow analysis of binary gas systems,0.792982
+Applications and Perspectives of Ultrasonic Multi-Gas Analysis with Simultaneous Flowmetry,Applications and perspectives of gas analysis based on sonar instrumentation,0.86763
+Applications and Perspectives of Ultrasonic Multi-Gas Analysis with Simultaneous Flowmetry,ChemInform Abstract: PERIODIC TEMPERATURE CHANGES AND CRYSTAL RIPENING,0.223082
+Applications and Perspectives of Ultrasonic Multi-Gas Analysis with Simultaneous Flowmetry,ChemInform Abstract: INTEGRAL HEAT OF DISSOLUTION OF POTASSIUM CHLORATE IN WATER AT 298.15 K,0.191211
+Applications and Perspectives of Ultrasonic Multi-Gas Analysis with Simultaneous Flowmetry,Learning IoT skills in the context of student projects,-0.063441
+Recrystallization rates at periodic temperature changes,Periodical temperature changes and the behaviour of individual crystals,0.588253
+Recrystallization rates at periodic temperature changes,First determination of the $\rho $ parameter at $\sqrt{s} = 13$ TeV -- probing the existence of a colourless three-gluon bound state,0.020637
+Recrystallization rates at periodic temperature changes,AIRFLY: Air Fluorescence Induced by Electrons in a Wide Energy Range,0.127801
+Recrystallization rates at periodic temperature changes,Continuous Recrystallization in a Double Crystallizer,0.879795
+Recrystallization rates at periodic temperature changes,A Combine On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyzer for The ATLAS Silicon Tracker,0.142342
+Recrystallization rates at periodic temperature changes,First Results from the TOTEM Experiment,0.035516
+Recrystallization rates at periodic temperature changes,Development of a Detector Control System for the ATLAS Pixel Detector,0.017012
+Recrystallization rates at periodic temperature changes,Simultaneous On-line Ultrasonic Flowmetery and Binary Gas Mixture Analysis for the ATLAS Silicon Tracker Cooling Control System,0.098405
+Recrystallization rates at periodic temperature changes,A COMBINED ON-LINE ACOUSTIC FLOWMETER AND FLUOROCARBON COOLANT MIXTURE ANALYZER FOR THE ATLAS,0.107734
+Recrystallization rates at periodic temperature changes,Implementation of an ultrasonic instrument for simultaneous mixture and flow analysis of binary gas systems,0.055708
+Recrystallization rates at periodic temperature changes,Applications and perspectives of gas analysis based on sonar instrumentation,0.163743
+Recrystallization rates at periodic temperature changes,ChemInform Abstract: PERIODIC TEMPERATURE CHANGES AND CRYSTAL RIPENING,0.408538
+Recrystallization rates at periodic temperature changes,ChemInform Abstract: INTEGRAL HEAT OF DISSOLUTION OF POTASSIUM CHLORATE IN WATER AT 298.15 K,0.333526
+Recrystallization rates at periodic temperature changes,Learning IoT skills in the context of student projects,-0.076774
+Periodical temperature changes and the behaviour of individual crystals,First determination of the $\rho $ parameter at $\sqrt{s} = 13$ TeV -- probing the existence of a colourless three-gluon bound state,0.028131
+Periodical temperature changes and the behaviour of individual crystals,AIRFLY: Air Fluorescence Induced by Electrons in a Wide Energy Range,0.176935
+Periodical temperature changes and the behaviour of individual crystals,Continuous Recrystallization in a Double Crystallizer,0.586749
+Periodical temperature changes and the behaviour of individual crystals,A Combine On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyzer for The ATLAS Silicon Tracker,0.161524
+Periodical temperature changes and the behaviour of individual crystals,First Results from the TOTEM Experiment,0.004865
+Periodical temperature changes and the behaviour of individual crystals,Development of a Detector Control System for the ATLAS Pixel Detector,0.010038
+Periodical temperature changes and the behaviour of individual crystals,Simultaneous On-line Ultrasonic Flowmetery and Binary Gas Mixture Analysis for the ATLAS Silicon Tracker Cooling Control System,0.140124
+Periodical temperature changes and the behaviour of individual crystals,A COMBINED ON-LINE ACOUSTIC FLOWMETER AND FLUOROCARBON COOLANT MIXTURE ANALYZER FOR THE ATLAS,0.113215
+Periodical temperature changes and the behaviour of individual crystals,Implementation of an ultrasonic instrument for simultaneous mixture and flow analysis of binary gas systems,0.103202
+Periodical temperature changes and the behaviour of individual crystals,Applications and perspectives of gas analysis based on sonar instrumentation,0.167553
+Periodical temperature changes and the behaviour of individual crystals,ChemInform Abstract: PERIODIC TEMPERATURE CHANGES AND CRYSTAL RIPENING,0.398676
+Periodical temperature changes and the behaviour of individual crystals,ChemInform Abstract: INTEGRAL HEAT OF DISSOLUTION OF POTASSIUM CHLORATE IN WATER AT 298.15 K,0.295386
+Periodical temperature changes and the behaviour of individual crystals,Learning IoT skills in the context of student projects,-0.061283
+First determination of the $\rho $ parameter at $\sqrt{s} = 13$ TeV -- probing the existence of a colourless three-gluon bound state,AIRFLY: Air Fluorescence Induced by Electrons in a Wide Energy Range,0.205238
+First determination of the $\rho $ parameter at $\sqrt{s} = 13$ TeV -- probing the existence of a colourless three-gluon bound state,Continuous Recrystallization in a Double Crystallizer,0.00578
+First determination of the $\rho $ parameter at $\sqrt{s} = 13$ TeV -- probing the existence of a colourless three-gluon bound state,A Combine On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyzer for The ATLAS Silicon Tracker,0.303454
+First determination of the $\rho $ parameter at $\sqrt{s} = 13$ TeV -- probing the existence of a colourless three-gluon bound state,First Results from the TOTEM Experiment,0.794356
+First determination of the $\rho $ parameter at $\sqrt{s} = 13$ TeV -- probing the existence of a colourless three-gluon bound state,Development of a Detector Control System for the ATLAS Pixel Detector,0.278005
+First determination of the $\rho $ parameter at $\sqrt{s} = 13$ TeV -- probing the existence of a colourless three-gluon bound state,Simultaneous On-line Ultrasonic Flowmetery and Binary Gas Mixture Analysis for the ATLAS Silicon Tracker Cooling Control System,0.109327
+First determination of the $\rho $ parameter at $\sqrt{s} = 13$ TeV -- probing the existence of a colourless three-gluon bound state,A COMBINED ON-LINE ACOUSTIC FLOWMETER AND FLUOROCARBON COOLANT MIXTURE ANALYZER FOR THE ATLAS,0.308489
+First determination of the $\rho $ parameter at $\sqrt{s} = 13$ TeV -- probing the existence of a colourless three-gluon bound state,Implementation of an ultrasonic instrument for simultaneous mixture and flow analysis of binary gas systems,0.295878
+First determination of the $\rho $ parameter at $\sqrt{s} = 13$ TeV -- probing the existence of a colourless three-gluon bound state,Applications and perspectives of gas analysis based on sonar instrumentation,0.26431
+First determination of the $\rho $ parameter at $\sqrt{s} = 13$ TeV -- probing the existence of a colourless three-gluon bound state,ChemInform Abstract: PERIODIC TEMPERATURE CHANGES AND CRYSTAL RIPENING,0.099168
+First determination of the $\rho $ parameter at $\sqrt{s} = 13$ TeV -- probing the existence of a colourless three-gluon bound state,ChemInform Abstract: INTEGRAL HEAT OF DISSOLUTION OF POTASSIUM CHLORATE IN WATER AT 298.15 K,0.096129
+First determination of the $\rho $ parameter at $\sqrt{s} = 13$ TeV -- probing the existence of a colourless three-gluon bound state,Learning IoT skills in the context of student projects,0.052058
+AIRFLY: Air Fluorescence Induced by Electrons in a Wide Energy Range,Continuous Recrystallization in a Double Crystallizer,0.120868
+AIRFLY: Air Fluorescence Induced by Electrons in a Wide Energy Range,A Combine On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyzer for The ATLAS Silicon Tracker,0.333298
+AIRFLY: Air Fluorescence Induced by Electrons in a Wide Energy Range,First Results from the TOTEM Experiment,0.263547
+AIRFLY: Air Fluorescence Induced by Electrons in a Wide Energy Range,Development of a Detector Control System for the ATLAS Pixel Detector,0.254976
+AIRFLY: Air Fluorescence Induced by Electrons in a Wide Energy Range,Simultaneous On-line Ultrasonic Flowmetery and Binary Gas Mixture Analysis for the ATLAS Silicon Tracker Cooling Control System,0.249331
+AIRFLY: Air Fluorescence Induced by Electrons in a Wide Energy Range,A COMBINED ON-LINE ACOUSTIC FLOWMETER AND FLUOROCARBON COOLANT MIXTURE ANALYZER FOR THE ATLAS,0.269419
+AIRFLY: Air Fluorescence Induced by Electrons in a Wide Energy Range,Implementation of an ultrasonic instrument for simultaneous mixture and flow analysis of binary gas systems,0.32153
+AIRFLY: Air Fluorescence Induced by Electrons in a Wide Energy Range,Applications and perspectives of gas analysis based on sonar instrumentation,0.376962
+AIRFLY: Air Fluorescence Induced by Electrons in a Wide Energy Range,ChemInform Abstract: PERIODIC TEMPERATURE CHANGES AND CRYSTAL RIPENING,0.238633
+AIRFLY: Air Fluorescence Induced by Electrons in a Wide Energy Range,ChemInform Abstract: INTEGRAL HEAT OF DISSOLUTION OF POTASSIUM CHLORATE IN WATER AT 298.15 K,0.228745
+AIRFLY: Air Fluorescence Induced by Electrons in a Wide Energy Range,Learning IoT skills in the context of student projects,0.002757
+Continuous Recrystallization in a Double Crystallizer,A Combine On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyzer for The ATLAS Silicon Tracker,0.158575
+Continuous Recrystallization in a Double Crystallizer,First Results from the TOTEM Experiment,0.023482
+Continuous Recrystallization in a Double Crystallizer,Development of a Detector Control System for the ATLAS Pixel Detector,0.041534
+Continuous Recrystallization in a Double Crystallizer,Simultaneous On-line Ultrasonic Flowmetery and Binary Gas Mixture Analysis for the ATLAS Silicon Tracker Cooling Control System,0.147845
+Continuous Recrystallization in a Double Crystallizer,A COMBINED ON-LINE ACOUSTIC FLOWMETER AND FLUOROCARBON COOLANT MIXTURE ANALYZER FOR THE ATLAS,0.103597
+Continuous Recrystallization in a Double Crystallizer,Implementation of an ultrasonic instrument for simultaneous mixture and flow analysis of binary gas systems,0.083654
+Continuous Recrystallization in a Double Crystallizer,Applications and perspectives of gas analysis based on sonar instrumentation,0.186516
+Continuous Recrystallization in a Double Crystallizer,ChemInform Abstract: PERIODIC TEMPERATURE CHANGES AND CRYSTAL RIPENING,0.323758
+Continuous Recrystallization in a Double Crystallizer,ChemInform Abstract: INTEGRAL HEAT OF DISSOLUTION OF POTASSIUM CHLORATE IN WATER AT 298.15 K,0.299438
+Continuous Recrystallization in a Double Crystallizer,Learning IoT skills in the context of student projects,-0.03318
+A Combine On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyzer for The ATLAS Silicon Tracker,First Results from the TOTEM Experiment,0.307568
+A Combine On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyzer for The ATLAS Silicon Tracker,Development of a Detector Control System for the ATLAS Pixel Detector,0.584666
+A Combine On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyzer for The ATLAS Silicon Tracker,Simultaneous On-line Ultrasonic Flowmetery and Binary Gas Mixture Analysis for the ATLAS Silicon Tracker Cooling Control System,0.710769
+A Combine On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyzer for The ATLAS Silicon Tracker,A COMBINED ON-LINE ACOUSTIC FLOWMETER AND FLUOROCARBON COOLANT MIXTURE ANALYZER FOR THE ATLAS,0.942455
+A Combine On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyzer for The ATLAS Silicon Tracker,Implementation of an ultrasonic instrument for simultaneous mixture and flow analysis of binary gas systems,0.705792
+A Combine On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyzer for The ATLAS Silicon Tracker,Applications and perspectives of gas analysis based on sonar instrumentation,0.844616
+A Combine On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyzer for The ATLAS Silicon Tracker,ChemInform Abstract: PERIODIC TEMPERATURE CHANGES AND CRYSTAL RIPENING,0.205895
+A Combine On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyzer for The ATLAS Silicon Tracker,ChemInform Abstract: INTEGRAL HEAT OF DISSOLUTION OF POTASSIUM CHLORATE IN WATER AT 298.15 K,0.161838
+A Combine On-Line Acoustic Flowmeter and Fluorocarbon Coolant Mixture Analyzer for The ATLAS Silicon Tracker,Learning IoT skills in the context of student projects,-0.012774
+First Results from the TOTEM Experiment,Development of a Detector Control System for the ATLAS Pixel Detector,0.35544
+First Results from the TOTEM Experiment,Simultaneous On-line Ultrasonic Flowmetery and Binary Gas Mixture Analysis for the ATLAS Silicon Tracker Cooling Control System,0.178454
+First Results from the TOTEM Experiment,A COMBINED ON-LINE ACOUSTIC FLOWMETER AND FLUOROCARBON COOLANT MIXTURE ANALYZER FOR THE ATLAS,0.333478
+First Results from the TOTEM Experiment,Implementation of an ultrasonic instrument for simultaneous mixture and flow analysis of binary gas systems,0.344222
+First Results from the TOTEM Experiment,Applications and perspectives of gas analysis based on sonar instrumentation,0.320797
+First Results from the TOTEM Experiment,ChemInform Abstract: PERIODIC TEMPERATURE CHANGES AND CRYSTAL RIPENING,0.098918
+First Results from the TOTEM Experiment,ChemInform Abstract: INTEGRAL HEAT OF DISSOLUTION OF POTASSIUM CHLORATE IN WATER AT 298.15 K,0.095818
+First Results from the TOTEM Experiment,Learning IoT skills in the context of student projects,0.010581
+Development of a Detector Control System for the ATLAS Pixel Detector,Simultaneous On-line Ultrasonic Flowmetery and Binary Gas Mixture Analysis for the ATLAS Silicon Tracker Cooling Control System,0.43829
+Development of a Detector Control System for the ATLAS Pixel Detector,A COMBINED ON-LINE ACOUSTIC FLOWMETER AND FLUOROCARBON COOLANT MIXTURE ANALYZER FOR THE ATLAS,0.611398
+Development of a Detector Control System for the ATLAS Pixel Detector,Implementation of an ultrasonic instrument for simultaneous mixture and flow analysis of binary gas systems,0.399144
+Development of a Detector Control System for the ATLAS Pixel Detector,Applications and perspectives of gas analysis based on sonar instrumentation,0.520795
+Development of a Detector Control System for the ATLAS Pixel Detector,ChemInform Abstract: PERIODIC TEMPERATURE CHANGES AND CRYSTAL RIPENING,-0.042709
+Development of a Detector Control System for the ATLAS Pixel Detector,ChemInform Abstract: INTEGRAL HEAT OF DISSOLUTION OF POTASSIUM CHLORATE IN WATER AT 298.15 K,-0.003771
+Development of a Detector Control System for the ATLAS Pixel Detector,Learning IoT skills in the context of student projects,0.059301
+Simultaneous On-line Ultrasonic Flowmetery and Binary Gas Mixture Analysis for the ATLAS Silicon Tracker Cooling Control System,A COMBINED ON-LINE ACOUSTIC FLOWMETER AND FLUOROCARBON COOLANT MIXTURE ANALYZER FOR THE ATLAS,0.704129
+Simultaneous On-line Ultrasonic Flowmetery and Binary Gas Mixture Analysis for the ATLAS Silicon Tracker Cooling Control System,Implementation of an ultrasonic instrument for simultaneous mixture and flow analysis of binary gas systems,0.677177
+Simultaneous On-line Ultrasonic Flowmetery and Binary Gas Mixture Analysis for the ATLAS Silicon Tracker Cooling Control System,Applications and perspectives of gas analysis based on sonar instrumentation,0.745713
+Simultaneous On-line Ultrasonic Flowmetery and Binary Gas Mixture Analysis for the ATLAS Silicon Tracker Cooling Control System,ChemInform Abstract: PERIODIC TEMPERATURE CHANGES AND CRYSTAL RIPENING,0.259752
+Simultaneous On-line Ultrasonic Flowmetery and Binary Gas Mixture Analysis for the ATLAS Silicon Tracker Cooling Control System,ChemInform Abstract: INTEGRAL HEAT OF DISSOLUTION OF POTASSIUM CHLORATE IN WATER AT 298.15 K,0.11907
+Simultaneous On-line Ultrasonic Flowmetery and Binary Gas Mixture Analysis for the ATLAS Silicon Tracker Cooling Control System,Learning IoT skills in the context of student projects,-0.038453
+A COMBINED ON-LINE ACOUSTIC FLOWMETER AND FLUOROCARBON COOLANT MIXTURE ANALYZER FOR THE ATLAS,Implementation of an ultrasonic instrument for simultaneous mixture and flow analysis of binary gas systems,0.64044
+A COMBINED ON-LINE ACOUSTIC FLOWMETER AND FLUOROCARBON COOLANT MIXTURE ANALYZER FOR THE ATLAS,Applications and perspectives of gas analysis based on sonar instrumentation,0.777805
+A COMBINED ON-LINE ACOUSTIC FLOWMETER AND FLUOROCARBON COOLANT MIXTURE ANALYZER FOR THE ATLAS,ChemInform Abstract: PERIODIC TEMPERATURE CHANGES AND CRYSTAL RIPENING,0.206563
+A COMBINED ON-LINE ACOUSTIC FLOWMETER AND FLUOROCARBON COOLANT MIXTURE ANALYZER FOR THE ATLAS,ChemInform Abstract: INTEGRAL HEAT OF DISSOLUTION OF POTASSIUM CHLORATE IN WATER AT 298.15 K,0.079747
+A COMBINED ON-LINE ACOUSTIC FLOWMETER AND FLUOROCARBON COOLANT MIXTURE ANALYZER FOR THE ATLAS,Learning IoT skills in the context of student projects,-0.003301
+Implementation of an ultrasonic instrument for simultaneous mixture and flow analysis of binary gas systems,Applications and perspectives of gas analysis based on sonar instrumentation,0.831584
+Implementation of an ultrasonic instrument for simultaneous mixture and flow analysis of binary gas systems,ChemInform Abstract: PERIODIC TEMPERATURE CHANGES AND CRYSTAL RIPENING,0.124194
+Implementation of an ultrasonic instrument for simultaneous mixture and flow analysis of binary gas systems,ChemInform Abstract: INTEGRAL HEAT OF DISSOLUTION OF POTASSIUM CHLORATE IN WATER AT 298.15 K,0.099582
+Implementation of an ultrasonic instrument for simultaneous mixture and flow analysis of binary gas systems,Learning IoT skills in the context of student projects,-0.056948
+Applications and perspectives of gas analysis based on sonar instrumentation,ChemInform Abstract: PERIODIC TEMPERATURE CHANGES AND CRYSTAL RIPENING,0.234437
+Applications and perspectives of gas analysis based on sonar instrumentation,ChemInform Abstract: INTEGRAL HEAT OF DISSOLUTION OF POTASSIUM CHLORATE IN WATER AT 298.15 K,0.143372
+Applications and perspectives of gas analysis based on sonar instrumentation,Learning IoT skills in the context of student projects,-0.057372
+ChemInform Abstract: PERIODIC TEMPERATURE CHANGES AND CRYSTAL RIPENING,ChemInform Abstract: INTEGRAL HEAT OF DISSOLUTION OF POTASSIUM CHLORATE IN WATER AT 298.15 K,0.373317
+ChemInform Abstract: PERIODIC TEMPERATURE CHANGES AND CRYSTAL RIPENING,Learning IoT skills in the context of student projects,-0.054319
+ChemInform Abstract: INTEGRAL HEAT OF DISSOLUTION OF POTASSIUM CHLORATE IN WATER AT 298.15 K,Learning IoT skills in the context of student projects,0.003913

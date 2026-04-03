@@ -1,232 +1,232 @@
-abstract_i,abstract_j,cosine_similarity
-0,1,0.455542
-0,2,0.482694
-0,3,0.327882
-0,4,0.342985
-0,5,0.250488
-0,6,0.443769
-0,7,0.445185
-0,8,0.34678
-0,9,0.336231
-0,10,0.327976
-0,11,0.556697
-0,12,0.397451
-0,13,0.461194
-0,14,0.330317
-0,15,0.207888
-0,16,0.456778
-0,17,0.349834
-0,18,0.348768
-0,19,0.24187
-0,20,0.247531
-0,21,0.396215
-1,2,0.503766
-1,3,0.42331
-1,4,0.450319
-1,5,0.423265
-1,6,0.750815
-1,7,0.521126
-1,8,0.257163
-1,9,0.386981
-1,10,0.329917
-1,11,0.536357
-1,12,0.512714
-1,13,0.471767
-1,14,0.396464
-1,15,0.238538
-1,16,0.569278
-1,17,0.319358
-1,18,0.638988
-1,19,0.536565
-1,20,0.244456
-1,21,0.444175
-2,3,0.420383
-2,4,0.388097
-2,5,0.423394
-2,6,0.463013
-2,7,0.816323
-2,8,0.390847
-2,9,0.45255
-2,10,0.357577
-2,11,0.458645
-2,12,0.522955
-2,13,0.567278
-2,14,0.59812
-2,15,0.327353
-2,16,0.760341
-2,17,0.465004
-2,18,0.268569
-2,19,0.267145
-2,20,0.329431
-2,21,0.514543
-3,4,0.376004
-3,5,0.590688
-3,6,0.326941
-3,7,0.556521
-3,8,0.406909
-3,9,0.660716
-3,10,0.403928
-3,11,0.284895
-3,12,0.411797
-3,13,0.468495
-3,14,0.62653
-3,15,0.325701
-3,16,0.378158
-3,17,0.478469
-3,18,0.279084
-3,19,0.256961
-3,20,0.345275
-3,21,0.268916
-4,5,0.39613
-4,6,0.553197
-4,7,0.478732
-4,8,0.221128
-4,9,0.488475
-4,10,0.747546
-4,11,0.415672
-4,12,0.661169
-4,13,0.266129
-4,14,0.382283
-4,15,0.317307
-4,16,0.374963
-4,17,0.24953
-4,18,0.301212
-4,19,0.414326
-4,20,0.220415
-4,21,0.179654
-5,6,0.36942
-5,7,0.553368
-5,8,0.417527
-5,9,0.614691
-5,10,0.353583
-5,11,0.273354
-5,12,0.507811
-5,13,0.580741
-5,14,0.636916
-5,15,0.305689
-5,16,0.399751
-5,17,0.46962
-5,18,0.246089
-5,19,0.328909
-5,20,0.345926
-5,21,0.277317
-6,7,0.485408
-6,8,0.230893
-6,9,0.342355
-6,10,0.395965
-6,11,0.567251
-6,12,0.622589
-6,13,0.423081
-6,14,0.291682
-6,15,0.313202
-6,16,0.50279
-6,17,0.240747
-6,18,0.495123
-6,19,0.506809
-6,20,0.255718
-6,21,0.421371
-7,8,0.586717
-7,9,0.696658
-7,10,0.464911
-7,11,0.440886
-7,12,0.618328
-7,13,0.544491
-7,14,0.727218
-7,15,0.317835
-7,16,0.707763
-7,17,0.633714
-7,18,0.235414
-7,19,0.285219
-7,20,0.397947
-7,21,0.458416
-8,9,0.723196
-8,10,0.29661
-8,11,0.212513
-8,12,0.358548
-8,13,0.438129
-8,14,0.450848
-8,15,0.241151
-8,16,0.392281
-8,17,0.787909
-8,18,0.166245
-8,19,0.088075
-8,20,0.396821
-8,21,0.367852
-9,10,0.530844
-9,11,0.279662
-9,12,0.504479
-9,13,0.467519
-9,14,0.636102
-9,15,0.298045
-9,16,0.444261
-9,17,0.78467
-9,18,0.209938
-9,19,0.298109
-9,20,0.40546
-9,21,0.27575
-10,11,0.321895
-10,12,0.526857
-10,13,0.245266
-10,14,0.387439
-10,15,0.320214
-10,16,0.350604
-10,17,0.321808
-10,18,0.153762
-10,19,0.299571
-10,20,0.244906
-10,21,0.141818
-11,12,0.506781
-11,13,0.400899
-11,14,0.322024
-11,15,0.218659
-11,16,0.426763
-11,17,0.206624
-11,18,0.382068
-11,19,0.320389
-11,20,0.142028
-11,21,0.378954
-12,13,0.430688
-12,14,0.429576
-12,15,0.323697
-12,16,0.553772
-12,17,0.346932
-12,18,0.331855
-12,19,0.384389
-12,20,0.292903
-12,21,0.455815
-13,14,0.493972
-13,15,0.440175
-13,16,0.484639
-13,17,0.518686
-13,18,0.409049
-13,19,0.193101
-13,20,0.379437
-13,21,0.484331
-14,15,0.305215
-14,16,0.480472
-14,17,0.587625
-14,18,0.207744
-14,19,0.235013
-14,20,0.422009
-14,21,0.358831
-15,16,0.236744
-15,17,0.291807
-15,18,0.25375
-15,19,0.171857
-15,20,0.276208
-15,21,0.348198
-16,17,0.44328
-16,18,0.267394
-16,19,0.304758
-16,20,0.320874
-16,21,0.531656
-17,18,0.190638
-17,19,0.152423
-17,20,0.521098
-17,21,0.352942
-18,19,0.521449
-18,20,0.116441
-18,21,0.312905
-19,20,0.134281
-19,21,0.160029
-20,21,0.232632
+title_i,title_j,cosine_similarity
+Entropic fluctuations in statistical mechanics: I. Classical dynamical systems,"Perturbation Theory of W*-Dynamics, Liouvilleans and KMS-States",0.313202
+Entropic fluctuations in statistical mechanics: I. Classical dynamical systems,Transport properties of quasi-free fermions,0.443769
+Entropic fluctuations in statistical mechanics: I. Classical dynamical systems,Ergodic properties of classical dissipative systems I,0.622589
+Entropic fluctuations in statistical mechanics: I. Classical dynamical systems,Simplicity of singular spectrum in Anderson-type Hamiltonians,0.36942
+Entropic fluctuations in statistical mechanics: I. Classical dynamical systems,LOCALIZATION FOR ONE DIMENSIONAL LONG RANGE RANDOM HAMILTONIANS,0.291682
+Entropic fluctuations in statistical mechanics: I. Classical dynamical systems,Entropic Fluctuations in Statistical Mechanics II. Quantum Dynamical Systems,0.750815
+Entropic fluctuations in statistical mechanics: I. Classical dynamical systems,CORRUGATED SURFACES AND A.C. SPECTRUM,0.342355
+Entropic fluctuations in statistical mechanics: I. Classical dynamical systems,On the Landau–Zener formula for two-level systems,0.50279
+Entropic fluctuations in statistical mechanics: I. Classical dynamical systems,EXPONENTIAL APPROACH TO THE ADIABATIC LIMIT AND THE LANDAU-ZENER FORMULA,0.463013
+Entropic fluctuations in statistical mechanics: I. Classical dynamical systems,Scattering from Sparse Potentials: a Deterministic Approach,0.326941
+Entropic fluctuations in statistical mechanics: I. Classical dynamical systems,A note on the regularity of solutions of linear homological equations,0.255718
+Entropic fluctuations in statistical mechanics: I. Classical dynamical systems,Large deviations and mixing for dissipative PDE's with unbounded random\n kicks,0.553197
+Entropic fluctuations in statistical mechanics: I. Classical dynamical systems,Wave operators for the surface Maryland model,0.240747
+Entropic fluctuations in statistical mechanics: I. Classical dynamical systems,Ergodic Properties of the Spin - Boson System,0.421371
+Entropic fluctuations in statistical mechanics: I. Classical dynamical systems,What is the absolutely continuous spectrum?,0.423081
+Entropic fluctuations in statistical mechanics: I. Classical dynamical systems,Large deviations from a stationary measure for a class of dissipative PDE's with random kicks,0.395965
+Entropic fluctuations in statistical mechanics: I. Classical dynamical systems,Spectral theory of corrugated surfaces,0.230893
+Entropic fluctuations in statistical mechanics: I. Classical dynamical systems,Solutions to some problems in mathematical physics,0.485408
+Entropic fluctuations in statistical mechanics: I. Classical dynamical systems,"Recurrence times, waiting times and universal entropy production estimators",0.506809
+Entropic fluctuations in statistical mechanics: I. Classical dynamical systems,Central limit theorem for locally interacting Fermi gas,0.567251
+Entropic fluctuations in statistical mechanics: I. Classical dynamical systems,On entropy production of repeated quantum measurements III. Quantum detailed balance,0.495123
+"Perturbation Theory of W*-Dynamics, Liouvilleans and KMS-States",Transport properties of quasi-free fermions,0.207888
+"Perturbation Theory of W*-Dynamics, Liouvilleans and KMS-States",Ergodic properties of classical dissipative systems I,0.323697
+"Perturbation Theory of W*-Dynamics, Liouvilleans and KMS-States",Simplicity of singular spectrum in Anderson-type Hamiltonians,0.305689
+"Perturbation Theory of W*-Dynamics, Liouvilleans and KMS-States",LOCALIZATION FOR ONE DIMENSIONAL LONG RANGE RANDOM HAMILTONIANS,0.305215
+"Perturbation Theory of W*-Dynamics, Liouvilleans and KMS-States",Entropic Fluctuations in Statistical Mechanics II. Quantum Dynamical Systems,0.238538
+"Perturbation Theory of W*-Dynamics, Liouvilleans and KMS-States",CORRUGATED SURFACES AND A.C. SPECTRUM,0.298045
+"Perturbation Theory of W*-Dynamics, Liouvilleans and KMS-States",On the Landau–Zener formula for two-level systems,0.236744
+"Perturbation Theory of W*-Dynamics, Liouvilleans and KMS-States",EXPONENTIAL APPROACH TO THE ADIABATIC LIMIT AND THE LANDAU-ZENER FORMULA,0.327353
+"Perturbation Theory of W*-Dynamics, Liouvilleans and KMS-States",Scattering from Sparse Potentials: a Deterministic Approach,0.325701
+"Perturbation Theory of W*-Dynamics, Liouvilleans and KMS-States",A note on the regularity of solutions of linear homological equations,0.276208
+"Perturbation Theory of W*-Dynamics, Liouvilleans and KMS-States",Large deviations and mixing for dissipative PDE's with unbounded random\n kicks,0.317307
+"Perturbation Theory of W*-Dynamics, Liouvilleans and KMS-States",Wave operators for the surface Maryland model,0.291807
+"Perturbation Theory of W*-Dynamics, Liouvilleans and KMS-States",Ergodic Properties of the Spin - Boson System,0.348198
+"Perturbation Theory of W*-Dynamics, Liouvilleans and KMS-States",What is the absolutely continuous spectrum?,0.440175
+"Perturbation Theory of W*-Dynamics, Liouvilleans and KMS-States",Large deviations from a stationary measure for a class of dissipative PDE's with random kicks,0.320214
+"Perturbation Theory of W*-Dynamics, Liouvilleans and KMS-States",Spectral theory of corrugated surfaces,0.241151
+"Perturbation Theory of W*-Dynamics, Liouvilleans and KMS-States",Solutions to some problems in mathematical physics,0.317835
+"Perturbation Theory of W*-Dynamics, Liouvilleans and KMS-States","Recurrence times, waiting times and universal entropy production estimators",0.171857
+"Perturbation Theory of W*-Dynamics, Liouvilleans and KMS-States",Central limit theorem for locally interacting Fermi gas,0.218659
+"Perturbation Theory of W*-Dynamics, Liouvilleans and KMS-States",On entropy production of repeated quantum measurements III. Quantum detailed balance,0.25375
+Transport properties of quasi-free fermions,Ergodic properties of classical dissipative systems I,0.397451
+Transport properties of quasi-free fermions,Simplicity of singular spectrum in Anderson-type Hamiltonians,0.250488
+Transport properties of quasi-free fermions,LOCALIZATION FOR ONE DIMENSIONAL LONG RANGE RANDOM HAMILTONIANS,0.330317
+Transport properties of quasi-free fermions,Entropic Fluctuations in Statistical Mechanics II. Quantum Dynamical Systems,0.455542
+Transport properties of quasi-free fermions,CORRUGATED SURFACES AND A.C. SPECTRUM,0.336231
+Transport properties of quasi-free fermions,On the Landau–Zener formula for two-level systems,0.456778
+Transport properties of quasi-free fermions,EXPONENTIAL APPROACH TO THE ADIABATIC LIMIT AND THE LANDAU-ZENER FORMULA,0.482694
+Transport properties of quasi-free fermions,Scattering from Sparse Potentials: a Deterministic Approach,0.327882
+Transport properties of quasi-free fermions,A note on the regularity of solutions of linear homological equations,0.247531
+Transport properties of quasi-free fermions,Large deviations and mixing for dissipative PDE's with unbounded random\n kicks,0.342985
+Transport properties of quasi-free fermions,Wave operators for the surface Maryland model,0.349834
+Transport properties of quasi-free fermions,Ergodic Properties of the Spin - Boson System,0.396215
+Transport properties of quasi-free fermions,What is the absolutely continuous spectrum?,0.461194
+Transport properties of quasi-free fermions,Large deviations from a stationary measure for a class of dissipative PDE's with random kicks,0.327976
+Transport properties of quasi-free fermions,Spectral theory of corrugated surfaces,0.34678
+Transport properties of quasi-free fermions,Solutions to some problems in mathematical physics,0.445185
+Transport properties of quasi-free fermions,"Recurrence times, waiting times and universal entropy production estimators",0.24187
+Transport properties of quasi-free fermions,Central limit theorem for locally interacting Fermi gas,0.556697
+Transport properties of quasi-free fermions,On entropy production of repeated quantum measurements III. Quantum detailed balance,0.348768
+Ergodic properties of classical dissipative systems I,Simplicity of singular spectrum in Anderson-type Hamiltonians,0.507811
+Ergodic properties of classical dissipative systems I,LOCALIZATION FOR ONE DIMENSIONAL LONG RANGE RANDOM HAMILTONIANS,0.429576
+Ergodic properties of classical dissipative systems I,Entropic Fluctuations in Statistical Mechanics II. Quantum Dynamical Systems,0.512714
+Ergodic properties of classical dissipative systems I,CORRUGATED SURFACES AND A.C. SPECTRUM,0.504479
+Ergodic properties of classical dissipative systems I,On the Landau–Zener formula for two-level systems,0.553772
+Ergodic properties of classical dissipative systems I,EXPONENTIAL APPROACH TO THE ADIABATIC LIMIT AND THE LANDAU-ZENER FORMULA,0.522955
+Ergodic properties of classical dissipative systems I,Scattering from Sparse Potentials: a Deterministic Approach,0.411797
+Ergodic properties of classical dissipative systems I,A note on the regularity of solutions of linear homological equations,0.292903
+Ergodic properties of classical dissipative systems I,Large deviations and mixing for dissipative PDE's with unbounded random\n kicks,0.661169
+Ergodic properties of classical dissipative systems I,Wave operators for the surface Maryland model,0.346932
+Ergodic properties of classical dissipative systems I,Ergodic Properties of the Spin - Boson System,0.455815
+Ergodic properties of classical dissipative systems I,What is the absolutely continuous spectrum?,0.430688
+Ergodic properties of classical dissipative systems I,Large deviations from a stationary measure for a class of dissipative PDE's with random kicks,0.526857
+Ergodic properties of classical dissipative systems I,Spectral theory of corrugated surfaces,0.358548
+Ergodic properties of classical dissipative systems I,Solutions to some problems in mathematical physics,0.618328
+Ergodic properties of classical dissipative systems I,"Recurrence times, waiting times and universal entropy production estimators",0.384389
+Ergodic properties of classical dissipative systems I,Central limit theorem for locally interacting Fermi gas,0.506781
+Ergodic properties of classical dissipative systems I,On entropy production of repeated quantum measurements III. Quantum detailed balance,0.331855
+Simplicity of singular spectrum in Anderson-type Hamiltonians,LOCALIZATION FOR ONE DIMENSIONAL LONG RANGE RANDOM HAMILTONIANS,0.636916
+Simplicity of singular spectrum in Anderson-type Hamiltonians,Entropic Fluctuations in Statistical Mechanics II. Quantum Dynamical Systems,0.423265
+Simplicity of singular spectrum in Anderson-type Hamiltonians,CORRUGATED SURFACES AND A.C. SPECTRUM,0.614691
+Simplicity of singular spectrum in Anderson-type Hamiltonians,On the Landau–Zener formula for two-level systems,0.399751
+Simplicity of singular spectrum in Anderson-type Hamiltonians,EXPONENTIAL APPROACH TO THE ADIABATIC LIMIT AND THE LANDAU-ZENER FORMULA,0.423394
+Simplicity of singular spectrum in Anderson-type Hamiltonians,Scattering from Sparse Potentials: a Deterministic Approach,0.590688
+Simplicity of singular spectrum in Anderson-type Hamiltonians,A note on the regularity of solutions of linear homological equations,0.345926
+Simplicity of singular spectrum in Anderson-type Hamiltonians,Large deviations and mixing for dissipative PDE's with unbounded random\n kicks,0.39613
+Simplicity of singular spectrum in Anderson-type Hamiltonians,Wave operators for the surface Maryland model,0.46962
+Simplicity of singular spectrum in Anderson-type Hamiltonians,Ergodic Properties of the Spin - Boson System,0.277317
+Simplicity of singular spectrum in Anderson-type Hamiltonians,What is the absolutely continuous spectrum?,0.580741
+Simplicity of singular spectrum in Anderson-type Hamiltonians,Large deviations from a stationary measure for a class of dissipative PDE's with random kicks,0.353583
+Simplicity of singular spectrum in Anderson-type Hamiltonians,Spectral theory of corrugated surfaces,0.417527
+Simplicity of singular spectrum in Anderson-type Hamiltonians,Solutions to some problems in mathematical physics,0.553368
+Simplicity of singular spectrum in Anderson-type Hamiltonians,"Recurrence times, waiting times and universal entropy production estimators",0.328909
+Simplicity of singular spectrum in Anderson-type Hamiltonians,Central limit theorem for locally interacting Fermi gas,0.273354
+Simplicity of singular spectrum in Anderson-type Hamiltonians,On entropy production of repeated quantum measurements III. Quantum detailed balance,0.246089
+LOCALIZATION FOR ONE DIMENSIONAL LONG RANGE RANDOM HAMILTONIANS,Entropic Fluctuations in Statistical Mechanics II. Quantum Dynamical Systems,0.396464
+LOCALIZATION FOR ONE DIMENSIONAL LONG RANGE RANDOM HAMILTONIANS,CORRUGATED SURFACES AND A.C. SPECTRUM,0.636102
+LOCALIZATION FOR ONE DIMENSIONAL LONG RANGE RANDOM HAMILTONIANS,On the Landau–Zener formula for two-level systems,0.480472
+LOCALIZATION FOR ONE DIMENSIONAL LONG RANGE RANDOM HAMILTONIANS,EXPONENTIAL APPROACH TO THE ADIABATIC LIMIT AND THE LANDAU-ZENER FORMULA,0.59812
+LOCALIZATION FOR ONE DIMENSIONAL LONG RANGE RANDOM HAMILTONIANS,Scattering from Sparse Potentials: a Deterministic Approach,0.62653
+LOCALIZATION FOR ONE DIMENSIONAL LONG RANGE RANDOM HAMILTONIANS,A note on the regularity of solutions of linear homological equations,0.422009
+LOCALIZATION FOR ONE DIMENSIONAL LONG RANGE RANDOM HAMILTONIANS,Large deviations and mixing for dissipative PDE's with unbounded random\n kicks,0.382283
+LOCALIZATION FOR ONE DIMENSIONAL LONG RANGE RANDOM HAMILTONIANS,Wave operators for the surface Maryland model,0.587625
+LOCALIZATION FOR ONE DIMENSIONAL LONG RANGE RANDOM HAMILTONIANS,Ergodic Properties of the Spin - Boson System,0.358831
+LOCALIZATION FOR ONE DIMENSIONAL LONG RANGE RANDOM HAMILTONIANS,What is the absolutely continuous spectrum?,0.493972
+LOCALIZATION FOR ONE DIMENSIONAL LONG RANGE RANDOM HAMILTONIANS,Large deviations from a stationary measure for a class of dissipative PDE's with random kicks,0.387439
+LOCALIZATION FOR ONE DIMENSIONAL LONG RANGE RANDOM HAMILTONIANS,Spectral theory of corrugated surfaces,0.450848
+LOCALIZATION FOR ONE DIMENSIONAL LONG RANGE RANDOM HAMILTONIANS,Solutions to some problems in mathematical physics,0.727218
+LOCALIZATION FOR ONE DIMENSIONAL LONG RANGE RANDOM HAMILTONIANS,"Recurrence times, waiting times and universal entropy production estimators",0.235013
+LOCALIZATION FOR ONE DIMENSIONAL LONG RANGE RANDOM HAMILTONIANS,Central limit theorem for locally interacting Fermi gas,0.322024
+LOCALIZATION FOR ONE DIMENSIONAL LONG RANGE RANDOM HAMILTONIANS,On entropy production of repeated quantum measurements III. Quantum detailed balance,0.207744
+Entropic Fluctuations in Statistical Mechanics II. Quantum Dynamical Systems,CORRUGATED SURFACES AND A.C. SPECTRUM,0.386981
+Entropic Fluctuations in Statistical Mechanics II. Quantum Dynamical Systems,On the Landau–Zener formula for two-level systems,0.569278
+Entropic Fluctuations in Statistical Mechanics II. Quantum Dynamical Systems,EXPONENTIAL APPROACH TO THE ADIABATIC LIMIT AND THE LANDAU-ZENER FORMULA,0.503766
+Entropic Fluctuations in Statistical Mechanics II. Quantum Dynamical Systems,Scattering from Sparse Potentials: a Deterministic Approach,0.42331
+Entropic Fluctuations in Statistical Mechanics II. Quantum Dynamical Systems,A note on the regularity of solutions of linear homological equations,0.244456
+Entropic Fluctuations in Statistical Mechanics II. Quantum Dynamical Systems,Large deviations and mixing for dissipative PDE's with unbounded random\n kicks,0.450319
+Entropic Fluctuations in Statistical Mechanics II. Quantum Dynamical Systems,Wave operators for the surface Maryland model,0.319358
+Entropic Fluctuations in Statistical Mechanics II. Quantum Dynamical Systems,Ergodic Properties of the Spin - Boson System,0.444175
+Entropic Fluctuations in Statistical Mechanics II. Quantum Dynamical Systems,What is the absolutely continuous spectrum?,0.471767
+Entropic Fluctuations in Statistical Mechanics II. Quantum Dynamical Systems,Large deviations from a stationary measure for a class of dissipative PDE's with random kicks,0.329917
+Entropic Fluctuations in Statistical Mechanics II. Quantum Dynamical Systems,Spectral theory of corrugated surfaces,0.257163
+Entropic Fluctuations in Statistical Mechanics II. Quantum Dynamical Systems,Solutions to some problems in mathematical physics,0.521126
+Entropic Fluctuations in Statistical Mechanics II. Quantum Dynamical Systems,"Recurrence times, waiting times and universal entropy production estimators",0.536565
+Entropic Fluctuations in Statistical Mechanics II. Quantum Dynamical Systems,Central limit theorem for locally interacting Fermi gas,0.536357
+Entropic Fluctuations in Statistical Mechanics II. Quantum Dynamical Systems,On entropy production of repeated quantum measurements III. Quantum detailed balance,0.638988
+CORRUGATED SURFACES AND A.C. SPECTRUM,On the Landau–Zener formula for two-level systems,0.444261
+CORRUGATED SURFACES AND A.C. SPECTRUM,EXPONENTIAL APPROACH TO THE ADIABATIC LIMIT AND THE LANDAU-ZENER FORMULA,0.45255
+CORRUGATED SURFACES AND A.C. SPECTRUM,Scattering from Sparse Potentials: a Deterministic Approach,0.660716
+CORRUGATED SURFACES AND A.C. SPECTRUM,A note on the regularity of solutions of linear homological equations,0.40546
+CORRUGATED SURFACES AND A.C. SPECTRUM,Large deviations and mixing for dissipative PDE's with unbounded random\n kicks,0.488475
+CORRUGATED SURFACES AND A.C. SPECTRUM,Wave operators for the surface Maryland model,0.78467
+CORRUGATED SURFACES AND A.C. SPECTRUM,Ergodic Properties of the Spin - Boson System,0.27575
+CORRUGATED SURFACES AND A.C. SPECTRUM,What is the absolutely continuous spectrum?,0.467519
+CORRUGATED SURFACES AND A.C. SPECTRUM,Large deviations from a stationary measure for a class of dissipative PDE's with random kicks,0.530844
+CORRUGATED SURFACES AND A.C. SPECTRUM,Spectral theory of corrugated surfaces,0.723196
+CORRUGATED SURFACES AND A.C. SPECTRUM,Solutions to some problems in mathematical physics,0.696658
+CORRUGATED SURFACES AND A.C. SPECTRUM,"Recurrence times, waiting times and universal entropy production estimators",0.298109
+CORRUGATED SURFACES AND A.C. SPECTRUM,Central limit theorem for locally interacting Fermi gas,0.279662
+CORRUGATED SURFACES AND A.C. SPECTRUM,On entropy production of repeated quantum measurements III. Quantum detailed balance,0.209938
+On the Landau–Zener formula for two-level systems,EXPONENTIAL APPROACH TO THE ADIABATIC LIMIT AND THE LANDAU-ZENER FORMULA,0.760341
+On the Landau–Zener formula for two-level systems,Scattering from Sparse Potentials: a Deterministic Approach,0.378158
+On the Landau–Zener formula for two-level systems,A note on the regularity of solutions of linear homological equations,0.320874
+On the Landau–Zener formula for two-level systems,Large deviations and mixing for dissipative PDE's with unbounded random\n kicks,0.374963
+On the Landau–Zener formula for two-level systems,Wave operators for the surface Maryland model,0.44328
+On the Landau–Zener formula for two-level systems,Ergodic Properties of the Spin - Boson System,0.531656
+On the Landau–Zener formula for two-level systems,What is the absolutely continuous spectrum?,0.484639
+On the Landau–Zener formula for two-level systems,Large deviations from a stationary measure for a class of dissipative PDE's with random kicks,0.350604
+On the Landau–Zener formula for two-level systems,Spectral theory of corrugated surfaces,0.392281
+On the Landau–Zener formula for two-level systems,Solutions to some problems in mathematical physics,0.707763
+On the Landau–Zener formula for two-level systems,"Recurrence times, waiting times and universal entropy production estimators",0.304758
+On the Landau–Zener formula for two-level systems,Central limit theorem for locally interacting Fermi gas,0.426763
+On the Landau–Zener formula for two-level systems,On entropy production of repeated quantum measurements III. Quantum detailed balance,0.267394
+EXPONENTIAL APPROACH TO THE ADIABATIC LIMIT AND THE LANDAU-ZENER FORMULA,Scattering from Sparse Potentials: a Deterministic Approach,0.420383
+EXPONENTIAL APPROACH TO THE ADIABATIC LIMIT AND THE LANDAU-ZENER FORMULA,A note on the regularity of solutions of linear homological equations,0.329431
+EXPONENTIAL APPROACH TO THE ADIABATIC LIMIT AND THE LANDAU-ZENER FORMULA,Large deviations and mixing for dissipative PDE's with unbounded random\n kicks,0.388097
+EXPONENTIAL APPROACH TO THE ADIABATIC LIMIT AND THE LANDAU-ZENER FORMULA,Wave operators for the surface Maryland model,0.465004
+EXPONENTIAL APPROACH TO THE ADIABATIC LIMIT AND THE LANDAU-ZENER FORMULA,Ergodic Properties of the Spin - Boson System,0.514543
+EXPONENTIAL APPROACH TO THE ADIABATIC LIMIT AND THE LANDAU-ZENER FORMULA,What is the absolutely continuous spectrum?,0.567278
+EXPONENTIAL APPROACH TO THE ADIABATIC LIMIT AND THE LANDAU-ZENER FORMULA,Large deviations from a stationary measure for a class of dissipative PDE's with random kicks,0.357577
+EXPONENTIAL APPROACH TO THE ADIABATIC LIMIT AND THE LANDAU-ZENER FORMULA,Spectral theory of corrugated surfaces,0.390847
+EXPONENTIAL APPROACH TO THE ADIABATIC LIMIT AND THE LANDAU-ZENER FORMULA,Solutions to some problems in mathematical physics,0.816323
+EXPONENTIAL APPROACH TO THE ADIABATIC LIMIT AND THE LANDAU-ZENER FORMULA,"Recurrence times, waiting times and universal entropy production estimators",0.267145
+EXPONENTIAL APPROACH TO THE ADIABATIC LIMIT AND THE LANDAU-ZENER FORMULA,Central limit theorem for locally interacting Fermi gas,0.458645
+EXPONENTIAL APPROACH TO THE ADIABATIC LIMIT AND THE LANDAU-ZENER FORMULA,On entropy production of repeated quantum measurements III. Quantum detailed balance,0.268569
+Scattering from Sparse Potentials: a Deterministic Approach,A note on the regularity of solutions of linear homological equations,0.345275
+Scattering from Sparse Potentials: a Deterministic Approach,Large deviations and mixing for dissipative PDE's with unbounded random\n kicks,0.376004
+Scattering from Sparse Potentials: a Deterministic Approach,Wave operators for the surface Maryland model,0.478469
+Scattering from Sparse Potentials: a Deterministic Approach,Ergodic Properties of the Spin - Boson System,0.268916
+Scattering from Sparse Potentials: a Deterministic Approach,What is the absolutely continuous spectrum?,0.468495
+Scattering from Sparse Potentials: a Deterministic Approach,Large deviations from a stationary measure for a class of dissipative PDE's with random kicks,0.403928
+Scattering from Sparse Potentials: a Deterministic Approach,Spectral theory of corrugated surfaces,0.406909
+Scattering from Sparse Potentials: a Deterministic Approach,Solutions to some problems in mathematical physics,0.556521
+Scattering from Sparse Potentials: a Deterministic Approach,"Recurrence times, waiting times and universal entropy production estimators",0.256961
+Scattering from Sparse Potentials: a Deterministic Approach,Central limit theorem for locally interacting Fermi gas,0.284895
+Scattering from Sparse Potentials: a Deterministic Approach,On entropy production of repeated quantum measurements III. Quantum detailed balance,0.279084
+A note on the regularity of solutions of linear homological equations,Large deviations and mixing for dissipative PDE's with unbounded random\n kicks,0.220415
+A note on the regularity of solutions of linear homological equations,Wave operators for the surface Maryland model,0.521098
+A note on the regularity of solutions of linear homological equations,Ergodic Properties of the Spin - Boson System,0.232632
+A note on the regularity of solutions of linear homological equations,What is the absolutely continuous spectrum?,0.379437
+A note on the regularity of solutions of linear homological equations,Large deviations from a stationary measure for a class of dissipative PDE's with random kicks,0.244906
+A note on the regularity of solutions of linear homological equations,Spectral theory of corrugated surfaces,0.396821
+A note on the regularity of solutions of linear homological equations,Solutions to some problems in mathematical physics,0.397947
+A note on the regularity of solutions of linear homological equations,"Recurrence times, waiting times and universal entropy production estimators",0.134281
+A note on the regularity of solutions of linear homological equations,Central limit theorem for locally interacting Fermi gas,0.142028
+A note on the regularity of solutions of linear homological equations,On entropy production of repeated quantum measurements III. Quantum detailed balance,0.116441
+Large deviations and mixing for dissipative PDE's with unbounded random\n kicks,Wave operators for the surface Maryland model,0.24953
+Large deviations and mixing for dissipative PDE's with unbounded random\n kicks,Ergodic Properties of the Spin - Boson System,0.179654
+Large deviations and mixing for dissipative PDE's with unbounded random\n kicks,What is the absolutely continuous spectrum?,0.266129
+Large deviations and mixing for dissipative PDE's with unbounded random\n kicks,Large deviations from a stationary measure for a class of dissipative PDE's with random kicks,0.747546
+Large deviations and mixing for dissipative PDE's with unbounded random\n kicks,Spectral theory of corrugated surfaces,0.221128
+Large deviations and mixing for dissipative PDE's with unbounded random\n kicks,Solutions to some problems in mathematical physics,0.478732
+Large deviations and mixing for dissipative PDE's with unbounded random\n kicks,"Recurrence times, waiting times and universal entropy production estimators",0.414326
+Large deviations and mixing for dissipative PDE's with unbounded random\n kicks,Central limit theorem for locally interacting Fermi gas,0.415672
+Large deviations and mixing for dissipative PDE's with unbounded random\n kicks,On entropy production of repeated quantum measurements III. Quantum detailed balance,0.301212
+Wave operators for the surface Maryland model,Ergodic Properties of the Spin - Boson System,0.352942
+Wave operators for the surface Maryland model,What is the absolutely continuous spectrum?,0.518686
+Wave operators for the surface Maryland model,Large deviations from a stationary measure for a class of dissipative PDE's with random kicks,0.321808
+Wave operators for the surface Maryland model,Spectral theory of corrugated surfaces,0.787909
+Wave operators for the surface Maryland model,Solutions to some problems in mathematical physics,0.633714
+Wave operators for the surface Maryland model,"Recurrence times, waiting times and universal entropy production estimators",0.152423
+Wave operators for the surface Maryland model,Central limit theorem for locally interacting Fermi gas,0.206624
+Wave operators for the surface Maryland model,On entropy production of repeated quantum measurements III. Quantum detailed balance,0.190638
+Ergodic Properties of the Spin - Boson System,What is the absolutely continuous spectrum?,0.484331
+Ergodic Properties of the Spin - Boson System,Large deviations from a stationary measure for a class of dissipative PDE's with random kicks,0.141818
+Ergodic Properties of the Spin - Boson System,Spectral theory of corrugated surfaces,0.367852
+Ergodic Properties of the Spin - Boson System,Solutions to some problems in mathematical physics,0.458416
+Ergodic Properties of the Spin - Boson System,"Recurrence times, waiting times and universal entropy production estimators",0.160029
+Ergodic Properties of the Spin - Boson System,Central limit theorem for locally interacting Fermi gas,0.378954
+Ergodic Properties of the Spin - Boson System,On entropy production of repeated quantum measurements III. Quantum detailed balance,0.312905
+What is the absolutely continuous spectrum?,Large deviations from a stationary measure for a class of dissipative PDE's with random kicks,0.245266
+What is the absolutely continuous spectrum?,Spectral theory of corrugated surfaces,0.438129
+What is the absolutely continuous spectrum?,Solutions to some problems in mathematical physics,0.544491
+What is the absolutely continuous spectrum?,"Recurrence times, waiting times and universal entropy production estimators",0.193101
+What is the absolutely continuous spectrum?,Central limit theorem for locally interacting Fermi gas,0.400899
+What is the absolutely continuous spectrum?,On entropy production of repeated quantum measurements III. Quantum detailed balance,0.409049
+Large deviations from a stationary measure for a class of dissipative PDE's with random kicks,Spectral theory of corrugated surfaces,0.29661
+Large deviations from a stationary measure for a class of dissipative PDE's with random kicks,Solutions to some problems in mathematical physics,0.464911
+Large deviations from a stationary measure for a class of dissipative PDE's with random kicks,"Recurrence times, waiting times and universal entropy production estimators",0.299571
+Large deviations from a stationary measure for a class of dissipative PDE's with random kicks,Central limit theorem for locally interacting Fermi gas,0.321895
+Large deviations from a stationary measure for a class of dissipative PDE's with random kicks,On entropy production of repeated quantum measurements III. Quantum detailed balance,0.153762
+Spectral theory of corrugated surfaces,Solutions to some problems in mathematical physics,0.586717
+Spectral theory of corrugated surfaces,"Recurrence times, waiting times and universal entropy production estimators",0.088075
+Spectral theory of corrugated surfaces,Central limit theorem for locally interacting Fermi gas,0.212513
+Spectral theory of corrugated surfaces,On entropy production of repeated quantum measurements III. Quantum detailed balance,0.166245
+Solutions to some problems in mathematical physics,"Recurrence times, waiting times and universal entropy production estimators",0.285219
+Solutions to some problems in mathematical physics,Central limit theorem for locally interacting Fermi gas,0.440886
+Solutions to some problems in mathematical physics,On entropy production of repeated quantum measurements III. Quantum detailed balance,0.235414
+"Recurrence times, waiting times and universal entropy production estimators",Central limit theorem for locally interacting Fermi gas,0.320389
+"Recurrence times, waiting times and universal entropy production estimators",On entropy production of repeated quantum measurements III. Quantum detailed balance,0.521449
+Central limit theorem for locally interacting Fermi gas,On entropy production of repeated quantum measurements III. Quantum detailed balance,0.382068

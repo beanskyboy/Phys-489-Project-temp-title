@@ -1,0 +1,11 @@
+title_i,title_j,cosine_similarity
+Needle in a haystack: Efficiently finding atomically defined quantum dots for electrostatic force microscopy,Long TE PRESS and STEAM for measuring the triglyceride glycerol CH<sub>2</sub> protons at 3 T,0.048434
+Needle in a haystack: Efficiently finding atomically defined quantum dots for electrostatic force microscopy,Estimating relative diglyceride to triglyceride content with localized MRS at 3 T,0.022472
+Needle in a haystack: Efficiently finding atomically defined quantum dots for electrostatic force microscopy,Creep Deformation of Lithium Foil at Moderate Pressures (&lt; 2 MPa) and Temperatures (30-50°C),0.221198
+Needle in a haystack: Efficiently finding atomically defined quantum dots for electrostatic force microscopy,Determining Relative Diglyceride to Triglyceride Levels with STEAM MRS at 3 T,0.013523
+Long TE PRESS and STEAM for measuring the triglyceride glycerol CH<sub>2</sub> protons at 3 T,Estimating relative diglyceride to triglyceride content with localized MRS at 3 T,0.761678
+Long TE PRESS and STEAM for measuring the triglyceride glycerol CH<sub>2</sub> protons at 3 T,Creep Deformation of Lithium Foil at Moderate Pressures (&lt; 2 MPa) and Temperatures (30-50°C),-0.077526
+Long TE PRESS and STEAM for measuring the triglyceride glycerol CH<sub>2</sub> protons at 3 T,Determining Relative Diglyceride to Triglyceride Levels with STEAM MRS at 3 T,0.670435
+Estimating relative diglyceride to triglyceride content with localized MRS at 3 T,Creep Deformation of Lithium Foil at Moderate Pressures (&lt; 2 MPa) and Temperatures (30-50°C),-0.142176
+Estimating relative diglyceride to triglyceride content with localized MRS at 3 T,Determining Relative Diglyceride to Triglyceride Levels with STEAM MRS at 3 T,0.89227
+Creep Deformation of Lithium Foil at Moderate Pressures (&lt; 2 MPa) and Temperatures (30-50°C),Determining Relative Diglyceride to Triglyceride Levels with STEAM MRS at 3 T,-0.087497

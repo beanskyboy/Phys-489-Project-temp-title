@@ -1,0 +1,37 @@
+title_i,title_j,cosine_similarity
+Hitting the High-dimensional notes: an ODE for SGD learning dynamics on GLMs and multi-index models,Overlaps of a spherical spin glass model with microscopic external field,0.110188
+Hitting the High-dimensional notes: an ODE for SGD learning dynamics on GLMs and multi-index models,High-dimensional limit of one-pass SGD on least squares,0.752582
+Hitting the High-dimensional notes: an ODE for SGD learning dynamics on GLMs and multi-index models,The High Line: Exact Risk and Learning Rate Curves of Stochastic Adaptive Learning Rate Algorithms,0.70842
+Hitting the High-dimensional notes: an ODE for SGD learning dynamics on GLMs and multi-index models,Overlap of a spherical spin glass model with microscopic external field,0.11775
+Hitting the High-dimensional notes: an ODE for SGD learning dynamics on GLMs and multi-index models,Free Energy and Overlaps of a Spherical Spin Glass with an External Field,0.137316
+Hitting the High-dimensional notes: an ODE for SGD learning dynamics on GLMs and multi-index models,Free energy of the bipartite spherical SK model at critical temperature,0.224
+Hitting the High-dimensional notes: an ODE for SGD learning dynamics on GLMs and multi-index models,Order of fluctuations of the free energy in the positive semi-definite MSK model at critical temperature,0.225097
+Hitting the High-dimensional notes: an ODE for SGD learning dynamics on GLMs and multi-index models,An edge CLT for the log determinant of Laguerre beta ensembles,0.118275
+Overlaps of a spherical spin glass model with microscopic external field,High-dimensional limit of one-pass SGD on least squares,0.153756
+Overlaps of a spherical spin glass model with microscopic external field,The High Line: Exact Risk and Learning Rate Curves of Stochastic Adaptive Learning Rate Algorithms,0.109435
+Overlaps of a spherical spin glass model with microscopic external field,Overlap of a spherical spin glass model with microscopic external field,0.997125
+Overlaps of a spherical spin glass model with microscopic external field,Free Energy and Overlaps of a Spherical Spin Glass with an External Field,0.816427
+Overlaps of a spherical spin glass model with microscopic external field,Free energy of the bipartite spherical SK model at critical temperature,0.707685
+Overlaps of a spherical spin glass model with microscopic external field,Order of fluctuations of the free energy in the positive semi-definite MSK model at critical temperature,0.679855
+Overlaps of a spherical spin glass model with microscopic external field,An edge CLT for the log determinant of Laguerre beta ensembles,0.50695
+High-dimensional limit of one-pass SGD on least squares,The High Line: Exact Risk and Learning Rate Curves of Stochastic Adaptive Learning Rate Algorithms,0.72147
+High-dimensional limit of one-pass SGD on least squares,Overlap of a spherical spin glass model with microscopic external field,0.161798
+High-dimensional limit of one-pass SGD on least squares,Free Energy and Overlaps of a Spherical Spin Glass with an External Field,0.182697
+High-dimensional limit of one-pass SGD on least squares,Free energy of the bipartite spherical SK model at critical temperature,0.247214
+High-dimensional limit of one-pass SGD on least squares,Order of fluctuations of the free energy in the positive semi-definite MSK model at critical temperature,0.23687
+High-dimensional limit of one-pass SGD on least squares,An edge CLT for the log determinant of Laguerre beta ensembles,0.159033
+The High Line: Exact Risk and Learning Rate Curves of Stochastic Adaptive Learning Rate Algorithms,Overlap of a spherical spin glass model with microscopic external field,0.117488
+The High Line: Exact Risk and Learning Rate Curves of Stochastic Adaptive Learning Rate Algorithms,Free Energy and Overlaps of a Spherical Spin Glass with an External Field,0.114517
+The High Line: Exact Risk and Learning Rate Curves of Stochastic Adaptive Learning Rate Algorithms,Free energy of the bipartite spherical SK model at critical temperature,0.199561
+The High Line: Exact Risk and Learning Rate Curves of Stochastic Adaptive Learning Rate Algorithms,Order of fluctuations of the free energy in the positive semi-definite MSK model at critical temperature,0.189255
+The High Line: Exact Risk and Learning Rate Curves of Stochastic Adaptive Learning Rate Algorithms,An edge CLT for the log determinant of Laguerre beta ensembles,0.142725
+Overlap of a spherical spin glass model with microscopic external field,Free Energy and Overlaps of a Spherical Spin Glass with an External Field,0.810917
+Overlap of a spherical spin glass model with microscopic external field,Free energy of the bipartite spherical SK model at critical temperature,0.714062
+Overlap of a spherical spin glass model with microscopic external field,Order of fluctuations of the free energy in the positive semi-definite MSK model at critical temperature,0.689091
+Overlap of a spherical spin glass model with microscopic external field,An edge CLT for the log determinant of Laguerre beta ensembles,0.517179
+Free Energy and Overlaps of a Spherical Spin Glass with an External Field,Free energy of the bipartite spherical SK model at critical temperature,0.721342
+Free Energy and Overlaps of a Spherical Spin Glass with an External Field,Order of fluctuations of the free energy in the positive semi-definite MSK model at critical temperature,0.744657
+Free Energy and Overlaps of a Spherical Spin Glass with an External Field,An edge CLT for the log determinant of Laguerre beta ensembles,0.457902
+Free energy of the bipartite spherical SK model at critical temperature,Order of fluctuations of the free energy in the positive semi-definite MSK model at critical temperature,0.7846
+Free energy of the bipartite spherical SK model at critical temperature,An edge CLT for the log determinant of Laguerre beta ensembles,0.501454
+Order of fluctuations of the free energy in the positive semi-definite MSK model at critical temperature,An edge CLT for the log determinant of Laguerre beta ensembles,0.568843

@@ -1,0 +1,11 @@
+title_i,title_j,cosine_similarity
+14 examples of how LLMs can transform materials science and chemistry: a reflection on a large language model hackathon,Machine learning-augmented docking. 1. CYP inhibition prediction,0.262389
+14 examples of how LLMs can transform materials science and chemistry: a reflection on a large language model hackathon,Leveraging our Teacher’s Experience to Improve Machine Learning: Application to pKa Prediction,0.515316
+14 examples of how LLMs can transform materials science and chemistry: a reflection on a large language model hackathon,$^{210}$Pb measurements at the André E. Lalonde AMS Laboratory for the radioassay of materials used in rare event search detectors,0.138063
+14 examples of how LLMs can transform materials science and chemistry: a reflection on a large language model hackathon,Development of a pKa predictor (pKaLearn) by leveraging teaching experience to improve machine learning,0.519248
+Machine learning-augmented docking. 1. CYP inhibition prediction,Leveraging our Teacher’s Experience to Improve Machine Learning: Application to pKa Prediction,0.420504
+Machine learning-augmented docking. 1. CYP inhibition prediction,$^{210}$Pb measurements at the André E. Lalonde AMS Laboratory for the radioassay of materials used in rare event search detectors,0.096339
+Machine learning-augmented docking. 1. CYP inhibition prediction,Development of a pKa predictor (pKaLearn) by leveraging teaching experience to improve machine learning,0.430205
+Leveraging our Teacher’s Experience to Improve Machine Learning: Application to pKa Prediction,$^{210}$Pb measurements at the André E. Lalonde AMS Laboratory for the radioassay of materials used in rare event search detectors,0.169014
+Leveraging our Teacher’s Experience to Improve Machine Learning: Application to pKa Prediction,Development of a pKa predictor (pKaLearn) by leveraging teaching experience to improve machine learning,0.994714
+$^{210}$Pb measurements at the André E. Lalonde AMS Laboratory for the radioassay of materials used in rare event search detectors,Development of a pKa predictor (pKaLearn) by leveraging teaching experience to improve machine learning,0.178558

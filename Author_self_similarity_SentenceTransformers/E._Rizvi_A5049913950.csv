@@ -1,67 +1,56 @@
-abstract_i,abstract_j,cosine_similarity
-0,1,0.968579
-0,2,0.557834
-0,3,0.498469
-0,4,0.588442
-0,5,0.488262
-0,6,0.613089
-0,7,0.441929
-0,8,0.583845
-0,9,0.514993
-0,10,0.569291
-0,11,0.627657
-1,2,0.589747
-1,3,0.49685
-1,4,0.586726
-1,5,0.474678
-1,6,0.600363
-1,7,0.429829
-1,8,0.61751
-1,9,0.541189
-1,10,0.609418
-1,11,0.619441
-2,3,0.387975
-2,4,0.63491
-2,5,0.374297
-2,6,0.506064
-2,7,0.442385
-2,8,0.681307
-2,9,0.665172
-2,10,0.977831
-2,11,0.583264
-3,4,0.384816
-3,5,0.935729
-3,6,0.392107
-3,7,0.319004
-3,8,0.474572
-3,9,0.268729
-3,10,0.404486
-3,11,0.447026
-4,5,0.388516
-4,6,0.465958
-4,7,0.394264
-4,8,0.563106
-4,9,0.613473
-4,10,0.645509
-4,11,0.716091
-5,6,0.390644
-5,7,0.304096
-5,8,0.413114
-5,9,0.267046
-5,10,0.380341
-5,11,0.43833
-6,7,0.462789
-6,8,0.539603
-6,9,0.463542
-6,10,0.508988
-6,11,0.507679
-7,8,0.453418
-7,9,0.388728
-7,10,0.449604
-7,11,0.419961
-8,9,0.55903
-8,10,0.681548
-8,11,0.550661
-9,10,0.637639
-9,11,0.55378
-10,11,0.582772
+title_i,title_j,cosine_similarity
+"BlackMax: A black-hole event generator with rotation, recoil, split branes, and brane tension",Measurement of exclusive $${\varvec{{{{\pi ^+\pi ^-}}}}}$$ and $${\varvec{{{{\rho ^0}}}}}$$ meson photoproduction at HERA,0.392107
+"BlackMax: A black-hole event generator with rotation, recoil, split branes, and brane tension",Determination of electroweak parameters in polarised deep-inelastic scattering at HERA,0.384816
+"BlackMax: A black-hole event generator with rotation, recoil, split branes, and brane tension",High-<i>Q</i><sup>2</sup>deep inelastic scattering at HERA,0.447026
+"BlackMax: A black-hole event generator with rotation, recoil, split branes, and brane tension","Manual of BlackMax, a black-hole event generator with rotation, recoil, split branes, and brane tension",0.935729
+"BlackMax: A black-hole event generator with rotation, recoil, split branes, and brane tension",arXiv : Measurement of lepton-jet correlation in deep-inelastic scattering with the H1 detector using machine learning for unfolding,0.474572
+"BlackMax: A black-hole event generator with rotation, recoil, split branes, and brane tension",xF3(gamma-Z) in Charged Lepton Scattering,0.268729
+"BlackMax: A black-hole event generator with rotation, recoil, split branes, and brane tension",W and Anomalous Single Top Production at HERA,0.49685
+"BlackMax: A black-hole event generator with rotation, recoil, split branes, and brane tension",Precision QCD in DIS at HERA,0.404486
+"BlackMax: A black-hole event generator with rotation, recoil, split branes, and brane tension",High Mass Drell-Yan and the Photon PDF,0.319004
+"BlackMax: A black-hole event generator with rotation, recoil, split branes, and brane tension",New DIS and collider results on PDFs,0.387975
+Measurement of exclusive $${\varvec{{{{\pi ^+\pi ^-}}}}}$$ and $${\varvec{{{{\rho ^0}}}}}$$ meson photoproduction at HERA,Determination of electroweak parameters in polarised deep-inelastic scattering at HERA,0.465958
+Measurement of exclusive $${\varvec{{{{\pi ^+\pi ^-}}}}}$$ and $${\varvec{{{{\rho ^0}}}}}$$ meson photoproduction at HERA,High-<i>Q</i><sup>2</sup>deep inelastic scattering at HERA,0.507679
+Measurement of exclusive $${\varvec{{{{\pi ^+\pi ^-}}}}}$$ and $${\varvec{{{{\rho ^0}}}}}$$ meson photoproduction at HERA,"Manual of BlackMax, a black-hole event generator with rotation, recoil, split branes, and brane tension",0.390644
+Measurement of exclusive $${\varvec{{{{\pi ^+\pi ^-}}}}}$$ and $${\varvec{{{{\rho ^0}}}}}$$ meson photoproduction at HERA,arXiv : Measurement of lepton-jet correlation in deep-inelastic scattering with the H1 detector using machine learning for unfolding,0.539603
+Measurement of exclusive $${\varvec{{{{\pi ^+\pi ^-}}}}}$$ and $${\varvec{{{{\rho ^0}}}}}$$ meson photoproduction at HERA,xF3(gamma-Z) in Charged Lepton Scattering,0.463542
+Measurement of exclusive $${\varvec{{{{\pi ^+\pi ^-}}}}}$$ and $${\varvec{{{{\rho ^0}}}}}$$ meson photoproduction at HERA,W and Anomalous Single Top Production at HERA,0.600363
+Measurement of exclusive $${\varvec{{{{\pi ^+\pi ^-}}}}}$$ and $${\varvec{{{{\rho ^0}}}}}$$ meson photoproduction at HERA,Precision QCD in DIS at HERA,0.508988
+Measurement of exclusive $${\varvec{{{{\pi ^+\pi ^-}}}}}$$ and $${\varvec{{{{\rho ^0}}}}}$$ meson photoproduction at HERA,High Mass Drell-Yan and the Photon PDF,0.462789
+Measurement of exclusive $${\varvec{{{{\pi ^+\pi ^-}}}}}$$ and $${\varvec{{{{\rho ^0}}}}}$$ meson photoproduction at HERA,New DIS and collider results on PDFs,0.506064
+Determination of electroweak parameters in polarised deep-inelastic scattering at HERA,High-<i>Q</i><sup>2</sup>deep inelastic scattering at HERA,0.716091
+Determination of electroweak parameters in polarised deep-inelastic scattering at HERA,"Manual of BlackMax, a black-hole event generator with rotation, recoil, split branes, and brane tension",0.388516
+Determination of electroweak parameters in polarised deep-inelastic scattering at HERA,arXiv : Measurement of lepton-jet correlation in deep-inelastic scattering with the H1 detector using machine learning for unfolding,0.563106
+Determination of electroweak parameters in polarised deep-inelastic scattering at HERA,xF3(gamma-Z) in Charged Lepton Scattering,0.613473
+Determination of electroweak parameters in polarised deep-inelastic scattering at HERA,W and Anomalous Single Top Production at HERA,0.586726
+Determination of electroweak parameters in polarised deep-inelastic scattering at HERA,Precision QCD in DIS at HERA,0.645509
+Determination of electroweak parameters in polarised deep-inelastic scattering at HERA,High Mass Drell-Yan and the Photon PDF,0.394264
+Determination of electroweak parameters in polarised deep-inelastic scattering at HERA,New DIS and collider results on PDFs,0.63491
+High-<i>Q</i><sup>2</sup>deep inelastic scattering at HERA,"Manual of BlackMax, a black-hole event generator with rotation, recoil, split branes, and brane tension",0.43833
+High-<i>Q</i><sup>2</sup>deep inelastic scattering at HERA,arXiv : Measurement of lepton-jet correlation in deep-inelastic scattering with the H1 detector using machine learning for unfolding,0.550661
+High-<i>Q</i><sup>2</sup>deep inelastic scattering at HERA,xF3(gamma-Z) in Charged Lepton Scattering,0.55378
+High-<i>Q</i><sup>2</sup>deep inelastic scattering at HERA,W and Anomalous Single Top Production at HERA,0.619441
+High-<i>Q</i><sup>2</sup>deep inelastic scattering at HERA,Precision QCD in DIS at HERA,0.582772
+High-<i>Q</i><sup>2</sup>deep inelastic scattering at HERA,High Mass Drell-Yan and the Photon PDF,0.419961
+High-<i>Q</i><sup>2</sup>deep inelastic scattering at HERA,New DIS and collider results on PDFs,0.583264
+"Manual of BlackMax, a black-hole event generator with rotation, recoil, split branes, and brane tension",arXiv : Measurement of lepton-jet correlation in deep-inelastic scattering with the H1 detector using machine learning for unfolding,0.413114
+"Manual of BlackMax, a black-hole event generator with rotation, recoil, split branes, and brane tension",xF3(gamma-Z) in Charged Lepton Scattering,0.267046
+"Manual of BlackMax, a black-hole event generator with rotation, recoil, split branes, and brane tension",W and Anomalous Single Top Production at HERA,0.474678
+"Manual of BlackMax, a black-hole event generator with rotation, recoil, split branes, and brane tension",Precision QCD in DIS at HERA,0.380341
+"Manual of BlackMax, a black-hole event generator with rotation, recoil, split branes, and brane tension",High Mass Drell-Yan and the Photon PDF,0.304096
+"Manual of BlackMax, a black-hole event generator with rotation, recoil, split branes, and brane tension",New DIS and collider results on PDFs,0.374297
+arXiv : Measurement of lepton-jet correlation in deep-inelastic scattering with the H1 detector using machine learning for unfolding,xF3(gamma-Z) in Charged Lepton Scattering,0.55903
+arXiv : Measurement of lepton-jet correlation in deep-inelastic scattering with the H1 detector using machine learning for unfolding,W and Anomalous Single Top Production at HERA,0.61751
+arXiv : Measurement of lepton-jet correlation in deep-inelastic scattering with the H1 detector using machine learning for unfolding,Precision QCD in DIS at HERA,0.681548
+arXiv : Measurement of lepton-jet correlation in deep-inelastic scattering with the H1 detector using machine learning for unfolding,High Mass Drell-Yan and the Photon PDF,0.453418
+arXiv : Measurement of lepton-jet correlation in deep-inelastic scattering with the H1 detector using machine learning for unfolding,New DIS and collider results on PDFs,0.681307
+xF3(gamma-Z) in Charged Lepton Scattering,W and Anomalous Single Top Production at HERA,0.541189
+xF3(gamma-Z) in Charged Lepton Scattering,Precision QCD in DIS at HERA,0.637639
+xF3(gamma-Z) in Charged Lepton Scattering,High Mass Drell-Yan and the Photon PDF,0.388728
+xF3(gamma-Z) in Charged Lepton Scattering,New DIS and collider results on PDFs,0.665172
+W and Anomalous Single Top Production at HERA,Precision QCD in DIS at HERA,0.609418
+W and Anomalous Single Top Production at HERA,High Mass Drell-Yan and the Photon PDF,0.429829
+W and Anomalous Single Top Production at HERA,New DIS and collider results on PDFs,0.589747
+Precision QCD in DIS at HERA,High Mass Drell-Yan and the Photon PDF,0.449604
+Precision QCD in DIS at HERA,New DIS and collider results on PDFs,0.977831
+High Mass Drell-Yan and the Photon PDF,New DIS and collider results on PDFs,0.442385

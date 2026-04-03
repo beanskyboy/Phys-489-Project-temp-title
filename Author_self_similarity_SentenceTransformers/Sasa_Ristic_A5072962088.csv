@@ -1,0 +1,562 @@
+title_i,title_j,cosine_similarity
+High Performance InP-Based Photonic ICs—A Tutorial,An Optical Phase-Locked Loop Photonic Integrated Circuit,0.596161
+High Performance InP-Based Photonic ICs—A Tutorial,3D integrated hybrid silicon laser,0.602428
+High Performance InP-Based Photonic ICs—A Tutorial,High-Thermal Performance 3D Hybrid Silicon Lasers,0.617903
+High Performance InP-Based Photonic ICs—A Tutorial,Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,0.41729
+High Performance InP-Based Photonic ICs—A Tutorial,High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,0.446797
+High Performance InP-Based Photonic ICs—A Tutorial,Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,0.208139
+High Performance InP-Based Photonic ICs—A Tutorial,Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,0.624879
+High Performance InP-Based Photonic ICs—A Tutorial,Demonstration of a linear ultra-compact integrated coherent receiver,0.339589
+High Performance InP-Based Photonic ICs—A Tutorial,Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,0.617613
+High Performance InP-Based Photonic ICs—A Tutorial,Highly linear InP phase modulator for high dynamic range RF/photonic links,0.621883
+High Performance InP-Based Photonic ICs—A Tutorial,Integrated Optical Phase-Locked Loop,0.541892
+High Performance InP-Based Photonic ICs—A Tutorial,InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,0.536185
+High Performance InP-Based Photonic ICs—A Tutorial,Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,0.488472
+High Performance InP-Based Photonic ICs—A Tutorial,Heterodyne locking of an integrated optical phase-locked loop,0.519762
+High Performance InP-Based Photonic ICs—A Tutorial,Linear Coherent Optical Receivers,0.322158
+High Performance InP-Based Photonic ICs—A Tutorial,Integrated coherent receiver for linear optical phase demodulation,0.208673
+High Performance InP-Based Photonic ICs—A Tutorial,100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,0.519592
+High Performance InP-Based Photonic ICs—A Tutorial,"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",0.128981
+High Performance InP-Based Photonic ICs—A Tutorial,Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,0.405214
+High Performance InP-Based Photonic ICs—A Tutorial,100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,0.606843
+High Performance InP-Based Photonic ICs—A Tutorial,25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,0.593915
+High Performance InP-Based Photonic ICs—A Tutorial,3D Integrated Silicon Photonic External Cavity Laser,0.508217
+High Performance InP-Based Photonic ICs—A Tutorial,Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,0.491325
+High Performance InP-Based Photonic ICs—A Tutorial,Ultra-compact integrated coherent receiver for high linearity RF photonic links,0.540953
+High Performance InP-Based Photonic ICs—A Tutorial,Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,0.405873
+High Performance InP-Based Photonic ICs—A Tutorial,Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,0.302053
+High Performance InP-Based Photonic ICs—A Tutorial,Smart transducer architectural organisation based on standard IEEE P1451,0.274521
+High Performance InP-Based Photonic ICs—A Tutorial,4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,0.516621
+High Performance InP-Based Photonic ICs—A Tutorial,Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,0.515477
+High Performance InP-Based Photonic ICs—A Tutorial,Integrated-optic electrorefraction modulators,0.532248
+High Performance InP-Based Photonic ICs—A Tutorial,Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,0.544562
+High Performance InP-Based Photonic ICs—A Tutorial,Thermal Performance of 3D Integrated Silicon Laser,0.526382
+High Performance InP-Based Photonic ICs—A Tutorial,Tunable 3D Integrated Hybrid Silicon Laser,0.584681
+An Optical Phase-Locked Loop Photonic Integrated Circuit,3D integrated hybrid silicon laser,0.397851
+An Optical Phase-Locked Loop Photonic Integrated Circuit,High-Thermal Performance 3D Hybrid Silicon Lasers,0.422493
+An Optical Phase-Locked Loop Photonic Integrated Circuit,Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,0.603208
+An Optical Phase-Locked Loop Photonic Integrated Circuit,High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,0.669534
+An Optical Phase-Locked Loop Photonic Integrated Circuit,Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,0.471013
+An Optical Phase-Locked Loop Photonic Integrated Circuit,Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,0.50016
+An Optical Phase-Locked Loop Photonic Integrated Circuit,Demonstration of a linear ultra-compact integrated coherent receiver,0.695338
+An Optical Phase-Locked Loop Photonic Integrated Circuit,Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,0.524843
+An Optical Phase-Locked Loop Photonic Integrated Circuit,Highly linear InP phase modulator for high dynamic range RF/photonic links,0.721512
+An Optical Phase-Locked Loop Photonic Integrated Circuit,Integrated Optical Phase-Locked Loop,0.841268
+An Optical Phase-Locked Loop Photonic Integrated Circuit,InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,0.614493
+An Optical Phase-Locked Loop Photonic Integrated Circuit,Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,0.311123
+An Optical Phase-Locked Loop Photonic Integrated Circuit,Heterodyne locking of an integrated optical phase-locked loop,0.880769
+An Optical Phase-Locked Loop Photonic Integrated Circuit,Linear Coherent Optical Receivers,0.412108
+An Optical Phase-Locked Loop Photonic Integrated Circuit,Integrated coherent receiver for linear optical phase demodulation,0.421164
+An Optical Phase-Locked Loop Photonic Integrated Circuit,100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,0.469075
+An Optical Phase-Locked Loop Photonic Integrated Circuit,"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",0.166219
+An Optical Phase-Locked Loop Photonic Integrated Circuit,Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,0.343306
+An Optical Phase-Locked Loop Photonic Integrated Circuit,100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,0.598179
+An Optical Phase-Locked Loop Photonic Integrated Circuit,25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,0.553223
+An Optical Phase-Locked Loop Photonic Integrated Circuit,3D Integrated Silicon Photonic External Cavity Laser,0.408108
+An Optical Phase-Locked Loop Photonic Integrated Circuit,Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,0.363512
+An Optical Phase-Locked Loop Photonic Integrated Circuit,Ultra-compact integrated coherent receiver for high linearity RF photonic links,0.613766
+An Optical Phase-Locked Loop Photonic Integrated Circuit,Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,0.257196
+An Optical Phase-Locked Loop Photonic Integrated Circuit,Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,0.216358
+An Optical Phase-Locked Loop Photonic Integrated Circuit,Smart transducer architectural organisation based on standard IEEE P1451,0.167194
+An Optical Phase-Locked Loop Photonic Integrated Circuit,4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,0.454226
+An Optical Phase-Locked Loop Photonic Integrated Circuit,Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,0.338737
+An Optical Phase-Locked Loop Photonic Integrated Circuit,Integrated-optic electrorefraction modulators,0.342352
+An Optical Phase-Locked Loop Photonic Integrated Circuit,Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,0.365291
+An Optical Phase-Locked Loop Photonic Integrated Circuit,Thermal Performance of 3D Integrated Silicon Laser,0.407701
+An Optical Phase-Locked Loop Photonic Integrated Circuit,Tunable 3D Integrated Hybrid Silicon Laser,0.495437
+3D integrated hybrid silicon laser,High-Thermal Performance 3D Hybrid Silicon Lasers,0.825594
+3D integrated hybrid silicon laser,Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,0.302635
+3D integrated hybrid silicon laser,High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,0.251082
+3D integrated hybrid silicon laser,Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,-0.027845
+3D integrated hybrid silicon laser,Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,0.535085
+3D integrated hybrid silicon laser,Demonstration of a linear ultra-compact integrated coherent receiver,0.111927
+3D integrated hybrid silicon laser,Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,0.481186
+3D integrated hybrid silicon laser,Highly linear InP phase modulator for high dynamic range RF/photonic links,0.471729
+3D integrated hybrid silicon laser,Integrated Optical Phase-Locked Loop,0.343982
+3D integrated hybrid silicon laser,InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,0.3803
+3D integrated hybrid silicon laser,Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,0.414115
+3D integrated hybrid silicon laser,Heterodyne locking of an integrated optical phase-locked loop,0.415844
+3D integrated hybrid silicon laser,Linear Coherent Optical Receivers,0.040918
+3D integrated hybrid silicon laser,Integrated coherent receiver for linear optical phase demodulation,-0.015306
+3D integrated hybrid silicon laser,100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,0.458005
+3D integrated hybrid silicon laser,"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",0.032739
+3D integrated hybrid silicon laser,Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,0.483705
+3D integrated hybrid silicon laser,100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,0.488347
+3D integrated hybrid silicon laser,25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,0.481766
+3D integrated hybrid silicon laser,3D Integrated Silicon Photonic External Cavity Laser,0.586313
+3D integrated hybrid silicon laser,Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,0.3821
+3D integrated hybrid silicon laser,Ultra-compact integrated coherent receiver for high linearity RF photonic links,0.343938
+3D integrated hybrid silicon laser,Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,0.271099
+3D integrated hybrid silicon laser,Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,0.381511
+3D integrated hybrid silicon laser,Smart transducer architectural organisation based on standard IEEE P1451,0.181958
+3D integrated hybrid silicon laser,4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,0.458949
+3D integrated hybrid silicon laser,Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,0.38478
+3D integrated hybrid silicon laser,Integrated-optic electrorefraction modulators,0.384922
+3D integrated hybrid silicon laser,Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,0.480299
+3D integrated hybrid silicon laser,Thermal Performance of 3D Integrated Silicon Laser,0.581951
+3D integrated hybrid silicon laser,Tunable 3D Integrated Hybrid Silicon Laser,0.4928
+High-Thermal Performance 3D Hybrid Silicon Lasers,Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,0.310093
+High-Thermal Performance 3D Hybrid Silicon Lasers,High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,0.242545
+High-Thermal Performance 3D Hybrid Silicon Lasers,Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,-0.027568
+High-Thermal Performance 3D Hybrid Silicon Lasers,Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,0.626024
+High-Thermal Performance 3D Hybrid Silicon Lasers,Demonstration of a linear ultra-compact integrated coherent receiver,0.1434
+High-Thermal Performance 3D Hybrid Silicon Lasers,Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,0.414491
+High-Thermal Performance 3D Hybrid Silicon Lasers,Highly linear InP phase modulator for high dynamic range RF/photonic links,0.432099
+High-Thermal Performance 3D Hybrid Silicon Lasers,Integrated Optical Phase-Locked Loop,0.424782
+High-Thermal Performance 3D Hybrid Silicon Lasers,InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,0.352526
+High-Thermal Performance 3D Hybrid Silicon Lasers,Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,0.289362
+High-Thermal Performance 3D Hybrid Silicon Lasers,Heterodyne locking of an integrated optical phase-locked loop,0.431346
+High-Thermal Performance 3D Hybrid Silicon Lasers,Linear Coherent Optical Receivers,0.038052
+High-Thermal Performance 3D Hybrid Silicon Lasers,Integrated coherent receiver for linear optical phase demodulation,-0.010863
+High-Thermal Performance 3D Hybrid Silicon Lasers,100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,0.437595
+High-Thermal Performance 3D Hybrid Silicon Lasers,"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",-0.045203
+High-Thermal Performance 3D Hybrid Silicon Lasers,Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,0.526514
+High-Thermal Performance 3D Hybrid Silicon Lasers,100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,0.45611
+High-Thermal Performance 3D Hybrid Silicon Lasers,25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,0.418012
+High-Thermal Performance 3D Hybrid Silicon Lasers,3D Integrated Silicon Photonic External Cavity Laser,0.725425
+High-Thermal Performance 3D Hybrid Silicon Lasers,Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,0.312519
+High-Thermal Performance 3D Hybrid Silicon Lasers,Ultra-compact integrated coherent receiver for high linearity RF photonic links,0.343211
+High-Thermal Performance 3D Hybrid Silicon Lasers,Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,0.229175
+High-Thermal Performance 3D Hybrid Silicon Lasers,Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,0.418259
+High-Thermal Performance 3D Hybrid Silicon Lasers,Smart transducer architectural organisation based on standard IEEE P1451,0.175789
+High-Thermal Performance 3D Hybrid Silicon Lasers,4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,0.426433
+High-Thermal Performance 3D Hybrid Silicon Lasers,Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,0.330018
+High-Thermal Performance 3D Hybrid Silicon Lasers,Integrated-optic electrorefraction modulators,0.320054
+High-Thermal Performance 3D Hybrid Silicon Lasers,Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,0.543775
+High-Thermal Performance 3D Hybrid Silicon Lasers,Thermal Performance of 3D Integrated Silicon Laser,0.788035
+High-Thermal Performance 3D Hybrid Silicon Lasers,Tunable 3D Integrated Hybrid Silicon Laser,0.593807
+Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,0.379984
+Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,0.298156
+Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,0.421064
+Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,Demonstration of a linear ultra-compact integrated coherent receiver,0.469754
+Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,0.300021
+Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,Highly linear InP phase modulator for high dynamic range RF/photonic links,0.463985
+Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,Integrated Optical Phase-Locked Loop,0.558874
+Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,0.385169
+Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,0.232322
+Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,Heterodyne locking of an integrated optical phase-locked loop,0.506864
+Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,Linear Coherent Optical Receivers,0.308396
+Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,Integrated coherent receiver for linear optical phase demodulation,0.331634
+Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,0.318074
+Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",0.032727
+Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,0.192284
+Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,0.449602
+Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,0.440786
+Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,3D Integrated Silicon Photonic External Cavity Laser,0.357773
+Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,0.270967
+Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,Ultra-compact integrated coherent receiver for high linearity RF photonic links,0.360341
+Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,0.182772
+Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,0.096483
+Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,Smart transducer architectural organisation based on standard IEEE P1451,-0.047081
+Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,0.305047
+Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,0.23306
+Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,Integrated-optic electrorefraction modulators,0.252254
+Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,0.173104
+Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,Thermal Performance of 3D Integrated Silicon Laser,0.388961
+Direct modulation bandwidth enhancement of strongly injection-locked SG-DBR laser,Tunable 3D Integrated Hybrid Silicon Laser,0.38312
+High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,0.595027
+High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,0.358736
+High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,Demonstration of a linear ultra-compact integrated coherent receiver,0.734554
+High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,0.504254
+High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,Highly linear InP phase modulator for high dynamic range RF/photonic links,0.78985
+High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,Integrated Optical Phase-Locked Loop,0.632393
+High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,0.600621
+High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,0.451324
+High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,Heterodyne locking of an integrated optical phase-locked loop,0.61376
+High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,Linear Coherent Optical Receivers,0.422792
+High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,Integrated coherent receiver for linear optical phase demodulation,0.572643
+High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,0.481598
+High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",0.247356
+High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,0.305407
+High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,0.491605
+High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,0.596575
+High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,3D Integrated Silicon Photonic External Cavity Laser,0.242489
+High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,0.540071
+High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,Ultra-compact integrated coherent receiver for high linearity RF photonic links,0.563034
+High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,0.464629
+High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,0.159083
+High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,Smart transducer architectural organisation based on standard IEEE P1451,0.165982
+High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,0.480093
+High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,0.446528
+High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,Integrated-optic electrorefraction modulators,0.482436
+High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,0.266023
+High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,Thermal Performance of 3D Integrated Silicon Laser,0.228857
+High Linearity InP-Based Phase Modulators Using a Shallow Quantum-Well Design,Tunable 3D Integrated Hybrid Silicon Laser,0.379815
+Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,0.138799
+Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,Demonstration of a linear ultra-compact integrated coherent receiver,0.763278
+Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,0.345238
+Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,Highly linear InP phase modulator for high dynamic range RF/photonic links,0.457226
+Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,Integrated Optical Phase-Locked Loop,0.374029
+Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,0.504423
+Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,0.16495
+Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,Heterodyne locking of an integrated optical phase-locked loop,0.384099
+Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,Linear Coherent Optical Receivers,0.658345
+Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,Integrated coherent receiver for linear optical phase demodulation,0.836476
+Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,0.29424
+Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",0.306943
+Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,0.096436
+Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,0.352103
+Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,0.375356
+Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,3D Integrated Silicon Photonic External Cavity Laser,0.043038
+Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,0.210469
+Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,Ultra-compact integrated coherent receiver for high linearity RF photonic links,0.503033
+Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,0.160285
+Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,0.072697
+Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,Smart transducer architectural organisation based on standard IEEE P1451,0.193298
+Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,0.281132
+Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,0.130895
+Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,Integrated-optic electrorefraction modulators,0.132374
+Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,0.139069
+Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,Thermal Performance of 3D Integrated Silicon Laser,-0.000577
+Highly Linear Integrated Coherent Receivers for Microwave Photonic Links,Tunable 3D Integrated Hybrid Silicon Laser,0.189598
+Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,Demonstration of a linear ultra-compact integrated coherent receiver,0.303395
+Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,0.4128
+Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,Highly linear InP phase modulator for high dynamic range RF/photonic links,0.461592
+Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,Integrated Optical Phase-Locked Loop,0.535237
+Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,0.42102
+Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,0.380368
+Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,Heterodyne locking of an integrated optical phase-locked loop,0.501712
+Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,Linear Coherent Optical Receivers,0.198456
+Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,Integrated coherent receiver for linear optical phase demodulation,0.160703
+Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,0.424926
+Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",0.008825
+Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,0.39778
+Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,0.514618
+Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,0.448696
+Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,3D Integrated Silicon Photonic External Cavity Laser,0.73221
+Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,0.461094
+Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,Ultra-compact integrated coherent receiver for high linearity RF photonic links,0.447808
+Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,0.405722
+Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,0.288688
+Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,Smart transducer architectural organisation based on standard IEEE P1451,0.128688
+Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,0.390178
+Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,0.416645
+Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,Integrated-optic electrorefraction modulators,0.437866
+Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,0.4157
+Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,Thermal Performance of 3D Integrated Silicon Laser,0.739124
+Tunable 3D Hybrid Integrated Silicon Photonic External Cavity Laser,Tunable 3D Integrated Hybrid Silicon Laser,0.921531
+Demonstration of a linear ultra-compact integrated coherent receiver,Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,0.464674
+Demonstration of a linear ultra-compact integrated coherent receiver,Highly linear InP phase modulator for high dynamic range RF/photonic links,0.676344
+Demonstration of a linear ultra-compact integrated coherent receiver,Integrated Optical Phase-Locked Loop,0.63822
+Demonstration of a linear ultra-compact integrated coherent receiver,InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,0.608436
+Demonstration of a linear ultra-compact integrated coherent receiver,Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,0.235037
+Demonstration of a linear ultra-compact integrated coherent receiver,Heterodyne locking of an integrated optical phase-locked loop,0.616142
+Demonstration of a linear ultra-compact integrated coherent receiver,Linear Coherent Optical Receivers,0.579993
+Demonstration of a linear ultra-compact integrated coherent receiver,Integrated coherent receiver for linear optical phase demodulation,0.77391
+Demonstration of a linear ultra-compact integrated coherent receiver,100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,0.392516
+Demonstration of a linear ultra-compact integrated coherent receiver,"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",0.175073
+Demonstration of a linear ultra-compact integrated coherent receiver,Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,0.191423
+Demonstration of a linear ultra-compact integrated coherent receiver,100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,0.447625
+Demonstration of a linear ultra-compact integrated coherent receiver,25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,0.447577
+Demonstration of a linear ultra-compact integrated coherent receiver,3D Integrated Silicon Photonic External Cavity Laser,0.212503
+Demonstration of a linear ultra-compact integrated coherent receiver,Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,0.335985
+Demonstration of a linear ultra-compact integrated coherent receiver,Ultra-compact integrated coherent receiver for high linearity RF photonic links,0.601849
+Demonstration of a linear ultra-compact integrated coherent receiver,Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,0.270935
+Demonstration of a linear ultra-compact integrated coherent receiver,Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,0.067893
+Demonstration of a linear ultra-compact integrated coherent receiver,Smart transducer architectural organisation based on standard IEEE P1451,0.09789
+Demonstration of a linear ultra-compact integrated coherent receiver,4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,0.380464
+Demonstration of a linear ultra-compact integrated coherent receiver,Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,0.271781
+Demonstration of a linear ultra-compact integrated coherent receiver,Integrated-optic electrorefraction modulators,0.289705
+Demonstration of a linear ultra-compact integrated coherent receiver,Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,0.192222
+Demonstration of a linear ultra-compact integrated coherent receiver,Thermal Performance of 3D Integrated Silicon Laser,0.182875
+Demonstration of a linear ultra-compact integrated coherent receiver,Tunable 3D Integrated Hybrid Silicon Laser,0.329128
+Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,Highly linear InP phase modulator for high dynamic range RF/photonic links,0.63705
+Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,Integrated Optical Phase-Locked Loop,0.476263
+Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,0.608304
+Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,0.41471
+Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,Heterodyne locking of an integrated optical phase-locked loop,0.515898
+Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,Linear Coherent Optical Receivers,0.43473
+Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,Integrated coherent receiver for linear optical phase demodulation,0.337736
+Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,0.748805
+Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",0.191578
+Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,0.359672
+Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,0.736964
+Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,0.669598
+Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,3D Integrated Silicon Photonic External Cavity Laser,0.319324
+Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,0.42614
+Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,Ultra-compact integrated coherent receiver for high linearity RF photonic links,0.573032
+Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,0.353189
+Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,0.181903
+Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,Smart transducer architectural organisation based on standard IEEE P1451,0.211634
+Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,0.747813
+Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,0.444352
+Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,Integrated-optic electrorefraction modulators,0.440493
+Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,0.382121
+Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,Thermal Performance of 3D Integrated Silicon Laser,0.30597
+Optoelectronic Integrated Circuits (OEICs) for 100G Ethernet and Coherent Networks Based on Multi-Guide Vertical Integration Platform,Tunable 3D Integrated Hybrid Silicon Laser,0.426134
+Highly linear InP phase modulator for high dynamic range RF/photonic links,Integrated Optical Phase-Locked Loop,0.672251
+Highly linear InP phase modulator for high dynamic range RF/photonic links,InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,0.611003
+Highly linear InP phase modulator for high dynamic range RF/photonic links,Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,0.520241
+Highly linear InP phase modulator for high dynamic range RF/photonic links,Heterodyne locking of an integrated optical phase-locked loop,0.655416
+Highly linear InP phase modulator for high dynamic range RF/photonic links,Linear Coherent Optical Receivers,0.41315
+Highly linear InP phase modulator for high dynamic range RF/photonic links,Integrated coherent receiver for linear optical phase demodulation,0.450922
+Highly linear InP phase modulator for high dynamic range RF/photonic links,100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,0.520702
+Highly linear InP phase modulator for high dynamic range RF/photonic links,"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",0.18044
+Highly linear InP phase modulator for high dynamic range RF/photonic links,Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,0.303388
+Highly linear InP phase modulator for high dynamic range RF/photonic links,100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,0.599686
+Highly linear InP phase modulator for high dynamic range RF/photonic links,25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,0.611354
+Highly linear InP phase modulator for high dynamic range RF/photonic links,3D Integrated Silicon Photonic External Cavity Laser,0.35008
+Highly linear InP phase modulator for high dynamic range RF/photonic links,Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,0.590506
+Highly linear InP phase modulator for high dynamic range RF/photonic links,Ultra-compact integrated coherent receiver for high linearity RF photonic links,0.606366
+Highly linear InP phase modulator for high dynamic range RF/photonic links,Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,0.484885
+Highly linear InP phase modulator for high dynamic range RF/photonic links,Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,0.141738
+Highly linear InP phase modulator for high dynamic range RF/photonic links,Smart transducer architectural organisation based on standard IEEE P1451,0.068202
+Highly linear InP phase modulator for high dynamic range RF/photonic links,4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,0.517842
+Highly linear InP phase modulator for high dynamic range RF/photonic links,Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,0.576927
+Highly linear InP phase modulator for high dynamic range RF/photonic links,Integrated-optic electrorefraction modulators,0.554959
+Highly linear InP phase modulator for high dynamic range RF/photonic links,Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,0.354687
+Highly linear InP phase modulator for high dynamic range RF/photonic links,Thermal Performance of 3D Integrated Silicon Laser,0.354787
+Highly linear InP phase modulator for high dynamic range RF/photonic links,Tunable 3D Integrated Hybrid Silicon Laser,0.451884
+Integrated Optical Phase-Locked Loop,InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,0.508479
+Integrated Optical Phase-Locked Loop,Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,0.332799
+Integrated Optical Phase-Locked Loop,Heterodyne locking of an integrated optical phase-locked loop,0.750875
+Integrated Optical Phase-Locked Loop,Linear Coherent Optical Receivers,0.379212
+Integrated Optical Phase-Locked Loop,Integrated coherent receiver for linear optical phase demodulation,0.353901
+Integrated Optical Phase-Locked Loop,100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,0.480454
+Integrated Optical Phase-Locked Loop,"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",0.10795
+Integrated Optical Phase-Locked Loop,Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,0.289578
+Integrated Optical Phase-Locked Loop,100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,0.520612
+Integrated Optical Phase-Locked Loop,25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,0.499143
+Integrated Optical Phase-Locked Loop,3D Integrated Silicon Photonic External Cavity Laser,0.457772
+Integrated Optical Phase-Locked Loop,Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,0.416145
+Integrated Optical Phase-Locked Loop,Ultra-compact integrated coherent receiver for high linearity RF photonic links,0.536145
+Integrated Optical Phase-Locked Loop,Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,0.32384
+Integrated Optical Phase-Locked Loop,Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,0.15025
+Integrated Optical Phase-Locked Loop,Smart transducer architectural organisation based on standard IEEE P1451,0.135499
+Integrated Optical Phase-Locked Loop,4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,0.460278
+Integrated Optical Phase-Locked Loop,Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,0.360056
+Integrated Optical Phase-Locked Loop,Integrated-optic electrorefraction modulators,0.353926
+Integrated Optical Phase-Locked Loop,Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,0.334294
+Integrated Optical Phase-Locked Loop,Thermal Performance of 3D Integrated Silicon Laser,0.472803
+Integrated Optical Phase-Locked Loop,Tunable 3D Integrated Hybrid Silicon Laser,0.518073
+InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,0.384943
+InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,Heterodyne locking of an integrated optical phase-locked loop,0.608492
+InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,Linear Coherent Optical Receivers,0.50445
+InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,Integrated coherent receiver for linear optical phase demodulation,0.526124
+InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,0.544922
+InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",0.153533
+InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,0.38668
+InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,0.614514
+InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,0.581038
+InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,3D Integrated Silicon Photonic External Cavity Laser,0.352917
+InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,0.419041
+InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,Ultra-compact integrated coherent receiver for high linearity RF photonic links,0.785171
+InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,0.308167
+InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,0.221505
+InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,Smart transducer architectural organisation based on standard IEEE P1451,0.157599
+InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,0.542368
+InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,0.385973
+InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,Integrated-optic electrorefraction modulators,0.405726
+InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,0.377541
+InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,Thermal Performance of 3D Integrated Silicon Laser,0.331691
+InP/InGaAsP-Based Integrated 3-dB Trench Couplers for Ultra-Compact Coherent Receivers,Tunable 3D Integrated Hybrid Silicon Laser,0.424392
+Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,Heterodyne locking of an integrated optical phase-locked loop,0.346654
+Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,Linear Coherent Optical Receivers,0.203081
+Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,Integrated coherent receiver for linear optical phase demodulation,0.199469
+Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,0.343133
+Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",0.169657
+Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,0.288562
+Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,0.362175
+Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,0.441626
+Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,3D Integrated Silicon Photonic External Cavity Laser,0.255797
+Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,0.769221
+Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,Ultra-compact integrated coherent receiver for high linearity RF photonic links,0.411217
+Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,0.702548
+Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,0.25434
+Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,Smart transducer architectural organisation based on standard IEEE P1451,0.186013
+Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,0.316949
+Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,0.760218
+Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,Integrated-optic electrorefraction modulators,0.797579
+Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,0.330912
+Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,Thermal Performance of 3D Integrated Silicon Laser,0.238033
+Robust Coupled-Quantum-Well Structure for Use in Electrorefraction Modulators,Tunable 3D Integrated Hybrid Silicon Laser,0.347398
+Heterodyne locking of an integrated optical phase-locked loop,Linear Coherent Optical Receivers,0.325471
+Heterodyne locking of an integrated optical phase-locked loop,Integrated coherent receiver for linear optical phase demodulation,0.31599
+Heterodyne locking of an integrated optical phase-locked loop,100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,0.51125
+Heterodyne locking of an integrated optical phase-locked loop,"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",0.082723
+Heterodyne locking of an integrated optical phase-locked loop,Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,0.389935
+Heterodyne locking of an integrated optical phase-locked loop,100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,0.577349
+Heterodyne locking of an integrated optical phase-locked loop,25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,0.5663
+Heterodyne locking of an integrated optical phase-locked loop,3D Integrated Silicon Photonic External Cavity Laser,0.406797
+Heterodyne locking of an integrated optical phase-locked loop,Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,0.374316
+Heterodyne locking of an integrated optical phase-locked loop,Ultra-compact integrated coherent receiver for high linearity RF photonic links,0.62406
+Heterodyne locking of an integrated optical phase-locked loop,Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,0.290966
+Heterodyne locking of an integrated optical phase-locked loop,Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,0.270502
+Heterodyne locking of an integrated optical phase-locked loop,Smart transducer architectural organisation based on standard IEEE P1451,0.181283
+Heterodyne locking of an integrated optical phase-locked loop,4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,0.479894
+Heterodyne locking of an integrated optical phase-locked loop,Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,0.356215
+Heterodyne locking of an integrated optical phase-locked loop,Integrated-optic electrorefraction modulators,0.391141
+Heterodyne locking of an integrated optical phase-locked loop,Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,0.369632
+Heterodyne locking of an integrated optical phase-locked loop,Thermal Performance of 3D Integrated Silicon Laser,0.398128
+Heterodyne locking of an integrated optical phase-locked loop,Tunable 3D Integrated Hybrid Silicon Laser,0.498103
+Linear Coherent Optical Receivers,Integrated coherent receiver for linear optical phase demodulation,0.662446
+Linear Coherent Optical Receivers,100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,0.380654
+Linear Coherent Optical Receivers,"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",0.213382
+Linear Coherent Optical Receivers,Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,0.116551
+Linear Coherent Optical Receivers,100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,0.420617
+Linear Coherent Optical Receivers,25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,0.337121
+Linear Coherent Optical Receivers,3D Integrated Silicon Photonic External Cavity Laser,0.091695
+Linear Coherent Optical Receivers,Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,0.191913
+Linear Coherent Optical Receivers,Ultra-compact integrated coherent receiver for high linearity RF photonic links,0.47187
+Linear Coherent Optical Receivers,Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,0.13007
+Linear Coherent Optical Receivers,Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,0.078062
+Linear Coherent Optical Receivers,Smart transducer architectural organisation based on standard IEEE P1451,0.235191
+Linear Coherent Optical Receivers,4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,0.385866
+Linear Coherent Optical Receivers,Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,0.181462
+Linear Coherent Optical Receivers,Integrated-optic electrorefraction modulators,0.181939
+Linear Coherent Optical Receivers,Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,0.164667
+Linear Coherent Optical Receivers,Thermal Performance of 3D Integrated Silicon Laser,0.088175
+Linear Coherent Optical Receivers,Tunable 3D Integrated Hybrid Silicon Laser,0.228784
+Integrated coherent receiver for linear optical phase demodulation,100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,0.234861
+Integrated coherent receiver for linear optical phase demodulation,"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",0.195318
+Integrated coherent receiver for linear optical phase demodulation,Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,0.094752
+Integrated coherent receiver for linear optical phase demodulation,100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,0.311647
+Integrated coherent receiver for linear optical phase demodulation,25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,0.339125
+Integrated coherent receiver for linear optical phase demodulation,3D Integrated Silicon Photonic External Cavity Laser,0.077234
+Integrated coherent receiver for linear optical phase demodulation,Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,0.263116
+Integrated coherent receiver for linear optical phase demodulation,Ultra-compact integrated coherent receiver for high linearity RF photonic links,0.483693
+Integrated coherent receiver for linear optical phase demodulation,Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,0.225928
+Integrated coherent receiver for linear optical phase demodulation,Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,0.067184
+Integrated coherent receiver for linear optical phase demodulation,Smart transducer architectural organisation based on standard IEEE P1451,0.17244
+Integrated coherent receiver for linear optical phase demodulation,4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,0.242463
+Integrated coherent receiver for linear optical phase demodulation,Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,0.199404
+Integrated coherent receiver for linear optical phase demodulation,Integrated-optic electrorefraction modulators,0.195988
+Integrated coherent receiver for linear optical phase demodulation,Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,0.12902
+Integrated coherent receiver for linear optical phase demodulation,Thermal Performance of 3D Integrated Silicon Laser,0.036155
+Integrated coherent receiver for linear optical phase demodulation,Tunable 3D Integrated Hybrid Silicon Laser,0.204463
+100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",0.120159
+100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,0.407259
+100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,0.718935
+100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,0.70627
+100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,3D Integrated Silicon Photonic External Cavity Laser,0.347319
+100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,0.345649
+100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,Ultra-compact integrated coherent receiver for high linearity RF photonic links,0.494095
+100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,0.281012
+100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,0.21667
+100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,Smart transducer architectural organisation based on standard IEEE P1451,0.186664
+100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,0.96463
+100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,0.349147
+100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,Integrated-optic electrorefraction modulators,0.365698
+100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,0.346673
+100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,Thermal Performance of 3D Integrated Silicon Laser,0.34378
+100Gb/s Receiver Photonic Integrated Circuits in InP for Applications in Fiber-Optics Interconnects,Tunable 3D Integrated Hybrid Silicon Laser,0.439423
+"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,-0.015207
+"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,0.10674
+"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,0.152191
+"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",3D Integrated Silicon Photonic External Cavity Laser,-0.028041
+"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,0.074429
+"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",Ultra-compact integrated coherent receiver for high linearity RF photonic links,0.197165
+"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,0.064019
+"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,-0.005879
+"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",Smart transducer architectural organisation based on standard IEEE P1451,0.193544
+"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,0.11282
+"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,0.093837
+"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",Integrated-optic electrorefraction modulators,0.033134
+"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,0.101558
+"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",Thermal Performance of 3D Integrated Silicon Laser,-0.080491
+"A chopper-based, CMOS current sense amplifier for power management applications in mobile communications",Tunable 3D Integrated Hybrid Silicon Laser,0.059868
+Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,0.388816
+Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,0.408219
+Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,3D Integrated Silicon Photonic External Cavity Laser,0.32716
+Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,0.299529
+Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,Ultra-compact integrated coherent receiver for high linearity RF photonic links,0.350599
+Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,0.304654
+Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,0.734125
+Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,Smart transducer architectural organisation based on standard IEEE P1451,0.232952
+Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,0.433792
+Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,0.249369
+Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,Integrated-optic electrorefraction modulators,0.345776
+Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,0.682015
+Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,Thermal Performance of 3D Integrated Silicon Laser,0.371377
+Fabrication of Regular and Bi-Level Grating Fiber Couplers using Thermal Scanning Probe Lithography,Tunable 3D Integrated Hybrid Silicon Laser,0.419902
+100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,0.772688
+100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,3D Integrated Silicon Photonic External Cavity Laser,0.409962
+100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,0.390274
+100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,Ultra-compact integrated coherent receiver for high linearity RF photonic links,0.592386
+100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,0.276629
+100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,0.203744
+100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,Smart transducer architectural organisation based on standard IEEE P1451,0.164413
+100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,0.725578
+100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,0.366765
+100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,Integrated-optic electrorefraction modulators,0.363969
+100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,0.37741
+100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,Thermal Performance of 3D Integrated Silicon Laser,0.405068
+100 Gb/s Multi-Guide Vertical Integration Transmitter PIC in InP for Fiber-Optics Interconnects,Tunable 3D Integrated Hybrid Silicon Laser,0.511579
+25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,3D Integrated Silicon Photonic External Cavity Laser,0.341701
+25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,0.467775
+25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,Ultra-compact integrated coherent receiver for high linearity RF photonic links,0.545031
+25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,0.384656
+25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,0.216424
+25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,Smart transducer architectural organisation based on standard IEEE P1451,0.189724
+25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,0.716123
+25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,0.405321
+25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,Integrated-optic electrorefraction modulators,0.457613
+25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,0.374208
+25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,Thermal Performance of 3D Integrated Silicon Laser,0.347812
+25 Gbps Re-Growth-Free Externally Modulated Laser for Multi-Guide Vertical Integration in InP,Tunable 3D Integrated Hybrid Silicon Laser,0.433134
+3D Integrated Silicon Photonic External Cavity Laser,Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,0.293549
+3D Integrated Silicon Photonic External Cavity Laser,Ultra-compact integrated coherent receiver for high linearity RF photonic links,0.382047
+3D Integrated Silicon Photonic External Cavity Laser,Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,0.23809
+3D Integrated Silicon Photonic External Cavity Laser,Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,0.191086
+3D Integrated Silicon Photonic External Cavity Laser,Smart transducer architectural organisation based on standard IEEE P1451,0.078672
+3D Integrated Silicon Photonic External Cavity Laser,4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,0.323054
+3D Integrated Silicon Photonic External Cavity Laser,Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,0.257977
+3D Integrated Silicon Photonic External Cavity Laser,Integrated-optic electrorefraction modulators,0.28493
+3D Integrated Silicon Photonic External Cavity Laser,Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,0.329674
+3D Integrated Silicon Photonic External Cavity Laser,Thermal Performance of 3D Integrated Silicon Laser,0.920553
+3D Integrated Silicon Photonic External Cavity Laser,Tunable 3D Integrated Hybrid Silicon Laser,0.590177
+Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,Ultra-compact integrated coherent receiver for high linearity RF photonic links,0.458868
+Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,0.85657
+Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,0.197096
+Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,Smart transducer architectural organisation based on standard IEEE P1451,0.108535
+Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,0.329153
+Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,0.838866
+Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,Integrated-optic electrorefraction modulators,0.818246
+Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,0.290083
+Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,Thermal Performance of 3D Integrated Silicon Laser,0.297733
+Push-pull polarization conversion using novel asymmetric coupled quantum-well structures,Tunable 3D Integrated Hybrid Silicon Laser,0.438473
+Ultra-compact integrated coherent receiver for high linearity RF photonic links,Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,0.405722
+Ultra-compact integrated coherent receiver for high linearity RF photonic links,Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,0.230245
+Ultra-compact integrated coherent receiver for high linearity RF photonic links,Smart transducer architectural organisation based on standard IEEE P1451,0.201841
+Ultra-compact integrated coherent receiver for high linearity RF photonic links,4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,0.47687
+Ultra-compact integrated coherent receiver for high linearity RF photonic links,Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,0.412555
+Ultra-compact integrated coherent receiver for high linearity RF photonic links,Integrated-optic electrorefraction modulators,0.449373
+Ultra-compact integrated coherent receiver for high linearity RF photonic links,Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,0.398358
+Ultra-compact integrated coherent receiver for high linearity RF photonic links,Thermal Performance of 3D Integrated Silicon Laser,0.32685
+Ultra-compact integrated coherent receiver for high linearity RF photonic links,Tunable 3D Integrated Hybrid Silicon Laser,0.461391
+Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,0.197746
+Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,Smart transducer architectural organisation based on standard IEEE P1451,0.137424
+Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,0.262692
+Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,0.754152
+Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,Integrated-optic electrorefraction modulators,0.796799
+Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,0.270797
+Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,Thermal Performance of 3D Integrated Silicon Laser,0.236772
+Influence of layer thickness and compositional variations on the electrorefractive properties of a quantum well polarization-conversion modulator,Tunable 3D Integrated Hybrid Silicon Laser,0.392261
+Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,Smart transducer architectural organisation based on standard IEEE P1451,0.164756
+Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,0.212824
+Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,0.180892
+Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,Integrated-optic electrorefraction modulators,0.269673
+Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,0.67409
+Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,Thermal Performance of 3D Integrated Silicon Laser,0.238042
+Nano-patterning of single- and bi-level surface-relief gratings using a commercial thermal scanning probe lithography system,Tunable 3D Integrated Hybrid Silicon Laser,0.309358
+Smart transducer architectural organisation based on standard IEEE P1451,4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,0.210924
+Smart transducer architectural organisation based on standard IEEE P1451,Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,0.111816
+Smart transducer architectural organisation based on standard IEEE P1451,Integrated-optic electrorefraction modulators,0.120143
+Smart transducer architectural organisation based on standard IEEE P1451,Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,0.232179
+Smart transducer architectural organisation based on standard IEEE P1451,Thermal Performance of 3D Integrated Silicon Laser,0.083802
+Smart transducer architectural organisation based on standard IEEE P1451,Tunable 3D Integrated Hybrid Silicon Laser,0.157598
+4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,0.31806
+4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,Integrated-optic electrorefraction modulators,0.333769
+4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,0.34777
+4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,Thermal Performance of 3D Integrated Silicon Laser,0.322134
+4 × 25 GB/s Receiver Photonic Integrated Circuits in InP for Applications in Data Center Interconnects,Tunable 3D Integrated Hybrid Silicon Laser,0.401902
+Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,Integrated-optic electrorefraction modulators,0.808912
+Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,0.297748
+Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,Thermal Performance of 3D Integrated Silicon Laser,0.266147
+Improved Push–Pull Polarization Modulation Using Coupled Quantum-Well Structures,Tunable 3D Integrated Hybrid Silicon Laser,0.401775
+Integrated-optic electrorefraction modulators,Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,0.343488
+Integrated-optic electrorefraction modulators,Thermal Performance of 3D Integrated Silicon Laser,0.288713
+Integrated-optic electrorefraction modulators,Tunable 3D Integrated Hybrid Silicon Laser,0.41347
+Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,Thermal Performance of 3D Integrated Silicon Laser,0.415486
+Integrated Photonics Fabrication using Thermal Scanning Probe Lithography,Tunable 3D Integrated Hybrid Silicon Laser,0.413296
+Thermal Performance of 3D Integrated Silicon Laser,Tunable 3D Integrated Hybrid Silicon Laser,0.592319

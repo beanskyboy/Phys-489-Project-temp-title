@@ -1,0 +1,16 @@
+title_i,title_j,cosine_similarity
+MIST: A multi-resolution parcellation of functional brain networks,A Standardized Protocol for Efficient and Reliable Quality Control of Brain Registration in Functional MRI Studies,0.524546
+MIST: A multi-resolution parcellation of functional brain networks,MIST: A multi-resolution parcellation of functional networks,0.914365
+MIST: A multi-resolution parcellation of functional brain networks,Hayford’s Duplicates: Cobbling a Model of Melville’s Moby-Dick,0.092456
+MIST: A multi-resolution parcellation of functional brain networks,Neurobagel CLI: Command line tool for Neurobagel data parsing and annotation,0.373319
+MIST: A multi-resolution parcellation of functional brain networks,neurobagel_api,0.252933
+A Standardized Protocol for Efficient and Reliable Quality Control of Brain Registration in Functional MRI Studies,MIST: A multi-resolution parcellation of functional networks,0.494123
+A Standardized Protocol for Efficient and Reliable Quality Control of Brain Registration in Functional MRI Studies,Hayford’s Duplicates: Cobbling a Model of Melville’s Moby-Dick,0.081954
+A Standardized Protocol for Efficient and Reliable Quality Control of Brain Registration in Functional MRI Studies,Neurobagel CLI: Command line tool for Neurobagel data parsing and annotation,0.353856
+A Standardized Protocol for Efficient and Reliable Quality Control of Brain Registration in Functional MRI Studies,neurobagel_api,0.255446
+MIST: A multi-resolution parcellation of functional networks,Hayford’s Duplicates: Cobbling a Model of Melville’s Moby-Dick,0.104653
+MIST: A multi-resolution parcellation of functional networks,Neurobagel CLI: Command line tool for Neurobagel data parsing and annotation,0.359335
+MIST: A multi-resolution parcellation of functional networks,neurobagel_api,0.222366
+Hayford’s Duplicates: Cobbling a Model of Melville’s Moby-Dick,Neurobagel CLI: Command line tool for Neurobagel data parsing and annotation,0.177057
+Hayford’s Duplicates: Cobbling a Model of Melville’s Moby-Dick,neurobagel_api,0.108265
+Neurobagel CLI: Command line tool for Neurobagel data parsing and annotation,neurobagel_api,0.678902

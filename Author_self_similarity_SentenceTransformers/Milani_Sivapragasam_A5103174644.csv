@@ -1,0 +1,11 @@
+title_i,title_j,cosine_similarity
+Medical students are not blank slates: Positionality and curriculum interact to develop professional identity,Basic science in integrated curricula: A medical student experience,1.0
+Medical students are not blank slates: Positionality and curriculum interact to develop professional identity,MD/PhD Training in Canada: Results from a national trainee and program director review,0.00968
+Medical students are not blank slates: Positionality and curriculum interact to develop professional identity,The Integration of Clinical and Research Training: How and Why MD–PhD Programs Work,-0.001389
+Medical students are not blank slates: Positionality and curriculum interact to develop professional identity,A Case of <i>Brevibacillus brevis</i> Meningitis and Bacteremia,-0.08241
+Basic science in integrated curricula: A medical student experience,MD/PhD Training in Canada: Results from a national trainee and program director review,0.00968
+Basic science in integrated curricula: A medical student experience,The Integration of Clinical and Research Training: How and Why MD–PhD Programs Work,-0.001389
+Basic science in integrated curricula: A medical student experience,A Case of <i>Brevibacillus brevis</i> Meningitis and Bacteremia,-0.08241
+MD/PhD Training in Canada: Results from a national trainee and program director review,The Integration of Clinical and Research Training: How and Why MD–PhD Programs Work,0.731304
+MD/PhD Training in Canada: Results from a national trainee and program director review,A Case of <i>Brevibacillus brevis</i> Meningitis and Bacteremia,0.087348
+The Integration of Clinical and Research Training: How and Why MD–PhD Programs Work,A Case of <i>Brevibacillus brevis</i> Meningitis and Bacteremia,0.085754

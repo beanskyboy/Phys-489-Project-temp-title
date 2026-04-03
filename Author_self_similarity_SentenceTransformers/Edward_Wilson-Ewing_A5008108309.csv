@@ -1,1379 +1,862 @@
-abstract_i,abstract_j,cosine_similarity
-0,1,0.054091
-0,2,0.470348
-0,3,0.43293
-0,4,0.676401
-0,5,0.609642
-0,6,0.617629
-0,7,0.253581
-0,8,0.413539
-0,9,0.433648
-0,10,0.510731
-0,11,0.585601
-0,12,0.651711
-0,13,0.521751
-0,14,0.660939
-0,15,0.421586
-0,16,0.495875
-0,17,0.509218
-0,18,0.329604
-0,19,0.647452
-0,20,0.23568
-0,21,0.485263
-0,22,0.236676
-0,23,0.502894
-0,24,0.497164
-0,25,0.6959
-0,26,0.594658
-0,27,0.407763
-0,28,0.585982
-0,29,0.601503
-0,30,0.564736
-0,31,0.263372
-0,32,0.342624
-0,33,0.585059
-0,34,0.465512
-0,35,0.398257
-0,36,0.559883
-0,37,0.371468
-0,38,0.460349
-0,39,0.427296
-0,40,0.670413
-0,41,0.495102
-0,42,0.431036
-0,43,0.658697
-0,44,0.521625
-0,45,0.482044
-0,46,0.496824
-0,47,0.490303
-0,48,0.337131
-0,49,0.718072
-0,50,0.998949
-0,51,0.608821
-0,52,0.290999
-1,2,0.051438
-1,3,0.106462
-1,4,0.053316
-1,5,0.096898
-1,6,0.109678
-1,7,0.054023
-1,8,0.065265
-1,9,0.071179
-1,10,0.074352
-1,11,0.104079
-1,12,0.079621
-1,13,0.081517
-1,14,0.078119
-1,15,0.077152
-1,16,0.018196
-1,17,0.05737
-1,18,-0.008441
-1,19,0.091909
-1,20,0.010244
-1,21,0.004493
-1,22,0.015292
-1,23,0.034132
-1,24,0.041827
-1,25,0.101329
-1,26,0.06522
-1,27,0.126791
-1,28,0.06203
-1,29,0.062252
-1,30,0.027865
-1,31,0.049148
-1,32,0.012643
-1,33,0.072211
-1,34,0.038343
-1,35,0.016305
-1,36,0.070076
-1,37,0.000948
-1,38,0.006581
-1,39,0.072825
-1,40,0.062425
-1,41,0.038061
-1,42,0.067499
-1,43,0.092502
-1,44,0.052934
-1,45,0.046995
-1,46,0.105233
-1,47,0.102649
-1,48,0.034418
-1,49,0.067268
-1,50,0.059409
-1,51,0.090232
-1,52,0.028826
-2,3,0.627323
-2,4,0.584961
-2,5,0.596438
-2,6,0.636523
-2,7,0.263141
-2,8,0.442997
-2,9,0.571507
-2,10,0.582295
-2,11,0.684605
-2,12,0.474661
-2,13,0.619567
-2,14,0.582814
-2,15,0.429562
-2,16,0.650575
-2,17,0.628796
-2,18,0.552094
-2,19,0.503611
-2,20,0.559746
-2,21,0.623227
-2,22,0.562508
-2,23,0.433007
-2,24,0.49815
-2,25,0.586745
-2,26,0.494727
-2,27,0.519152
-2,28,0.651406
-2,29,0.694416
-2,30,0.613221
-2,31,0.260788
-2,32,0.5319
-2,33,0.496331
-2,34,0.563003
-2,35,0.594838
-2,36,0.595803
-2,37,0.743359
-2,38,0.667222
-2,39,0.455438
-2,40,0.572173
-2,41,0.497938
-2,42,0.568838
-2,43,0.60439
-2,44,0.452056
-2,45,0.596585
-2,46,0.538733
-2,47,0.53819
-2,48,0.544532
-2,49,0.503779
-2,50,0.470611
-2,51,0.599519
-2,52,0.496178
-3,4,0.509564
-3,5,0.634212
-3,6,0.664546
-3,7,0.332153
-3,8,0.553827
-3,9,0.651056
-3,10,0.599844
-3,11,0.695208
-3,12,0.541236
-3,13,0.625362
-3,14,0.580401
-3,15,0.469893
-3,16,0.508848
-3,17,0.621316
-3,18,0.44775
-3,19,0.490755
-3,20,0.3661
-3,21,0.616507
-3,22,0.366199
-3,23,0.417372
-3,24,0.498802
-3,25,0.581341
-3,26,0.548511
-3,27,0.529974
-3,28,0.663459
-3,29,0.679699
-3,30,0.637025
-3,31,0.326253
-3,32,0.48759
-3,33,0.545552
-3,34,0.554777
-3,35,0.610088
-3,36,0.595964
-3,37,0.503784
-3,38,0.596646
-3,39,0.555073
-3,40,0.512057
-3,41,0.497378
-3,42,0.647689
-3,43,0.702787
-3,44,0.434566
-3,45,0.58878
-3,46,0.605587
-3,47,0.605746
-3,48,0.594402
-3,49,0.513549
-3,50,0.434554
-3,51,0.639671
-3,52,0.526686
-4,5,0.622513
-4,6,0.619971
-4,7,0.257636
-4,8,0.428184
-4,9,0.516229
-4,10,0.588414
-4,11,0.671071
-4,12,0.634861
-4,13,0.587428
-4,14,0.654213
-4,15,0.453962
-4,16,0.551819
-4,17,0.670562
-4,18,0.333516
-4,19,0.569485
-4,20,0.286491
-4,21,0.534674
-4,22,0.291149
-4,23,0.584925
-4,24,0.640163
-4,25,0.685909
-4,26,0.547531
-4,27,0.492429
-4,28,0.586671
-4,29,0.679697
-4,30,0.560739
-4,31,0.252642
-4,32,0.390023
-4,33,0.546757
-4,34,0.534183
-4,35,0.479578
-4,36,0.514992
-4,37,0.489994
-4,38,0.541353
-4,39,0.431888
-4,40,0.786214
-4,41,0.635528
-4,42,0.51307
-4,43,0.620186
-4,44,0.597391
-4,45,0.498049
-4,46,0.557848
-4,47,0.558029
-4,48,0.362217
-4,49,0.664705
-4,50,0.678879
-4,51,0.621278
-4,52,0.350466
-5,6,0.835301
-5,7,0.307245
-5,8,0.71434
-5,9,0.669583
-5,10,0.719684
-5,11,0.770831
-5,12,0.717742
-5,13,0.674373
-5,14,0.723061
-5,15,0.502501
-5,16,0.593854
-5,17,0.683527
-5,18,0.393709
-5,19,0.641524
-5,20,0.259508
-5,21,0.617251
-5,22,0.257338
-5,23,0.501226
-5,24,0.513303
-5,25,0.80253
-5,26,0.740633
-5,27,0.667188
-5,28,0.717043
-5,29,0.7395
-5,30,0.70729
-5,31,0.312224
-5,32,0.511079
-5,33,0.735926
-5,34,0.595348
-5,35,0.560912
-5,36,0.692843
-5,37,0.534203
-5,38,0.645954
-5,39,0.726437
-5,40,0.70533
-5,41,0.510868
-5,42,0.667678
-5,43,0.751412
-5,44,0.50762
-5,45,0.665463
-5,46,0.779806
-5,47,0.776224
-5,48,0.516286
-5,49,0.687927
-5,50,0.604742
-5,51,0.998429
-5,52,0.475028
-6,7,0.315912
-6,8,0.596091
-6,9,0.661549
-6,10,0.775402
-6,11,0.841186
-6,12,0.794672
-6,13,0.69584
-6,14,0.786608
-6,15,0.448595
-6,16,0.553517
-6,17,0.722573
-6,18,0.406463
-6,19,0.662584
-6,20,0.323521
-6,21,0.69608
-6,22,0.322965
-6,23,0.471973
-6,24,0.484371
-6,25,0.862699
-6,26,0.734971
-6,27,0.614295
-6,28,0.778563
-6,29,0.818189
-6,30,0.770333
-6,31,0.317412
-6,32,0.523722
-6,33,0.750843
-6,34,0.641565
-6,35,0.549546
-6,36,0.719717
-6,37,0.537434
-6,38,0.70443
-6,39,0.596947
-6,40,0.750236
-6,41,0.482194
-6,42,0.656976
-6,43,0.893417
-6,44,0.477777
-6,45,0.696779
-6,46,0.69893
-6,47,0.701705
-6,48,0.564464
-6,49,0.684767
-6,50,0.615807
-6,51,0.836185
-6,52,0.445682
-7,8,0.324722
-7,9,0.323547
-7,10,0.392766
-7,11,0.355926
-7,12,0.313251
-7,13,0.362125
-7,14,0.32403
-7,15,0.268041
-7,16,0.335435
-7,17,0.334751
-7,18,0.287015
-7,19,0.212504
-7,20,0.205328
-7,21,0.361952
-7,22,0.210488
-7,23,0.194467
-7,24,0.246521
-7,25,0.346986
-7,26,0.386442
-7,27,0.377616
-7,28,0.315784
-7,29,0.352243
-7,30,0.35397
-7,31,0.949933
-7,32,0.330156
-7,33,0.393851
-7,34,0.392949
-7,35,0.356049
-7,36,0.330927
-7,37,0.269088
-7,38,0.312053
-7,39,0.327123
-7,40,0.291902
-7,41,0.245837
-7,42,0.318165
-7,43,0.316989
-7,44,0.203518
-7,45,0.307167
-7,46,0.330927
-7,47,0.324309
-7,48,0.408903
-7,49,0.284976
-7,50,0.257344
-7,51,0.306499
-7,52,0.395201
-8,9,0.694246
-8,10,0.636158
-8,11,0.549415
-8,12,0.570311
-8,13,0.581679
-8,14,0.533161
-8,15,0.714585
-8,16,0.569773
-8,17,0.515548
-8,18,0.359564
-8,19,0.466933
-8,20,0.250179
-8,21,0.463801
-8,22,0.250661
-8,23,0.435849
-8,24,0.523902
-8,25,0.606893
-8,26,0.548678
-8,27,0.76411
-8,28,0.59138
-8,29,0.531067
-8,30,0.558627
-8,31,0.316695
-8,32,0.446889
-8,33,0.552476
-8,34,0.490329
-8,35,0.525566
-8,36,0.56593
-8,37,0.473383
-8,38,0.498829
-8,39,0.990489
-8,40,0.515103
-8,41,0.525202
-8,42,0.693892
-8,43,0.516819
-8,44,0.452795
-8,45,0.554575
-8,46,0.843156
-8,47,0.851419
-8,48,0.474081
-8,49,0.501917
-8,50,0.414167
-8,51,0.713735
-8,52,0.523633
-9,10,0.660438
-9,11,0.59538
-9,12,0.523268
-9,13,0.701871
-9,14,0.600928
-9,15,0.61765
-9,16,0.661643
-9,17,0.571126
-9,18,0.44045
-9,19,0.519323
-9,20,0.361836
-9,21,0.613839
-9,22,0.362644
-9,23,0.477429
-9,24,0.589007
-9,25,0.58577
-9,26,0.579262
-9,27,0.662676
-9,28,0.691187
-9,29,0.603187
-9,30,0.639918
-9,31,0.32082
-9,32,0.514515
-9,33,0.591518
-9,34,0.625957
-9,35,0.673387
-9,36,0.65725
-9,37,0.563136
-9,38,0.658292
-9,39,0.70413
-9,40,0.60419
-9,41,0.586823
-9,42,0.998371
-9,43,0.625268
-9,44,0.490018
-9,45,0.656764
-9,46,0.72691
-9,47,0.72185
-9,48,0.589424
-9,49,0.518909
-9,50,0.433634
-9,51,0.674603
-9,52,0.616528
-10,11,0.727137
-10,12,0.702222
-10,13,0.674009
-10,14,0.720468
-10,15,0.495175
-10,16,0.59256
-10,17,0.694659
-10,18,0.446109
-10,19,0.570578
-10,20,0.338567
-10,21,0.675745
-10,22,0.340855
-10,23,0.398799
-10,24,0.498725
-10,25,0.729788
-10,26,0.657295
-10,27,0.637008
-10,28,0.709165
-10,29,0.727776
-10,30,0.6824
-10,31,0.38673
-10,32,0.537537
-10,33,0.675888
-10,34,0.631855
-10,35,0.556008
-10,36,0.665132
-10,37,0.602666
-10,38,0.731015
-10,39,0.623638
-10,40,0.698334
-10,41,0.497042
-10,42,0.651534
-10,43,0.727585
-10,44,0.412574
-10,45,0.627504
-10,46,0.722832
-10,47,0.735296
-10,48,0.519869
-10,49,0.617601
-10,50,0.510445
-10,51,0.722061
-10,52,0.488723
-11,12,0.81637
-11,13,0.604805
-11,14,0.734042
-11,15,0.394777
-11,16,0.574496
-11,17,0.739221
-11,18,0.419408
-11,19,0.561063
-11,20,0.339158
-11,21,0.611646
-11,22,0.335269
-11,23,0.496903
-11,24,0.563263
-11,25,0.8221
-11,26,0.702726
-11,27,0.585954
-11,28,0.664954
-11,29,0.950768
-11,30,0.716386
-11,31,0.356607
-11,32,0.436668
-11,33,0.7101
-11,34,0.588976
-11,35,0.509566
-11,36,0.586822
-11,37,0.520024
-11,38,0.61312
-11,39,0.550199
-11,40,0.720396
-11,41,0.560784
-11,42,0.589749
-11,43,0.834226
-11,44,0.504739
-11,45,0.616151
-11,46,0.628819
-11,47,0.632124
-11,48,0.499365
-11,49,0.690347
-11,50,0.58365
-11,51,0.768675
-11,52,0.384652
-12,13,0.543137
-12,14,0.740791
-12,15,0.427971
-12,16,0.499415
-12,17,0.655502
-12,18,0.325874
-12,19,0.570413
-12,20,0.221602
-12,21,0.517423
-12,22,0.215959
-12,23,0.450222
-12,24,0.500488
-12,25,0.865126
-12,26,0.687899
-12,27,0.541331
-12,28,0.564286
-12,29,0.776304
-12,30,0.655574
-12,31,0.324555
-12,32,0.357304
-12,33,0.701678
-12,34,0.500877
-12,35,0.42297
-12,36,0.51027
-12,37,0.411556
-12,38,0.53996
-12,39,0.568836
-12,40,0.731917
-12,41,0.496654
-12,42,0.519701
-12,43,0.768023
-12,44,0.458361
-12,45,0.515233
-12,46,0.648321
-12,47,0.651572
-12,48,0.404178
-12,49,0.704748
-12,50,0.647922
-12,51,0.714769
-12,52,0.27498
-13,14,0.653852
-13,15,0.516167
-13,16,0.649057
-13,17,0.686405
-13,18,0.45308
-13,19,0.575183
-13,20,0.410168
-13,21,0.739698
-13,22,0.415534
-13,23,0.449452
-13,24,0.515025
-13,25,0.597954
-13,26,0.545016
-13,27,0.566569
-13,28,0.733561
-13,29,0.626539
-13,30,0.615187
-13,31,0.340492
-13,32,0.504766
-13,33,0.555523
-13,34,0.604939
-13,35,0.671579
-13,36,0.672041
-13,37,0.570269
-13,38,0.683501
-13,39,0.586764
-13,40,0.635324
-13,41,0.513931
-13,42,0.702416
-13,43,0.669055
-13,44,0.471919
-13,45,0.647559
-13,46,0.701867
-13,47,0.701121
-13,48,0.578652
-13,49,0.553243
-13,50,0.52512
-13,51,0.677821
-13,52,0.5982
-14,15,0.464077
-14,16,0.563537
-14,17,0.64724
-14,18,0.435042
-14,19,0.672869
-14,20,0.303745
-14,21,0.658575
-14,22,0.302502
-14,23,0.453153
-14,24,0.539492
-14,25,0.763174
-14,26,0.712921
-14,27,0.558166
-14,28,0.707131
-14,29,0.745954
-14,30,0.689972
-14,31,0.346616
-14,32,0.492892
-14,33,0.727609
-14,34,0.608799
-14,35,0.513887
-14,36,0.671582
-14,37,0.547517
-14,38,0.664883
-14,39,0.541592
-14,40,0.776542
-14,41,0.536603
-14,42,0.596654
-14,43,0.811482
-14,44,0.455718
-14,45,0.633482
-14,46,0.649865
-14,47,0.646085
-14,48,0.516537
-14,49,0.757037
-14,50,0.657198
-14,51,0.726366
-14,52,0.433932
-15,16,0.551749
-15,17,0.397812
-15,18,0.326136
-15,19,0.532413
-15,20,0.244011
-15,21,0.346123
-15,22,0.243545
-15,23,0.41028
-15,24,0.476263
-15,25,0.549261
-15,26,0.441893
-15,27,0.71119
-15,28,0.495519
-15,29,0.40939
-15,30,0.483269
-15,31,0.251821
-15,32,0.442911
-15,33,0.434149
-15,34,0.451852
-15,35,0.510623
-15,36,0.49427
-15,37,0.516686
-15,38,0.469254
-15,39,0.723548
-15,40,0.468693
-15,41,0.472722
-15,42,0.624483
-15,43,0.392641
-15,44,0.423634
-15,45,0.51656
-15,46,0.77048
-15,47,0.762925
-15,48,0.344658
-15,49,0.512954
-15,50,0.421188
-15,51,0.505941
-15,52,0.501096
-16,17,0.535709
-16,18,0.564303
-16,19,0.499238
-16,20,0.399859
-16,21,0.548901
-16,22,0.40189
-16,23,0.47907
-16,24,0.551524
-16,25,0.54374
-16,26,0.516641
-16,27,0.573104
-16,28,0.623293
-16,29,0.59684
-16,30,0.566376
-16,31,0.303355
-16,32,0.462994
-16,33,0.52734
-16,34,0.56099
-16,35,0.578457
-16,36,0.579199
-16,37,0.697699
-16,38,0.607518
-16,39,0.572566
-16,40,0.586275
-16,41,0.552322
-16,42,0.663026
-16,43,0.525465
-16,44,0.496777
-16,45,0.608335
-16,46,0.625759
-16,47,0.628952
-16,48,0.489852
-16,49,0.585089
-16,50,0.495881
-16,51,0.594438
-16,52,0.611991
-17,18,0.404269
-17,19,0.523293
-17,20,0.405903
-17,21,0.694576
-17,22,0.409667
-17,23,0.364069
-17,24,0.424729
-17,25,0.684255
-17,26,0.633524
-17,27,0.557516
-17,28,0.681741
-17,29,0.732081
-17,30,0.668851
-17,31,0.325393
-17,32,0.512626
-17,33,0.637348
-17,34,0.637137
-17,35,0.538139
-17,36,0.608878
-17,37,0.530379
-17,38,0.640164
-17,39,0.525374
-17,40,0.620687
-17,41,0.423936
-17,42,0.564874
-17,43,0.721449
-17,44,0.382871
-17,45,0.599787
-17,46,0.620443
-17,47,0.612589
-17,48,0.511247
-17,49,0.538636
-17,50,0.509625
-17,51,0.679454
-17,52,0.409352
-18,19,0.333349
-18,20,0.547196
-18,21,0.523956
-18,22,0.546955
-18,23,0.302261
-18,24,0.389736
-18,25,0.360557
-18,26,0.372172
-18,27,0.379511
-18,28,0.544434
-18,29,0.457239
-18,30,0.477966
-18,31,0.273959
-18,32,0.49436
-18,33,0.383135
-18,34,0.517294
-18,35,0.502802
-18,36,0.475225
-18,37,0.662548
-18,38,0.538858
-18,39,0.369162
-18,40,0.366228
-18,41,0.38979
-18,42,0.429434
-18,43,0.41396
-18,44,0.317687
-18,45,0.477087
-18,46,0.38903
-18,47,0.3873
-18,48,0.531529
-18,49,0.347672
-18,50,0.331444
-18,51,0.393631
-18,52,0.573481
-19,20,0.216914
-19,21,0.505489
-19,22,0.215789
-19,23,0.482541
-19,24,0.490957
-19,25,0.630505
-19,26,0.531641
-19,27,0.498384
-19,28,0.593206
-19,29,0.559407
-19,30,0.537918
-19,31,0.231203
-19,32,0.4081
-19,33,0.530971
-19,34,0.468804
-19,35,0.457912
-19,36,0.594076
-19,37,0.4555
-19,38,0.54054
-19,39,0.473146
-19,40,0.662084
-19,41,0.489802
-19,42,0.519844
-19,43,0.653578
-19,44,0.487967
-19,45,0.543963
-19,46,0.585513
-19,47,0.584202
-19,48,0.356711
-19,49,0.63029
-19,50,0.643446
-19,51,0.644453
-19,52,0.394892
-20,21,0.4312
-20,22,0.996086
-20,23,0.239749
-20,24,0.265795
-20,25,0.294772
-20,26,0.204441
-20,27,0.320841
-20,28,0.370424
-20,29,0.362813
-20,30,0.318055
-20,31,0.218165
-20,32,0.429179
-20,33,0.191823
-20,34,0.390713
-20,35,0.365871
-20,36,0.290064
-20,37,0.612771
-20,38,0.442147
-20,39,0.261263
-20,40,0.277225
-20,41,0.266848
-20,42,0.352372
-20,43,0.327783
-20,44,0.265464
-20,45,0.278551
-20,46,0.278218
-20,47,0.2713
-20,48,0.459669
-20,49,0.242237
-20,50,0.240429
-20,51,0.260503
-20,52,0.343044
-21,22,0.433905
-21,23,0.367846
-21,24,0.428513
-21,25,0.570827
-21,26,0.647282
-21,27,0.558071
-21,28,0.814813
-21,29,0.665887
-21,30,0.68
-21,31,0.347479
-21,32,0.683164
-21,33,0.663624
-21,34,0.719949
-21,35,0.687163
-21,36,0.779694
-21,37,0.569288
-21,38,0.827875
-21,39,0.467986
-21,40,0.616118
-21,41,0.427048
-21,42,0.609688
-21,43,0.696773
-21,44,0.38058
-21,45,0.725416
-21,46,0.5915
-21,47,0.590839
-21,48,0.617958
-21,49,0.438186
-21,50,0.485458
-21,51,0.625629
-21,52,0.566432
-22,23,0.241002
-22,24,0.267722
-22,25,0.294764
-22,26,0.202895
-22,27,0.316087
-22,28,0.371469
-22,29,0.358632
-22,30,0.319477
-22,31,0.217102
-22,32,0.429035
-22,33,0.191908
-22,34,0.392287
-22,35,0.365467
-22,36,0.292287
-22,37,0.61129
-22,38,0.440801
-22,39,0.260097
-22,40,0.279224
-22,41,0.268495
-22,42,0.352705
-22,43,0.325024
-22,44,0.267951
-22,45,0.278882
-22,46,0.27885
-22,47,0.27283
-22,48,0.46218
-22,49,0.243761
-22,50,0.242176
-22,51,0.257827
-22,52,0.345599
-23,24,0.807132
-23,25,0.504863
-23,26,0.427283
-23,27,0.414253
-23,28,0.455647
-23,29,0.509502
-23,30,0.424946
-23,31,0.210216
-23,32,0.315918
-23,33,0.416503
-23,34,0.348882
-23,35,0.433048
-23,36,0.421536
-23,37,0.36111
-23,38,0.391086
-23,39,0.437639
-23,40,0.650176
-23,41,0.808479
-23,42,0.480945
-23,43,0.447234
-23,44,0.992115
-23,45,0.448261
-23,46,0.46478
-23,47,0.463435
-23,48,0.306168
-23,49,0.567281
-23,50,0.50868
-23,51,0.504111
-23,52,0.356982
-24,25,0.540914
-24,26,0.461861
-24,27,0.453105
-24,28,0.512992
-24,29,0.572201
-24,30,0.451854
-24,31,0.259708
-24,32,0.350454
-24,33,0.462795
-24,34,0.412411
-24,35,0.517395
-24,36,0.47931
-24,37,0.454061
-24,38,0.436038
-24,39,0.527188
-24,40,0.71702
-24,41,0.997769
-24,42,0.589062
-24,43,0.478327
-24,44,0.808793
-24,45,0.501984
-24,46,0.525277
-24,47,0.525276
-24,48,0.383249
-24,49,0.582286
-24,50,0.500793
-24,51,0.512576
-24,52,0.468174
-25,26,0.705724
-25,27,0.623772
-25,28,0.657566
-25,29,0.782935
-25,30,0.695194
-25,31,0.341097
-25,32,0.474046
-25,33,0.714348
-25,34,0.579308
-25,35,0.494795
-25,36,0.608078
-25,37,0.496954
-25,38,0.618495
-25,39,0.609792
-25,40,0.776305
-25,41,0.535447
-25,42,0.580979
-25,43,0.819497
-25,44,0.509503
-25,45,0.622453
-25,46,0.688827
-25,47,0.690743
-25,48,0.447828
-25,49,0.760152
-25,50,0.692124
-25,51,0.799942
-25,52,0.378626
-26,27,0.612873
-26,28,0.716145
-26,29,0.700685
-26,30,0.847965
-26,31,0.380666
-26,32,0.531824
-26,33,0.98585
-26,34,0.668401
-26,35,0.507763
-26,36,0.755571
-26,37,0.435247
-26,38,0.602033
-26,39,0.557894
-26,40,0.630109
-26,41,0.459975
-26,42,0.576562
-26,43,0.672439
-26,44,0.420923
-26,45,0.71813
-26,46,0.645601
-26,47,0.641843
-26,48,0.535916
-26,49,0.602929
-26,50,0.588873
-26,51,0.742137
-26,52,0.450322
-27,28,0.624959
-27,29,0.575048
-27,30,0.587182
-27,31,0.37045
-27,32,0.581605
-27,33,0.61393
-27,34,0.612871
-27,35,0.538476
-27,36,0.599248
-27,37,0.539917
-27,38,0.602286
-27,39,0.751627
-27,40,0.534566
-27,41,0.451643
-27,42,0.658204
-27,43,0.539298
-27,44,0.429193
-27,45,0.630541
-27,46,0.771326
-27,47,0.783789
-27,48,0.466597
-27,49,0.481536
-27,50,0.409313
-27,51,0.668279
-27,52,0.547365
-28,29,0.695608
-28,30,0.790183
-28,31,0.302063
-28,32,0.723184
-28,33,0.729431
-28,34,0.761958
-28,35,0.658763
-28,36,0.915329
-28,37,0.619641
-28,38,0.784098
-28,39,0.600557
-28,40,0.645719
-28,41,0.512631
-28,42,0.68718
-28,43,0.729756
-28,44,0.46583
-28,45,0.842835
-28,46,0.692624
-28,47,0.689011
-28,48,0.592436
-28,49,0.553661
-28,50,0.58545
-28,51,0.722565
-28,52,0.611028
-29,30,0.721115
-29,31,0.347357
-29,32,0.468915
-29,33,0.694792
-29,34,0.618158
-29,35,0.56919
-29,36,0.612855
-29,37,0.562777
-29,38,0.650974
-29,39,0.536937
-29,40,0.739888
-29,41,0.571986
-29,42,0.597174
-29,43,0.818694
-29,44,0.518751
-29,45,0.641802
-29,46,0.622097
-29,47,0.621035
-29,48,0.517784
-29,49,0.664974
-29,50,0.600868
-29,51,0.740277
-29,52,0.434132
-30,31,0.33055
-30,32,0.618084
-30,33,0.857557
-30,34,0.721201
-30,35,0.591157
-30,36,0.77772
-30,37,0.58626
-30,38,0.693712
-30,39,0.57067
-30,40,0.604543
-30,41,0.450753
-30,42,0.637075
-30,43,0.720932
-30,44,0.424649
-30,45,0.757288
-30,46,0.640465
-30,47,0.636363
-30,48,0.587557
-30,49,0.587206
-30,50,0.561244
-30,51,0.710963
-30,52,0.539859
-31,32,0.294251
-31,33,0.38072
-31,34,0.343677
-31,35,0.370464
-31,36,0.321832
-31,37,0.24899
-31,38,0.309457
-31,39,0.319166
-31,40,0.293611
-31,41,0.258566
-31,42,0.315922
-31,43,0.317468
-31,44,0.216504
-31,45,0.285312
-31,46,0.32654
-31,47,0.319692
-31,48,0.403176
-31,49,0.286715
-31,50,0.26676
-31,51,0.313683
-31,52,0.376317
-32,33,0.541282
-32,34,0.741507
-32,35,0.518467
-32,36,0.720115
-32,37,0.635912
-32,38,0.768207
-32,39,0.452189
-32,40,0.420103
-32,41,0.350088
-32,42,0.507833
-32,43,0.485519
-32,44,0.328168
-32,45,0.775592
-32,46,0.484311
-32,47,0.484004
-32,48,0.475318
-32,49,0.360595
-32,50,0.341803
-32,51,0.514351
-32,52,0.495408
-33,34,0.679435
-33,35,0.507697
-33,36,0.761672
-33,37,0.434272
-33,38,0.619124
-33,39,0.561846
-33,40,0.635463
-33,41,0.459236
-33,42,0.587055
-33,43,0.695384
-33,44,0.411691
-33,45,0.731805
-33,46,0.647546
-33,47,0.643934
-33,48,0.543623
-33,49,0.605766
-33,50,0.579824
-33,51,0.73561
-33,52,0.453812
-34,35,0.540479
-34,36,0.752204
-34,37,0.58996
-34,38,0.693532
-34,39,0.493715
-34,40,0.53263
-34,41,0.413057
-34,42,0.615352
-34,43,0.645616
-34,44,0.357559
-34,45,0.792013
-34,46,0.56619
-34,47,0.565706
-34,48,0.516289
-34,49,0.466658
-34,50,0.465419
-34,51,0.595968
-34,52,0.526112
-35,36,0.609549
-35,37,0.564082
-35,38,0.699977
-35,39,0.535532
-35,40,0.528256
-35,41,0.516066
-35,42,0.670889
-35,43,0.53242
-35,44,0.45429
-35,45,0.615372
-35,46,0.619542
-35,47,0.617108
-35,48,0.634966
-35,49,0.42947
-35,50,0.399867
-35,51,0.567642
-35,52,0.699704
-36,37,0.561562
-36,38,0.718311
-36,39,0.575426
-36,40,0.616808
-36,41,0.47845
-36,42,0.655025
-36,43,0.648345
-36,44,0.42337
-36,45,0.844612
-36,46,0.657957
-36,47,0.655063
-36,48,0.560307
-36,49,0.523228
-36,50,0.55715
-36,51,0.69768
-36,52,0.582104
-37,38,0.69533
-37,39,0.486268
-37,40,0.491935
-37,41,0.45876
-37,42,0.5578
-37,43,0.48715
-37,44,0.379264
-37,45,0.59524
-37,46,0.54808
-37,47,0.546507
-37,48,0.518351
-37,49,0.48039
-37,50,0.369194
-37,51,0.538464
-37,52,0.55308
-38,39,0.503984
-38,40,0.631568
-38,41,0.434195
-38,42,0.654171
-38,43,0.661925
-38,44,0.399011
-38,45,0.733697
-38,46,0.648119
-38,47,0.649886
-38,48,0.623463
-38,49,0.499264
-38,50,0.456117
-38,51,0.654434
-38,52,0.608187
-39,40,0.516686
-39,41,0.529019
-39,42,0.70375
-39,43,0.522298
-39,44,0.455078
-39,45,0.558949
-39,46,0.851965
-39,47,0.84761
-39,48,0.482966
-39,49,0.505403
-39,50,0.427613
-39,51,0.725417
-39,52,0.536539
-40,41,0.713793
-40,42,0.602842
-40,43,0.709533
-40,44,0.654903
-40,45,0.57995
-40,46,0.627242
-40,47,0.628493
-40,48,0.473818
-40,49,0.722051
-40,50,0.671045
-40,51,0.707809
-40,52,0.419267
-41,42,0.58688
-41,43,0.475517
-41,44,0.810909
-41,45,0.500079
-41,46,0.523539
-41,47,0.523156
-41,48,0.382446
-41,49,0.576718
-41,50,0.498818
-41,51,0.51009
-41,52,0.475026
-42,43,0.621064
-42,44,0.491756
-42,45,0.655915
-42,46,0.728584
-42,47,0.723223
-42,48,0.585163
-42,49,0.516821
-42,50,0.430166
-42,51,0.673965
-42,52,0.615504
-43,44,0.455568
-43,45,0.652209
-43,46,0.62924
-43,47,0.627674
-43,48,0.514294
-43,49,0.696496
-43,50,0.655609
-43,51,0.755921
-43,52,0.407896
-44,45,0.44893
-44,46,0.481892
-44,47,0.480477
-44,48,0.312624
-44,49,0.571227
-44,50,0.529498
-44,51,0.508937
-44,52,0.369567
-45,46,0.620444
-45,47,0.622732
-45,48,0.513804
-45,49,0.497374
-45,50,0.477287
-45,51,0.671128
-45,52,0.548598
-46,47,0.994635
-46,48,0.520565
-46,49,0.609233
-46,50,0.496589
-46,51,0.78106
-46,52,0.571436
-47,48,0.515168
-47,49,0.608324
-47,50,0.490133
-47,51,0.777881
-47,52,0.5653
-48,49,0.399489
-48,50,0.339253
-48,51,0.519347
-48,52,0.645892
-49,50,0.718273
-49,51,0.685446
-49,52,0.364843
-50,51,0.602776
-50,52,0.291941
-51,52,0.483006
+title_i,title_j,cosine_similarity
+Loop quantum cosmology of Bianchi type I models,Loop quantum cosmology of Bianchi type IX models,0.842835
+Loop quantum cosmology of Bianchi type I models,The matter bounce scenario in loop quantum cosmology,0.06203
+Loop quantum cosmology of Bianchi type I models,Loop quantum cosmology of Bianchi type II models,0.915329
+Loop quantum cosmology of Bianchi type I models,Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,0.658763
+Loop quantum cosmology of Bianchi type I models,Bouncing cosmologies from quantum gravity condensates,0.623293
+Loop quantum cosmology of Bianchi type I models,Why are the effective equations of loop quantum cosmology so accurate?,0.681741
+Loop quantum cosmology of Bianchi type I models,A ΛCDM bounce scenario,0.645719
+Loop quantum cosmology of Bianchi type I models,Testing loop quantum cosmology,0.778563
+Loop quantum cosmology of Bianchi type I models,Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,0.59138
+Loop quantum cosmology of Bianchi type I models,Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,0.689011
+Loop quantum cosmology of Bianchi type I models,A low-redshift preference for an interacting dark energy model,0.455647
+Loop quantum cosmology of Bianchi type I models,Hybrid quantization: From Bianchi I to the Gowdy model,0.761958
+Loop quantum cosmology of Bianchi type I models,Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,0.814813
+Loop quantum cosmology of Bianchi type I models,Covariant entropy bound and loop quantum cosmology,0.733561
+Loop quantum cosmology of Bianchi type I models,The loop quantum cosmology bounce as a Kasner transition,0.790183
+Loop quantum cosmology of Bianchi type I models,Relational Hamiltonian for group field theory,0.619641
+Loop quantum cosmology of Bianchi type I models,Loop quantum cosmology of a radiation-dominated flat FLRW universe,0.709165
+Loop quantum cosmology of Bianchi type I models,Separate universe framework in group field theory condensate cosmology,0.651406
+Loop quantum cosmology of Bianchi type I models,Ekpyrotic loop quantum cosmology,0.707131
+Loop quantum cosmology of Bianchi type I models,Discrete symmetries in covariant loop quantum gravity,0.592436
+Loop quantum cosmology of Bianchi type I models,Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,0.512631
+Loop quantum cosmology of Bianchi type I models,Static Planck stars from effective loop quantum gravity,0.68718
+Loop quantum cosmology of Bianchi type I models,Dynamical homogenization in effective loop quantum cosmology,0.722565
+Loop quantum cosmology of Bianchi type I models,"Surface terms, asymptotics and thermodynamics of the Holst action",0.611028
+Loop quantum cosmology of Bianchi type I models,Separate universes in loop quantum cosmology: Framework and applications,0.695608
+Loop quantum cosmology of Bianchi type I models,Converting entropy to curvature perturbations after a cosmic bounce,0.553661
+Loop quantum cosmology of Bianchi type I models,Loop quantum cosmology with self-dual variables,0.784098
+Loop quantum cosmology of Bianchi type I models,Loop quantum cosmology of the Bianchi I model: complete quantization,0.663459
+Loop quantum cosmology of Bianchi type I models,Anisotropic loop quantum cosmology with self-dual variables,0.723184
+Loop quantum cosmology of Bianchi type I models,Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,0.315784
+Loop quantum cosmology of Bianchi type I models,Addendum to “Relational Hamiltonian for group field theory”,0.544434
+Loop quantum cosmology of Bianchi type I models,"Modified dispersion relations, inflation, and scale invariance",0.586671
+Loop quantum cosmology of Bianchi type I models,Observational constraints on anisotropies for bouncing alternatives to inflation,0.585982
+Loop quantum cosmology of Bianchi type I models,Pre-big-bang cosmology and circles in the cosmic microwave background,0.593206
+Loop quantum cosmology of Bianchi type I models,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.716145
+Loop quantum cosmology of Bianchi type I models,Relational observables in group field theory,0.370424
+Loop quantum cosmology of Bianchi type I models,Loop quantum cosmology: relation between theory and observations,0.729756
+Loop quantum cosmology of Bianchi type I models,Quantum gravity of dust collapse,0.495519
+Loop quantum cosmology of Bianchi type I models,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.302063
+Loop quantum cosmology of Bianchi type I models,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.664954
+Loop quantum cosmology of Bianchi type I models,Fate of quantum black holes,0.624959
+Loop quantum cosmology of Bianchi type IX models,The matter bounce scenario in loop quantum cosmology,0.046995
+Loop quantum cosmology of Bianchi type IX models,Loop quantum cosmology of Bianchi type II models,0.844612
+Loop quantum cosmology of Bianchi type IX models,Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,0.615372
+Loop quantum cosmology of Bianchi type IX models,Bouncing cosmologies from quantum gravity condensates,0.608335
+Loop quantum cosmology of Bianchi type IX models,Why are the effective equations of loop quantum cosmology so accurate?,0.599787
+Loop quantum cosmology of Bianchi type IX models,A ΛCDM bounce scenario,0.57995
+Loop quantum cosmology of Bianchi type IX models,Testing loop quantum cosmology,0.696779
+Loop quantum cosmology of Bianchi type IX models,Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,0.554575
+Loop quantum cosmology of Bianchi type IX models,Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,0.622732
+Loop quantum cosmology of Bianchi type IX models,A low-redshift preference for an interacting dark energy model,0.448261
+Loop quantum cosmology of Bianchi type IX models,Hybrid quantization: From Bianchi I to the Gowdy model,0.792013
+Loop quantum cosmology of Bianchi type IX models,Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,0.725416
+Loop quantum cosmology of Bianchi type IX models,Covariant entropy bound and loop quantum cosmology,0.647559
+Loop quantum cosmology of Bianchi type IX models,The loop quantum cosmology bounce as a Kasner transition,0.757288
+Loop quantum cosmology of Bianchi type IX models,Relational Hamiltonian for group field theory,0.59524
+Loop quantum cosmology of Bianchi type IX models,Loop quantum cosmology of a radiation-dominated flat FLRW universe,0.627504
+Loop quantum cosmology of Bianchi type IX models,Separate universe framework in group field theory condensate cosmology,0.596585
+Loop quantum cosmology of Bianchi type IX models,Ekpyrotic loop quantum cosmology,0.633482
+Loop quantum cosmology of Bianchi type IX models,Discrete symmetries in covariant loop quantum gravity,0.513804
+Loop quantum cosmology of Bianchi type IX models,Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,0.500079
+Loop quantum cosmology of Bianchi type IX models,Static Planck stars from effective loop quantum gravity,0.655915
+Loop quantum cosmology of Bianchi type IX models,Dynamical homogenization in effective loop quantum cosmology,0.671128
+Loop quantum cosmology of Bianchi type IX models,"Surface terms, asymptotics and thermodynamics of the Holst action",0.548598
+Loop quantum cosmology of Bianchi type IX models,Separate universes in loop quantum cosmology: Framework and applications,0.641802
+Loop quantum cosmology of Bianchi type IX models,Converting entropy to curvature perturbations after a cosmic bounce,0.497374
+Loop quantum cosmology of Bianchi type IX models,Loop quantum cosmology with self-dual variables,0.733697
+Loop quantum cosmology of Bianchi type IX models,Loop quantum cosmology of the Bianchi I model: complete quantization,0.58878
+Loop quantum cosmology of Bianchi type IX models,Anisotropic loop quantum cosmology with self-dual variables,0.775592
+Loop quantum cosmology of Bianchi type IX models,Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,0.307167
+Loop quantum cosmology of Bianchi type IX models,Addendum to “Relational Hamiltonian for group field theory”,0.477087
+Loop quantum cosmology of Bianchi type IX models,"Modified dispersion relations, inflation, and scale invariance",0.498049
+Loop quantum cosmology of Bianchi type IX models,Observational constraints on anisotropies for bouncing alternatives to inflation,0.482044
+Loop quantum cosmology of Bianchi type IX models,Pre-big-bang cosmology and circles in the cosmic microwave background,0.543963
+Loop quantum cosmology of Bianchi type IX models,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.71813
+Loop quantum cosmology of Bianchi type IX models,Relational observables in group field theory,0.278551
+Loop quantum cosmology of Bianchi type IX models,Loop quantum cosmology: relation between theory and observations,0.652209
+Loop quantum cosmology of Bianchi type IX models,Quantum gravity of dust collapse,0.51656
+Loop quantum cosmology of Bianchi type IX models,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.285312
+Loop quantum cosmology of Bianchi type IX models,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.616151
+Loop quantum cosmology of Bianchi type IX models,Fate of quantum black holes,0.630541
+The matter bounce scenario in loop quantum cosmology,Loop quantum cosmology of Bianchi type II models,0.070076
+The matter bounce scenario in loop quantum cosmology,Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,0.016305
+The matter bounce scenario in loop quantum cosmology,Bouncing cosmologies from quantum gravity condensates,0.018196
+The matter bounce scenario in loop quantum cosmology,Why are the effective equations of loop quantum cosmology so accurate?,0.05737
+The matter bounce scenario in loop quantum cosmology,A ΛCDM bounce scenario,0.062425
+The matter bounce scenario in loop quantum cosmology,Testing loop quantum cosmology,0.109678
+The matter bounce scenario in loop quantum cosmology,Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,0.065265
+The matter bounce scenario in loop quantum cosmology,Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,0.102649
+The matter bounce scenario in loop quantum cosmology,A low-redshift preference for an interacting dark energy model,0.034132
+The matter bounce scenario in loop quantum cosmology,Hybrid quantization: From Bianchi I to the Gowdy model,0.038343
+The matter bounce scenario in loop quantum cosmology,Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,0.004493
+The matter bounce scenario in loop quantum cosmology,Covariant entropy bound and loop quantum cosmology,0.081517
+The matter bounce scenario in loop quantum cosmology,The loop quantum cosmology bounce as a Kasner transition,0.027865
+The matter bounce scenario in loop quantum cosmology,Relational Hamiltonian for group field theory,0.000948
+The matter bounce scenario in loop quantum cosmology,Loop quantum cosmology of a radiation-dominated flat FLRW universe,0.074352
+The matter bounce scenario in loop quantum cosmology,Separate universe framework in group field theory condensate cosmology,0.051438
+The matter bounce scenario in loop quantum cosmology,Ekpyrotic loop quantum cosmology,0.078119
+The matter bounce scenario in loop quantum cosmology,Discrete symmetries in covariant loop quantum gravity,0.034418
+The matter bounce scenario in loop quantum cosmology,Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,0.038061
+The matter bounce scenario in loop quantum cosmology,Static Planck stars from effective loop quantum gravity,0.067499
+The matter bounce scenario in loop quantum cosmology,Dynamical homogenization in effective loop quantum cosmology,0.090232
+The matter bounce scenario in loop quantum cosmology,"Surface terms, asymptotics and thermodynamics of the Holst action",0.028826
+The matter bounce scenario in loop quantum cosmology,Separate universes in loop quantum cosmology: Framework and applications,0.062252
+The matter bounce scenario in loop quantum cosmology,Converting entropy to curvature perturbations after a cosmic bounce,0.067268
+The matter bounce scenario in loop quantum cosmology,Loop quantum cosmology with self-dual variables,0.006581
+The matter bounce scenario in loop quantum cosmology,Loop quantum cosmology of the Bianchi I model: complete quantization,0.106462
+The matter bounce scenario in loop quantum cosmology,Anisotropic loop quantum cosmology with self-dual variables,0.012643
+The matter bounce scenario in loop quantum cosmology,Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,0.054023
+The matter bounce scenario in loop quantum cosmology,Addendum to “Relational Hamiltonian for group field theory”,-0.008441
+The matter bounce scenario in loop quantum cosmology,"Modified dispersion relations, inflation, and scale invariance",0.053316
+The matter bounce scenario in loop quantum cosmology,Observational constraints on anisotropies for bouncing alternatives to inflation,0.054091
+The matter bounce scenario in loop quantum cosmology,Pre-big-bang cosmology and circles in the cosmic microwave background,0.091909
+The matter bounce scenario in loop quantum cosmology,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.06522
+The matter bounce scenario in loop quantum cosmology,Relational observables in group field theory,0.010244
+The matter bounce scenario in loop quantum cosmology,Loop quantum cosmology: relation between theory and observations,0.092502
+The matter bounce scenario in loop quantum cosmology,Quantum gravity of dust collapse,0.077152
+The matter bounce scenario in loop quantum cosmology,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.049148
+The matter bounce scenario in loop quantum cosmology,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.104079
+The matter bounce scenario in loop quantum cosmology,Fate of quantum black holes,0.126791
+Loop quantum cosmology of Bianchi type II models,Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,0.609549
+Loop quantum cosmology of Bianchi type II models,Bouncing cosmologies from quantum gravity condensates,0.579199
+Loop quantum cosmology of Bianchi type II models,Why are the effective equations of loop quantum cosmology so accurate?,0.608878
+Loop quantum cosmology of Bianchi type II models,A ΛCDM bounce scenario,0.616808
+Loop quantum cosmology of Bianchi type II models,Testing loop quantum cosmology,0.719717
+Loop quantum cosmology of Bianchi type II models,Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,0.56593
+Loop quantum cosmology of Bianchi type II models,Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,0.655063
+Loop quantum cosmology of Bianchi type II models,A low-redshift preference for an interacting dark energy model,0.421536
+Loop quantum cosmology of Bianchi type II models,Hybrid quantization: From Bianchi I to the Gowdy model,0.752204
+Loop quantum cosmology of Bianchi type II models,Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,0.779694
+Loop quantum cosmology of Bianchi type II models,Covariant entropy bound and loop quantum cosmology,0.672041
+Loop quantum cosmology of Bianchi type II models,The loop quantum cosmology bounce as a Kasner transition,0.77772
+Loop quantum cosmology of Bianchi type II models,Relational Hamiltonian for group field theory,0.561562
+Loop quantum cosmology of Bianchi type II models,Loop quantum cosmology of a radiation-dominated flat FLRW universe,0.665132
+Loop quantum cosmology of Bianchi type II models,Separate universe framework in group field theory condensate cosmology,0.595803
+Loop quantum cosmology of Bianchi type II models,Ekpyrotic loop quantum cosmology,0.671582
+Loop quantum cosmology of Bianchi type II models,Discrete symmetries in covariant loop quantum gravity,0.560307
+Loop quantum cosmology of Bianchi type II models,Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,0.47845
+Loop quantum cosmology of Bianchi type II models,Static Planck stars from effective loop quantum gravity,0.655025
+Loop quantum cosmology of Bianchi type II models,Dynamical homogenization in effective loop quantum cosmology,0.69768
+Loop quantum cosmology of Bianchi type II models,"Surface terms, asymptotics and thermodynamics of the Holst action",0.582104
+Loop quantum cosmology of Bianchi type II models,Separate universes in loop quantum cosmology: Framework and applications,0.612855
+Loop quantum cosmology of Bianchi type II models,Converting entropy to curvature perturbations after a cosmic bounce,0.523228
+Loop quantum cosmology of Bianchi type II models,Loop quantum cosmology with self-dual variables,0.718311
+Loop quantum cosmology of Bianchi type II models,Loop quantum cosmology of the Bianchi I model: complete quantization,0.595964
+Loop quantum cosmology of Bianchi type II models,Anisotropic loop quantum cosmology with self-dual variables,0.720115
+Loop quantum cosmology of Bianchi type II models,Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,0.330927
+Loop quantum cosmology of Bianchi type II models,Addendum to “Relational Hamiltonian for group field theory”,0.475225
+Loop quantum cosmology of Bianchi type II models,"Modified dispersion relations, inflation, and scale invariance",0.514992
+Loop quantum cosmology of Bianchi type II models,Observational constraints on anisotropies for bouncing alternatives to inflation,0.559883
+Loop quantum cosmology of Bianchi type II models,Pre-big-bang cosmology and circles in the cosmic microwave background,0.594076
+Loop quantum cosmology of Bianchi type II models,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.755571
+Loop quantum cosmology of Bianchi type II models,Relational observables in group field theory,0.290064
+Loop quantum cosmology of Bianchi type II models,Loop quantum cosmology: relation between theory and observations,0.648345
+Loop quantum cosmology of Bianchi type II models,Quantum gravity of dust collapse,0.49427
+Loop quantum cosmology of Bianchi type II models,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.321832
+Loop quantum cosmology of Bianchi type II models,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.586822
+Loop quantum cosmology of Bianchi type II models,Fate of quantum black holes,0.599248
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,Bouncing cosmologies from quantum gravity condensates,0.578457
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,Why are the effective equations of loop quantum cosmology so accurate?,0.538139
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,A ΛCDM bounce scenario,0.528256
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,Testing loop quantum cosmology,0.549546
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,0.525566
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,0.617108
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,A low-redshift preference for an interacting dark energy model,0.433048
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,Hybrid quantization: From Bianchi I to the Gowdy model,0.540479
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,0.687163
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,Covariant entropy bound and loop quantum cosmology,0.671579
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,The loop quantum cosmology bounce as a Kasner transition,0.591157
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,Relational Hamiltonian for group field theory,0.564082
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,Loop quantum cosmology of a radiation-dominated flat FLRW universe,0.556008
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,Separate universe framework in group field theory condensate cosmology,0.594838
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,Ekpyrotic loop quantum cosmology,0.513887
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,Discrete symmetries in covariant loop quantum gravity,0.634966
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,0.516066
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,Static Planck stars from effective loop quantum gravity,0.670889
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,Dynamical homogenization in effective loop quantum cosmology,0.567642
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,"Surface terms, asymptotics and thermodynamics of the Holst action",0.699704
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,Separate universes in loop quantum cosmology: Framework and applications,0.56919
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,Converting entropy to curvature perturbations after a cosmic bounce,0.42947
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,Loop quantum cosmology with self-dual variables,0.699977
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,Loop quantum cosmology of the Bianchi I model: complete quantization,0.610088
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,Anisotropic loop quantum cosmology with self-dual variables,0.518467
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,0.356049
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,Addendum to “Relational Hamiltonian for group field theory”,0.502802
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,"Modified dispersion relations, inflation, and scale invariance",0.479578
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,Observational constraints on anisotropies for bouncing alternatives to inflation,0.398257
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,Pre-big-bang cosmology and circles in the cosmic microwave background,0.457912
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.507763
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,Relational observables in group field theory,0.365871
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,Loop quantum cosmology: relation between theory and observations,0.53242
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,Quantum gravity of dust collapse,0.510623
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.370464
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.509566
+Effective loop quantum gravity framework for vacuum spherically symmetric spacetimes,Fate of quantum black holes,0.538476
+Bouncing cosmologies from quantum gravity condensates,Why are the effective equations of loop quantum cosmology so accurate?,0.535709
+Bouncing cosmologies from quantum gravity condensates,A ΛCDM bounce scenario,0.586275
+Bouncing cosmologies from quantum gravity condensates,Testing loop quantum cosmology,0.553517
+Bouncing cosmologies from quantum gravity condensates,Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,0.569773
+Bouncing cosmologies from quantum gravity condensates,Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,0.628952
+Bouncing cosmologies from quantum gravity condensates,A low-redshift preference for an interacting dark energy model,0.47907
+Bouncing cosmologies from quantum gravity condensates,Hybrid quantization: From Bianchi I to the Gowdy model,0.56099
+Bouncing cosmologies from quantum gravity condensates,Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,0.548901
+Bouncing cosmologies from quantum gravity condensates,Covariant entropy bound and loop quantum cosmology,0.649057
+Bouncing cosmologies from quantum gravity condensates,The loop quantum cosmology bounce as a Kasner transition,0.566376
+Bouncing cosmologies from quantum gravity condensates,Relational Hamiltonian for group field theory,0.697699
+Bouncing cosmologies from quantum gravity condensates,Loop quantum cosmology of a radiation-dominated flat FLRW universe,0.59256
+Bouncing cosmologies from quantum gravity condensates,Separate universe framework in group field theory condensate cosmology,0.650575
+Bouncing cosmologies from quantum gravity condensates,Ekpyrotic loop quantum cosmology,0.563537
+Bouncing cosmologies from quantum gravity condensates,Discrete symmetries in covariant loop quantum gravity,0.489852
+Bouncing cosmologies from quantum gravity condensates,Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,0.552322
+Bouncing cosmologies from quantum gravity condensates,Static Planck stars from effective loop quantum gravity,0.663026
+Bouncing cosmologies from quantum gravity condensates,Dynamical homogenization in effective loop quantum cosmology,0.594438
+Bouncing cosmologies from quantum gravity condensates,"Surface terms, asymptotics and thermodynamics of the Holst action",0.611991
+Bouncing cosmologies from quantum gravity condensates,Separate universes in loop quantum cosmology: Framework and applications,0.59684
+Bouncing cosmologies from quantum gravity condensates,Converting entropy to curvature perturbations after a cosmic bounce,0.585089
+Bouncing cosmologies from quantum gravity condensates,Loop quantum cosmology with self-dual variables,0.607518
+Bouncing cosmologies from quantum gravity condensates,Loop quantum cosmology of the Bianchi I model: complete quantization,0.508848
+Bouncing cosmologies from quantum gravity condensates,Anisotropic loop quantum cosmology with self-dual variables,0.462994
+Bouncing cosmologies from quantum gravity condensates,Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,0.335435
+Bouncing cosmologies from quantum gravity condensates,Addendum to “Relational Hamiltonian for group field theory”,0.564303
+Bouncing cosmologies from quantum gravity condensates,"Modified dispersion relations, inflation, and scale invariance",0.551819
+Bouncing cosmologies from quantum gravity condensates,Observational constraints on anisotropies for bouncing alternatives to inflation,0.495875
+Bouncing cosmologies from quantum gravity condensates,Pre-big-bang cosmology and circles in the cosmic microwave background,0.499238
+Bouncing cosmologies from quantum gravity condensates,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.516641
+Bouncing cosmologies from quantum gravity condensates,Relational observables in group field theory,0.399859
+Bouncing cosmologies from quantum gravity condensates,Loop quantum cosmology: relation between theory and observations,0.525465
+Bouncing cosmologies from quantum gravity condensates,Quantum gravity of dust collapse,0.551749
+Bouncing cosmologies from quantum gravity condensates,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.303355
+Bouncing cosmologies from quantum gravity condensates,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.574496
+Bouncing cosmologies from quantum gravity condensates,Fate of quantum black holes,0.573104
+Why are the effective equations of loop quantum cosmology so accurate?,A ΛCDM bounce scenario,0.620687
+Why are the effective equations of loop quantum cosmology so accurate?,Testing loop quantum cosmology,0.722573
+Why are the effective equations of loop quantum cosmology so accurate?,Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,0.515548
+Why are the effective equations of loop quantum cosmology so accurate?,Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,0.612589
+Why are the effective equations of loop quantum cosmology so accurate?,A low-redshift preference for an interacting dark energy model,0.364069
+Why are the effective equations of loop quantum cosmology so accurate?,Hybrid quantization: From Bianchi I to the Gowdy model,0.637137
+Why are the effective equations of loop quantum cosmology so accurate?,Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,0.694576
+Why are the effective equations of loop quantum cosmology so accurate?,Covariant entropy bound and loop quantum cosmology,0.686405
+Why are the effective equations of loop quantum cosmology so accurate?,The loop quantum cosmology bounce as a Kasner transition,0.668851
+Why are the effective equations of loop quantum cosmology so accurate?,Relational Hamiltonian for group field theory,0.530379
+Why are the effective equations of loop quantum cosmology so accurate?,Loop quantum cosmology of a radiation-dominated flat FLRW universe,0.694659
+Why are the effective equations of loop quantum cosmology so accurate?,Separate universe framework in group field theory condensate cosmology,0.628796
+Why are the effective equations of loop quantum cosmology so accurate?,Ekpyrotic loop quantum cosmology,0.64724
+Why are the effective equations of loop quantum cosmology so accurate?,Discrete symmetries in covariant loop quantum gravity,0.511247
+Why are the effective equations of loop quantum cosmology so accurate?,Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,0.423936
+Why are the effective equations of loop quantum cosmology so accurate?,Static Planck stars from effective loop quantum gravity,0.564874
+Why are the effective equations of loop quantum cosmology so accurate?,Dynamical homogenization in effective loop quantum cosmology,0.679454
+Why are the effective equations of loop quantum cosmology so accurate?,"Surface terms, asymptotics and thermodynamics of the Holst action",0.409352
+Why are the effective equations of loop quantum cosmology so accurate?,Separate universes in loop quantum cosmology: Framework and applications,0.732081
+Why are the effective equations of loop quantum cosmology so accurate?,Converting entropy to curvature perturbations after a cosmic bounce,0.538636
+Why are the effective equations of loop quantum cosmology so accurate?,Loop quantum cosmology with self-dual variables,0.640164
+Why are the effective equations of loop quantum cosmology so accurate?,Loop quantum cosmology of the Bianchi I model: complete quantization,0.621316
+Why are the effective equations of loop quantum cosmology so accurate?,Anisotropic loop quantum cosmology with self-dual variables,0.512626
+Why are the effective equations of loop quantum cosmology so accurate?,Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,0.334751
+Why are the effective equations of loop quantum cosmology so accurate?,Addendum to “Relational Hamiltonian for group field theory”,0.404269
+Why are the effective equations of loop quantum cosmology so accurate?,"Modified dispersion relations, inflation, and scale invariance",0.670562
+Why are the effective equations of loop quantum cosmology so accurate?,Observational constraints on anisotropies for bouncing alternatives to inflation,0.509218
+Why are the effective equations of loop quantum cosmology so accurate?,Pre-big-bang cosmology and circles in the cosmic microwave background,0.523293
+Why are the effective equations of loop quantum cosmology so accurate?,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.633524
+Why are the effective equations of loop quantum cosmology so accurate?,Relational observables in group field theory,0.405903
+Why are the effective equations of loop quantum cosmology so accurate?,Loop quantum cosmology: relation between theory and observations,0.721449
+Why are the effective equations of loop quantum cosmology so accurate?,Quantum gravity of dust collapse,0.397812
+Why are the effective equations of loop quantum cosmology so accurate?,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.325393
+Why are the effective equations of loop quantum cosmology so accurate?,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.739221
+Why are the effective equations of loop quantum cosmology so accurate?,Fate of quantum black holes,0.557516
+A ΛCDM bounce scenario,Testing loop quantum cosmology,0.750236
+A ΛCDM bounce scenario,Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,0.515103
+A ΛCDM bounce scenario,Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,0.628493
+A ΛCDM bounce scenario,A low-redshift preference for an interacting dark energy model,0.650176
+A ΛCDM bounce scenario,Hybrid quantization: From Bianchi I to the Gowdy model,0.53263
+A ΛCDM bounce scenario,Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,0.616118
+A ΛCDM bounce scenario,Covariant entropy bound and loop quantum cosmology,0.635324
+A ΛCDM bounce scenario,The loop quantum cosmology bounce as a Kasner transition,0.604543
+A ΛCDM bounce scenario,Relational Hamiltonian for group field theory,0.491935
+A ΛCDM bounce scenario,Loop quantum cosmology of a radiation-dominated flat FLRW universe,0.698334
+A ΛCDM bounce scenario,Separate universe framework in group field theory condensate cosmology,0.572173
+A ΛCDM bounce scenario,Ekpyrotic loop quantum cosmology,0.776542
+A ΛCDM bounce scenario,Discrete symmetries in covariant loop quantum gravity,0.473818
+A ΛCDM bounce scenario,Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,0.713793
+A ΛCDM bounce scenario,Static Planck stars from effective loop quantum gravity,0.602842
+A ΛCDM bounce scenario,Dynamical homogenization in effective loop quantum cosmology,0.707809
+A ΛCDM bounce scenario,"Surface terms, asymptotics and thermodynamics of the Holst action",0.419267
+A ΛCDM bounce scenario,Separate universes in loop quantum cosmology: Framework and applications,0.739888
+A ΛCDM bounce scenario,Converting entropy to curvature perturbations after a cosmic bounce,0.722051
+A ΛCDM bounce scenario,Loop quantum cosmology with self-dual variables,0.631568
+A ΛCDM bounce scenario,Loop quantum cosmology of the Bianchi I model: complete quantization,0.512057
+A ΛCDM bounce scenario,Anisotropic loop quantum cosmology with self-dual variables,0.420103
+A ΛCDM bounce scenario,Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,0.291902
+A ΛCDM bounce scenario,Addendum to “Relational Hamiltonian for group field theory”,0.366228
+A ΛCDM bounce scenario,"Modified dispersion relations, inflation, and scale invariance",0.786214
+A ΛCDM bounce scenario,Observational constraints on anisotropies for bouncing alternatives to inflation,0.670413
+A ΛCDM bounce scenario,Pre-big-bang cosmology and circles in the cosmic microwave background,0.662084
+A ΛCDM bounce scenario,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.630109
+A ΛCDM bounce scenario,Relational observables in group field theory,0.277225
+A ΛCDM bounce scenario,Loop quantum cosmology: relation between theory and observations,0.709533
+A ΛCDM bounce scenario,Quantum gravity of dust collapse,0.468693
+A ΛCDM bounce scenario,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.293611
+A ΛCDM bounce scenario,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.720396
+A ΛCDM bounce scenario,Fate of quantum black holes,0.534566
+Testing loop quantum cosmology,Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,0.596091
+Testing loop quantum cosmology,Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,0.701705
+Testing loop quantum cosmology,A low-redshift preference for an interacting dark energy model,0.471973
+Testing loop quantum cosmology,Hybrid quantization: From Bianchi I to the Gowdy model,0.641565
+Testing loop quantum cosmology,Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,0.69608
+Testing loop quantum cosmology,Covariant entropy bound and loop quantum cosmology,0.69584
+Testing loop quantum cosmology,The loop quantum cosmology bounce as a Kasner transition,0.770333
+Testing loop quantum cosmology,Relational Hamiltonian for group field theory,0.537434
+Testing loop quantum cosmology,Loop quantum cosmology of a radiation-dominated flat FLRW universe,0.775402
+Testing loop quantum cosmology,Separate universe framework in group field theory condensate cosmology,0.636523
+Testing loop quantum cosmology,Ekpyrotic loop quantum cosmology,0.786608
+Testing loop quantum cosmology,Discrete symmetries in covariant loop quantum gravity,0.564464
+Testing loop quantum cosmology,Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,0.482194
+Testing loop quantum cosmology,Static Planck stars from effective loop quantum gravity,0.656976
+Testing loop quantum cosmology,Dynamical homogenization in effective loop quantum cosmology,0.836185
+Testing loop quantum cosmology,"Surface terms, asymptotics and thermodynamics of the Holst action",0.445682
+Testing loop quantum cosmology,Separate universes in loop quantum cosmology: Framework and applications,0.818189
+Testing loop quantum cosmology,Converting entropy to curvature perturbations after a cosmic bounce,0.684767
+Testing loop quantum cosmology,Loop quantum cosmology with self-dual variables,0.70443
+Testing loop quantum cosmology,Loop quantum cosmology of the Bianchi I model: complete quantization,0.664546
+Testing loop quantum cosmology,Anisotropic loop quantum cosmology with self-dual variables,0.523722
+Testing loop quantum cosmology,Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,0.315912
+Testing loop quantum cosmology,Addendum to “Relational Hamiltonian for group field theory”,0.406463
+Testing loop quantum cosmology,"Modified dispersion relations, inflation, and scale invariance",0.619971
+Testing loop quantum cosmology,Observational constraints on anisotropies for bouncing alternatives to inflation,0.617629
+Testing loop quantum cosmology,Pre-big-bang cosmology and circles in the cosmic microwave background,0.662584
+Testing loop quantum cosmology,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.734971
+Testing loop quantum cosmology,Relational observables in group field theory,0.323521
+Testing loop quantum cosmology,Loop quantum cosmology: relation between theory and observations,0.893417
+Testing loop quantum cosmology,Quantum gravity of dust collapse,0.448595
+Testing loop quantum cosmology,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.317412
+Testing loop quantum cosmology,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.841186
+Testing loop quantum cosmology,Fate of quantum black holes,0.614295
+Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,0.851419
+Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,A low-redshift preference for an interacting dark energy model,0.435849
+Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,Hybrid quantization: From Bianchi I to the Gowdy model,0.490329
+Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,0.463801
+Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,Covariant entropy bound and loop quantum cosmology,0.581679
+Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,The loop quantum cosmology bounce as a Kasner transition,0.558627
+Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,Relational Hamiltonian for group field theory,0.473383
+Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,Loop quantum cosmology of a radiation-dominated flat FLRW universe,0.636158
+Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,Separate universe framework in group field theory condensate cosmology,0.442997
+Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,Ekpyrotic loop quantum cosmology,0.533161
+Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,Discrete symmetries in covariant loop quantum gravity,0.474081
+Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,0.525202
+Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,Static Planck stars from effective loop quantum gravity,0.693892
+Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,Dynamical homogenization in effective loop quantum cosmology,0.713735
+Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,"Surface terms, asymptotics and thermodynamics of the Holst action",0.523633
+Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,Separate universes in loop quantum cosmology: Framework and applications,0.531067
+Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,Converting entropy to curvature perturbations after a cosmic bounce,0.501917
+Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,Loop quantum cosmology with self-dual variables,0.498829
+Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,Loop quantum cosmology of the Bianchi I model: complete quantization,0.553827
+Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,Anisotropic loop quantum cosmology with self-dual variables,0.446889
+Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,0.324722
+Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,Addendum to “Relational Hamiltonian for group field theory”,0.359564
+Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,"Modified dispersion relations, inflation, and scale invariance",0.428184
+Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,Observational constraints on anisotropies for bouncing alternatives to inflation,0.413539
+Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,Pre-big-bang cosmology and circles in the cosmic microwave background,0.466933
+Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.548678
+Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,Relational observables in group field theory,0.250179
+Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,Loop quantum cosmology: relation between theory and observations,0.516819
+Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,Quantum gravity of dust collapse,0.714585
+Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.316695
+Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.549415
+Shell-crossings and shock formation during gravitational collapse in effective loop quantum gravity,Fate of quantum black holes,0.76411
+Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,A low-redshift preference for an interacting dark energy model,0.463435
+Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,Hybrid quantization: From Bianchi I to the Gowdy model,0.565706
+Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,0.590839
+Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,Covariant entropy bound and loop quantum cosmology,0.701121
+Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,The loop quantum cosmology bounce as a Kasner transition,0.636363
+Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,Relational Hamiltonian for group field theory,0.546507
+Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,Loop quantum cosmology of a radiation-dominated flat FLRW universe,0.735296
+Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,Separate universe framework in group field theory condensate cosmology,0.53819
+Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,Ekpyrotic loop quantum cosmology,0.646085
+Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,Discrete symmetries in covariant loop quantum gravity,0.515168
+Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,0.523156
+Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,Static Planck stars from effective loop quantum gravity,0.723223
+Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,Dynamical homogenization in effective loop quantum cosmology,0.777881
+Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,"Surface terms, asymptotics and thermodynamics of the Holst action",0.5653
+Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,Separate universes in loop quantum cosmology: Framework and applications,0.621035
+Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,Converting entropy to curvature perturbations after a cosmic bounce,0.608324
+Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,Loop quantum cosmology with self-dual variables,0.649886
+Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,Loop quantum cosmology of the Bianchi I model: complete quantization,0.605746
+Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,Anisotropic loop quantum cosmology with self-dual variables,0.484004
+Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,0.324309
+Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,Addendum to “Relational Hamiltonian for group field theory”,0.3873
+Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,"Modified dispersion relations, inflation, and scale invariance",0.558029
+Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,Observational constraints on anisotropies for bouncing alternatives to inflation,0.490303
+Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,Pre-big-bang cosmology and circles in the cosmic microwave background,0.584202
+Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.641843
+Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,Relational observables in group field theory,0.2713
+Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,Loop quantum cosmology: relation between theory and observations,0.627674
+Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,Quantum gravity of dust collapse,0.762925
+Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.319692
+Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.632124
+Gravitational collapse in effective loop quantum gravity: Beyond marginally bound configurations,Fate of quantum black holes,0.783789
+A low-redshift preference for an interacting dark energy model,Hybrid quantization: From Bianchi I to the Gowdy model,0.348882
+A low-redshift preference for an interacting dark energy model,Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,0.367846
+A low-redshift preference for an interacting dark energy model,Covariant entropy bound and loop quantum cosmology,0.449452
+A low-redshift preference for an interacting dark energy model,The loop quantum cosmology bounce as a Kasner transition,0.424946
+A low-redshift preference for an interacting dark energy model,Relational Hamiltonian for group field theory,0.36111
+A low-redshift preference for an interacting dark energy model,Loop quantum cosmology of a radiation-dominated flat FLRW universe,0.398799
+A low-redshift preference for an interacting dark energy model,Separate universe framework in group field theory condensate cosmology,0.433007
+A low-redshift preference for an interacting dark energy model,Ekpyrotic loop quantum cosmology,0.453153
+A low-redshift preference for an interacting dark energy model,Discrete symmetries in covariant loop quantum gravity,0.306168
+A low-redshift preference for an interacting dark energy model,Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,0.808479
+A low-redshift preference for an interacting dark energy model,Static Planck stars from effective loop quantum gravity,0.480945
+A low-redshift preference for an interacting dark energy model,Dynamical homogenization in effective loop quantum cosmology,0.504111
+A low-redshift preference for an interacting dark energy model,"Surface terms, asymptotics and thermodynamics of the Holst action",0.356982
+A low-redshift preference for an interacting dark energy model,Separate universes in loop quantum cosmology: Framework and applications,0.509502
+A low-redshift preference for an interacting dark energy model,Converting entropy to curvature perturbations after a cosmic bounce,0.567281
+A low-redshift preference for an interacting dark energy model,Loop quantum cosmology with self-dual variables,0.391086
+A low-redshift preference for an interacting dark energy model,Loop quantum cosmology of the Bianchi I model: complete quantization,0.417372
+A low-redshift preference for an interacting dark energy model,Anisotropic loop quantum cosmology with self-dual variables,0.315918
+A low-redshift preference for an interacting dark energy model,Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,0.194467
+A low-redshift preference for an interacting dark energy model,Addendum to “Relational Hamiltonian for group field theory”,0.302261
+A low-redshift preference for an interacting dark energy model,"Modified dispersion relations, inflation, and scale invariance",0.584925
+A low-redshift preference for an interacting dark energy model,Observational constraints on anisotropies for bouncing alternatives to inflation,0.502894
+A low-redshift preference for an interacting dark energy model,Pre-big-bang cosmology and circles in the cosmic microwave background,0.482541
+A low-redshift preference for an interacting dark energy model,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.427283
+A low-redshift preference for an interacting dark energy model,Relational observables in group field theory,0.239749
+A low-redshift preference for an interacting dark energy model,Loop quantum cosmology: relation between theory and observations,0.447234
+A low-redshift preference for an interacting dark energy model,Quantum gravity of dust collapse,0.41028
+A low-redshift preference for an interacting dark energy model,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.210216
+A low-redshift preference for an interacting dark energy model,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.496903
+A low-redshift preference for an interacting dark energy model,Fate of quantum black holes,0.414253
+Hybrid quantization: From Bianchi I to the Gowdy model,Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,0.719949
+Hybrid quantization: From Bianchi I to the Gowdy model,Covariant entropy bound and loop quantum cosmology,0.604939
+Hybrid quantization: From Bianchi I to the Gowdy model,The loop quantum cosmology bounce as a Kasner transition,0.721201
+Hybrid quantization: From Bianchi I to the Gowdy model,Relational Hamiltonian for group field theory,0.58996
+Hybrid quantization: From Bianchi I to the Gowdy model,Loop quantum cosmology of a radiation-dominated flat FLRW universe,0.631855
+Hybrid quantization: From Bianchi I to the Gowdy model,Separate universe framework in group field theory condensate cosmology,0.563003
+Hybrid quantization: From Bianchi I to the Gowdy model,Ekpyrotic loop quantum cosmology,0.608799
+Hybrid quantization: From Bianchi I to the Gowdy model,Discrete symmetries in covariant loop quantum gravity,0.516289
+Hybrid quantization: From Bianchi I to the Gowdy model,Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,0.413057
+Hybrid quantization: From Bianchi I to the Gowdy model,Static Planck stars from effective loop quantum gravity,0.615352
+Hybrid quantization: From Bianchi I to the Gowdy model,Dynamical homogenization in effective loop quantum cosmology,0.595968
+Hybrid quantization: From Bianchi I to the Gowdy model,"Surface terms, asymptotics and thermodynamics of the Holst action",0.526112
+Hybrid quantization: From Bianchi I to the Gowdy model,Separate universes in loop quantum cosmology: Framework and applications,0.618158
+Hybrid quantization: From Bianchi I to the Gowdy model,Converting entropy to curvature perturbations after a cosmic bounce,0.466658
+Hybrid quantization: From Bianchi I to the Gowdy model,Loop quantum cosmology with self-dual variables,0.693532
+Hybrid quantization: From Bianchi I to the Gowdy model,Loop quantum cosmology of the Bianchi I model: complete quantization,0.554777
+Hybrid quantization: From Bianchi I to the Gowdy model,Anisotropic loop quantum cosmology with self-dual variables,0.741507
+Hybrid quantization: From Bianchi I to the Gowdy model,Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,0.392949
+Hybrid quantization: From Bianchi I to the Gowdy model,Addendum to “Relational Hamiltonian for group field theory”,0.517294
+Hybrid quantization: From Bianchi I to the Gowdy model,"Modified dispersion relations, inflation, and scale invariance",0.534183
+Hybrid quantization: From Bianchi I to the Gowdy model,Observational constraints on anisotropies for bouncing alternatives to inflation,0.465512
+Hybrid quantization: From Bianchi I to the Gowdy model,Pre-big-bang cosmology and circles in the cosmic microwave background,0.468804
+Hybrid quantization: From Bianchi I to the Gowdy model,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.668401
+Hybrid quantization: From Bianchi I to the Gowdy model,Relational observables in group field theory,0.390713
+Hybrid quantization: From Bianchi I to the Gowdy model,Loop quantum cosmology: relation between theory and observations,0.645616
+Hybrid quantization: From Bianchi I to the Gowdy model,Quantum gravity of dust collapse,0.451852
+Hybrid quantization: From Bianchi I to the Gowdy model,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.343677
+Hybrid quantization: From Bianchi I to the Gowdy model,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.588976
+Hybrid quantization: From Bianchi I to the Gowdy model,Fate of quantum black holes,0.612871
+Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,Covariant entropy bound and loop quantum cosmology,0.739698
+Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,The loop quantum cosmology bounce as a Kasner transition,0.68
+Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,Relational Hamiltonian for group field theory,0.569288
+Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,Loop quantum cosmology of a radiation-dominated flat FLRW universe,0.675745
+Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,Separate universe framework in group field theory condensate cosmology,0.623227
+Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,Ekpyrotic loop quantum cosmology,0.658575
+Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,Discrete symmetries in covariant loop quantum gravity,0.617958
+Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,0.427048
+Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,Static Planck stars from effective loop quantum gravity,0.609688
+Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,Dynamical homogenization in effective loop quantum cosmology,0.625629
+Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,"Surface terms, asymptotics and thermodynamics of the Holst action",0.566432
+Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,Separate universes in loop quantum cosmology: Framework and applications,0.665887
+Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,Converting entropy to curvature perturbations after a cosmic bounce,0.438186
+Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,Loop quantum cosmology with self-dual variables,0.827875
+Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,Loop quantum cosmology of the Bianchi I model: complete quantization,0.616507
+Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,Anisotropic loop quantum cosmology with self-dual variables,0.683164
+Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,0.361952
+Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,Addendum to “Relational Hamiltonian for group field theory”,0.523956
+Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,"Modified dispersion relations, inflation, and scale invariance",0.534674
+Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,Observational constraints on anisotropies for bouncing alternatives to inflation,0.485263
+Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,Pre-big-bang cosmology and circles in the cosmic microwave background,0.505489
+Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.647282
+Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,Relational observables in group field theory,0.4312
+Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,Loop quantum cosmology: relation between theory and observations,0.696773
+Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,Quantum gravity of dust collapse,0.346123
+Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.347479
+Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.611646
+Quantization ambiguities and bounds on geometric scalars in anisotropic loop quantum cosmology,Fate of quantum black holes,0.558071
+Covariant entropy bound and loop quantum cosmology,The loop quantum cosmology bounce as a Kasner transition,0.615187
+Covariant entropy bound and loop quantum cosmology,Relational Hamiltonian for group field theory,0.570269
+Covariant entropy bound and loop quantum cosmology,Loop quantum cosmology of a radiation-dominated flat FLRW universe,0.674009
+Covariant entropy bound and loop quantum cosmology,Separate universe framework in group field theory condensate cosmology,0.619567
+Covariant entropy bound and loop quantum cosmology,Ekpyrotic loop quantum cosmology,0.653852
+Covariant entropy bound and loop quantum cosmology,Discrete symmetries in covariant loop quantum gravity,0.578652
+Covariant entropy bound and loop quantum cosmology,Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,0.513931
+Covariant entropy bound and loop quantum cosmology,Static Planck stars from effective loop quantum gravity,0.702416
+Covariant entropy bound and loop quantum cosmology,Dynamical homogenization in effective loop quantum cosmology,0.677821
+Covariant entropy bound and loop quantum cosmology,"Surface terms, asymptotics and thermodynamics of the Holst action",0.5982
+Covariant entropy bound and loop quantum cosmology,Separate universes in loop quantum cosmology: Framework and applications,0.626539
+Covariant entropy bound and loop quantum cosmology,Converting entropy to curvature perturbations after a cosmic bounce,0.553243
+Covariant entropy bound and loop quantum cosmology,Loop quantum cosmology with self-dual variables,0.683501
+Covariant entropy bound and loop quantum cosmology,Loop quantum cosmology of the Bianchi I model: complete quantization,0.625362
+Covariant entropy bound and loop quantum cosmology,Anisotropic loop quantum cosmology with self-dual variables,0.504766
+Covariant entropy bound and loop quantum cosmology,Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,0.362125
+Covariant entropy bound and loop quantum cosmology,Addendum to “Relational Hamiltonian for group field theory”,0.45308
+Covariant entropy bound and loop quantum cosmology,"Modified dispersion relations, inflation, and scale invariance",0.587428
+Covariant entropy bound and loop quantum cosmology,Observational constraints on anisotropies for bouncing alternatives to inflation,0.521751
+Covariant entropy bound and loop quantum cosmology,Pre-big-bang cosmology and circles in the cosmic microwave background,0.575183
+Covariant entropy bound and loop quantum cosmology,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.545016
+Covariant entropy bound and loop quantum cosmology,Relational observables in group field theory,0.410168
+Covariant entropy bound and loop quantum cosmology,Loop quantum cosmology: relation between theory and observations,0.669055
+Covariant entropy bound and loop quantum cosmology,Quantum gravity of dust collapse,0.516167
+Covariant entropy bound and loop quantum cosmology,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.340492
+Covariant entropy bound and loop quantum cosmology,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.604805
+Covariant entropy bound and loop quantum cosmology,Fate of quantum black holes,0.566569
+The loop quantum cosmology bounce as a Kasner transition,Relational Hamiltonian for group field theory,0.58626
+The loop quantum cosmology bounce as a Kasner transition,Loop quantum cosmology of a radiation-dominated flat FLRW universe,0.6824
+The loop quantum cosmology bounce as a Kasner transition,Separate universe framework in group field theory condensate cosmology,0.613221
+The loop quantum cosmology bounce as a Kasner transition,Ekpyrotic loop quantum cosmology,0.689972
+The loop quantum cosmology bounce as a Kasner transition,Discrete symmetries in covariant loop quantum gravity,0.587557
+The loop quantum cosmology bounce as a Kasner transition,Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,0.450753
+The loop quantum cosmology bounce as a Kasner transition,Static Planck stars from effective loop quantum gravity,0.637075
+The loop quantum cosmology bounce as a Kasner transition,Dynamical homogenization in effective loop quantum cosmology,0.710963
+The loop quantum cosmology bounce as a Kasner transition,"Surface terms, asymptotics and thermodynamics of the Holst action",0.539859
+The loop quantum cosmology bounce as a Kasner transition,Separate universes in loop quantum cosmology: Framework and applications,0.721115
+The loop quantum cosmology bounce as a Kasner transition,Converting entropy to curvature perturbations after a cosmic bounce,0.587206
+The loop quantum cosmology bounce as a Kasner transition,Loop quantum cosmology with self-dual variables,0.693712
+The loop quantum cosmology bounce as a Kasner transition,Loop quantum cosmology of the Bianchi I model: complete quantization,0.637025
+The loop quantum cosmology bounce as a Kasner transition,Anisotropic loop quantum cosmology with self-dual variables,0.618084
+The loop quantum cosmology bounce as a Kasner transition,Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,0.35397
+The loop quantum cosmology bounce as a Kasner transition,Addendum to “Relational Hamiltonian for group field theory”,0.477966
+The loop quantum cosmology bounce as a Kasner transition,"Modified dispersion relations, inflation, and scale invariance",0.560739
+The loop quantum cosmology bounce as a Kasner transition,Observational constraints on anisotropies for bouncing alternatives to inflation,0.564736
+The loop quantum cosmology bounce as a Kasner transition,Pre-big-bang cosmology and circles in the cosmic microwave background,0.537918
+The loop quantum cosmology bounce as a Kasner transition,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.847965
+The loop quantum cosmology bounce as a Kasner transition,Relational observables in group field theory,0.318055
+The loop quantum cosmology bounce as a Kasner transition,Loop quantum cosmology: relation between theory and observations,0.720932
+The loop quantum cosmology bounce as a Kasner transition,Quantum gravity of dust collapse,0.483269
+The loop quantum cosmology bounce as a Kasner transition,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.33055
+The loop quantum cosmology bounce as a Kasner transition,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.716386
+The loop quantum cosmology bounce as a Kasner transition,Fate of quantum black holes,0.587182
+Relational Hamiltonian for group field theory,Loop quantum cosmology of a radiation-dominated flat FLRW universe,0.602666
+Relational Hamiltonian for group field theory,Separate universe framework in group field theory condensate cosmology,0.743359
+Relational Hamiltonian for group field theory,Ekpyrotic loop quantum cosmology,0.547517
+Relational Hamiltonian for group field theory,Discrete symmetries in covariant loop quantum gravity,0.518351
+Relational Hamiltonian for group field theory,Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,0.45876
+Relational Hamiltonian for group field theory,Static Planck stars from effective loop quantum gravity,0.5578
+Relational Hamiltonian for group field theory,Dynamical homogenization in effective loop quantum cosmology,0.538464
+Relational Hamiltonian for group field theory,"Surface terms, asymptotics and thermodynamics of the Holst action",0.55308
+Relational Hamiltonian for group field theory,Separate universes in loop quantum cosmology: Framework and applications,0.562777
+Relational Hamiltonian for group field theory,Converting entropy to curvature perturbations after a cosmic bounce,0.48039
+Relational Hamiltonian for group field theory,Loop quantum cosmology with self-dual variables,0.69533
+Relational Hamiltonian for group field theory,Loop quantum cosmology of the Bianchi I model: complete quantization,0.503784
+Relational Hamiltonian for group field theory,Anisotropic loop quantum cosmology with self-dual variables,0.635912
+Relational Hamiltonian for group field theory,Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,0.269088
+Relational Hamiltonian for group field theory,Addendum to “Relational Hamiltonian for group field theory”,0.662548
+Relational Hamiltonian for group field theory,"Modified dispersion relations, inflation, and scale invariance",0.489994
+Relational Hamiltonian for group field theory,Observational constraints on anisotropies for bouncing alternatives to inflation,0.371468
+Relational Hamiltonian for group field theory,Pre-big-bang cosmology and circles in the cosmic microwave background,0.4555
+Relational Hamiltonian for group field theory,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.435247
+Relational Hamiltonian for group field theory,Relational observables in group field theory,0.612771
+Relational Hamiltonian for group field theory,Loop quantum cosmology: relation between theory and observations,0.48715
+Relational Hamiltonian for group field theory,Quantum gravity of dust collapse,0.516686
+Relational Hamiltonian for group field theory,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.24899
+Relational Hamiltonian for group field theory,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.520024
+Relational Hamiltonian for group field theory,Fate of quantum black holes,0.539917
+Loop quantum cosmology of a radiation-dominated flat FLRW universe,Separate universe framework in group field theory condensate cosmology,0.582295
+Loop quantum cosmology of a radiation-dominated flat FLRW universe,Ekpyrotic loop quantum cosmology,0.720468
+Loop quantum cosmology of a radiation-dominated flat FLRW universe,Discrete symmetries in covariant loop quantum gravity,0.519869
+Loop quantum cosmology of a radiation-dominated flat FLRW universe,Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,0.497042
+Loop quantum cosmology of a radiation-dominated flat FLRW universe,Static Planck stars from effective loop quantum gravity,0.651534
+Loop quantum cosmology of a radiation-dominated flat FLRW universe,Dynamical homogenization in effective loop quantum cosmology,0.722061
+Loop quantum cosmology of a radiation-dominated flat FLRW universe,"Surface terms, asymptotics and thermodynamics of the Holst action",0.488723
+Loop quantum cosmology of a radiation-dominated flat FLRW universe,Separate universes in loop quantum cosmology: Framework and applications,0.727776
+Loop quantum cosmology of a radiation-dominated flat FLRW universe,Converting entropy to curvature perturbations after a cosmic bounce,0.617601
+Loop quantum cosmology of a radiation-dominated flat FLRW universe,Loop quantum cosmology with self-dual variables,0.731015
+Loop quantum cosmology of a radiation-dominated flat FLRW universe,Loop quantum cosmology of the Bianchi I model: complete quantization,0.599844
+Loop quantum cosmology of a radiation-dominated flat FLRW universe,Anisotropic loop quantum cosmology with self-dual variables,0.537537
+Loop quantum cosmology of a radiation-dominated flat FLRW universe,Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,0.392766
+Loop quantum cosmology of a radiation-dominated flat FLRW universe,Addendum to “Relational Hamiltonian for group field theory”,0.446109
+Loop quantum cosmology of a radiation-dominated flat FLRW universe,"Modified dispersion relations, inflation, and scale invariance",0.588414
+Loop quantum cosmology of a radiation-dominated flat FLRW universe,Observational constraints on anisotropies for bouncing alternatives to inflation,0.510731
+Loop quantum cosmology of a radiation-dominated flat FLRW universe,Pre-big-bang cosmology and circles in the cosmic microwave background,0.570578
+Loop quantum cosmology of a radiation-dominated flat FLRW universe,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.657295
+Loop quantum cosmology of a radiation-dominated flat FLRW universe,Relational observables in group field theory,0.338567
+Loop quantum cosmology of a radiation-dominated flat FLRW universe,Loop quantum cosmology: relation between theory and observations,0.727585
+Loop quantum cosmology of a radiation-dominated flat FLRW universe,Quantum gravity of dust collapse,0.495175
+Loop quantum cosmology of a radiation-dominated flat FLRW universe,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.38673
+Loop quantum cosmology of a radiation-dominated flat FLRW universe,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.727137
+Loop quantum cosmology of a radiation-dominated flat FLRW universe,Fate of quantum black holes,0.637008
+Separate universe framework in group field theory condensate cosmology,Ekpyrotic loop quantum cosmology,0.582814
+Separate universe framework in group field theory condensate cosmology,Discrete symmetries in covariant loop quantum gravity,0.544532
+Separate universe framework in group field theory condensate cosmology,Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,0.497938
+Separate universe framework in group field theory condensate cosmology,Static Planck stars from effective loop quantum gravity,0.568838
+Separate universe framework in group field theory condensate cosmology,Dynamical homogenization in effective loop quantum cosmology,0.599519
+Separate universe framework in group field theory condensate cosmology,"Surface terms, asymptotics and thermodynamics of the Holst action",0.496178
+Separate universe framework in group field theory condensate cosmology,Separate universes in loop quantum cosmology: Framework and applications,0.694416
+Separate universe framework in group field theory condensate cosmology,Converting entropy to curvature perturbations after a cosmic bounce,0.503779
+Separate universe framework in group field theory condensate cosmology,Loop quantum cosmology with self-dual variables,0.667222
+Separate universe framework in group field theory condensate cosmology,Loop quantum cosmology of the Bianchi I model: complete quantization,0.627323
+Separate universe framework in group field theory condensate cosmology,Anisotropic loop quantum cosmology with self-dual variables,0.5319
+Separate universe framework in group field theory condensate cosmology,Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,0.263141
+Separate universe framework in group field theory condensate cosmology,Addendum to “Relational Hamiltonian for group field theory”,0.552094
+Separate universe framework in group field theory condensate cosmology,"Modified dispersion relations, inflation, and scale invariance",0.584961
+Separate universe framework in group field theory condensate cosmology,Observational constraints on anisotropies for bouncing alternatives to inflation,0.470348
+Separate universe framework in group field theory condensate cosmology,Pre-big-bang cosmology and circles in the cosmic microwave background,0.503611
+Separate universe framework in group field theory condensate cosmology,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.494727
+Separate universe framework in group field theory condensate cosmology,Relational observables in group field theory,0.559746
+Separate universe framework in group field theory condensate cosmology,Loop quantum cosmology: relation between theory and observations,0.60439
+Separate universe framework in group field theory condensate cosmology,Quantum gravity of dust collapse,0.429562
+Separate universe framework in group field theory condensate cosmology,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.260788
+Separate universe framework in group field theory condensate cosmology,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.684605
+Separate universe framework in group field theory condensate cosmology,Fate of quantum black holes,0.519152
+Ekpyrotic loop quantum cosmology,Discrete symmetries in covariant loop quantum gravity,0.516537
+Ekpyrotic loop quantum cosmology,Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,0.536603
+Ekpyrotic loop quantum cosmology,Static Planck stars from effective loop quantum gravity,0.596654
+Ekpyrotic loop quantum cosmology,Dynamical homogenization in effective loop quantum cosmology,0.726366
+Ekpyrotic loop quantum cosmology,"Surface terms, asymptotics and thermodynamics of the Holst action",0.433932
+Ekpyrotic loop quantum cosmology,Separate universes in loop quantum cosmology: Framework and applications,0.745954
+Ekpyrotic loop quantum cosmology,Converting entropy to curvature perturbations after a cosmic bounce,0.757037
+Ekpyrotic loop quantum cosmology,Loop quantum cosmology with self-dual variables,0.664883
+Ekpyrotic loop quantum cosmology,Loop quantum cosmology of the Bianchi I model: complete quantization,0.580401
+Ekpyrotic loop quantum cosmology,Anisotropic loop quantum cosmology with self-dual variables,0.492892
+Ekpyrotic loop quantum cosmology,Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,0.32403
+Ekpyrotic loop quantum cosmology,Addendum to “Relational Hamiltonian for group field theory”,0.435042
+Ekpyrotic loop quantum cosmology,"Modified dispersion relations, inflation, and scale invariance",0.654213
+Ekpyrotic loop quantum cosmology,Observational constraints on anisotropies for bouncing alternatives to inflation,0.660939
+Ekpyrotic loop quantum cosmology,Pre-big-bang cosmology and circles in the cosmic microwave background,0.672869
+Ekpyrotic loop quantum cosmology,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.712921
+Ekpyrotic loop quantum cosmology,Relational observables in group field theory,0.303745
+Ekpyrotic loop quantum cosmology,Loop quantum cosmology: relation between theory and observations,0.811482
+Ekpyrotic loop quantum cosmology,Quantum gravity of dust collapse,0.464077
+Ekpyrotic loop quantum cosmology,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.346616
+Ekpyrotic loop quantum cosmology,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.734042
+Ekpyrotic loop quantum cosmology,Fate of quantum black holes,0.558166
+Discrete symmetries in covariant loop quantum gravity,Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,0.382446
+Discrete symmetries in covariant loop quantum gravity,Static Planck stars from effective loop quantum gravity,0.585163
+Discrete symmetries in covariant loop quantum gravity,Dynamical homogenization in effective loop quantum cosmology,0.519347
+Discrete symmetries in covariant loop quantum gravity,"Surface terms, asymptotics and thermodynamics of the Holst action",0.645892
+Discrete symmetries in covariant loop quantum gravity,Separate universes in loop quantum cosmology: Framework and applications,0.517784
+Discrete symmetries in covariant loop quantum gravity,Converting entropy to curvature perturbations after a cosmic bounce,0.399489
+Discrete symmetries in covariant loop quantum gravity,Loop quantum cosmology with self-dual variables,0.623463
+Discrete symmetries in covariant loop quantum gravity,Loop quantum cosmology of the Bianchi I model: complete quantization,0.594402
+Discrete symmetries in covariant loop quantum gravity,Anisotropic loop quantum cosmology with self-dual variables,0.475318
+Discrete symmetries in covariant loop quantum gravity,Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,0.408903
+Discrete symmetries in covariant loop quantum gravity,Addendum to “Relational Hamiltonian for group field theory”,0.531529
+Discrete symmetries in covariant loop quantum gravity,"Modified dispersion relations, inflation, and scale invariance",0.362217
+Discrete symmetries in covariant loop quantum gravity,Observational constraints on anisotropies for bouncing alternatives to inflation,0.337131
+Discrete symmetries in covariant loop quantum gravity,Pre-big-bang cosmology and circles in the cosmic microwave background,0.356711
+Discrete symmetries in covariant loop quantum gravity,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.535916
+Discrete symmetries in covariant loop quantum gravity,Relational observables in group field theory,0.459669
+Discrete symmetries in covariant loop quantum gravity,Loop quantum cosmology: relation between theory and observations,0.514294
+Discrete symmetries in covariant loop quantum gravity,Quantum gravity of dust collapse,0.344658
+Discrete symmetries in covariant loop quantum gravity,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.403176
+Discrete symmetries in covariant loop quantum gravity,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.499365
+Discrete symmetries in covariant loop quantum gravity,Fate of quantum black holes,0.466597
+Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,Static Planck stars from effective loop quantum gravity,0.58688
+Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,Dynamical homogenization in effective loop quantum cosmology,0.51009
+Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,"Surface terms, asymptotics and thermodynamics of the Holst action",0.475026
+Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,Separate universes in loop quantum cosmology: Framework and applications,0.571986
+Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,Converting entropy to curvature perturbations after a cosmic bounce,0.576718
+Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,Loop quantum cosmology with self-dual variables,0.434195
+Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,Loop quantum cosmology of the Bianchi I model: complete quantization,0.497378
+Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,Anisotropic loop quantum cosmology with self-dual variables,0.350088
+Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,0.245837
+Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,Addendum to “Relational Hamiltonian for group field theory”,0.38979
+Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,"Modified dispersion relations, inflation, and scale invariance",0.635528
+Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,Observational constraints on anisotropies for bouncing alternatives to inflation,0.495102
+Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,Pre-big-bang cosmology and circles in the cosmic microwave background,0.489802
+Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.459975
+Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,Relational observables in group field theory,0.266848
+Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,Loop quantum cosmology: relation between theory and observations,0.475517
+Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,Quantum gravity of dust collapse,0.472722
+Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.258566
+Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.560784
+Interacting dark sector from the trace-free Einstein equations: Cosmological perturbations with no instability,Fate of quantum black holes,0.451643
+Static Planck stars from effective loop quantum gravity,Dynamical homogenization in effective loop quantum cosmology,0.673965
+Static Planck stars from effective loop quantum gravity,"Surface terms, asymptotics and thermodynamics of the Holst action",0.615504
+Static Planck stars from effective loop quantum gravity,Separate universes in loop quantum cosmology: Framework and applications,0.597174
+Static Planck stars from effective loop quantum gravity,Converting entropy to curvature perturbations after a cosmic bounce,0.516821
+Static Planck stars from effective loop quantum gravity,Loop quantum cosmology with self-dual variables,0.654171
+Static Planck stars from effective loop quantum gravity,Loop quantum cosmology of the Bianchi I model: complete quantization,0.647689
+Static Planck stars from effective loop quantum gravity,Anisotropic loop quantum cosmology with self-dual variables,0.507833
+Static Planck stars from effective loop quantum gravity,Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,0.318165
+Static Planck stars from effective loop quantum gravity,Addendum to “Relational Hamiltonian for group field theory”,0.429434
+Static Planck stars from effective loop quantum gravity,"Modified dispersion relations, inflation, and scale invariance",0.51307
+Static Planck stars from effective loop quantum gravity,Observational constraints on anisotropies for bouncing alternatives to inflation,0.431036
+Static Planck stars from effective loop quantum gravity,Pre-big-bang cosmology and circles in the cosmic microwave background,0.519844
+Static Planck stars from effective loop quantum gravity,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.576562
+Static Planck stars from effective loop quantum gravity,Relational observables in group field theory,0.352372
+Static Planck stars from effective loop quantum gravity,Loop quantum cosmology: relation between theory and observations,0.621064
+Static Planck stars from effective loop quantum gravity,Quantum gravity of dust collapse,0.624483
+Static Planck stars from effective loop quantum gravity,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.315922
+Static Planck stars from effective loop quantum gravity,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.589749
+Static Planck stars from effective loop quantum gravity,Fate of quantum black holes,0.658204
+Dynamical homogenization in effective loop quantum cosmology,"Surface terms, asymptotics and thermodynamics of the Holst action",0.483005
+Dynamical homogenization in effective loop quantum cosmology,Separate universes in loop quantum cosmology: Framework and applications,0.740277
+Dynamical homogenization in effective loop quantum cosmology,Converting entropy to curvature perturbations after a cosmic bounce,0.685446
+Dynamical homogenization in effective loop quantum cosmology,Loop quantum cosmology with self-dual variables,0.654434
+Dynamical homogenization in effective loop quantum cosmology,Loop quantum cosmology of the Bianchi I model: complete quantization,0.639671
+Dynamical homogenization in effective loop quantum cosmology,Anisotropic loop quantum cosmology with self-dual variables,0.514351
+Dynamical homogenization in effective loop quantum cosmology,Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,0.306499
+Dynamical homogenization in effective loop quantum cosmology,Addendum to “Relational Hamiltonian for group field theory”,0.393631
+Dynamical homogenization in effective loop quantum cosmology,"Modified dispersion relations, inflation, and scale invariance",0.621278
+Dynamical homogenization in effective loop quantum cosmology,Observational constraints on anisotropies for bouncing alternatives to inflation,0.608821
+Dynamical homogenization in effective loop quantum cosmology,Pre-big-bang cosmology and circles in the cosmic microwave background,0.644453
+Dynamical homogenization in effective loop quantum cosmology,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.742137
+Dynamical homogenization in effective loop quantum cosmology,Relational observables in group field theory,0.260503
+Dynamical homogenization in effective loop quantum cosmology,Loop quantum cosmology: relation between theory and observations,0.755921
+Dynamical homogenization in effective loop quantum cosmology,Quantum gravity of dust collapse,0.505941
+Dynamical homogenization in effective loop quantum cosmology,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.313683
+Dynamical homogenization in effective loop quantum cosmology,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.768675
+Dynamical homogenization in effective loop quantum cosmology,Fate of quantum black holes,0.668279
+"Surface terms, asymptotics and thermodynamics of the Holst action",Separate universes in loop quantum cosmology: Framework and applications,0.434132
+"Surface terms, asymptotics and thermodynamics of the Holst action",Converting entropy to curvature perturbations after a cosmic bounce,0.364842
+"Surface terms, asymptotics and thermodynamics of the Holst action",Loop quantum cosmology with self-dual variables,0.608187
+"Surface terms, asymptotics and thermodynamics of the Holst action",Loop quantum cosmology of the Bianchi I model: complete quantization,0.526686
+"Surface terms, asymptotics and thermodynamics of the Holst action",Anisotropic loop quantum cosmology with self-dual variables,0.495408
+"Surface terms, asymptotics and thermodynamics of the Holst action",Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,0.395201
+"Surface terms, asymptotics and thermodynamics of the Holst action",Addendum to “Relational Hamiltonian for group field theory”,0.573481
+"Surface terms, asymptotics and thermodynamics of the Holst action","Modified dispersion relations, inflation, and scale invariance",0.350466
+"Surface terms, asymptotics and thermodynamics of the Holst action",Observational constraints on anisotropies for bouncing alternatives to inflation,0.290999
+"Surface terms, asymptotics and thermodynamics of the Holst action",Pre-big-bang cosmology and circles in the cosmic microwave background,0.394892
+"Surface terms, asymptotics and thermodynamics of the Holst action",Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.450322
+"Surface terms, asymptotics and thermodynamics of the Holst action",Relational observables in group field theory,0.343044
+"Surface terms, asymptotics and thermodynamics of the Holst action",Loop quantum cosmology: relation between theory and observations,0.407896
+"Surface terms, asymptotics and thermodynamics of the Holst action",Quantum gravity of dust collapse,0.501096
+"Surface terms, asymptotics and thermodynamics of the Holst action",Radiative corrections to the Lorentzian EPRL spin foam propagator,0.376317
+"Surface terms, asymptotics and thermodynamics of the Holst action",Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.384652
+"Surface terms, asymptotics and thermodynamics of the Holst action",Fate of quantum black holes,0.547365
+Separate universes in loop quantum cosmology: Framework and applications,Converting entropy to curvature perturbations after a cosmic bounce,0.664974
+Separate universes in loop quantum cosmology: Framework and applications,Loop quantum cosmology with self-dual variables,0.650974
+Separate universes in loop quantum cosmology: Framework and applications,Loop quantum cosmology of the Bianchi I model: complete quantization,0.679699
+Separate universes in loop quantum cosmology: Framework and applications,Anisotropic loop quantum cosmology with self-dual variables,0.468915
+Separate universes in loop quantum cosmology: Framework and applications,Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,0.352243
+Separate universes in loop quantum cosmology: Framework and applications,Addendum to “Relational Hamiltonian for group field theory”,0.457239
+Separate universes in loop quantum cosmology: Framework and applications,"Modified dispersion relations, inflation, and scale invariance",0.679697
+Separate universes in loop quantum cosmology: Framework and applications,Observational constraints on anisotropies for bouncing alternatives to inflation,0.601503
+Separate universes in loop quantum cosmology: Framework and applications,Pre-big-bang cosmology and circles in the cosmic microwave background,0.559407
+Separate universes in loop quantum cosmology: Framework and applications,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.700685
+Separate universes in loop quantum cosmology: Framework and applications,Relational observables in group field theory,0.362813
+Separate universes in loop quantum cosmology: Framework and applications,Loop quantum cosmology: relation between theory and observations,0.818694
+Separate universes in loop quantum cosmology: Framework and applications,Quantum gravity of dust collapse,0.40939
+Separate universes in loop quantum cosmology: Framework and applications,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.347357
+Separate universes in loop quantum cosmology: Framework and applications,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.950768
+Separate universes in loop quantum cosmology: Framework and applications,Fate of quantum black holes,0.575048
+Converting entropy to curvature perturbations after a cosmic bounce,Loop quantum cosmology with self-dual variables,0.499264
+Converting entropy to curvature perturbations after a cosmic bounce,Loop quantum cosmology of the Bianchi I model: complete quantization,0.513549
+Converting entropy to curvature perturbations after a cosmic bounce,Anisotropic loop quantum cosmology with self-dual variables,0.360595
+Converting entropy to curvature perturbations after a cosmic bounce,Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,0.284976
+Converting entropy to curvature perturbations after a cosmic bounce,Addendum to “Relational Hamiltonian for group field theory”,0.347672
+Converting entropy to curvature perturbations after a cosmic bounce,"Modified dispersion relations, inflation, and scale invariance",0.664705
+Converting entropy to curvature perturbations after a cosmic bounce,Observational constraints on anisotropies for bouncing alternatives to inflation,0.718072
+Converting entropy to curvature perturbations after a cosmic bounce,Pre-big-bang cosmology and circles in the cosmic microwave background,0.63029
+Converting entropy to curvature perturbations after a cosmic bounce,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.602929
+Converting entropy to curvature perturbations after a cosmic bounce,Relational observables in group field theory,0.242237
+Converting entropy to curvature perturbations after a cosmic bounce,Loop quantum cosmology: relation between theory and observations,0.696496
+Converting entropy to curvature perturbations after a cosmic bounce,Quantum gravity of dust collapse,0.512954
+Converting entropy to curvature perturbations after a cosmic bounce,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.286715
+Converting entropy to curvature perturbations after a cosmic bounce,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.690347
+Converting entropy to curvature perturbations after a cosmic bounce,Fate of quantum black holes,0.481536
+Loop quantum cosmology with self-dual variables,Loop quantum cosmology of the Bianchi I model: complete quantization,0.596646
+Loop quantum cosmology with self-dual variables,Anisotropic loop quantum cosmology with self-dual variables,0.768207
+Loop quantum cosmology with self-dual variables,Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,0.312053
+Loop quantum cosmology with self-dual variables,Addendum to “Relational Hamiltonian for group field theory”,0.538858
+Loop quantum cosmology with self-dual variables,"Modified dispersion relations, inflation, and scale invariance",0.541353
+Loop quantum cosmology with self-dual variables,Observational constraints on anisotropies for bouncing alternatives to inflation,0.460349
+Loop quantum cosmology with self-dual variables,Pre-big-bang cosmology and circles in the cosmic microwave background,0.54054
+Loop quantum cosmology with self-dual variables,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.602033
+Loop quantum cosmology with self-dual variables,Relational observables in group field theory,0.442147
+Loop quantum cosmology with self-dual variables,Loop quantum cosmology: relation between theory and observations,0.661925
+Loop quantum cosmology with self-dual variables,Quantum gravity of dust collapse,0.469254
+Loop quantum cosmology with self-dual variables,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.309457
+Loop quantum cosmology with self-dual variables,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.61312
+Loop quantum cosmology with self-dual variables,Fate of quantum black holes,0.602286
+Loop quantum cosmology of the Bianchi I model: complete quantization,Anisotropic loop quantum cosmology with self-dual variables,0.48759
+Loop quantum cosmology of the Bianchi I model: complete quantization,Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,0.332153
+Loop quantum cosmology of the Bianchi I model: complete quantization,Addendum to “Relational Hamiltonian for group field theory”,0.44775
+Loop quantum cosmology of the Bianchi I model: complete quantization,"Modified dispersion relations, inflation, and scale invariance",0.509564
+Loop quantum cosmology of the Bianchi I model: complete quantization,Observational constraints on anisotropies for bouncing alternatives to inflation,0.43293
+Loop quantum cosmology of the Bianchi I model: complete quantization,Pre-big-bang cosmology and circles in the cosmic microwave background,0.490755
+Loop quantum cosmology of the Bianchi I model: complete quantization,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.548511
+Loop quantum cosmology of the Bianchi I model: complete quantization,Relational observables in group field theory,0.3661
+Loop quantum cosmology of the Bianchi I model: complete quantization,Loop quantum cosmology: relation between theory and observations,0.702787
+Loop quantum cosmology of the Bianchi I model: complete quantization,Quantum gravity of dust collapse,0.469893
+Loop quantum cosmology of the Bianchi I model: complete quantization,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.326253
+Loop quantum cosmology of the Bianchi I model: complete quantization,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.695208
+Loop quantum cosmology of the Bianchi I model: complete quantization,Fate of quantum black holes,0.529974
+Anisotropic loop quantum cosmology with self-dual variables,Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,0.330156
+Anisotropic loop quantum cosmology with self-dual variables,Addendum to “Relational Hamiltonian for group field theory”,0.49436
+Anisotropic loop quantum cosmology with self-dual variables,"Modified dispersion relations, inflation, and scale invariance",0.390023
+Anisotropic loop quantum cosmology with self-dual variables,Observational constraints on anisotropies for bouncing alternatives to inflation,0.342624
+Anisotropic loop quantum cosmology with self-dual variables,Pre-big-bang cosmology and circles in the cosmic microwave background,0.4081
+Anisotropic loop quantum cosmology with self-dual variables,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.531824
+Anisotropic loop quantum cosmology with self-dual variables,Relational observables in group field theory,0.429179
+Anisotropic loop quantum cosmology with self-dual variables,Loop quantum cosmology: relation between theory and observations,0.485519
+Anisotropic loop quantum cosmology with self-dual variables,Quantum gravity of dust collapse,0.442911
+Anisotropic loop quantum cosmology with self-dual variables,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.294251
+Anisotropic loop quantum cosmology with self-dual variables,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.436668
+Anisotropic loop quantum cosmology with self-dual variables,Fate of quantum black holes,0.581605
+Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,Addendum to “Relational Hamiltonian for group field theory”,0.287015
+Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,"Modified dispersion relations, inflation, and scale invariance",0.257636
+Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,Observational constraints on anisotropies for bouncing alternatives to inflation,0.253581
+Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,Pre-big-bang cosmology and circles in the cosmic microwave background,0.212504
+Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.386442
+Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,Relational observables in group field theory,0.205328
+Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,Loop quantum cosmology: relation between theory and observations,0.316989
+Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,Quantum gravity of dust collapse,0.268041
+Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.949933
+Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.355926
+Radiative corrections to the Lorentzian Engle-Pereira-Rovelli-Livine spin foam propagator,Fate of quantum black holes,0.377616
+Addendum to “Relational Hamiltonian for group field theory”,"Modified dispersion relations, inflation, and scale invariance",0.333516
+Addendum to “Relational Hamiltonian for group field theory”,Observational constraints on anisotropies for bouncing alternatives to inflation,0.329604
+Addendum to “Relational Hamiltonian for group field theory”,Pre-big-bang cosmology and circles in the cosmic microwave background,0.333349
+Addendum to “Relational Hamiltonian for group field theory”,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.372172
+Addendum to “Relational Hamiltonian for group field theory”,Relational observables in group field theory,0.547196
+Addendum to “Relational Hamiltonian for group field theory”,Loop quantum cosmology: relation between theory and observations,0.41396
+Addendum to “Relational Hamiltonian for group field theory”,Quantum gravity of dust collapse,0.326136
+Addendum to “Relational Hamiltonian for group field theory”,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.273959
+Addendum to “Relational Hamiltonian for group field theory”,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.419408
+Addendum to “Relational Hamiltonian for group field theory”,Fate of quantum black holes,0.379511
+"Modified dispersion relations, inflation, and scale invariance",Observational constraints on anisotropies for bouncing alternatives to inflation,0.676401
+"Modified dispersion relations, inflation, and scale invariance",Pre-big-bang cosmology and circles in the cosmic microwave background,0.569485
+"Modified dispersion relations, inflation, and scale invariance",Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.547531
+"Modified dispersion relations, inflation, and scale invariance",Relational observables in group field theory,0.286491
+"Modified dispersion relations, inflation, and scale invariance",Loop quantum cosmology: relation between theory and observations,0.620186
+"Modified dispersion relations, inflation, and scale invariance",Quantum gravity of dust collapse,0.453962
+"Modified dispersion relations, inflation, and scale invariance",Radiative corrections to the Lorentzian EPRL spin foam propagator,0.252642
+"Modified dispersion relations, inflation, and scale invariance",Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.671071
+"Modified dispersion relations, inflation, and scale invariance",Fate of quantum black holes,0.492429
+Observational constraints on anisotropies for bouncing alternatives to inflation,Pre-big-bang cosmology and circles in the cosmic microwave background,0.647452
+Observational constraints on anisotropies for bouncing alternatives to inflation,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.594658
+Observational constraints on anisotropies for bouncing alternatives to inflation,Relational observables in group field theory,0.23568
+Observational constraints on anisotropies for bouncing alternatives to inflation,Loop quantum cosmology: relation between theory and observations,0.658697
+Observational constraints on anisotropies for bouncing alternatives to inflation,Quantum gravity of dust collapse,0.421586
+Observational constraints on anisotropies for bouncing alternatives to inflation,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.263372
+Observational constraints on anisotropies for bouncing alternatives to inflation,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.585601
+Observational constraints on anisotropies for bouncing alternatives to inflation,Fate of quantum black holes,0.407763
+Pre-big-bang cosmology and circles in the cosmic microwave background,Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,0.531641
+Pre-big-bang cosmology and circles in the cosmic microwave background,Relational observables in group field theory,0.216914
+Pre-big-bang cosmology and circles in the cosmic microwave background,Loop quantum cosmology: relation between theory and observations,0.653578
+Pre-big-bang cosmology and circles in the cosmic microwave background,Quantum gravity of dust collapse,0.532413
+Pre-big-bang cosmology and circles in the cosmic microwave background,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.231203
+Pre-big-bang cosmology and circles in the cosmic microwave background,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.561063
+Pre-big-bang cosmology and circles in the cosmic microwave background,Fate of quantum black holes,0.498384
+Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,Relational observables in group field theory,0.204441
+Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,Loop quantum cosmology: relation between theory and observations,0.672439
+Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,Quantum gravity of dust collapse,0.441893
+Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.380666
+Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.702726
+Numerics of Bianchi type II and type IX spacetimes in effective loop quantum cosmology,Fate of quantum black holes,0.612873
+Relational observables in group field theory,Loop quantum cosmology: relation between theory and observations,0.327783
+Relational observables in group field theory,Quantum gravity of dust collapse,0.244011
+Relational observables in group field theory,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.218165
+Relational observables in group field theory,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.339158
+Relational observables in group field theory,Fate of quantum black holes,0.320841
+Loop quantum cosmology: relation between theory and observations,Quantum gravity of dust collapse,0.392641
+Loop quantum cosmology: relation between theory and observations,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.317468
+Loop quantum cosmology: relation between theory and observations,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.834226
+Loop quantum cosmology: relation between theory and observations,Fate of quantum black holes,0.539298
+Quantum gravity of dust collapse,Radiative corrections to the Lorentzian EPRL spin foam propagator,0.251821
+Quantum gravity of dust collapse,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.394777
+Quantum gravity of dust collapse,Fate of quantum black holes,0.71119
+Radiative corrections to the Lorentzian EPRL spin foam propagator,Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,0.356607
+Radiative corrections to the Lorentzian EPRL spin foam propagator,Fate of quantum black holes,0.37045
+Evolution of the tensor-to-scalar ratio across the loop quantum cosmology bounce,Fate of quantum black holes,0.585954

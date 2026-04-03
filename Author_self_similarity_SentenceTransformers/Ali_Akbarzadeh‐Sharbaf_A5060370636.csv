@@ -1,0 +1,92 @@
+title_i,title_j,cosine_similarity
+Implementation of a First-Order ABC in Mixed Finite-Element Time-Domain Formulations Using Equivalent Currents,A Stable and Efficient Direct Time Integration of the Vector Wave Equation in the Finite-Element Time-Domain Method for Dispersive Media,0.56347
+Implementation of a First-Order ABC in Mixed Finite-Element Time-Domain Formulations Using Equivalent Currents,On the Development of Nonoverlapping and Stable Hybrid FETD-FDTD Formulations,0.695711
+Implementation of a First-Order ABC in Mixed Finite-Element Time-Domain Formulations Using Equivalent Currents,Finite-Element Time-Domain Solution of the Vector Wave Equation in Doubly Dispersive Media Using Möbius Transformation Technique,0.683338
+Implementation of a First-Order ABC in Mixed Finite-Element Time-Domain Formulations Using Equivalent Currents,A Provably Stable and Simple FDTD Formulation for Electromagnetic Modeling of Graphene Sheets,0.566274
+Implementation of a First-Order ABC in Mixed Finite-Element Time-Domain Formulations Using Equivalent Currents,An Unconditionally Stable and Energy-Preserving Domain-Decomposition Method for Transient Modeling of Large-Scale Electromagnetic Problems,0.581659
+Implementation of a First-Order ABC in Mixed Finite-Element Time-Domain Formulations Using Equivalent Currents,Solving Finite-Element Time-Domain Problems With GaBP,0.428497
+Implementation of a First-Order ABC in Mixed Finite-Element Time-Domain Formulations Using Equivalent Currents,Finite-Element Gaussian Belief Propagation Solver for Multi-Physics Modeling of Radiofrequency Tumor Ablation,0.340733
+Implementation of a First-Order ABC in Mixed Finite-Element Time-Domain Formulations Using Equivalent Currents,Application of the Deep Operator Network (DeepONet) to Electromagnetic Simulations,0.369714
+Implementation of a First-Order ABC in Mixed Finite-Element Time-Domain Formulations Using Equivalent Currents,Novel Hybrid FETD–FDTD Formulations for Dispersive Media,0.534768
+Implementation of a First-Order ABC in Mixed Finite-Element Time-Domain Formulations Using Equivalent Currents,A unified implementation of the perfectly matched layer in the finite-element time-domain method,0.615256
+Implementation of a First-Order ABC in Mixed Finite-Element Time-Domain Formulations Using Equivalent Currents,Wideband finite-difference time-domain modeling of graphene via recursive fast fourier transform,0.518678
+Implementation of a First-Order ABC in Mixed Finite-Element Time-Domain Formulations Using Equivalent Currents,Efficient transient full-wave analysis of high-speed interconnects in multilayer PCBs,0.518119
+Implementation of a First-Order ABC in Mixed Finite-Element Time-Domain Formulations Using Equivalent Currents,The Finite‐Element Time‐Domain Method for Dispersive and Nonlinear Media,0.611475
+A Stable and Efficient Direct Time Integration of the Vector Wave Equation in the Finite-Element Time-Domain Method for Dispersive Media,On the Development of Nonoverlapping and Stable Hybrid FETD-FDTD Formulations,0.600825
+A Stable and Efficient Direct Time Integration of the Vector Wave Equation in the Finite-Element Time-Domain Method for Dispersive Media,Finite-Element Time-Domain Solution of the Vector Wave Equation in Doubly Dispersive Media Using Möbius Transformation Technique,0.759495
+A Stable and Efficient Direct Time Integration of the Vector Wave Equation in the Finite-Element Time-Domain Method for Dispersive Media,A Provably Stable and Simple FDTD Formulation for Electromagnetic Modeling of Graphene Sheets,0.480304
+A Stable and Efficient Direct Time Integration of the Vector Wave Equation in the Finite-Element Time-Domain Method for Dispersive Media,An Unconditionally Stable and Energy-Preserving Domain-Decomposition Method for Transient Modeling of Large-Scale Electromagnetic Problems,0.492669
+A Stable and Efficient Direct Time Integration of the Vector Wave Equation in the Finite-Element Time-Domain Method for Dispersive Media,Solving Finite-Element Time-Domain Problems With GaBP,0.418427
+A Stable and Efficient Direct Time Integration of the Vector Wave Equation in the Finite-Element Time-Domain Method for Dispersive Media,Finite-Element Gaussian Belief Propagation Solver for Multi-Physics Modeling of Radiofrequency Tumor Ablation,0.294923
+A Stable and Efficient Direct Time Integration of the Vector Wave Equation in the Finite-Element Time-Domain Method for Dispersive Media,Application of the Deep Operator Network (DeepONet) to Electromagnetic Simulations,0.300237
+A Stable and Efficient Direct Time Integration of the Vector Wave Equation in the Finite-Element Time-Domain Method for Dispersive Media,Novel Hybrid FETD–FDTD Formulations for Dispersive Media,0.724314
+A Stable and Efficient Direct Time Integration of the Vector Wave Equation in the Finite-Element Time-Domain Method for Dispersive Media,A unified implementation of the perfectly matched layer in the finite-element time-domain method,0.511865
+A Stable and Efficient Direct Time Integration of the Vector Wave Equation in the Finite-Element Time-Domain Method for Dispersive Media,Wideband finite-difference time-domain modeling of graphene via recursive fast fourier transform,0.412502
+A Stable and Efficient Direct Time Integration of the Vector Wave Equation in the Finite-Element Time-Domain Method for Dispersive Media,Efficient transient full-wave analysis of high-speed interconnects in multilayer PCBs,0.411535
+A Stable and Efficient Direct Time Integration of the Vector Wave Equation in the Finite-Element Time-Domain Method for Dispersive Media,The Finite‐Element Time‐Domain Method for Dispersive and Nonlinear Media,0.74559
+On the Development of Nonoverlapping and Stable Hybrid FETD-FDTD Formulations,Finite-Element Time-Domain Solution of the Vector Wave Equation in Doubly Dispersive Media Using Möbius Transformation Technique,0.649487
+On the Development of Nonoverlapping and Stable Hybrid FETD-FDTD Formulations,A Provably Stable and Simple FDTD Formulation for Electromagnetic Modeling of Graphene Sheets,0.648953
+On the Development of Nonoverlapping and Stable Hybrid FETD-FDTD Formulations,An Unconditionally Stable and Energy-Preserving Domain-Decomposition Method for Transient Modeling of Large-Scale Electromagnetic Problems,0.815086
+On the Development of Nonoverlapping and Stable Hybrid FETD-FDTD Formulations,Solving Finite-Element Time-Domain Problems With GaBP,0.475149
+On the Development of Nonoverlapping and Stable Hybrid FETD-FDTD Formulations,Finite-Element Gaussian Belief Propagation Solver for Multi-Physics Modeling of Radiofrequency Tumor Ablation,0.331268
+On the Development of Nonoverlapping and Stable Hybrid FETD-FDTD Formulations,Application of the Deep Operator Network (DeepONet) to Electromagnetic Simulations,0.379615
+On the Development of Nonoverlapping and Stable Hybrid FETD-FDTD Formulations,Novel Hybrid FETD–FDTD Formulations for Dispersive Media,0.719288
+On the Development of Nonoverlapping and Stable Hybrid FETD-FDTD Formulations,A unified implementation of the perfectly matched layer in the finite-element time-domain method,0.64762
+On the Development of Nonoverlapping and Stable Hybrid FETD-FDTD Formulations,Wideband finite-difference time-domain modeling of graphene via recursive fast fourier transform,0.495193
+On the Development of Nonoverlapping and Stable Hybrid FETD-FDTD Formulations,Efficient transient full-wave analysis of high-speed interconnects in multilayer PCBs,0.622802
+On the Development of Nonoverlapping and Stable Hybrid FETD-FDTD Formulations,The Finite‐Element Time‐Domain Method for Dispersive and Nonlinear Media,0.704885
+Finite-Element Time-Domain Solution of the Vector Wave Equation in Doubly Dispersive Media Using Möbius Transformation Technique,A Provably Stable and Simple FDTD Formulation for Electromagnetic Modeling of Graphene Sheets,0.58596
+Finite-Element Time-Domain Solution of the Vector Wave Equation in Doubly Dispersive Media Using Möbius Transformation Technique,An Unconditionally Stable and Energy-Preserving Domain-Decomposition Method for Transient Modeling of Large-Scale Electromagnetic Problems,0.552005
+Finite-Element Time-Domain Solution of the Vector Wave Equation in Doubly Dispersive Media Using Möbius Transformation Technique,Solving Finite-Element Time-Domain Problems With GaBP,0.480753
+Finite-Element Time-Domain Solution of the Vector Wave Equation in Doubly Dispersive Media Using Möbius Transformation Technique,Finite-Element Gaussian Belief Propagation Solver for Multi-Physics Modeling of Radiofrequency Tumor Ablation,0.30367
+Finite-Element Time-Domain Solution of the Vector Wave Equation in Doubly Dispersive Media Using Möbius Transformation Technique,Application of the Deep Operator Network (DeepONet) to Electromagnetic Simulations,0.409174
+Finite-Element Time-Domain Solution of the Vector Wave Equation in Doubly Dispersive Media Using Möbius Transformation Technique,Novel Hybrid FETD–FDTD Formulations for Dispersive Media,0.683359
+Finite-Element Time-Domain Solution of the Vector Wave Equation in Doubly Dispersive Media Using Möbius Transformation Technique,A unified implementation of the perfectly matched layer in the finite-element time-domain method,0.529317
+Finite-Element Time-Domain Solution of the Vector Wave Equation in Doubly Dispersive Media Using Möbius Transformation Technique,Wideband finite-difference time-domain modeling of graphene via recursive fast fourier transform,0.550673
+Finite-Element Time-Domain Solution of the Vector Wave Equation in Doubly Dispersive Media Using Möbius Transformation Technique,Efficient transient full-wave analysis of high-speed interconnects in multilayer PCBs,0.513677
+Finite-Element Time-Domain Solution of the Vector Wave Equation in Doubly Dispersive Media Using Möbius Transformation Technique,The Finite‐Element Time‐Domain Method for Dispersive and Nonlinear Media,0.74967
+A Provably Stable and Simple FDTD Formulation for Electromagnetic Modeling of Graphene Sheets,An Unconditionally Stable and Energy-Preserving Domain-Decomposition Method for Transient Modeling of Large-Scale Electromagnetic Problems,0.562221
+A Provably Stable and Simple FDTD Formulation for Electromagnetic Modeling of Graphene Sheets,Solving Finite-Element Time-Domain Problems With GaBP,0.424484
+A Provably Stable and Simple FDTD Formulation for Electromagnetic Modeling of Graphene Sheets,Finite-Element Gaussian Belief Propagation Solver for Multi-Physics Modeling of Radiofrequency Tumor Ablation,0.274547
+A Provably Stable and Simple FDTD Formulation for Electromagnetic Modeling of Graphene Sheets,Application of the Deep Operator Network (DeepONet) to Electromagnetic Simulations,0.277514
+A Provably Stable and Simple FDTD Formulation for Electromagnetic Modeling of Graphene Sheets,Novel Hybrid FETD–FDTD Formulations for Dispersive Media,0.545835
+A Provably Stable and Simple FDTD Formulation for Electromagnetic Modeling of Graphene Sheets,A unified implementation of the perfectly matched layer in the finite-element time-domain method,0.513519
+A Provably Stable and Simple FDTD Formulation for Electromagnetic Modeling of Graphene Sheets,Wideband finite-difference time-domain modeling of graphene via recursive fast fourier transform,0.817839
+A Provably Stable and Simple FDTD Formulation for Electromagnetic Modeling of Graphene Sheets,Efficient transient full-wave analysis of high-speed interconnects in multilayer PCBs,0.517426
+A Provably Stable and Simple FDTD Formulation for Electromagnetic Modeling of Graphene Sheets,The Finite‐Element Time‐Domain Method for Dispersive and Nonlinear Media,0.58802
+An Unconditionally Stable and Energy-Preserving Domain-Decomposition Method for Transient Modeling of Large-Scale Electromagnetic Problems,Solving Finite-Element Time-Domain Problems With GaBP,0.446253
+An Unconditionally Stable and Energy-Preserving Domain-Decomposition Method for Transient Modeling of Large-Scale Electromagnetic Problems,Finite-Element Gaussian Belief Propagation Solver for Multi-Physics Modeling of Radiofrequency Tumor Ablation,0.346846
+An Unconditionally Stable and Energy-Preserving Domain-Decomposition Method for Transient Modeling of Large-Scale Electromagnetic Problems,Application of the Deep Operator Network (DeepONet) to Electromagnetic Simulations,0.387984
+An Unconditionally Stable and Energy-Preserving Domain-Decomposition Method for Transient Modeling of Large-Scale Electromagnetic Problems,Novel Hybrid FETD–FDTD Formulations for Dispersive Media,0.630729
+An Unconditionally Stable and Energy-Preserving Domain-Decomposition Method for Transient Modeling of Large-Scale Electromagnetic Problems,A unified implementation of the perfectly matched layer in the finite-element time-domain method,0.508034
+An Unconditionally Stable and Energy-Preserving Domain-Decomposition Method for Transient Modeling of Large-Scale Electromagnetic Problems,Wideband finite-difference time-domain modeling of graphene via recursive fast fourier transform,0.493206
+An Unconditionally Stable and Energy-Preserving Domain-Decomposition Method for Transient Modeling of Large-Scale Electromagnetic Problems,Efficient transient full-wave analysis of high-speed interconnects in multilayer PCBs,0.604573
+An Unconditionally Stable and Energy-Preserving Domain-Decomposition Method for Transient Modeling of Large-Scale Electromagnetic Problems,The Finite‐Element Time‐Domain Method for Dispersive and Nonlinear Media,0.606611
+Solving Finite-Element Time-Domain Problems With GaBP,Finite-Element Gaussian Belief Propagation Solver for Multi-Physics Modeling of Radiofrequency Tumor Ablation,0.63285
+Solving Finite-Element Time-Domain Problems With GaBP,Application of the Deep Operator Network (DeepONet) to Electromagnetic Simulations,0.290318
+Solving Finite-Element Time-Domain Problems With GaBP,Novel Hybrid FETD–FDTD Formulations for Dispersive Media,0.473249
+Solving Finite-Element Time-Domain Problems With GaBP,A unified implementation of the perfectly matched layer in the finite-element time-domain method,0.457215
+Solving Finite-Element Time-Domain Problems With GaBP,Wideband finite-difference time-domain modeling of graphene via recursive fast fourier transform,0.433355
+Solving Finite-Element Time-Domain Problems With GaBP,Efficient transient full-wave analysis of high-speed interconnects in multilayer PCBs,0.473362
+Solving Finite-Element Time-Domain Problems With GaBP,The Finite‐Element Time‐Domain Method for Dispersive and Nonlinear Media,0.474594
+Finite-Element Gaussian Belief Propagation Solver for Multi-Physics Modeling of Radiofrequency Tumor Ablation,Application of the Deep Operator Network (DeepONet) to Electromagnetic Simulations,0.350763
+Finite-Element Gaussian Belief Propagation Solver for Multi-Physics Modeling of Radiofrequency Tumor Ablation,Novel Hybrid FETD–FDTD Formulations for Dispersive Media,0.270226
+Finite-Element Gaussian Belief Propagation Solver for Multi-Physics Modeling of Radiofrequency Tumor Ablation,A unified implementation of the perfectly matched layer in the finite-element time-domain method,0.292345
+Finite-Element Gaussian Belief Propagation Solver for Multi-Physics Modeling of Radiofrequency Tumor Ablation,Wideband finite-difference time-domain modeling of graphene via recursive fast fourier transform,0.280717
+Finite-Element Gaussian Belief Propagation Solver for Multi-Physics Modeling of Radiofrequency Tumor Ablation,Efficient transient full-wave analysis of high-speed interconnects in multilayer PCBs,0.2865
+Finite-Element Gaussian Belief Propagation Solver for Multi-Physics Modeling of Radiofrequency Tumor Ablation,The Finite‐Element Time‐Domain Method for Dispersive and Nonlinear Media,0.354841
+Application of the Deep Operator Network (DeepONet) to Electromagnetic Simulations,Novel Hybrid FETD–FDTD Formulations for Dispersive Media,0.221305
+Application of the Deep Operator Network (DeepONet) to Electromagnetic Simulations,A unified implementation of the perfectly matched layer in the finite-element time-domain method,0.336458
+Application of the Deep Operator Network (DeepONet) to Electromagnetic Simulations,Wideband finite-difference time-domain modeling of graphene via recursive fast fourier transform,0.256844
+Application of the Deep Operator Network (DeepONet) to Electromagnetic Simulations,Efficient transient full-wave analysis of high-speed interconnects in multilayer PCBs,0.304648
+Application of the Deep Operator Network (DeepONet) to Electromagnetic Simulations,The Finite‐Element Time‐Domain Method for Dispersive and Nonlinear Media,0.427294
+Novel Hybrid FETD–FDTD Formulations for Dispersive Media,A unified implementation of the perfectly matched layer in the finite-element time-domain method,0.499084
+Novel Hybrid FETD–FDTD Formulations for Dispersive Media,Wideband finite-difference time-domain modeling of graphene via recursive fast fourier transform,0.490131
+Novel Hybrid FETD–FDTD Formulations for Dispersive Media,Efficient transient full-wave analysis of high-speed interconnects in multilayer PCBs,0.497856
+Novel Hybrid FETD–FDTD Formulations for Dispersive Media,The Finite‐Element Time‐Domain Method for Dispersive and Nonlinear Media,0.696524
+A unified implementation of the perfectly matched layer in the finite-element time-domain method,Wideband finite-difference time-domain modeling of graphene via recursive fast fourier transform,0.450615
+A unified implementation of the perfectly matched layer in the finite-element time-domain method,Efficient transient full-wave analysis of high-speed interconnects in multilayer PCBs,0.579705
+A unified implementation of the perfectly matched layer in the finite-element time-domain method,The Finite‐Element Time‐Domain Method for Dispersive and Nonlinear Media,0.537341
+Wideband finite-difference time-domain modeling of graphene via recursive fast fourier transform,Efficient transient full-wave analysis of high-speed interconnects in multilayer PCBs,0.433872
+Wideband finite-difference time-domain modeling of graphene via recursive fast fourier transform,The Finite‐Element Time‐Domain Method for Dispersive and Nonlinear Media,0.496678
+Efficient transient full-wave analysis of high-speed interconnects in multilayer PCBs,The Finite‐Element Time‐Domain Method for Dispersive and Nonlinear Media,0.516454

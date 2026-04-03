@@ -1,0 +1,22 @@
+title_i,title_j,cosine_similarity
+Experimental Demonstration of a SAC-OCDMA PON With Burst-Mode Reception: Local Versus Centralized Sources,"A Standalone Burst-Mode Receiver With Clock and Data Recovery, Clock Phase Alignment, and RS(255, 239) Codes for SAC-OCDMA Applications",0.646362
+Experimental Demonstration of a SAC-OCDMA PON With Burst-Mode Reception: Local Versus Centralized Sources,Effect of channel impairments on the performance of burst-mode receivers in gigabit PON,0.58243
+Experimental Demonstration of a SAC-OCDMA PON With Burst-Mode Reception: Local Versus Centralized Sources,Dual Architecture Uplink Demonstration of a 7×622 Mbps SAC-OCDMA PON Using a Burst-Mode Receiver,0.828677
+Experimental Demonstration of a SAC-OCDMA PON With Burst-Mode Reception: Local Versus Centralized Sources,Performance of Incoherent SAC-OCDMA Using a Burst-Mode Receiver with CDR and FEC,0.640114
+Experimental Demonstration of a SAC-OCDMA PON With Burst-Mode Reception: Local Versus Centralized Sources,Experimental investigation of packet loss ratio performance of burst-mode receivers in GPON,0.383136
+Experimental Demonstration of a SAC-OCDMA PON With Burst-Mode Reception: Local Versus Centralized Sources,Experimental demonstration of OCDMA and OTDMA PONs with FEC and burst-mode reception,0.812004
+"A Standalone Burst-Mode Receiver With Clock and Data Recovery, Clock Phase Alignment, and RS(255, 239) Codes for SAC-OCDMA Applications",Effect of channel impairments on the performance of burst-mode receivers in gigabit PON,0.764361
+"A Standalone Burst-Mode Receiver With Clock and Data Recovery, Clock Phase Alignment, and RS(255, 239) Codes for SAC-OCDMA Applications",Dual Architecture Uplink Demonstration of a 7×622 Mbps SAC-OCDMA PON Using a Burst-Mode Receiver,0.74584
+"A Standalone Burst-Mode Receiver With Clock and Data Recovery, Clock Phase Alignment, and RS(255, 239) Codes for SAC-OCDMA Applications",Performance of Incoherent SAC-OCDMA Using a Burst-Mode Receiver with CDR and FEC,0.62273
+"A Standalone Burst-Mode Receiver With Clock and Data Recovery, Clock Phase Alignment, and RS(255, 239) Codes for SAC-OCDMA Applications",Experimental investigation of packet loss ratio performance of burst-mode receivers in GPON,0.52709
+"A Standalone Burst-Mode Receiver With Clock and Data Recovery, Clock Phase Alignment, and RS(255, 239) Codes for SAC-OCDMA Applications",Experimental demonstration of OCDMA and OTDMA PONs with FEC and burst-mode reception,0.75307
+Effect of channel impairments on the performance of burst-mode receivers in gigabit PON,Dual Architecture Uplink Demonstration of a 7×622 Mbps SAC-OCDMA PON Using a Burst-Mode Receiver,0.656401
+Effect of channel impairments on the performance of burst-mode receivers in gigabit PON,Performance of Incoherent SAC-OCDMA Using a Burst-Mode Receiver with CDR and FEC,0.462361
+Effect of channel impairments on the performance of burst-mode receivers in gigabit PON,Experimental investigation of packet loss ratio performance of burst-mode receivers in GPON,0.729155
+Effect of channel impairments on the performance of burst-mode receivers in gigabit PON,Experimental demonstration of OCDMA and OTDMA PONs with FEC and burst-mode reception,0.694769
+Dual Architecture Uplink Demonstration of a 7×622 Mbps SAC-OCDMA PON Using a Burst-Mode Receiver,Performance of Incoherent SAC-OCDMA Using a Burst-Mode Receiver with CDR and FEC,0.555057
+Dual Architecture Uplink Demonstration of a 7×622 Mbps SAC-OCDMA PON Using a Burst-Mode Receiver,Experimental investigation of packet loss ratio performance of burst-mode receivers in GPON,0.454866
+Dual Architecture Uplink Demonstration of a 7×622 Mbps SAC-OCDMA PON Using a Burst-Mode Receiver,Experimental demonstration of OCDMA and OTDMA PONs with FEC and burst-mode reception,0.841882
+Performance of Incoherent SAC-OCDMA Using a Burst-Mode Receiver with CDR and FEC,Experimental investigation of packet loss ratio performance of burst-mode receivers in GPON,0.34939
+Performance of Incoherent SAC-OCDMA Using a Burst-Mode Receiver with CDR and FEC,Experimental demonstration of OCDMA and OTDMA PONs with FEC and burst-mode reception,0.586115
+Experimental investigation of packet loss ratio performance of burst-mode receivers in GPON,Experimental demonstration of OCDMA and OTDMA PONs with FEC and burst-mode reception,0.465636

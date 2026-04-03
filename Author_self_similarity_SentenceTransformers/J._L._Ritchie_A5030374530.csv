@@ -1,436 +1,466 @@
-abstract_i,abstract_j,cosine_similarity
-0,1,0.659798
-0,2,0.73561
-0,3,0.481615
-0,4,0.497965
-0,5,0.675126
-0,6,0.453894
-0,7,0.70628
-0,8,0.211135
-0,9,0.448618
-0,10,0.486297
-0,11,0.315132
-0,12,0.553068
-0,13,0.477701
-0,14,0.996723
-0,15,0.772334
-0,16,0.481631
-0,17,0.31536
-0,18,0.708324
-0,19,0.60409
-0,20,-0.029544
-0,21,0.073425
-0,22,0.08217
-0,23,0.014033
-0,24,0.766775
-0,25,0.485975
-0,26,0.674941
-0,27,0.652413
-0,28,0.338421
-0,29,0.660696
-1,2,0.681011
-1,3,0.49446
-1,4,0.462011
-1,5,0.614985
-1,6,0.409297
-1,7,0.549139
-1,8,0.18669
-1,9,0.427077
-1,10,0.572275
-1,11,0.286211
-1,12,0.487983
-1,13,0.405944
-1,14,0.664887
-1,15,0.565828
-1,16,0.37627
-1,17,0.302331
-1,18,0.591324
-1,19,0.499318
-1,20,-0.027879
-1,21,0.117489
-1,22,0.086002
-1,23,0.03277
-1,24,0.558704
-1,25,0.573771
-1,26,0.617141
-1,27,0.561873
-1,28,0.263567
-1,29,0.920026
-2,3,0.556517
-2,4,0.542149
-2,5,0.488736
-2,6,0.453647
-2,7,0.788104
-2,8,0.168646
-2,9,0.433001
-2,10,0.487859
-2,11,0.291478
-2,12,0.517637
-2,13,0.544412
-2,14,0.724643
-2,15,0.653944
-2,16,0.559284
-2,17,0.339316
-2,18,0.812804
-2,19,0.678342
-2,20,-0.017047
-2,21,0.082919
-2,22,0.118323
-2,23,0.018756
-2,24,0.645481
-2,25,0.482525
-2,26,0.482401
-2,27,0.835141
-2,28,0.363113
-2,29,0.737423
-3,4,0.891043
-3,5,0.355993
-3,6,0.528312
-3,7,0.52805
-3,8,0.146538
-3,9,0.50856
-3,10,0.461081
-3,11,0.380593
-3,12,0.424781
-3,13,0.789691
-3,14,0.486474
-3,15,0.460947
-3,16,0.467988
-3,17,0.296735
-3,18,0.48486
-3,19,0.539457
-3,20,0.013537
-3,21,0.025961
-3,22,0.049697
-3,23,-0.040461
-3,24,0.459517
-3,25,0.469466
-3,26,0.360812
-3,27,0.53688
-3,28,0.216392
-3,29,0.495739
-4,5,0.355516
-4,6,0.463271
-4,7,0.550361
-4,8,0.213194
-4,9,0.449558
-4,10,0.410441
-4,11,0.361152
-4,12,0.425554
-4,13,0.698903
-4,14,0.503481
-4,15,0.471671
-4,16,0.47923
-4,17,0.298336
-4,18,0.458608
-4,19,0.527172
-4,20,0.018409
-4,21,0.048952
-4,22,0.046914
-4,23,-0.050528
-4,24,0.470716
-4,25,0.421111
-4,26,0.362425
-4,27,0.533901
-4,28,0.186207
-4,29,0.467039
-5,6,0.355759
-5,7,0.464608
-5,8,0.134352
-5,9,0.376839
-5,10,0.492401
-5,11,0.322487
-5,12,0.460177
-5,13,0.264243
-5,14,0.684796
-5,15,0.640559
-5,16,0.404716
-5,17,0.297229
-5,18,0.472846
-5,19,0.52327
-5,20,-0.021643
-5,21,0.051574
-5,22,0.07792
-5,23,-0.005021
-5,24,0.636433
-5,25,0.492466
-5,26,0.996759
-5,27,0.473303
-5,28,0.346759
-5,29,0.633023
-6,7,0.410935
-6,8,0.073428
-6,9,0.868451
-6,10,0.423851
-6,11,0.396099
-6,12,0.39744
-6,13,0.418054
-6,14,0.453803
-6,15,0.393164
-6,16,0.484854
-6,17,0.242406
-6,18,0.389492
-6,19,0.463786
-6,20,-0.025478
-6,21,-0.057013
-6,22,0.114848
-6,23,-0.057138
-6,24,0.387409
-6,25,0.431287
-6,26,0.35645
-6,27,0.409902
-6,28,0.317928
-6,29,0.442044
-7,8,0.128256
-7,9,0.396292
-7,10,0.490964
-7,11,0.363609
-7,12,0.501388
-7,13,0.544818
-7,14,0.693298
-7,15,0.589271
-7,16,0.514189
-7,17,0.317614
-7,18,0.685421
-7,19,0.714529
-7,20,0.013178
-7,21,0.056107
-7,22,0.089452
-7,23,0.018897
-7,24,0.587354
-7,25,0.488493
-7,26,0.462163
-7,27,0.779198
-7,28,0.343405
-7,29,0.568685
-8,9,0.102165
-8,10,0.08576
-8,11,0.043543
-8,12,0.153706
-8,13,0.102451
-8,14,0.211935
-8,15,0.215468
-8,16,0.110854
-8,17,0.009425
-8,18,0.156596
-8,19,0.137848
-8,20,0.074956
-8,21,-0.027537
-8,22,0.127796
-8,23,0.167033
-8,24,0.211736
-8,25,0.084146
-8,26,0.127073
-8,27,0.146782
-8,28,0.155747
-8,29,0.150658
-9,10,0.408087
-9,11,0.426117
-9,12,0.421707
-9,13,0.424061
-9,14,0.450229
-9,15,0.365518
-9,16,0.460684
-9,17,0.272929
-9,18,0.359734
-9,19,0.464464
-9,20,-0.049525
-9,21,-0.077518
-9,22,0.144596
-9,23,-0.047007
-9,24,0.358508
-9,25,0.415502
-9,26,0.380327
-9,27,0.401099
-9,28,0.356264
-9,29,0.438905
-10,11,0.393901
-10,12,0.586416
-10,13,0.471807
-10,14,0.482938
-10,15,0.444093
-10,16,0.454923
-10,17,0.360199
-10,18,0.460213
-10,19,0.501204
-10,20,0.00645
-10,21,0.002612
-10,22,0.072284
-10,23,-0.044173
-10,24,0.442079
-10,25,0.997847
-10,26,0.492597
-10,27,0.487231
-10,28,0.319838
-10,29,0.580701
-11,12,0.461558
-11,13,0.406613
-11,14,0.319773
-11,15,0.318889
-11,16,0.354693
-11,17,0.438136
-11,18,0.294741
-11,19,0.362529
-11,20,0.098126
-11,21,-0.029397
-11,22,0.050034
-11,23,-0.103511
-11,24,0.320693
-11,25,0.402666
-11,26,0.334795
-11,27,0.333673
-11,28,0.210535
-11,29,0.282163
-12,13,0.507948
-12,14,0.560241
-12,15,0.551244
-12,16,0.46445
-12,17,0.398627
-12,18,0.510234
-12,19,0.503193
-12,20,0.039184
-12,21,0.005333
-12,22,0.063121
-12,23,-0.101493
-12,24,0.545287
-12,25,0.59227
-12,26,0.469653
-12,27,0.519224
-12,28,0.313247
-12,29,0.501782
-13,14,0.477055
-13,15,0.428923
-13,16,0.479456
-13,17,0.335851
-13,18,0.479708
-13,19,0.585839
-13,20,0.056223
-13,21,0.001206
-13,22,0.088584
-13,23,-0.033043
-13,24,0.429662
-13,25,0.478521
-13,26,0.267654
-13,27,0.557616
-13,28,0.244045
-13,29,0.428816
-14,15,0.782228
-14,16,0.471906
-14,17,0.310563
-14,18,0.702112
-14,19,0.593232
-14,20,-0.030625
-14,21,0.072995
-14,22,0.080739
-14,23,0.009898
-14,24,0.777668
-14,25,0.484585
-14,26,0.688093
-14,27,0.64056
-14,28,0.33031
-14,29,0.662931
-15,16,0.43946
-15,17,0.256884
-15,18,0.753761
-15,19,0.57201
-15,20,-0.064495
-15,21,0.082773
-15,22,0.100843
-15,23,-0.003824
-15,24,0.998968
-15,25,0.44886
-15,26,0.645057
-15,27,0.636139
-15,28,0.355914
-15,29,0.601064
-16,17,0.401859
-16,18,0.475158
-16,19,0.666768
-16,20,-0.042481
-16,21,0.032727
-16,22,0.146098
-16,23,-0.024495
-16,24,0.436072
-16,25,0.453614
-16,26,0.393787
-16,27,0.580971
-16,28,0.439986
-16,29,0.459907
-17,18,0.29279
-17,19,0.338312
-17,20,-0.068324
-17,21,0.040792
-17,22,-0.06464
-17,23,-0.091975
-17,24,0.259613
-17,25,0.366457
-17,26,0.301614
-17,27,0.330171
-17,28,0.124236
-17,29,0.298905
-18,19,0.632323
-18,20,-0.02737
-18,21,0.090513
-18,22,0.098958
-18,23,0.011676
-18,24,0.751611
-18,25,0.457759
-18,26,0.471836
-18,27,0.790297
-18,28,0.32048
-18,29,0.629201
-19,20,0.020933
-19,21,0.050938
-19,22,0.185448
-19,23,0.029501
-19,24,0.571429
-19,25,0.497521
-19,26,0.513985
-19,27,0.748521
-19,28,0.590841
-19,29,0.566315
-20,21,0.03244
-20,22,-0.013105
-20,23,0.061312
-20,24,-0.06404
-20,25,0.00956
-20,26,-0.021244
-20,27,-0.046719
-20,28,0.051647
-20,29,-0.048636
-21,22,0.007575
-21,23,0.034581
-21,24,0.084181
-21,25,0.001718
-21,26,0.053593
-21,27,0.060583
-21,28,0.013629
-21,29,0.094505
-22,23,0.045531
-22,24,0.100007
-22,25,0.063629
-22,26,0.075752
-22,27,0.107142
-22,28,0.257716
-22,29,0.129135
-23,24,-0.003502
-23,25,-0.052928
-23,26,-0.00883
-23,27,-0.008463
-23,28,0.053799
-23,29,0.020339
-24,25,0.447622
-24,26,0.641822
-24,27,0.63201
-24,28,0.347171
-24,29,0.592935
-25,26,0.494521
-25,27,0.482218
-25,28,0.303168
-25,29,0.578595
-26,27,0.463088
-26,28,0.332861
-26,29,0.632688
-27,28,0.304763
-27,29,0.604147
-28,29,0.34115
+title_i,title_j,cosine_similarity
+Fermi-motion effects in deep-inelastic lepton scattering from nuclear targets,Further studies of Fermi-motion effects in lepton scattering from nuclear targets,0.868451
+Fermi-motion effects in deep-inelastic lepton scattering from nuclear targets,"Rare<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>K</mml:mi></mml:math>decays",0.453647
+Fermi-motion effects in deep-inelastic lepton scattering from nuclear targets,"Search for the decays<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>μ</mml:mi><mml:mi>e</mml:mi></mml:math>and<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>ee</mml:mi></mml:math>",0.442044
+Fermi-motion effects in deep-inelastic lepton scattering from nuclear targets,Plant species richness determinants in ephemeral ponds and permanent wetlands,-0.057013
+Fermi-motion effects in deep-inelastic lepton scattering from nuclear targets,Fundamental Physics at the Intensity Frontier,0.484854
+Fermi-motion effects in deep-inelastic lepton scattering from nuclear targets,"Measurement of the branching ratio for the decay<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:math>→μμ",0.409297
+Fermi-motion effects in deep-inelastic lepton scattering from nuclear targets,A fast integrating eight-bit bilinear ADC,0.242406
+Fermi-motion effects in deep-inelastic lepton scattering from nuclear targets,Muon Polarization Working Group Report,0.410935
+Fermi-motion effects in deep-inelastic lepton scattering from nuclear targets,Angular Analysis of B -> K*l+l- in BABAR,0.453803
+Fermi-motion effects in deep-inelastic lepton scattering from nuclear targets,ORKA: A Precision Measurement of K+ -> pi+ nu nubar at Fermilab,0.431287
+Fermi-motion effects in deep-inelastic lepton scattering from nuclear targets,BABAR Results on B -> Xs gamma,0.35645
+Fermi-motion effects in deep-inelastic lepton scattering from nuclear targets,The status of rare kaon decay experiments,0.409902
+Fermi-motion effects in deep-inelastic lepton scattering from nuclear targets,Measurement of the K&lt;sup&gt;+&lt;/sup&gt; → π&lt;sup&gt;+&lt;/sup&gt; ν anti-ν decay at Fermilab,0.114848
+Fermi-motion effects in deep-inelastic lepton scattering from nuclear targets,Identifying primitives for a calorimeter trigger,0.396099
+Fermi-motion effects in deep-inelastic lepton scattering from nuclear targets,Research program in particle physics,0.317928
+Fermi-motion effects in deep-inelastic lepton scattering from nuclear targets,"Cross sections, xF dependence and A-dependence in hadronic charm production",0.528312
+Fermi-motion effects in deep-inelastic lepton scattering from nuclear targets,Status of rare K decays,0.389492
+Fermi-motion effects in deep-inelastic lepton scattering from nuclear targets,Hadronic Charm Production by Protons and Pions on Iron,0.418054
+Fermi-motion effects in deep-inelastic lepton scattering from nuclear targets,Rare Leptonic B and b -> s l+ l- Decays at B-factories,0.387409
+Fermi-motion effects in deep-inelastic lepton scattering from nuclear targets,"Research program in particle physics. Progress report, January 1, 1992--December 1992",0.317928
+Fermi-motion effects in deep-inelastic lepton scattering from nuclear targets,Charm Production Measurements Using Prompt Muons,0.463271
+Fermi-motion effects in deep-inelastic lepton scattering from nuclear targets,"Research program in particle physics. Progress report, January 1, 1993--December 1993",0.463786
+Fermi-motion effects in deep-inelastic lepton scattering from nuclear targets,ORKA: A Precision Measurement of K+ -&gt; pi+ nu nubar at Fermilab,0.423851
+Fermi-motion effects in deep-inelastic lepton scattering from nuclear targets,Rare Leptonic B and b -&gt; s l+ l- Decays at B-factories,0.393164
+Fermi-motion effects in deep-inelastic lepton scattering from nuclear targets,Measurement of $K^+ \to \pi^+ \nu \bar{\nu}$ at Fermilab,0.39744
+Fermi-motion effects in deep-inelastic lepton scattering from nuclear targets,BABAR Results on B -&gt; Xs gamma,0.355759
+Fermi-motion effects in deep-inelastic lepton scattering from nuclear targets,Angular Analysis of B -&gt; K*l+l- in BABAR,0.453894
+Fermi-motion effects in deep-inelastic lepton scattering from nuclear targets,“i write unbalanced poetry”,-0.057138
+Fermi-motion effects in deep-inelastic lepton scattering from nuclear targets,PRIME MOVER,0.073428
+Fermi-motion effects in deep-inelastic lepton scattering from nuclear targets,A HUMAN FACTORS EVALUATION OF THE CONTAINER GANTRY CRANES AT VICTORIA DEEP WATER TERMINAL,-0.025478
+Further studies of Fermi-motion effects in lepton scattering from nuclear targets,"Rare<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>K</mml:mi></mml:math>decays",0.433001
+Further studies of Fermi-motion effects in lepton scattering from nuclear targets,"Search for the decays<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>μ</mml:mi><mml:mi>e</mml:mi></mml:math>and<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>ee</mml:mi></mml:math>",0.438905
+Further studies of Fermi-motion effects in lepton scattering from nuclear targets,Plant species richness determinants in ephemeral ponds and permanent wetlands,-0.077518
+Further studies of Fermi-motion effects in lepton scattering from nuclear targets,Fundamental Physics at the Intensity Frontier,0.460684
+Further studies of Fermi-motion effects in lepton scattering from nuclear targets,"Measurement of the branching ratio for the decay<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:math>→μμ",0.427077
+Further studies of Fermi-motion effects in lepton scattering from nuclear targets,A fast integrating eight-bit bilinear ADC,0.272929
+Further studies of Fermi-motion effects in lepton scattering from nuclear targets,Muon Polarization Working Group Report,0.396292
+Further studies of Fermi-motion effects in lepton scattering from nuclear targets,Angular Analysis of B -> K*l+l- in BABAR,0.450229
+Further studies of Fermi-motion effects in lepton scattering from nuclear targets,ORKA: A Precision Measurement of K+ -> pi+ nu nubar at Fermilab,0.415502
+Further studies of Fermi-motion effects in lepton scattering from nuclear targets,BABAR Results on B -> Xs gamma,0.380327
+Further studies of Fermi-motion effects in lepton scattering from nuclear targets,The status of rare kaon decay experiments,0.401099
+Further studies of Fermi-motion effects in lepton scattering from nuclear targets,Measurement of the K&lt;sup&gt;+&lt;/sup&gt; → π&lt;sup&gt;+&lt;/sup&gt; ν anti-ν decay at Fermilab,0.144596
+Further studies of Fermi-motion effects in lepton scattering from nuclear targets,Identifying primitives for a calorimeter trigger,0.426117
+Further studies of Fermi-motion effects in lepton scattering from nuclear targets,Research program in particle physics,0.356264
+Further studies of Fermi-motion effects in lepton scattering from nuclear targets,"Cross sections, xF dependence and A-dependence in hadronic charm production",0.50856
+Further studies of Fermi-motion effects in lepton scattering from nuclear targets,Status of rare K decays,0.359734
+Further studies of Fermi-motion effects in lepton scattering from nuclear targets,Hadronic Charm Production by Protons and Pions on Iron,0.424061
+Further studies of Fermi-motion effects in lepton scattering from nuclear targets,Rare Leptonic B and b -> s l+ l- Decays at B-factories,0.358508
+Further studies of Fermi-motion effects in lepton scattering from nuclear targets,"Research program in particle physics. Progress report, January 1, 1992--December 1992",0.356264
+Further studies of Fermi-motion effects in lepton scattering from nuclear targets,Charm Production Measurements Using Prompt Muons,0.449558
+Further studies of Fermi-motion effects in lepton scattering from nuclear targets,"Research program in particle physics. Progress report, January 1, 1993--December 1993",0.464464
+Further studies of Fermi-motion effects in lepton scattering from nuclear targets,ORKA: A Precision Measurement of K+ -&gt; pi+ nu nubar at Fermilab,0.408087
+Further studies of Fermi-motion effects in lepton scattering from nuclear targets,Rare Leptonic B and b -&gt; s l+ l- Decays at B-factories,0.365518
+Further studies of Fermi-motion effects in lepton scattering from nuclear targets,Measurement of $K^+ \to \pi^+ \nu \bar{\nu}$ at Fermilab,0.421707
+Further studies of Fermi-motion effects in lepton scattering from nuclear targets,BABAR Results on B -&gt; Xs gamma,0.376839
+Further studies of Fermi-motion effects in lepton scattering from nuclear targets,Angular Analysis of B -&gt; K*l+l- in BABAR,0.448618
+Further studies of Fermi-motion effects in lepton scattering from nuclear targets,“i write unbalanced poetry”,-0.047007
+Further studies of Fermi-motion effects in lepton scattering from nuclear targets,PRIME MOVER,0.102165
+Further studies of Fermi-motion effects in lepton scattering from nuclear targets,A HUMAN FACTORS EVALUATION OF THE CONTAINER GANTRY CRANES AT VICTORIA DEEP WATER TERMINAL,-0.049525
+"Rare<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>K</mml:mi></mml:math>decays","Search for the decays<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>μ</mml:mi><mml:mi>e</mml:mi></mml:math>and<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>ee</mml:mi></mml:math>",0.737423
+"Rare<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>K</mml:mi></mml:math>decays",Plant species richness determinants in ephemeral ponds and permanent wetlands,0.082919
+"Rare<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>K</mml:mi></mml:math>decays",Fundamental Physics at the Intensity Frontier,0.559284
+"Rare<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>K</mml:mi></mml:math>decays","Measurement of the branching ratio for the decay<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:math>→μμ",0.681011
+"Rare<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>K</mml:mi></mml:math>decays",A fast integrating eight-bit bilinear ADC,0.339316
+"Rare<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>K</mml:mi></mml:math>decays",Muon Polarization Working Group Report,0.788104
+"Rare<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>K</mml:mi></mml:math>decays",Angular Analysis of B -> K*l+l- in BABAR,0.724643
+"Rare<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>K</mml:mi></mml:math>decays",ORKA: A Precision Measurement of K+ -> pi+ nu nubar at Fermilab,0.482525
+"Rare<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>K</mml:mi></mml:math>decays",BABAR Results on B -> Xs gamma,0.482401
+"Rare<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>K</mml:mi></mml:math>decays",The status of rare kaon decay experiments,0.835141
+"Rare<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>K</mml:mi></mml:math>decays",Measurement of the K&lt;sup&gt;+&lt;/sup&gt; → π&lt;sup&gt;+&lt;/sup&gt; ν anti-ν decay at Fermilab,0.118323
+"Rare<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>K</mml:mi></mml:math>decays",Identifying primitives for a calorimeter trigger,0.291478
+"Rare<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>K</mml:mi></mml:math>decays",Research program in particle physics,0.363113
+"Rare<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>K</mml:mi></mml:math>decays","Cross sections, xF dependence and A-dependence in hadronic charm production",0.556517
+"Rare<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>K</mml:mi></mml:math>decays",Status of rare K decays,0.812804
+"Rare<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>K</mml:mi></mml:math>decays",Hadronic Charm Production by Protons and Pions on Iron,0.544412
+"Rare<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>K</mml:mi></mml:math>decays",Rare Leptonic B and b -> s l+ l- Decays at B-factories,0.645481
+"Rare<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>K</mml:mi></mml:math>decays","Research program in particle physics. Progress report, January 1, 1992--December 1992",0.363113
+"Rare<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>K</mml:mi></mml:math>decays",Charm Production Measurements Using Prompt Muons,0.542149
+"Rare<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>K</mml:mi></mml:math>decays","Research program in particle physics. Progress report, January 1, 1993--December 1993",0.678342
+"Rare<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>K</mml:mi></mml:math>decays",ORKA: A Precision Measurement of K+ -&gt; pi+ nu nubar at Fermilab,0.487859
+"Rare<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>K</mml:mi></mml:math>decays",Rare Leptonic B and b -&gt; s l+ l- Decays at B-factories,0.653944
+"Rare<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>K</mml:mi></mml:math>decays",Measurement of $K^+ \to \pi^+ \nu \bar{\nu}$ at Fermilab,0.517637
+"Rare<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>K</mml:mi></mml:math>decays",BABAR Results on B -&gt; Xs gamma,0.488736
+"Rare<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>K</mml:mi></mml:math>decays",Angular Analysis of B -&gt; K*l+l- in BABAR,0.73561
+"Rare<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>K</mml:mi></mml:math>decays",“i write unbalanced poetry”,0.018756
+"Rare<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>K</mml:mi></mml:math>decays",PRIME MOVER,0.168646
+"Rare<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>K</mml:mi></mml:math>decays",A HUMAN FACTORS EVALUATION OF THE CONTAINER GANTRY CRANES AT VICTORIA DEEP WATER TERMINAL,-0.017047
+"Search for the decays<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>μ</mml:mi><mml:mi>e</mml:mi></mml:math>and<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>ee</mml:mi></mml:math>",Plant species richness determinants in ephemeral ponds and permanent wetlands,0.094505
+"Search for the decays<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>μ</mml:mi><mml:mi>e</mml:mi></mml:math>and<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>ee</mml:mi></mml:math>",Fundamental Physics at the Intensity Frontier,0.459907
+"Search for the decays<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>μ</mml:mi><mml:mi>e</mml:mi></mml:math>and<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>ee</mml:mi></mml:math>","Measurement of the branching ratio for the decay<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:math>→μμ",0.920026
+"Search for the decays<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>μ</mml:mi><mml:mi>e</mml:mi></mml:math>and<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>ee</mml:mi></mml:math>",A fast integrating eight-bit bilinear ADC,0.298905
+"Search for the decays<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>μ</mml:mi><mml:mi>e</mml:mi></mml:math>and<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>ee</mml:mi></mml:math>",Muon Polarization Working Group Report,0.568685
+"Search for the decays<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>μ</mml:mi><mml:mi>e</mml:mi></mml:math>and<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>ee</mml:mi></mml:math>",Angular Analysis of B -> K*l+l- in BABAR,0.662931
+"Search for the decays<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>μ</mml:mi><mml:mi>e</mml:mi></mml:math>and<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>ee</mml:mi></mml:math>",ORKA: A Precision Measurement of K+ -> pi+ nu nubar at Fermilab,0.578595
+"Search for the decays<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>μ</mml:mi><mml:mi>e</mml:mi></mml:math>and<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>ee</mml:mi></mml:math>",BABAR Results on B -> Xs gamma,0.632688
+"Search for the decays<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>μ</mml:mi><mml:mi>e</mml:mi></mml:math>and<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>ee</mml:mi></mml:math>",The status of rare kaon decay experiments,0.604147
+"Search for the decays<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>μ</mml:mi><mml:mi>e</mml:mi></mml:math>and<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>ee</mml:mi></mml:math>",Measurement of the K&lt;sup&gt;+&lt;/sup&gt; → π&lt;sup&gt;+&lt;/sup&gt; ν anti-ν decay at Fermilab,0.129135
+"Search for the decays<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>μ</mml:mi><mml:mi>e</mml:mi></mml:math>and<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>ee</mml:mi></mml:math>",Identifying primitives for a calorimeter trigger,0.282163
+"Search for the decays<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>μ</mml:mi><mml:mi>e</mml:mi></mml:math>and<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>ee</mml:mi></mml:math>",Research program in particle physics,0.34115
+"Search for the decays<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>μ</mml:mi><mml:mi>e</mml:mi></mml:math>and<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>ee</mml:mi></mml:math>","Cross sections, xF dependence and A-dependence in hadronic charm production",0.495739
+"Search for the decays<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>μ</mml:mi><mml:mi>e</mml:mi></mml:math>and<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>ee</mml:mi></mml:math>",Status of rare K decays,0.629201
+"Search for the decays<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>μ</mml:mi><mml:mi>e</mml:mi></mml:math>and<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>ee</mml:mi></mml:math>",Hadronic Charm Production by Protons and Pions on Iron,0.428816
+"Search for the decays<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>μ</mml:mi><mml:mi>e</mml:mi></mml:math>and<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>ee</mml:mi></mml:math>",Rare Leptonic B and b -> s l+ l- Decays at B-factories,0.592935
+"Search for the decays<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>μ</mml:mi><mml:mi>e</mml:mi></mml:math>and<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>ee</mml:mi></mml:math>","Research program in particle physics. Progress report, January 1, 1992--December 1992",0.34115
+"Search for the decays<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>μ</mml:mi><mml:mi>e</mml:mi></mml:math>and<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>ee</mml:mi></mml:math>",Charm Production Measurements Using Prompt Muons,0.467039
+"Search for the decays<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>μ</mml:mi><mml:mi>e</mml:mi></mml:math>and<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>ee</mml:mi></mml:math>","Research program in particle physics. Progress report, January 1, 1993--December 1993",0.566315
+"Search for the decays<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>μ</mml:mi><mml:mi>e</mml:mi></mml:math>and<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>ee</mml:mi></mml:math>",ORKA: A Precision Measurement of K+ -&gt; pi+ nu nubar at Fermilab,0.580701
+"Search for the decays<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>μ</mml:mi><mml:mi>e</mml:mi></mml:math>and<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>ee</mml:mi></mml:math>",Rare Leptonic B and b -&gt; s l+ l- Decays at B-factories,0.601064
+"Search for the decays<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>μ</mml:mi><mml:mi>e</mml:mi></mml:math>and<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>ee</mml:mi></mml:math>",Measurement of $K^+ \to \pi^+ \nu \bar{\nu}$ at Fermilab,0.501782
+"Search for the decays<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>μ</mml:mi><mml:mi>e</mml:mi></mml:math>and<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>ee</mml:mi></mml:math>",BABAR Results on B -&gt; Xs gamma,0.633023
+"Search for the decays<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>μ</mml:mi><mml:mi>e</mml:mi></mml:math>and<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>ee</mml:mi></mml:math>",Angular Analysis of B -&gt; K*l+l- in BABAR,0.660696
+"Search for the decays<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>μ</mml:mi><mml:mi>e</mml:mi></mml:math>and<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>ee</mml:mi></mml:math>",“i write unbalanced poetry”,0.020339
+"Search for the decays<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>μ</mml:mi><mml:mi>e</mml:mi></mml:math>and<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>ee</mml:mi></mml:math>",PRIME MOVER,0.150658
+"Search for the decays<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>μ</mml:mi><mml:mi>e</mml:mi></mml:math>and<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow><mml:mo>→</mml:mo><mml:mi>ee</mml:mi></mml:math>",A HUMAN FACTORS EVALUATION OF THE CONTAINER GANTRY CRANES AT VICTORIA DEEP WATER TERMINAL,-0.048636
+Plant species richness determinants in ephemeral ponds and permanent wetlands,Fundamental Physics at the Intensity Frontier,0.032727
+Plant species richness determinants in ephemeral ponds and permanent wetlands,"Measurement of the branching ratio for the decay<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:math>→μμ",0.117489
+Plant species richness determinants in ephemeral ponds and permanent wetlands,A fast integrating eight-bit bilinear ADC,0.040792
+Plant species richness determinants in ephemeral ponds and permanent wetlands,Muon Polarization Working Group Report,0.056107
+Plant species richness determinants in ephemeral ponds and permanent wetlands,Angular Analysis of B -> K*l+l- in BABAR,0.072995
+Plant species richness determinants in ephemeral ponds and permanent wetlands,ORKA: A Precision Measurement of K+ -> pi+ nu nubar at Fermilab,0.001718
+Plant species richness determinants in ephemeral ponds and permanent wetlands,BABAR Results on B -> Xs gamma,0.053593
+Plant species richness determinants in ephemeral ponds and permanent wetlands,The status of rare kaon decay experiments,0.060583
+Plant species richness determinants in ephemeral ponds and permanent wetlands,Measurement of the K&lt;sup&gt;+&lt;/sup&gt; → π&lt;sup&gt;+&lt;/sup&gt; ν anti-ν decay at Fermilab,0.007575
+Plant species richness determinants in ephemeral ponds and permanent wetlands,Identifying primitives for a calorimeter trigger,-0.029397
+Plant species richness determinants in ephemeral ponds and permanent wetlands,Research program in particle physics,0.013629
+Plant species richness determinants in ephemeral ponds and permanent wetlands,"Cross sections, xF dependence and A-dependence in hadronic charm production",0.025961
+Plant species richness determinants in ephemeral ponds and permanent wetlands,Status of rare K decays,0.090513
+Plant species richness determinants in ephemeral ponds and permanent wetlands,Hadronic Charm Production by Protons and Pions on Iron,0.001206
+Plant species richness determinants in ephemeral ponds and permanent wetlands,Rare Leptonic B and b -> s l+ l- Decays at B-factories,0.084181
+Plant species richness determinants in ephemeral ponds and permanent wetlands,"Research program in particle physics. Progress report, January 1, 1992--December 1992",0.013629
+Plant species richness determinants in ephemeral ponds and permanent wetlands,Charm Production Measurements Using Prompt Muons,0.048952
+Plant species richness determinants in ephemeral ponds and permanent wetlands,"Research program in particle physics. Progress report, January 1, 1993--December 1993",0.050938
+Plant species richness determinants in ephemeral ponds and permanent wetlands,ORKA: A Precision Measurement of K+ -&gt; pi+ nu nubar at Fermilab,0.002612
+Plant species richness determinants in ephemeral ponds and permanent wetlands,Rare Leptonic B and b -&gt; s l+ l- Decays at B-factories,0.082773
+Plant species richness determinants in ephemeral ponds and permanent wetlands,Measurement of $K^+ \to \pi^+ \nu \bar{\nu}$ at Fermilab,0.005333
+Plant species richness determinants in ephemeral ponds and permanent wetlands,BABAR Results on B -&gt; Xs gamma,0.051574
+Plant species richness determinants in ephemeral ponds and permanent wetlands,Angular Analysis of B -&gt; K*l+l- in BABAR,0.073425
+Plant species richness determinants in ephemeral ponds and permanent wetlands,“i write unbalanced poetry”,0.034581
+Plant species richness determinants in ephemeral ponds and permanent wetlands,PRIME MOVER,-0.027537
+Plant species richness determinants in ephemeral ponds and permanent wetlands,A HUMAN FACTORS EVALUATION OF THE CONTAINER GANTRY CRANES AT VICTORIA DEEP WATER TERMINAL,0.03244
+Fundamental Physics at the Intensity Frontier,"Measurement of the branching ratio for the decay<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:math>→μμ",0.37627
+Fundamental Physics at the Intensity Frontier,A fast integrating eight-bit bilinear ADC,0.401859
+Fundamental Physics at the Intensity Frontier,Muon Polarization Working Group Report,0.514189
+Fundamental Physics at the Intensity Frontier,Angular Analysis of B -> K*l+l- in BABAR,0.471906
+Fundamental Physics at the Intensity Frontier,ORKA: A Precision Measurement of K+ -> pi+ nu nubar at Fermilab,0.453614
+Fundamental Physics at the Intensity Frontier,BABAR Results on B -> Xs gamma,0.393787
+Fundamental Physics at the Intensity Frontier,The status of rare kaon decay experiments,0.580971
+Fundamental Physics at the Intensity Frontier,Measurement of the K&lt;sup&gt;+&lt;/sup&gt; → π&lt;sup&gt;+&lt;/sup&gt; ν anti-ν decay at Fermilab,0.146098
+Fundamental Physics at the Intensity Frontier,Identifying primitives for a calorimeter trigger,0.354693
+Fundamental Physics at the Intensity Frontier,Research program in particle physics,0.439986
+Fundamental Physics at the Intensity Frontier,"Cross sections, xF dependence and A-dependence in hadronic charm production",0.467988
+Fundamental Physics at the Intensity Frontier,Status of rare K decays,0.475158
+Fundamental Physics at the Intensity Frontier,Hadronic Charm Production by Protons and Pions on Iron,0.479456
+Fundamental Physics at the Intensity Frontier,Rare Leptonic B and b -> s l+ l- Decays at B-factories,0.436072
+Fundamental Physics at the Intensity Frontier,"Research program in particle physics. Progress report, January 1, 1992--December 1992",0.439986
+Fundamental Physics at the Intensity Frontier,Charm Production Measurements Using Prompt Muons,0.47923
+Fundamental Physics at the Intensity Frontier,"Research program in particle physics. Progress report, January 1, 1993--December 1993",0.666768
+Fundamental Physics at the Intensity Frontier,ORKA: A Precision Measurement of K+ -&gt; pi+ nu nubar at Fermilab,0.454923
+Fundamental Physics at the Intensity Frontier,Rare Leptonic B and b -&gt; s l+ l- Decays at B-factories,0.43946
+Fundamental Physics at the Intensity Frontier,Measurement of $K^+ \to \pi^+ \nu \bar{\nu}$ at Fermilab,0.46445
+Fundamental Physics at the Intensity Frontier,BABAR Results on B -&gt; Xs gamma,0.404716
+Fundamental Physics at the Intensity Frontier,Angular Analysis of B -&gt; K*l+l- in BABAR,0.481631
+Fundamental Physics at the Intensity Frontier,“i write unbalanced poetry”,-0.024495
+Fundamental Physics at the Intensity Frontier,PRIME MOVER,0.110854
+Fundamental Physics at the Intensity Frontier,A HUMAN FACTORS EVALUATION OF THE CONTAINER GANTRY CRANES AT VICTORIA DEEP WATER TERMINAL,-0.042481
+"Measurement of the branching ratio for the decay<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:math>→μμ",A fast integrating eight-bit bilinear ADC,0.302331
+"Measurement of the branching ratio for the decay<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:math>→μμ",Muon Polarization Working Group Report,0.549139
+"Measurement of the branching ratio for the decay<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:math>→μμ",Angular Analysis of B -> K*l+l- in BABAR,0.664887
+"Measurement of the branching ratio for the decay<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:math>→μμ",ORKA: A Precision Measurement of K+ -> pi+ nu nubar at Fermilab,0.573771
+"Measurement of the branching ratio for the decay<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:math>→μμ",BABAR Results on B -> Xs gamma,0.617141
+"Measurement of the branching ratio for the decay<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:math>→μμ",The status of rare kaon decay experiments,0.561873
+"Measurement of the branching ratio for the decay<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:math>→μμ",Measurement of the K&lt;sup&gt;+&lt;/sup&gt; → π&lt;sup&gt;+&lt;/sup&gt; ν anti-ν decay at Fermilab,0.086002
+"Measurement of the branching ratio for the decay<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:math>→μμ",Identifying primitives for a calorimeter trigger,0.286211
+"Measurement of the branching ratio for the decay<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:math>→μμ",Research program in particle physics,0.263567
+"Measurement of the branching ratio for the decay<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:math>→μμ","Cross sections, xF dependence and A-dependence in hadronic charm production",0.49446
+"Measurement of the branching ratio for the decay<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:math>→μμ",Status of rare K decays,0.591324
+"Measurement of the branching ratio for the decay<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:math>→μμ",Hadronic Charm Production by Protons and Pions on Iron,0.405944
+"Measurement of the branching ratio for the decay<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:math>→μμ",Rare Leptonic B and b -> s l+ l- Decays at B-factories,0.558704
+"Measurement of the branching ratio for the decay<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:math>→μμ","Research program in particle physics. Progress report, January 1, 1992--December 1992",0.263567
+"Measurement of the branching ratio for the decay<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:math>→μμ",Charm Production Measurements Using Prompt Muons,0.462011
+"Measurement of the branching ratio for the decay<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:math>→μμ","Research program in particle physics. Progress report, January 1, 1993--December 1993",0.499318
+"Measurement of the branching ratio for the decay<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:math>→μμ",ORKA: A Precision Measurement of K+ -&gt; pi+ nu nubar at Fermilab,0.572275
+"Measurement of the branching ratio for the decay<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:math>→μμ",Rare Leptonic B and b -&gt; s l+ l- Decays at B-factories,0.565828
+"Measurement of the branching ratio for the decay<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:math>→μμ",Measurement of $K^+ \to \pi^+ \nu \bar{\nu}$ at Fermilab,0.487983
+"Measurement of the branching ratio for the decay<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:math>→μμ",BABAR Results on B -&gt; Xs gamma,0.614985
+"Measurement of the branching ratio for the decay<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:math>→μμ",Angular Analysis of B -&gt; K*l+l- in BABAR,0.659798
+"Measurement of the branching ratio for the decay<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:math>→μμ",“i write unbalanced poetry”,0.03277
+"Measurement of the branching ratio for the decay<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:math>→μμ",PRIME MOVER,0.18669
+"Measurement of the branching ratio for the decay<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:msubsup><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:math>→μμ",A HUMAN FACTORS EVALUATION OF THE CONTAINER GANTRY CRANES AT VICTORIA DEEP WATER TERMINAL,-0.027879
+A fast integrating eight-bit bilinear ADC,Muon Polarization Working Group Report,0.317614
+A fast integrating eight-bit bilinear ADC,Angular Analysis of B -> K*l+l- in BABAR,0.310563
+A fast integrating eight-bit bilinear ADC,ORKA: A Precision Measurement of K+ -> pi+ nu nubar at Fermilab,0.366457
+A fast integrating eight-bit bilinear ADC,BABAR Results on B -> Xs gamma,0.301614
+A fast integrating eight-bit bilinear ADC,The status of rare kaon decay experiments,0.330171
+A fast integrating eight-bit bilinear ADC,Measurement of the K&lt;sup&gt;+&lt;/sup&gt; → π&lt;sup&gt;+&lt;/sup&gt; ν anti-ν decay at Fermilab,-0.06464
+A fast integrating eight-bit bilinear ADC,Identifying primitives for a calorimeter trigger,0.438136
+A fast integrating eight-bit bilinear ADC,Research program in particle physics,0.124236
+A fast integrating eight-bit bilinear ADC,"Cross sections, xF dependence and A-dependence in hadronic charm production",0.296735
+A fast integrating eight-bit bilinear ADC,Status of rare K decays,0.29279
+A fast integrating eight-bit bilinear ADC,Hadronic Charm Production by Protons and Pions on Iron,0.335851
+A fast integrating eight-bit bilinear ADC,Rare Leptonic B and b -> s l+ l- Decays at B-factories,0.259613
+A fast integrating eight-bit bilinear ADC,"Research program in particle physics. Progress report, January 1, 1992--December 1992",0.124236
+A fast integrating eight-bit bilinear ADC,Charm Production Measurements Using Prompt Muons,0.298336
+A fast integrating eight-bit bilinear ADC,"Research program in particle physics. Progress report, January 1, 1993--December 1993",0.338312
+A fast integrating eight-bit bilinear ADC,ORKA: A Precision Measurement of K+ -&gt; pi+ nu nubar at Fermilab,0.360199
+A fast integrating eight-bit bilinear ADC,Rare Leptonic B and b -&gt; s l+ l- Decays at B-factories,0.256884
+A fast integrating eight-bit bilinear ADC,Measurement of $K^+ \to \pi^+ \nu \bar{\nu}$ at Fermilab,0.398627
+A fast integrating eight-bit bilinear ADC,BABAR Results on B -&gt; Xs gamma,0.297229
+A fast integrating eight-bit bilinear ADC,Angular Analysis of B -&gt; K*l+l- in BABAR,0.31536
+A fast integrating eight-bit bilinear ADC,“i write unbalanced poetry”,-0.091975
+A fast integrating eight-bit bilinear ADC,PRIME MOVER,0.009425
+A fast integrating eight-bit bilinear ADC,A HUMAN FACTORS EVALUATION OF THE CONTAINER GANTRY CRANES AT VICTORIA DEEP WATER TERMINAL,-0.068324
+Muon Polarization Working Group Report,Angular Analysis of B -> K*l+l- in BABAR,0.693298
+Muon Polarization Working Group Report,ORKA: A Precision Measurement of K+ -> pi+ nu nubar at Fermilab,0.488493
+Muon Polarization Working Group Report,BABAR Results on B -> Xs gamma,0.462163
+Muon Polarization Working Group Report,The status of rare kaon decay experiments,0.779198
+Muon Polarization Working Group Report,Measurement of the K&lt;sup&gt;+&lt;/sup&gt; → π&lt;sup&gt;+&lt;/sup&gt; ν anti-ν decay at Fermilab,0.089452
+Muon Polarization Working Group Report,Identifying primitives for a calorimeter trigger,0.363609
+Muon Polarization Working Group Report,Research program in particle physics,0.343405
+Muon Polarization Working Group Report,"Cross sections, xF dependence and A-dependence in hadronic charm production",0.52805
+Muon Polarization Working Group Report,Status of rare K decays,0.685421
+Muon Polarization Working Group Report,Hadronic Charm Production by Protons and Pions on Iron,0.544818
+Muon Polarization Working Group Report,Rare Leptonic B and b -> s l+ l- Decays at B-factories,0.587354
+Muon Polarization Working Group Report,"Research program in particle physics. Progress report, January 1, 1992--December 1992",0.343405
+Muon Polarization Working Group Report,Charm Production Measurements Using Prompt Muons,0.550361
+Muon Polarization Working Group Report,"Research program in particle physics. Progress report, January 1, 1993--December 1993",0.714529
+Muon Polarization Working Group Report,ORKA: A Precision Measurement of K+ -&gt; pi+ nu nubar at Fermilab,0.490964
+Muon Polarization Working Group Report,Rare Leptonic B and b -&gt; s l+ l- Decays at B-factories,0.589271
+Muon Polarization Working Group Report,Measurement of $K^+ \to \pi^+ \nu \bar{\nu}$ at Fermilab,0.501388
+Muon Polarization Working Group Report,BABAR Results on B -&gt; Xs gamma,0.464608
+Muon Polarization Working Group Report,Angular Analysis of B -&gt; K*l+l- in BABAR,0.70628
+Muon Polarization Working Group Report,“i write unbalanced poetry”,0.018897
+Muon Polarization Working Group Report,PRIME MOVER,0.128256
+Muon Polarization Working Group Report,A HUMAN FACTORS EVALUATION OF THE CONTAINER GANTRY CRANES AT VICTORIA DEEP WATER TERMINAL,0.013178
+Angular Analysis of B -> K*l+l- in BABAR,ORKA: A Precision Measurement of K+ -> pi+ nu nubar at Fermilab,0.484585
+Angular Analysis of B -> K*l+l- in BABAR,BABAR Results on B -> Xs gamma,0.688093
+Angular Analysis of B -> K*l+l- in BABAR,The status of rare kaon decay experiments,0.64056
+Angular Analysis of B -> K*l+l- in BABAR,Measurement of the K&lt;sup&gt;+&lt;/sup&gt; → π&lt;sup&gt;+&lt;/sup&gt; ν anti-ν decay at Fermilab,0.080739
+Angular Analysis of B -> K*l+l- in BABAR,Identifying primitives for a calorimeter trigger,0.319773
+Angular Analysis of B -> K*l+l- in BABAR,Research program in particle physics,0.33031
+Angular Analysis of B -> K*l+l- in BABAR,"Cross sections, xF dependence and A-dependence in hadronic charm production",0.486474
+Angular Analysis of B -> K*l+l- in BABAR,Status of rare K decays,0.702112
+Angular Analysis of B -> K*l+l- in BABAR,Hadronic Charm Production by Protons and Pions on Iron,0.477055
+Angular Analysis of B -> K*l+l- in BABAR,Rare Leptonic B and b -> s l+ l- Decays at B-factories,0.777668
+Angular Analysis of B -> K*l+l- in BABAR,"Research program in particle physics. Progress report, January 1, 1992--December 1992",0.33031
+Angular Analysis of B -> K*l+l- in BABAR,Charm Production Measurements Using Prompt Muons,0.503481
+Angular Analysis of B -> K*l+l- in BABAR,"Research program in particle physics. Progress report, January 1, 1993--December 1993",0.593232
+Angular Analysis of B -> K*l+l- in BABAR,ORKA: A Precision Measurement of K+ -&gt; pi+ nu nubar at Fermilab,0.482938
+Angular Analysis of B -> K*l+l- in BABAR,Rare Leptonic B and b -&gt; s l+ l- Decays at B-factories,0.782228
+Angular Analysis of B -> K*l+l- in BABAR,Measurement of $K^+ \to \pi^+ \nu \bar{\nu}$ at Fermilab,0.560241
+Angular Analysis of B -> K*l+l- in BABAR,BABAR Results on B -&gt; Xs gamma,0.684796
+Angular Analysis of B -> K*l+l- in BABAR,Angular Analysis of B -&gt; K*l+l- in BABAR,0.996723
+Angular Analysis of B -> K*l+l- in BABAR,“i write unbalanced poetry”,0.009898
+Angular Analysis of B -> K*l+l- in BABAR,PRIME MOVER,0.211935
+Angular Analysis of B -> K*l+l- in BABAR,A HUMAN FACTORS EVALUATION OF THE CONTAINER GANTRY CRANES AT VICTORIA DEEP WATER TERMINAL,-0.030625
+ORKA: A Precision Measurement of K+ -> pi+ nu nubar at Fermilab,BABAR Results on B -> Xs gamma,0.494521
+ORKA: A Precision Measurement of K+ -> pi+ nu nubar at Fermilab,The status of rare kaon decay experiments,0.482218
+ORKA: A Precision Measurement of K+ -> pi+ nu nubar at Fermilab,Measurement of the K&lt;sup&gt;+&lt;/sup&gt; → π&lt;sup&gt;+&lt;/sup&gt; ν anti-ν decay at Fermilab,0.063629
+ORKA: A Precision Measurement of K+ -> pi+ nu nubar at Fermilab,Identifying primitives for a calorimeter trigger,0.402666
+ORKA: A Precision Measurement of K+ -> pi+ nu nubar at Fermilab,Research program in particle physics,0.303168
+ORKA: A Precision Measurement of K+ -> pi+ nu nubar at Fermilab,"Cross sections, xF dependence and A-dependence in hadronic charm production",0.469466
+ORKA: A Precision Measurement of K+ -> pi+ nu nubar at Fermilab,Status of rare K decays,0.457759
+ORKA: A Precision Measurement of K+ -> pi+ nu nubar at Fermilab,Hadronic Charm Production by Protons and Pions on Iron,0.478521
+ORKA: A Precision Measurement of K+ -> pi+ nu nubar at Fermilab,Rare Leptonic B and b -> s l+ l- Decays at B-factories,0.447622
+ORKA: A Precision Measurement of K+ -> pi+ nu nubar at Fermilab,"Research program in particle physics. Progress report, January 1, 1992--December 1992",0.303168
+ORKA: A Precision Measurement of K+ -> pi+ nu nubar at Fermilab,Charm Production Measurements Using Prompt Muons,0.421111
+ORKA: A Precision Measurement of K+ -> pi+ nu nubar at Fermilab,"Research program in particle physics. Progress report, January 1, 1993--December 1993",0.497521
+ORKA: A Precision Measurement of K+ -> pi+ nu nubar at Fermilab,ORKA: A Precision Measurement of K+ -&gt; pi+ nu nubar at Fermilab,0.997847
+ORKA: A Precision Measurement of K+ -> pi+ nu nubar at Fermilab,Rare Leptonic B and b -&gt; s l+ l- Decays at B-factories,0.44886
+ORKA: A Precision Measurement of K+ -> pi+ nu nubar at Fermilab,Measurement of $K^+ \to \pi^+ \nu \bar{\nu}$ at Fermilab,0.59227
+ORKA: A Precision Measurement of K+ -> pi+ nu nubar at Fermilab,BABAR Results on B -&gt; Xs gamma,0.492466
+ORKA: A Precision Measurement of K+ -> pi+ nu nubar at Fermilab,Angular Analysis of B -&gt; K*l+l- in BABAR,0.485975
+ORKA: A Precision Measurement of K+ -> pi+ nu nubar at Fermilab,“i write unbalanced poetry”,-0.052928
+ORKA: A Precision Measurement of K+ -> pi+ nu nubar at Fermilab,PRIME MOVER,0.084146
+ORKA: A Precision Measurement of K+ -> pi+ nu nubar at Fermilab,A HUMAN FACTORS EVALUATION OF THE CONTAINER GANTRY CRANES AT VICTORIA DEEP WATER TERMINAL,0.00956
+BABAR Results on B -> Xs gamma,The status of rare kaon decay experiments,0.463088
+BABAR Results on B -> Xs gamma,Measurement of the K&lt;sup&gt;+&lt;/sup&gt; → π&lt;sup&gt;+&lt;/sup&gt; ν anti-ν decay at Fermilab,0.075752
+BABAR Results on B -> Xs gamma,Identifying primitives for a calorimeter trigger,0.334795
+BABAR Results on B -> Xs gamma,Research program in particle physics,0.332861
+BABAR Results on B -> Xs gamma,"Cross sections, xF dependence and A-dependence in hadronic charm production",0.360812
+BABAR Results on B -> Xs gamma,Status of rare K decays,0.471836
+BABAR Results on B -> Xs gamma,Hadronic Charm Production by Protons and Pions on Iron,0.267654
+BABAR Results on B -> Xs gamma,Rare Leptonic B and b -> s l+ l- Decays at B-factories,0.641822
+BABAR Results on B -> Xs gamma,"Research program in particle physics. Progress report, January 1, 1992--December 1992",0.332861
+BABAR Results on B -> Xs gamma,Charm Production Measurements Using Prompt Muons,0.362425
+BABAR Results on B -> Xs gamma,"Research program in particle physics. Progress report, January 1, 1993--December 1993",0.513985
+BABAR Results on B -> Xs gamma,ORKA: A Precision Measurement of K+ -&gt; pi+ nu nubar at Fermilab,0.492597
+BABAR Results on B -> Xs gamma,Rare Leptonic B and b -&gt; s l+ l- Decays at B-factories,0.645057
+BABAR Results on B -> Xs gamma,Measurement of $K^+ \to \pi^+ \nu \bar{\nu}$ at Fermilab,0.469653
+BABAR Results on B -> Xs gamma,BABAR Results on B -&gt; Xs gamma,0.996759
+BABAR Results on B -> Xs gamma,Angular Analysis of B -&gt; K*l+l- in BABAR,0.674941
+BABAR Results on B -> Xs gamma,“i write unbalanced poetry”,-0.00883
+BABAR Results on B -> Xs gamma,PRIME MOVER,0.127073
+BABAR Results on B -> Xs gamma,A HUMAN FACTORS EVALUATION OF THE CONTAINER GANTRY CRANES AT VICTORIA DEEP WATER TERMINAL,-0.021244
+The status of rare kaon decay experiments,Measurement of the K&lt;sup&gt;+&lt;/sup&gt; → π&lt;sup&gt;+&lt;/sup&gt; ν anti-ν decay at Fermilab,0.107142
+The status of rare kaon decay experiments,Identifying primitives for a calorimeter trigger,0.333673
+The status of rare kaon decay experiments,Research program in particle physics,0.304763
+The status of rare kaon decay experiments,"Cross sections, xF dependence and A-dependence in hadronic charm production",0.53688
+The status of rare kaon decay experiments,Status of rare K decays,0.790297
+The status of rare kaon decay experiments,Hadronic Charm Production by Protons and Pions on Iron,0.557616
+The status of rare kaon decay experiments,Rare Leptonic B and b -> s l+ l- Decays at B-factories,0.63201
+The status of rare kaon decay experiments,"Research program in particle physics. Progress report, January 1, 1992--December 1992",0.304763
+The status of rare kaon decay experiments,Charm Production Measurements Using Prompt Muons,0.533901
+The status of rare kaon decay experiments,"Research program in particle physics. Progress report, January 1, 1993--December 1993",0.748521
+The status of rare kaon decay experiments,ORKA: A Precision Measurement of K+ -&gt; pi+ nu nubar at Fermilab,0.487231
+The status of rare kaon decay experiments,Rare Leptonic B and b -&gt; s l+ l- Decays at B-factories,0.636139
+The status of rare kaon decay experiments,Measurement of $K^+ \to \pi^+ \nu \bar{\nu}$ at Fermilab,0.519224
+The status of rare kaon decay experiments,BABAR Results on B -&gt; Xs gamma,0.473303
+The status of rare kaon decay experiments,Angular Analysis of B -&gt; K*l+l- in BABAR,0.652413
+The status of rare kaon decay experiments,“i write unbalanced poetry”,-0.008463
+The status of rare kaon decay experiments,PRIME MOVER,0.146782
+The status of rare kaon decay experiments,A HUMAN FACTORS EVALUATION OF THE CONTAINER GANTRY CRANES AT VICTORIA DEEP WATER TERMINAL,-0.046719
+Measurement of the K&lt;sup&gt;+&lt;/sup&gt; → π&lt;sup&gt;+&lt;/sup&gt; ν anti-ν decay at Fermilab,Identifying primitives for a calorimeter trigger,0.050034
+Measurement of the K&lt;sup&gt;+&lt;/sup&gt; → π&lt;sup&gt;+&lt;/sup&gt; ν anti-ν decay at Fermilab,Research program in particle physics,0.257716
+Measurement of the K&lt;sup&gt;+&lt;/sup&gt; → π&lt;sup&gt;+&lt;/sup&gt; ν anti-ν decay at Fermilab,"Cross sections, xF dependence and A-dependence in hadronic charm production",0.049697
+Measurement of the K&lt;sup&gt;+&lt;/sup&gt; → π&lt;sup&gt;+&lt;/sup&gt; ν anti-ν decay at Fermilab,Status of rare K decays,0.098958
+Measurement of the K&lt;sup&gt;+&lt;/sup&gt; → π&lt;sup&gt;+&lt;/sup&gt; ν anti-ν decay at Fermilab,Hadronic Charm Production by Protons and Pions on Iron,0.088584
+Measurement of the K&lt;sup&gt;+&lt;/sup&gt; → π&lt;sup&gt;+&lt;/sup&gt; ν anti-ν decay at Fermilab,Rare Leptonic B and b -> s l+ l- Decays at B-factories,0.100007
+Measurement of the K&lt;sup&gt;+&lt;/sup&gt; → π&lt;sup&gt;+&lt;/sup&gt; ν anti-ν decay at Fermilab,"Research program in particle physics. Progress report, January 1, 1992--December 1992",0.257716
+Measurement of the K&lt;sup&gt;+&lt;/sup&gt; → π&lt;sup&gt;+&lt;/sup&gt; ν anti-ν decay at Fermilab,Charm Production Measurements Using Prompt Muons,0.046914
+Measurement of the K&lt;sup&gt;+&lt;/sup&gt; → π&lt;sup&gt;+&lt;/sup&gt; ν anti-ν decay at Fermilab,"Research program in particle physics. Progress report, January 1, 1993--December 1993",0.185448
+Measurement of the K&lt;sup&gt;+&lt;/sup&gt; → π&lt;sup&gt;+&lt;/sup&gt; ν anti-ν decay at Fermilab,ORKA: A Precision Measurement of K+ -&gt; pi+ nu nubar at Fermilab,0.072284
+Measurement of the K&lt;sup&gt;+&lt;/sup&gt; → π&lt;sup&gt;+&lt;/sup&gt; ν anti-ν decay at Fermilab,Rare Leptonic B and b -&gt; s l+ l- Decays at B-factories,0.100843
+Measurement of the K&lt;sup&gt;+&lt;/sup&gt; → π&lt;sup&gt;+&lt;/sup&gt; ν anti-ν decay at Fermilab,Measurement of $K^+ \to \pi^+ \nu \bar{\nu}$ at Fermilab,0.063121
+Measurement of the K&lt;sup&gt;+&lt;/sup&gt; → π&lt;sup&gt;+&lt;/sup&gt; ν anti-ν decay at Fermilab,BABAR Results on B -&gt; Xs gamma,0.07792
+Measurement of the K&lt;sup&gt;+&lt;/sup&gt; → π&lt;sup&gt;+&lt;/sup&gt; ν anti-ν decay at Fermilab,Angular Analysis of B -&gt; K*l+l- in BABAR,0.08217
+Measurement of the K&lt;sup&gt;+&lt;/sup&gt; → π&lt;sup&gt;+&lt;/sup&gt; ν anti-ν decay at Fermilab,“i write unbalanced poetry”,0.045531
+Measurement of the K&lt;sup&gt;+&lt;/sup&gt; → π&lt;sup&gt;+&lt;/sup&gt; ν anti-ν decay at Fermilab,PRIME MOVER,0.127796
+Measurement of the K&lt;sup&gt;+&lt;/sup&gt; → π&lt;sup&gt;+&lt;/sup&gt; ν anti-ν decay at Fermilab,A HUMAN FACTORS EVALUATION OF THE CONTAINER GANTRY CRANES AT VICTORIA DEEP WATER TERMINAL,-0.013105
+Identifying primitives for a calorimeter trigger,Research program in particle physics,0.210535
+Identifying primitives for a calorimeter trigger,"Cross sections, xF dependence and A-dependence in hadronic charm production",0.380593
+Identifying primitives for a calorimeter trigger,Status of rare K decays,0.294741
+Identifying primitives for a calorimeter trigger,Hadronic Charm Production by Protons and Pions on Iron,0.406613
+Identifying primitives for a calorimeter trigger,Rare Leptonic B and b -> s l+ l- Decays at B-factories,0.320693
+Identifying primitives for a calorimeter trigger,"Research program in particle physics. Progress report, January 1, 1992--December 1992",0.210535
+Identifying primitives for a calorimeter trigger,Charm Production Measurements Using Prompt Muons,0.361152
+Identifying primitives for a calorimeter trigger,"Research program in particle physics. Progress report, January 1, 1993--December 1993",0.362529
+Identifying primitives for a calorimeter trigger,ORKA: A Precision Measurement of K+ -&gt; pi+ nu nubar at Fermilab,0.393901
+Identifying primitives for a calorimeter trigger,Rare Leptonic B and b -&gt; s l+ l- Decays at B-factories,0.318889
+Identifying primitives for a calorimeter trigger,Measurement of $K^+ \to \pi^+ \nu \bar{\nu}$ at Fermilab,0.461558
+Identifying primitives for a calorimeter trigger,BABAR Results on B -&gt; Xs gamma,0.322487
+Identifying primitives for a calorimeter trigger,Angular Analysis of B -&gt; K*l+l- in BABAR,0.315132
+Identifying primitives for a calorimeter trigger,“i write unbalanced poetry”,-0.103511
+Identifying primitives for a calorimeter trigger,PRIME MOVER,0.043543
+Identifying primitives for a calorimeter trigger,A HUMAN FACTORS EVALUATION OF THE CONTAINER GANTRY CRANES AT VICTORIA DEEP WATER TERMINAL,0.098126
+Research program in particle physics,"Cross sections, xF dependence and A-dependence in hadronic charm production",0.216392
+Research program in particle physics,Status of rare K decays,0.32048
+Research program in particle physics,Hadronic Charm Production by Protons and Pions on Iron,0.244045
+Research program in particle physics,Rare Leptonic B and b -> s l+ l- Decays at B-factories,0.347171
+Research program in particle physics,"Research program in particle physics. Progress report, January 1, 1992--December 1992",1.0
+Research program in particle physics,Charm Production Measurements Using Prompt Muons,0.186207
+Research program in particle physics,"Research program in particle physics. Progress report, January 1, 1993--December 1993",0.590841
+Research program in particle physics,ORKA: A Precision Measurement of K+ -&gt; pi+ nu nubar at Fermilab,0.319838
+Research program in particle physics,Rare Leptonic B and b -&gt; s l+ l- Decays at B-factories,0.355914
+Research program in particle physics,Measurement of $K^+ \to \pi^+ \nu \bar{\nu}$ at Fermilab,0.313247
+Research program in particle physics,BABAR Results on B -&gt; Xs gamma,0.346759
+Research program in particle physics,Angular Analysis of B -&gt; K*l+l- in BABAR,0.338421
+Research program in particle physics,“i write unbalanced poetry”,0.053799
+Research program in particle physics,PRIME MOVER,0.155747
+Research program in particle physics,A HUMAN FACTORS EVALUATION OF THE CONTAINER GANTRY CRANES AT VICTORIA DEEP WATER TERMINAL,0.051647
+"Cross sections, xF dependence and A-dependence in hadronic charm production",Status of rare K decays,0.48486
+"Cross sections, xF dependence and A-dependence in hadronic charm production",Hadronic Charm Production by Protons and Pions on Iron,0.789691
+"Cross sections, xF dependence and A-dependence in hadronic charm production",Rare Leptonic B and b -> s l+ l- Decays at B-factories,0.459517
+"Cross sections, xF dependence and A-dependence in hadronic charm production","Research program in particle physics. Progress report, January 1, 1992--December 1992",0.216392
+"Cross sections, xF dependence and A-dependence in hadronic charm production",Charm Production Measurements Using Prompt Muons,0.891043
+"Cross sections, xF dependence and A-dependence in hadronic charm production","Research program in particle physics. Progress report, January 1, 1993--December 1993",0.539457
+"Cross sections, xF dependence and A-dependence in hadronic charm production",ORKA: A Precision Measurement of K+ -&gt; pi+ nu nubar at Fermilab,0.461081
+"Cross sections, xF dependence and A-dependence in hadronic charm production",Rare Leptonic B and b -&gt; s l+ l- Decays at B-factories,0.460947
+"Cross sections, xF dependence and A-dependence in hadronic charm production",Measurement of $K^+ \to \pi^+ \nu \bar{\nu}$ at Fermilab,0.424781
+"Cross sections, xF dependence and A-dependence in hadronic charm production",BABAR Results on B -&gt; Xs gamma,0.355993
+"Cross sections, xF dependence and A-dependence in hadronic charm production",Angular Analysis of B -&gt; K*l+l- in BABAR,0.481615
+"Cross sections, xF dependence and A-dependence in hadronic charm production",“i write unbalanced poetry”,-0.040461
+"Cross sections, xF dependence and A-dependence in hadronic charm production",PRIME MOVER,0.146538
+"Cross sections, xF dependence and A-dependence in hadronic charm production",A HUMAN FACTORS EVALUATION OF THE CONTAINER GANTRY CRANES AT VICTORIA DEEP WATER TERMINAL,0.013537
+Status of rare K decays,Hadronic Charm Production by Protons and Pions on Iron,0.479708
+Status of rare K decays,Rare Leptonic B and b -> s l+ l- Decays at B-factories,0.751611
+Status of rare K decays,"Research program in particle physics. Progress report, January 1, 1992--December 1992",0.32048
+Status of rare K decays,Charm Production Measurements Using Prompt Muons,0.458608
+Status of rare K decays,"Research program in particle physics. Progress report, January 1, 1993--December 1993",0.632323
+Status of rare K decays,ORKA: A Precision Measurement of K+ -&gt; pi+ nu nubar at Fermilab,0.460213
+Status of rare K decays,Rare Leptonic B and b -&gt; s l+ l- Decays at B-factories,0.753761
+Status of rare K decays,Measurement of $K^+ \to \pi^+ \nu \bar{\nu}$ at Fermilab,0.510234
+Status of rare K decays,BABAR Results on B -&gt; Xs gamma,0.472846
+Status of rare K decays,Angular Analysis of B -&gt; K*l+l- in BABAR,0.708324
+Status of rare K decays,“i write unbalanced poetry”,0.011676
+Status of rare K decays,PRIME MOVER,0.156596
+Status of rare K decays,A HUMAN FACTORS EVALUATION OF THE CONTAINER GANTRY CRANES AT VICTORIA DEEP WATER TERMINAL,-0.02737
+Hadronic Charm Production by Protons and Pions on Iron,Rare Leptonic B and b -> s l+ l- Decays at B-factories,0.429662
+Hadronic Charm Production by Protons and Pions on Iron,"Research program in particle physics. Progress report, January 1, 1992--December 1992",0.244045
+Hadronic Charm Production by Protons and Pions on Iron,Charm Production Measurements Using Prompt Muons,0.698903
+Hadronic Charm Production by Protons and Pions on Iron,"Research program in particle physics. Progress report, January 1, 1993--December 1993",0.585839
+Hadronic Charm Production by Protons and Pions on Iron,ORKA: A Precision Measurement of K+ -&gt; pi+ nu nubar at Fermilab,0.471807
+Hadronic Charm Production by Protons and Pions on Iron,Rare Leptonic B and b -&gt; s l+ l- Decays at B-factories,0.428923
+Hadronic Charm Production by Protons and Pions on Iron,Measurement of $K^+ \to \pi^+ \nu \bar{\nu}$ at Fermilab,0.507948
+Hadronic Charm Production by Protons and Pions on Iron,BABAR Results on B -&gt; Xs gamma,0.264243
+Hadronic Charm Production by Protons and Pions on Iron,Angular Analysis of B -&gt; K*l+l- in BABAR,0.477701
+Hadronic Charm Production by Protons and Pions on Iron,“i write unbalanced poetry”,-0.033043
+Hadronic Charm Production by Protons and Pions on Iron,PRIME MOVER,0.102451
+Hadronic Charm Production by Protons and Pions on Iron,A HUMAN FACTORS EVALUATION OF THE CONTAINER GANTRY CRANES AT VICTORIA DEEP WATER TERMINAL,0.056223
+Rare Leptonic B and b -> s l+ l- Decays at B-factories,"Research program in particle physics. Progress report, January 1, 1992--December 1992",0.347171
+Rare Leptonic B and b -> s l+ l- Decays at B-factories,Charm Production Measurements Using Prompt Muons,0.470716
+Rare Leptonic B and b -> s l+ l- Decays at B-factories,"Research program in particle physics. Progress report, January 1, 1993--December 1993",0.571429
+Rare Leptonic B and b -> s l+ l- Decays at B-factories,ORKA: A Precision Measurement of K+ -&gt; pi+ nu nubar at Fermilab,0.442079
+Rare Leptonic B and b -> s l+ l- Decays at B-factories,Rare Leptonic B and b -&gt; s l+ l- Decays at B-factories,0.998968
+Rare Leptonic B and b -> s l+ l- Decays at B-factories,Measurement of $K^+ \to \pi^+ \nu \bar{\nu}$ at Fermilab,0.545287
+Rare Leptonic B and b -> s l+ l- Decays at B-factories,BABAR Results on B -&gt; Xs gamma,0.636433
+Rare Leptonic B and b -> s l+ l- Decays at B-factories,Angular Analysis of B -&gt; K*l+l- in BABAR,0.766775
+Rare Leptonic B and b -> s l+ l- Decays at B-factories,“i write unbalanced poetry”,-0.003502
+Rare Leptonic B and b -> s l+ l- Decays at B-factories,PRIME MOVER,0.211736
+Rare Leptonic B and b -> s l+ l- Decays at B-factories,A HUMAN FACTORS EVALUATION OF THE CONTAINER GANTRY CRANES AT VICTORIA DEEP WATER TERMINAL,-0.06404
+"Research program in particle physics. Progress report, January 1, 1992--December 1992",Charm Production Measurements Using Prompt Muons,0.186207
+"Research program in particle physics. Progress report, January 1, 1992--December 1992","Research program in particle physics. Progress report, January 1, 1993--December 1993",0.590841
+"Research program in particle physics. Progress report, January 1, 1992--December 1992",ORKA: A Precision Measurement of K+ -&gt; pi+ nu nubar at Fermilab,0.319838
+"Research program in particle physics. Progress report, January 1, 1992--December 1992",Rare Leptonic B and b -&gt; s l+ l- Decays at B-factories,0.355914
+"Research program in particle physics. Progress report, January 1, 1992--December 1992",Measurement of $K^+ \to \pi^+ \nu \bar{\nu}$ at Fermilab,0.313247
+"Research program in particle physics. Progress report, January 1, 1992--December 1992",BABAR Results on B -&gt; Xs gamma,0.346759
+"Research program in particle physics. Progress report, January 1, 1992--December 1992",Angular Analysis of B -&gt; K*l+l- in BABAR,0.338421
+"Research program in particle physics. Progress report, January 1, 1992--December 1992",“i write unbalanced poetry”,0.053799
+"Research program in particle physics. Progress report, January 1, 1992--December 1992",PRIME MOVER,0.155747
+"Research program in particle physics. Progress report, January 1, 1992--December 1992",A HUMAN FACTORS EVALUATION OF THE CONTAINER GANTRY CRANES AT VICTORIA DEEP WATER TERMINAL,0.051647
+Charm Production Measurements Using Prompt Muons,"Research program in particle physics. Progress report, January 1, 1993--December 1993",0.527172
+Charm Production Measurements Using Prompt Muons,ORKA: A Precision Measurement of K+ -&gt; pi+ nu nubar at Fermilab,0.410441
+Charm Production Measurements Using Prompt Muons,Rare Leptonic B and b -&gt; s l+ l- Decays at B-factories,0.471671
+Charm Production Measurements Using Prompt Muons,Measurement of $K^+ \to \pi^+ \nu \bar{\nu}$ at Fermilab,0.425554
+Charm Production Measurements Using Prompt Muons,BABAR Results on B -&gt; Xs gamma,0.355516
+Charm Production Measurements Using Prompt Muons,Angular Analysis of B -&gt; K*l+l- in BABAR,0.497965
+Charm Production Measurements Using Prompt Muons,“i write unbalanced poetry”,-0.050528
+Charm Production Measurements Using Prompt Muons,PRIME MOVER,0.213194
+Charm Production Measurements Using Prompt Muons,A HUMAN FACTORS EVALUATION OF THE CONTAINER GANTRY CRANES AT VICTORIA DEEP WATER TERMINAL,0.018409
+"Research program in particle physics. Progress report, January 1, 1993--December 1993",ORKA: A Precision Measurement of K+ -&gt; pi+ nu nubar at Fermilab,0.501204
+"Research program in particle physics. Progress report, January 1, 1993--December 1993",Rare Leptonic B and b -&gt; s l+ l- Decays at B-factories,0.57201
+"Research program in particle physics. Progress report, January 1, 1993--December 1993",Measurement of $K^+ \to \pi^+ \nu \bar{\nu}$ at Fermilab,0.503193
+"Research program in particle physics. Progress report, January 1, 1993--December 1993",BABAR Results on B -&gt; Xs gamma,0.52327
+"Research program in particle physics. Progress report, January 1, 1993--December 1993",Angular Analysis of B -&gt; K*l+l- in BABAR,0.60409
+"Research program in particle physics. Progress report, January 1, 1993--December 1993",“i write unbalanced poetry”,0.029501
+"Research program in particle physics. Progress report, January 1, 1993--December 1993",PRIME MOVER,0.137848
+"Research program in particle physics. Progress report, January 1, 1993--December 1993",A HUMAN FACTORS EVALUATION OF THE CONTAINER GANTRY CRANES AT VICTORIA DEEP WATER TERMINAL,0.020933
+ORKA: A Precision Measurement of K+ -&gt; pi+ nu nubar at Fermilab,Rare Leptonic B and b -&gt; s l+ l- Decays at B-factories,0.444093
+ORKA: A Precision Measurement of K+ -&gt; pi+ nu nubar at Fermilab,Measurement of $K^+ \to \pi^+ \nu \bar{\nu}$ at Fermilab,0.586416
+ORKA: A Precision Measurement of K+ -&gt; pi+ nu nubar at Fermilab,BABAR Results on B -&gt; Xs gamma,0.492401
+ORKA: A Precision Measurement of K+ -&gt; pi+ nu nubar at Fermilab,Angular Analysis of B -&gt; K*l+l- in BABAR,0.486297
+ORKA: A Precision Measurement of K+ -&gt; pi+ nu nubar at Fermilab,“i write unbalanced poetry”,-0.044173
+ORKA: A Precision Measurement of K+ -&gt; pi+ nu nubar at Fermilab,PRIME MOVER,0.08576
+ORKA: A Precision Measurement of K+ -&gt; pi+ nu nubar at Fermilab,A HUMAN FACTORS EVALUATION OF THE CONTAINER GANTRY CRANES AT VICTORIA DEEP WATER TERMINAL,0.00645
+Rare Leptonic B and b -&gt; s l+ l- Decays at B-factories,Measurement of $K^+ \to \pi^+ \nu \bar{\nu}$ at Fermilab,0.551244
+Rare Leptonic B and b -&gt; s l+ l- Decays at B-factories,BABAR Results on B -&gt; Xs gamma,0.640559
+Rare Leptonic B and b -&gt; s l+ l- Decays at B-factories,Angular Analysis of B -&gt; K*l+l- in BABAR,0.772334
+Rare Leptonic B and b -&gt; s l+ l- Decays at B-factories,“i write unbalanced poetry”,-0.003824
+Rare Leptonic B and b -&gt; s l+ l- Decays at B-factories,PRIME MOVER,0.215468
+Rare Leptonic B and b -&gt; s l+ l- Decays at B-factories,A HUMAN FACTORS EVALUATION OF THE CONTAINER GANTRY CRANES AT VICTORIA DEEP WATER TERMINAL,-0.064495
+Measurement of $K^+ \to \pi^+ \nu \bar{\nu}$ at Fermilab,BABAR Results on B -&gt; Xs gamma,0.460177
+Measurement of $K^+ \to \pi^+ \nu \bar{\nu}$ at Fermilab,Angular Analysis of B -&gt; K*l+l- in BABAR,0.553068
+Measurement of $K^+ \to \pi^+ \nu \bar{\nu}$ at Fermilab,“i write unbalanced poetry”,-0.101493
+Measurement of $K^+ \to \pi^+ \nu \bar{\nu}$ at Fermilab,PRIME MOVER,0.153706
+Measurement of $K^+ \to \pi^+ \nu \bar{\nu}$ at Fermilab,A HUMAN FACTORS EVALUATION OF THE CONTAINER GANTRY CRANES AT VICTORIA DEEP WATER TERMINAL,0.039184
+BABAR Results on B -&gt; Xs gamma,Angular Analysis of B -&gt; K*l+l- in BABAR,0.675126
+BABAR Results on B -&gt; Xs gamma,“i write unbalanced poetry”,-0.005021
+BABAR Results on B -&gt; Xs gamma,PRIME MOVER,0.134352
+BABAR Results on B -&gt; Xs gamma,A HUMAN FACTORS EVALUATION OF THE CONTAINER GANTRY CRANES AT VICTORIA DEEP WATER TERMINAL,-0.021643
+Angular Analysis of B -&gt; K*l+l- in BABAR,“i write unbalanced poetry”,0.014033
+Angular Analysis of B -&gt; K*l+l- in BABAR,PRIME MOVER,0.211135
+Angular Analysis of B -&gt; K*l+l- in BABAR,A HUMAN FACTORS EVALUATION OF THE CONTAINER GANTRY CRANES AT VICTORIA DEEP WATER TERMINAL,-0.029544
+“i write unbalanced poetry”,PRIME MOVER,0.167033
+“i write unbalanced poetry”,A HUMAN FACTORS EVALUATION OF THE CONTAINER GANTRY CRANES AT VICTORIA DEEP WATER TERMINAL,0.061312
+PRIME MOVER,A HUMAN FACTORS EVALUATION OF THE CONTAINER GANTRY CRANES AT VICTORIA DEEP WATER TERMINAL,0.074956

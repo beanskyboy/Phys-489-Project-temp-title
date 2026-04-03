@@ -1,0 +1,22 @@
+title_i,title_j,cosine_similarity
+EmailTime: Visual analytics of emails,EmailTime: visual analytics and statistics for temporal email,0.937554
+EmailTime: Visual analytics of emails,"CZSaw, IMAS &amp;amp; Tableau: Collaboration among teams: VAST 2010 Grand Challenge award: Excellent student team analysis",0.302728
+EmailTime: Visual analytics of emails,Enron case study: Analysis of email behavior using EmailTime,0.733309
+EmailTime: Visual analytics of emails,Enhanced situational awareness and communication for emergency response,0.096531
+EmailTime: Visual analytics of emails,Visualizing search results: evaluating an iconic visualization,0.382795
+EmailTime: Visual analytics of emails,EmailTime: visualization and analysis of email dataset,-0.083032
+EmailTime: visual analytics and statistics for temporal email,"CZSaw, IMAS &amp;amp; Tableau: Collaboration among teams: VAST 2010 Grand Challenge award: Excellent student team analysis",0.298278
+EmailTime: visual analytics and statistics for temporal email,Enron case study: Analysis of email behavior using EmailTime,0.827417
+EmailTime: visual analytics and statistics for temporal email,Enhanced situational awareness and communication for emergency response,0.151319
+EmailTime: visual analytics and statistics for temporal email,Visualizing search results: evaluating an iconic visualization,0.430978
+EmailTime: visual analytics and statistics for temporal email,EmailTime: visualization and analysis of email dataset,-0.072142
+"CZSaw, IMAS &amp;amp; Tableau: Collaboration among teams: VAST 2010 Grand Challenge award: Excellent student team analysis",Enron case study: Analysis of email behavior using EmailTime,0.258013
+"CZSaw, IMAS &amp;amp; Tableau: Collaboration among teams: VAST 2010 Grand Challenge award: Excellent student team analysis",Enhanced situational awareness and communication for emergency response,0.188971
+"CZSaw, IMAS &amp;amp; Tableau: Collaboration among teams: VAST 2010 Grand Challenge award: Excellent student team analysis",Visualizing search results: evaluating an iconic visualization,0.13904
+"CZSaw, IMAS &amp;amp; Tableau: Collaboration among teams: VAST 2010 Grand Challenge award: Excellent student team analysis",EmailTime: visualization and analysis of email dataset,-0.033133
+Enron case study: Analysis of email behavior using EmailTime,Enhanced situational awareness and communication for emergency response,0.21818
+Enron case study: Analysis of email behavior using EmailTime,Visualizing search results: evaluating an iconic visualization,0.331301
+Enron case study: Analysis of email behavior using EmailTime,EmailTime: visualization and analysis of email dataset,-0.059795
+Enhanced situational awareness and communication for emergency response,Visualizing search results: evaluating an iconic visualization,0.19436
+Enhanced situational awareness and communication for emergency response,EmailTime: visualization and analysis of email dataset,-0.063453
+Visualizing search results: evaluating an iconic visualization,EmailTime: visualization and analysis of email dataset,0.03055

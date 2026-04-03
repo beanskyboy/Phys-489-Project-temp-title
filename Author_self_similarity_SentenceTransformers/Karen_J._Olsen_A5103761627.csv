@@ -1,0 +1,46 @@
+title_i,title_j,cosine_similarity
+NIST Atomic Spectra Database,"Kinetics, mechanism, and thermochemistry of the gas-phase reaction of atomic chlorine with pyridine",-0.051816
+NIST Atomic Spectra Database,Response of the alanine radiation dosemeter to high-energy photon and electron beams,0.049214
+NIST Atomic Spectra Database,Improving interoperability by incorporating UnitsML into markup languages,0.026601
+NIST Atomic Spectra Database,Evidence of the ozone(1-) radical in irradiated sodium bromate by electron spin resonance,0.094226
+NIST Atomic Spectra Database,Experimental Data from Irradiation of Physical Detectors Disclose Weaknesses in Basic Assumptions of the Delta Ray Theory of Track Structure,-0.047118
+NIST Atomic Spectra Database,The impact of the FCC's Open Network Architecture on NSNP telecommunications security,0.063423
+NIST Atomic Spectra Database,Reliability of Scintigraphic Diagnosis of Liver Metastases,0.097573
+NIST Atomic Spectra Database,Issues in transparent file access,0.060924
+NIST Atomic Spectra Database,An introduction to the P1003.1g and CPI-C network application programming interfaces,-0.000554
+"Kinetics, mechanism, and thermochemistry of the gas-phase reaction of atomic chlorine with pyridine",Response of the alanine radiation dosemeter to high-energy photon and electron beams,0.135399
+"Kinetics, mechanism, and thermochemistry of the gas-phase reaction of atomic chlorine with pyridine",Improving interoperability by incorporating UnitsML into markup languages,0.137288
+"Kinetics, mechanism, and thermochemistry of the gas-phase reaction of atomic chlorine with pyridine",Evidence of the ozone(1-) radical in irradiated sodium bromate by electron spin resonance,0.376444
+"Kinetics, mechanism, and thermochemistry of the gas-phase reaction of atomic chlorine with pyridine",Experimental Data from Irradiation of Physical Detectors Disclose Weaknesses in Basic Assumptions of the Delta Ray Theory of Track Structure,0.322434
+"Kinetics, mechanism, and thermochemistry of the gas-phase reaction of atomic chlorine with pyridine",The impact of the FCC's Open Network Architecture on NSNP telecommunications security,-0.012635
+"Kinetics, mechanism, and thermochemistry of the gas-phase reaction of atomic chlorine with pyridine",Reliability of Scintigraphic Diagnosis of Liver Metastases,0.021279
+"Kinetics, mechanism, and thermochemistry of the gas-phase reaction of atomic chlorine with pyridine",Issues in transparent file access,0.145074
+"Kinetics, mechanism, and thermochemistry of the gas-phase reaction of atomic chlorine with pyridine",An introduction to the P1003.1g and CPI-C network application programming interfaces,0.020711
+Response of the alanine radiation dosemeter to high-energy photon and electron beams,Improving interoperability by incorporating UnitsML into markup languages,0.189517
+Response of the alanine radiation dosemeter to high-energy photon and electron beams,Evidence of the ozone(1-) radical in irradiated sodium bromate by electron spin resonance,0.416748
+Response of the alanine radiation dosemeter to high-energy photon and electron beams,Experimental Data from Irradiation of Physical Detectors Disclose Weaknesses in Basic Assumptions of the Delta Ray Theory of Track Structure,0.639846
+Response of the alanine radiation dosemeter to high-energy photon and electron beams,The impact of the FCC's Open Network Architecture on NSNP telecommunications security,0.162437
+Response of the alanine radiation dosemeter to high-energy photon and electron beams,Reliability of Scintigraphic Diagnosis of Liver Metastases,0.307227
+Response of the alanine radiation dosemeter to high-energy photon and electron beams,Issues in transparent file access,0.111849
+Response of the alanine radiation dosemeter to high-energy photon and electron beams,An introduction to the P1003.1g and CPI-C network application programming interfaces,0.058463
+Improving interoperability by incorporating UnitsML into markup languages,Evidence of the ozone(1-) radical in irradiated sodium bromate by electron spin resonance,0.230099
+Improving interoperability by incorporating UnitsML into markup languages,Experimental Data from Irradiation of Physical Detectors Disclose Weaknesses in Basic Assumptions of the Delta Ray Theory of Track Structure,0.259169
+Improving interoperability by incorporating UnitsML into markup languages,The impact of the FCC's Open Network Architecture on NSNP telecommunications security,0.401992
+Improving interoperability by incorporating UnitsML into markup languages,Reliability of Scintigraphic Diagnosis of Liver Metastases,0.088704
+Improving interoperability by incorporating UnitsML into markup languages,Issues in transparent file access,0.191511
+Improving interoperability by incorporating UnitsML into markup languages,An introduction to the P1003.1g and CPI-C network application programming interfaces,0.29098
+Evidence of the ozone(1-) radical in irradiated sodium bromate by electron spin resonance,Experimental Data from Irradiation of Physical Detectors Disclose Weaknesses in Basic Assumptions of the Delta Ray Theory of Track Structure,0.505498
+Evidence of the ozone(1-) radical in irradiated sodium bromate by electron spin resonance,The impact of the FCC's Open Network Architecture on NSNP telecommunications security,0.08701
+Evidence of the ozone(1-) radical in irradiated sodium bromate by electron spin resonance,Reliability of Scintigraphic Diagnosis of Liver Metastases,0.155657
+Evidence of the ozone(1-) radical in irradiated sodium bromate by electron spin resonance,Issues in transparent file access,0.095058
+Evidence of the ozone(1-) radical in irradiated sodium bromate by electron spin resonance,An introduction to the P1003.1g and CPI-C network application programming interfaces,0.034319
+Experimental Data from Irradiation of Physical Detectors Disclose Weaknesses in Basic Assumptions of the Delta Ray Theory of Track Structure,The impact of the FCC's Open Network Architecture on NSNP telecommunications security,0.100483
+Experimental Data from Irradiation of Physical Detectors Disclose Weaknesses in Basic Assumptions of the Delta Ray Theory of Track Structure,Reliability of Scintigraphic Diagnosis of Liver Metastases,0.180374
+Experimental Data from Irradiation of Physical Detectors Disclose Weaknesses in Basic Assumptions of the Delta Ray Theory of Track Structure,Issues in transparent file access,0.117208
+Experimental Data from Irradiation of Physical Detectors Disclose Weaknesses in Basic Assumptions of the Delta Ray Theory of Track Structure,An introduction to the P1003.1g and CPI-C network application programming interfaces,-0.00552
+The impact of the FCC's Open Network Architecture on NSNP telecommunications security,Reliability of Scintigraphic Diagnosis of Liver Metastases,0.05734
+The impact of the FCC's Open Network Architecture on NSNP telecommunications security,Issues in transparent file access,0.241134
+The impact of the FCC's Open Network Architecture on NSNP telecommunications security,An introduction to the P1003.1g and CPI-C network application programming interfaces,0.385333
+Reliability of Scintigraphic Diagnosis of Liver Metastases,Issues in transparent file access,0.060657
+Reliability of Scintigraphic Diagnosis of Liver Metastases,An introduction to the P1003.1g and CPI-C network application programming interfaces,-0.035218
+Issues in transparent file access,An introduction to the P1003.1g and CPI-C network application programming interfaces,0.22747

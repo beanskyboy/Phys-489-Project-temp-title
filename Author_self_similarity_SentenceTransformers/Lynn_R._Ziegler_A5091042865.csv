@@ -1,0 +1,11 @@
+title_i,title_j,cosine_similarity
+Depth Perception during Diplopia is Direct,Alternative teaching strategies in CS I,0.008318
+Depth Perception during Diplopia is Direct,Luminance spatial scale facilitates stereoscopic depth segmentation,0.560931
+Depth Perception during Diplopia is Direct,Visions of breadth in introductory computing curricula (abstract),0.008318
+Depth Perception during Diplopia is Direct,Scaling up computer science with efficient learning (abstract),0.008318
+Alternative teaching strategies in CS I,Luminance spatial scale facilitates stereoscopic depth segmentation,0.019839
+Alternative teaching strategies in CS I,Visions of breadth in introductory computing curricula (abstract),1.0
+Alternative teaching strategies in CS I,Scaling up computer science with efficient learning (abstract),1.0
+Luminance spatial scale facilitates stereoscopic depth segmentation,Visions of breadth in introductory computing curricula (abstract),0.019839
+Luminance spatial scale facilitates stereoscopic depth segmentation,Scaling up computer science with efficient learning (abstract),0.019839
+Visions of breadth in introductory computing curricula (abstract),Scaling up computer science with efficient learning (abstract),1.0

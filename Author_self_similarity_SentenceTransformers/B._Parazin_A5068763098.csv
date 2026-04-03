@@ -1,0 +1,22 @@
+title_i,title_j,cosine_similarity
+A Data Science Platform to Enable Time-domain Astronomy,Target-of-opportunity Observations of Gravitational-wave Events with Vera C. Rubin Observatory,0.62387
+A Data Science Platform to Enable Time-domain Astronomy,"Mississippi River low-flows: context, causes, and future projections",0.083907
+A Data Science Platform to Enable Time-domain Astronomy,HEALPix Alchemy: Fast All-Sky Geometry and Image Arithmetic in a Relational Database for Multimessenger Astronomy Brokers,0.71973
+A Data Science Platform to Enable Time-domain Astronomy,Foraging with MUSHROOMS: A Mixed-integer Linear Programming Scheduler for Multimessenger Target of Opportunity Searches with the Zwicky Transient Facility,0.60851
+A Data Science Platform to Enable Time-domain Astronomy,Contrasting Ocean–Atmosphere Dynamics Mediate Flood Hazard across the Mississippi River Basin,0.060284
+A Data Science Platform to Enable Time-domain Astronomy,Ice Sheets Without Dynamic Topography,0.214751
+Target-of-opportunity Observations of Gravitational-wave Events with Vera C. Rubin Observatory,"Mississippi River low-flows: context, causes, and future projections",9.9e-05
+Target-of-opportunity Observations of Gravitational-wave Events with Vera C. Rubin Observatory,HEALPix Alchemy: Fast All-Sky Geometry and Image Arithmetic in a Relational Database for Multimessenger Astronomy Brokers,0.53945
+Target-of-opportunity Observations of Gravitational-wave Events with Vera C. Rubin Observatory,Foraging with MUSHROOMS: A Mixed-integer Linear Programming Scheduler for Multimessenger Target of Opportunity Searches with the Zwicky Transient Facility,0.661623
+Target-of-opportunity Observations of Gravitational-wave Events with Vera C. Rubin Observatory,Contrasting Ocean–Atmosphere Dynamics Mediate Flood Hazard across the Mississippi River Basin,0.011285
+Target-of-opportunity Observations of Gravitational-wave Events with Vera C. Rubin Observatory,Ice Sheets Without Dynamic Topography,0.135622
+"Mississippi River low-flows: context, causes, and future projections",HEALPix Alchemy: Fast All-Sky Geometry and Image Arithmetic in a Relational Database for Multimessenger Astronomy Brokers,0.0114
+"Mississippi River low-flows: context, causes, and future projections",Foraging with MUSHROOMS: A Mixed-integer Linear Programming Scheduler for Multimessenger Target of Opportunity Searches with the Zwicky Transient Facility,0.046067
+"Mississippi River low-flows: context, causes, and future projections",Contrasting Ocean–Atmosphere Dynamics Mediate Flood Hazard across the Mississippi River Basin,0.837289
+"Mississippi River low-flows: context, causes, and future projections",Ice Sheets Without Dynamic Topography,0.281028
+HEALPix Alchemy: Fast All-Sky Geometry and Image Arithmetic in a Relational Database for Multimessenger Astronomy Brokers,Foraging with MUSHROOMS: A Mixed-integer Linear Programming Scheduler for Multimessenger Target of Opportunity Searches with the Zwicky Transient Facility,0.595157
+HEALPix Alchemy: Fast All-Sky Geometry and Image Arithmetic in a Relational Database for Multimessenger Astronomy Brokers,Contrasting Ocean–Atmosphere Dynamics Mediate Flood Hazard across the Mississippi River Basin,0.037055
+HEALPix Alchemy: Fast All-Sky Geometry and Image Arithmetic in a Relational Database for Multimessenger Astronomy Brokers,Ice Sheets Without Dynamic Topography,0.158212
+Foraging with MUSHROOMS: A Mixed-integer Linear Programming Scheduler for Multimessenger Target of Opportunity Searches with the Zwicky Transient Facility,Contrasting Ocean–Atmosphere Dynamics Mediate Flood Hazard across the Mississippi River Basin,0.002954
+Foraging with MUSHROOMS: A Mixed-integer Linear Programming Scheduler for Multimessenger Target of Opportunity Searches with the Zwicky Transient Facility,Ice Sheets Without Dynamic Topography,0.117308
+Contrasting Ocean–Atmosphere Dynamics Mediate Flood Hazard across the Mississippi River Basin,Ice Sheets Without Dynamic Topography,0.295301

@@ -1,0 +1,92 @@
+title_i,title_j,cosine_similarity
+Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change,Language from police body camera footage shows racial disparities in officer respect,0.304158
+Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change,Inducing Domain-Specific Sentiment Lexicons from Unlabeled Corpora,0.525453
+Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change,Cultural Shift or Linguistic Drift? Comparing Two Computational Measures of Semantic Change,0.74675
+Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change,Augmented base pairing networks encode RNA-small molecule binding preferences,0.205178
+Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change,Directional graph networks,0.213131
+Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change,Compositional Fairness Constraints for Graph Embeddings,0.29811
+Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change,Ego-GNNs: Exploiting Ego Structures in Graph Neural Networks,0.133042
+Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change,GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models,0.230982
+Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change,Embedding Logical Queries on Knowledge Graphs,0.256519
+Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change,NodePiece: Compositional and Parameter-Efficient Representations of\n Large Knowledge Graphs,0.395959
+Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change,A Method for Obtaining Three-Dimensional Structural Information about Protein Molecules in Solution,0.055362
+Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change,Family Child Care Home Participation in the CACFP— Effects of Reimbursement Tiering A Report to Congress on the Family Child Care Homes Legislative Changes Study,-0.004738
+Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change,Vpc Container,0.016376
+Language from police body camera footage shows racial disparities in officer respect,Inducing Domain-Specific Sentiment Lexicons from Unlabeled Corpora,0.318986
+Language from police body camera footage shows racial disparities in officer respect,Cultural Shift or Linguistic Drift? Comparing Two Computational Measures of Semantic Change,0.322245
+Language from police body camera footage shows racial disparities in officer respect,Augmented base pairing networks encode RNA-small molecule binding preferences,0.068884
+Language from police body camera footage shows racial disparities in officer respect,Directional graph networks,0.108934
+Language from police body camera footage shows racial disparities in officer respect,Compositional Fairness Constraints for Graph Embeddings,0.289176
+Language from police body camera footage shows racial disparities in officer respect,Ego-GNNs: Exploiting Ego Structures in Graph Neural Networks,0.167488
+Language from police body camera footage shows racial disparities in officer respect,GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models,0.190435
+Language from police body camera footage shows racial disparities in officer respect,Embedding Logical Queries on Knowledge Graphs,0.185614
+Language from police body camera footage shows racial disparities in officer respect,NodePiece: Compositional and Parameter-Efficient Representations of\n Large Knowledge Graphs,0.202296
+Language from police body camera footage shows racial disparities in officer respect,A Method for Obtaining Three-Dimensional Structural Information about Protein Molecules in Solution,-0.021468
+Language from police body camera footage shows racial disparities in officer respect,Family Child Care Home Participation in the CACFP— Effects of Reimbursement Tiering A Report to Congress on the Family Child Care Homes Legislative Changes Study,0.080307
+Language from police body camera footage shows racial disparities in officer respect,Vpc Container,0.003232
+Inducing Domain-Specific Sentiment Lexicons from Unlabeled Corpora,Cultural Shift or Linguistic Drift? Comparing Two Computational Measures of Semantic Change,0.446396
+Inducing Domain-Specific Sentiment Lexicons from Unlabeled Corpora,Augmented base pairing networks encode RNA-small molecule binding preferences,0.324934
+Inducing Domain-Specific Sentiment Lexicons from Unlabeled Corpora,Directional graph networks,0.315508
+Inducing Domain-Specific Sentiment Lexicons from Unlabeled Corpora,Compositional Fairness Constraints for Graph Embeddings,0.431227
+Inducing Domain-Specific Sentiment Lexicons from Unlabeled Corpora,Ego-GNNs: Exploiting Ego Structures in Graph Neural Networks,0.289985
+Inducing Domain-Specific Sentiment Lexicons from Unlabeled Corpora,GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models,0.391232
+Inducing Domain-Specific Sentiment Lexicons from Unlabeled Corpora,Embedding Logical Queries on Knowledge Graphs,0.420103
+Inducing Domain-Specific Sentiment Lexicons from Unlabeled Corpora,NodePiece: Compositional and Parameter-Efficient Representations of\n Large Knowledge Graphs,0.443827
+Inducing Domain-Specific Sentiment Lexicons from Unlabeled Corpora,A Method for Obtaining Three-Dimensional Structural Information about Protein Molecules in Solution,0.04994
+Inducing Domain-Specific Sentiment Lexicons from Unlabeled Corpora,Family Child Care Home Participation in the CACFP— Effects of Reimbursement Tiering A Report to Congress on the Family Child Care Homes Legislative Changes Study,-0.036461
+Inducing Domain-Specific Sentiment Lexicons from Unlabeled Corpora,Vpc Container,-0.03763
+Cultural Shift or Linguistic Drift? Comparing Two Computational Measures of Semantic Change,Augmented base pairing networks encode RNA-small molecule binding preferences,0.08629
+Cultural Shift or Linguistic Drift? Comparing Two Computational Measures of Semantic Change,Directional graph networks,0.18829
+Cultural Shift or Linguistic Drift? Comparing Two Computational Measures of Semantic Change,Compositional Fairness Constraints for Graph Embeddings,0.151175
+Cultural Shift or Linguistic Drift? Comparing Two Computational Measures of Semantic Change,Ego-GNNs: Exploiting Ego Structures in Graph Neural Networks,0.110958
+Cultural Shift or Linguistic Drift? Comparing Two Computational Measures of Semantic Change,GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models,0.16478
+Cultural Shift or Linguistic Drift? Comparing Two Computational Measures of Semantic Change,Embedding Logical Queries on Knowledge Graphs,0.136752
+Cultural Shift or Linguistic Drift? Comparing Two Computational Measures of Semantic Change,NodePiece: Compositional and Parameter-Efficient Representations of\n Large Knowledge Graphs,0.263711
+Cultural Shift or Linguistic Drift? Comparing Two Computational Measures of Semantic Change,A Method for Obtaining Three-Dimensional Structural Information about Protein Molecules in Solution,0.048034
+Cultural Shift or Linguistic Drift? Comparing Two Computational Measures of Semantic Change,Family Child Care Home Participation in the CACFP— Effects of Reimbursement Tiering A Report to Congress on the Family Child Care Homes Legislative Changes Study,0.010219
+Cultural Shift or Linguistic Drift? Comparing Two Computational Measures of Semantic Change,Vpc Container,0.014979
+Augmented base pairing networks encode RNA-small molecule binding preferences,Directional graph networks,0.522632
+Augmented base pairing networks encode RNA-small molecule binding preferences,Compositional Fairness Constraints for Graph Embeddings,0.412752
+Augmented base pairing networks encode RNA-small molecule binding preferences,Ego-GNNs: Exploiting Ego Structures in Graph Neural Networks,0.410973
+Augmented base pairing networks encode RNA-small molecule binding preferences,GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models,0.545357
+Augmented base pairing networks encode RNA-small molecule binding preferences,Embedding Logical Queries on Knowledge Graphs,0.515834
+Augmented base pairing networks encode RNA-small molecule binding preferences,NodePiece: Compositional and Parameter-Efficient Representations of\n Large Knowledge Graphs,0.414781
+Augmented base pairing networks encode RNA-small molecule binding preferences,A Method for Obtaining Three-Dimensional Structural Information about Protein Molecules in Solution,0.426992
+Augmented base pairing networks encode RNA-small molecule binding preferences,Family Child Care Home Participation in the CACFP— Effects of Reimbursement Tiering A Report to Congress on the Family Child Care Homes Legislative Changes Study,-0.025876
+Augmented base pairing networks encode RNA-small molecule binding preferences,Vpc Container,0.029232
+Directional graph networks,Compositional Fairness Constraints for Graph Embeddings,0.515883
+Directional graph networks,Ego-GNNs: Exploiting Ego Structures in Graph Neural Networks,0.704551
+Directional graph networks,GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models,0.65509
+Directional graph networks,Embedding Logical Queries on Knowledge Graphs,0.471413
+Directional graph networks,NodePiece: Compositional and Parameter-Efficient Representations of\n Large Knowledge Graphs,0.379032
+Directional graph networks,A Method for Obtaining Three-Dimensional Structural Information about Protein Molecules in Solution,0.250144
+Directional graph networks,Family Child Care Home Participation in the CACFP— Effects of Reimbursement Tiering A Report to Congress on the Family Child Care Homes Legislative Changes Study,-0.083442
+Directional graph networks,Vpc Container,-0.002921
+Compositional Fairness Constraints for Graph Embeddings,Ego-GNNs: Exploiting Ego Structures in Graph Neural Networks,0.553771
+Compositional Fairness Constraints for Graph Embeddings,GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models,0.596933
+Compositional Fairness Constraints for Graph Embeddings,Embedding Logical Queries on Knowledge Graphs,0.568513
+Compositional Fairness Constraints for Graph Embeddings,NodePiece: Compositional and Parameter-Efficient Representations of\n Large Knowledge Graphs,0.515127
+Compositional Fairness Constraints for Graph Embeddings,A Method for Obtaining Three-Dimensional Structural Information about Protein Molecules in Solution,0.096571
+Compositional Fairness Constraints for Graph Embeddings,Family Child Care Home Participation in the CACFP— Effects of Reimbursement Tiering A Report to Congress on the Family Child Care Homes Legislative Changes Study,-0.00834
+Compositional Fairness Constraints for Graph Embeddings,Vpc Container,-0.038092
+Ego-GNNs: Exploiting Ego Structures in Graph Neural Networks,GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models,0.666619
+Ego-GNNs: Exploiting Ego Structures in Graph Neural Networks,Embedding Logical Queries on Knowledge Graphs,0.547402
+Ego-GNNs: Exploiting Ego Structures in Graph Neural Networks,NodePiece: Compositional and Parameter-Efficient Representations of\n Large Knowledge Graphs,0.496267
+Ego-GNNs: Exploiting Ego Structures in Graph Neural Networks,A Method for Obtaining Three-Dimensional Structural Information about Protein Molecules in Solution,0.051201
+Ego-GNNs: Exploiting Ego Structures in Graph Neural Networks,Family Child Care Home Participation in the CACFP— Effects of Reimbursement Tiering A Report to Congress on the Family Child Care Homes Legislative Changes Study,-0.015366
+Ego-GNNs: Exploiting Ego Structures in Graph Neural Networks,Vpc Container,-0.081708
+GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models,Embedding Logical Queries on Knowledge Graphs,0.526258
+GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models,NodePiece: Compositional and Parameter-Efficient Representations of\n Large Knowledge Graphs,0.446087
+GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models,A Method for Obtaining Three-Dimensional Structural Information about Protein Molecules in Solution,0.151779
+GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models,Family Child Care Home Participation in the CACFP— Effects of Reimbursement Tiering A Report to Congress on the Family Child Care Homes Legislative Changes Study,-0.032598
+GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models,Vpc Container,0.001589
+Embedding Logical Queries on Knowledge Graphs,NodePiece: Compositional and Parameter-Efficient Representations of\n Large Knowledge Graphs,0.634484
+Embedding Logical Queries on Knowledge Graphs,A Method for Obtaining Three-Dimensional Structural Information about Protein Molecules in Solution,0.078699
+Embedding Logical Queries on Knowledge Graphs,Family Child Care Home Participation in the CACFP— Effects of Reimbursement Tiering A Report to Congress on the Family Child Care Homes Legislative Changes Study,-0.03766
+Embedding Logical Queries on Knowledge Graphs,Vpc Container,-0.034972
+NodePiece: Compositional and Parameter-Efficient Representations of\n Large Knowledge Graphs,A Method for Obtaining Three-Dimensional Structural Information about Protein Molecules in Solution,0.10711
+NodePiece: Compositional and Parameter-Efficient Representations of\n Large Knowledge Graphs,Family Child Care Home Participation in the CACFP— Effects of Reimbursement Tiering A Report to Congress on the Family Child Care Homes Legislative Changes Study,0.035957
+NodePiece: Compositional and Parameter-Efficient Representations of\n Large Knowledge Graphs,Vpc Container,-0.046614
+A Method for Obtaining Three-Dimensional Structural Information about Protein Molecules in Solution,Family Child Care Home Participation in the CACFP— Effects of Reimbursement Tiering A Report to Congress on the Family Child Care Homes Legislative Changes Study,0.050682
+A Method for Obtaining Three-Dimensional Structural Information about Protein Molecules in Solution,Vpc Container,0.246549
+Family Child Care Home Participation in the CACFP— Effects of Reimbursement Tiering A Report to Congress on the Family Child Care Homes Legislative Changes Study,Vpc Container,0.037478

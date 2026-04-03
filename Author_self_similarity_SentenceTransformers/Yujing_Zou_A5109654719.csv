@@ -1,0 +1,11 @@
+title_i,title_j,cosine_similarity
+The effect of art therapy on quality of life and fatigue in breast cancer patients: a meta-analysis,Abstract B019: Clinician-AI evaluation of prognostic information extraction in head and neck cancer using an on-premises LLM,0.089181
+The effect of art therapy on quality of life and fatigue in breast cancer patients: a meta-analysis,Abstract A059: CP-Fuse: A Comprehensive Assessment of Clinico-Pathological Fusion in TCGA Survival Prediction,0.004189
+The effect of art therapy on quality of life and fatigue in breast cancer patients: a meta-analysis,Fundamentals of artificial intelligence,-0.001165
+The effect of art therapy on quality of life and fatigue in breast cancer patients: a meta-analysis,Beyond single-run metrics with CP-fuse: A rigorous multi-cohort evaluation of clinico-pathological fusion for improved survival prediction in TCGA,0.019651
+Abstract B019: Clinician-AI evaluation of prognostic information extraction in head and neck cancer using an on-premises LLM,Abstract A059: CP-Fuse: A Comprehensive Assessment of Clinico-Pathological Fusion in TCGA Survival Prediction,0.48456
+Abstract B019: Clinician-AI evaluation of prognostic information extraction in head and neck cancer using an on-premises LLM,Fundamentals of artificial intelligence,0.52507
+Abstract B019: Clinician-AI evaluation of prognostic information extraction in head and neck cancer using an on-premises LLM,Beyond single-run metrics with CP-fuse: A rigorous multi-cohort evaluation of clinico-pathological fusion for improved survival prediction in TCGA,0.472623
+Abstract A059: CP-Fuse: A Comprehensive Assessment of Clinico-Pathological Fusion in TCGA Survival Prediction,Fundamentals of artificial intelligence,0.549792
+Abstract A059: CP-Fuse: A Comprehensive Assessment of Clinico-Pathological Fusion in TCGA Survival Prediction,Beyond single-run metrics with CP-fuse: A rigorous multi-cohort evaluation of clinico-pathological fusion for improved survival prediction in TCGA,0.920013
+Fundamentals of artificial intelligence,Beyond single-run metrics with CP-fuse: A rigorous multi-cohort evaluation of clinico-pathological fusion for improved survival prediction in TCGA,0.474054

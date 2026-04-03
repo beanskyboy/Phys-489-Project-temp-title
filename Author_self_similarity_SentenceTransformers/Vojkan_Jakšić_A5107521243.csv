@@ -1,596 +1,497 @@
-abstract_i,abstract_j,cosine_similarity
-0,1,0.487033
-0,2,0.418202
-0,3,0.567754
-0,4,0.466503
-0,5,0.625217
-0,6,0.67979
-0,7,0.105634
-0,8,0.269571
-0,9,0.384305
-0,10,0.356924
-0,11,0.490839
-0,12,0.353433
-0,13,0.54976
-0,14,0.584596
-0,15,0.365929
-0,16,0.426336
-0,17,0.526396
-0,18,0.242413
-0,19,0.852271
-0,20,0.428596
-0,21,0.482976
-0,22,0.518028
-0,23,0.699355
-0,24,0.325165
-0,25,-0.020315
-0,26,0.331324
-0,27,0.326093
-0,28,0.402381
-0,29,0.70173
-0,30,0.339334
-0,31,0.388281
-0,32,0.534341
-0,33,0.314706
-0,34,0.437603
-1,2,0.443066
-1,3,0.461175
-1,4,0.454079
-1,5,0.445278
-1,6,0.505216
-1,7,-0.008567
-1,8,0.377394
-1,9,0.165086
-1,10,0.252712
-1,11,0.469993
-1,12,0.482592
-1,13,0.503421
-1,14,0.47432
-1,15,0.470515
-1,16,0.293447
-1,17,0.420586
-1,18,0.275358
-1,19,0.52585
-1,20,0.425514
-1,21,0.558666
-1,22,0.435189
-1,23,0.56991
-1,24,0.302472
-1,25,0.0019
-1,26,0.310141
-1,27,0.112746
-1,28,0.573399
-1,29,0.480503
-1,30,0.187973
-1,31,0.568662
-1,32,0.674284
-1,33,0.202725
-1,34,0.468197
-2,3,0.391079
-2,4,0.334632
-2,5,0.531174
-2,6,0.586582
-2,7,0.066039
-2,8,0.114255
-2,9,0.364908
-2,10,0.447531
-2,11,0.590246
-2,12,0.294642
-2,13,0.470344
-2,14,0.47393
-2,15,0.363208
-2,16,0.398202
-2,17,0.437932
-2,18,0.05772
-2,19,0.376984
-2,20,0.471528
-2,21,0.489444
-2,22,0.355599
-2,23,0.550766
-2,24,0.204355
-2,25,0.068019
-2,26,0.374879
-2,27,0.450166
-2,28,0.444243
-2,29,0.481486
-2,30,0.426949
-2,31,0.247028
-2,32,0.455784
-2,33,0.453598
-2,34,0.93985
-3,4,0.307792
-3,5,0.670648
-3,6,0.619642
-3,7,0.043774
-3,8,0.266339
-3,9,0.446682
-3,10,0.353042
-3,11,0.518554
-3,12,0.359826
-3,13,0.680765
-3,14,0.480334
-3,15,0.391498
-3,16,0.54907
-3,17,0.528488
-3,18,0.159982
-3,19,0.467653
-3,20,0.620661
-3,21,0.581793
-3,22,0.513059
-3,23,0.64973
-3,24,0.248895
-3,25,-0.018511
-3,26,0.430116
-3,27,0.365338
-3,28,0.313908
-3,29,0.624706
-3,30,0.337727
-3,31,0.387638
-3,32,0.528069
-3,33,0.379884
-3,34,0.426607
-4,5,0.319024
-4,6,0.429313
-4,7,0.069975
-4,8,0.327084
-4,9,0.084115
-4,10,0.103965
-4,11,0.389706
-4,12,0.390856
-4,13,0.355152
-4,14,0.454102
-4,15,0.394852
-4,16,0.22395
-4,17,0.362621
-4,18,0.256882
-4,19,0.378192
-4,20,0.292969
-4,21,0.397591
-4,22,0.345965
-4,23,0.397423
-4,24,0.358842
-4,25,-0.045089
-4,26,0.206285
-4,27,0.138437
-4,28,0.563476
-4,29,0.35688
-4,30,0.156647
-4,31,0.494444
-4,32,0.511372
-4,33,0.21567
-4,34,0.35864
-5,6,0.673029
-5,7,0.051091
-5,8,0.359529
-5,9,0.535366
-5,10,0.465239
-5,11,0.651379
-5,12,0.436126
-5,13,0.690691
-5,14,0.607241
-5,15,0.534269
-5,16,0.551693
-5,17,0.698039
-5,18,0.196799
-5,19,0.580496
-5,20,0.614242
-5,21,0.566058
-5,22,0.632525
-5,23,0.723435
-5,24,0.312945
-5,25,0.02321
-5,26,0.473374
-5,27,0.477884
-5,28,0.433649
-5,29,0.748931
-5,30,0.430915
-5,31,0.407471
-5,32,0.533508
-5,33,0.505527
-5,34,0.553288
-6,7,0.047936
-6,8,0.126788
-6,9,0.396303
-6,10,0.419771
-6,11,0.601
-6,12,0.275918
-6,13,0.575216
-6,14,0.611641
-6,15,0.33789
-6,16,0.45223
-6,17,0.535687
-6,18,0.14502
-6,19,0.513386
-6,20,0.489117
-6,21,0.590999
-6,22,0.427365
-6,23,0.737553
-6,24,0.320206
-6,25,0.024836
-6,26,0.312677
-6,27,0.345086
-6,28,0.460729
-6,29,0.706739
-6,30,0.400458
-6,31,0.300518
-6,32,0.565929
-6,33,0.492497
-6,34,0.601738
-7,8,-0.012191
-7,9,0.044606
-7,10,0.021393
-7,11,0.102169
-7,12,0.013521
-7,13,0.048819
-7,14,0.030377
-7,15,0.036281
-7,16,0.079591
-7,17,0.055618
-7,18,-0.007146
-7,19,0.091916
-7,20,0.00442
-7,21,0.031555
-7,22,0.029333
-7,23,0.051681
-7,24,0.017991
-7,25,-0.035902
-7,26,0.050526
-7,27,0.082762
-7,28,0.058176
-7,29,0.026441
-7,30,0.023597
-7,31,0.017285
-7,32,0.025035
-7,33,0.059745
-7,34,0.044457
-8,9,0.213817
-8,10,0.135025
-8,11,0.25565
-8,12,0.809668
-8,13,0.383785
-8,14,0.308246
-8,15,0.742675
-8,16,0.278232
-8,17,0.360131
-8,18,0.278461
-8,19,0.341846
-8,20,0.320145
-8,21,0.310759
-8,22,0.554434
-8,23,0.299556
-8,24,0.265301
-8,25,-0.034802
-8,26,0.255212
-8,27,0.127192
-8,28,0.299652
-8,29,0.327972
-8,30,0.109177
-8,31,0.723814
-8,32,0.387074
-8,33,0.127374
-8,34,0.138242
-9,10,0.348484
-9,11,0.393525
-9,12,0.282943
-9,13,0.43671
-9,14,0.273862
-9,15,0.331794
-9,16,0.493769
-9,17,0.472778
-9,18,0.115081
-9,19,0.347839
-9,20,0.417085
-9,21,0.348527
-9,22,0.521068
-9,23,0.408933
-9,24,0.125254
-9,25,-0.004708
-9,26,0.449708
-9,27,0.475242
-9,28,0.143891
-9,29,0.477593
-9,30,0.450074
-9,31,0.216757
-9,32,0.250419
-9,33,0.410945
-9,34,0.371447
-10,11,0.343073
-10,12,0.263165
-10,13,0.352608
-10,14,0.304267
-10,15,0.350479
-10,16,0.270963
-10,17,0.390565
-10,18,0.128882
-10,19,0.373164
-10,20,0.325728
-10,21,0.309485
-10,22,0.375317
-10,23,0.360272
-10,24,0.173363
-10,25,0.10206
-10,26,0.356455
-10,27,0.459028
-10,28,0.259899
-10,29,0.405018
-10,30,0.426041
-10,31,0.122673
-10,32,0.249228
-10,33,0.300277
-10,34,0.437761
-11,12,0.3623
-11,13,0.617408
-11,14,0.694498
-11,15,0.415285
-11,16,0.512093
-11,17,0.668572
-11,18,0.232768
-11,19,0.49793
-11,20,0.612719
-11,21,0.550648
-11,22,0.487395
-11,23,0.730729
-11,24,0.387322
-11,25,0.039119
-11,26,0.471375
-11,27,0.348416
-11,28,0.536414
-11,29,0.66512
-11,30,0.371764
-11,31,0.326126
-11,32,0.559934
-11,33,0.458572
-11,34,0.600268
-12,13,0.457409
-12,14,0.413943
-12,15,0.932757
-12,16,0.336878
-12,17,0.435481
-12,18,0.24736
-12,19,0.41227
-12,20,0.434593
-12,21,0.462691
-12,22,0.610663
-12,23,0.385586
-12,24,0.245963
-12,25,-0.003023
-12,26,0.35363
-12,27,0.235629
-12,28,0.434304
-12,29,0.372001
-12,30,0.204156
-12,31,0.65458
-12,32,0.463688
-12,33,0.220453
-12,34,0.325999
-13,14,0.613402
-13,15,0.509747
-13,16,0.501635
-13,17,0.545484
-13,18,0.213598
-13,19,0.538723
-13,20,0.821058
-13,21,0.516406
-13,22,0.576048
-13,23,0.756534
-13,24,0.405218
-13,25,0.02034
-13,26,0.461175
-13,27,0.453898
-13,28,0.487878
-13,29,0.633356
-13,30,0.48671
-13,31,0.462299
-13,32,0.620017
-13,33,0.574892
-13,34,0.50742
-14,15,0.4615
-14,16,0.402556
-14,17,0.530728
-14,18,0.3339
-14,19,0.568718
-14,20,0.577734
-14,21,0.490745
-14,22,0.477437
-14,23,0.75775
-14,24,0.443842
-14,25,0.037173
-14,26,0.355831
-14,27,0.276413
-14,28,0.524083
-14,29,0.644474
-14,30,0.347617
-14,31,0.383815
-14,32,0.625224
-14,33,0.487595
-14,34,0.508115
-15,16,0.353115
-15,17,0.449926
-15,18,0.294291
-15,19,0.434939
-15,20,0.495465
-15,21,0.483599
-15,22,0.598532
-15,23,0.430978
-15,24,0.315018
-15,25,0.048835
-15,26,0.421293
-15,27,0.353259
-15,28,0.510068
-15,29,0.400092
-15,30,0.28758
-15,31,0.601576
-15,32,0.491492
-15,33,0.309671
-15,34,0.400148
-16,17,0.51973
-16,18,0.138569
-16,19,0.406634
-16,20,0.409248
-16,21,0.525941
-16,22,0.471963
-16,23,0.501765
-16,24,0.259916
-16,25,-0.055114
-16,26,0.438711
-16,27,0.371536
-16,28,0.249242
-16,29,0.518521
-16,30,0.400107
-16,31,0.343934
-16,32,0.354083
-16,33,0.434911
-16,34,0.423706
-17,18,0.18133
-17,19,0.52152
-17,20,0.485593
-17,21,0.538549
-17,22,0.688206
-17,23,0.645003
-17,24,0.295386
-17,25,-0.036209
-17,26,0.448187
-17,27,0.384827
-17,28,0.45677
-17,29,0.71439
-17,30,0.358508
-17,31,0.376294
-17,32,0.448918
-17,33,0.36612
-17,34,0.464854
-18,19,0.296234
-18,20,0.249481
-18,21,0.114429
-18,22,0.212957
-18,23,0.289314
-18,24,0.465799
-18,25,0.03109
-18,26,0.103734
-18,27,0.040938
-18,28,0.326464
-18,29,0.260686
-18,30,0.054737
-18,31,0.322391
-18,32,0.330025
-18,33,0.105568
-18,34,0.100237
-19,20,0.402589
-19,21,0.533922
-19,22,0.556476
-19,23,0.695517
-19,24,0.369369
-19,25,0.001947
-19,26,0.383361
-19,27,0.276817
-19,28,0.434776
-19,29,0.688079
-19,30,0.282131
-19,31,0.405075
-19,32,0.491456
-19,33,0.252762
-19,34,0.394101
-20,21,0.463066
-20,22,0.51378
-20,23,0.685818
-20,24,0.378282
-20,25,-0.00953
-20,26,0.445947
-20,27,0.442408
-20,28,0.422825
-20,29,0.526355
-20,30,0.447876
-20,31,0.366256
-20,32,0.531691
-20,33,0.540156
-20,34,0.497178
-21,22,0.465196
-21,23,0.611534
-21,24,0.284769
-21,25,-0.025477
-21,26,0.446584
-21,27,0.250402
-21,28,0.51445
-21,29,0.567344
-21,30,0.278143
-21,31,0.401547
-21,32,0.478528
-21,33,0.360852
-21,34,0.489785
-22,23,0.553457
-22,24,0.265673
-22,25,-0.02264
-22,26,0.40544
-22,27,0.374998
-22,28,0.357587
-22,29,0.613216
-22,30,0.35103
-22,31,0.586047
-22,32,0.426291
-22,33,0.298668
-22,34,0.380617
-23,24,0.441427
-23,25,0.01953
-23,26,0.476729
-23,27,0.361955
-23,28,0.516001
-23,29,0.806757
-23,30,0.396814
-23,31,0.405696
-23,32,0.628405
-23,33,0.498794
-23,34,0.581285
-24,25,0.003486
-24,26,0.209817
-24,27,0.173084
-24,28,0.38903
-24,29,0.368536
-24,30,0.254653
-24,31,0.314979
-24,32,0.407247
-24,33,0.34259
-24,34,0.248856
-25,26,0.040268
-25,27,0.130256
-25,28,0.050761
-25,29,0.020928
-25,30,0.177942
-25,31,-0.031445
-25,32,0.096252
-25,33,0.116746
-25,34,0.067088
-26,27,0.471591
-26,28,0.274616
-26,29,0.364247
-26,30,0.444875
-26,31,0.274142
-26,32,0.282482
-26,33,0.332093
-26,34,0.386768
-27,28,0.203967
-27,29,0.346734
-27,30,0.825072
-27,31,0.163408
-27,32,0.220402
-27,33,0.554732
-27,34,0.448285
-28,29,0.449762
-28,30,0.243003
-28,31,0.414859
-28,32,0.585105
-28,33,0.333153
-28,34,0.482276
-29,30,0.366367
-29,31,0.397068
-29,32,0.550904
-29,33,0.476925
-29,34,0.522849
-30,31,0.177374
-30,32,0.291119
-30,33,0.711035
-30,34,0.461241
-31,32,0.571032
-31,33,0.141757
-31,34,0.277715
-32,33,0.382985
-32,34,0.49551
-33,34,0.489836
+title_i,title_j,cosine_similarity
+Large Deviations from a Stationary Measure for a Class of Dissipative PDEs with Random Kicks,Entropic fluctuations in quantum statistical mechanics—an introduction,0.299556
+Large Deviations from a Stationary Measure for a Class of Dissipative PDEs with Random Kicks,On the thermodynamic limit of two-time measurement entropy production,0.126788
+Large Deviations from a Stationary Measure for a Class of Dissipative PDEs with Random Kicks,Spectral theory of thermal relaxation,0.360131
+Large Deviations from a Stationary Measure for a Class of Dissipative PDEs with Random Kicks,A quantum central limit theorem for sums of independent identically distributed random variables,0.265301
+Large Deviations from a Stationary Measure for a Class of Dissipative PDEs with Random Kicks,Full statistics of energy conservation in two-time measurement protocols,0.269571
+Large Deviations from a Stationary Measure for a Class of Dissipative PDEs with Random Kicks,Mean‐Field Evolution of Fermionic Mixed States,0.278232
+Large Deviations from a Stationary Measure for a Class of Dissipative PDEs with Random Kicks,ENTROPIC FUNCTIONALS IN QUANTUM STATISTICAL MECHANICS,0.109177
+Large Deviations from a Stationary Measure for a Class of Dissipative PDEs with Random Kicks,From resonances to master equations,0.213817
+Large Deviations from a Stationary Measure for a Class of Dissipative PDEs with Random Kicks,On the spectrum of the Neumann Laplacian of long-range horns: a note on the Davies-Simon theorem,-0.034802
+Large Deviations from a Stationary Measure for a Class of Dissipative PDEs with Random Kicks,A non-commutative Lévy-Cramér continuity theorem,0.278461
+Large Deviations from a Stationary Measure for a Class of Dissipative PDEs with Random Kicks,Large deviations and mixing for dissipative PDEs with unbounded random kicks,0.723814
+Large Deviations from a Stationary Measure for a Class of Dissipative PDEs with Random Kicks,A note on the entropy production formula,0.138242
+Large Deviations from a Stationary Measure for a Class of Dissipative PDEs with Random Kicks,Entropic Fluctuations in Quantum Statistical Mechanics. An Introduction,0.383785
+Large Deviations from a Stationary Measure for a Class of Dissipative PDEs with Random Kicks,Large Deviations and Fluctuation Theorem for Selectively Decoupled Measures on Shift Spaces,0.387074
+Large Deviations from a Stationary Measure for a Class of Dissipative PDEs with Random Kicks,On the strict positivity of entropy production,0.310759
+Large Deviations from a Stationary Measure for a Class of Dissipative PDEs with Random Kicks,Full statistics of erasure processes: Isothermal adiabatic theory and a\n statistical Landauer principle,0.359529
+Large Deviations from a Stationary Measure for a Class of Dissipative PDEs with Random Kicks,Fluctuation Theorem and Thermodynamic Formalism,0.377394
+Large Deviations from a Stationary Measure for a Class of Dissipative PDEs with Random Kicks,Ergodic Properties of the Langevin Equation,0.554434
+Large Deviations from a Stationary Measure for a Class of Dissipative PDEs with Random Kicks,Energy Conservation and Full Counting Statistics,0.341846
+Large Deviations from a Stationary Measure for a Class of Dissipative PDEs with Random Kicks,Linear response theory in quantum statistical mechanics,0.135025
+Large Deviations from a Stationary Measure for a Class of Dissipative PDEs with Random Kicks,Approach to equilibrium in translation-invariant quantum systems: some structural results,0.25565
+Large Deviations from a Stationary Measure for a Class of Dissipative PDEs with Random Kicks,<i>Field Theory of Non-Equilibrium Systems</i>,0.255212
+Large Deviations from a Stationary Measure for a Class of Dissipative PDEs with Random Kicks,Introduction,0.127192
+Large Deviations from a Stationary Measure for a Class of Dissipative PDEs with Random Kicks,Adiabatic Theorems and Landauer's Principle in Quantum Statistical Mechanics,0.127374
+Large Deviations from a Stationary Measure for a Class of Dissipative PDEs with Random Kicks,Lectures on Entropy. Part I,0.299652
+Large Deviations from a Stationary Measure for a Class of Dissipative PDEs with Random Kicks,Large deviations and Gallavotti-Cohen principle for dissipative PDE's with rough noise,0.809668
+Large Deviations from a Stationary Measure for a Class of Dissipative PDEs with Random Kicks,"Energy conservation, counting statistics, and return to equilibrium",0.327972
+Large Deviations from a Stationary Measure for a Class of Dissipative PDEs with Random Kicks,Introduction to the Special Collection: International Congress on Mathematical Physics (ICMP) 2018,-0.012191
+Large Deviations from a Stationary Measure for a Class of Dissipative PDEs with Random Kicks,On a waiting-time result of Kontoyiannis: mixing or decoupling?,0.327084
+Large Deviations from a Stationary Measure for a Class of Dissipative PDEs with Random Kicks,Quantum Hypothesis Testing and Non-Equilibrium Statistical Mechanics,0.308246
+Large Deviations from a Stationary Measure for a Class of Dissipative PDEs with Random Kicks,Entropic fluctuation theorems for the spin–fermion model,0.266339
+Entropic fluctuations in quantum statistical mechanics—an introduction,On the thermodynamic limit of two-time measurement entropy production,0.737553
+Entropic fluctuations in quantum statistical mechanics—an introduction,Spectral theory of thermal relaxation,0.645003
+Entropic fluctuations in quantum statistical mechanics—an introduction,A quantum central limit theorem for sums of independent identically distributed random variables,0.441427
+Entropic fluctuations in quantum statistical mechanics—an introduction,Full statistics of energy conservation in two-time measurement protocols,0.699355
+Entropic fluctuations in quantum statistical mechanics—an introduction,Mean‐Field Evolution of Fermionic Mixed States,0.501765
+Entropic fluctuations in quantum statistical mechanics—an introduction,ENTROPIC FUNCTIONALS IN QUANTUM STATISTICAL MECHANICS,0.396814
+Entropic fluctuations in quantum statistical mechanics—an introduction,From resonances to master equations,0.408933
+Entropic fluctuations in quantum statistical mechanics—an introduction,On the spectrum of the Neumann Laplacian of long-range horns: a note on the Davies-Simon theorem,0.01953
+Entropic fluctuations in quantum statistical mechanics—an introduction,A non-commutative Lévy-Cramér continuity theorem,0.289314
+Entropic fluctuations in quantum statistical mechanics—an introduction,Large deviations and mixing for dissipative PDEs with unbounded random kicks,0.405696
+Entropic fluctuations in quantum statistical mechanics—an introduction,A note on the entropy production formula,0.581285
+Entropic fluctuations in quantum statistical mechanics—an introduction,Entropic Fluctuations in Quantum Statistical Mechanics. An Introduction,0.756534
+Entropic fluctuations in quantum statistical mechanics—an introduction,Large Deviations and Fluctuation Theorem for Selectively Decoupled Measures on Shift Spaces,0.628405
+Entropic fluctuations in quantum statistical mechanics—an introduction,On the strict positivity of entropy production,0.611534
+Entropic fluctuations in quantum statistical mechanics—an introduction,Full statistics of erasure processes: Isothermal adiabatic theory and a\n statistical Landauer principle,0.723435
+Entropic fluctuations in quantum statistical mechanics—an introduction,Fluctuation Theorem and Thermodynamic Formalism,0.56991
+Entropic fluctuations in quantum statistical mechanics—an introduction,Ergodic Properties of the Langevin Equation,0.553457
+Entropic fluctuations in quantum statistical mechanics—an introduction,Energy Conservation and Full Counting Statistics,0.695517
+Entropic fluctuations in quantum statistical mechanics—an introduction,Linear response theory in quantum statistical mechanics,0.360272
+Entropic fluctuations in quantum statistical mechanics—an introduction,Approach to equilibrium in translation-invariant quantum systems: some structural results,0.730729
+Entropic fluctuations in quantum statistical mechanics—an introduction,<i>Field Theory of Non-Equilibrium Systems</i>,0.476729
+Entropic fluctuations in quantum statistical mechanics—an introduction,Introduction,0.361955
+Entropic fluctuations in quantum statistical mechanics—an introduction,Adiabatic Theorems and Landauer's Principle in Quantum Statistical Mechanics,0.498794
+Entropic fluctuations in quantum statistical mechanics—an introduction,Lectures on Entropy. Part I,0.516001
+Entropic fluctuations in quantum statistical mechanics—an introduction,Large deviations and Gallavotti-Cohen principle for dissipative PDE's with rough noise,0.385586
+Entropic fluctuations in quantum statistical mechanics—an introduction,"Energy conservation, counting statistics, and return to equilibrium",0.806757
+Entropic fluctuations in quantum statistical mechanics—an introduction,Introduction to the Special Collection: International Congress on Mathematical Physics (ICMP) 2018,0.051681
+Entropic fluctuations in quantum statistical mechanics—an introduction,On a waiting-time result of Kontoyiannis: mixing or decoupling?,0.397423
+Entropic fluctuations in quantum statistical mechanics—an introduction,Quantum Hypothesis Testing and Non-Equilibrium Statistical Mechanics,0.75775
+Entropic fluctuations in quantum statistical mechanics—an introduction,Entropic fluctuation theorems for the spin–fermion model,0.64973
+On the thermodynamic limit of two-time measurement entropy production,Spectral theory of thermal relaxation,0.535687
+On the thermodynamic limit of two-time measurement entropy production,A quantum central limit theorem for sums of independent identically distributed random variables,0.320206
+On the thermodynamic limit of two-time measurement entropy production,Full statistics of energy conservation in two-time measurement protocols,0.67979
+On the thermodynamic limit of two-time measurement entropy production,Mean‐Field Evolution of Fermionic Mixed States,0.45223
+On the thermodynamic limit of two-time measurement entropy production,ENTROPIC FUNCTIONALS IN QUANTUM STATISTICAL MECHANICS,0.400458
+On the thermodynamic limit of two-time measurement entropy production,From resonances to master equations,0.396303
+On the thermodynamic limit of two-time measurement entropy production,On the spectrum of the Neumann Laplacian of long-range horns: a note on the Davies-Simon theorem,0.024836
+On the thermodynamic limit of two-time measurement entropy production,A non-commutative Lévy-Cramér continuity theorem,0.14502
+On the thermodynamic limit of two-time measurement entropy production,Large deviations and mixing for dissipative PDEs with unbounded random kicks,0.300518
+On the thermodynamic limit of two-time measurement entropy production,A note on the entropy production formula,0.601738
+On the thermodynamic limit of two-time measurement entropy production,Entropic Fluctuations in Quantum Statistical Mechanics. An Introduction,0.575216
+On the thermodynamic limit of two-time measurement entropy production,Large Deviations and Fluctuation Theorem for Selectively Decoupled Measures on Shift Spaces,0.565929
+On the thermodynamic limit of two-time measurement entropy production,On the strict positivity of entropy production,0.590999
+On the thermodynamic limit of two-time measurement entropy production,Full statistics of erasure processes: Isothermal adiabatic theory and a\n statistical Landauer principle,0.673029
+On the thermodynamic limit of two-time measurement entropy production,Fluctuation Theorem and Thermodynamic Formalism,0.505216
+On the thermodynamic limit of two-time measurement entropy production,Ergodic Properties of the Langevin Equation,0.427365
+On the thermodynamic limit of two-time measurement entropy production,Energy Conservation and Full Counting Statistics,0.513386
+On the thermodynamic limit of two-time measurement entropy production,Linear response theory in quantum statistical mechanics,0.419771
+On the thermodynamic limit of two-time measurement entropy production,Approach to equilibrium in translation-invariant quantum systems: some structural results,0.601
+On the thermodynamic limit of two-time measurement entropy production,<i>Field Theory of Non-Equilibrium Systems</i>,0.312677
+On the thermodynamic limit of two-time measurement entropy production,Introduction,0.345086
+On the thermodynamic limit of two-time measurement entropy production,Adiabatic Theorems and Landauer's Principle in Quantum Statistical Mechanics,0.492497
+On the thermodynamic limit of two-time measurement entropy production,Lectures on Entropy. Part I,0.460729
+On the thermodynamic limit of two-time measurement entropy production,Large deviations and Gallavotti-Cohen principle for dissipative PDE's with rough noise,0.275918
+On the thermodynamic limit of two-time measurement entropy production,"Energy conservation, counting statistics, and return to equilibrium",0.706739
+On the thermodynamic limit of two-time measurement entropy production,Introduction to the Special Collection: International Congress on Mathematical Physics (ICMP) 2018,0.047936
+On the thermodynamic limit of two-time measurement entropy production,On a waiting-time result of Kontoyiannis: mixing or decoupling?,0.429313
+On the thermodynamic limit of two-time measurement entropy production,Quantum Hypothesis Testing and Non-Equilibrium Statistical Mechanics,0.611641
+On the thermodynamic limit of two-time measurement entropy production,Entropic fluctuation theorems for the spin–fermion model,0.619642
+Spectral theory of thermal relaxation,A quantum central limit theorem for sums of independent identically distributed random variables,0.295386
+Spectral theory of thermal relaxation,Full statistics of energy conservation in two-time measurement protocols,0.526396
+Spectral theory of thermal relaxation,Mean‐Field Evolution of Fermionic Mixed States,0.51973
+Spectral theory of thermal relaxation,ENTROPIC FUNCTIONALS IN QUANTUM STATISTICAL MECHANICS,0.358508
+Spectral theory of thermal relaxation,From resonances to master equations,0.472778
+Spectral theory of thermal relaxation,On the spectrum of the Neumann Laplacian of long-range horns: a note on the Davies-Simon theorem,-0.036209
+Spectral theory of thermal relaxation,A non-commutative Lévy-Cramér continuity theorem,0.18133
+Spectral theory of thermal relaxation,Large deviations and mixing for dissipative PDEs with unbounded random kicks,0.376294
+Spectral theory of thermal relaxation,A note on the entropy production formula,0.464854
+Spectral theory of thermal relaxation,Entropic Fluctuations in Quantum Statistical Mechanics. An Introduction,0.545484
+Spectral theory of thermal relaxation,Large Deviations and Fluctuation Theorem for Selectively Decoupled Measures on Shift Spaces,0.448918
+Spectral theory of thermal relaxation,On the strict positivity of entropy production,0.538549
+Spectral theory of thermal relaxation,Full statistics of erasure processes: Isothermal adiabatic theory and a\n statistical Landauer principle,0.698039
+Spectral theory of thermal relaxation,Fluctuation Theorem and Thermodynamic Formalism,0.420586
+Spectral theory of thermal relaxation,Ergodic Properties of the Langevin Equation,0.688206
+Spectral theory of thermal relaxation,Energy Conservation and Full Counting Statistics,0.52152
+Spectral theory of thermal relaxation,Linear response theory in quantum statistical mechanics,0.390565
+Spectral theory of thermal relaxation,Approach to equilibrium in translation-invariant quantum systems: some structural results,0.668572
+Spectral theory of thermal relaxation,<i>Field Theory of Non-Equilibrium Systems</i>,0.448187
+Spectral theory of thermal relaxation,Introduction,0.384827
+Spectral theory of thermal relaxation,Adiabatic Theorems and Landauer's Principle in Quantum Statistical Mechanics,0.36612
+Spectral theory of thermal relaxation,Lectures on Entropy. Part I,0.45677
+Spectral theory of thermal relaxation,Large deviations and Gallavotti-Cohen principle for dissipative PDE's with rough noise,0.435481
+Spectral theory of thermal relaxation,"Energy conservation, counting statistics, and return to equilibrium",0.71439
+Spectral theory of thermal relaxation,Introduction to the Special Collection: International Congress on Mathematical Physics (ICMP) 2018,0.055618
+Spectral theory of thermal relaxation,On a waiting-time result of Kontoyiannis: mixing or decoupling?,0.362621
+Spectral theory of thermal relaxation,Quantum Hypothesis Testing and Non-Equilibrium Statistical Mechanics,0.530728
+Spectral theory of thermal relaxation,Entropic fluctuation theorems for the spin–fermion model,0.528488
+A quantum central limit theorem for sums of independent identically distributed random variables,Full statistics of energy conservation in two-time measurement protocols,0.325165
+A quantum central limit theorem for sums of independent identically distributed random variables,Mean‐Field Evolution of Fermionic Mixed States,0.259916
+A quantum central limit theorem for sums of independent identically distributed random variables,ENTROPIC FUNCTIONALS IN QUANTUM STATISTICAL MECHANICS,0.254653
+A quantum central limit theorem for sums of independent identically distributed random variables,From resonances to master equations,0.125254
+A quantum central limit theorem for sums of independent identically distributed random variables,On the spectrum of the Neumann Laplacian of long-range horns: a note on the Davies-Simon theorem,0.003486
+A quantum central limit theorem for sums of independent identically distributed random variables,A non-commutative Lévy-Cramér continuity theorem,0.465799
+A quantum central limit theorem for sums of independent identically distributed random variables,Large deviations and mixing for dissipative PDEs with unbounded random kicks,0.314979
+A quantum central limit theorem for sums of independent identically distributed random variables,A note on the entropy production formula,0.248856
+A quantum central limit theorem for sums of independent identically distributed random variables,Entropic Fluctuations in Quantum Statistical Mechanics. An Introduction,0.405218
+A quantum central limit theorem for sums of independent identically distributed random variables,Large Deviations and Fluctuation Theorem for Selectively Decoupled Measures on Shift Spaces,0.407247
+A quantum central limit theorem for sums of independent identically distributed random variables,On the strict positivity of entropy production,0.284769
+A quantum central limit theorem for sums of independent identically distributed random variables,Full statistics of erasure processes: Isothermal adiabatic theory and a\n statistical Landauer principle,0.312945
+A quantum central limit theorem for sums of independent identically distributed random variables,Fluctuation Theorem and Thermodynamic Formalism,0.302472
+A quantum central limit theorem for sums of independent identically distributed random variables,Ergodic Properties of the Langevin Equation,0.265673
+A quantum central limit theorem for sums of independent identically distributed random variables,Energy Conservation and Full Counting Statistics,0.369369
+A quantum central limit theorem for sums of independent identically distributed random variables,Linear response theory in quantum statistical mechanics,0.173363
+A quantum central limit theorem for sums of independent identically distributed random variables,Approach to equilibrium in translation-invariant quantum systems: some structural results,0.387322
+A quantum central limit theorem for sums of independent identically distributed random variables,<i>Field Theory of Non-Equilibrium Systems</i>,0.209817
+A quantum central limit theorem for sums of independent identically distributed random variables,Introduction,0.173084
+A quantum central limit theorem for sums of independent identically distributed random variables,Adiabatic Theorems and Landauer's Principle in Quantum Statistical Mechanics,0.34259
+A quantum central limit theorem for sums of independent identically distributed random variables,Lectures on Entropy. Part I,0.38903
+A quantum central limit theorem for sums of independent identically distributed random variables,Large deviations and Gallavotti-Cohen principle for dissipative PDE's with rough noise,0.245963
+A quantum central limit theorem for sums of independent identically distributed random variables,"Energy conservation, counting statistics, and return to equilibrium",0.368536
+A quantum central limit theorem for sums of independent identically distributed random variables,Introduction to the Special Collection: International Congress on Mathematical Physics (ICMP) 2018,0.017991
+A quantum central limit theorem for sums of independent identically distributed random variables,On a waiting-time result of Kontoyiannis: mixing or decoupling?,0.358842
+A quantum central limit theorem for sums of independent identically distributed random variables,Quantum Hypothesis Testing and Non-Equilibrium Statistical Mechanics,0.443842
+A quantum central limit theorem for sums of independent identically distributed random variables,Entropic fluctuation theorems for the spin–fermion model,0.248895
+Full statistics of energy conservation in two-time measurement protocols,Mean‐Field Evolution of Fermionic Mixed States,0.426336
+Full statistics of energy conservation in two-time measurement protocols,ENTROPIC FUNCTIONALS IN QUANTUM STATISTICAL MECHANICS,0.339334
+Full statistics of energy conservation in two-time measurement protocols,From resonances to master equations,0.384305
+Full statistics of energy conservation in two-time measurement protocols,On the spectrum of the Neumann Laplacian of long-range horns: a note on the Davies-Simon theorem,-0.020315
+Full statistics of energy conservation in two-time measurement protocols,A non-commutative Lévy-Cramér continuity theorem,0.242413
+Full statistics of energy conservation in two-time measurement protocols,Large deviations and mixing for dissipative PDEs with unbounded random kicks,0.388281
+Full statistics of energy conservation in two-time measurement protocols,A note on the entropy production formula,0.437603
+Full statistics of energy conservation in two-time measurement protocols,Entropic Fluctuations in Quantum Statistical Mechanics. An Introduction,0.54976
+Full statistics of energy conservation in two-time measurement protocols,Large Deviations and Fluctuation Theorem for Selectively Decoupled Measures on Shift Spaces,0.534341
+Full statistics of energy conservation in two-time measurement protocols,On the strict positivity of entropy production,0.482976
+Full statistics of energy conservation in two-time measurement protocols,Full statistics of erasure processes: Isothermal adiabatic theory and a\n statistical Landauer principle,0.625217
+Full statistics of energy conservation in two-time measurement protocols,Fluctuation Theorem and Thermodynamic Formalism,0.487033
+Full statistics of energy conservation in two-time measurement protocols,Ergodic Properties of the Langevin Equation,0.518028
+Full statistics of energy conservation in two-time measurement protocols,Energy Conservation and Full Counting Statistics,0.852271
+Full statistics of energy conservation in two-time measurement protocols,Linear response theory in quantum statistical mechanics,0.356924
+Full statistics of energy conservation in two-time measurement protocols,Approach to equilibrium in translation-invariant quantum systems: some structural results,0.490839
+Full statistics of energy conservation in two-time measurement protocols,<i>Field Theory of Non-Equilibrium Systems</i>,0.331324
+Full statistics of energy conservation in two-time measurement protocols,Introduction,0.326093
+Full statistics of energy conservation in two-time measurement protocols,Adiabatic Theorems and Landauer's Principle in Quantum Statistical Mechanics,0.314706
+Full statistics of energy conservation in two-time measurement protocols,Lectures on Entropy. Part I,0.402381
+Full statistics of energy conservation in two-time measurement protocols,Large deviations and Gallavotti-Cohen principle for dissipative PDE's with rough noise,0.353433
+Full statistics of energy conservation in two-time measurement protocols,"Energy conservation, counting statistics, and return to equilibrium",0.70173
+Full statistics of energy conservation in two-time measurement protocols,Introduction to the Special Collection: International Congress on Mathematical Physics (ICMP) 2018,0.105634
+Full statistics of energy conservation in two-time measurement protocols,On a waiting-time result of Kontoyiannis: mixing or decoupling?,0.466503
+Full statistics of energy conservation in two-time measurement protocols,Quantum Hypothesis Testing and Non-Equilibrium Statistical Mechanics,0.584596
+Full statistics of energy conservation in two-time measurement protocols,Entropic fluctuation theorems for the spin–fermion model,0.567754
+Mean‐Field Evolution of Fermionic Mixed States,ENTROPIC FUNCTIONALS IN QUANTUM STATISTICAL MECHANICS,0.400107
+Mean‐Field Evolution of Fermionic Mixed States,From resonances to master equations,0.493769
+Mean‐Field Evolution of Fermionic Mixed States,On the spectrum of the Neumann Laplacian of long-range horns: a note on the Davies-Simon theorem,-0.055114
+Mean‐Field Evolution of Fermionic Mixed States,A non-commutative Lévy-Cramér continuity theorem,0.138569
+Mean‐Field Evolution of Fermionic Mixed States,Large deviations and mixing for dissipative PDEs with unbounded random kicks,0.343934
+Mean‐Field Evolution of Fermionic Mixed States,A note on the entropy production formula,0.423706
+Mean‐Field Evolution of Fermionic Mixed States,Entropic Fluctuations in Quantum Statistical Mechanics. An Introduction,0.501635
+Mean‐Field Evolution of Fermionic Mixed States,Large Deviations and Fluctuation Theorem for Selectively Decoupled Measures on Shift Spaces,0.354083
+Mean‐Field Evolution of Fermionic Mixed States,On the strict positivity of entropy production,0.525941
+Mean‐Field Evolution of Fermionic Mixed States,Full statistics of erasure processes: Isothermal adiabatic theory and a\n statistical Landauer principle,0.551693
+Mean‐Field Evolution of Fermionic Mixed States,Fluctuation Theorem and Thermodynamic Formalism,0.293447
+Mean‐Field Evolution of Fermionic Mixed States,Ergodic Properties of the Langevin Equation,0.471963
+Mean‐Field Evolution of Fermionic Mixed States,Energy Conservation and Full Counting Statistics,0.406634
+Mean‐Field Evolution of Fermionic Mixed States,Linear response theory in quantum statistical mechanics,0.270963
+Mean‐Field Evolution of Fermionic Mixed States,Approach to equilibrium in translation-invariant quantum systems: some structural results,0.512093
+Mean‐Field Evolution of Fermionic Mixed States,<i>Field Theory of Non-Equilibrium Systems</i>,0.438711
+Mean‐Field Evolution of Fermionic Mixed States,Introduction,0.371536
+Mean‐Field Evolution of Fermionic Mixed States,Adiabatic Theorems and Landauer's Principle in Quantum Statistical Mechanics,0.434911
+Mean‐Field Evolution of Fermionic Mixed States,Lectures on Entropy. Part I,0.249242
+Mean‐Field Evolution of Fermionic Mixed States,Large deviations and Gallavotti-Cohen principle for dissipative PDE's with rough noise,0.336878
+Mean‐Field Evolution of Fermionic Mixed States,"Energy conservation, counting statistics, and return to equilibrium",0.518521
+Mean‐Field Evolution of Fermionic Mixed States,Introduction to the Special Collection: International Congress on Mathematical Physics (ICMP) 2018,0.079591
+Mean‐Field Evolution of Fermionic Mixed States,On a waiting-time result of Kontoyiannis: mixing or decoupling?,0.22395
+Mean‐Field Evolution of Fermionic Mixed States,Quantum Hypothesis Testing and Non-Equilibrium Statistical Mechanics,0.402556
+Mean‐Field Evolution of Fermionic Mixed States,Entropic fluctuation theorems for the spin–fermion model,0.54907
+ENTROPIC FUNCTIONALS IN QUANTUM STATISTICAL MECHANICS,From resonances to master equations,0.450074
+ENTROPIC FUNCTIONALS IN QUANTUM STATISTICAL MECHANICS,On the spectrum of the Neumann Laplacian of long-range horns: a note on the Davies-Simon theorem,0.177942
+ENTROPIC FUNCTIONALS IN QUANTUM STATISTICAL MECHANICS,A non-commutative Lévy-Cramér continuity theorem,0.054737
+ENTROPIC FUNCTIONALS IN QUANTUM STATISTICAL MECHANICS,Large deviations and mixing for dissipative PDEs with unbounded random kicks,0.177374
+ENTROPIC FUNCTIONALS IN QUANTUM STATISTICAL MECHANICS,A note on the entropy production formula,0.461241
+ENTROPIC FUNCTIONALS IN QUANTUM STATISTICAL MECHANICS,Entropic Fluctuations in Quantum Statistical Mechanics. An Introduction,0.48671
+ENTROPIC FUNCTIONALS IN QUANTUM STATISTICAL MECHANICS,Large Deviations and Fluctuation Theorem for Selectively Decoupled Measures on Shift Spaces,0.291119
+ENTROPIC FUNCTIONALS IN QUANTUM STATISTICAL MECHANICS,On the strict positivity of entropy production,0.278143
+ENTROPIC FUNCTIONALS IN QUANTUM STATISTICAL MECHANICS,Full statistics of erasure processes: Isothermal adiabatic theory and a\n statistical Landauer principle,0.430915
+ENTROPIC FUNCTIONALS IN QUANTUM STATISTICAL MECHANICS,Fluctuation Theorem and Thermodynamic Formalism,0.187973
+ENTROPIC FUNCTIONALS IN QUANTUM STATISTICAL MECHANICS,Ergodic Properties of the Langevin Equation,0.35103
+ENTROPIC FUNCTIONALS IN QUANTUM STATISTICAL MECHANICS,Energy Conservation and Full Counting Statistics,0.282131
+ENTROPIC FUNCTIONALS IN QUANTUM STATISTICAL MECHANICS,Linear response theory in quantum statistical mechanics,0.426041
+ENTROPIC FUNCTIONALS IN QUANTUM STATISTICAL MECHANICS,Approach to equilibrium in translation-invariant quantum systems: some structural results,0.371764
+ENTROPIC FUNCTIONALS IN QUANTUM STATISTICAL MECHANICS,<i>Field Theory of Non-Equilibrium Systems</i>,0.444875
+ENTROPIC FUNCTIONALS IN QUANTUM STATISTICAL MECHANICS,Introduction,0.825072
+ENTROPIC FUNCTIONALS IN QUANTUM STATISTICAL MECHANICS,Adiabatic Theorems and Landauer's Principle in Quantum Statistical Mechanics,0.711035
+ENTROPIC FUNCTIONALS IN QUANTUM STATISTICAL MECHANICS,Lectures on Entropy. Part I,0.243003
+ENTROPIC FUNCTIONALS IN QUANTUM STATISTICAL MECHANICS,Large deviations and Gallavotti-Cohen principle for dissipative PDE's with rough noise,0.204156
+ENTROPIC FUNCTIONALS IN QUANTUM STATISTICAL MECHANICS,"Energy conservation, counting statistics, and return to equilibrium",0.366367
+ENTROPIC FUNCTIONALS IN QUANTUM STATISTICAL MECHANICS,Introduction to the Special Collection: International Congress on Mathematical Physics (ICMP) 2018,0.023597
+ENTROPIC FUNCTIONALS IN QUANTUM STATISTICAL MECHANICS,On a waiting-time result of Kontoyiannis: mixing or decoupling?,0.156647
+ENTROPIC FUNCTIONALS IN QUANTUM STATISTICAL MECHANICS,Quantum Hypothesis Testing and Non-Equilibrium Statistical Mechanics,0.347617
+ENTROPIC FUNCTIONALS IN QUANTUM STATISTICAL MECHANICS,Entropic fluctuation theorems for the spin–fermion model,0.337727
+From resonances to master equations,On the spectrum of the Neumann Laplacian of long-range horns: a note on the Davies-Simon theorem,-0.004708
+From resonances to master equations,A non-commutative Lévy-Cramér continuity theorem,0.115081
+From resonances to master equations,Large deviations and mixing for dissipative PDEs with unbounded random kicks,0.216757
+From resonances to master equations,A note on the entropy production formula,0.371447
+From resonances to master equations,Entropic Fluctuations in Quantum Statistical Mechanics. An Introduction,0.43671
+From resonances to master equations,Large Deviations and Fluctuation Theorem for Selectively Decoupled Measures on Shift Spaces,0.250419
+From resonances to master equations,On the strict positivity of entropy production,0.348527
+From resonances to master equations,Full statistics of erasure processes: Isothermal adiabatic theory and a\n statistical Landauer principle,0.535366
+From resonances to master equations,Fluctuation Theorem and Thermodynamic Formalism,0.165086
+From resonances to master equations,Ergodic Properties of the Langevin Equation,0.521068
+From resonances to master equations,Energy Conservation and Full Counting Statistics,0.347839
+From resonances to master equations,Linear response theory in quantum statistical mechanics,0.348484
+From resonances to master equations,Approach to equilibrium in translation-invariant quantum systems: some structural results,0.393525
+From resonances to master equations,<i>Field Theory of Non-Equilibrium Systems</i>,0.449708
+From resonances to master equations,Introduction,0.475242
+From resonances to master equations,Adiabatic Theorems and Landauer's Principle in Quantum Statistical Mechanics,0.410945
+From resonances to master equations,Lectures on Entropy. Part I,0.143891
+From resonances to master equations,Large deviations and Gallavotti-Cohen principle for dissipative PDE's with rough noise,0.282943
+From resonances to master equations,"Energy conservation, counting statistics, and return to equilibrium",0.477593
+From resonances to master equations,Introduction to the Special Collection: International Congress on Mathematical Physics (ICMP) 2018,0.044606
+From resonances to master equations,On a waiting-time result of Kontoyiannis: mixing or decoupling?,0.084115
+From resonances to master equations,Quantum Hypothesis Testing and Non-Equilibrium Statistical Mechanics,0.273862
+From resonances to master equations,Entropic fluctuation theorems for the spin–fermion model,0.446682
+On the spectrum of the Neumann Laplacian of long-range horns: a note on the Davies-Simon theorem,A non-commutative Lévy-Cramér continuity theorem,0.03109
+On the spectrum of the Neumann Laplacian of long-range horns: a note on the Davies-Simon theorem,Large deviations and mixing for dissipative PDEs with unbounded random kicks,-0.031445
+On the spectrum of the Neumann Laplacian of long-range horns: a note on the Davies-Simon theorem,A note on the entropy production formula,0.067088
+On the spectrum of the Neumann Laplacian of long-range horns: a note on the Davies-Simon theorem,Entropic Fluctuations in Quantum Statistical Mechanics. An Introduction,0.02034
+On the spectrum of the Neumann Laplacian of long-range horns: a note on the Davies-Simon theorem,Large Deviations and Fluctuation Theorem for Selectively Decoupled Measures on Shift Spaces,0.096252
+On the spectrum of the Neumann Laplacian of long-range horns: a note on the Davies-Simon theorem,On the strict positivity of entropy production,-0.025477
+On the spectrum of the Neumann Laplacian of long-range horns: a note on the Davies-Simon theorem,Full statistics of erasure processes: Isothermal adiabatic theory and a\n statistical Landauer principle,0.02321
+On the spectrum of the Neumann Laplacian of long-range horns: a note on the Davies-Simon theorem,Fluctuation Theorem and Thermodynamic Formalism,0.0019
+On the spectrum of the Neumann Laplacian of long-range horns: a note on the Davies-Simon theorem,Ergodic Properties of the Langevin Equation,-0.02264
+On the spectrum of the Neumann Laplacian of long-range horns: a note on the Davies-Simon theorem,Energy Conservation and Full Counting Statistics,0.001947
+On the spectrum of the Neumann Laplacian of long-range horns: a note on the Davies-Simon theorem,Linear response theory in quantum statistical mechanics,0.10206
+On the spectrum of the Neumann Laplacian of long-range horns: a note on the Davies-Simon theorem,Approach to equilibrium in translation-invariant quantum systems: some structural results,0.039119
+On the spectrum of the Neumann Laplacian of long-range horns: a note on the Davies-Simon theorem,<i>Field Theory of Non-Equilibrium Systems</i>,0.040268
+On the spectrum of the Neumann Laplacian of long-range horns: a note on the Davies-Simon theorem,Introduction,0.130256
+On the spectrum of the Neumann Laplacian of long-range horns: a note on the Davies-Simon theorem,Adiabatic Theorems and Landauer's Principle in Quantum Statistical Mechanics,0.116746
+On the spectrum of the Neumann Laplacian of long-range horns: a note on the Davies-Simon theorem,Lectures on Entropy. Part I,0.050761
+On the spectrum of the Neumann Laplacian of long-range horns: a note on the Davies-Simon theorem,Large deviations and Gallavotti-Cohen principle for dissipative PDE's with rough noise,-0.003023
+On the spectrum of the Neumann Laplacian of long-range horns: a note on the Davies-Simon theorem,"Energy conservation, counting statistics, and return to equilibrium",0.020928
+On the spectrum of the Neumann Laplacian of long-range horns: a note on the Davies-Simon theorem,Introduction to the Special Collection: International Congress on Mathematical Physics (ICMP) 2018,-0.035902
+On the spectrum of the Neumann Laplacian of long-range horns: a note on the Davies-Simon theorem,On a waiting-time result of Kontoyiannis: mixing or decoupling?,-0.045089
+On the spectrum of the Neumann Laplacian of long-range horns: a note on the Davies-Simon theorem,Quantum Hypothesis Testing and Non-Equilibrium Statistical Mechanics,0.037173
+On the spectrum of the Neumann Laplacian of long-range horns: a note on the Davies-Simon theorem,Entropic fluctuation theorems for the spin–fermion model,-0.018511
+A non-commutative Lévy-Cramér continuity theorem,Large deviations and mixing for dissipative PDEs with unbounded random kicks,0.322391
+A non-commutative Lévy-Cramér continuity theorem,A note on the entropy production formula,0.100237
+A non-commutative Lévy-Cramér continuity theorem,Entropic Fluctuations in Quantum Statistical Mechanics. An Introduction,0.213598
+A non-commutative Lévy-Cramér continuity theorem,Large Deviations and Fluctuation Theorem for Selectively Decoupled Measures on Shift Spaces,0.330025
+A non-commutative Lévy-Cramér continuity theorem,On the strict positivity of entropy production,0.114429
+A non-commutative Lévy-Cramér continuity theorem,Full statistics of erasure processes: Isothermal adiabatic theory and a\n statistical Landauer principle,0.196799
+A non-commutative Lévy-Cramér continuity theorem,Fluctuation Theorem and Thermodynamic Formalism,0.275358
+A non-commutative Lévy-Cramér continuity theorem,Ergodic Properties of the Langevin Equation,0.212957
+A non-commutative Lévy-Cramér continuity theorem,Energy Conservation and Full Counting Statistics,0.296234
+A non-commutative Lévy-Cramér continuity theorem,Linear response theory in quantum statistical mechanics,0.128882
+A non-commutative Lévy-Cramér continuity theorem,Approach to equilibrium in translation-invariant quantum systems: some structural results,0.232768
+A non-commutative Lévy-Cramér continuity theorem,<i>Field Theory of Non-Equilibrium Systems</i>,0.103734
+A non-commutative Lévy-Cramér continuity theorem,Introduction,0.040938
+A non-commutative Lévy-Cramér continuity theorem,Adiabatic Theorems and Landauer's Principle in Quantum Statistical Mechanics,0.105568
+A non-commutative Lévy-Cramér continuity theorem,Lectures on Entropy. Part I,0.326464
+A non-commutative Lévy-Cramér continuity theorem,Large deviations and Gallavotti-Cohen principle for dissipative PDE's with rough noise,0.24736
+A non-commutative Lévy-Cramér continuity theorem,"Energy conservation, counting statistics, and return to equilibrium",0.260686
+A non-commutative Lévy-Cramér continuity theorem,Introduction to the Special Collection: International Congress on Mathematical Physics (ICMP) 2018,-0.007146
+A non-commutative Lévy-Cramér continuity theorem,On a waiting-time result of Kontoyiannis: mixing or decoupling?,0.256882
+A non-commutative Lévy-Cramér continuity theorem,Quantum Hypothesis Testing and Non-Equilibrium Statistical Mechanics,0.3339
+A non-commutative Lévy-Cramér continuity theorem,Entropic fluctuation theorems for the spin–fermion model,0.159982
+Large deviations and mixing for dissipative PDEs with unbounded random kicks,A note on the entropy production formula,0.277715
+Large deviations and mixing for dissipative PDEs with unbounded random kicks,Entropic Fluctuations in Quantum Statistical Mechanics. An Introduction,0.462299
+Large deviations and mixing for dissipative PDEs with unbounded random kicks,Large Deviations and Fluctuation Theorem for Selectively Decoupled Measures on Shift Spaces,0.571032
+Large deviations and mixing for dissipative PDEs with unbounded random kicks,On the strict positivity of entropy production,0.401547
+Large deviations and mixing for dissipative PDEs with unbounded random kicks,Full statistics of erasure processes: Isothermal adiabatic theory and a\n statistical Landauer principle,0.407471
+Large deviations and mixing for dissipative PDEs with unbounded random kicks,Fluctuation Theorem and Thermodynamic Formalism,0.568662
+Large deviations and mixing for dissipative PDEs with unbounded random kicks,Ergodic Properties of the Langevin Equation,0.586047
+Large deviations and mixing for dissipative PDEs with unbounded random kicks,Energy Conservation and Full Counting Statistics,0.405075
+Large deviations and mixing for dissipative PDEs with unbounded random kicks,Linear response theory in quantum statistical mechanics,0.122673
+Large deviations and mixing for dissipative PDEs with unbounded random kicks,Approach to equilibrium in translation-invariant quantum systems: some structural results,0.326126
+Large deviations and mixing for dissipative PDEs with unbounded random kicks,<i>Field Theory of Non-Equilibrium Systems</i>,0.274142
+Large deviations and mixing for dissipative PDEs with unbounded random kicks,Introduction,0.163408
+Large deviations and mixing for dissipative PDEs with unbounded random kicks,Adiabatic Theorems and Landauer's Principle in Quantum Statistical Mechanics,0.141757
+Large deviations and mixing for dissipative PDEs with unbounded random kicks,Lectures on Entropy. Part I,0.414859
+Large deviations and mixing for dissipative PDEs with unbounded random kicks,Large deviations and Gallavotti-Cohen principle for dissipative PDE's with rough noise,0.65458
+Large deviations and mixing for dissipative PDEs with unbounded random kicks,"Energy conservation, counting statistics, and return to equilibrium",0.397068
+Large deviations and mixing for dissipative PDEs with unbounded random kicks,Introduction to the Special Collection: International Congress on Mathematical Physics (ICMP) 2018,0.017285
+Large deviations and mixing for dissipative PDEs with unbounded random kicks,On a waiting-time result of Kontoyiannis: mixing or decoupling?,0.494444
+Large deviations and mixing for dissipative PDEs with unbounded random kicks,Quantum Hypothesis Testing and Non-Equilibrium Statistical Mechanics,0.383815
+Large deviations and mixing for dissipative PDEs with unbounded random kicks,Entropic fluctuation theorems for the spin–fermion model,0.387638
+A note on the entropy production formula,Entropic Fluctuations in Quantum Statistical Mechanics. An Introduction,0.50742
+A note on the entropy production formula,Large Deviations and Fluctuation Theorem for Selectively Decoupled Measures on Shift Spaces,0.49551
+A note on the entropy production formula,On the strict positivity of entropy production,0.489785
+A note on the entropy production formula,Full statistics of erasure processes: Isothermal adiabatic theory and a\n statistical Landauer principle,0.553288
+A note on the entropy production formula,Fluctuation Theorem and Thermodynamic Formalism,0.468197
+A note on the entropy production formula,Ergodic Properties of the Langevin Equation,0.380617
+A note on the entropy production formula,Energy Conservation and Full Counting Statistics,0.394101
+A note on the entropy production formula,Linear response theory in quantum statistical mechanics,0.437761
+A note on the entropy production formula,Approach to equilibrium in translation-invariant quantum systems: some structural results,0.600268
+A note on the entropy production formula,<i>Field Theory of Non-Equilibrium Systems</i>,0.386768
+A note on the entropy production formula,Introduction,0.448285
+A note on the entropy production formula,Adiabatic Theorems and Landauer's Principle in Quantum Statistical Mechanics,0.489836
+A note on the entropy production formula,Lectures on Entropy. Part I,0.482276
+A note on the entropy production formula,Large deviations and Gallavotti-Cohen principle for dissipative PDE's with rough noise,0.325999
+A note on the entropy production formula,"Energy conservation, counting statistics, and return to equilibrium",0.522849
+A note on the entropy production formula,Introduction to the Special Collection: International Congress on Mathematical Physics (ICMP) 2018,0.044457
+A note on the entropy production formula,On a waiting-time result of Kontoyiannis: mixing or decoupling?,0.35864
+A note on the entropy production formula,Quantum Hypothesis Testing and Non-Equilibrium Statistical Mechanics,0.508115
+A note on the entropy production formula,Entropic fluctuation theorems for the spin–fermion model,0.426607
+Entropic Fluctuations in Quantum Statistical Mechanics. An Introduction,Large Deviations and Fluctuation Theorem for Selectively Decoupled Measures on Shift Spaces,0.620017
+Entropic Fluctuations in Quantum Statistical Mechanics. An Introduction,On the strict positivity of entropy production,0.516406
+Entropic Fluctuations in Quantum Statistical Mechanics. An Introduction,Full statistics of erasure processes: Isothermal adiabatic theory and a\n statistical Landauer principle,0.690691
+Entropic Fluctuations in Quantum Statistical Mechanics. An Introduction,Fluctuation Theorem and Thermodynamic Formalism,0.503421
+Entropic Fluctuations in Quantum Statistical Mechanics. An Introduction,Ergodic Properties of the Langevin Equation,0.576048
+Entropic Fluctuations in Quantum Statistical Mechanics. An Introduction,Energy Conservation and Full Counting Statistics,0.538723
+Entropic Fluctuations in Quantum Statistical Mechanics. An Introduction,Linear response theory in quantum statistical mechanics,0.352608
+Entropic Fluctuations in Quantum Statistical Mechanics. An Introduction,Approach to equilibrium in translation-invariant quantum systems: some structural results,0.617408
+Entropic Fluctuations in Quantum Statistical Mechanics. An Introduction,<i>Field Theory of Non-Equilibrium Systems</i>,0.461175
+Entropic Fluctuations in Quantum Statistical Mechanics. An Introduction,Introduction,0.453898
+Entropic Fluctuations in Quantum Statistical Mechanics. An Introduction,Adiabatic Theorems and Landauer's Principle in Quantum Statistical Mechanics,0.574892
+Entropic Fluctuations in Quantum Statistical Mechanics. An Introduction,Lectures on Entropy. Part I,0.487878
+Entropic Fluctuations in Quantum Statistical Mechanics. An Introduction,Large deviations and Gallavotti-Cohen principle for dissipative PDE's with rough noise,0.457409
+Entropic Fluctuations in Quantum Statistical Mechanics. An Introduction,"Energy conservation, counting statistics, and return to equilibrium",0.633356
+Entropic Fluctuations in Quantum Statistical Mechanics. An Introduction,Introduction to the Special Collection: International Congress on Mathematical Physics (ICMP) 2018,0.048819
+Entropic Fluctuations in Quantum Statistical Mechanics. An Introduction,On a waiting-time result of Kontoyiannis: mixing or decoupling?,0.355152
+Entropic Fluctuations in Quantum Statistical Mechanics. An Introduction,Quantum Hypothesis Testing and Non-Equilibrium Statistical Mechanics,0.613402
+Entropic Fluctuations in Quantum Statistical Mechanics. An Introduction,Entropic fluctuation theorems for the spin–fermion model,0.680765
+Large Deviations and Fluctuation Theorem for Selectively Decoupled Measures on Shift Spaces,On the strict positivity of entropy production,0.478528
+Large Deviations and Fluctuation Theorem for Selectively Decoupled Measures on Shift Spaces,Full statistics of erasure processes: Isothermal adiabatic theory and a\n statistical Landauer principle,0.533508
+Large Deviations and Fluctuation Theorem for Selectively Decoupled Measures on Shift Spaces,Fluctuation Theorem and Thermodynamic Formalism,0.674284
+Large Deviations and Fluctuation Theorem for Selectively Decoupled Measures on Shift Spaces,Ergodic Properties of the Langevin Equation,0.426291
+Large Deviations and Fluctuation Theorem for Selectively Decoupled Measures on Shift Spaces,Energy Conservation and Full Counting Statistics,0.491456
+Large Deviations and Fluctuation Theorem for Selectively Decoupled Measures on Shift Spaces,Linear response theory in quantum statistical mechanics,0.249228
+Large Deviations and Fluctuation Theorem for Selectively Decoupled Measures on Shift Spaces,Approach to equilibrium in translation-invariant quantum systems: some structural results,0.559934
+Large Deviations and Fluctuation Theorem for Selectively Decoupled Measures on Shift Spaces,<i>Field Theory of Non-Equilibrium Systems</i>,0.282482
+Large Deviations and Fluctuation Theorem for Selectively Decoupled Measures on Shift Spaces,Introduction,0.220402
+Large Deviations and Fluctuation Theorem for Selectively Decoupled Measures on Shift Spaces,Adiabatic Theorems and Landauer's Principle in Quantum Statistical Mechanics,0.382985
+Large Deviations and Fluctuation Theorem for Selectively Decoupled Measures on Shift Spaces,Lectures on Entropy. Part I,0.585105
+Large Deviations and Fluctuation Theorem for Selectively Decoupled Measures on Shift Spaces,Large deviations and Gallavotti-Cohen principle for dissipative PDE's with rough noise,0.463688
+Large Deviations and Fluctuation Theorem for Selectively Decoupled Measures on Shift Spaces,"Energy conservation, counting statistics, and return to equilibrium",0.550904
+Large Deviations and Fluctuation Theorem for Selectively Decoupled Measures on Shift Spaces,Introduction to the Special Collection: International Congress on Mathematical Physics (ICMP) 2018,0.025035
+Large Deviations and Fluctuation Theorem for Selectively Decoupled Measures on Shift Spaces,On a waiting-time result of Kontoyiannis: mixing or decoupling?,0.511372
+Large Deviations and Fluctuation Theorem for Selectively Decoupled Measures on Shift Spaces,Quantum Hypothesis Testing and Non-Equilibrium Statistical Mechanics,0.625224
+Large Deviations and Fluctuation Theorem for Selectively Decoupled Measures on Shift Spaces,Entropic fluctuation theorems for the spin–fermion model,0.528069
+On the strict positivity of entropy production,Full statistics of erasure processes: Isothermal adiabatic theory and a\n statistical Landauer principle,0.566058
+On the strict positivity of entropy production,Fluctuation Theorem and Thermodynamic Formalism,0.558666
+On the strict positivity of entropy production,Ergodic Properties of the Langevin Equation,0.465196
+On the strict positivity of entropy production,Energy Conservation and Full Counting Statistics,0.533922
+On the strict positivity of entropy production,Linear response theory in quantum statistical mechanics,0.309485
+On the strict positivity of entropy production,Approach to equilibrium in translation-invariant quantum systems: some structural results,0.550648
+On the strict positivity of entropy production,<i>Field Theory of Non-Equilibrium Systems</i>,0.446584
+On the strict positivity of entropy production,Introduction,0.250402
+On the strict positivity of entropy production,Adiabatic Theorems and Landauer's Principle in Quantum Statistical Mechanics,0.360852
+On the strict positivity of entropy production,Lectures on Entropy. Part I,0.51445
+On the strict positivity of entropy production,Large deviations and Gallavotti-Cohen principle for dissipative PDE's with rough noise,0.462691
+On the strict positivity of entropy production,"Energy conservation, counting statistics, and return to equilibrium",0.567344
+On the strict positivity of entropy production,Introduction to the Special Collection: International Congress on Mathematical Physics (ICMP) 2018,0.031555
+On the strict positivity of entropy production,On a waiting-time result of Kontoyiannis: mixing or decoupling?,0.397591
+On the strict positivity of entropy production,Quantum Hypothesis Testing and Non-Equilibrium Statistical Mechanics,0.490745
+On the strict positivity of entropy production,Entropic fluctuation theorems for the spin–fermion model,0.581793
+Full statistics of erasure processes: Isothermal adiabatic theory and a\n statistical Landauer principle,Fluctuation Theorem and Thermodynamic Formalism,0.445278
+Full statistics of erasure processes: Isothermal adiabatic theory and a\n statistical Landauer principle,Ergodic Properties of the Langevin Equation,0.632525
+Full statistics of erasure processes: Isothermal adiabatic theory and a\n statistical Landauer principle,Energy Conservation and Full Counting Statistics,0.580496
+Full statistics of erasure processes: Isothermal adiabatic theory and a\n statistical Landauer principle,Linear response theory in quantum statistical mechanics,0.465239
+Full statistics of erasure processes: Isothermal adiabatic theory and a\n statistical Landauer principle,Approach to equilibrium in translation-invariant quantum systems: some structural results,0.651379
+Full statistics of erasure processes: Isothermal adiabatic theory and a\n statistical Landauer principle,<i>Field Theory of Non-Equilibrium Systems</i>,0.473374
+Full statistics of erasure processes: Isothermal adiabatic theory and a\n statistical Landauer principle,Introduction,0.477884
+Full statistics of erasure processes: Isothermal adiabatic theory and a\n statistical Landauer principle,Adiabatic Theorems and Landauer's Principle in Quantum Statistical Mechanics,0.505527
+Full statistics of erasure processes: Isothermal adiabatic theory and a\n statistical Landauer principle,Lectures on Entropy. Part I,0.433649
+Full statistics of erasure processes: Isothermal adiabatic theory and a\n statistical Landauer principle,Large deviations and Gallavotti-Cohen principle for dissipative PDE's with rough noise,0.436126
+Full statistics of erasure processes: Isothermal adiabatic theory and a\n statistical Landauer principle,"Energy conservation, counting statistics, and return to equilibrium",0.748931
+Full statistics of erasure processes: Isothermal adiabatic theory and a\n statistical Landauer principle,Introduction to the Special Collection: International Congress on Mathematical Physics (ICMP) 2018,0.051091
+Full statistics of erasure processes: Isothermal adiabatic theory and a\n statistical Landauer principle,On a waiting-time result of Kontoyiannis: mixing or decoupling?,0.319024
+Full statistics of erasure processes: Isothermal adiabatic theory and a\n statistical Landauer principle,Quantum Hypothesis Testing and Non-Equilibrium Statistical Mechanics,0.607241
+Full statistics of erasure processes: Isothermal adiabatic theory and a\n statistical Landauer principle,Entropic fluctuation theorems for the spin–fermion model,0.670648
+Fluctuation Theorem and Thermodynamic Formalism,Ergodic Properties of the Langevin Equation,0.435189
+Fluctuation Theorem and Thermodynamic Formalism,Energy Conservation and Full Counting Statistics,0.52585
+Fluctuation Theorem and Thermodynamic Formalism,Linear response theory in quantum statistical mechanics,0.252712
+Fluctuation Theorem and Thermodynamic Formalism,Approach to equilibrium in translation-invariant quantum systems: some structural results,0.469993
+Fluctuation Theorem and Thermodynamic Formalism,<i>Field Theory of Non-Equilibrium Systems</i>,0.310141
+Fluctuation Theorem and Thermodynamic Formalism,Introduction,0.112746
+Fluctuation Theorem and Thermodynamic Formalism,Adiabatic Theorems and Landauer's Principle in Quantum Statistical Mechanics,0.202725
+Fluctuation Theorem and Thermodynamic Formalism,Lectures on Entropy. Part I,0.573399
+Fluctuation Theorem and Thermodynamic Formalism,Large deviations and Gallavotti-Cohen principle for dissipative PDE's with rough noise,0.482592
+Fluctuation Theorem and Thermodynamic Formalism,"Energy conservation, counting statistics, and return to equilibrium",0.480503
+Fluctuation Theorem and Thermodynamic Formalism,Introduction to the Special Collection: International Congress on Mathematical Physics (ICMP) 2018,-0.008567
+Fluctuation Theorem and Thermodynamic Formalism,On a waiting-time result of Kontoyiannis: mixing or decoupling?,0.454079
+Fluctuation Theorem and Thermodynamic Formalism,Quantum Hypothesis Testing and Non-Equilibrium Statistical Mechanics,0.47432
+Fluctuation Theorem and Thermodynamic Formalism,Entropic fluctuation theorems for the spin–fermion model,0.461175
+Ergodic Properties of the Langevin Equation,Energy Conservation and Full Counting Statistics,0.556476
+Ergodic Properties of the Langevin Equation,Linear response theory in quantum statistical mechanics,0.375317
+Ergodic Properties of the Langevin Equation,Approach to equilibrium in translation-invariant quantum systems: some structural results,0.487395
+Ergodic Properties of the Langevin Equation,<i>Field Theory of Non-Equilibrium Systems</i>,0.40544
+Ergodic Properties of the Langevin Equation,Introduction,0.374998
+Ergodic Properties of the Langevin Equation,Adiabatic Theorems and Landauer's Principle in Quantum Statistical Mechanics,0.298668
+Ergodic Properties of the Langevin Equation,Lectures on Entropy. Part I,0.357587
+Ergodic Properties of the Langevin Equation,Large deviations and Gallavotti-Cohen principle for dissipative PDE's with rough noise,0.610663
+Ergodic Properties of the Langevin Equation,"Energy conservation, counting statistics, and return to equilibrium",0.613216
+Ergodic Properties of the Langevin Equation,Introduction to the Special Collection: International Congress on Mathematical Physics (ICMP) 2018,0.029333
+Ergodic Properties of the Langevin Equation,On a waiting-time result of Kontoyiannis: mixing or decoupling?,0.345965
+Ergodic Properties of the Langevin Equation,Quantum Hypothesis Testing and Non-Equilibrium Statistical Mechanics,0.477437
+Ergodic Properties of the Langevin Equation,Entropic fluctuation theorems for the spin–fermion model,0.513059
+Energy Conservation and Full Counting Statistics,Linear response theory in quantum statistical mechanics,0.373164
+Energy Conservation and Full Counting Statistics,Approach to equilibrium in translation-invariant quantum systems: some structural results,0.49793
+Energy Conservation and Full Counting Statistics,<i>Field Theory of Non-Equilibrium Systems</i>,0.383361
+Energy Conservation and Full Counting Statistics,Introduction,0.276817
+Energy Conservation and Full Counting Statistics,Adiabatic Theorems and Landauer's Principle in Quantum Statistical Mechanics,0.252762
+Energy Conservation and Full Counting Statistics,Lectures on Entropy. Part I,0.434776
+Energy Conservation and Full Counting Statistics,Large deviations and Gallavotti-Cohen principle for dissipative PDE's with rough noise,0.41227
+Energy Conservation and Full Counting Statistics,"Energy conservation, counting statistics, and return to equilibrium",0.688079
+Energy Conservation and Full Counting Statistics,Introduction to the Special Collection: International Congress on Mathematical Physics (ICMP) 2018,0.091916
+Energy Conservation and Full Counting Statistics,On a waiting-time result of Kontoyiannis: mixing or decoupling?,0.378192
+Energy Conservation and Full Counting Statistics,Quantum Hypothesis Testing and Non-Equilibrium Statistical Mechanics,0.568718
+Energy Conservation and Full Counting Statistics,Entropic fluctuation theorems for the spin–fermion model,0.467653
+Linear response theory in quantum statistical mechanics,Approach to equilibrium in translation-invariant quantum systems: some structural results,0.343073
+Linear response theory in quantum statistical mechanics,<i>Field Theory of Non-Equilibrium Systems</i>,0.356455
+Linear response theory in quantum statistical mechanics,Introduction,0.459028
+Linear response theory in quantum statistical mechanics,Adiabatic Theorems and Landauer's Principle in Quantum Statistical Mechanics,0.300277
+Linear response theory in quantum statistical mechanics,Lectures on Entropy. Part I,0.259899
+Linear response theory in quantum statistical mechanics,Large deviations and Gallavotti-Cohen principle for dissipative PDE's with rough noise,0.263165
+Linear response theory in quantum statistical mechanics,"Energy conservation, counting statistics, and return to equilibrium",0.405018
+Linear response theory in quantum statistical mechanics,Introduction to the Special Collection: International Congress on Mathematical Physics (ICMP) 2018,0.021393
+Linear response theory in quantum statistical mechanics,On a waiting-time result of Kontoyiannis: mixing or decoupling?,0.103965
+Linear response theory in quantum statistical mechanics,Quantum Hypothesis Testing and Non-Equilibrium Statistical Mechanics,0.304267
+Linear response theory in quantum statistical mechanics,Entropic fluctuation theorems for the spin–fermion model,0.353042
+Approach to equilibrium in translation-invariant quantum systems: some structural results,<i>Field Theory of Non-Equilibrium Systems</i>,0.471375
+Approach to equilibrium in translation-invariant quantum systems: some structural results,Introduction,0.348416
+Approach to equilibrium in translation-invariant quantum systems: some structural results,Adiabatic Theorems and Landauer's Principle in Quantum Statistical Mechanics,0.458572
+Approach to equilibrium in translation-invariant quantum systems: some structural results,Lectures on Entropy. Part I,0.536414
+Approach to equilibrium in translation-invariant quantum systems: some structural results,Large deviations and Gallavotti-Cohen principle for dissipative PDE's with rough noise,0.3623
+Approach to equilibrium in translation-invariant quantum systems: some structural results,"Energy conservation, counting statistics, and return to equilibrium",0.66512
+Approach to equilibrium in translation-invariant quantum systems: some structural results,Introduction to the Special Collection: International Congress on Mathematical Physics (ICMP) 2018,0.102169
+Approach to equilibrium in translation-invariant quantum systems: some structural results,On a waiting-time result of Kontoyiannis: mixing or decoupling?,0.389706
+Approach to equilibrium in translation-invariant quantum systems: some structural results,Quantum Hypothesis Testing and Non-Equilibrium Statistical Mechanics,0.694498
+Approach to equilibrium in translation-invariant quantum systems: some structural results,Entropic fluctuation theorems for the spin–fermion model,0.518554
+<i>Field Theory of Non-Equilibrium Systems</i>,Introduction,0.471591
+<i>Field Theory of Non-Equilibrium Systems</i>,Adiabatic Theorems and Landauer's Principle in Quantum Statistical Mechanics,0.332093
+<i>Field Theory of Non-Equilibrium Systems</i>,Lectures on Entropy. Part I,0.274616
+<i>Field Theory of Non-Equilibrium Systems</i>,Large deviations and Gallavotti-Cohen principle for dissipative PDE's with rough noise,0.35363
+<i>Field Theory of Non-Equilibrium Systems</i>,"Energy conservation, counting statistics, and return to equilibrium",0.364247
+<i>Field Theory of Non-Equilibrium Systems</i>,Introduction to the Special Collection: International Congress on Mathematical Physics (ICMP) 2018,0.050526
+<i>Field Theory of Non-Equilibrium Systems</i>,On a waiting-time result of Kontoyiannis: mixing or decoupling?,0.206285
+<i>Field Theory of Non-Equilibrium Systems</i>,Quantum Hypothesis Testing and Non-Equilibrium Statistical Mechanics,0.355831
+<i>Field Theory of Non-Equilibrium Systems</i>,Entropic fluctuation theorems for the spin–fermion model,0.430116
+Introduction,Adiabatic Theorems and Landauer's Principle in Quantum Statistical Mechanics,0.554732
+Introduction,Lectures on Entropy. Part I,0.203967
+Introduction,Large deviations and Gallavotti-Cohen principle for dissipative PDE's with rough noise,0.235629
+Introduction,"Energy conservation, counting statistics, and return to equilibrium",0.346734
+Introduction,Introduction to the Special Collection: International Congress on Mathematical Physics (ICMP) 2018,0.082762
+Introduction,On a waiting-time result of Kontoyiannis: mixing or decoupling?,0.138437
+Introduction,Quantum Hypothesis Testing and Non-Equilibrium Statistical Mechanics,0.276413
+Introduction,Entropic fluctuation theorems for the spin–fermion model,0.365338
+Adiabatic Theorems and Landauer's Principle in Quantum Statistical Mechanics,Lectures on Entropy. Part I,0.333153
+Adiabatic Theorems and Landauer's Principle in Quantum Statistical Mechanics,Large deviations and Gallavotti-Cohen principle for dissipative PDE's with rough noise,0.220453
+Adiabatic Theorems and Landauer's Principle in Quantum Statistical Mechanics,"Energy conservation, counting statistics, and return to equilibrium",0.476925
+Adiabatic Theorems and Landauer's Principle in Quantum Statistical Mechanics,Introduction to the Special Collection: International Congress on Mathematical Physics (ICMP) 2018,0.059745
+Adiabatic Theorems and Landauer's Principle in Quantum Statistical Mechanics,On a waiting-time result of Kontoyiannis: mixing or decoupling?,0.21567
+Adiabatic Theorems and Landauer's Principle in Quantum Statistical Mechanics,Quantum Hypothesis Testing and Non-Equilibrium Statistical Mechanics,0.487595
+Adiabatic Theorems and Landauer's Principle in Quantum Statistical Mechanics,Entropic fluctuation theorems for the spin–fermion model,0.379884
+Lectures on Entropy. Part I,Large deviations and Gallavotti-Cohen principle for dissipative PDE's with rough noise,0.434304
+Lectures on Entropy. Part I,"Energy conservation, counting statistics, and return to equilibrium",0.449762
+Lectures on Entropy. Part I,Introduction to the Special Collection: International Congress on Mathematical Physics (ICMP) 2018,0.058176
+Lectures on Entropy. Part I,On a waiting-time result of Kontoyiannis: mixing or decoupling?,0.563476
+Lectures on Entropy. Part I,Quantum Hypothesis Testing and Non-Equilibrium Statistical Mechanics,0.524083
+Lectures on Entropy. Part I,Entropic fluctuation theorems for the spin–fermion model,0.313908
+Large deviations and Gallavotti-Cohen principle for dissipative PDE's with rough noise,"Energy conservation, counting statistics, and return to equilibrium",0.372001
+Large deviations and Gallavotti-Cohen principle for dissipative PDE's with rough noise,Introduction to the Special Collection: International Congress on Mathematical Physics (ICMP) 2018,0.013521
+Large deviations and Gallavotti-Cohen principle for dissipative PDE's with rough noise,On a waiting-time result of Kontoyiannis: mixing or decoupling?,0.390856
+Large deviations and Gallavotti-Cohen principle for dissipative PDE's with rough noise,Quantum Hypothesis Testing and Non-Equilibrium Statistical Mechanics,0.413943
+Large deviations and Gallavotti-Cohen principle for dissipative PDE's with rough noise,Entropic fluctuation theorems for the spin–fermion model,0.359826
+"Energy conservation, counting statistics, and return to equilibrium",Introduction to the Special Collection: International Congress on Mathematical Physics (ICMP) 2018,0.026441
+"Energy conservation, counting statistics, and return to equilibrium",On a waiting-time result of Kontoyiannis: mixing or decoupling?,0.35688
+"Energy conservation, counting statistics, and return to equilibrium",Quantum Hypothesis Testing and Non-Equilibrium Statistical Mechanics,0.644474
+"Energy conservation, counting statistics, and return to equilibrium",Entropic fluctuation theorems for the spin–fermion model,0.624706
+Introduction to the Special Collection: International Congress on Mathematical Physics (ICMP) 2018,On a waiting-time result of Kontoyiannis: mixing or decoupling?,0.069975
+Introduction to the Special Collection: International Congress on Mathematical Physics (ICMP) 2018,Quantum Hypothesis Testing and Non-Equilibrium Statistical Mechanics,0.030377
+Introduction to the Special Collection: International Congress on Mathematical Physics (ICMP) 2018,Entropic fluctuation theorems for the spin–fermion model,0.043774
+On a waiting-time result of Kontoyiannis: mixing or decoupling?,Quantum Hypothesis Testing and Non-Equilibrium Statistical Mechanics,0.454102
+On a waiting-time result of Kontoyiannis: mixing or decoupling?,Entropic fluctuation theorems for the spin–fermion model,0.307792
+Quantum Hypothesis Testing and Non-Equilibrium Statistical Mechanics,Entropic fluctuation theorems for the spin–fermion model,0.480334

@@ -1,0 +1,497 @@
+title_i,title_j,cosine_similarity
+Deep Learning-Based Prediction of Fabrication-Process-Induced Structural Variations in Nanophotonic Devices,Improving Fabrication Fidelity of Integrated Nanophotonic Devices Using Deep Learning,0.841984
+Deep Learning-Based Prediction of Fabrication-Process-Induced Structural Variations in Nanophotonic Devices,An Open-Source Artificial Neural Network Model for Polarization-Insensitive Silicon-on-Insulator Subwavelength Grating Couplers,0.633709
+Deep Learning-Based Prediction of Fabrication-Process-Induced Structural Variations in Nanophotonic Devices,Ultracompact CMOS-compatible optical logic using carrier depletion in microdisk resonators,0.325078
+Deep Learning-Based Prediction of Fabrication-Process-Induced Structural Variations in Nanophotonic Devices,Compact silicon-photonic mode-division (de)multiplexer using waveguide-wrapped microdisk resonators,0.368113
+Deep Learning-Based Prediction of Fabrication-Process-Induced Structural Variations in Nanophotonic Devices,An Integrated Optical Circuit Architecture for Inverse-Designed Silicon Photonic Components,0.45671
+Deep Learning-Based Prediction of Fabrication-Process-Induced Structural Variations in Nanophotonic Devices,Reconfigurable optical logic in silicon platform,0.251424
+Deep Learning-Based Prediction of Fabrication-Process-Induced Structural Variations in Nanophotonic Devices,Advancing Silicon Photonics Through Machine Learning: From Device Design to Fabrication,0.793694
+Deep Learning-Based Prediction of Fabrication-Process-Induced Structural Variations in Nanophotonic Devices,Using Machine Learning Pattern Recognition to Enhance Silicon Photonic Design and Fabrication,0.672989
+Deep Learning-Based Prediction of Fabrication-Process-Induced Structural Variations in Nanophotonic Devices,SEMU-Net: A Segmentation-Based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images,0.858603
+Deep Learning-Based Prediction of Fabrication-Process-Induced Structural Variations in Nanophotonic Devices,"Ultrafast electro-optical disk modulators for logic, communications, optical repeaters, and wavelength converters",0.391889
+Deep Learning-Based Prediction of Fabrication-Process-Induced Structural Variations in Nanophotonic Devices,Automating Photonic Design with Machine Learning,0.603943
+Deep Learning-Based Prediction of Fabrication-Process-Induced Structural Variations in Nanophotonic Devices,Ultralow-Power Double Vertical Junction Microdisk Modulators,0.315511
+Deep Learning-Based Prediction of Fabrication-Process-Induced Structural Variations in Nanophotonic Devices,A comparison of microresonator devices for WDM-compatible mode-division multiplexing,0.328725
+Deep Learning-Based Prediction of Fabrication-Process-Induced Structural Variations in Nanophotonic Devices,Resonant bistable 2 × 2 crossbar switches using dual nanobeams clad with phase-change material,0.228128
+Deep Learning-Based Prediction of Fabrication-Process-Induced Structural Variations in Nanophotonic Devices,Feature Correction of a Topologically optimized Mode Demultiplexer Using Deep Neural Networks,0.463832
+Deep Learning-Based Prediction of Fabrication-Process-Induced Structural Variations in Nanophotonic Devices,Design and Optimization of pn Junctions in Silicon Microdisk Modulators,0.37546
+Deep Learning-Based Prediction of Fabrication-Process-Induced Structural Variations in Nanophotonic Devices,Enabling ROADM in mode division multiplexing networks with mode-selective switches,0.406621
+Deep Learning-Based Prediction of Fabrication-Process-Induced Structural Variations in Nanophotonic Devices,"CMOS-compatible optical AND, OR, and XOR gates using voltage-induced free-carrier dispersion and stimulated Raman scattering",0.356366
+Deep Learning-Based Prediction of Fabrication-Process-Induced Structural Variations in Nanophotonic Devices,All-optical half-adder based on a hydrogenated amorphous silicon microring resonator,0.295532
+Deep Learning-Based Prediction of Fabrication-Process-Induced Structural Variations in Nanophotonic Devices,Ultrafast all-optical arithmetic logic based on hydrogenated amorphous silicon microring resonators,0.374031
+Deep Learning-Based Prediction of Fabrication-Process-Induced Structural Variations in Nanophotonic Devices,Silicon Photonics for Next-Generation Optical Processing and Communications,-0.090987
+Deep Learning-Based Prediction of Fabrication-Process-Induced Structural Variations in Nanophotonic Devices,Reconfigurable Optical Logic Switches Using Microdisk Resonators,0.260092
+Deep Learning-Based Prediction of Fabrication-Process-Induced Structural Variations in Nanophotonic Devices,Data-Driven Prediction of Fabrication Variations in Silicon Photonic Devices,0.859791
+Deep Learning-Based Prediction of Fabrication-Process-Induced Structural Variations in Nanophotonic Devices,Inverse design of robust photonic components,0.724807
+Deep Learning-Based Prediction of Fabrication-Process-Induced Structural Variations in Nanophotonic Devices,Silicon Reconfigurable Optical Logic Using Phase-Change Materials,0.324248
+Deep Learning-Based Prediction of Fabrication-Process-Induced Structural Variations in Nanophotonic Devices,Fabrication aware design of sensitive silicon photonics devices,0.767369
+Deep Learning-Based Prediction of Fabrication-Process-Induced Structural Variations in Nanophotonic Devices,Experimentally validated simulation of a mode-sensitive thermo-optic phase-shifter,0.180866
+Deep Learning-Based Prediction of Fabrication-Process-Induced Structural Variations in Nanophotonic Devices,Image-to-Image Computer Vision for Advanced Nanophotonic Fabrication and Design,0.726531
+Deep Learning-Based Prediction of Fabrication-Process-Induced Structural Variations in Nanophotonic Devices,Enhancing Telecommunication and Data Communication with Silicon Integrated Photonics,0.499163
+Deep Learning-Based Prediction of Fabrication-Process-Induced Structural Variations in Nanophotonic Devices,Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization,0.731544
+Deep Learning-Based Prediction of Fabrication-Process-Induced Structural Variations in Nanophotonic Devices,Advancing telecommunications and data communications through silicon photonic technologies (Conference Presentation),0.411529
+Improving Fabrication Fidelity of Integrated Nanophotonic Devices Using Deep Learning,An Open-Source Artificial Neural Network Model for Polarization-Insensitive Silicon-on-Insulator Subwavelength Grating Couplers,0.629079
+Improving Fabrication Fidelity of Integrated Nanophotonic Devices Using Deep Learning,Ultracompact CMOS-compatible optical logic using carrier depletion in microdisk resonators,0.386532
+Improving Fabrication Fidelity of Integrated Nanophotonic Devices Using Deep Learning,Compact silicon-photonic mode-division (de)multiplexer using waveguide-wrapped microdisk resonators,0.357683
+Improving Fabrication Fidelity of Integrated Nanophotonic Devices Using Deep Learning,An Integrated Optical Circuit Architecture for Inverse-Designed Silicon Photonic Components,0.515536
+Improving Fabrication Fidelity of Integrated Nanophotonic Devices Using Deep Learning,Reconfigurable optical logic in silicon platform,0.345726
+Improving Fabrication Fidelity of Integrated Nanophotonic Devices Using Deep Learning,Advancing Silicon Photonics Through Machine Learning: From Device Design to Fabrication,0.838502
+Improving Fabrication Fidelity of Integrated Nanophotonic Devices Using Deep Learning,Using Machine Learning Pattern Recognition to Enhance Silicon Photonic Design and Fabrication,0.689656
+Improving Fabrication Fidelity of Integrated Nanophotonic Devices Using Deep Learning,SEMU-Net: A Segmentation-Based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images,0.767447
+Improving Fabrication Fidelity of Integrated Nanophotonic Devices Using Deep Learning,"Ultrafast electro-optical disk modulators for logic, communications, optical repeaters, and wavelength converters",0.444537
+Improving Fabrication Fidelity of Integrated Nanophotonic Devices Using Deep Learning,Automating Photonic Design with Machine Learning,0.620969
+Improving Fabrication Fidelity of Integrated Nanophotonic Devices Using Deep Learning,Ultralow-Power Double Vertical Junction Microdisk Modulators,0.372042
+Improving Fabrication Fidelity of Integrated Nanophotonic Devices Using Deep Learning,A comparison of microresonator devices for WDM-compatible mode-division multiplexing,0.358568
+Improving Fabrication Fidelity of Integrated Nanophotonic Devices Using Deep Learning,Resonant bistable 2 × 2 crossbar switches using dual nanobeams clad with phase-change material,0.281802
+Improving Fabrication Fidelity of Integrated Nanophotonic Devices Using Deep Learning,Feature Correction of a Topologically optimized Mode Demultiplexer Using Deep Neural Networks,0.525888
+Improving Fabrication Fidelity of Integrated Nanophotonic Devices Using Deep Learning,Design and Optimization of pn Junctions in Silicon Microdisk Modulators,0.416822
+Improving Fabrication Fidelity of Integrated Nanophotonic Devices Using Deep Learning,Enabling ROADM in mode division multiplexing networks with mode-selective switches,0.426074
+Improving Fabrication Fidelity of Integrated Nanophotonic Devices Using Deep Learning,"CMOS-compatible optical AND, OR, and XOR gates using voltage-induced free-carrier dispersion and stimulated Raman scattering",0.404788
+Improving Fabrication Fidelity of Integrated Nanophotonic Devices Using Deep Learning,All-optical half-adder based on a hydrogenated amorphous silicon microring resonator,0.351978
+Improving Fabrication Fidelity of Integrated Nanophotonic Devices Using Deep Learning,Ultrafast all-optical arithmetic logic based on hydrogenated amorphous silicon microring resonators,0.415982
+Improving Fabrication Fidelity of Integrated Nanophotonic Devices Using Deep Learning,Silicon Photonics for Next-Generation Optical Processing and Communications,-0.128035
+Improving Fabrication Fidelity of Integrated Nanophotonic Devices Using Deep Learning,Reconfigurable Optical Logic Switches Using Microdisk Resonators,0.329305
+Improving Fabrication Fidelity of Integrated Nanophotonic Devices Using Deep Learning,Data-Driven Prediction of Fabrication Variations in Silicon Photonic Devices,0.810361
+Improving Fabrication Fidelity of Integrated Nanophotonic Devices Using Deep Learning,Inverse design of robust photonic components,0.791353
+Improving Fabrication Fidelity of Integrated Nanophotonic Devices Using Deep Learning,Silicon Reconfigurable Optical Logic Using Phase-Change Materials,0.366184
+Improving Fabrication Fidelity of Integrated Nanophotonic Devices Using Deep Learning,Fabrication aware design of sensitive silicon photonics devices,0.772668
+Improving Fabrication Fidelity of Integrated Nanophotonic Devices Using Deep Learning,Experimentally validated simulation of a mode-sensitive thermo-optic phase-shifter,0.24559
+Improving Fabrication Fidelity of Integrated Nanophotonic Devices Using Deep Learning,Image-to-Image Computer Vision for Advanced Nanophotonic Fabrication and Design,0.755595
+Improving Fabrication Fidelity of Integrated Nanophotonic Devices Using Deep Learning,Enhancing Telecommunication and Data Communication with Silicon Integrated Photonics,0.453726
+Improving Fabrication Fidelity of Integrated Nanophotonic Devices Using Deep Learning,Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization,0.745106
+Improving Fabrication Fidelity of Integrated Nanophotonic Devices Using Deep Learning,Advancing telecommunications and data communications through silicon photonic technologies (Conference Presentation),0.463465
+An Open-Source Artificial Neural Network Model for Polarization-Insensitive Silicon-on-Insulator Subwavelength Grating Couplers,Ultracompact CMOS-compatible optical logic using carrier depletion in microdisk resonators,0.403127
+An Open-Source Artificial Neural Network Model for Polarization-Insensitive Silicon-on-Insulator Subwavelength Grating Couplers,Compact silicon-photonic mode-division (de)multiplexer using waveguide-wrapped microdisk resonators,0.438386
+An Open-Source Artificial Neural Network Model for Polarization-Insensitive Silicon-on-Insulator Subwavelength Grating Couplers,An Integrated Optical Circuit Architecture for Inverse-Designed Silicon Photonic Components,0.529724
+An Open-Source Artificial Neural Network Model for Polarization-Insensitive Silicon-on-Insulator Subwavelength Grating Couplers,Reconfigurable optical logic in silicon platform,0.39852
+An Open-Source Artificial Neural Network Model for Polarization-Insensitive Silicon-on-Insulator Subwavelength Grating Couplers,Advancing Silicon Photonics Through Machine Learning: From Device Design to Fabrication,0.605316
+An Open-Source Artificial Neural Network Model for Polarization-Insensitive Silicon-on-Insulator Subwavelength Grating Couplers,Using Machine Learning Pattern Recognition to Enhance Silicon Photonic Design and Fabrication,0.569046
+An Open-Source Artificial Neural Network Model for Polarization-Insensitive Silicon-on-Insulator Subwavelength Grating Couplers,SEMU-Net: A Segmentation-Based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images,0.609327
+An Open-Source Artificial Neural Network Model for Polarization-Insensitive Silicon-on-Insulator Subwavelength Grating Couplers,"Ultrafast electro-optical disk modulators for logic, communications, optical repeaters, and wavelength converters",0.471549
+An Open-Source Artificial Neural Network Model for Polarization-Insensitive Silicon-on-Insulator Subwavelength Grating Couplers,Automating Photonic Design with Machine Learning,0.828687
+An Open-Source Artificial Neural Network Model for Polarization-Insensitive Silicon-on-Insulator Subwavelength Grating Couplers,Ultralow-Power Double Vertical Junction Microdisk Modulators,0.396295
+An Open-Source Artificial Neural Network Model for Polarization-Insensitive Silicon-on-Insulator Subwavelength Grating Couplers,A comparison of microresonator devices for WDM-compatible mode-division multiplexing,0.442874
+An Open-Source Artificial Neural Network Model for Polarization-Insensitive Silicon-on-Insulator Subwavelength Grating Couplers,Resonant bistable 2 × 2 crossbar switches using dual nanobeams clad with phase-change material,0.369006
+An Open-Source Artificial Neural Network Model for Polarization-Insensitive Silicon-on-Insulator Subwavelength Grating Couplers,Feature Correction of a Topologically optimized Mode Demultiplexer Using Deep Neural Networks,0.461199
+An Open-Source Artificial Neural Network Model for Polarization-Insensitive Silicon-on-Insulator Subwavelength Grating Couplers,Design and Optimization of pn Junctions in Silicon Microdisk Modulators,0.459119
+An Open-Source Artificial Neural Network Model for Polarization-Insensitive Silicon-on-Insulator Subwavelength Grating Couplers,Enabling ROADM in mode division multiplexing networks with mode-selective switches,0.574082
+An Open-Source Artificial Neural Network Model for Polarization-Insensitive Silicon-on-Insulator Subwavelength Grating Couplers,"CMOS-compatible optical AND, OR, and XOR gates using voltage-induced free-carrier dispersion and stimulated Raman scattering",0.47764
+An Open-Source Artificial Neural Network Model for Polarization-Insensitive Silicon-on-Insulator Subwavelength Grating Couplers,All-optical half-adder based on a hydrogenated amorphous silicon microring resonator,0.410832
+An Open-Source Artificial Neural Network Model for Polarization-Insensitive Silicon-on-Insulator Subwavelength Grating Couplers,Ultrafast all-optical arithmetic logic based on hydrogenated amorphous silicon microring resonators,0.477587
+An Open-Source Artificial Neural Network Model for Polarization-Insensitive Silicon-on-Insulator Subwavelength Grating Couplers,Silicon Photonics for Next-Generation Optical Processing and Communications,-0.148402
+An Open-Source Artificial Neural Network Model for Polarization-Insensitive Silicon-on-Insulator Subwavelength Grating Couplers,Reconfigurable Optical Logic Switches Using Microdisk Resonators,0.415019
+An Open-Source Artificial Neural Network Model for Polarization-Insensitive Silicon-on-Insulator Subwavelength Grating Couplers,Data-Driven Prediction of Fabrication Variations in Silicon Photonic Devices,0.595353
+An Open-Source Artificial Neural Network Model for Polarization-Insensitive Silicon-on-Insulator Subwavelength Grating Couplers,Inverse design of robust photonic components,0.618892
+An Open-Source Artificial Neural Network Model for Polarization-Insensitive Silicon-on-Insulator Subwavelength Grating Couplers,Silicon Reconfigurable Optical Logic Using Phase-Change Materials,0.418223
+An Open-Source Artificial Neural Network Model for Polarization-Insensitive Silicon-on-Insulator Subwavelength Grating Couplers,Fabrication aware design of sensitive silicon photonics devices,0.617517
+An Open-Source Artificial Neural Network Model for Polarization-Insensitive Silicon-on-Insulator Subwavelength Grating Couplers,Experimentally validated simulation of a mode-sensitive thermo-optic phase-shifter,0.451732
+An Open-Source Artificial Neural Network Model for Polarization-Insensitive Silicon-on-Insulator Subwavelength Grating Couplers,Image-to-Image Computer Vision for Advanced Nanophotonic Fabrication and Design,0.527045
+An Open-Source Artificial Neural Network Model for Polarization-Insensitive Silicon-on-Insulator Subwavelength Grating Couplers,Enhancing Telecommunication and Data Communication with Silicon Integrated Photonics,0.56448
+An Open-Source Artificial Neural Network Model for Polarization-Insensitive Silicon-on-Insulator Subwavelength Grating Couplers,Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization,0.550266
+An Open-Source Artificial Neural Network Model for Polarization-Insensitive Silicon-on-Insulator Subwavelength Grating Couplers,Advancing telecommunications and data communications through silicon photonic technologies (Conference Presentation),0.633125
+Ultracompact CMOS-compatible optical logic using carrier depletion in microdisk resonators,Compact silicon-photonic mode-division (de)multiplexer using waveguide-wrapped microdisk resonators,0.674029
+Ultracompact CMOS-compatible optical logic using carrier depletion in microdisk resonators,An Integrated Optical Circuit Architecture for Inverse-Designed Silicon Photonic Components,0.531441
+Ultracompact CMOS-compatible optical logic using carrier depletion in microdisk resonators,Reconfigurable optical logic in silicon platform,0.682904
+Ultracompact CMOS-compatible optical logic using carrier depletion in microdisk resonators,Advancing Silicon Photonics Through Machine Learning: From Device Design to Fabrication,0.360506
+Ultracompact CMOS-compatible optical logic using carrier depletion in microdisk resonators,Using Machine Learning Pattern Recognition to Enhance Silicon Photonic Design and Fabrication,0.39551
+Ultracompact CMOS-compatible optical logic using carrier depletion in microdisk resonators,SEMU-Net: A Segmentation-Based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images,0.303034
+Ultracompact CMOS-compatible optical logic using carrier depletion in microdisk resonators,"Ultrafast electro-optical disk modulators for logic, communications, optical repeaters, and wavelength converters",0.678286
+Ultracompact CMOS-compatible optical logic using carrier depletion in microdisk resonators,Automating Photonic Design with Machine Learning,0.394713
+Ultracompact CMOS-compatible optical logic using carrier depletion in microdisk resonators,Ultralow-Power Double Vertical Junction Microdisk Modulators,0.638094
+Ultracompact CMOS-compatible optical logic using carrier depletion in microdisk resonators,A comparison of microresonator devices for WDM-compatible mode-division multiplexing,0.540615
+Ultracompact CMOS-compatible optical logic using carrier depletion in microdisk resonators,Resonant bistable 2 × 2 crossbar switches using dual nanobeams clad with phase-change material,0.42495
+Ultracompact CMOS-compatible optical logic using carrier depletion in microdisk resonators,Feature Correction of a Topologically optimized Mode Demultiplexer Using Deep Neural Networks,0.347128
+Ultracompact CMOS-compatible optical logic using carrier depletion in microdisk resonators,Design and Optimization of pn Junctions in Silicon Microdisk Modulators,0.561532
+Ultracompact CMOS-compatible optical logic using carrier depletion in microdisk resonators,Enabling ROADM in mode division multiplexing networks with mode-selective switches,0.591447
+Ultracompact CMOS-compatible optical logic using carrier depletion in microdisk resonators,"CMOS-compatible optical AND, OR, and XOR gates using voltage-induced free-carrier dispersion and stimulated Raman scattering",0.685018
+Ultracompact CMOS-compatible optical logic using carrier depletion in microdisk resonators,All-optical half-adder based on a hydrogenated amorphous silicon microring resonator,0.627886
+Ultracompact CMOS-compatible optical logic using carrier depletion in microdisk resonators,Ultrafast all-optical arithmetic logic based on hydrogenated amorphous silicon microring resonators,0.637148
+Ultracompact CMOS-compatible optical logic using carrier depletion in microdisk resonators,Silicon Photonics for Next-Generation Optical Processing and Communications,-0.098315
+Ultracompact CMOS-compatible optical logic using carrier depletion in microdisk resonators,Reconfigurable Optical Logic Switches Using Microdisk Resonators,0.740486
+Ultracompact CMOS-compatible optical logic using carrier depletion in microdisk resonators,Data-Driven Prediction of Fabrication Variations in Silicon Photonic Devices,0.338784
+Ultracompact CMOS-compatible optical logic using carrier depletion in microdisk resonators,Inverse design of robust photonic components,0.382786
+Ultracompact CMOS-compatible optical logic using carrier depletion in microdisk resonators,Silicon Reconfigurable Optical Logic Using Phase-Change Materials,0.662053
+Ultracompact CMOS-compatible optical logic using carrier depletion in microdisk resonators,Fabrication aware design of sensitive silicon photonics devices,0.393115
+Ultracompact CMOS-compatible optical logic using carrier depletion in microdisk resonators,Experimentally validated simulation of a mode-sensitive thermo-optic phase-shifter,0.456848
+Ultracompact CMOS-compatible optical logic using carrier depletion in microdisk resonators,Image-to-Image Computer Vision for Advanced Nanophotonic Fabrication and Design,0.349878
+Ultracompact CMOS-compatible optical logic using carrier depletion in microdisk resonators,Enhancing Telecommunication and Data Communication with Silicon Integrated Photonics,0.451952
+Ultracompact CMOS-compatible optical logic using carrier depletion in microdisk resonators,Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization,0.246467
+Ultracompact CMOS-compatible optical logic using carrier depletion in microdisk resonators,Advancing telecommunications and data communications through silicon photonic technologies (Conference Presentation),0.595646
+Compact silicon-photonic mode-division (de)multiplexer using waveguide-wrapped microdisk resonators,An Integrated Optical Circuit Architecture for Inverse-Designed Silicon Photonic Components,0.625211
+Compact silicon-photonic mode-division (de)multiplexer using waveguide-wrapped microdisk resonators,Reconfigurable optical logic in silicon platform,0.619059
+Compact silicon-photonic mode-division (de)multiplexer using waveguide-wrapped microdisk resonators,Advancing Silicon Photonics Through Machine Learning: From Device Design to Fabrication,0.393006
+Compact silicon-photonic mode-division (de)multiplexer using waveguide-wrapped microdisk resonators,Using Machine Learning Pattern Recognition to Enhance Silicon Photonic Design and Fabrication,0.45192
+Compact silicon-photonic mode-division (de)multiplexer using waveguide-wrapped microdisk resonators,SEMU-Net: A Segmentation-Based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images,0.340399
+Compact silicon-photonic mode-division (de)multiplexer using waveguide-wrapped microdisk resonators,"Ultrafast electro-optical disk modulators for logic, communications, optical repeaters, and wavelength converters",0.74498
+Compact silicon-photonic mode-division (de)multiplexer using waveguide-wrapped microdisk resonators,Automating Photonic Design with Machine Learning,0.400959
+Compact silicon-photonic mode-division (de)multiplexer using waveguide-wrapped microdisk resonators,Ultralow-Power Double Vertical Junction Microdisk Modulators,0.628877
+Compact silicon-photonic mode-division (de)multiplexer using waveguide-wrapped microdisk resonators,A comparison of microresonator devices for WDM-compatible mode-division multiplexing,0.81111
+Compact silicon-photonic mode-division (de)multiplexer using waveguide-wrapped microdisk resonators,Resonant bistable 2 × 2 crossbar switches using dual nanobeams clad with phase-change material,0.444672
+Compact silicon-photonic mode-division (de)multiplexer using waveguide-wrapped microdisk resonators,Feature Correction of a Topologically optimized Mode Demultiplexer Using Deep Neural Networks,0.433135
+Compact silicon-photonic mode-division (de)multiplexer using waveguide-wrapped microdisk resonators,Design and Optimization of pn Junctions in Silicon Microdisk Modulators,0.746149
+Compact silicon-photonic mode-division (de)multiplexer using waveguide-wrapped microdisk resonators,Enabling ROADM in mode division multiplexing networks with mode-selective switches,0.726827
+Compact silicon-photonic mode-division (de)multiplexer using waveguide-wrapped microdisk resonators,"CMOS-compatible optical AND, OR, and XOR gates using voltage-induced free-carrier dispersion and stimulated Raman scattering",0.591102
+Compact silicon-photonic mode-division (de)multiplexer using waveguide-wrapped microdisk resonators,All-optical half-adder based on a hydrogenated amorphous silicon microring resonator,0.58992
+Compact silicon-photonic mode-division (de)multiplexer using waveguide-wrapped microdisk resonators,Ultrafast all-optical arithmetic logic based on hydrogenated amorphous silicon microring resonators,0.591412
+Compact silicon-photonic mode-division (de)multiplexer using waveguide-wrapped microdisk resonators,Silicon Photonics for Next-Generation Optical Processing and Communications,-0.135972
+Compact silicon-photonic mode-division (de)multiplexer using waveguide-wrapped microdisk resonators,Reconfigurable Optical Logic Switches Using Microdisk Resonators,0.653942
+Compact silicon-photonic mode-division (de)multiplexer using waveguide-wrapped microdisk resonators,Data-Driven Prediction of Fabrication Variations in Silicon Photonic Devices,0.380182
+Compact silicon-photonic mode-division (de)multiplexer using waveguide-wrapped microdisk resonators,Inverse design of robust photonic components,0.424468
+Compact silicon-photonic mode-division (de)multiplexer using waveguide-wrapped microdisk resonators,Silicon Reconfigurable Optical Logic Using Phase-Change Materials,0.637217
+Compact silicon-photonic mode-division (de)multiplexer using waveguide-wrapped microdisk resonators,Fabrication aware design of sensitive silicon photonics devices,0.430121
+Compact silicon-photonic mode-division (de)multiplexer using waveguide-wrapped microdisk resonators,Experimentally validated simulation of a mode-sensitive thermo-optic phase-shifter,0.483637
+Compact silicon-photonic mode-division (de)multiplexer using waveguide-wrapped microdisk resonators,Image-to-Image Computer Vision for Advanced Nanophotonic Fabrication and Design,0.33957
+Compact silicon-photonic mode-division (de)multiplexer using waveguide-wrapped microdisk resonators,Enhancing Telecommunication and Data Communication with Silicon Integrated Photonics,0.624851
+Compact silicon-photonic mode-division (de)multiplexer using waveguide-wrapped microdisk resonators,Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization,0.273293
+Compact silicon-photonic mode-division (de)multiplexer using waveguide-wrapped microdisk resonators,Advancing telecommunications and data communications through silicon photonic technologies (Conference Presentation),0.659271
+An Integrated Optical Circuit Architecture for Inverse-Designed Silicon Photonic Components,Reconfigurable optical logic in silicon platform,0.500581
+An Integrated Optical Circuit Architecture for Inverse-Designed Silicon Photonic Components,Advancing Silicon Photonics Through Machine Learning: From Device Design to Fabrication,0.506736
+An Integrated Optical Circuit Architecture for Inverse-Designed Silicon Photonic Components,Using Machine Learning Pattern Recognition to Enhance Silicon Photonic Design and Fabrication,0.562675
+An Integrated Optical Circuit Architecture for Inverse-Designed Silicon Photonic Components,SEMU-Net: A Segmentation-Based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images,0.444874
+An Integrated Optical Circuit Architecture for Inverse-Designed Silicon Photonic Components,"Ultrafast electro-optical disk modulators for logic, communications, optical repeaters, and wavelength converters",0.68282
+An Integrated Optical Circuit Architecture for Inverse-Designed Silicon Photonic Components,Automating Photonic Design with Machine Learning,0.519645
+An Integrated Optical Circuit Architecture for Inverse-Designed Silicon Photonic Components,Ultralow-Power Double Vertical Junction Microdisk Modulators,0.592322
+An Integrated Optical Circuit Architecture for Inverse-Designed Silicon Photonic Components,A comparison of microresonator devices for WDM-compatible mode-division multiplexing,0.604959
+An Integrated Optical Circuit Architecture for Inverse-Designed Silicon Photonic Components,Resonant bistable 2 × 2 crossbar switches using dual nanobeams clad with phase-change material,0.545201
+An Integrated Optical Circuit Architecture for Inverse-Designed Silicon Photonic Components,Feature Correction of a Topologically optimized Mode Demultiplexer Using Deep Neural Networks,0.470726
+An Integrated Optical Circuit Architecture for Inverse-Designed Silicon Photonic Components,Design and Optimization of pn Junctions in Silicon Microdisk Modulators,0.620718
+An Integrated Optical Circuit Architecture for Inverse-Designed Silicon Photonic Components,Enabling ROADM in mode division multiplexing networks with mode-selective switches,0.584559
+An Integrated Optical Circuit Architecture for Inverse-Designed Silicon Photonic Components,"CMOS-compatible optical AND, OR, and XOR gates using voltage-induced free-carrier dispersion and stimulated Raman scattering",0.556817
+An Integrated Optical Circuit Architecture for Inverse-Designed Silicon Photonic Components,All-optical half-adder based on a hydrogenated amorphous silicon microring resonator,0.565732
+An Integrated Optical Circuit Architecture for Inverse-Designed Silicon Photonic Components,Ultrafast all-optical arithmetic logic based on hydrogenated amorphous silicon microring resonators,0.564405
+An Integrated Optical Circuit Architecture for Inverse-Designed Silicon Photonic Components,Silicon Photonics for Next-Generation Optical Processing and Communications,-0.108462
+An Integrated Optical Circuit Architecture for Inverse-Designed Silicon Photonic Components,Reconfigurable Optical Logic Switches Using Microdisk Resonators,0.519792
+An Integrated Optical Circuit Architecture for Inverse-Designed Silicon Photonic Components,Data-Driven Prediction of Fabrication Variations in Silicon Photonic Devices,0.456352
+An Integrated Optical Circuit Architecture for Inverse-Designed Silicon Photonic Components,Inverse design of robust photonic components,0.6204
+An Integrated Optical Circuit Architecture for Inverse-Designed Silicon Photonic Components,Silicon Reconfigurable Optical Logic Using Phase-Change Materials,0.61083
+An Integrated Optical Circuit Architecture for Inverse-Designed Silicon Photonic Components,Fabrication aware design of sensitive silicon photonics devices,0.568856
+An Integrated Optical Circuit Architecture for Inverse-Designed Silicon Photonic Components,Experimentally validated simulation of a mode-sensitive thermo-optic phase-shifter,0.405492
+An Integrated Optical Circuit Architecture for Inverse-Designed Silicon Photonic Components,Image-to-Image Computer Vision for Advanced Nanophotonic Fabrication and Design,0.433569
+An Integrated Optical Circuit Architecture for Inverse-Designed Silicon Photonic Components,Enhancing Telecommunication and Data Communication with Silicon Integrated Photonics,0.607475
+An Integrated Optical Circuit Architecture for Inverse-Designed Silicon Photonic Components,Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization,0.345633
+An Integrated Optical Circuit Architecture for Inverse-Designed Silicon Photonic Components,Advancing telecommunications and data communications through silicon photonic technologies (Conference Presentation),0.6663
+Reconfigurable optical logic in silicon platform,Advancing Silicon Photonics Through Machine Learning: From Device Design to Fabrication,0.278838
+Reconfigurable optical logic in silicon platform,Using Machine Learning Pattern Recognition to Enhance Silicon Photonic Design and Fabrication,0.302351
+Reconfigurable optical logic in silicon platform,SEMU-Net: A Segmentation-Based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images,0.267905
+Reconfigurable optical logic in silicon platform,"Ultrafast electro-optical disk modulators for logic, communications, optical repeaters, and wavelength converters",0.642946
+Reconfigurable optical logic in silicon platform,Automating Photonic Design with Machine Learning,0.37206
+Reconfigurable optical logic in silicon platform,Ultralow-Power Double Vertical Junction Microdisk Modulators,0.54477
+Reconfigurable optical logic in silicon platform,A comparison of microresonator devices for WDM-compatible mode-division multiplexing,0.534248
+Reconfigurable optical logic in silicon platform,Resonant bistable 2 × 2 crossbar switches using dual nanobeams clad with phase-change material,0.5031
+Reconfigurable optical logic in silicon platform,Feature Correction of a Topologically optimized Mode Demultiplexer Using Deep Neural Networks,0.336413
+Reconfigurable optical logic in silicon platform,Design and Optimization of pn Junctions in Silicon Microdisk Modulators,0.615983
+Reconfigurable optical logic in silicon platform,Enabling ROADM in mode division multiplexing networks with mode-selective switches,0.558109
+Reconfigurable optical logic in silicon platform,"CMOS-compatible optical AND, OR, and XOR gates using voltage-induced free-carrier dispersion and stimulated Raman scattering",0.644864
+Reconfigurable optical logic in silicon platform,All-optical half-adder based on a hydrogenated amorphous silicon microring resonator,0.594778
+Reconfigurable optical logic in silicon platform,Ultrafast all-optical arithmetic logic based on hydrogenated amorphous silicon microring resonators,0.575778
+Reconfigurable optical logic in silicon platform,Silicon Photonics for Next-Generation Optical Processing and Communications,-0.085262
+Reconfigurable optical logic in silicon platform,Reconfigurable Optical Logic Switches Using Microdisk Resonators,0.852014
+Reconfigurable optical logic in silicon platform,Data-Driven Prediction of Fabrication Variations in Silicon Photonic Devices,0.281485
+Reconfigurable optical logic in silicon platform,Inverse design of robust photonic components,0.334092
+Reconfigurable optical logic in silicon platform,Silicon Reconfigurable Optical Logic Using Phase-Change Materials,0.791914
+Reconfigurable optical logic in silicon platform,Fabrication aware design of sensitive silicon photonics devices,0.348247
+Reconfigurable optical logic in silicon platform,Experimentally validated simulation of a mode-sensitive thermo-optic phase-shifter,0.531951
+Reconfigurable optical logic in silicon platform,Image-to-Image Computer Vision for Advanced Nanophotonic Fabrication and Design,0.31781
+Reconfigurable optical logic in silicon platform,Enhancing Telecommunication and Data Communication with Silicon Integrated Photonics,0.34405
+Reconfigurable optical logic in silicon platform,Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization,0.202299
+Reconfigurable optical logic in silicon platform,Advancing telecommunications and data communications through silicon photonic technologies (Conference Presentation),0.604327
+Advancing Silicon Photonics Through Machine Learning: From Device Design to Fabrication,Using Machine Learning Pattern Recognition to Enhance Silicon Photonic Design and Fabrication,0.745732
+Advancing Silicon Photonics Through Machine Learning: From Device Design to Fabrication,SEMU-Net: A Segmentation-Based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images,0.711536
+Advancing Silicon Photonics Through Machine Learning: From Device Design to Fabrication,"Ultrafast electro-optical disk modulators for logic, communications, optical repeaters, and wavelength converters",0.402454
+Advancing Silicon Photonics Through Machine Learning: From Device Design to Fabrication,Automating Photonic Design with Machine Learning,0.619674
+Advancing Silicon Photonics Through Machine Learning: From Device Design to Fabrication,Ultralow-Power Double Vertical Junction Microdisk Modulators,0.367859
+Advancing Silicon Photonics Through Machine Learning: From Device Design to Fabrication,A comparison of microresonator devices for WDM-compatible mode-division multiplexing,0.400557
+Advancing Silicon Photonics Through Machine Learning: From Device Design to Fabrication,Resonant bistable 2 × 2 crossbar switches using dual nanobeams clad with phase-change material,0.250042
+Advancing Silicon Photonics Through Machine Learning: From Device Design to Fabrication,Feature Correction of a Topologically optimized Mode Demultiplexer Using Deep Neural Networks,0.52494
+Advancing Silicon Photonics Through Machine Learning: From Device Design to Fabrication,Design and Optimization of pn Junctions in Silicon Microdisk Modulators,0.418636
+Advancing Silicon Photonics Through Machine Learning: From Device Design to Fabrication,Enabling ROADM in mode division multiplexing networks with mode-selective switches,0.475821
+Advancing Silicon Photonics Through Machine Learning: From Device Design to Fabrication,"CMOS-compatible optical AND, OR, and XOR gates using voltage-induced free-carrier dispersion and stimulated Raman scattering",0.450654
+Advancing Silicon Photonics Through Machine Learning: From Device Design to Fabrication,All-optical half-adder based on a hydrogenated amorphous silicon microring resonator,0.385411
+Advancing Silicon Photonics Through Machine Learning: From Device Design to Fabrication,Ultrafast all-optical arithmetic logic based on hydrogenated amorphous silicon microring resonators,0.45127
+Advancing Silicon Photonics Through Machine Learning: From Device Design to Fabrication,Silicon Photonics for Next-Generation Optical Processing and Communications,-0.089026
+Advancing Silicon Photonics Through Machine Learning: From Device Design to Fabrication,Reconfigurable Optical Logic Switches Using Microdisk Resonators,0.30649
+Advancing Silicon Photonics Through Machine Learning: From Device Design to Fabrication,Data-Driven Prediction of Fabrication Variations in Silicon Photonic Devices,0.858297
+Advancing Silicon Photonics Through Machine Learning: From Device Design to Fabrication,Inverse design of robust photonic components,0.757962
+Advancing Silicon Photonics Through Machine Learning: From Device Design to Fabrication,Silicon Reconfigurable Optical Logic Using Phase-Change Materials,0.385716
+Advancing Silicon Photonics Through Machine Learning: From Device Design to Fabrication,Fabrication aware design of sensitive silicon photonics devices,0.835956
+Advancing Silicon Photonics Through Machine Learning: From Device Design to Fabrication,Experimentally validated simulation of a mode-sensitive thermo-optic phase-shifter,0.212598
+Advancing Silicon Photonics Through Machine Learning: From Device Design to Fabrication,Image-to-Image Computer Vision for Advanced Nanophotonic Fabrication and Design,0.6841
+Advancing Silicon Photonics Through Machine Learning: From Device Design to Fabrication,Enhancing Telecommunication and Data Communication with Silicon Integrated Photonics,0.535315
+Advancing Silicon Photonics Through Machine Learning: From Device Design to Fabrication,Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization,0.773339
+Advancing Silicon Photonics Through Machine Learning: From Device Design to Fabrication,Advancing telecommunications and data communications through silicon photonic technologies (Conference Presentation),0.491954
+Using Machine Learning Pattern Recognition to Enhance Silicon Photonic Design and Fabrication,SEMU-Net: A Segmentation-Based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images,0.610616
+Using Machine Learning Pattern Recognition to Enhance Silicon Photonic Design and Fabrication,"Ultrafast electro-optical disk modulators for logic, communications, optical repeaters, and wavelength converters",0.409572
+Using Machine Learning Pattern Recognition to Enhance Silicon Photonic Design and Fabrication,Automating Photonic Design with Machine Learning,0.627279
+Using Machine Learning Pattern Recognition to Enhance Silicon Photonic Design and Fabrication,Ultralow-Power Double Vertical Junction Microdisk Modulators,0.428462
+Using Machine Learning Pattern Recognition to Enhance Silicon Photonic Design and Fabrication,A comparison of microresonator devices for WDM-compatible mode-division multiplexing,0.466917
+Using Machine Learning Pattern Recognition to Enhance Silicon Photonic Design and Fabrication,Resonant bistable 2 × 2 crossbar switches using dual nanobeams clad with phase-change material,0.260159
+Using Machine Learning Pattern Recognition to Enhance Silicon Photonic Design and Fabrication,Feature Correction of a Topologically optimized Mode Demultiplexer Using Deep Neural Networks,0.478364
+Using Machine Learning Pattern Recognition to Enhance Silicon Photonic Design and Fabrication,Design and Optimization of pn Junctions in Silicon Microdisk Modulators,0.449443
+Using Machine Learning Pattern Recognition to Enhance Silicon Photonic Design and Fabrication,Enabling ROADM in mode division multiplexing networks with mode-selective switches,0.485584
+Using Machine Learning Pattern Recognition to Enhance Silicon Photonic Design and Fabrication,"CMOS-compatible optical AND, OR, and XOR gates using voltage-induced free-carrier dispersion and stimulated Raman scattering",0.471425
+Using Machine Learning Pattern Recognition to Enhance Silicon Photonic Design and Fabrication,All-optical half-adder based on a hydrogenated amorphous silicon microring resonator,0.409874
+Using Machine Learning Pattern Recognition to Enhance Silicon Photonic Design and Fabrication,Ultrafast all-optical arithmetic logic based on hydrogenated amorphous silicon microring resonators,0.463274
+Using Machine Learning Pattern Recognition to Enhance Silicon Photonic Design and Fabrication,Silicon Photonics for Next-Generation Optical Processing and Communications,-0.123141
+Using Machine Learning Pattern Recognition to Enhance Silicon Photonic Design and Fabrication,Reconfigurable Optical Logic Switches Using Microdisk Resonators,0.38467
+Using Machine Learning Pattern Recognition to Enhance Silicon Photonic Design and Fabrication,Data-Driven Prediction of Fabrication Variations in Silicon Photonic Devices,0.70026
+Using Machine Learning Pattern Recognition to Enhance Silicon Photonic Design and Fabrication,Inverse design of robust photonic components,0.772246
+Using Machine Learning Pattern Recognition to Enhance Silicon Photonic Design and Fabrication,Silicon Reconfigurable Optical Logic Using Phase-Change Materials,0.425225
+Using Machine Learning Pattern Recognition to Enhance Silicon Photonic Design and Fabrication,Fabrication aware design of sensitive silicon photonics devices,0.733779
+Using Machine Learning Pattern Recognition to Enhance Silicon Photonic Design and Fabrication,Experimentally validated simulation of a mode-sensitive thermo-optic phase-shifter,0.340762
+Using Machine Learning Pattern Recognition to Enhance Silicon Photonic Design and Fabrication,Image-to-Image Computer Vision for Advanced Nanophotonic Fabrication and Design,0.649968
+Using Machine Learning Pattern Recognition to Enhance Silicon Photonic Design and Fabrication,Enhancing Telecommunication and Data Communication with Silicon Integrated Photonics,0.598503
+Using Machine Learning Pattern Recognition to Enhance Silicon Photonic Design and Fabrication,Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization,0.648398
+Using Machine Learning Pattern Recognition to Enhance Silicon Photonic Design and Fabrication,Advancing telecommunications and data communications through silicon photonic technologies (Conference Presentation),0.556582
+SEMU-Net: A Segmentation-Based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images,"Ultrafast electro-optical disk modulators for logic, communications, optical repeaters, and wavelength converters",0.364722
+SEMU-Net: A Segmentation-Based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images,Automating Photonic Design with Machine Learning,0.559298
+SEMU-Net: A Segmentation-Based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images,Ultralow-Power Double Vertical Junction Microdisk Modulators,0.304916
+SEMU-Net: A Segmentation-Based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images,A comparison of microresonator devices for WDM-compatible mode-division multiplexing,0.28031
+SEMU-Net: A Segmentation-Based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images,Resonant bistable 2 × 2 crossbar switches using dual nanobeams clad with phase-change material,0.249826
+SEMU-Net: A Segmentation-Based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images,Feature Correction of a Topologically optimized Mode Demultiplexer Using Deep Neural Networks,0.426917
+SEMU-Net: A Segmentation-Based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images,Design and Optimization of pn Junctions in Silicon Microdisk Modulators,0.346696
+SEMU-Net: A Segmentation-Based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images,Enabling ROADM in mode division multiplexing networks with mode-selective switches,0.432623
+SEMU-Net: A Segmentation-Based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images,"CMOS-compatible optical AND, OR, and XOR gates using voltage-induced free-carrier dispersion and stimulated Raman scattering",0.353739
+SEMU-Net: A Segmentation-Based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images,All-optical half-adder based on a hydrogenated amorphous silicon microring resonator,0.262444
+SEMU-Net: A Segmentation-Based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images,Ultrafast all-optical arithmetic logic based on hydrogenated amorphous silicon microring resonators,0.330943
+SEMU-Net: A Segmentation-Based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images,Silicon Photonics for Next-Generation Optical Processing and Communications,-0.066368
+SEMU-Net: A Segmentation-Based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images,Reconfigurable Optical Logic Switches Using Microdisk Resonators,0.285911
+SEMU-Net: A Segmentation-Based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images,Data-Driven Prediction of Fabrication Variations in Silicon Photonic Devices,0.806935
+SEMU-Net: A Segmentation-Based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images,Inverse design of robust photonic components,0.670795
+SEMU-Net: A Segmentation-Based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images,Silicon Reconfigurable Optical Logic Using Phase-Change Materials,0.344915
+SEMU-Net: A Segmentation-Based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images,Fabrication aware design of sensitive silicon photonics devices,0.697071
+SEMU-Net: A Segmentation-Based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images,Experimentally validated simulation of a mode-sensitive thermo-optic phase-shifter,0.22126
+SEMU-Net: A Segmentation-Based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images,Image-to-Image Computer Vision for Advanced Nanophotonic Fabrication and Design,0.680984
+SEMU-Net: A Segmentation-Based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images,Enhancing Telecommunication and Data Communication with Silicon Integrated Photonics,0.445649
+SEMU-Net: A Segmentation-Based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images,Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization,0.665451
+SEMU-Net: A Segmentation-Based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images,Advancing telecommunications and data communications through silicon photonic technologies (Conference Presentation),0.411259
+"Ultrafast electro-optical disk modulators for logic, communications, optical repeaters, and wavelength converters",Automating Photonic Design with Machine Learning,0.430087
+"Ultrafast electro-optical disk modulators for logic, communications, optical repeaters, and wavelength converters",Ultralow-Power Double Vertical Junction Microdisk Modulators,0.714821
+"Ultrafast electro-optical disk modulators for logic, communications, optical repeaters, and wavelength converters",A comparison of microresonator devices for WDM-compatible mode-division multiplexing,0.645482
+"Ultrafast electro-optical disk modulators for logic, communications, optical repeaters, and wavelength converters",Resonant bistable 2 × 2 crossbar switches using dual nanobeams clad with phase-change material,0.511271
+"Ultrafast electro-optical disk modulators for logic, communications, optical repeaters, and wavelength converters",Feature Correction of a Topologically optimized Mode Demultiplexer Using Deep Neural Networks,0.401182
+"Ultrafast electro-optical disk modulators for logic, communications, optical repeaters, and wavelength converters",Design and Optimization of pn Junctions in Silicon Microdisk Modulators,0.76488
+"Ultrafast electro-optical disk modulators for logic, communications, optical repeaters, and wavelength converters",Enabling ROADM in mode division multiplexing networks with mode-selective switches,0.573948
+"Ultrafast electro-optical disk modulators for logic, communications, optical repeaters, and wavelength converters","CMOS-compatible optical AND, OR, and XOR gates using voltage-induced free-carrier dispersion and stimulated Raman scattering",0.628518
+"Ultrafast electro-optical disk modulators for logic, communications, optical repeaters, and wavelength converters",All-optical half-adder based on a hydrogenated amorphous silicon microring resonator,0.557884
+"Ultrafast electro-optical disk modulators for logic, communications, optical repeaters, and wavelength converters",Ultrafast all-optical arithmetic logic based on hydrogenated amorphous silicon microring resonators,0.578841
+"Ultrafast electro-optical disk modulators for logic, communications, optical repeaters, and wavelength converters",Silicon Photonics for Next-Generation Optical Processing and Communications,-0.14324
+"Ultrafast electro-optical disk modulators for logic, communications, optical repeaters, and wavelength converters",Reconfigurable Optical Logic Switches Using Microdisk Resonators,0.605731
+"Ultrafast electro-optical disk modulators for logic, communications, optical repeaters, and wavelength converters",Data-Driven Prediction of Fabrication Variations in Silicon Photonic Devices,0.389378
+"Ultrafast electro-optical disk modulators for logic, communications, optical repeaters, and wavelength converters",Inverse design of robust photonic components,0.426687
+"Ultrafast electro-optical disk modulators for logic, communications, optical repeaters, and wavelength converters",Silicon Reconfigurable Optical Logic Using Phase-Change Materials,0.591422
+"Ultrafast electro-optical disk modulators for logic, communications, optical repeaters, and wavelength converters",Fabrication aware design of sensitive silicon photonics devices,0.404982
+"Ultrafast electro-optical disk modulators for logic, communications, optical repeaters, and wavelength converters",Experimentally validated simulation of a mode-sensitive thermo-optic phase-shifter,0.422196
+"Ultrafast electro-optical disk modulators for logic, communications, optical repeaters, and wavelength converters",Image-to-Image Computer Vision for Advanced Nanophotonic Fabrication and Design,0.368008
+"Ultrafast electro-optical disk modulators for logic, communications, optical repeaters, and wavelength converters",Enhancing Telecommunication and Data Communication with Silicon Integrated Photonics,0.537218
+"Ultrafast electro-optical disk modulators for logic, communications, optical repeaters, and wavelength converters",Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization,0.267938
+"Ultrafast electro-optical disk modulators for logic, communications, optical repeaters, and wavelength converters",Advancing telecommunications and data communications through silicon photonic technologies (Conference Presentation),0.640346
+Automating Photonic Design with Machine Learning,Ultralow-Power Double Vertical Junction Microdisk Modulators,0.368464
+Automating Photonic Design with Machine Learning,A comparison of microresonator devices for WDM-compatible mode-division multiplexing,0.452779
+Automating Photonic Design with Machine Learning,Resonant bistable 2 × 2 crossbar switches using dual nanobeams clad with phase-change material,0.335685
+Automating Photonic Design with Machine Learning,Feature Correction of a Topologically optimized Mode Demultiplexer Using Deep Neural Networks,0.478624
+Automating Photonic Design with Machine Learning,Design and Optimization of pn Junctions in Silicon Microdisk Modulators,0.435423
+Automating Photonic Design with Machine Learning,Enabling ROADM in mode division multiplexing networks with mode-selective switches,0.518392
+Automating Photonic Design with Machine Learning,"CMOS-compatible optical AND, OR, and XOR gates using voltage-induced free-carrier dispersion and stimulated Raman scattering",0.450822
+Automating Photonic Design with Machine Learning,All-optical half-adder based on a hydrogenated amorphous silicon microring resonator,0.410125
+Automating Photonic Design with Machine Learning,Ultrafast all-optical arithmetic logic based on hydrogenated amorphous silicon microring resonators,0.457651
+Automating Photonic Design with Machine Learning,Silicon Photonics for Next-Generation Optical Processing and Communications,-0.11543
+Automating Photonic Design with Machine Learning,Reconfigurable Optical Logic Switches Using Microdisk Resonators,0.378792
+Automating Photonic Design with Machine Learning,Data-Driven Prediction of Fabrication Variations in Silicon Photonic Devices,0.60666
+Automating Photonic Design with Machine Learning,Inverse design of robust photonic components,0.637043
+Automating Photonic Design with Machine Learning,Silicon Reconfigurable Optical Logic Using Phase-Change Materials,0.398443
+Automating Photonic Design with Machine Learning,Fabrication aware design of sensitive silicon photonics devices,0.623213
+Automating Photonic Design with Machine Learning,Experimentally validated simulation of a mode-sensitive thermo-optic phase-shifter,0.441278
+Automating Photonic Design with Machine Learning,Image-to-Image Computer Vision for Advanced Nanophotonic Fabrication and Design,0.563513
+Automating Photonic Design with Machine Learning,Enhancing Telecommunication and Data Communication with Silicon Integrated Photonics,0.509741
+Automating Photonic Design with Machine Learning,Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization,0.502171
+Automating Photonic Design with Machine Learning,Advancing telecommunications and data communications through silicon photonic technologies (Conference Presentation),0.54702
+Ultralow-Power Double Vertical Junction Microdisk Modulators,A comparison of microresonator devices for WDM-compatible mode-division multiplexing,0.657764
+Ultralow-Power Double Vertical Junction Microdisk Modulators,Resonant bistable 2 × 2 crossbar switches using dual nanobeams clad with phase-change material,0.427095
+Ultralow-Power Double Vertical Junction Microdisk Modulators,Feature Correction of a Topologically optimized Mode Demultiplexer Using Deep Neural Networks,0.4033
+Ultralow-Power Double Vertical Junction Microdisk Modulators,Design and Optimization of pn Junctions in Silicon Microdisk Modulators,0.808181
+Ultralow-Power Double Vertical Junction Microdisk Modulators,Enabling ROADM in mode division multiplexing networks with mode-selective switches,0.52608
+Ultralow-Power Double Vertical Junction Microdisk Modulators,"CMOS-compatible optical AND, OR, and XOR gates using voltage-induced free-carrier dispersion and stimulated Raman scattering",0.546986
+Ultralow-Power Double Vertical Junction Microdisk Modulators,All-optical half-adder based on a hydrogenated amorphous silicon microring resonator,0.495916
+Ultralow-Power Double Vertical Junction Microdisk Modulators,Ultrafast all-optical arithmetic logic based on hydrogenated amorphous silicon microring resonators,0.556919
+Ultralow-Power Double Vertical Junction Microdisk Modulators,Silicon Photonics for Next-Generation Optical Processing and Communications,-0.130964
+Ultralow-Power Double Vertical Junction Microdisk Modulators,Reconfigurable Optical Logic Switches Using Microdisk Resonators,0.539462
+Ultralow-Power Double Vertical Junction Microdisk Modulators,Data-Driven Prediction of Fabrication Variations in Silicon Photonic Devices,0.350752
+Ultralow-Power Double Vertical Junction Microdisk Modulators,Inverse design of robust photonic components,0.417092
+Ultralow-Power Double Vertical Junction Microdisk Modulators,Silicon Reconfigurable Optical Logic Using Phase-Change Materials,0.49913
+Ultralow-Power Double Vertical Junction Microdisk Modulators,Fabrication aware design of sensitive silicon photonics devices,0.374287
+Ultralow-Power Double Vertical Junction Microdisk Modulators,Experimentally validated simulation of a mode-sensitive thermo-optic phase-shifter,0.38968
+Ultralow-Power Double Vertical Junction Microdisk Modulators,Image-to-Image Computer Vision for Advanced Nanophotonic Fabrication and Design,0.287654
+Ultralow-Power Double Vertical Junction Microdisk Modulators,Enhancing Telecommunication and Data Communication with Silicon Integrated Photonics,0.511669
+Ultralow-Power Double Vertical Junction Microdisk Modulators,Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization,0.260289
+Ultralow-Power Double Vertical Junction Microdisk Modulators,Advancing telecommunications and data communications through silicon photonic technologies (Conference Presentation),0.57211
+A comparison of microresonator devices for WDM-compatible mode-division multiplexing,Resonant bistable 2 × 2 crossbar switches using dual nanobeams clad with phase-change material,0.427195
+A comparison of microresonator devices for WDM-compatible mode-division multiplexing,Feature Correction of a Topologically optimized Mode Demultiplexer Using Deep Neural Networks,0.425909
+A comparison of microresonator devices for WDM-compatible mode-division multiplexing,Design and Optimization of pn Junctions in Silicon Microdisk Modulators,0.720557
+A comparison of microresonator devices for WDM-compatible mode-division multiplexing,Enabling ROADM in mode division multiplexing networks with mode-selective switches,0.633404
+A comparison of microresonator devices for WDM-compatible mode-division multiplexing,"CMOS-compatible optical AND, OR, and XOR gates using voltage-induced free-carrier dispersion and stimulated Raman scattering",0.553099
+A comparison of microresonator devices for WDM-compatible mode-division multiplexing,All-optical half-adder based on a hydrogenated amorphous silicon microring resonator,0.605948
+A comparison of microresonator devices for WDM-compatible mode-division multiplexing,Ultrafast all-optical arithmetic logic based on hydrogenated amorphous silicon microring resonators,0.634767
+A comparison of microresonator devices for WDM-compatible mode-division multiplexing,Silicon Photonics for Next-Generation Optical Processing and Communications,-0.133385
+A comparison of microresonator devices for WDM-compatible mode-division multiplexing,Reconfigurable Optical Logic Switches Using Microdisk Resonators,0.526866
+A comparison of microresonator devices for WDM-compatible mode-division multiplexing,Data-Driven Prediction of Fabrication Variations in Silicon Photonic Devices,0.339673
+A comparison of microresonator devices for WDM-compatible mode-division multiplexing,Inverse design of robust photonic components,0.441453
+A comparison of microresonator devices for WDM-compatible mode-division multiplexing,Silicon Reconfigurable Optical Logic Using Phase-Change Materials,0.542747
+A comparison of microresonator devices for WDM-compatible mode-division multiplexing,Fabrication aware design of sensitive silicon photonics devices,0.43831
+A comparison of microresonator devices for WDM-compatible mode-division multiplexing,Experimentally validated simulation of a mode-sensitive thermo-optic phase-shifter,0.451923
+A comparison of microresonator devices for WDM-compatible mode-division multiplexing,Image-to-Image Computer Vision for Advanced Nanophotonic Fabrication and Design,0.317839
+A comparison of microresonator devices for WDM-compatible mode-division multiplexing,Enhancing Telecommunication and Data Communication with Silicon Integrated Photonics,0.61014
+A comparison of microresonator devices for WDM-compatible mode-division multiplexing,Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization,0.277802
+A comparison of microresonator devices for WDM-compatible mode-division multiplexing,Advancing telecommunications and data communications through silicon photonic technologies (Conference Presentation),0.622722
+Resonant bistable 2 × 2 crossbar switches using dual nanobeams clad with phase-change material,Feature Correction of a Topologically optimized Mode Demultiplexer Using Deep Neural Networks,0.270955
+Resonant bistable 2 × 2 crossbar switches using dual nanobeams clad with phase-change material,Design and Optimization of pn Junctions in Silicon Microdisk Modulators,0.452421
+Resonant bistable 2 × 2 crossbar switches using dual nanobeams clad with phase-change material,Enabling ROADM in mode division multiplexing networks with mode-selective switches,0.442485
+Resonant bistable 2 × 2 crossbar switches using dual nanobeams clad with phase-change material,"CMOS-compatible optical AND, OR, and XOR gates using voltage-induced free-carrier dispersion and stimulated Raman scattering",0.459364
+Resonant bistable 2 × 2 crossbar switches using dual nanobeams clad with phase-change material,All-optical half-adder based on a hydrogenated amorphous silicon microring resonator,0.473166
+Resonant bistable 2 × 2 crossbar switches using dual nanobeams clad with phase-change material,Ultrafast all-optical arithmetic logic based on hydrogenated amorphous silicon microring resonators,0.391944
+Resonant bistable 2 × 2 crossbar switches using dual nanobeams clad with phase-change material,Silicon Photonics for Next-Generation Optical Processing and Communications,-0.147983
+Resonant bistable 2 × 2 crossbar switches using dual nanobeams clad with phase-change material,Reconfigurable Optical Logic Switches Using Microdisk Resonators,0.523535
+Resonant bistable 2 × 2 crossbar switches using dual nanobeams clad with phase-change material,Data-Driven Prediction of Fabrication Variations in Silicon Photonic Devices,0.26187
+Resonant bistable 2 × 2 crossbar switches using dual nanobeams clad with phase-change material,Inverse design of robust photonic components,0.303387
+Resonant bistable 2 × 2 crossbar switches using dual nanobeams clad with phase-change material,Silicon Reconfigurable Optical Logic Using Phase-Change Materials,0.687546
+Resonant bistable 2 × 2 crossbar switches using dual nanobeams clad with phase-change material,Fabrication aware design of sensitive silicon photonics devices,0.236024
+Resonant bistable 2 × 2 crossbar switches using dual nanobeams clad with phase-change material,Experimentally validated simulation of a mode-sensitive thermo-optic phase-shifter,0.520083
+Resonant bistable 2 × 2 crossbar switches using dual nanobeams clad with phase-change material,Image-to-Image Computer Vision for Advanced Nanophotonic Fabrication and Design,0.309879
+Resonant bistable 2 × 2 crossbar switches using dual nanobeams clad with phase-change material,Enhancing Telecommunication and Data Communication with Silicon Integrated Photonics,0.399362
+Resonant bistable 2 × 2 crossbar switches using dual nanobeams clad with phase-change material,Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization,0.225863
+Resonant bistable 2 × 2 crossbar switches using dual nanobeams clad with phase-change material,Advancing telecommunications and data communications through silicon photonic technologies (Conference Presentation),0.537262
+Feature Correction of a Topologically optimized Mode Demultiplexer Using Deep Neural Networks,Design and Optimization of pn Junctions in Silicon Microdisk Modulators,0.378919
+Feature Correction of a Topologically optimized Mode Demultiplexer Using Deep Neural Networks,Enabling ROADM in mode division multiplexing networks with mode-selective switches,0.563413
+Feature Correction of a Topologically optimized Mode Demultiplexer Using Deep Neural Networks,"CMOS-compatible optical AND, OR, and XOR gates using voltage-induced free-carrier dispersion and stimulated Raman scattering",0.338664
+Feature Correction of a Topologically optimized Mode Demultiplexer Using Deep Neural Networks,All-optical half-adder based on a hydrogenated amorphous silicon microring resonator,0.292796
+Feature Correction of a Topologically optimized Mode Demultiplexer Using Deep Neural Networks,Ultrafast all-optical arithmetic logic based on hydrogenated amorphous silicon microring resonators,0.368957
+Feature Correction of a Topologically optimized Mode Demultiplexer Using Deep Neural Networks,Silicon Photonics for Next-Generation Optical Processing and Communications,-0.118775
+Feature Correction of a Topologically optimized Mode Demultiplexer Using Deep Neural Networks,Reconfigurable Optical Logic Switches Using Microdisk Resonators,0.347225
+Feature Correction of a Topologically optimized Mode Demultiplexer Using Deep Neural Networks,Data-Driven Prediction of Fabrication Variations in Silicon Photonic Devices,0.497226
+Feature Correction of a Topologically optimized Mode Demultiplexer Using Deep Neural Networks,Inverse design of robust photonic components,0.658337
+Feature Correction of a Topologically optimized Mode Demultiplexer Using Deep Neural Networks,Silicon Reconfigurable Optical Logic Using Phase-Change Materials,0.290462
+Feature Correction of a Topologically optimized Mode Demultiplexer Using Deep Neural Networks,Fabrication aware design of sensitive silicon photonics devices,0.572083
+Feature Correction of a Topologically optimized Mode Demultiplexer Using Deep Neural Networks,Experimentally validated simulation of a mode-sensitive thermo-optic phase-shifter,0.332947
+Feature Correction of a Topologically optimized Mode Demultiplexer Using Deep Neural Networks,Image-to-Image Computer Vision for Advanced Nanophotonic Fabrication and Design,0.379742
+Feature Correction of a Topologically optimized Mode Demultiplexer Using Deep Neural Networks,Enhancing Telecommunication and Data Communication with Silicon Integrated Photonics,0.377598
+Feature Correction of a Topologically optimized Mode Demultiplexer Using Deep Neural Networks,Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization,0.518281
+Feature Correction of a Topologically optimized Mode Demultiplexer Using Deep Neural Networks,Advancing telecommunications and data communications through silicon photonic technologies (Conference Presentation),0.39754
+Design and Optimization of pn Junctions in Silicon Microdisk Modulators,Enabling ROADM in mode division multiplexing networks with mode-selective switches,0.52909
+Design and Optimization of pn Junctions in Silicon Microdisk Modulators,"CMOS-compatible optical AND, OR, and XOR gates using voltage-induced free-carrier dispersion and stimulated Raman scattering",0.576124
+Design and Optimization of pn Junctions in Silicon Microdisk Modulators,All-optical half-adder based on a hydrogenated amorphous silicon microring resonator,0.567137
+Design and Optimization of pn Junctions in Silicon Microdisk Modulators,Ultrafast all-optical arithmetic logic based on hydrogenated amorphous silicon microring resonators,0.540826
+Design and Optimization of pn Junctions in Silicon Microdisk Modulators,Silicon Photonics for Next-Generation Optical Processing and Communications,-0.138816
+Design and Optimization of pn Junctions in Silicon Microdisk Modulators,Reconfigurable Optical Logic Switches Using Microdisk Resonators,0.547915
+Design and Optimization of pn Junctions in Silicon Microdisk Modulators,Data-Driven Prediction of Fabrication Variations in Silicon Photonic Devices,0.407279
+Design and Optimization of pn Junctions in Silicon Microdisk Modulators,Inverse design of robust photonic components,0.412428
+Design and Optimization of pn Junctions in Silicon Microdisk Modulators,Silicon Reconfigurable Optical Logic Using Phase-Change Materials,0.568621
+Design and Optimization of pn Junctions in Silicon Microdisk Modulators,Fabrication aware design of sensitive silicon photonics devices,0.393252
+Design and Optimization of pn Junctions in Silicon Microdisk Modulators,Experimentally validated simulation of a mode-sensitive thermo-optic phase-shifter,0.464399
+Design and Optimization of pn Junctions in Silicon Microdisk Modulators,Image-to-Image Computer Vision for Advanced Nanophotonic Fabrication and Design,0.350604
+Design and Optimization of pn Junctions in Silicon Microdisk Modulators,Enhancing Telecommunication and Data Communication with Silicon Integrated Photonics,0.520911
+Design and Optimization of pn Junctions in Silicon Microdisk Modulators,Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization,0.256709
+Design and Optimization of pn Junctions in Silicon Microdisk Modulators,Advancing telecommunications and data communications through silicon photonic technologies (Conference Presentation),0.603127
+Enabling ROADM in mode division multiplexing networks with mode-selective switches,"CMOS-compatible optical AND, OR, and XOR gates using voltage-induced free-carrier dispersion and stimulated Raman scattering",0.561446
+Enabling ROADM in mode division multiplexing networks with mode-selective switches,All-optical half-adder based on a hydrogenated amorphous silicon microring resonator,0.481283
+Enabling ROADM in mode division multiplexing networks with mode-selective switches,Ultrafast all-optical arithmetic logic based on hydrogenated amorphous silicon microring resonators,0.573685
+Enabling ROADM in mode division multiplexing networks with mode-selective switches,Silicon Photonics for Next-Generation Optical Processing and Communications,-0.117185
+Enabling ROADM in mode division multiplexing networks with mode-selective switches,Reconfigurable Optical Logic Switches Using Microdisk Resonators,0.625899
+Enabling ROADM in mode division multiplexing networks with mode-selective switches,Data-Driven Prediction of Fabrication Variations in Silicon Photonic Devices,0.492981
+Enabling ROADM in mode division multiplexing networks with mode-selective switches,Inverse design of robust photonic components,0.549279
+Enabling ROADM in mode division multiplexing networks with mode-selective switches,Silicon Reconfigurable Optical Logic Using Phase-Change Materials,0.565763
+Enabling ROADM in mode division multiplexing networks with mode-selective switches,Fabrication aware design of sensitive silicon photonics devices,0.580466
+Enabling ROADM in mode division multiplexing networks with mode-selective switches,Experimentally validated simulation of a mode-sensitive thermo-optic phase-shifter,0.591128
+Enabling ROADM in mode division multiplexing networks with mode-selective switches,Image-to-Image Computer Vision for Advanced Nanophotonic Fabrication and Design,0.376839
+Enabling ROADM in mode division multiplexing networks with mode-selective switches,Enhancing Telecommunication and Data Communication with Silicon Integrated Photonics,0.610056
+Enabling ROADM in mode division multiplexing networks with mode-selective switches,Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization,0.402618
+Enabling ROADM in mode division multiplexing networks with mode-selective switches,Advancing telecommunications and data communications through silicon photonic technologies (Conference Presentation),0.689061
+"CMOS-compatible optical AND, OR, and XOR gates using voltage-induced free-carrier dispersion and stimulated Raman scattering",All-optical half-adder based on a hydrogenated amorphous silicon microring resonator,0.647488
+"CMOS-compatible optical AND, OR, and XOR gates using voltage-induced free-carrier dispersion and stimulated Raman scattering",Ultrafast all-optical arithmetic logic based on hydrogenated amorphous silicon microring resonators,0.680534
+"CMOS-compatible optical AND, OR, and XOR gates using voltage-induced free-carrier dispersion and stimulated Raman scattering",Silicon Photonics for Next-Generation Optical Processing and Communications,-0.119159
+"CMOS-compatible optical AND, OR, and XOR gates using voltage-induced free-carrier dispersion and stimulated Raman scattering",Reconfigurable Optical Logic Switches Using Microdisk Resonators,0.630833
+"CMOS-compatible optical AND, OR, and XOR gates using voltage-induced free-carrier dispersion and stimulated Raman scattering",Data-Driven Prediction of Fabrication Variations in Silicon Photonic Devices,0.403837
+"CMOS-compatible optical AND, OR, and XOR gates using voltage-induced free-carrier dispersion and stimulated Raman scattering",Inverse design of robust photonic components,0.424563
+"CMOS-compatible optical AND, OR, and XOR gates using voltage-induced free-carrier dispersion and stimulated Raman scattering",Silicon Reconfigurable Optical Logic Using Phase-Change Materials,0.669636
+"CMOS-compatible optical AND, OR, and XOR gates using voltage-induced free-carrier dispersion and stimulated Raman scattering",Fabrication aware design of sensitive silicon photonics devices,0.46669
+"CMOS-compatible optical AND, OR, and XOR gates using voltage-induced free-carrier dispersion and stimulated Raman scattering",Experimentally validated simulation of a mode-sensitive thermo-optic phase-shifter,0.471019
+"CMOS-compatible optical AND, OR, and XOR gates using voltage-induced free-carrier dispersion and stimulated Raman scattering",Image-to-Image Computer Vision for Advanced Nanophotonic Fabrication and Design,0.411853
+"CMOS-compatible optical AND, OR, and XOR gates using voltage-induced free-carrier dispersion and stimulated Raman scattering",Enhancing Telecommunication and Data Communication with Silicon Integrated Photonics,0.517519
+"CMOS-compatible optical AND, OR, and XOR gates using voltage-induced free-carrier dispersion and stimulated Raman scattering",Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization,0.346382
+"CMOS-compatible optical AND, OR, and XOR gates using voltage-induced free-carrier dispersion and stimulated Raman scattering",Advancing telecommunications and data communications through silicon photonic technologies (Conference Presentation),0.645517
+All-optical half-adder based on a hydrogenated amorphous silicon microring resonator,Ultrafast all-optical arithmetic logic based on hydrogenated amorphous silicon microring resonators,0.854831
+All-optical half-adder based on a hydrogenated amorphous silicon microring resonator,Silicon Photonics for Next-Generation Optical Processing and Communications,-0.190137
+All-optical half-adder based on a hydrogenated amorphous silicon microring resonator,Reconfigurable Optical Logic Switches Using Microdisk Resonators,0.59304
+All-optical half-adder based on a hydrogenated amorphous silicon microring resonator,Data-Driven Prediction of Fabrication Variations in Silicon Photonic Devices,0.342192
+All-optical half-adder based on a hydrogenated amorphous silicon microring resonator,Inverse design of robust photonic components,0.376174
+All-optical half-adder based on a hydrogenated amorphous silicon microring resonator,Silicon Reconfigurable Optical Logic Using Phase-Change Materials,0.688678
+All-optical half-adder based on a hydrogenated amorphous silicon microring resonator,Fabrication aware design of sensitive silicon photonics devices,0.369915
+All-optical half-adder based on a hydrogenated amorphous silicon microring resonator,Experimentally validated simulation of a mode-sensitive thermo-optic phase-shifter,0.426078
+All-optical half-adder based on a hydrogenated amorphous silicon microring resonator,Image-to-Image Computer Vision for Advanced Nanophotonic Fabrication and Design,0.324064
+All-optical half-adder based on a hydrogenated amorphous silicon microring resonator,Enhancing Telecommunication and Data Communication with Silicon Integrated Photonics,0.464966
+All-optical half-adder based on a hydrogenated amorphous silicon microring resonator,Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization,0.28244
+All-optical half-adder based on a hydrogenated amorphous silicon microring resonator,Advancing telecommunications and data communications through silicon photonic technologies (Conference Presentation),0.60351
+Ultrafast all-optical arithmetic logic based on hydrogenated amorphous silicon microring resonators,Silicon Photonics for Next-Generation Optical Processing and Communications,-0.154333
+Ultrafast all-optical arithmetic logic based on hydrogenated amorphous silicon microring resonators,Reconfigurable Optical Logic Switches Using Microdisk Resonators,0.580608
+Ultrafast all-optical arithmetic logic based on hydrogenated amorphous silicon microring resonators,Data-Driven Prediction of Fabrication Variations in Silicon Photonic Devices,0.407136
+Ultrafast all-optical arithmetic logic based on hydrogenated amorphous silicon microring resonators,Inverse design of robust photonic components,0.4552
+Ultrafast all-optical arithmetic logic based on hydrogenated amorphous silicon microring resonators,Silicon Reconfigurable Optical Logic Using Phase-Change Materials,0.60079
+Ultrafast all-optical arithmetic logic based on hydrogenated amorphous silicon microring resonators,Fabrication aware design of sensitive silicon photonics devices,0.468304
+Ultrafast all-optical arithmetic logic based on hydrogenated amorphous silicon microring resonators,Experimentally validated simulation of a mode-sensitive thermo-optic phase-shifter,0.393893
+Ultrafast all-optical arithmetic logic based on hydrogenated amorphous silicon microring resonators,Image-to-Image Computer Vision for Advanced Nanophotonic Fabrication and Design,0.353515
+Ultrafast all-optical arithmetic logic based on hydrogenated amorphous silicon microring resonators,Enhancing Telecommunication and Data Communication with Silicon Integrated Photonics,0.515314
+Ultrafast all-optical arithmetic logic based on hydrogenated amorphous silicon microring resonators,Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization,0.355238
+Ultrafast all-optical arithmetic logic based on hydrogenated amorphous silicon microring resonators,Advancing telecommunications and data communications through silicon photonic technologies (Conference Presentation),0.623248
+Silicon Photonics for Next-Generation Optical Processing and Communications,Reconfigurable Optical Logic Switches Using Microdisk Resonators,-0.056066
+Silicon Photonics for Next-Generation Optical Processing and Communications,Data-Driven Prediction of Fabrication Variations in Silicon Photonic Devices,-0.070294
+Silicon Photonics for Next-Generation Optical Processing and Communications,Inverse design of robust photonic components,-0.10195
+Silicon Photonics for Next-Generation Optical Processing and Communications,Silicon Reconfigurable Optical Logic Using Phase-Change Materials,-0.076317
+Silicon Photonics for Next-Generation Optical Processing and Communications,Fabrication aware design of sensitive silicon photonics devices,-0.074987
+Silicon Photonics for Next-Generation Optical Processing and Communications,Experimentally validated simulation of a mode-sensitive thermo-optic phase-shifter,-0.068081
+Silicon Photonics for Next-Generation Optical Processing and Communications,Image-to-Image Computer Vision for Advanced Nanophotonic Fabrication and Design,-0.146927
+Silicon Photonics for Next-Generation Optical Processing and Communications,Enhancing Telecommunication and Data Communication with Silicon Integrated Photonics,-0.086169
+Silicon Photonics for Next-Generation Optical Processing and Communications,Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization,-0.127338
+Silicon Photonics for Next-Generation Optical Processing and Communications,Advancing telecommunications and data communications through silicon photonic technologies (Conference Presentation),-0.126252
+Reconfigurable Optical Logic Switches Using Microdisk Resonators,Data-Driven Prediction of Fabrication Variations in Silicon Photonic Devices,0.305037
+Reconfigurable Optical Logic Switches Using Microdisk Resonators,Inverse design of robust photonic components,0.37085
+Reconfigurable Optical Logic Switches Using Microdisk Resonators,Silicon Reconfigurable Optical Logic Using Phase-Change Materials,0.826137
+Reconfigurable Optical Logic Switches Using Microdisk Resonators,Fabrication aware design of sensitive silicon photonics devices,0.373902
+Reconfigurable Optical Logic Switches Using Microdisk Resonators,Experimentally validated simulation of a mode-sensitive thermo-optic phase-shifter,0.613035
+Reconfigurable Optical Logic Switches Using Microdisk Resonators,Image-to-Image Computer Vision for Advanced Nanophotonic Fabrication and Design,0.361324
+Reconfigurable Optical Logic Switches Using Microdisk Resonators,Enhancing Telecommunication and Data Communication with Silicon Integrated Photonics,0.431092
+Reconfigurable Optical Logic Switches Using Microdisk Resonators,Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization,0.240613
+Reconfigurable Optical Logic Switches Using Microdisk Resonators,Advancing telecommunications and data communications through silicon photonic technologies (Conference Presentation),0.638364
+Data-Driven Prediction of Fabrication Variations in Silicon Photonic Devices,Inverse design of robust photonic components,0.693141
+Data-Driven Prediction of Fabrication Variations in Silicon Photonic Devices,Silicon Reconfigurable Optical Logic Using Phase-Change Materials,0.375578
+Data-Driven Prediction of Fabrication Variations in Silicon Photonic Devices,Fabrication aware design of sensitive silicon photonics devices,0.821446
+Data-Driven Prediction of Fabrication Variations in Silicon Photonic Devices,Experimentally validated simulation of a mode-sensitive thermo-optic phase-shifter,0.233989
+Data-Driven Prediction of Fabrication Variations in Silicon Photonic Devices,Image-to-Image Computer Vision for Advanced Nanophotonic Fabrication and Design,0.726196
+Data-Driven Prediction of Fabrication Variations in Silicon Photonic Devices,Enhancing Telecommunication and Data Communication with Silicon Integrated Photonics,0.527463
+Data-Driven Prediction of Fabrication Variations in Silicon Photonic Devices,Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization,0.759685
+Data-Driven Prediction of Fabrication Variations in Silicon Photonic Devices,Advancing telecommunications and data communications through silicon photonic technologies (Conference Presentation),0.473476
+Inverse design of robust photonic components,Silicon Reconfigurable Optical Logic Using Phase-Change Materials,0.389034
+Inverse design of robust photonic components,Fabrication aware design of sensitive silicon photonics devices,0.793508
+Inverse design of robust photonic components,Experimentally validated simulation of a mode-sensitive thermo-optic phase-shifter,0.359886
+Inverse design of robust photonic components,Image-to-Image Computer Vision for Advanced Nanophotonic Fabrication and Design,0.632339
+Inverse design of robust photonic components,Enhancing Telecommunication and Data Communication with Silicon Integrated Photonics,0.552545
+Inverse design of robust photonic components,Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization,0.699054
+Inverse design of robust photonic components,Advancing telecommunications and data communications through silicon photonic technologies (Conference Presentation),0.536353
+Silicon Reconfigurable Optical Logic Using Phase-Change Materials,Fabrication aware design of sensitive silicon photonics devices,0.398771
+Silicon Reconfigurable Optical Logic Using Phase-Change Materials,Experimentally validated simulation of a mode-sensitive thermo-optic phase-shifter,0.590914
+Silicon Reconfigurable Optical Logic Using Phase-Change Materials,Image-to-Image Computer Vision for Advanced Nanophotonic Fabrication and Design,0.414981
+Silicon Reconfigurable Optical Logic Using Phase-Change Materials,Enhancing Telecommunication and Data Communication with Silicon Integrated Photonics,0.475941
+Silicon Reconfigurable Optical Logic Using Phase-Change Materials,Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization,0.27619
+Silicon Reconfigurable Optical Logic Using Phase-Change Materials,Advancing telecommunications and data communications through silicon photonic technologies (Conference Presentation),0.708414
+Fabrication aware design of sensitive silicon photonics devices,Experimentally validated simulation of a mode-sensitive thermo-optic phase-shifter,0.237012
+Fabrication aware design of sensitive silicon photonics devices,Image-to-Image Computer Vision for Advanced Nanophotonic Fabrication and Design,0.702755
+Fabrication aware design of sensitive silicon photonics devices,Enhancing Telecommunication and Data Communication with Silicon Integrated Photonics,0.541605
+Fabrication aware design of sensitive silicon photonics devices,Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization,0.733305
+Fabrication aware design of sensitive silicon photonics devices,Advancing telecommunications and data communications through silicon photonic technologies (Conference Presentation),0.519624
+Experimentally validated simulation of a mode-sensitive thermo-optic phase-shifter,Image-to-Image Computer Vision for Advanced Nanophotonic Fabrication and Design,0.29927
+Experimentally validated simulation of a mode-sensitive thermo-optic phase-shifter,Enhancing Telecommunication and Data Communication with Silicon Integrated Photonics,0.446605
+Experimentally validated simulation of a mode-sensitive thermo-optic phase-shifter,Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization,0.21481
+Experimentally validated simulation of a mode-sensitive thermo-optic phase-shifter,Advancing telecommunications and data communications through silicon photonic technologies (Conference Presentation),0.601411
+Image-to-Image Computer Vision for Advanced Nanophotonic Fabrication and Design,Enhancing Telecommunication and Data Communication with Silicon Integrated Photonics,0.455249
+Image-to-Image Computer Vision for Advanced Nanophotonic Fabrication and Design,Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization,0.67669
+Image-to-Image Computer Vision for Advanced Nanophotonic Fabrication and Design,Advancing telecommunications and data communications through silicon photonic technologies (Conference Presentation),0.464625
+Enhancing Telecommunication and Data Communication with Silicon Integrated Photonics,Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization,0.378425
+Enhancing Telecommunication and Data Communication with Silicon Integrated Photonics,Advancing telecommunications and data communications through silicon photonic technologies (Conference Presentation),0.741585
+Advancing PIC Development Using Machine Learning: from Design to Fabrication to Optical Characterization,Advancing telecommunications and data communications through silicon photonic technologies (Conference Presentation),0.371841

@@ -1,0 +1,7 @@
+title_i,title_j,cosine_similarity
+A prototype modular detector design for high resolution positron emission mammography imaging,Monte-Carlo modeling of scintillator crystal performance for stratified PET detectors with DETECT2000,0.607259
+A prototype modular detector design for high resolution positron emission mammography imaging,Monte Carlo simulation using DETECT2000 of a multi-layered scintillation block and fit to experimental data,0.646416
+A prototype modular detector design for high resolution positron emission mammography imaging,Optimize position readout circuits in positron emission tomography front-end electronics,0.687187
+Monte-Carlo modeling of scintillator crystal performance for stratified PET detectors with DETECT2000,Monte Carlo simulation using DETECT2000 of a multi-layered scintillation block and fit to experimental data,0.786416
+Monte-Carlo modeling of scintillator crystal performance for stratified PET detectors with DETECT2000,Optimize position readout circuits in positron emission tomography front-end electronics,0.614323
+Monte Carlo simulation using DETECT2000 of a multi-layered scintillation block and fit to experimental data,Optimize position readout circuits in positron emission tomography front-end electronics,0.514583

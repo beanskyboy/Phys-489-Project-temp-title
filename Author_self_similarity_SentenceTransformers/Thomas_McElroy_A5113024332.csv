@@ -1,596 +1,529 @@
-abstract_i,abstract_j,cosine_similarity
-0,1,0.844716
-0,2,0.786309
-0,3,0.317734
-0,4,0.439205
-0,5,0.534672
-0,6,0.495436
-0,7,0.020496
-0,8,0.452768
-0,9,0.398207
-0,10,0.809267
-0,11,0.30749
-0,12,0.803631
-0,13,0.788061
-0,14,0.837999
-0,15,0.596634
-0,16,0.494644
-0,17,0.72092
-0,18,0.488948
-0,19,0.597042
-0,20,0.757559
-0,21,0.403247
-0,22,0.287755
-0,23,0.546839
-0,24,0.748679
-0,25,0.032541
-0,26,0.498814
-0,27,0.574615
-0,28,0.599353
-0,29,0.511936
-0,30,0.138247
-0,31,0.522088
-0,32,0.532863
-0,33,0.367463
-0,34,0.587379
-1,2,0.837838
-1,3,0.35838
-1,4,0.412403
-1,5,0.551346
-1,6,0.518494
-1,7,-0.006277
-1,8,0.45077
-1,9,0.453418
-1,10,0.79903
-1,11,0.337514
-1,12,0.734754
-1,13,0.833376
-1,14,0.851156
-1,15,0.603891
-1,16,0.474871
-1,17,0.732016
-1,18,0.497579
-1,19,0.63503
-1,20,0.807521
-1,21,0.388595
-1,22,0.229471
-1,23,0.497229
-1,24,0.729445
-1,25,-0.01926
-1,26,0.483827
-1,27,0.543043
-1,28,0.514019
-1,29,0.456437
-1,30,0.04435
-1,31,0.526322
-1,32,0.54907
-1,33,0.321402
-1,34,0.561063
-2,3,0.340875
-2,4,0.357095
-2,5,0.536082
-2,6,0.433127
-2,7,-0.013961
-2,8,0.376158
-2,9,0.421478
-2,10,0.66402
-2,11,0.31156
-2,12,0.62506
-2,13,0.75962
-2,14,0.790029
-2,15,0.584281
-2,16,0.341367
-2,17,0.735121
-2,18,0.401528
-2,19,0.581244
-2,20,0.977232
-2,21,0.312563
-2,22,0.160686
-2,23,0.478608
-2,24,0.644625
-2,25,0.021737
-2,26,0.350468
-2,27,0.514628
-2,28,0.469781
-2,29,0.42578
-2,30,0.086021
-2,31,0.46689
-2,32,0.501615
-2,33,0.293049
-2,34,0.520241
-3,4,0.213424
-3,5,0.63711
-3,6,0.661008
-3,7,0.073463
-3,8,0.338859
-3,9,0.692106
-3,10,0.324737
-3,11,0.709385
-3,12,0.26565
-3,13,0.314275
-3,14,0.315105
-3,15,0.612865
-3,16,0.27362
-3,17,0.349439
-3,18,0.711461
-3,19,0.597046
-3,20,0.319941
-3,21,0.598024
-3,22,0.220887
-3,23,0.360856
-3,24,0.48805
-3,25,-0.03035
-3,26,0.288552
-3,27,0.340038
-3,28,0.368441
-3,29,0.292881
-3,30,0.134031
-3,31,0.690912
-3,32,0.59395
-3,33,0.335108
-3,34,0.706643
-4,5,0.367388
-4,6,0.41547
-4,7,0.078145
-4,8,0.467956
-4,9,0.26777
-4,10,0.404726
-4,11,0.273936
-4,12,0.575165
-4,13,0.528281
-4,14,0.521538
-4,15,0.399932
-4,16,0.483898
-4,17,0.37884
-4,18,0.375518
-4,19,0.391672
-4,20,0.336361
-4,21,0.48222
-4,22,0.334329
-4,23,0.291706
-4,24,0.489105
-4,25,0.190351
-4,26,0.474421
-4,27,0.386005
-4,28,0.369864
-4,29,0.307143
-4,30,0.091873
-4,31,0.394851
-4,32,0.475684
-4,33,0.286844
-4,34,0.442214
-5,6,0.673313
-5,7,0.035889
-5,8,0.460833
-5,9,0.698296
-5,10,0.454751
-5,11,0.65504
-5,12,0.499659
-5,13,0.50689
-5,14,0.520075
-5,15,0.691623
-5,16,0.391535
-5,17,0.577299
-5,18,0.680813
-5,19,0.666715
-5,20,0.504192
-5,21,0.56416
-5,22,0.357853
-5,23,0.400913
-5,24,0.660823
-5,25,-0.077947
-5,26,0.387273
-5,27,0.400729
-5,28,0.405622
-5,29,0.328851
-5,30,0.039688
-5,31,0.655874
-5,32,0.703233
-5,33,0.438807
-5,34,0.725586
-6,7,0.076237
-6,8,0.563217
-6,9,0.691998
-6,10,0.4938
-6,11,0.6275
-6,12,0.481221
-6,13,0.488964
-6,14,0.468743
-6,15,0.70279
-6,16,0.563393
-6,17,0.469605
-6,18,0.769344
-6,19,0.710235
-6,20,0.404348
-6,21,0.727518
-6,22,0.377938
-6,23,0.501467
-6,24,0.615876
-6,25,-0.007902
-6,26,0.581331
-6,27,0.507533
-6,28,0.479746
-6,29,0.426846
-6,30,0.066371
-6,31,0.784864
-6,32,0.831649
-6,33,0.46456
-6,34,0.788138
-7,8,0.023063
-7,9,0.096948
-7,10,0.026521
-7,11,0.099064
-7,12,0.001431
-7,13,0.037937
-7,14,0.041532
-7,15,0.070562
-7,16,0.055916
-7,17,-0.008366
-7,18,0.071655
-7,19,0.070169
-7,20,-0.018112
-7,21,0.10788
-7,22,0.004265
-7,23,0.031426
-7,24,0.004781
-7,25,0.050738
-7,26,0.051829
-7,27,0.019393
-7,28,0.04931
-7,29,0.066258
-7,30,-0.006299
-7,31,0.079645
-7,32,0.078801
-7,33,0.09365
-7,34,0.098507
-8,9,0.352453
-8,10,0.521138
-8,11,0.330514
-8,12,0.512309
-8,13,0.388614
-8,14,0.408184
-8,15,0.432829
-8,16,0.672965
-8,17,0.387811
-8,18,0.481063
-8,19,0.442232
-8,20,0.330313
-8,21,0.478363
-8,22,0.602517
-8,23,0.361646
-8,24,0.66761
-8,25,-0.029074
-8,26,0.677652
-8,27,0.46507
-8,28,0.351043
-8,29,0.320546
-8,30,0.013371
-8,31,0.517198
-8,32,0.592284
-8,33,0.709472
-8,34,0.508565
-9,10,0.36656
-9,11,0.651348
-9,12,0.381941
-9,13,0.433945
-9,14,0.435923
-9,15,0.645057
-9,16,0.300671
-9,17,0.412797
-9,18,0.753828
-9,19,0.633757
-9,20,0.415528
-9,21,0.644963
-9,22,0.236575
-9,23,0.363939
-9,24,0.492797
-9,25,-0.01928
-9,26,0.303707
-9,27,0.359557
-9,28,0.341552
-9,29,0.3025
-9,30,-0.017643
-9,31,0.733916
-9,32,0.679469
-9,33,0.318074
-9,34,0.699963
-10,11,0.27377
-10,12,0.739138
-10,13,0.669251
-10,14,0.715448
-10,15,0.5108
-10,16,0.55622
-10,17,0.605159
-10,18,0.504005
-10,19,0.532281
-10,20,0.630331
-10,21,0.378263
-10,22,0.37865
-10,23,0.485206
-10,24,0.740748
-10,25,0.063455
-10,26,0.580735
-10,27,0.530435
-10,28,0.545442
-10,29,0.470548
-10,30,0.096082
-10,31,0.508722
-10,32,0.47595
-10,33,0.407722
-10,34,0.496295
-11,12,0.29241
-11,13,0.332112
-11,14,0.317079
-11,15,0.543292
-11,16,0.250052
-11,17,0.362132
-11,18,0.568796
-11,19,0.512214
-11,20,0.29776
-11,21,0.529857
-11,22,0.20136
-11,23,0.401658
-11,24,0.451522
-11,25,-0.038562
-11,26,0.255506
-11,27,0.378404
-11,28,0.377885
-11,29,0.348993
-11,30,0.083923
-11,31,0.545262
-11,32,0.562626
-11,33,0.344613
-11,34,0.601663
-12,13,0.753323
-12,14,0.775683
-12,15,0.531987
-12,16,0.56186
-12,17,0.584011
-12,18,0.474461
-12,19,0.537861
-12,20,0.60543
-12,21,0.456523
-12,22,0.375166
-12,23,0.468084
-12,24,0.71975
-12,25,0.134843
-12,26,0.557603
-12,27,0.504555
-12,28,0.51071
-12,29,0.44763
-12,30,0.07608
-12,31,0.501301
-12,32,0.535819
-12,33,0.373733
-12,34,0.517849
-13,14,0.927257
-13,15,0.580194
-13,16,0.371926
-13,17,0.647965
-13,18,0.465664
-13,19,0.613431
-13,20,0.735337
-13,21,0.43744
-13,22,0.210537
-13,23,0.486437
-13,24,0.647068
-13,25,0.141379
-13,26,0.382068
-13,27,0.524704
-13,28,0.526758
-13,29,0.468156
-13,30,0.081218
-13,31,0.4961
-13,32,0.549682
-13,33,0.240443
-13,34,0.563773
-14,15,0.580697
-14,16,0.400222
-14,17,0.689774
-14,18,0.45308
-14,19,0.602553
-14,20,0.7681
-14,21,0.415718
-14,22,0.23678
-14,23,0.489387
-14,24,0.689168
-14,25,0.121726
-14,26,0.401899
-14,27,0.532261
-14,28,0.532018
-14,29,0.47525
-14,30,0.077929
-14,31,0.498208
-14,32,0.531157
-14,33,0.269355
-14,34,0.567313
-15,16,0.380768
-15,17,0.614968
-15,18,0.750587
-15,19,0.952912
-15,20,0.552306
-15,21,0.58095
-15,22,0.316592
-15,23,0.46532
-15,24,0.624743
-15,25,-0.00204
-15,26,0.390209
-15,27,0.433298
-15,28,0.443915
-15,29,0.388103
-15,30,0.113799
-15,31,0.763955
-15,32,0.755206
-15,33,0.390713
-15,34,0.795264
-16,17,0.36242
-16,18,0.424561
-16,19,0.382442
-16,20,0.314735
-16,21,0.407164
-16,22,0.507868
-16,23,0.329265
-16,24,0.591544
-16,25,0.020221
-16,26,0.985384
-16,27,0.427204
-16,28,0.35392
-16,29,0.290791
-16,30,0.104261
-16,31,0.442059
-16,32,0.54078
-16,33,0.504532
-16,34,0.41043
-17,18,0.413134
-17,19,0.613442
-17,20,0.713158
-17,21,0.324754
-17,22,0.243342
-17,23,0.417491
-17,24,0.649312
-17,25,8.6e-05
-17,26,0.369086
-17,27,0.468305
-17,28,0.442248
-17,29,0.361185
-17,30,0.083401
-17,31,0.456222
-17,32,0.516576
-17,33,0.395742
-17,34,0.531257
-18,19,0.768173
-18,20,0.386089
-18,21,0.775351
-18,22,0.352729
-18,23,0.410998
-18,24,0.590249
-18,25,-0.010646
-18,26,0.427838
-18,27,0.443318
-18,28,0.458301
-18,29,0.379818
-18,30,0.025756
-18,31,0.897152
-18,32,0.758898
-18,33,0.384013
-18,34,0.81901
-19,20,0.557863
-19,21,0.59715
-19,22,0.32603
-19,23,0.422697
-19,24,0.630862
-19,25,-0.016009
-19,26,0.393946
-19,27,0.436061
-19,28,0.429594
-19,29,0.375005
-19,30,0.097045
-19,31,0.752884
-19,32,0.752451
-19,33,0.352648
-19,34,0.795289
-20,21,0.298064
-20,22,0.150502
-20,23,0.45804
-20,24,0.61372
-20,25,0.03527
-20,26,0.325761
-20,27,0.496787
-20,28,0.453792
-20,29,0.413271
-20,30,0.087193
-20,31,0.433219
-20,32,0.470633
-20,33,0.255547
-20,34,0.480826
-21,22,0.333256
-21,23,0.331844
-21,24,0.474592
-21,25,0.072367
-21,26,0.4004
-21,27,0.40788
-21,28,0.368157
-21,29,0.319813
-21,30,0.046427
-21,31,0.736481
-21,32,0.718979
-21,33,0.382466
-21,34,0.737778
-22,23,0.201872
-22,24,0.396526
-22,25,-0.010139
-22,26,0.490957
-22,27,0.258693
-22,28,0.33626
-22,29,0.240762
-22,30,0.115321
-22,31,0.35941
-22,32,0.359825
-22,33,0.593972
-22,34,0.288695
-23,24,0.503572
-23,25,0.006299
-23,26,0.344621
-23,27,0.856302
-23,28,0.8353
-23,29,0.899033
-23,30,0.143608
-23,31,0.496383
-23,32,0.461664
-23,33,0.322955
-23,34,0.434606
-24,25,-0.039454
-24,26,0.601372
-24,27,0.562517
-24,28,0.539137
-24,29,0.429761
-24,30,0.082839
-24,31,0.598696
-24,32,0.645035
-24,33,0.507614
-24,34,0.668137
-25,26,0.024057
-25,27,-0.007159
-25,28,0.037885
-25,29,0.022898
-25,30,0.038293
-25,31,0.020636
-25,32,0.026763
-25,33,-0.026411
-25,34,-0.011665
-26,27,0.441274
-26,28,0.366985
-26,29,0.308084
-26,30,0.120201
-26,31,0.452282
-26,32,0.549383
-26,33,0.493651
-26,34,0.42179
-27,28,0.823628
-27,29,0.844598
-27,30,0.063775
-27,31,0.51635
-27,32,0.488302
-27,33,0.33483
-27,34,0.464975
-28,29,0.878196
-28,30,0.207864
-28,31,0.513623
-28,32,0.44609
-28,33,0.31674
-28,34,0.473732
-29,30,0.185348
-29,31,0.450216
-29,32,0.375354
-29,33,0.255336
-29,34,0.388941
-30,31,0.060825
-30,32,0.072009
-30,33,0.009165
-30,34,0.062288
-31,32,0.803675
-31,33,0.36734
-31,34,0.804896
-32,33,0.426482
-32,34,0.791303
-33,34,0.381558
+title_i,title_j,cosine_similarity
+"Search for Neutrinoless Double-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mi>β</mml:mi></mml:mrow></mml:math>Decay with the Complete EXO-200 Dataset",Search for dark matter with a 231-day exposure of liquid argon using DEAP-3600 at SNOLAB,0.498208
+"Search for Neutrinoless Double-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mi>β</mml:mi></mml:mrow></mml:math>Decay with the Complete EXO-200 Dataset",nEXO: neutrinoless double beta decay search beyond 10<sup>28</sup> year half-life sensitivity,0.837999
+"Search for Neutrinoless Double-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mi>β</mml:mi></mml:mrow></mml:math>Decay with the Complete EXO-200 Dataset",First Results from the DEAP-3600 Dark Matter Search with Argon at SNOLAB,0.45308
+"Search for Neutrinoless Double-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mi>β</mml:mi></mml:mrow></mml:math>Decay with the Complete EXO-200 Dataset",First Direct Detection Constraints on Planck-Scale Mass Dark Matter with Multiple-Scatter Signatures Using the DEAP-3600 Detector,0.435923
+"Search for Neutrinoless Double-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mi>β</mml:mi></mml:mrow></mml:math>Decay with the Complete EXO-200 Dataset",Electromagnetic backgrounds and potassium-42 activity in the DEAP-3600 dark matter detector,0.567313
+"Search for Neutrinoless Double-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mi>β</mml:mi></mml:mrow></mml:math>Decay with the Complete EXO-200 Dataset",Two-year optical site characterization for the Pacific Ocean Neutrino Experiment (P-ONE) in the Cascadia Basin,0.489387
+"Search for Neutrinoless Double-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mi>β</mml:mi></mml:mrow></mml:math>Decay with the Complete EXO-200 Dataset",Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector,0.315105
+"Search for Neutrinoless Double-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mi>β</mml:mi></mml:mrow></mml:math>Decay with the Complete EXO-200 Dataset",Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment,0.689168
+"Search for Neutrinoless Double-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mi>β</mml:mi></mml:mrow></mml:math>Decay with the Complete EXO-200 Dataset",Pulse-shape discrimination against low-energy Ar-39 beta decays in liquid argon with 4.5 tonne-years of DEAP-3600 data,0.531157
+"Search for Neutrinoless Double-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mi>β</mml:mi></mml:mrow></mml:math>Decay with the Complete EXO-200 Dataset","Search for Majoron-emitting modes of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> double beta decay with the complete EXO-200 dataset",0.790029
+"Search for Neutrinoless Double-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mi>β</mml:mi></mml:mrow></mml:math>Decay with the Complete EXO-200 Dataset",Search for MeV electron recoils from dark matter in EXO-200,0.520075
+"Search for Neutrinoless Double-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mi>β</mml:mi></mml:mrow></mml:math>Decay with the Complete EXO-200 Dataset",P-ONE second pathfinder mission: STRAW-b,0.47525
+"Search for Neutrinoless Double-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mi>β</mml:mi></mml:mrow></mml:math>Decay with the Complete EXO-200 Dataset",Reflectivity of VUV-sensitive silicon photomultipliers in liquid Xenon,0.269355
+"Search for Neutrinoless Double-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mi>β</mml:mi></mml:mrow></mml:math>Decay with the Complete EXO-200 Dataset",The liquid-argon scintillation pulseshape in DEAP-3600,0.468743
+"Search for Neutrinoless Double-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mi>β</mml:mi></mml:mrow></mml:math>Decay with the Complete EXO-200 Dataset",Precision measurement of the specific activity of $$^{39}$$Ar in atmospheric argon with the DEAP-3600 detector,0.580697
+"Search for Neutrinoless Double-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mi>β</mml:mi></mml:mrow></mml:math>Decay with the Complete EXO-200 Dataset","Erratum: Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector [Phys. Rev. D <b>102</b>, 082001 (2020)]",0.31708
+"Search for Neutrinoless Double-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mi>β</mml:mi></mml:mrow></mml:math>Decay with the Complete EXO-200 Dataset",Simulation of charge readout with segmented tiles in nEXO,0.775684
+"Search for Neutrinoless Double-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mi>β</mml:mi></mml:mrow></mml:math>Decay with the Complete EXO-200 Dataset","Measurement of the Spectral Shape of the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>-Decay of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> to the Ground State of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> in EXO-200 and Comparison with Theory",0.689774
+"Search for Neutrinoless Double-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mi>β</mml:mi></mml:mrow></mml:math>Decay with the Complete EXO-200 Dataset",Generative adversarial networks for scintillation signal simulation in EXO-200,0.521538
+"Search for Neutrinoless Double-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mi>β</mml:mi></mml:mrow></mml:math>Decay with the Complete EXO-200 Dataset",Optical analysis of the Pacific Ocean Neutrino Experiment (P-ONE) site using data from the first pathfinder mooring,0.532261
+"Search for Neutrinoless Double-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mi>β</mml:mi></mml:mrow></mml:math>Decay with the Complete EXO-200 Dataset",Fourier descriptors and neural networks far shape classification,0.121726
+"Search for Neutrinoless Double-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mi>β</mml:mi></mml:mrow></mml:math>Decay with the Complete EXO-200 Dataset",Characterization of external cross-talk from silicon photomultipliers in a liquid xenon detector,0.408184
+"Search for Neutrinoless Double-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mi>β</mml:mi></mml:mrow></mml:math>Decay with the Complete EXO-200 Dataset",Position reconstruction in the DEAP-3600 dark matter search experiment,0.415718
+"Search for Neutrinoless Double-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mi>β</mml:mi></mml:mrow></mml:math>Decay with the Complete EXO-200 Dataset",Considerations for The Application of GPS in Satellites: GPS System Trade Study,0.077929
+"Search for Neutrinoless Double-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mi>β</mml:mi></mml:mrow></mml:math>Decay with the Complete EXO-200 Dataset",Pacific Ocean Neutrino Experiment (P-ONE): prototype line development,0.532018
+"Search for Neutrinoless Double-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mi>β</mml:mi></mml:mrow></mml:math>Decay with the Complete EXO-200 Dataset",Precision Measurement of the Specific Activity of $^{39}$Ar in Atmospheric Argon with the DEAP-3600 Detector,0.602553
+"Search for Neutrinoless Double-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mi>β</mml:mi></mml:mrow></mml:math>Decay with the Complete EXO-200 Dataset",Attitude Determination And Control Of A Spinning Satellite Using The Earth's Magnetic Field.,0.041531
+"Search for Neutrinoless Double-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mi>β</mml:mi></mml:mrow></mml:math>Decay with the Complete EXO-200 Dataset","The EXO-200 detector, part II: auxiliary systems",0.715448
+"Search for Neutrinoless Double-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mi>β</mml:mi></mml:mrow></mml:math>Decay with the Complete EXO-200 Dataset",Search for Two-neutrino Double-Beta Decay of $^{136}\rm Xe$ to the $0^+_1$ excited state of $^{136}\rm Ba$ with the Complete EXO-200 Dataset,0.927257
+"Search for Neutrinoless Double-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mi>β</mml:mi></mml:mrow></mml:math>Decay with the Complete EXO-200 Dataset",Simulation Study of Photon-to-Digital Converter (PDC) Timing Specifications for LoLX Experiment,0.401899
+"Search for Neutrinoless Double-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mi>β</mml:mi></mml:mrow></mml:math>Decay with the Complete EXO-200 Dataset",Measuring Dark Currents in Multiple Cryogenic SiPMs With Sub-pA Sensitivity Using an Automated <i>I–V</i> Multiplexer,0.23678
+"Search for Neutrinoless Double-<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mi>β</mml:mi></mml:mrow></mml:math>Decay with the Complete EXO-200 Dataset",Search for Double Beta Decays of $^{134}$Xe with EXO-200 Phase II,0.851156
+Search for dark matter with a 231-day exposure of liquid argon using DEAP-3600 at SNOLAB,nEXO: neutrinoless double beta decay search beyond 10<sup>28</sup> year half-life sensitivity,0.522088
+Search for dark matter with a 231-day exposure of liquid argon using DEAP-3600 at SNOLAB,First Results from the DEAP-3600 Dark Matter Search with Argon at SNOLAB,0.897152
+Search for dark matter with a 231-day exposure of liquid argon using DEAP-3600 at SNOLAB,First Direct Detection Constraints on Planck-Scale Mass Dark Matter with Multiple-Scatter Signatures Using the DEAP-3600 Detector,0.733916
+Search for dark matter with a 231-day exposure of liquid argon using DEAP-3600 at SNOLAB,Electromagnetic backgrounds and potassium-42 activity in the DEAP-3600 dark matter detector,0.804896
+Search for dark matter with a 231-day exposure of liquid argon using DEAP-3600 at SNOLAB,Two-year optical site characterization for the Pacific Ocean Neutrino Experiment (P-ONE) in the Cascadia Basin,0.496383
+Search for dark matter with a 231-day exposure of liquid argon using DEAP-3600 at SNOLAB,Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector,0.690912
+Search for dark matter with a 231-day exposure of liquid argon using DEAP-3600 at SNOLAB,Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment,0.598696
+Search for dark matter with a 231-day exposure of liquid argon using DEAP-3600 at SNOLAB,Pulse-shape discrimination against low-energy Ar-39 beta decays in liquid argon with 4.5 tonne-years of DEAP-3600 data,0.803675
+Search for dark matter with a 231-day exposure of liquid argon using DEAP-3600 at SNOLAB,"Search for Majoron-emitting modes of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> double beta decay with the complete EXO-200 dataset",0.46689
+Search for dark matter with a 231-day exposure of liquid argon using DEAP-3600 at SNOLAB,Search for MeV electron recoils from dark matter in EXO-200,0.655873
+Search for dark matter with a 231-day exposure of liquid argon using DEAP-3600 at SNOLAB,P-ONE second pathfinder mission: STRAW-b,0.450216
+Search for dark matter with a 231-day exposure of liquid argon using DEAP-3600 at SNOLAB,Reflectivity of VUV-sensitive silicon photomultipliers in liquid Xenon,0.36734
+Search for dark matter with a 231-day exposure of liquid argon using DEAP-3600 at SNOLAB,The liquid-argon scintillation pulseshape in DEAP-3600,0.784864
+Search for dark matter with a 231-day exposure of liquid argon using DEAP-3600 at SNOLAB,Precision measurement of the specific activity of $$^{39}$$Ar in atmospheric argon with the DEAP-3600 detector,0.763955
+Search for dark matter with a 231-day exposure of liquid argon using DEAP-3600 at SNOLAB,"Erratum: Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector [Phys. Rev. D <b>102</b>, 082001 (2020)]",0.545262
+Search for dark matter with a 231-day exposure of liquid argon using DEAP-3600 at SNOLAB,Simulation of charge readout with segmented tiles in nEXO,0.501301
+Search for dark matter with a 231-day exposure of liquid argon using DEAP-3600 at SNOLAB,"Measurement of the Spectral Shape of the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>-Decay of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> to the Ground State of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> in EXO-200 and Comparison with Theory",0.456222
+Search for dark matter with a 231-day exposure of liquid argon using DEAP-3600 at SNOLAB,Generative adversarial networks for scintillation signal simulation in EXO-200,0.394851
+Search for dark matter with a 231-day exposure of liquid argon using DEAP-3600 at SNOLAB,Optical analysis of the Pacific Ocean Neutrino Experiment (P-ONE) site using data from the first pathfinder mooring,0.51635
+Search for dark matter with a 231-day exposure of liquid argon using DEAP-3600 at SNOLAB,Fourier descriptors and neural networks far shape classification,0.020636
+Search for dark matter with a 231-day exposure of liquid argon using DEAP-3600 at SNOLAB,Characterization of external cross-talk from silicon photomultipliers in a liquid xenon detector,0.517198
+Search for dark matter with a 231-day exposure of liquid argon using DEAP-3600 at SNOLAB,Position reconstruction in the DEAP-3600 dark matter search experiment,0.736481
+Search for dark matter with a 231-day exposure of liquid argon using DEAP-3600 at SNOLAB,Considerations for The Application of GPS in Satellites: GPS System Trade Study,0.060825
+Search for dark matter with a 231-day exposure of liquid argon using DEAP-3600 at SNOLAB,Pacific Ocean Neutrino Experiment (P-ONE): prototype line development,0.513623
+Search for dark matter with a 231-day exposure of liquid argon using DEAP-3600 at SNOLAB,Precision Measurement of the Specific Activity of $^{39}$Ar in Atmospheric Argon with the DEAP-3600 Detector,0.752884
+Search for dark matter with a 231-day exposure of liquid argon using DEAP-3600 at SNOLAB,Attitude Determination And Control Of A Spinning Satellite Using The Earth's Magnetic Field.,0.079645
+Search for dark matter with a 231-day exposure of liquid argon using DEAP-3600 at SNOLAB,"The EXO-200 detector, part II: auxiliary systems",0.508722
+Search for dark matter with a 231-day exposure of liquid argon using DEAP-3600 at SNOLAB,Search for Two-neutrino Double-Beta Decay of $^{136}\rm Xe$ to the $0^+_1$ excited state of $^{136}\rm Ba$ with the Complete EXO-200 Dataset,0.4961
+Search for dark matter with a 231-day exposure of liquid argon using DEAP-3600 at SNOLAB,Simulation Study of Photon-to-Digital Converter (PDC) Timing Specifications for LoLX Experiment,0.452282
+Search for dark matter with a 231-day exposure of liquid argon using DEAP-3600 at SNOLAB,Measuring Dark Currents in Multiple Cryogenic SiPMs With Sub-pA Sensitivity Using an Automated <i>I–V</i> Multiplexer,0.35941
+Search for dark matter with a 231-day exposure of liquid argon using DEAP-3600 at SNOLAB,Search for Double Beta Decays of $^{134}$Xe with EXO-200 Phase II,0.526322
+nEXO: neutrinoless double beta decay search beyond 10<sup>28</sup> year half-life sensitivity,First Results from the DEAP-3600 Dark Matter Search with Argon at SNOLAB,0.488948
+nEXO: neutrinoless double beta decay search beyond 10<sup>28</sup> year half-life sensitivity,First Direct Detection Constraints on Planck-Scale Mass Dark Matter with Multiple-Scatter Signatures Using the DEAP-3600 Detector,0.398207
+nEXO: neutrinoless double beta decay search beyond 10<sup>28</sup> year half-life sensitivity,Electromagnetic backgrounds and potassium-42 activity in the DEAP-3600 dark matter detector,0.587379
+nEXO: neutrinoless double beta decay search beyond 10<sup>28</sup> year half-life sensitivity,Two-year optical site characterization for the Pacific Ocean Neutrino Experiment (P-ONE) in the Cascadia Basin,0.546839
+nEXO: neutrinoless double beta decay search beyond 10<sup>28</sup> year half-life sensitivity,Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector,0.317734
+nEXO: neutrinoless double beta decay search beyond 10<sup>28</sup> year half-life sensitivity,Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment,0.748679
+nEXO: neutrinoless double beta decay search beyond 10<sup>28</sup> year half-life sensitivity,Pulse-shape discrimination against low-energy Ar-39 beta decays in liquid argon with 4.5 tonne-years of DEAP-3600 data,0.532863
+nEXO: neutrinoless double beta decay search beyond 10<sup>28</sup> year half-life sensitivity,"Search for Majoron-emitting modes of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> double beta decay with the complete EXO-200 dataset",0.786309
+nEXO: neutrinoless double beta decay search beyond 10<sup>28</sup> year half-life sensitivity,Search for MeV electron recoils from dark matter in EXO-200,0.534672
+nEXO: neutrinoless double beta decay search beyond 10<sup>28</sup> year half-life sensitivity,P-ONE second pathfinder mission: STRAW-b,0.511936
+nEXO: neutrinoless double beta decay search beyond 10<sup>28</sup> year half-life sensitivity,Reflectivity of VUV-sensitive silicon photomultipliers in liquid Xenon,0.367463
+nEXO: neutrinoless double beta decay search beyond 10<sup>28</sup> year half-life sensitivity,The liquid-argon scintillation pulseshape in DEAP-3600,0.495436
+nEXO: neutrinoless double beta decay search beyond 10<sup>28</sup> year half-life sensitivity,Precision measurement of the specific activity of $$^{39}$$Ar in atmospheric argon with the DEAP-3600 detector,0.596634
+nEXO: neutrinoless double beta decay search beyond 10<sup>28</sup> year half-life sensitivity,"Erratum: Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector [Phys. Rev. D <b>102</b>, 082001 (2020)]",0.30749
+nEXO: neutrinoless double beta decay search beyond 10<sup>28</sup> year half-life sensitivity,Simulation of charge readout with segmented tiles in nEXO,0.803631
+nEXO: neutrinoless double beta decay search beyond 10<sup>28</sup> year half-life sensitivity,"Measurement of the Spectral Shape of the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>-Decay of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> to the Ground State of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> in EXO-200 and Comparison with Theory",0.72092
+nEXO: neutrinoless double beta decay search beyond 10<sup>28</sup> year half-life sensitivity,Generative adversarial networks for scintillation signal simulation in EXO-200,0.439205
+nEXO: neutrinoless double beta decay search beyond 10<sup>28</sup> year half-life sensitivity,Optical analysis of the Pacific Ocean Neutrino Experiment (P-ONE) site using data from the first pathfinder mooring,0.574615
+nEXO: neutrinoless double beta decay search beyond 10<sup>28</sup> year half-life sensitivity,Fourier descriptors and neural networks far shape classification,0.032541
+nEXO: neutrinoless double beta decay search beyond 10<sup>28</sup> year half-life sensitivity,Characterization of external cross-talk from silicon photomultipliers in a liquid xenon detector,0.452768
+nEXO: neutrinoless double beta decay search beyond 10<sup>28</sup> year half-life sensitivity,Position reconstruction in the DEAP-3600 dark matter search experiment,0.403247
+nEXO: neutrinoless double beta decay search beyond 10<sup>28</sup> year half-life sensitivity,Considerations for The Application of GPS in Satellites: GPS System Trade Study,0.138247
+nEXO: neutrinoless double beta decay search beyond 10<sup>28</sup> year half-life sensitivity,Pacific Ocean Neutrino Experiment (P-ONE): prototype line development,0.599353
+nEXO: neutrinoless double beta decay search beyond 10<sup>28</sup> year half-life sensitivity,Precision Measurement of the Specific Activity of $^{39}$Ar in Atmospheric Argon with the DEAP-3600 Detector,0.597042
+nEXO: neutrinoless double beta decay search beyond 10<sup>28</sup> year half-life sensitivity,Attitude Determination And Control Of A Spinning Satellite Using The Earth's Magnetic Field.,0.020496
+nEXO: neutrinoless double beta decay search beyond 10<sup>28</sup> year half-life sensitivity,"The EXO-200 detector, part II: auxiliary systems",0.809267
+nEXO: neutrinoless double beta decay search beyond 10<sup>28</sup> year half-life sensitivity,Search for Two-neutrino Double-Beta Decay of $^{136}\rm Xe$ to the $0^+_1$ excited state of $^{136}\rm Ba$ with the Complete EXO-200 Dataset,0.788061
+nEXO: neutrinoless double beta decay search beyond 10<sup>28</sup> year half-life sensitivity,Simulation Study of Photon-to-Digital Converter (PDC) Timing Specifications for LoLX Experiment,0.498814
+nEXO: neutrinoless double beta decay search beyond 10<sup>28</sup> year half-life sensitivity,Measuring Dark Currents in Multiple Cryogenic SiPMs With Sub-pA Sensitivity Using an Automated <i>I–V</i> Multiplexer,0.287755
+nEXO: neutrinoless double beta decay search beyond 10<sup>28</sup> year half-life sensitivity,Search for Double Beta Decays of $^{134}$Xe with EXO-200 Phase II,0.844716
+First Results from the DEAP-3600 Dark Matter Search with Argon at SNOLAB,First Direct Detection Constraints on Planck-Scale Mass Dark Matter with Multiple-Scatter Signatures Using the DEAP-3600 Detector,0.753828
+First Results from the DEAP-3600 Dark Matter Search with Argon at SNOLAB,Electromagnetic backgrounds and potassium-42 activity in the DEAP-3600 dark matter detector,0.81901
+First Results from the DEAP-3600 Dark Matter Search with Argon at SNOLAB,Two-year optical site characterization for the Pacific Ocean Neutrino Experiment (P-ONE) in the Cascadia Basin,0.410998
+First Results from the DEAP-3600 Dark Matter Search with Argon at SNOLAB,Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector,0.711461
+First Results from the DEAP-3600 Dark Matter Search with Argon at SNOLAB,Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment,0.590249
+First Results from the DEAP-3600 Dark Matter Search with Argon at SNOLAB,Pulse-shape discrimination against low-energy Ar-39 beta decays in liquid argon with 4.5 tonne-years of DEAP-3600 data,0.758898
+First Results from the DEAP-3600 Dark Matter Search with Argon at SNOLAB,"Search for Majoron-emitting modes of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> double beta decay with the complete EXO-200 dataset",0.401528
+First Results from the DEAP-3600 Dark Matter Search with Argon at SNOLAB,Search for MeV electron recoils from dark matter in EXO-200,0.680813
+First Results from the DEAP-3600 Dark Matter Search with Argon at SNOLAB,P-ONE second pathfinder mission: STRAW-b,0.379818
+First Results from the DEAP-3600 Dark Matter Search with Argon at SNOLAB,Reflectivity of VUV-sensitive silicon photomultipliers in liquid Xenon,0.384013
+First Results from the DEAP-3600 Dark Matter Search with Argon at SNOLAB,The liquid-argon scintillation pulseshape in DEAP-3600,0.769344
+First Results from the DEAP-3600 Dark Matter Search with Argon at SNOLAB,Precision measurement of the specific activity of $$^{39}$$Ar in atmospheric argon with the DEAP-3600 detector,0.750587
+First Results from the DEAP-3600 Dark Matter Search with Argon at SNOLAB,"Erratum: Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector [Phys. Rev. D <b>102</b>, 082001 (2020)]",0.568796
+First Results from the DEAP-3600 Dark Matter Search with Argon at SNOLAB,Simulation of charge readout with segmented tiles in nEXO,0.474461
+First Results from the DEAP-3600 Dark Matter Search with Argon at SNOLAB,"Measurement of the Spectral Shape of the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>-Decay of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> to the Ground State of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> in EXO-200 and Comparison with Theory",0.413134
+First Results from the DEAP-3600 Dark Matter Search with Argon at SNOLAB,Generative adversarial networks for scintillation signal simulation in EXO-200,0.375518
+First Results from the DEAP-3600 Dark Matter Search with Argon at SNOLAB,Optical analysis of the Pacific Ocean Neutrino Experiment (P-ONE) site using data from the first pathfinder mooring,0.443318
+First Results from the DEAP-3600 Dark Matter Search with Argon at SNOLAB,Fourier descriptors and neural networks far shape classification,-0.010646
+First Results from the DEAP-3600 Dark Matter Search with Argon at SNOLAB,Characterization of external cross-talk from silicon photomultipliers in a liquid xenon detector,0.481063
+First Results from the DEAP-3600 Dark Matter Search with Argon at SNOLAB,Position reconstruction in the DEAP-3600 dark matter search experiment,0.775351
+First Results from the DEAP-3600 Dark Matter Search with Argon at SNOLAB,Considerations for The Application of GPS in Satellites: GPS System Trade Study,0.025756
+First Results from the DEAP-3600 Dark Matter Search with Argon at SNOLAB,Pacific Ocean Neutrino Experiment (P-ONE): prototype line development,0.458301
+First Results from the DEAP-3600 Dark Matter Search with Argon at SNOLAB,Precision Measurement of the Specific Activity of $^{39}$Ar in Atmospheric Argon with the DEAP-3600 Detector,0.768173
+First Results from the DEAP-3600 Dark Matter Search with Argon at SNOLAB,Attitude Determination And Control Of A Spinning Satellite Using The Earth's Magnetic Field.,0.071655
+First Results from the DEAP-3600 Dark Matter Search with Argon at SNOLAB,"The EXO-200 detector, part II: auxiliary systems",0.504005
+First Results from the DEAP-3600 Dark Matter Search with Argon at SNOLAB,Search for Two-neutrino Double-Beta Decay of $^{136}\rm Xe$ to the $0^+_1$ excited state of $^{136}\rm Ba$ with the Complete EXO-200 Dataset,0.465664
+First Results from the DEAP-3600 Dark Matter Search with Argon at SNOLAB,Simulation Study of Photon-to-Digital Converter (PDC) Timing Specifications for LoLX Experiment,0.427838
+First Results from the DEAP-3600 Dark Matter Search with Argon at SNOLAB,Measuring Dark Currents in Multiple Cryogenic SiPMs With Sub-pA Sensitivity Using an Automated <i>I–V</i> Multiplexer,0.352729
+First Results from the DEAP-3600 Dark Matter Search with Argon at SNOLAB,Search for Double Beta Decays of $^{134}$Xe with EXO-200 Phase II,0.497579
+First Direct Detection Constraints on Planck-Scale Mass Dark Matter with Multiple-Scatter Signatures Using the DEAP-3600 Detector,Electromagnetic backgrounds and potassium-42 activity in the DEAP-3600 dark matter detector,0.699963
+First Direct Detection Constraints on Planck-Scale Mass Dark Matter with Multiple-Scatter Signatures Using the DEAP-3600 Detector,Two-year optical site characterization for the Pacific Ocean Neutrino Experiment (P-ONE) in the Cascadia Basin,0.363939
+First Direct Detection Constraints on Planck-Scale Mass Dark Matter with Multiple-Scatter Signatures Using the DEAP-3600 Detector,Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector,0.692106
+First Direct Detection Constraints on Planck-Scale Mass Dark Matter with Multiple-Scatter Signatures Using the DEAP-3600 Detector,Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment,0.492797
+First Direct Detection Constraints on Planck-Scale Mass Dark Matter with Multiple-Scatter Signatures Using the DEAP-3600 Detector,Pulse-shape discrimination against low-energy Ar-39 beta decays in liquid argon with 4.5 tonne-years of DEAP-3600 data,0.679469
+First Direct Detection Constraints on Planck-Scale Mass Dark Matter with Multiple-Scatter Signatures Using the DEAP-3600 Detector,"Search for Majoron-emitting modes of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> double beta decay with the complete EXO-200 dataset",0.421478
+First Direct Detection Constraints on Planck-Scale Mass Dark Matter with Multiple-Scatter Signatures Using the DEAP-3600 Detector,Search for MeV electron recoils from dark matter in EXO-200,0.698296
+First Direct Detection Constraints on Planck-Scale Mass Dark Matter with Multiple-Scatter Signatures Using the DEAP-3600 Detector,P-ONE second pathfinder mission: STRAW-b,0.3025
+First Direct Detection Constraints on Planck-Scale Mass Dark Matter with Multiple-Scatter Signatures Using the DEAP-3600 Detector,Reflectivity of VUV-sensitive silicon photomultipliers in liquid Xenon,0.318074
+First Direct Detection Constraints on Planck-Scale Mass Dark Matter with Multiple-Scatter Signatures Using the DEAP-3600 Detector,The liquid-argon scintillation pulseshape in DEAP-3600,0.691998
+First Direct Detection Constraints on Planck-Scale Mass Dark Matter with Multiple-Scatter Signatures Using the DEAP-3600 Detector,Precision measurement of the specific activity of $$^{39}$$Ar in atmospheric argon with the DEAP-3600 detector,0.645057
+First Direct Detection Constraints on Planck-Scale Mass Dark Matter with Multiple-Scatter Signatures Using the DEAP-3600 Detector,"Erratum: Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector [Phys. Rev. D <b>102</b>, 082001 (2020)]",0.651348
+First Direct Detection Constraints on Planck-Scale Mass Dark Matter with Multiple-Scatter Signatures Using the DEAP-3600 Detector,Simulation of charge readout with segmented tiles in nEXO,0.381941
+First Direct Detection Constraints on Planck-Scale Mass Dark Matter with Multiple-Scatter Signatures Using the DEAP-3600 Detector,"Measurement of the Spectral Shape of the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>-Decay of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> to the Ground State of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> in EXO-200 and Comparison with Theory",0.412797
+First Direct Detection Constraints on Planck-Scale Mass Dark Matter with Multiple-Scatter Signatures Using the DEAP-3600 Detector,Generative adversarial networks for scintillation signal simulation in EXO-200,0.26777
+First Direct Detection Constraints on Planck-Scale Mass Dark Matter with Multiple-Scatter Signatures Using the DEAP-3600 Detector,Optical analysis of the Pacific Ocean Neutrino Experiment (P-ONE) site using data from the first pathfinder mooring,0.359557
+First Direct Detection Constraints on Planck-Scale Mass Dark Matter with Multiple-Scatter Signatures Using the DEAP-3600 Detector,Fourier descriptors and neural networks far shape classification,-0.01928
+First Direct Detection Constraints on Planck-Scale Mass Dark Matter with Multiple-Scatter Signatures Using the DEAP-3600 Detector,Characterization of external cross-talk from silicon photomultipliers in a liquid xenon detector,0.352453
+First Direct Detection Constraints on Planck-Scale Mass Dark Matter with Multiple-Scatter Signatures Using the DEAP-3600 Detector,Position reconstruction in the DEAP-3600 dark matter search experiment,0.644963
+First Direct Detection Constraints on Planck-Scale Mass Dark Matter with Multiple-Scatter Signatures Using the DEAP-3600 Detector,Considerations for The Application of GPS in Satellites: GPS System Trade Study,-0.017643
+First Direct Detection Constraints on Planck-Scale Mass Dark Matter with Multiple-Scatter Signatures Using the DEAP-3600 Detector,Pacific Ocean Neutrino Experiment (P-ONE): prototype line development,0.341552
+First Direct Detection Constraints on Planck-Scale Mass Dark Matter with Multiple-Scatter Signatures Using the DEAP-3600 Detector,Precision Measurement of the Specific Activity of $^{39}$Ar in Atmospheric Argon with the DEAP-3600 Detector,0.633757
+First Direct Detection Constraints on Planck-Scale Mass Dark Matter with Multiple-Scatter Signatures Using the DEAP-3600 Detector,Attitude Determination And Control Of A Spinning Satellite Using The Earth's Magnetic Field.,0.096948
+First Direct Detection Constraints on Planck-Scale Mass Dark Matter with Multiple-Scatter Signatures Using the DEAP-3600 Detector,"The EXO-200 detector, part II: auxiliary systems",0.36656
+First Direct Detection Constraints on Planck-Scale Mass Dark Matter with Multiple-Scatter Signatures Using the DEAP-3600 Detector,Search for Two-neutrino Double-Beta Decay of $^{136}\rm Xe$ to the $0^+_1$ excited state of $^{136}\rm Ba$ with the Complete EXO-200 Dataset,0.433945
+First Direct Detection Constraints on Planck-Scale Mass Dark Matter with Multiple-Scatter Signatures Using the DEAP-3600 Detector,Simulation Study of Photon-to-Digital Converter (PDC) Timing Specifications for LoLX Experiment,0.303707
+First Direct Detection Constraints on Planck-Scale Mass Dark Matter with Multiple-Scatter Signatures Using the DEAP-3600 Detector,Measuring Dark Currents in Multiple Cryogenic SiPMs With Sub-pA Sensitivity Using an Automated <i>I–V</i> Multiplexer,0.236575
+First Direct Detection Constraints on Planck-Scale Mass Dark Matter with Multiple-Scatter Signatures Using the DEAP-3600 Detector,Search for Double Beta Decays of $^{134}$Xe with EXO-200 Phase II,0.453418
+Electromagnetic backgrounds and potassium-42 activity in the DEAP-3600 dark matter detector,Two-year optical site characterization for the Pacific Ocean Neutrino Experiment (P-ONE) in the Cascadia Basin,0.434606
+Electromagnetic backgrounds and potassium-42 activity in the DEAP-3600 dark matter detector,Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector,0.706643
+Electromagnetic backgrounds and potassium-42 activity in the DEAP-3600 dark matter detector,Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment,0.668137
+Electromagnetic backgrounds and potassium-42 activity in the DEAP-3600 dark matter detector,Pulse-shape discrimination against low-energy Ar-39 beta decays in liquid argon with 4.5 tonne-years of DEAP-3600 data,0.791303
+Electromagnetic backgrounds and potassium-42 activity in the DEAP-3600 dark matter detector,"Search for Majoron-emitting modes of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> double beta decay with the complete EXO-200 dataset",0.520241
+Electromagnetic backgrounds and potassium-42 activity in the DEAP-3600 dark matter detector,Search for MeV electron recoils from dark matter in EXO-200,0.725586
+Electromagnetic backgrounds and potassium-42 activity in the DEAP-3600 dark matter detector,P-ONE second pathfinder mission: STRAW-b,0.388941
+Electromagnetic backgrounds and potassium-42 activity in the DEAP-3600 dark matter detector,Reflectivity of VUV-sensitive silicon photomultipliers in liquid Xenon,0.381558
+Electromagnetic backgrounds and potassium-42 activity in the DEAP-3600 dark matter detector,The liquid-argon scintillation pulseshape in DEAP-3600,0.788138
+Electromagnetic backgrounds and potassium-42 activity in the DEAP-3600 dark matter detector,Precision measurement of the specific activity of $$^{39}$$Ar in atmospheric argon with the DEAP-3600 detector,0.795264
+Electromagnetic backgrounds and potassium-42 activity in the DEAP-3600 dark matter detector,"Erratum: Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector [Phys. Rev. D <b>102</b>, 082001 (2020)]",0.601663
+Electromagnetic backgrounds and potassium-42 activity in the DEAP-3600 dark matter detector,Simulation of charge readout with segmented tiles in nEXO,0.517849
+Electromagnetic backgrounds and potassium-42 activity in the DEAP-3600 dark matter detector,"Measurement of the Spectral Shape of the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>-Decay of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> to the Ground State of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> in EXO-200 and Comparison with Theory",0.531257
+Electromagnetic backgrounds and potassium-42 activity in the DEAP-3600 dark matter detector,Generative adversarial networks for scintillation signal simulation in EXO-200,0.442214
+Electromagnetic backgrounds and potassium-42 activity in the DEAP-3600 dark matter detector,Optical analysis of the Pacific Ocean Neutrino Experiment (P-ONE) site using data from the first pathfinder mooring,0.464975
+Electromagnetic backgrounds and potassium-42 activity in the DEAP-3600 dark matter detector,Fourier descriptors and neural networks far shape classification,-0.011665
+Electromagnetic backgrounds and potassium-42 activity in the DEAP-3600 dark matter detector,Characterization of external cross-talk from silicon photomultipliers in a liquid xenon detector,0.508565
+Electromagnetic backgrounds and potassium-42 activity in the DEAP-3600 dark matter detector,Position reconstruction in the DEAP-3600 dark matter search experiment,0.737778
+Electromagnetic backgrounds and potassium-42 activity in the DEAP-3600 dark matter detector,Considerations for The Application of GPS in Satellites: GPS System Trade Study,0.062288
+Electromagnetic backgrounds and potassium-42 activity in the DEAP-3600 dark matter detector,Pacific Ocean Neutrino Experiment (P-ONE): prototype line development,0.473732
+Electromagnetic backgrounds and potassium-42 activity in the DEAP-3600 dark matter detector,Precision Measurement of the Specific Activity of $^{39}$Ar in Atmospheric Argon with the DEAP-3600 Detector,0.795289
+Electromagnetic backgrounds and potassium-42 activity in the DEAP-3600 dark matter detector,Attitude Determination And Control Of A Spinning Satellite Using The Earth's Magnetic Field.,0.098507
+Electromagnetic backgrounds and potassium-42 activity in the DEAP-3600 dark matter detector,"The EXO-200 detector, part II: auxiliary systems",0.496295
+Electromagnetic backgrounds and potassium-42 activity in the DEAP-3600 dark matter detector,Search for Two-neutrino Double-Beta Decay of $^{136}\rm Xe$ to the $0^+_1$ excited state of $^{136}\rm Ba$ with the Complete EXO-200 Dataset,0.563773
+Electromagnetic backgrounds and potassium-42 activity in the DEAP-3600 dark matter detector,Simulation Study of Photon-to-Digital Converter (PDC) Timing Specifications for LoLX Experiment,0.42179
+Electromagnetic backgrounds and potassium-42 activity in the DEAP-3600 dark matter detector,Measuring Dark Currents in Multiple Cryogenic SiPMs With Sub-pA Sensitivity Using an Automated <i>I–V</i> Multiplexer,0.288695
+Electromagnetic backgrounds and potassium-42 activity in the DEAP-3600 dark matter detector,Search for Double Beta Decays of $^{134}$Xe with EXO-200 Phase II,0.561063
+Two-year optical site characterization for the Pacific Ocean Neutrino Experiment (P-ONE) in the Cascadia Basin,Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector,0.360856
+Two-year optical site characterization for the Pacific Ocean Neutrino Experiment (P-ONE) in the Cascadia Basin,Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment,0.503572
+Two-year optical site characterization for the Pacific Ocean Neutrino Experiment (P-ONE) in the Cascadia Basin,Pulse-shape discrimination against low-energy Ar-39 beta decays in liquid argon with 4.5 tonne-years of DEAP-3600 data,0.461664
+Two-year optical site characterization for the Pacific Ocean Neutrino Experiment (P-ONE) in the Cascadia Basin,"Search for Majoron-emitting modes of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> double beta decay with the complete EXO-200 dataset",0.478608
+Two-year optical site characterization for the Pacific Ocean Neutrino Experiment (P-ONE) in the Cascadia Basin,Search for MeV electron recoils from dark matter in EXO-200,0.400913
+Two-year optical site characterization for the Pacific Ocean Neutrino Experiment (P-ONE) in the Cascadia Basin,P-ONE second pathfinder mission: STRAW-b,0.899033
+Two-year optical site characterization for the Pacific Ocean Neutrino Experiment (P-ONE) in the Cascadia Basin,Reflectivity of VUV-sensitive silicon photomultipliers in liquid Xenon,0.322955
+Two-year optical site characterization for the Pacific Ocean Neutrino Experiment (P-ONE) in the Cascadia Basin,The liquid-argon scintillation pulseshape in DEAP-3600,0.501467
+Two-year optical site characterization for the Pacific Ocean Neutrino Experiment (P-ONE) in the Cascadia Basin,Precision measurement of the specific activity of $$^{39}$$Ar in atmospheric argon with the DEAP-3600 detector,0.46532
+Two-year optical site characterization for the Pacific Ocean Neutrino Experiment (P-ONE) in the Cascadia Basin,"Erratum: Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector [Phys. Rev. D <b>102</b>, 082001 (2020)]",0.401658
+Two-year optical site characterization for the Pacific Ocean Neutrino Experiment (P-ONE) in the Cascadia Basin,Simulation of charge readout with segmented tiles in nEXO,0.468084
+Two-year optical site characterization for the Pacific Ocean Neutrino Experiment (P-ONE) in the Cascadia Basin,"Measurement of the Spectral Shape of the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>-Decay of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> to the Ground State of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> in EXO-200 and Comparison with Theory",0.417491
+Two-year optical site characterization for the Pacific Ocean Neutrino Experiment (P-ONE) in the Cascadia Basin,Generative adversarial networks for scintillation signal simulation in EXO-200,0.291706
+Two-year optical site characterization for the Pacific Ocean Neutrino Experiment (P-ONE) in the Cascadia Basin,Optical analysis of the Pacific Ocean Neutrino Experiment (P-ONE) site using data from the first pathfinder mooring,0.856302
+Two-year optical site characterization for the Pacific Ocean Neutrino Experiment (P-ONE) in the Cascadia Basin,Fourier descriptors and neural networks far shape classification,0.006299
+Two-year optical site characterization for the Pacific Ocean Neutrino Experiment (P-ONE) in the Cascadia Basin,Characterization of external cross-talk from silicon photomultipliers in a liquid xenon detector,0.361646
+Two-year optical site characterization for the Pacific Ocean Neutrino Experiment (P-ONE) in the Cascadia Basin,Position reconstruction in the DEAP-3600 dark matter search experiment,0.331844
+Two-year optical site characterization for the Pacific Ocean Neutrino Experiment (P-ONE) in the Cascadia Basin,Considerations for The Application of GPS in Satellites: GPS System Trade Study,0.143608
+Two-year optical site characterization for the Pacific Ocean Neutrino Experiment (P-ONE) in the Cascadia Basin,Pacific Ocean Neutrino Experiment (P-ONE): prototype line development,0.8353
+Two-year optical site characterization for the Pacific Ocean Neutrino Experiment (P-ONE) in the Cascadia Basin,Precision Measurement of the Specific Activity of $^{39}$Ar in Atmospheric Argon with the DEAP-3600 Detector,0.422697
+Two-year optical site characterization for the Pacific Ocean Neutrino Experiment (P-ONE) in the Cascadia Basin,Attitude Determination And Control Of A Spinning Satellite Using The Earth's Magnetic Field.,0.031426
+Two-year optical site characterization for the Pacific Ocean Neutrino Experiment (P-ONE) in the Cascadia Basin,"The EXO-200 detector, part II: auxiliary systems",0.485206
+Two-year optical site characterization for the Pacific Ocean Neutrino Experiment (P-ONE) in the Cascadia Basin,Search for Two-neutrino Double-Beta Decay of $^{136}\rm Xe$ to the $0^+_1$ excited state of $^{136}\rm Ba$ with the Complete EXO-200 Dataset,0.486437
+Two-year optical site characterization for the Pacific Ocean Neutrino Experiment (P-ONE) in the Cascadia Basin,Simulation Study of Photon-to-Digital Converter (PDC) Timing Specifications for LoLX Experiment,0.344621
+Two-year optical site characterization for the Pacific Ocean Neutrino Experiment (P-ONE) in the Cascadia Basin,Measuring Dark Currents in Multiple Cryogenic SiPMs With Sub-pA Sensitivity Using an Automated <i>I–V</i> Multiplexer,0.201872
+Two-year optical site characterization for the Pacific Ocean Neutrino Experiment (P-ONE) in the Cascadia Basin,Search for Double Beta Decays of $^{134}$Xe with EXO-200 Phase II,0.497229
+Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector,Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment,0.48805
+Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector,Pulse-shape discrimination against low-energy Ar-39 beta decays in liquid argon with 4.5 tonne-years of DEAP-3600 data,0.59395
+Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector,"Search for Majoron-emitting modes of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> double beta decay with the complete EXO-200 dataset",0.340875
+Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector,Search for MeV electron recoils from dark matter in EXO-200,0.63711
+Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector,P-ONE second pathfinder mission: STRAW-b,0.292881
+Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector,Reflectivity of VUV-sensitive silicon photomultipliers in liquid Xenon,0.335108
+Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector,The liquid-argon scintillation pulseshape in DEAP-3600,0.661008
+Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector,Precision measurement of the specific activity of $$^{39}$$Ar in atmospheric argon with the DEAP-3600 detector,0.612865
+Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector,"Erratum: Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector [Phys. Rev. D <b>102</b>, 082001 (2020)]",0.709385
+Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector,Simulation of charge readout with segmented tiles in nEXO,0.26565
+Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector,"Measurement of the Spectral Shape of the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>-Decay of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> to the Ground State of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> in EXO-200 and Comparison with Theory",0.349439
+Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector,Generative adversarial networks for scintillation signal simulation in EXO-200,0.213424
+Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector,Optical analysis of the Pacific Ocean Neutrino Experiment (P-ONE) site using data from the first pathfinder mooring,0.340038
+Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector,Fourier descriptors and neural networks far shape classification,-0.03035
+Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector,Characterization of external cross-talk from silicon photomultipliers in a liquid xenon detector,0.338859
+Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector,Position reconstruction in the DEAP-3600 dark matter search experiment,0.598024
+Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector,Considerations for The Application of GPS in Satellites: GPS System Trade Study,0.134031
+Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector,Pacific Ocean Neutrino Experiment (P-ONE): prototype line development,0.368441
+Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector,Precision Measurement of the Specific Activity of $^{39}$Ar in Atmospheric Argon with the DEAP-3600 Detector,0.597046
+Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector,Attitude Determination And Control Of A Spinning Satellite Using The Earth's Magnetic Field.,0.073463
+Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector,"The EXO-200 detector, part II: auxiliary systems",0.324737
+Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector,Search for Two-neutrino Double-Beta Decay of $^{136}\rm Xe$ to the $0^+_1$ excited state of $^{136}\rm Ba$ with the Complete EXO-200 Dataset,0.314275
+Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector,Simulation Study of Photon-to-Digital Converter (PDC) Timing Specifications for LoLX Experiment,0.288552
+Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector,Measuring Dark Currents in Multiple Cryogenic SiPMs With Sub-pA Sensitivity Using an Automated <i>I–V</i> Multiplexer,0.220887
+Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector,Search for Double Beta Decays of $^{134}$Xe with EXO-200 Phase II,0.35838
+Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment,Pulse-shape discrimination against low-energy Ar-39 beta decays in liquid argon with 4.5 tonne-years of DEAP-3600 data,0.645035
+Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment,"Search for Majoron-emitting modes of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> double beta decay with the complete EXO-200 dataset",0.644625
+Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment,Search for MeV electron recoils from dark matter in EXO-200,0.660823
+Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment,P-ONE second pathfinder mission: STRAW-b,0.429761
+Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment,Reflectivity of VUV-sensitive silicon photomultipliers in liquid Xenon,0.507614
+Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment,The liquid-argon scintillation pulseshape in DEAP-3600,0.615876
+Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment,Precision measurement of the specific activity of $$^{39}$$Ar in atmospheric argon with the DEAP-3600 detector,0.624743
+Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment,"Erratum: Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector [Phys. Rev. D <b>102</b>, 082001 (2020)]",0.451522
+Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment,Simulation of charge readout with segmented tiles in nEXO,0.71975
+Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment,"Measurement of the Spectral Shape of the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>-Decay of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> to the Ground State of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> in EXO-200 and Comparison with Theory",0.649312
+Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment,Generative adversarial networks for scintillation signal simulation in EXO-200,0.489105
+Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment,Optical analysis of the Pacific Ocean Neutrino Experiment (P-ONE) site using data from the first pathfinder mooring,0.562517
+Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment,Fourier descriptors and neural networks far shape classification,-0.039454
+Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment,Characterization of external cross-talk from silicon photomultipliers in a liquid xenon detector,0.66761
+Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment,Position reconstruction in the DEAP-3600 dark matter search experiment,0.474592
+Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment,Considerations for The Application of GPS in Satellites: GPS System Trade Study,0.082839
+Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment,Pacific Ocean Neutrino Experiment (P-ONE): prototype line development,0.539137
+Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment,Precision Measurement of the Specific Activity of $^{39}$Ar in Atmospheric Argon with the DEAP-3600 Detector,0.630862
+Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment,Attitude Determination And Control Of A Spinning Satellite Using The Earth's Magnetic Field.,0.004781
+Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment,"The EXO-200 detector, part II: auxiliary systems",0.740748
+Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment,Search for Two-neutrino Double-Beta Decay of $^{136}\rm Xe$ to the $0^+_1$ excited state of $^{136}\rm Ba$ with the Complete EXO-200 Dataset,0.647068
+Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment,Simulation Study of Photon-to-Digital Converter (PDC) Timing Specifications for LoLX Experiment,0.601372
+Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment,Measuring Dark Currents in Multiple Cryogenic SiPMs With Sub-pA Sensitivity Using an Automated <i>I–V</i> Multiplexer,0.396526
+Measurement of the scintillation and ionization response of liquid xenon at MeV energies in the EXO-200 experiment,Search for Double Beta Decays of $^{134}$Xe with EXO-200 Phase II,0.729445
+Pulse-shape discrimination against low-energy Ar-39 beta decays in liquid argon with 4.5 tonne-years of DEAP-3600 data,"Search for Majoron-emitting modes of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> double beta decay with the complete EXO-200 dataset",0.501615
+Pulse-shape discrimination against low-energy Ar-39 beta decays in liquid argon with 4.5 tonne-years of DEAP-3600 data,Search for MeV electron recoils from dark matter in EXO-200,0.703233
+Pulse-shape discrimination against low-energy Ar-39 beta decays in liquid argon with 4.5 tonne-years of DEAP-3600 data,P-ONE second pathfinder mission: STRAW-b,0.375354
+Pulse-shape discrimination against low-energy Ar-39 beta decays in liquid argon with 4.5 tonne-years of DEAP-3600 data,Reflectivity of VUV-sensitive silicon photomultipliers in liquid Xenon,0.426482
+Pulse-shape discrimination against low-energy Ar-39 beta decays in liquid argon with 4.5 tonne-years of DEAP-3600 data,The liquid-argon scintillation pulseshape in DEAP-3600,0.831649
+Pulse-shape discrimination against low-energy Ar-39 beta decays in liquid argon with 4.5 tonne-years of DEAP-3600 data,Precision measurement of the specific activity of $$^{39}$$Ar in atmospheric argon with the DEAP-3600 detector,0.755206
+Pulse-shape discrimination against low-energy Ar-39 beta decays in liquid argon with 4.5 tonne-years of DEAP-3600 data,"Erratum: Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector [Phys. Rev. D <b>102</b>, 082001 (2020)]",0.562626
+Pulse-shape discrimination against low-energy Ar-39 beta decays in liquid argon with 4.5 tonne-years of DEAP-3600 data,Simulation of charge readout with segmented tiles in nEXO,0.535819
+Pulse-shape discrimination against low-energy Ar-39 beta decays in liquid argon with 4.5 tonne-years of DEAP-3600 data,"Measurement of the Spectral Shape of the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>-Decay of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> to the Ground State of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> in EXO-200 and Comparison with Theory",0.516576
+Pulse-shape discrimination against low-energy Ar-39 beta decays in liquid argon with 4.5 tonne-years of DEAP-3600 data,Generative adversarial networks for scintillation signal simulation in EXO-200,0.475684
+Pulse-shape discrimination against low-energy Ar-39 beta decays in liquid argon with 4.5 tonne-years of DEAP-3600 data,Optical analysis of the Pacific Ocean Neutrino Experiment (P-ONE) site using data from the first pathfinder mooring,0.488302
+Pulse-shape discrimination against low-energy Ar-39 beta decays in liquid argon with 4.5 tonne-years of DEAP-3600 data,Fourier descriptors and neural networks far shape classification,0.026763
+Pulse-shape discrimination against low-energy Ar-39 beta decays in liquid argon with 4.5 tonne-years of DEAP-3600 data,Characterization of external cross-talk from silicon photomultipliers in a liquid xenon detector,0.592284
+Pulse-shape discrimination against low-energy Ar-39 beta decays in liquid argon with 4.5 tonne-years of DEAP-3600 data,Position reconstruction in the DEAP-3600 dark matter search experiment,0.718979
+Pulse-shape discrimination against low-energy Ar-39 beta decays in liquid argon with 4.5 tonne-years of DEAP-3600 data,Considerations for The Application of GPS in Satellites: GPS System Trade Study,0.072009
+Pulse-shape discrimination against low-energy Ar-39 beta decays in liquid argon with 4.5 tonne-years of DEAP-3600 data,Pacific Ocean Neutrino Experiment (P-ONE): prototype line development,0.44609
+Pulse-shape discrimination against low-energy Ar-39 beta decays in liquid argon with 4.5 tonne-years of DEAP-3600 data,Precision Measurement of the Specific Activity of $^{39}$Ar in Atmospheric Argon with the DEAP-3600 Detector,0.752451
+Pulse-shape discrimination against low-energy Ar-39 beta decays in liquid argon with 4.5 tonne-years of DEAP-3600 data,Attitude Determination And Control Of A Spinning Satellite Using The Earth's Magnetic Field.,0.078801
+Pulse-shape discrimination against low-energy Ar-39 beta decays in liquid argon with 4.5 tonne-years of DEAP-3600 data,"The EXO-200 detector, part II: auxiliary systems",0.47595
+Pulse-shape discrimination against low-energy Ar-39 beta decays in liquid argon with 4.5 tonne-years of DEAP-3600 data,Search for Two-neutrino Double-Beta Decay of $^{136}\rm Xe$ to the $0^+_1$ excited state of $^{136}\rm Ba$ with the Complete EXO-200 Dataset,0.549682
+Pulse-shape discrimination against low-energy Ar-39 beta decays in liquid argon with 4.5 tonne-years of DEAP-3600 data,Simulation Study of Photon-to-Digital Converter (PDC) Timing Specifications for LoLX Experiment,0.549383
+Pulse-shape discrimination against low-energy Ar-39 beta decays in liquid argon with 4.5 tonne-years of DEAP-3600 data,Measuring Dark Currents in Multiple Cryogenic SiPMs With Sub-pA Sensitivity Using an Automated <i>I–V</i> Multiplexer,0.359825
+Pulse-shape discrimination against low-energy Ar-39 beta decays in liquid argon with 4.5 tonne-years of DEAP-3600 data,Search for Double Beta Decays of $^{134}$Xe with EXO-200 Phase II,0.54907
+"Search for Majoron-emitting modes of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> double beta decay with the complete EXO-200 dataset",Search for MeV electron recoils from dark matter in EXO-200,0.536082
+"Search for Majoron-emitting modes of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> double beta decay with the complete EXO-200 dataset",P-ONE second pathfinder mission: STRAW-b,0.42578
+"Search for Majoron-emitting modes of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> double beta decay with the complete EXO-200 dataset",Reflectivity of VUV-sensitive silicon photomultipliers in liquid Xenon,0.293049
+"Search for Majoron-emitting modes of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> double beta decay with the complete EXO-200 dataset",The liquid-argon scintillation pulseshape in DEAP-3600,0.433127
+"Search for Majoron-emitting modes of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> double beta decay with the complete EXO-200 dataset",Precision measurement of the specific activity of $$^{39}$$Ar in atmospheric argon with the DEAP-3600 detector,0.584281
+"Search for Majoron-emitting modes of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> double beta decay with the complete EXO-200 dataset","Erratum: Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector [Phys. Rev. D <b>102</b>, 082001 (2020)]",0.31156
+"Search for Majoron-emitting modes of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> double beta decay with the complete EXO-200 dataset",Simulation of charge readout with segmented tiles in nEXO,0.625059
+"Search for Majoron-emitting modes of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> double beta decay with the complete EXO-200 dataset","Measurement of the Spectral Shape of the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>-Decay of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> to the Ground State of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> in EXO-200 and Comparison with Theory",0.735121
+"Search for Majoron-emitting modes of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> double beta decay with the complete EXO-200 dataset",Generative adversarial networks for scintillation signal simulation in EXO-200,0.357095
+"Search for Majoron-emitting modes of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> double beta decay with the complete EXO-200 dataset",Optical analysis of the Pacific Ocean Neutrino Experiment (P-ONE) site using data from the first pathfinder mooring,0.514628
+"Search for Majoron-emitting modes of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> double beta decay with the complete EXO-200 dataset",Fourier descriptors and neural networks far shape classification,0.021737
+"Search for Majoron-emitting modes of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> double beta decay with the complete EXO-200 dataset",Characterization of external cross-talk from silicon photomultipliers in a liquid xenon detector,0.376158
+"Search for Majoron-emitting modes of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> double beta decay with the complete EXO-200 dataset",Position reconstruction in the DEAP-3600 dark matter search experiment,0.312563
+"Search for Majoron-emitting modes of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> double beta decay with the complete EXO-200 dataset",Considerations for The Application of GPS in Satellites: GPS System Trade Study,0.086021
+"Search for Majoron-emitting modes of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> double beta decay with the complete EXO-200 dataset",Pacific Ocean Neutrino Experiment (P-ONE): prototype line development,0.469781
+"Search for Majoron-emitting modes of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> double beta decay with the complete EXO-200 dataset",Precision Measurement of the Specific Activity of $^{39}$Ar in Atmospheric Argon with the DEAP-3600 Detector,0.581244
+"Search for Majoron-emitting modes of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> double beta decay with the complete EXO-200 dataset",Attitude Determination And Control Of A Spinning Satellite Using The Earth's Magnetic Field.,-0.013961
+"Search for Majoron-emitting modes of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> double beta decay with the complete EXO-200 dataset","The EXO-200 detector, part II: auxiliary systems",0.66402
+"Search for Majoron-emitting modes of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> double beta decay with the complete EXO-200 dataset",Search for Two-neutrino Double-Beta Decay of $^{136}\rm Xe$ to the $0^+_1$ excited state of $^{136}\rm Ba$ with the Complete EXO-200 Dataset,0.75962
+"Search for Majoron-emitting modes of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> double beta decay with the complete EXO-200 dataset",Simulation Study of Photon-to-Digital Converter (PDC) Timing Specifications for LoLX Experiment,0.350468
+"Search for Majoron-emitting modes of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> double beta decay with the complete EXO-200 dataset",Measuring Dark Currents in Multiple Cryogenic SiPMs With Sub-pA Sensitivity Using an Automated <i>I–V</i> Multiplexer,0.160686
+"Search for Majoron-emitting modes of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>136</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> double beta decay with the complete EXO-200 dataset",Search for Double Beta Decays of $^{134}$Xe with EXO-200 Phase II,0.837838
+Search for MeV electron recoils from dark matter in EXO-200,P-ONE second pathfinder mission: STRAW-b,0.328851
+Search for MeV electron recoils from dark matter in EXO-200,Reflectivity of VUV-sensitive silicon photomultipliers in liquid Xenon,0.438807
+Search for MeV electron recoils from dark matter in EXO-200,The liquid-argon scintillation pulseshape in DEAP-3600,0.673313
+Search for MeV electron recoils from dark matter in EXO-200,Precision measurement of the specific activity of $$^{39}$$Ar in atmospheric argon with the DEAP-3600 detector,0.691623
+Search for MeV electron recoils from dark matter in EXO-200,"Erratum: Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector [Phys. Rev. D <b>102</b>, 082001 (2020)]",0.65504
+Search for MeV electron recoils from dark matter in EXO-200,Simulation of charge readout with segmented tiles in nEXO,0.499659
+Search for MeV electron recoils from dark matter in EXO-200,"Measurement of the Spectral Shape of the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>-Decay of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> to the Ground State of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> in EXO-200 and Comparison with Theory",0.577299
+Search for MeV electron recoils from dark matter in EXO-200,Generative adversarial networks for scintillation signal simulation in EXO-200,0.367388
+Search for MeV electron recoils from dark matter in EXO-200,Optical analysis of the Pacific Ocean Neutrino Experiment (P-ONE) site using data from the first pathfinder mooring,0.400729
+Search for MeV electron recoils from dark matter in EXO-200,Fourier descriptors and neural networks far shape classification,-0.077947
+Search for MeV electron recoils from dark matter in EXO-200,Characterization of external cross-talk from silicon photomultipliers in a liquid xenon detector,0.460833
+Search for MeV electron recoils from dark matter in EXO-200,Position reconstruction in the DEAP-3600 dark matter search experiment,0.56416
+Search for MeV electron recoils from dark matter in EXO-200,Considerations for The Application of GPS in Satellites: GPS System Trade Study,0.039688
+Search for MeV electron recoils from dark matter in EXO-200,Pacific Ocean Neutrino Experiment (P-ONE): prototype line development,0.405622
+Search for MeV electron recoils from dark matter in EXO-200,Precision Measurement of the Specific Activity of $^{39}$Ar in Atmospheric Argon with the DEAP-3600 Detector,0.666715
+Search for MeV electron recoils from dark matter in EXO-200,Attitude Determination And Control Of A Spinning Satellite Using The Earth's Magnetic Field.,0.035889
+Search for MeV electron recoils from dark matter in EXO-200,"The EXO-200 detector, part II: auxiliary systems",0.454751
+Search for MeV electron recoils from dark matter in EXO-200,Search for Two-neutrino Double-Beta Decay of $^{136}\rm Xe$ to the $0^+_1$ excited state of $^{136}\rm Ba$ with the Complete EXO-200 Dataset,0.50689
+Search for MeV electron recoils from dark matter in EXO-200,Simulation Study of Photon-to-Digital Converter (PDC) Timing Specifications for LoLX Experiment,0.387273
+Search for MeV electron recoils from dark matter in EXO-200,Measuring Dark Currents in Multiple Cryogenic SiPMs With Sub-pA Sensitivity Using an Automated <i>I–V</i> Multiplexer,0.357853
+Search for MeV electron recoils from dark matter in EXO-200,Search for Double Beta Decays of $^{134}$Xe with EXO-200 Phase II,0.551346
+P-ONE second pathfinder mission: STRAW-b,Reflectivity of VUV-sensitive silicon photomultipliers in liquid Xenon,0.255336
+P-ONE second pathfinder mission: STRAW-b,The liquid-argon scintillation pulseshape in DEAP-3600,0.426846
+P-ONE second pathfinder mission: STRAW-b,Precision measurement of the specific activity of $$^{39}$$Ar in atmospheric argon with the DEAP-3600 detector,0.388103
+P-ONE second pathfinder mission: STRAW-b,"Erratum: Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector [Phys. Rev. D <b>102</b>, 082001 (2020)]",0.348993
+P-ONE second pathfinder mission: STRAW-b,Simulation of charge readout with segmented tiles in nEXO,0.44763
+P-ONE second pathfinder mission: STRAW-b,"Measurement of the Spectral Shape of the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>-Decay of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> to the Ground State of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> in EXO-200 and Comparison with Theory",0.361185
+P-ONE second pathfinder mission: STRAW-b,Generative adversarial networks for scintillation signal simulation in EXO-200,0.307143
+P-ONE second pathfinder mission: STRAW-b,Optical analysis of the Pacific Ocean Neutrino Experiment (P-ONE) site using data from the first pathfinder mooring,0.844598
+P-ONE second pathfinder mission: STRAW-b,Fourier descriptors and neural networks far shape classification,0.022898
+P-ONE second pathfinder mission: STRAW-b,Characterization of external cross-talk from silicon photomultipliers in a liquid xenon detector,0.320546
+P-ONE second pathfinder mission: STRAW-b,Position reconstruction in the DEAP-3600 dark matter search experiment,0.319813
+P-ONE second pathfinder mission: STRAW-b,Considerations for The Application of GPS in Satellites: GPS System Trade Study,0.185348
+P-ONE second pathfinder mission: STRAW-b,Pacific Ocean Neutrino Experiment (P-ONE): prototype line development,0.878196
+P-ONE second pathfinder mission: STRAW-b,Precision Measurement of the Specific Activity of $^{39}$Ar in Atmospheric Argon with the DEAP-3600 Detector,0.375005
+P-ONE second pathfinder mission: STRAW-b,Attitude Determination And Control Of A Spinning Satellite Using The Earth's Magnetic Field.,0.066258
+P-ONE second pathfinder mission: STRAW-b,"The EXO-200 detector, part II: auxiliary systems",0.470548
+P-ONE second pathfinder mission: STRAW-b,Search for Two-neutrino Double-Beta Decay of $^{136}\rm Xe$ to the $0^+_1$ excited state of $^{136}\rm Ba$ with the Complete EXO-200 Dataset,0.468156
+P-ONE second pathfinder mission: STRAW-b,Simulation Study of Photon-to-Digital Converter (PDC) Timing Specifications for LoLX Experiment,0.308084
+P-ONE second pathfinder mission: STRAW-b,Measuring Dark Currents in Multiple Cryogenic SiPMs With Sub-pA Sensitivity Using an Automated <i>I–V</i> Multiplexer,0.240762
+P-ONE second pathfinder mission: STRAW-b,Search for Double Beta Decays of $^{134}$Xe with EXO-200 Phase II,0.456437
+Reflectivity of VUV-sensitive silicon photomultipliers in liquid Xenon,The liquid-argon scintillation pulseshape in DEAP-3600,0.464561
+Reflectivity of VUV-sensitive silicon photomultipliers in liquid Xenon,Precision measurement of the specific activity of $$^{39}$$Ar in atmospheric argon with the DEAP-3600 detector,0.390713
+Reflectivity of VUV-sensitive silicon photomultipliers in liquid Xenon,"Erratum: Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector [Phys. Rev. D <b>102</b>, 082001 (2020)]",0.344613
+Reflectivity of VUV-sensitive silicon photomultipliers in liquid Xenon,Simulation of charge readout with segmented tiles in nEXO,0.373733
+Reflectivity of VUV-sensitive silicon photomultipliers in liquid Xenon,"Measurement of the Spectral Shape of the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>-Decay of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> to the Ground State of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> in EXO-200 and Comparison with Theory",0.395742
+Reflectivity of VUV-sensitive silicon photomultipliers in liquid Xenon,Generative adversarial networks for scintillation signal simulation in EXO-200,0.286844
+Reflectivity of VUV-sensitive silicon photomultipliers in liquid Xenon,Optical analysis of the Pacific Ocean Neutrino Experiment (P-ONE) site using data from the first pathfinder mooring,0.33483
+Reflectivity of VUV-sensitive silicon photomultipliers in liquid Xenon,Fourier descriptors and neural networks far shape classification,-0.026411
+Reflectivity of VUV-sensitive silicon photomultipliers in liquid Xenon,Characterization of external cross-talk from silicon photomultipliers in a liquid xenon detector,0.709472
+Reflectivity of VUV-sensitive silicon photomultipliers in liquid Xenon,Position reconstruction in the DEAP-3600 dark matter search experiment,0.382466
+Reflectivity of VUV-sensitive silicon photomultipliers in liquid Xenon,Considerations for The Application of GPS in Satellites: GPS System Trade Study,0.009165
+Reflectivity of VUV-sensitive silicon photomultipliers in liquid Xenon,Pacific Ocean Neutrino Experiment (P-ONE): prototype line development,0.31674
+Reflectivity of VUV-sensitive silicon photomultipliers in liquid Xenon,Precision Measurement of the Specific Activity of $^{39}$Ar in Atmospheric Argon with the DEAP-3600 Detector,0.352649
+Reflectivity of VUV-sensitive silicon photomultipliers in liquid Xenon,Attitude Determination And Control Of A Spinning Satellite Using The Earth's Magnetic Field.,0.09365
+Reflectivity of VUV-sensitive silicon photomultipliers in liquid Xenon,"The EXO-200 detector, part II: auxiliary systems",0.407722
+Reflectivity of VUV-sensitive silicon photomultipliers in liquid Xenon,Search for Two-neutrino Double-Beta Decay of $^{136}\rm Xe$ to the $0^+_1$ excited state of $^{136}\rm Ba$ with the Complete EXO-200 Dataset,0.240443
+Reflectivity of VUV-sensitive silicon photomultipliers in liquid Xenon,Simulation Study of Photon-to-Digital Converter (PDC) Timing Specifications for LoLX Experiment,0.493651
+Reflectivity of VUV-sensitive silicon photomultipliers in liquid Xenon,Measuring Dark Currents in Multiple Cryogenic SiPMs With Sub-pA Sensitivity Using an Automated <i>I–V</i> Multiplexer,0.593972
+Reflectivity of VUV-sensitive silicon photomultipliers in liquid Xenon,Search for Double Beta Decays of $^{134}$Xe with EXO-200 Phase II,0.321402
+The liquid-argon scintillation pulseshape in DEAP-3600,Precision measurement of the specific activity of $$^{39}$$Ar in atmospheric argon with the DEAP-3600 detector,0.70279
+The liquid-argon scintillation pulseshape in DEAP-3600,"Erratum: Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector [Phys. Rev. D <b>102</b>, 082001 (2020)]",0.6275
+The liquid-argon scintillation pulseshape in DEAP-3600,Simulation of charge readout with segmented tiles in nEXO,0.481221
+The liquid-argon scintillation pulseshape in DEAP-3600,"Measurement of the Spectral Shape of the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>-Decay of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> to the Ground State of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> in EXO-200 and Comparison with Theory",0.469605
+The liquid-argon scintillation pulseshape in DEAP-3600,Generative adversarial networks for scintillation signal simulation in EXO-200,0.41547
+The liquid-argon scintillation pulseshape in DEAP-3600,Optical analysis of the Pacific Ocean Neutrino Experiment (P-ONE) site using data from the first pathfinder mooring,0.507533
+The liquid-argon scintillation pulseshape in DEAP-3600,Fourier descriptors and neural networks far shape classification,-0.007902
+The liquid-argon scintillation pulseshape in DEAP-3600,Characterization of external cross-talk from silicon photomultipliers in a liquid xenon detector,0.563217
+The liquid-argon scintillation pulseshape in DEAP-3600,Position reconstruction in the DEAP-3600 dark matter search experiment,0.727518
+The liquid-argon scintillation pulseshape in DEAP-3600,Considerations for The Application of GPS in Satellites: GPS System Trade Study,0.066371
+The liquid-argon scintillation pulseshape in DEAP-3600,Pacific Ocean Neutrino Experiment (P-ONE): prototype line development,0.479746
+The liquid-argon scintillation pulseshape in DEAP-3600,Precision Measurement of the Specific Activity of $^{39}$Ar in Atmospheric Argon with the DEAP-3600 Detector,0.710235
+The liquid-argon scintillation pulseshape in DEAP-3600,Attitude Determination And Control Of A Spinning Satellite Using The Earth's Magnetic Field.,0.076237
+The liquid-argon scintillation pulseshape in DEAP-3600,"The EXO-200 detector, part II: auxiliary systems",0.4938
+The liquid-argon scintillation pulseshape in DEAP-3600,Search for Two-neutrino Double-Beta Decay of $^{136}\rm Xe$ to the $0^+_1$ excited state of $^{136}\rm Ba$ with the Complete EXO-200 Dataset,0.488964
+The liquid-argon scintillation pulseshape in DEAP-3600,Simulation Study of Photon-to-Digital Converter (PDC) Timing Specifications for LoLX Experiment,0.581331
+The liquid-argon scintillation pulseshape in DEAP-3600,Measuring Dark Currents in Multiple Cryogenic SiPMs With Sub-pA Sensitivity Using an Automated <i>I–V</i> Multiplexer,0.377938
+The liquid-argon scintillation pulseshape in DEAP-3600,Search for Double Beta Decays of $^{134}$Xe with EXO-200 Phase II,0.518494
+Precision measurement of the specific activity of $$^{39}$$Ar in atmospheric argon with the DEAP-3600 detector,"Erratum: Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector [Phys. Rev. D <b>102</b>, 082001 (2020)]",0.543292
+Precision measurement of the specific activity of $$^{39}$$Ar in atmospheric argon with the DEAP-3600 detector,Simulation of charge readout with segmented tiles in nEXO,0.531987
+Precision measurement of the specific activity of $$^{39}$$Ar in atmospheric argon with the DEAP-3600 detector,"Measurement of the Spectral Shape of the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>-Decay of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> to the Ground State of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> in EXO-200 and Comparison with Theory",0.614968
+Precision measurement of the specific activity of $$^{39}$$Ar in atmospheric argon with the DEAP-3600 detector,Generative adversarial networks for scintillation signal simulation in EXO-200,0.399932
+Precision measurement of the specific activity of $$^{39}$$Ar in atmospheric argon with the DEAP-3600 detector,Optical analysis of the Pacific Ocean Neutrino Experiment (P-ONE) site using data from the first pathfinder mooring,0.433298
+Precision measurement of the specific activity of $$^{39}$$Ar in atmospheric argon with the DEAP-3600 detector,Fourier descriptors and neural networks far shape classification,-0.00204
+Precision measurement of the specific activity of $$^{39}$$Ar in atmospheric argon with the DEAP-3600 detector,Characterization of external cross-talk from silicon photomultipliers in a liquid xenon detector,0.432829
+Precision measurement of the specific activity of $$^{39}$$Ar in atmospheric argon with the DEAP-3600 detector,Position reconstruction in the DEAP-3600 dark matter search experiment,0.58095
+Precision measurement of the specific activity of $$^{39}$$Ar in atmospheric argon with the DEAP-3600 detector,Considerations for The Application of GPS in Satellites: GPS System Trade Study,0.113799
+Precision measurement of the specific activity of $$^{39}$$Ar in atmospheric argon with the DEAP-3600 detector,Pacific Ocean Neutrino Experiment (P-ONE): prototype line development,0.443915
+Precision measurement of the specific activity of $$^{39}$$Ar in atmospheric argon with the DEAP-3600 detector,Precision Measurement of the Specific Activity of $^{39}$Ar in Atmospheric Argon with the DEAP-3600 Detector,0.952912
+Precision measurement of the specific activity of $$^{39}$$Ar in atmospheric argon with the DEAP-3600 detector,Attitude Determination And Control Of A Spinning Satellite Using The Earth's Magnetic Field.,0.070562
+Precision measurement of the specific activity of $$^{39}$$Ar in atmospheric argon with the DEAP-3600 detector,"The EXO-200 detector, part II: auxiliary systems",0.5108
+Precision measurement of the specific activity of $$^{39}$$Ar in atmospheric argon with the DEAP-3600 detector,Search for Two-neutrino Double-Beta Decay of $^{136}\rm Xe$ to the $0^+_1$ excited state of $^{136}\rm Ba$ with the Complete EXO-200 Dataset,0.580194
+Precision measurement of the specific activity of $$^{39}$$Ar in atmospheric argon with the DEAP-3600 detector,Simulation Study of Photon-to-Digital Converter (PDC) Timing Specifications for LoLX Experiment,0.390209
+Precision measurement of the specific activity of $$^{39}$$Ar in atmospheric argon with the DEAP-3600 detector,Measuring Dark Currents in Multiple Cryogenic SiPMs With Sub-pA Sensitivity Using an Automated <i>I–V</i> Multiplexer,0.316592
+Precision measurement of the specific activity of $$^{39}$$Ar in atmospheric argon with the DEAP-3600 detector,Search for Double Beta Decays of $^{134}$Xe with EXO-200 Phase II,0.603891
+"Erratum: Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector [Phys. Rev. D <b>102</b>, 082001 (2020)]",Simulation of charge readout with segmented tiles in nEXO,0.29241
+"Erratum: Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector [Phys. Rev. D <b>102</b>, 082001 (2020)]","Measurement of the Spectral Shape of the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>-Decay of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> to the Ground State of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> in EXO-200 and Comparison with Theory",0.362132
+"Erratum: Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector [Phys. Rev. D <b>102</b>, 082001 (2020)]",Generative adversarial networks for scintillation signal simulation in EXO-200,0.273936
+"Erratum: Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector [Phys. Rev. D <b>102</b>, 082001 (2020)]",Optical analysis of the Pacific Ocean Neutrino Experiment (P-ONE) site using data from the first pathfinder mooring,0.378404
+"Erratum: Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector [Phys. Rev. D <b>102</b>, 082001 (2020)]",Fourier descriptors and neural networks far shape classification,-0.038562
+"Erratum: Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector [Phys. Rev. D <b>102</b>, 082001 (2020)]",Characterization of external cross-talk from silicon photomultipliers in a liquid xenon detector,0.330514
+"Erratum: Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector [Phys. Rev. D <b>102</b>, 082001 (2020)]",Position reconstruction in the DEAP-3600 dark matter search experiment,0.529857
+"Erratum: Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector [Phys. Rev. D <b>102</b>, 082001 (2020)]",Considerations for The Application of GPS in Satellites: GPS System Trade Study,0.083923
+"Erratum: Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector [Phys. Rev. D <b>102</b>, 082001 (2020)]",Pacific Ocean Neutrino Experiment (P-ONE): prototype line development,0.377885
+"Erratum: Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector [Phys. Rev. D <b>102</b>, 082001 (2020)]",Precision Measurement of the Specific Activity of $^{39}$Ar in Atmospheric Argon with the DEAP-3600 Detector,0.512214
+"Erratum: Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector [Phys. Rev. D <b>102</b>, 082001 (2020)]",Attitude Determination And Control Of A Spinning Satellite Using The Earth's Magnetic Field.,0.099064
+"Erratum: Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector [Phys. Rev. D <b>102</b>, 082001 (2020)]","The EXO-200 detector, part II: auxiliary systems",0.27377
+"Erratum: Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector [Phys. Rev. D <b>102</b>, 082001 (2020)]",Search for Two-neutrino Double-Beta Decay of $^{136}\rm Xe$ to the $0^+_1$ excited state of $^{136}\rm Ba$ with the Complete EXO-200 Dataset,0.332112
+"Erratum: Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector [Phys. Rev. D <b>102</b>, 082001 (2020)]",Simulation Study of Photon-to-Digital Converter (PDC) Timing Specifications for LoLX Experiment,0.255506
+"Erratum: Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector [Phys. Rev. D <b>102</b>, 082001 (2020)]",Measuring Dark Currents in Multiple Cryogenic SiPMs With Sub-pA Sensitivity Using an Automated <i>I–V</i> Multiplexer,0.20136
+"Erratum: Constraints on dark matter-nucleon effective couplings in the presence of kinematically distinct halo substructures using the DEAP-3600 detector [Phys. Rev. D <b>102</b>, 082001 (2020)]",Search for Double Beta Decays of $^{134}$Xe with EXO-200 Phase II,0.337514
+Simulation of charge readout with segmented tiles in nEXO,"Measurement of the Spectral Shape of the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>-Decay of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> to the Ground State of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> in EXO-200 and Comparison with Theory",0.584011
+Simulation of charge readout with segmented tiles in nEXO,Generative adversarial networks for scintillation signal simulation in EXO-200,0.575165
+Simulation of charge readout with segmented tiles in nEXO,Optical analysis of the Pacific Ocean Neutrino Experiment (P-ONE) site using data from the first pathfinder mooring,0.504555
+Simulation of charge readout with segmented tiles in nEXO,Fourier descriptors and neural networks far shape classification,0.134843
+Simulation of charge readout with segmented tiles in nEXO,Characterization of external cross-talk from silicon photomultipliers in a liquid xenon detector,0.512309
+Simulation of charge readout with segmented tiles in nEXO,Position reconstruction in the DEAP-3600 dark matter search experiment,0.456523
+Simulation of charge readout with segmented tiles in nEXO,Considerations for The Application of GPS in Satellites: GPS System Trade Study,0.07608
+Simulation of charge readout with segmented tiles in nEXO,Pacific Ocean Neutrino Experiment (P-ONE): prototype line development,0.51071
+Simulation of charge readout with segmented tiles in nEXO,Precision Measurement of the Specific Activity of $^{39}$Ar in Atmospheric Argon with the DEAP-3600 Detector,0.537861
+Simulation of charge readout with segmented tiles in nEXO,Attitude Determination And Control Of A Spinning Satellite Using The Earth's Magnetic Field.,0.001431
+Simulation of charge readout with segmented tiles in nEXO,"The EXO-200 detector, part II: auxiliary systems",0.739137
+Simulation of charge readout with segmented tiles in nEXO,Search for Two-neutrino Double-Beta Decay of $^{136}\rm Xe$ to the $0^+_1$ excited state of $^{136}\rm Ba$ with the Complete EXO-200 Dataset,0.753323
+Simulation of charge readout with segmented tiles in nEXO,Simulation Study of Photon-to-Digital Converter (PDC) Timing Specifications for LoLX Experiment,0.557603
+Simulation of charge readout with segmented tiles in nEXO,Measuring Dark Currents in Multiple Cryogenic SiPMs With Sub-pA Sensitivity Using an Automated <i>I–V</i> Multiplexer,0.375166
+Simulation of charge readout with segmented tiles in nEXO,Search for Double Beta Decays of $^{134}$Xe with EXO-200 Phase II,0.734754
+"Measurement of the Spectral Shape of the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>-Decay of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> to the Ground State of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> in EXO-200 and Comparison with Theory",Generative adversarial networks for scintillation signal simulation in EXO-200,0.37884
+"Measurement of the Spectral Shape of the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>-Decay of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> to the Ground State of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> in EXO-200 and Comparison with Theory",Optical analysis of the Pacific Ocean Neutrino Experiment (P-ONE) site using data from the first pathfinder mooring,0.468305
+"Measurement of the Spectral Shape of the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>-Decay of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> to the Ground State of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> in EXO-200 and Comparison with Theory",Fourier descriptors and neural networks far shape classification,8.6e-05
+"Measurement of the Spectral Shape of the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>-Decay of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> to the Ground State of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> in EXO-200 and Comparison with Theory",Characterization of external cross-talk from silicon photomultipliers in a liquid xenon detector,0.38781
+"Measurement of the Spectral Shape of the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>-Decay of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> to the Ground State of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> in EXO-200 and Comparison with Theory",Position reconstruction in the DEAP-3600 dark matter search experiment,0.324754
+"Measurement of the Spectral Shape of the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>-Decay of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> to the Ground State of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> in EXO-200 and Comparison with Theory",Considerations for The Application of GPS in Satellites: GPS System Trade Study,0.083401
+"Measurement of the Spectral Shape of the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>-Decay of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> to the Ground State of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> in EXO-200 and Comparison with Theory",Pacific Ocean Neutrino Experiment (P-ONE): prototype line development,0.442248
+"Measurement of the Spectral Shape of the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>-Decay of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> to the Ground State of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> in EXO-200 and Comparison with Theory",Precision Measurement of the Specific Activity of $^{39}$Ar in Atmospheric Argon with the DEAP-3600 Detector,0.613442
+"Measurement of the Spectral Shape of the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>-Decay of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> to the Ground State of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> in EXO-200 and Comparison with Theory",Attitude Determination And Control Of A Spinning Satellite Using The Earth's Magnetic Field.,-0.008366
+"Measurement of the Spectral Shape of the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>-Decay of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> to the Ground State of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> in EXO-200 and Comparison with Theory","The EXO-200 detector, part II: auxiliary systems",0.605159
+"Measurement of the Spectral Shape of the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>-Decay of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> to the Ground State of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> in EXO-200 and Comparison with Theory",Search for Two-neutrino Double-Beta Decay of $^{136}\rm Xe$ to the $0^+_1$ excited state of $^{136}\rm Ba$ with the Complete EXO-200 Dataset,0.647965
+"Measurement of the Spectral Shape of the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>-Decay of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> to the Ground State of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> in EXO-200 and Comparison with Theory",Simulation Study of Photon-to-Digital Converter (PDC) Timing Specifications for LoLX Experiment,0.369086
+"Measurement of the Spectral Shape of the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>-Decay of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> to the Ground State of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> in EXO-200 and Comparison with Theory",Measuring Dark Currents in Multiple Cryogenic SiPMs With Sub-pA Sensitivity Using an Automated <i>I–V</i> Multiplexer,0.243342
+"Measurement of the Spectral Shape of the <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mi>β</mml:mi></mml:math>-Decay of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Xe</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> to the Ground State of <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi>Cs</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>137</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> in EXO-200 and Comparison with Theory",Search for Double Beta Decays of $^{134}$Xe with EXO-200 Phase II,0.732016
+Generative adversarial networks for scintillation signal simulation in EXO-200,Optical analysis of the Pacific Ocean Neutrino Experiment (P-ONE) site using data from the first pathfinder mooring,0.386005
+Generative adversarial networks for scintillation signal simulation in EXO-200,Fourier descriptors and neural networks far shape classification,0.190351
+Generative adversarial networks for scintillation signal simulation in EXO-200,Characterization of external cross-talk from silicon photomultipliers in a liquid xenon detector,0.467956
+Generative adversarial networks for scintillation signal simulation in EXO-200,Position reconstruction in the DEAP-3600 dark matter search experiment,0.48222
+Generative adversarial networks for scintillation signal simulation in EXO-200,Considerations for The Application of GPS in Satellites: GPS System Trade Study,0.091873
+Generative adversarial networks for scintillation signal simulation in EXO-200,Pacific Ocean Neutrino Experiment (P-ONE): prototype line development,0.369864
+Generative adversarial networks for scintillation signal simulation in EXO-200,Precision Measurement of the Specific Activity of $^{39}$Ar in Atmospheric Argon with the DEAP-3600 Detector,0.391672
+Generative adversarial networks for scintillation signal simulation in EXO-200,Attitude Determination And Control Of A Spinning Satellite Using The Earth's Magnetic Field.,0.078145
+Generative adversarial networks for scintillation signal simulation in EXO-200,"The EXO-200 detector, part II: auxiliary systems",0.404726
+Generative adversarial networks for scintillation signal simulation in EXO-200,Search for Two-neutrino Double-Beta Decay of $^{136}\rm Xe$ to the $0^+_1$ excited state of $^{136}\rm Ba$ with the Complete EXO-200 Dataset,0.528281
+Generative adversarial networks for scintillation signal simulation in EXO-200,Simulation Study of Photon-to-Digital Converter (PDC) Timing Specifications for LoLX Experiment,0.474421
+Generative adversarial networks for scintillation signal simulation in EXO-200,Measuring Dark Currents in Multiple Cryogenic SiPMs With Sub-pA Sensitivity Using an Automated <i>I–V</i> Multiplexer,0.334329
+Generative adversarial networks for scintillation signal simulation in EXO-200,Search for Double Beta Decays of $^{134}$Xe with EXO-200 Phase II,0.412403
+Optical analysis of the Pacific Ocean Neutrino Experiment (P-ONE) site using data from the first pathfinder mooring,Fourier descriptors and neural networks far shape classification,-0.007159
+Optical analysis of the Pacific Ocean Neutrino Experiment (P-ONE) site using data from the first pathfinder mooring,Characterization of external cross-talk from silicon photomultipliers in a liquid xenon detector,0.46507
+Optical analysis of the Pacific Ocean Neutrino Experiment (P-ONE) site using data from the first pathfinder mooring,Position reconstruction in the DEAP-3600 dark matter search experiment,0.40788
+Optical analysis of the Pacific Ocean Neutrino Experiment (P-ONE) site using data from the first pathfinder mooring,Considerations for The Application of GPS in Satellites: GPS System Trade Study,0.063775
+Optical analysis of the Pacific Ocean Neutrino Experiment (P-ONE) site using data from the first pathfinder mooring,Pacific Ocean Neutrino Experiment (P-ONE): prototype line development,0.823628
+Optical analysis of the Pacific Ocean Neutrino Experiment (P-ONE) site using data from the first pathfinder mooring,Precision Measurement of the Specific Activity of $^{39}$Ar in Atmospheric Argon with the DEAP-3600 Detector,0.436061
+Optical analysis of the Pacific Ocean Neutrino Experiment (P-ONE) site using data from the first pathfinder mooring,Attitude Determination And Control Of A Spinning Satellite Using The Earth's Magnetic Field.,0.019393
+Optical analysis of the Pacific Ocean Neutrino Experiment (P-ONE) site using data from the first pathfinder mooring,"The EXO-200 detector, part II: auxiliary systems",0.530435
+Optical analysis of the Pacific Ocean Neutrino Experiment (P-ONE) site using data from the first pathfinder mooring,Search for Two-neutrino Double-Beta Decay of $^{136}\rm Xe$ to the $0^+_1$ excited state of $^{136}\rm Ba$ with the Complete EXO-200 Dataset,0.524704
+Optical analysis of the Pacific Ocean Neutrino Experiment (P-ONE) site using data from the first pathfinder mooring,Simulation Study of Photon-to-Digital Converter (PDC) Timing Specifications for LoLX Experiment,0.441274
+Optical analysis of the Pacific Ocean Neutrino Experiment (P-ONE) site using data from the first pathfinder mooring,Measuring Dark Currents in Multiple Cryogenic SiPMs With Sub-pA Sensitivity Using an Automated <i>I–V</i> Multiplexer,0.258693
+Optical analysis of the Pacific Ocean Neutrino Experiment (P-ONE) site using data from the first pathfinder mooring,Search for Double Beta Decays of $^{134}$Xe with EXO-200 Phase II,0.543043
+Fourier descriptors and neural networks far shape classification,Characterization of external cross-talk from silicon photomultipliers in a liquid xenon detector,-0.029074
+Fourier descriptors and neural networks far shape classification,Position reconstruction in the DEAP-3600 dark matter search experiment,0.072367
+Fourier descriptors and neural networks far shape classification,Considerations for The Application of GPS in Satellites: GPS System Trade Study,0.038293
+Fourier descriptors and neural networks far shape classification,Pacific Ocean Neutrino Experiment (P-ONE): prototype line development,0.037885
+Fourier descriptors and neural networks far shape classification,Precision Measurement of the Specific Activity of $^{39}$Ar in Atmospheric Argon with the DEAP-3600 Detector,-0.016009
+Fourier descriptors and neural networks far shape classification,Attitude Determination And Control Of A Spinning Satellite Using The Earth's Magnetic Field.,0.050738
+Fourier descriptors and neural networks far shape classification,"The EXO-200 detector, part II: auxiliary systems",0.063455
+Fourier descriptors and neural networks far shape classification,Search for Two-neutrino Double-Beta Decay of $^{136}\rm Xe$ to the $0^+_1$ excited state of $^{136}\rm Ba$ with the Complete EXO-200 Dataset,0.141379
+Fourier descriptors and neural networks far shape classification,Simulation Study of Photon-to-Digital Converter (PDC) Timing Specifications for LoLX Experiment,0.024057
+Fourier descriptors and neural networks far shape classification,Measuring Dark Currents in Multiple Cryogenic SiPMs With Sub-pA Sensitivity Using an Automated <i>I–V</i> Multiplexer,-0.010139
+Fourier descriptors and neural networks far shape classification,Search for Double Beta Decays of $^{134}$Xe with EXO-200 Phase II,-0.01926
+Characterization of external cross-talk from silicon photomultipliers in a liquid xenon detector,Position reconstruction in the DEAP-3600 dark matter search experiment,0.478363
+Characterization of external cross-talk from silicon photomultipliers in a liquid xenon detector,Considerations for The Application of GPS in Satellites: GPS System Trade Study,0.013371
+Characterization of external cross-talk from silicon photomultipliers in a liquid xenon detector,Pacific Ocean Neutrino Experiment (P-ONE): prototype line development,0.351043
+Characterization of external cross-talk from silicon photomultipliers in a liquid xenon detector,Precision Measurement of the Specific Activity of $^{39}$Ar in Atmospheric Argon with the DEAP-3600 Detector,0.442232
+Characterization of external cross-talk from silicon photomultipliers in a liquid xenon detector,Attitude Determination And Control Of A Spinning Satellite Using The Earth's Magnetic Field.,0.023063
+Characterization of external cross-talk from silicon photomultipliers in a liquid xenon detector,"The EXO-200 detector, part II: auxiliary systems",0.521138
+Characterization of external cross-talk from silicon photomultipliers in a liquid xenon detector,Search for Two-neutrino Double-Beta Decay of $^{136}\rm Xe$ to the $0^+_1$ excited state of $^{136}\rm Ba$ with the Complete EXO-200 Dataset,0.388614
+Characterization of external cross-talk from silicon photomultipliers in a liquid xenon detector,Simulation Study of Photon-to-Digital Converter (PDC) Timing Specifications for LoLX Experiment,0.677652
+Characterization of external cross-talk from silicon photomultipliers in a liquid xenon detector,Measuring Dark Currents in Multiple Cryogenic SiPMs With Sub-pA Sensitivity Using an Automated <i>I–V</i> Multiplexer,0.602517
+Characterization of external cross-talk from silicon photomultipliers in a liquid xenon detector,Search for Double Beta Decays of $^{134}$Xe with EXO-200 Phase II,0.45077
+Position reconstruction in the DEAP-3600 dark matter search experiment,Considerations for The Application of GPS in Satellites: GPS System Trade Study,0.046427
+Position reconstruction in the DEAP-3600 dark matter search experiment,Pacific Ocean Neutrino Experiment (P-ONE): prototype line development,0.368157
+Position reconstruction in the DEAP-3600 dark matter search experiment,Precision Measurement of the Specific Activity of $^{39}$Ar in Atmospheric Argon with the DEAP-3600 Detector,0.59715
+Position reconstruction in the DEAP-3600 dark matter search experiment,Attitude Determination And Control Of A Spinning Satellite Using The Earth's Magnetic Field.,0.10788
+Position reconstruction in the DEAP-3600 dark matter search experiment,"The EXO-200 detector, part II: auxiliary systems",0.378263
+Position reconstruction in the DEAP-3600 dark matter search experiment,Search for Two-neutrino Double-Beta Decay of $^{136}\rm Xe$ to the $0^+_1$ excited state of $^{136}\rm Ba$ with the Complete EXO-200 Dataset,0.43744
+Position reconstruction in the DEAP-3600 dark matter search experiment,Simulation Study of Photon-to-Digital Converter (PDC) Timing Specifications for LoLX Experiment,0.4004
+Position reconstruction in the DEAP-3600 dark matter search experiment,Measuring Dark Currents in Multiple Cryogenic SiPMs With Sub-pA Sensitivity Using an Automated <i>I–V</i> Multiplexer,0.333256
+Position reconstruction in the DEAP-3600 dark matter search experiment,Search for Double Beta Decays of $^{134}$Xe with EXO-200 Phase II,0.388595
+Considerations for The Application of GPS in Satellites: GPS System Trade Study,Pacific Ocean Neutrino Experiment (P-ONE): prototype line development,0.207864
+Considerations for The Application of GPS in Satellites: GPS System Trade Study,Precision Measurement of the Specific Activity of $^{39}$Ar in Atmospheric Argon with the DEAP-3600 Detector,0.097045
+Considerations for The Application of GPS in Satellites: GPS System Trade Study,Attitude Determination And Control Of A Spinning Satellite Using The Earth's Magnetic Field.,-0.006299
+Considerations for The Application of GPS in Satellites: GPS System Trade Study,"The EXO-200 detector, part II: auxiliary systems",0.096082
+Considerations for The Application of GPS in Satellites: GPS System Trade Study,Search for Two-neutrino Double-Beta Decay of $^{136}\rm Xe$ to the $0^+_1$ excited state of $^{136}\rm Ba$ with the Complete EXO-200 Dataset,0.081218
+Considerations for The Application of GPS in Satellites: GPS System Trade Study,Simulation Study of Photon-to-Digital Converter (PDC) Timing Specifications for LoLX Experiment,0.120201
+Considerations for The Application of GPS in Satellites: GPS System Trade Study,Measuring Dark Currents in Multiple Cryogenic SiPMs With Sub-pA Sensitivity Using an Automated <i>I–V</i> Multiplexer,0.115321
+Considerations for The Application of GPS in Satellites: GPS System Trade Study,Search for Double Beta Decays of $^{134}$Xe with EXO-200 Phase II,0.04435
+Pacific Ocean Neutrino Experiment (P-ONE): prototype line development,Precision Measurement of the Specific Activity of $^{39}$Ar in Atmospheric Argon with the DEAP-3600 Detector,0.429594
+Pacific Ocean Neutrino Experiment (P-ONE): prototype line development,Attitude Determination And Control Of A Spinning Satellite Using The Earth's Magnetic Field.,0.04931
+Pacific Ocean Neutrino Experiment (P-ONE): prototype line development,"The EXO-200 detector, part II: auxiliary systems",0.545442
+Pacific Ocean Neutrino Experiment (P-ONE): prototype line development,Search for Two-neutrino Double-Beta Decay of $^{136}\rm Xe$ to the $0^+_1$ excited state of $^{136}\rm Ba$ with the Complete EXO-200 Dataset,0.526758
+Pacific Ocean Neutrino Experiment (P-ONE): prototype line development,Simulation Study of Photon-to-Digital Converter (PDC) Timing Specifications for LoLX Experiment,0.366985
+Pacific Ocean Neutrino Experiment (P-ONE): prototype line development,Measuring Dark Currents in Multiple Cryogenic SiPMs With Sub-pA Sensitivity Using an Automated <i>I–V</i> Multiplexer,0.33626
+Pacific Ocean Neutrino Experiment (P-ONE): prototype line development,Search for Double Beta Decays of $^{134}$Xe with EXO-200 Phase II,0.514019
+Precision Measurement of the Specific Activity of $^{39}$Ar in Atmospheric Argon with the DEAP-3600 Detector,Attitude Determination And Control Of A Spinning Satellite Using The Earth's Magnetic Field.,0.070169
+Precision Measurement of the Specific Activity of $^{39}$Ar in Atmospheric Argon with the DEAP-3600 Detector,"The EXO-200 detector, part II: auxiliary systems",0.532281
+Precision Measurement of the Specific Activity of $^{39}$Ar in Atmospheric Argon with the DEAP-3600 Detector,Search for Two-neutrino Double-Beta Decay of $^{136}\rm Xe$ to the $0^+_1$ excited state of $^{136}\rm Ba$ with the Complete EXO-200 Dataset,0.613431
+Precision Measurement of the Specific Activity of $^{39}$Ar in Atmospheric Argon with the DEAP-3600 Detector,Simulation Study of Photon-to-Digital Converter (PDC) Timing Specifications for LoLX Experiment,0.393946
+Precision Measurement of the Specific Activity of $^{39}$Ar in Atmospheric Argon with the DEAP-3600 Detector,Measuring Dark Currents in Multiple Cryogenic SiPMs With Sub-pA Sensitivity Using an Automated <i>I–V</i> Multiplexer,0.32603
+Precision Measurement of the Specific Activity of $^{39}$Ar in Atmospheric Argon with the DEAP-3600 Detector,Search for Double Beta Decays of $^{134}$Xe with EXO-200 Phase II,0.63503
+Attitude Determination And Control Of A Spinning Satellite Using The Earth's Magnetic Field.,"The EXO-200 detector, part II: auxiliary systems",0.026521
+Attitude Determination And Control Of A Spinning Satellite Using The Earth's Magnetic Field.,Search for Two-neutrino Double-Beta Decay of $^{136}\rm Xe$ to the $0^+_1$ excited state of $^{136}\rm Ba$ with the Complete EXO-200 Dataset,0.037937
+Attitude Determination And Control Of A Spinning Satellite Using The Earth's Magnetic Field.,Simulation Study of Photon-to-Digital Converter (PDC) Timing Specifications for LoLX Experiment,0.051829
+Attitude Determination And Control Of A Spinning Satellite Using The Earth's Magnetic Field.,Measuring Dark Currents in Multiple Cryogenic SiPMs With Sub-pA Sensitivity Using an Automated <i>I–V</i> Multiplexer,0.004265
+Attitude Determination And Control Of A Spinning Satellite Using The Earth's Magnetic Field.,Search for Double Beta Decays of $^{134}$Xe with EXO-200 Phase II,-0.006277
+"The EXO-200 detector, part II: auxiliary systems",Search for Two-neutrino Double-Beta Decay of $^{136}\rm Xe$ to the $0^+_1$ excited state of $^{136}\rm Ba$ with the Complete EXO-200 Dataset,0.669251
+"The EXO-200 detector, part II: auxiliary systems",Simulation Study of Photon-to-Digital Converter (PDC) Timing Specifications for LoLX Experiment,0.580735
+"The EXO-200 detector, part II: auxiliary systems",Measuring Dark Currents in Multiple Cryogenic SiPMs With Sub-pA Sensitivity Using an Automated <i>I–V</i> Multiplexer,0.37865
+"The EXO-200 detector, part II: auxiliary systems",Search for Double Beta Decays of $^{134}$Xe with EXO-200 Phase II,0.79903
+Search for Two-neutrino Double-Beta Decay of $^{136}\rm Xe$ to the $0^+_1$ excited state of $^{136}\rm Ba$ with the Complete EXO-200 Dataset,Simulation Study of Photon-to-Digital Converter (PDC) Timing Specifications for LoLX Experiment,0.382068
+Search for Two-neutrino Double-Beta Decay of $^{136}\rm Xe$ to the $0^+_1$ excited state of $^{136}\rm Ba$ with the Complete EXO-200 Dataset,Measuring Dark Currents in Multiple Cryogenic SiPMs With Sub-pA Sensitivity Using an Automated <i>I–V</i> Multiplexer,0.210537
+Search for Two-neutrino Double-Beta Decay of $^{136}\rm Xe$ to the $0^+_1$ excited state of $^{136}\rm Ba$ with the Complete EXO-200 Dataset,Search for Double Beta Decays of $^{134}$Xe with EXO-200 Phase II,0.833376
+Simulation Study of Photon-to-Digital Converter (PDC) Timing Specifications for LoLX Experiment,Measuring Dark Currents in Multiple Cryogenic SiPMs With Sub-pA Sensitivity Using an Automated <i>I–V</i> Multiplexer,0.490957
+Simulation Study of Photon-to-Digital Converter (PDC) Timing Specifications for LoLX Experiment,Search for Double Beta Decays of $^{134}$Xe with EXO-200 Phase II,0.483827
+Measuring Dark Currents in Multiple Cryogenic SiPMs With Sub-pA Sensitivity Using an Automated <i>I–V</i> Multiplexer,Search for Double Beta Decays of $^{134}$Xe with EXO-200 Phase II,0.229471

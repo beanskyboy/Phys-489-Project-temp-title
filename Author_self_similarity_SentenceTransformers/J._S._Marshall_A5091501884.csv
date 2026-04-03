@@ -1,0 +1,106 @@
+title_i,title_j,cosine_similarity
+Friction,Electrostatics,0.213742
+Friction,Irreversibility,0.188806
+Friction,Fluid Mechanics,0.342123
+Friction,Resistance,0.033833
+Friction,Alternating Currents,0.143763
+Friction,Electric Current,0.304736
+Friction,Force,0.476438
+Friction,Kinematics,0.520978
+Friction,Electromagnetic Induction,0.315725
+Friction,Radiation,0.374505
+Friction,Particle Physics,0.064683
+Friction,Acoustics,0.025868
+Friction,Gravitation,0.137562
+Friction,Electronics,0.175232
+Electrostatics,Irreversibility,0.050286
+Electrostatics,Fluid Mechanics,0.257083
+Electrostatics,Resistance,0.330657
+Electrostatics,Alternating Currents,0.362473
+Electrostatics,Electric Current,0.393579
+Electrostatics,Force,0.324167
+Electrostatics,Kinematics,0.242466
+Electrostatics,Electromagnetic Induction,0.632063
+Electrostatics,Radiation,0.299312
+Electrostatics,Particle Physics,0.069304
+Electrostatics,Acoustics,0.045293
+Electrostatics,Gravitation,0.149097
+Electrostatics,Electronics,0.687117
+Irreversibility,Fluid Mechanics,0.241563
+Irreversibility,Resistance,-0.031227
+Irreversibility,Alternating Currents,-0.006625
+Irreversibility,Electric Current,0.011318
+Irreversibility,Force,0.216589
+Irreversibility,Kinematics,0.146927
+Irreversibility,Electromagnetic Induction,0.076686
+Irreversibility,Radiation,0.335157
+Irreversibility,Particle Physics,-0.023294
+Irreversibility,Acoustics,0.034335
+Irreversibility,Gravitation,0.082811
+Irreversibility,Electronics,0.022428
+Fluid Mechanics,Resistance,0.075499
+Fluid Mechanics,Alternating Currents,0.012735
+Fluid Mechanics,Electric Current,-0.004171
+Fluid Mechanics,Force,0.470689
+Fluid Mechanics,Kinematics,0.428358
+Fluid Mechanics,Electromagnetic Induction,0.175846
+Fluid Mechanics,Radiation,0.323575
+Fluid Mechanics,Particle Physics,0.227158
+Fluid Mechanics,Acoustics,0.13679
+Fluid Mechanics,Gravitation,0.13474
+Fluid Mechanics,Electronics,0.23202
+Resistance,Alternating Currents,0.196835
+Resistance,Electric Current,0.227172
+Resistance,Force,0.125006
+Resistance,Kinematics,0.132781
+Resistance,Electromagnetic Induction,0.268407
+Resistance,Radiation,0.071022
+Resistance,Particle Physics,0.013904
+Resistance,Acoustics,0.096511
+Resistance,Gravitation,0.068784
+Resistance,Electronics,0.229019
+Alternating Currents,Electric Current,0.427675
+Alternating Currents,Force,0.158533
+Alternating Currents,Kinematics,0.102153
+Alternating Currents,Electromagnetic Induction,0.498913
+Alternating Currents,Radiation,0.131595
+Alternating Currents,Particle Physics,0.052734
+Alternating Currents,Acoustics,0.119742
+Alternating Currents,Gravitation,0.080204
+Alternating Currents,Electronics,0.334905
+Electric Current,Force,0.147802
+Electric Current,Kinematics,0.177866
+Electric Current,Electromagnetic Induction,0.43817
+Electric Current,Radiation,0.207516
+Electric Current,Particle Physics,-0.011083
+Electric Current,Acoustics,0.017231
+Electric Current,Gravitation,0.115395
+Electric Current,Electronics,0.321589
+Force,Kinematics,0.631224
+Force,Electromagnetic Induction,0.29595
+Force,Radiation,0.30251
+Force,Particle Physics,0.216805
+Force,Acoustics,0.1475
+Force,Gravitation,0.250157
+Force,Electronics,0.249265
+Kinematics,Electromagnetic Induction,0.281655
+Kinematics,Radiation,0.298964
+Kinematics,Particle Physics,0.250817
+Kinematics,Acoustics,0.110258
+Kinematics,Gravitation,0.330836
+Kinematics,Electronics,0.301941
+Electromagnetic Induction,Radiation,0.409123
+Electromagnetic Induction,Particle Physics,0.081487
+Electromagnetic Induction,Acoustics,0.06943
+Electromagnetic Induction,Gravitation,0.217747
+Electromagnetic Induction,Electronics,0.640125
+Radiation,Particle Physics,0.232128
+Radiation,Acoustics,-0.001522
+Radiation,Gravitation,0.249432
+Radiation,Electronics,0.422004
+Particle Physics,Acoustics,0.060342
+Particle Physics,Gravitation,0.199496
+Particle Physics,Electronics,0.164221
+Acoustics,Gravitation,0.00424
+Acoustics,Electronics,0.003186
+Gravitation,Electronics,0.218715

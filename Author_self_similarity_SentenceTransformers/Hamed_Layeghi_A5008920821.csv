@@ -1,0 +1,7 @@
+title_i,title_j,cosine_similarity
+Staying Together: A Bidirectional Delay–Coupled Approach to Joint Action,Stability of Receding Horizon Control with Smooth Value Functions,0.012391
+Staying Together: A Bidirectional Delay–Coupled Approach to Joint Action,A Hamilton-Jacobi-Bellman methodology for the stability of receding horizon control,0.000541
+Staying Together: A Bidirectional Delay–Coupled Approach to Joint Action,Fuzzy Adaptive Sliding Mode Control of Chaos,0.146042
+Stability of Receding Horizon Control with Smooth Value Functions,A Hamilton-Jacobi-Bellman methodology for the stability of receding horizon control,0.902335
+Stability of Receding Horizon Control with Smooth Value Functions,Fuzzy Adaptive Sliding Mode Control of Chaos,0.222773
+A Hamilton-Jacobi-Bellman methodology for the stability of receding horizon control,Fuzzy Adaptive Sliding Mode Control of Chaos,0.201907

@@ -1,0 +1,4 @@
+title_i,title_j,cosine_similarity
+Design and testing of a kinematic package supporting a 32×32 array of GaAs MQW modulators flip-chip bonded to a CMOS chip,A 3.2 Gbps VCSEL driver implemented in 0.18μm CMOS,0.470481
+Design and testing of a kinematic package supporting a 32×32 array of GaAs MQW modulators flip-chip bonded to a CMOS chip,018-μm complementary metal-oxide semiconductor push-pull vertical-cavity surface-emitting laser driver operating at 25 Gb/s with symmetric rising and falling edges,0.490381
+A 3.2 Gbps VCSEL driver implemented in 0.18μm CMOS,018-μm complementary metal-oxide semiconductor push-pull vertical-cavity surface-emitting laser driver operating at 25 Gb/s with symmetric rising and falling edges,0.846081

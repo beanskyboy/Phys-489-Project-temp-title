@@ -1,0 +1,11 @@
+title_i,title_j,cosine_similarity
+A review of near infrared photon emission microscopy and spectroscopy,Optical Frequency Comb Generation Using CMOS Compatible Cascaded Mach–Zehnder Modulators,0.111884
+A review of near infrared photon emission microscopy and spectroscopy,Detectivity Optimization of InGaAs Photon Emission Microscope Systems,0.703415
+A review of near infrared photon emission microscopy and spectroscopy,On-Chip Frequency Comb Generation Using Cascaded MZMs in SiP for Microwave Photonics Applications,0.121222
+A review of near infrared photon emission microscopy and spectroscopy,Enhanced Pixel by Pixel Emissivity Correction for Thermal Microscopy,0.374041
+Optical Frequency Comb Generation Using CMOS Compatible Cascaded Mach–Zehnder Modulators,Detectivity Optimization of InGaAs Photon Emission Microscope Systems,0.119901
+Optical Frequency Comb Generation Using CMOS Compatible Cascaded Mach–Zehnder Modulators,On-Chip Frequency Comb Generation Using Cascaded MZMs in SiP for Microwave Photonics Applications,0.882819
+Optical Frequency Comb Generation Using CMOS Compatible Cascaded Mach–Zehnder Modulators,Enhanced Pixel by Pixel Emissivity Correction for Thermal Microscopy,-0.044041
+Detectivity Optimization of InGaAs Photon Emission Microscope Systems,On-Chip Frequency Comb Generation Using Cascaded MZMs in SiP for Microwave Photonics Applications,0.141088
+Detectivity Optimization of InGaAs Photon Emission Microscope Systems,Enhanced Pixel by Pixel Emissivity Correction for Thermal Microscopy,0.444803
+On-Chip Frequency Comb Generation Using Cascaded MZMs in SiP for Microwave Photonics Applications,Enhanced Pixel by Pixel Emissivity Correction for Thermal Microscopy,-0.017378

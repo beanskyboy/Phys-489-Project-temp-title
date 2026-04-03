@@ -1,11 +1,11 @@
-abstract_i,abstract_j,cosine_similarity
-0,1,0.534923
-0,2,0.549948
-0,3,0.553599
-0,4,0.527752
-1,2,0.765572
-1,3,0.558448
-1,4,0.776462
-2,3,0.523909
-2,4,0.853039
-3,4,0.506085
+title_i,title_j,cosine_similarity
+"Development, Validation and Integration of the ATLAS Trigger System Software in Run 2",Analysis of Cosmic Data,0.553599
+"Development, Validation and Integration of the ATLAS Trigger System Software in Run 2",QCD with jets and heavy flavour in pp and PbPb collisions in ATLAS,0.534923
+"Development, Validation and Integration of the ATLAS Trigger System Software in Run 2",Study of photon production also in association with jets with the ATLAS detector,0.527752
+"Development, Validation and Integration of the ATLAS Trigger System Software in Run 2",Measurement of the Production Cross Section of the Photon + Charm Final State in 8-TeV Proton-Proton Collisions using the ATLAS Detector at the LHC,0.549947
+Analysis of Cosmic Data,QCD with jets and heavy flavour in pp and PbPb collisions in ATLAS,0.558448
+Analysis of Cosmic Data,Study of photon production also in association with jets with the ATLAS detector,0.506085
+Analysis of Cosmic Data,Measurement of the Production Cross Section of the Photon + Charm Final State in 8-TeV Proton-Proton Collisions using the ATLAS Detector at the LHC,0.523909
+QCD with jets and heavy flavour in pp and PbPb collisions in ATLAS,Study of photon production also in association with jets with the ATLAS detector,0.776463
+QCD with jets and heavy flavour in pp and PbPb collisions in ATLAS,Measurement of the Production Cross Section of the Photon + Charm Final State in 8-TeV Proton-Proton Collisions using the ATLAS Detector at the LHC,0.765571
+Study of photon production also in association with jets with the ATLAS detector,Measurement of the Production Cross Section of the Photon + Charm Final State in 8-TeV Proton-Proton Collisions using the ATLAS Detector at the LHC,0.853039

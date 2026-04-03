@@ -1,529 +1,529 @@
-abstract_i,abstract_j,cosine_similarity
-0,1,0.117496
-0,2,0.365567
-0,3,-0.025112
-0,4,0.019034
-0,5,-0.061288
-0,6,0.014918
-0,7,0.284018
-0,8,0.23001
-0,9,0.081316
-0,10,-0.044967
-0,11,-0.010909
-0,12,-0.024108
-0,13,0.021964
-0,14,-0.049123
-0,15,0.120262
-0,16,0.229279
-0,17,-0.001051
-0,18,0.058442
-0,19,0.020141
-0,20,0.132564
-0,21,0.021344
-0,22,0.04999
-0,23,0.015872
-0,24,0.23129
-0,25,-0.02036
-0,26,0.047893
-0,27,0.022986
-0,28,0.082264
-0,29,0.322834
-0,30,0.175972
-0,31,0.153362
-0,32,0.119
-1,2,0.106872
-1,3,-0.073842
-1,4,0.014496
-1,5,-0.010529
-1,6,-0.073561
-1,7,0.408509
-1,8,0.092411
-1,9,-0.081087
-1,10,0.168932
-1,11,-0.06003
-1,12,-0.10747
-1,13,-0.032352
-1,14,0.018862
-1,15,-0.029509
-1,16,0.087101
-1,17,0.003797
-1,18,0.112443
-1,19,0.051488
-1,20,0.042278
-1,21,-0.034047
-1,22,-0.002929
-1,23,0.056927
-1,24,0.170795
-1,25,0.049774
-1,26,0.111152
-1,27,0.265495
-1,28,0.08304
-1,29,0.178075
-1,30,0.057926
-1,31,-0.048916
-1,32,0.202198
-2,3,0.123516
-2,4,-0.089961
-2,5,0.019141
-2,6,-0.024256
-2,7,0.186717
-2,8,0.070089
-2,9,0.117342
-2,10,-0.088278
-2,11,-0.01413
-2,12,-0.014751
-2,13,0.032509
-2,14,-0.102895
-2,15,-0.012877
-2,16,0.415796
-2,17,0.155387
-2,18,0.047689
-2,19,0.011051
-2,20,0.011722
-2,21,-0.034312
-2,22,0.052576
-2,23,-0.07826
-2,24,0.2724
-2,25,-0.026443
-2,26,0.05229
-2,27,0.000521
-2,28,0.248653
-2,29,0.515481
-2,30,0.110541
-2,31,0.083104
-2,32,0.071602
-3,4,-0.088668
-3,5,0.007963
-3,6,-0.025575
-3,7,0.023315
-3,8,-0.065392
-3,9,0.01771
-3,10,0.032265
-3,11,-0.010523
-3,12,0.011196
-3,13,0.000251
-3,14,-0.064951
-3,15,0.012109
-3,16,-0.036031
-3,17,0.506575
-3,18,-0.004797
-3,19,-0.106232
-3,20,-0.067437
-3,21,0.003798
-3,22,0.048139
-3,23,-0.053964
-3,24,0.047108
-3,25,-0.063852
-3,26,0.02482
-3,27,-0.036538
-3,28,0.14418
-3,29,0.114941
-3,30,-0.00453
-3,31,0.012699
-3,32,-0.048788
-4,5,0.120339
-4,6,0.377459
-4,7,0.015421
-4,8,0.017692
-4,9,0.021336
-4,10,0.052321
-4,11,0.268312
-4,12,0.162059
-4,13,0.144276
-4,14,0.048998
-4,15,0.048181
-4,16,0.054258
-4,17,-0.07838
-4,18,0.137924
-4,19,0.439384
-4,20,0.08218
-4,21,-0.030689
-4,22,0.040188
-4,23,0.535803
-4,24,-0.013276
-4,25,0.015672
-4,26,0.259651
-4,27,0.09068
-4,28,-0.055993
-4,29,0.005191
-4,30,-0.045241
-4,31,0.031617
-4,32,0.278599
-5,6,0.108685
-5,7,-0.020275
-5,8,0.044875
-5,9,0.064818
-5,10,0.01128
-5,11,0.065368
-5,12,0.164221
-5,13,0.094769
-5,14,-0.011996
-5,15,0.096254
-5,16,0.012159
-5,17,-0.001221
-5,18,0.086731
-5,19,0.059506
-5,20,0.04875
-5,21,0.047152
-5,22,0.076474
-5,23,0.078767
-5,24,-0.064419
-5,25,-0.029189
-5,26,0.00584
-5,27,0.0199
-5,28,0.036767
-5,29,0.014366
-5,30,-0.008495
-5,31,0.047803
-5,32,-0.039847
-6,7,0.010322
-6,8,-0.060124
-6,9,-0.037404
-6,10,0.050933
-6,11,0.106542
-6,12,0.089119
-6,13,-0.054184
-6,14,-0.018778
-6,15,0.031871
-6,16,-0.025935
-6,17,-0.026217
-6,18,-0.024959
-6,19,0.196188
-6,20,-0.025197
-6,21,-0.035845
-6,22,0.032814
-6,23,0.342843
-6,24,-0.00583
-6,25,0.015889
-6,26,0.109315
-6,27,-0.076054
-6,28,0.045193
-6,29,0.021727
-6,30,-0.030908
-6,31,-0.029462
-6,32,0.003879
-7,8,0.161649
-7,9,-0.041658
-7,10,0.04341
-7,11,-0.078717
-7,12,-0.085645
-7,13,-0.017174
-7,14,-0.037475
-7,15,-0.021396
-7,16,0.084635
-7,17,0.02341
-7,18,0.067491
-7,19,0.003525
-7,20,0.126247
-7,21,-0.031042
-7,22,0.029533
-7,23,0.136999
-7,24,0.156745
-7,25,0.123734
-7,26,-0.007289
-7,27,0.181035
-7,28,0.145396
-7,29,0.247936
-7,30,0.056458
-7,31,0.119202
-7,32,0.155776
-8,9,-0.006302
-8,10,0.018496
-8,11,-0.047226
-8,12,0.118252
-8,13,0.234887
-8,14,0.104171
-8,15,0.021545
-8,16,0.147218
-8,17,-0.020672
-8,18,0.190854
-8,19,0.146933
-8,20,0.112667
-8,21,0.040231
-8,22,0.068278
-8,23,0.15821
-8,24,0.012402
-8,25,0.074627
-8,26,0.221341
-8,27,0.03709
-8,28,-0.04351
-8,29,0.091507
-8,30,0.117517
-8,31,0.163898
-8,32,0.098718
-9,10,-0.018363
-9,11,-0.01951
-9,12,-0.00309
-9,13,0.023058
-9,14,-0.025966
-9,15,0.091333
-9,16,0.055974
-9,17,0.095341
-9,18,0.13464
-9,19,0.096503
-9,20,0.106552
-9,21,0.195294
-9,22,0.067303
-9,23,-0.053218
-9,24,0.019768
-9,25,-0.034106
-9,26,0.008324
-9,27,-0.001459
-9,28,0.035841
-9,29,0.136838
-9,30,0.094311
-9,31,0.050028
-9,32,0.057958
-10,11,-0.119845
-10,12,-0.05322
-10,13,-0.060225
-10,14,0.007533
-10,15,-0.005303
-10,16,-0.010577
-10,17,-0.022377
-10,18,0.212685
-10,19,0.061684
-10,20,-0.063154
-10,21,0.025643
-10,22,0.04196
-10,23,0.059485
-10,24,-0.0694
-10,25,-0.009886
-10,26,0.177971
-10,27,0.030493
-10,28,0.059951
-10,29,-0.002045
-10,30,-0.017121
-10,31,-0.096423
-10,32,0.263373
-11,12,0.113588
-11,13,-0.024096
-11,14,0.074904
-11,15,0.165777
-11,16,0.049611
-11,17,-0.016377
-11,18,-0.001264
-11,19,0.218828
-11,20,-0.061025
-11,21,0.036761
-11,22,-0.081419
-11,23,0.121961
-11,24,-0.070933
-11,25,-0.068986
-11,26,0.074959
-11,27,0.126401
-11,28,-0.026005
-11,29,-0.066752
-11,30,-0.003088
-11,31,-0.077436
-11,32,0.015459
-12,13,0.211555
-12,14,0.062416
-12,15,-0.029874
-12,16,0.031479
-12,17,-0.095405
-12,18,0.017746
-12,19,0.143079
-12,20,-0.00235
-12,21,-0.06365
-12,22,-0.005592
-12,23,0.085934
-12,24,-0.037064
-12,25,-0.067612
-12,26,0.080555
-12,27,0.007867
-12,28,-0.010653
-12,29,-0.036567
-12,30,0.145933
-12,31,0.031303
-12,32,-0.024006
-13,14,0.015989
-13,15,-0.008316
-13,16,0.037546
-13,17,0.044888
-13,18,0.084752
-13,19,0.197693
-13,20,0.325106
-13,21,-0.003183
-13,22,0.016205
-13,23,0.110082
-13,24,-0.100178
-13,25,0.076393
-13,26,0.205409
-13,27,0.023131
-13,28,-0.023974
-13,29,-0.036994
-13,30,-0.101368
-13,31,0.416357
-13,32,0.073235
-14,15,-0.001862
-14,16,0.029752
-14,17,0.048819
-14,18,-0.01969
-14,19,0.080825
-14,20,-0.044638
-14,21,0.149403
-14,22,-0.077555
-14,23,0.028599
-14,24,0.005018
-14,25,0.010312
-14,26,-0.002063
-14,27,-0.021528
-14,28,-0.057987
-14,29,-0.000748
-14,30,0.099702
-14,31,-0.094659
-14,32,0.078548
-15,16,0.057253
-15,17,0.031283
-15,18,0.038102
-15,19,0.115312
-15,20,0.014955
-15,21,0.108518
-15,22,0.044514
-15,23,0.042129
-15,24,-0.004647
-15,25,-0.070608
-15,26,0.028947
-15,27,-0.027162
-15,28,0.077178
-15,29,-0.007719
-15,30,-0.025814
-15,31,0.030169
-15,32,0.018651
-16,17,0.052707
-16,18,-0.002195
-16,19,0.081532
-16,20,-0.018541
-16,21,0.102831
-16,22,-0.036708
-16,23,0.077735
-16,24,0.177107
-16,25,-0.011537
-16,26,0.246795
-16,27,0.016005
-16,28,0.017955
-16,29,0.232553
-16,30,0.049082
-16,31,0.064984
-16,32,0.13227
-17,18,-0.039051
-17,19,-0.025761
-17,20,0.021391
-17,21,-0.002695
-17,22,-0.000615
-17,23,-0.054423
-17,24,0.119081
-17,25,0.015045
-17,26,-0.042162
-17,27,-0.029071
-17,28,0.220428
-17,29,0.279535
-17,30,0.042481
-17,31,0.065976
-17,32,-0.073403
-18,19,0.252795
-18,20,0.081736
-18,21,-0.051718
-18,22,-0.02002
-18,23,0.127548
-18,24,-0.066146
-18,25,-0.00725
-18,26,0.072722
-18,27,0.282515
-18,28,-0.010258
-18,29,0.137947
-18,30,-0.015378
-18,31,0.079767
-18,32,0.347031
-19,20,0.132397
-19,21,0.087169
-19,22,0.022925
-19,23,0.38244
-19,24,-0.056209
-19,25,0.101463
-19,26,0.284847
-19,27,0.032076
-19,28,0.002468
-19,29,-0.022113
-19,30,0.033797
-19,31,0.052951
-19,32,0.202503
-20,21,-0.011753
-20,22,-0.064376
-20,23,0.085411
-20,24,0.084268
-20,25,-0.054399
-20,26,0.072816
-20,27,0.004325
-20,28,-0.071529
-20,29,0.037213
-20,30,-0.100848
-20,31,0.583333
-20,32,0.009925
-21,22,0.019784
-21,23,-0.103725
-21,24,0.014865
-21,25,0.012924
-21,26,0.052607
-21,27,-0.043677
-21,28,-0.009688
-21,29,0.016731
-21,30,-0.049863
-21,31,-0.114268
-21,32,0.035114
-22,23,0.015727
-22,24,0.018762
-22,25,0.018445
-22,26,-0.056899
-22,27,-0.051565
-22,28,0.046672
-22,29,0.063354
-22,30,-0.00873
-22,31,-0.002365
-22,32,0.003072
-23,24,-0.027705
-23,25,0.229334
-23,26,0.386645
-23,27,0.020651
-23,28,-0.025945
-23,29,0.035299
-23,30,-0.042805
-23,31,0.041079
-23,32,0.130883
-24,25,0.022298
-24,26,0.021552
-24,27,0.102829
-24,28,0.373556
-24,29,0.392772
-24,30,0.20922
-24,31,0.148139
-24,32,-0.060346
-25,26,0.152908
-25,27,0.052256
-25,28,0.022416
-25,29,-0.009427
-25,30,0.047266
-25,31,-0.037772
-25,32,0.118249
-26,27,0.038785
-26,28,0.008885
-26,29,0.079867
-26,30,-0.094161
-26,31,0.021581
-26,32,0.197357
-27,28,0.030139
-27,29,0.052915
-27,30,0.065209
-27,31,0.025902
-27,32,0.234507
-28,29,0.25432
-28,30,0.150595
-28,31,0.057179
-28,32,-0.009053
-29,30,0.279402
-29,31,0.100511
-29,32,0.092143
-30,31,-0.055888
-30,32,0.018781
-31,32,-0.049874
+title_i,title_j,cosine_similarity
+Rescue of mesangial cells from high glucose-induced over-proliferation and extracellular matrix secretion by hydrogen sulfide,Individual‐level brain morphological similarity networks: Current methodologies and applications,-0.10747
+Rescue of mesangial cells from high glucose-induced over-proliferation and extracellular matrix secretion by hydrogen sulfide,International expert consensus on diagnosis and treatment of lung cancer complicated by chronic obstructive pulmonary disease,0.049774
+Rescue of mesangial cells from high glucose-induced over-proliferation and extracellular matrix secretion by hydrogen sulfide,A fold-back single-chain diabody format enhances the bioactivity of an anti-monkey CD3 recombinant diphtheria toxin-based immunotoxin,0.106872
+Rescue of mesangial cells from high glucose-induced over-proliferation and extracellular matrix secretion by hydrogen sulfide,Reflex sympathetic activation during static exercise is severely impaired in patients with myophosphorylase deficiency,0.265495
+Rescue of mesangial cells from high glucose-induced over-proliferation and extracellular matrix secretion by hydrogen sulfide,"QM and ONIOM studies on thermally activated delayed fluorescence of copper(<scp>i</scp>) complexes in gas phase, solution, and crystal",0.003797
+Rescue of mesangial cells from high glucose-induced over-proliferation and extracellular matrix secretion by hydrogen sulfide,Experimental and Theoretical Studies on Effects of Structural Modification of Tin Nanoclusters for Third-Order Nonlinear Optical Properties,-0.073842
+Rescue of mesangial cells from high glucose-induced over-proliferation and extracellular matrix secretion by hydrogen sulfide,Selenomethionine Alleviates Deoxynivalenol-Induced Oxidative Injury in Porcine Intestinal Epithelial Cells Independent of MAPK Pathway Regulation,0.408509
+Rescue of mesangial cells from high glucose-induced over-proliferation and extracellular matrix secretion by hydrogen sulfide,"Laser doppler flowmetry to detect pulp vitality, clinical reference range and coincidence rate for pulpal blood flow in permanent maxillary incisors in Chinese children: a clinical study",-0.032352
+Rescue of mesangial cells from high glucose-induced over-proliferation and extracellular matrix secretion by hydrogen sulfide,Association between -455G/A and fibrinogen in a Chinese population,0.202198
+Rescue of mesangial cells from high glucose-induced over-proliferation and extracellular matrix secretion by hydrogen sulfide,A Complete 16 μm Selected Galaxy Sample at z ∼ 1: Mid-infrared Spectral Energy Distributions,0.018862
+Rescue of mesangial cells from high glucose-induced over-proliferation and extracellular matrix secretion by hydrogen sulfide,The design and implementation of double side printed patch antenna,-0.002929
+Rescue of mesangial cells from high glucose-induced over-proliferation and extracellular matrix secretion by hydrogen sulfide,Comparison of Six Machine Learning Algorithms for Stroke Risk Estimation,0.014496
+Rescue of mesangial cells from high glucose-induced over-proliferation and extracellular matrix secretion by hydrogen sulfide,The diagnostic efficacy of seven autoantibodies in early detection of ground-glass nodular lung adenocarcinoma,0.111152
+Rescue of mesangial cells from high glucose-induced over-proliferation and extracellular matrix secretion by hydrogen sulfide,The structural basis of Trp192 and the C-terminal region in trichosanthin for activity and conformational stability,0.178075
+Rescue of mesangial cells from high glucose-induced over-proliferation and extracellular matrix secretion by hydrogen sulfide,"Though with constraints imposed by endosymbiosis, preferential attachment is still a plausible mechanism responsible for the evolution of the chloroplast metabolic network",0.057926
+Rescue of mesangial cells from high glucose-induced over-proliferation and extracellular matrix secretion by hydrogen sulfide,Synthesis of Crisamicin A,0.170795
+Rescue of mesangial cells from high glucose-induced over-proliferation and extracellular matrix secretion by hydrogen sulfide,Pheochromocytoma in ectopic pregnancy: a case report.,0.168932
+Rescue of mesangial cells from high glucose-induced over-proliferation and extracellular matrix secretion by hydrogen sulfide,Synthesis of Indolylquinolin-2-ones via a Cross-Coupling-Cyclization Sequence,0.08304
+Rescue of mesangial cells from high glucose-induced over-proliferation and extracellular matrix secretion by hydrogen sulfide,[Comparative research on two different killer strains of Saccharomyces cerevisiae].,0.117496
+Rescue of mesangial cells from high glucose-induced over-proliferation and extracellular matrix secretion by hydrogen sulfide,Clinical research progress of novel bioceramics in pediatric pulp therapy,-0.048916
+Rescue of mesangial cells from high glucose-induced over-proliferation and extracellular matrix secretion by hydrogen sulfide,Progression of the marginal sealability and the influencing factors of stainless steel crowns,0.042278
+Rescue of mesangial cells from high glucose-induced over-proliferation and extracellular matrix secretion by hydrogen sulfide,Sufficient and Necessary Conditions of Cubic Catmull-Rom Spline Preserving Generalized Convex Interpolation,-0.010529
+Rescue of mesangial cells from high glucose-induced over-proliferation and extracellular matrix secretion by hydrogen sulfide,Construction of Precision sMDT Detector for ATLAS Muon Spectrometer Upgrade,-0.034047
+Rescue of mesangial cells from high glucose-induced over-proliferation and extracellular matrix secretion by hydrogen sulfide,Trading Method Based on ARIMA Model and Greedy Algorithm,-0.073561
+Rescue of mesangial cells from high glucose-induced over-proliferation and extracellular matrix secretion by hydrogen sulfide,Supplementary Material for: A hybrid machine learning model based on semantic information can optimize treatment decision for naïve single 3-5cm HCC patients,0.056927
+Rescue of mesangial cells from high glucose-induced over-proliferation and extracellular matrix secretion by hydrogen sulfide,Investigation on the Flow and Heat Transfer Characteristics in a Multi-Pass Channel Using Magnetic Resonance Velocimetry and Transient Thermochromic Liquid Crystal,-0.081087
+Rescue of mesangial cells from high glucose-induced over-proliferation and extracellular matrix secretion by hydrogen sulfide,Numerical simulation of transient pressure characteristics of arc discharge in water,-0.029509
+Rescue of mesangial cells from high glucose-induced over-proliferation and extracellular matrix secretion by hydrogen sulfide,Association between impaired left ventricular global longitudinal strain and B-type natriuretic peptide in obstructive hypertrophic cardiomyopathy,0.112443
+Rescue of mesangial cells from high glucose-induced over-proliferation and extracellular matrix secretion by hydrogen sulfide,Association between stent implantation results and target vessel failure after IVUS-Guided PCI: A FLAVOUR substudy,0.051488
+Rescue of mesangial cells from high glucose-induced over-proliferation and extracellular matrix secretion by hydrogen sulfide,Natural course of lung adenocarcinoma manifesting as ground-glass nodules: invasiveness assessment based on growth evaluation,0.092411
+Rescue of mesangial cells from high glucose-induced over-proliferation and extracellular matrix secretion by hydrogen sulfide,Research on the Recognition Method of Fuzzy Features in Tai Chi Force Actions,-0.06003
+Rescue of mesangial cells from high glucose-induced over-proliferation and extracellular matrix secretion by hydrogen sulfide,A searchable database of publications using fluorescent probes and flow cytometry to study antigen-specific B cells,0.087101
+Individual‐level brain morphological similarity networks: Current methodologies and applications,International expert consensus on diagnosis and treatment of lung cancer complicated by chronic obstructive pulmonary disease,-0.067612
+Individual‐level brain morphological similarity networks: Current methodologies and applications,A fold-back single-chain diabody format enhances the bioactivity of an anti-monkey CD3 recombinant diphtheria toxin-based immunotoxin,-0.014751
+Individual‐level brain morphological similarity networks: Current methodologies and applications,Reflex sympathetic activation during static exercise is severely impaired in patients with myophosphorylase deficiency,0.007867
+Individual‐level brain morphological similarity networks: Current methodologies and applications,"QM and ONIOM studies on thermally activated delayed fluorescence of copper(<scp>i</scp>) complexes in gas phase, solution, and crystal",-0.095405
+Individual‐level brain morphological similarity networks: Current methodologies and applications,Experimental and Theoretical Studies on Effects of Structural Modification of Tin Nanoclusters for Third-Order Nonlinear Optical Properties,0.011196
+Individual‐level brain morphological similarity networks: Current methodologies and applications,Selenomethionine Alleviates Deoxynivalenol-Induced Oxidative Injury in Porcine Intestinal Epithelial Cells Independent of MAPK Pathway Regulation,-0.085645
+Individual‐level brain morphological similarity networks: Current methodologies and applications,"Laser doppler flowmetry to detect pulp vitality, clinical reference range and coincidence rate for pulpal blood flow in permanent maxillary incisors in Chinese children: a clinical study",0.211555
+Individual‐level brain morphological similarity networks: Current methodologies and applications,Association between -455G/A and fibrinogen in a Chinese population,-0.024006
+Individual‐level brain morphological similarity networks: Current methodologies and applications,A Complete 16 μm Selected Galaxy Sample at z ∼ 1: Mid-infrared Spectral Energy Distributions,0.062416
+Individual‐level brain morphological similarity networks: Current methodologies and applications,The design and implementation of double side printed patch antenna,-0.005592
+Individual‐level brain morphological similarity networks: Current methodologies and applications,Comparison of Six Machine Learning Algorithms for Stroke Risk Estimation,0.162059
+Individual‐level brain morphological similarity networks: Current methodologies and applications,The diagnostic efficacy of seven autoantibodies in early detection of ground-glass nodular lung adenocarcinoma,0.080555
+Individual‐level brain morphological similarity networks: Current methodologies and applications,The structural basis of Trp192 and the C-terminal region in trichosanthin for activity and conformational stability,-0.036567
+Individual‐level brain morphological similarity networks: Current methodologies and applications,"Though with constraints imposed by endosymbiosis, preferential attachment is still a plausible mechanism responsible for the evolution of the chloroplast metabolic network",0.145933
+Individual‐level brain morphological similarity networks: Current methodologies and applications,Synthesis of Crisamicin A,-0.037064
+Individual‐level brain morphological similarity networks: Current methodologies and applications,Pheochromocytoma in ectopic pregnancy: a case report.,-0.05322
+Individual‐level brain morphological similarity networks: Current methodologies and applications,Synthesis of Indolylquinolin-2-ones via a Cross-Coupling-Cyclization Sequence,-0.010653
+Individual‐level brain morphological similarity networks: Current methodologies and applications,[Comparative research on two different killer strains of Saccharomyces cerevisiae].,-0.024108
+Individual‐level brain morphological similarity networks: Current methodologies and applications,Clinical research progress of novel bioceramics in pediatric pulp therapy,0.031303
+Individual‐level brain morphological similarity networks: Current methodologies and applications,Progression of the marginal sealability and the influencing factors of stainless steel crowns,-0.00235
+Individual‐level brain morphological similarity networks: Current methodologies and applications,Sufficient and Necessary Conditions of Cubic Catmull-Rom Spline Preserving Generalized Convex Interpolation,0.164221
+Individual‐level brain morphological similarity networks: Current methodologies and applications,Construction of Precision sMDT Detector for ATLAS Muon Spectrometer Upgrade,-0.06365
+Individual‐level brain morphological similarity networks: Current methodologies and applications,Trading Method Based on ARIMA Model and Greedy Algorithm,0.089119
+Individual‐level brain morphological similarity networks: Current methodologies and applications,Supplementary Material for: A hybrid machine learning model based on semantic information can optimize treatment decision for naïve single 3-5cm HCC patients,0.085934
+Individual‐level brain morphological similarity networks: Current methodologies and applications,Investigation on the Flow and Heat Transfer Characteristics in a Multi-Pass Channel Using Magnetic Resonance Velocimetry and Transient Thermochromic Liquid Crystal,-0.00309
+Individual‐level brain morphological similarity networks: Current methodologies and applications,Numerical simulation of transient pressure characteristics of arc discharge in water,-0.029874
+Individual‐level brain morphological similarity networks: Current methodologies and applications,Association between impaired left ventricular global longitudinal strain and B-type natriuretic peptide in obstructive hypertrophic cardiomyopathy,0.017746
+Individual‐level brain morphological similarity networks: Current methodologies and applications,Association between stent implantation results and target vessel failure after IVUS-Guided PCI: A FLAVOUR substudy,0.143079
+Individual‐level brain morphological similarity networks: Current methodologies and applications,Natural course of lung adenocarcinoma manifesting as ground-glass nodules: invasiveness assessment based on growth evaluation,0.118252
+Individual‐level brain morphological similarity networks: Current methodologies and applications,Research on the Recognition Method of Fuzzy Features in Tai Chi Force Actions,0.113588
+Individual‐level brain morphological similarity networks: Current methodologies and applications,A searchable database of publications using fluorescent probes and flow cytometry to study antigen-specific B cells,0.031479
+International expert consensus on diagnosis and treatment of lung cancer complicated by chronic obstructive pulmonary disease,A fold-back single-chain diabody format enhances the bioactivity of an anti-monkey CD3 recombinant diphtheria toxin-based immunotoxin,-0.026443
+International expert consensus on diagnosis and treatment of lung cancer complicated by chronic obstructive pulmonary disease,Reflex sympathetic activation during static exercise is severely impaired in patients with myophosphorylase deficiency,0.052256
+International expert consensus on diagnosis and treatment of lung cancer complicated by chronic obstructive pulmonary disease,"QM and ONIOM studies on thermally activated delayed fluorescence of copper(<scp>i</scp>) complexes in gas phase, solution, and crystal",0.015045
+International expert consensus on diagnosis and treatment of lung cancer complicated by chronic obstructive pulmonary disease,Experimental and Theoretical Studies on Effects of Structural Modification of Tin Nanoclusters for Third-Order Nonlinear Optical Properties,-0.063852
+International expert consensus on diagnosis and treatment of lung cancer complicated by chronic obstructive pulmonary disease,Selenomethionine Alleviates Deoxynivalenol-Induced Oxidative Injury in Porcine Intestinal Epithelial Cells Independent of MAPK Pathway Regulation,0.123734
+International expert consensus on diagnosis and treatment of lung cancer complicated by chronic obstructive pulmonary disease,"Laser doppler flowmetry to detect pulp vitality, clinical reference range and coincidence rate for pulpal blood flow in permanent maxillary incisors in Chinese children: a clinical study",0.076393
+International expert consensus on diagnosis and treatment of lung cancer complicated by chronic obstructive pulmonary disease,Association between -455G/A and fibrinogen in a Chinese population,0.118249
+International expert consensus on diagnosis and treatment of lung cancer complicated by chronic obstructive pulmonary disease,A Complete 16 μm Selected Galaxy Sample at z ∼ 1: Mid-infrared Spectral Energy Distributions,0.010312
+International expert consensus on diagnosis and treatment of lung cancer complicated by chronic obstructive pulmonary disease,The design and implementation of double side printed patch antenna,0.018445
+International expert consensus on diagnosis and treatment of lung cancer complicated by chronic obstructive pulmonary disease,Comparison of Six Machine Learning Algorithms for Stroke Risk Estimation,0.015672
+International expert consensus on diagnosis and treatment of lung cancer complicated by chronic obstructive pulmonary disease,The diagnostic efficacy of seven autoantibodies in early detection of ground-glass nodular lung adenocarcinoma,0.152908
+International expert consensus on diagnosis and treatment of lung cancer complicated by chronic obstructive pulmonary disease,The structural basis of Trp192 and the C-terminal region in trichosanthin for activity and conformational stability,-0.009427
+International expert consensus on diagnosis and treatment of lung cancer complicated by chronic obstructive pulmonary disease,"Though with constraints imposed by endosymbiosis, preferential attachment is still a plausible mechanism responsible for the evolution of the chloroplast metabolic network",0.047266
+International expert consensus on diagnosis and treatment of lung cancer complicated by chronic obstructive pulmonary disease,Synthesis of Crisamicin A,0.022298
+International expert consensus on diagnosis and treatment of lung cancer complicated by chronic obstructive pulmonary disease,Pheochromocytoma in ectopic pregnancy: a case report.,-0.009886
+International expert consensus on diagnosis and treatment of lung cancer complicated by chronic obstructive pulmonary disease,Synthesis of Indolylquinolin-2-ones via a Cross-Coupling-Cyclization Sequence,0.022416
+International expert consensus on diagnosis and treatment of lung cancer complicated by chronic obstructive pulmonary disease,[Comparative research on two different killer strains of Saccharomyces cerevisiae].,-0.02036
+International expert consensus on diagnosis and treatment of lung cancer complicated by chronic obstructive pulmonary disease,Clinical research progress of novel bioceramics in pediatric pulp therapy,-0.037772
+International expert consensus on diagnosis and treatment of lung cancer complicated by chronic obstructive pulmonary disease,Progression of the marginal sealability and the influencing factors of stainless steel crowns,-0.054399
+International expert consensus on diagnosis and treatment of lung cancer complicated by chronic obstructive pulmonary disease,Sufficient and Necessary Conditions of Cubic Catmull-Rom Spline Preserving Generalized Convex Interpolation,-0.029189
+International expert consensus on diagnosis and treatment of lung cancer complicated by chronic obstructive pulmonary disease,Construction of Precision sMDT Detector for ATLAS Muon Spectrometer Upgrade,0.012924
+International expert consensus on diagnosis and treatment of lung cancer complicated by chronic obstructive pulmonary disease,Trading Method Based on ARIMA Model and Greedy Algorithm,0.015889
+International expert consensus on diagnosis and treatment of lung cancer complicated by chronic obstructive pulmonary disease,Supplementary Material for: A hybrid machine learning model based on semantic information can optimize treatment decision for naïve single 3-5cm HCC patients,0.229334
+International expert consensus on diagnosis and treatment of lung cancer complicated by chronic obstructive pulmonary disease,Investigation on the Flow and Heat Transfer Characteristics in a Multi-Pass Channel Using Magnetic Resonance Velocimetry and Transient Thermochromic Liquid Crystal,-0.034106
+International expert consensus on diagnosis and treatment of lung cancer complicated by chronic obstructive pulmonary disease,Numerical simulation of transient pressure characteristics of arc discharge in water,-0.070608
+International expert consensus on diagnosis and treatment of lung cancer complicated by chronic obstructive pulmonary disease,Association between impaired left ventricular global longitudinal strain and B-type natriuretic peptide in obstructive hypertrophic cardiomyopathy,-0.00725
+International expert consensus on diagnosis and treatment of lung cancer complicated by chronic obstructive pulmonary disease,Association between stent implantation results and target vessel failure after IVUS-Guided PCI: A FLAVOUR substudy,0.101463
+International expert consensus on diagnosis and treatment of lung cancer complicated by chronic obstructive pulmonary disease,Natural course of lung adenocarcinoma manifesting as ground-glass nodules: invasiveness assessment based on growth evaluation,0.074627
+International expert consensus on diagnosis and treatment of lung cancer complicated by chronic obstructive pulmonary disease,Research on the Recognition Method of Fuzzy Features in Tai Chi Force Actions,-0.068986
+International expert consensus on diagnosis and treatment of lung cancer complicated by chronic obstructive pulmonary disease,A searchable database of publications using fluorescent probes and flow cytometry to study antigen-specific B cells,-0.011537
+A fold-back single-chain diabody format enhances the bioactivity of an anti-monkey CD3 recombinant diphtheria toxin-based immunotoxin,Reflex sympathetic activation during static exercise is severely impaired in patients with myophosphorylase deficiency,0.000521
+A fold-back single-chain diabody format enhances the bioactivity of an anti-monkey CD3 recombinant diphtheria toxin-based immunotoxin,"QM and ONIOM studies on thermally activated delayed fluorescence of copper(<scp>i</scp>) complexes in gas phase, solution, and crystal",0.155387
+A fold-back single-chain diabody format enhances the bioactivity of an anti-monkey CD3 recombinant diphtheria toxin-based immunotoxin,Experimental and Theoretical Studies on Effects of Structural Modification of Tin Nanoclusters for Third-Order Nonlinear Optical Properties,0.123516
+A fold-back single-chain diabody format enhances the bioactivity of an anti-monkey CD3 recombinant diphtheria toxin-based immunotoxin,Selenomethionine Alleviates Deoxynivalenol-Induced Oxidative Injury in Porcine Intestinal Epithelial Cells Independent of MAPK Pathway Regulation,0.186717
+A fold-back single-chain diabody format enhances the bioactivity of an anti-monkey CD3 recombinant diphtheria toxin-based immunotoxin,"Laser doppler flowmetry to detect pulp vitality, clinical reference range and coincidence rate for pulpal blood flow in permanent maxillary incisors in Chinese children: a clinical study",0.032509
+A fold-back single-chain diabody format enhances the bioactivity of an anti-monkey CD3 recombinant diphtheria toxin-based immunotoxin,Association between -455G/A and fibrinogen in a Chinese population,0.071602
+A fold-back single-chain diabody format enhances the bioactivity of an anti-monkey CD3 recombinant diphtheria toxin-based immunotoxin,A Complete 16 μm Selected Galaxy Sample at z ∼ 1: Mid-infrared Spectral Energy Distributions,-0.102895
+A fold-back single-chain diabody format enhances the bioactivity of an anti-monkey CD3 recombinant diphtheria toxin-based immunotoxin,The design and implementation of double side printed patch antenna,0.052576
+A fold-back single-chain diabody format enhances the bioactivity of an anti-monkey CD3 recombinant diphtheria toxin-based immunotoxin,Comparison of Six Machine Learning Algorithms for Stroke Risk Estimation,-0.089961
+A fold-back single-chain diabody format enhances the bioactivity of an anti-monkey CD3 recombinant diphtheria toxin-based immunotoxin,The diagnostic efficacy of seven autoantibodies in early detection of ground-glass nodular lung adenocarcinoma,0.05229
+A fold-back single-chain diabody format enhances the bioactivity of an anti-monkey CD3 recombinant diphtheria toxin-based immunotoxin,The structural basis of Trp192 and the C-terminal region in trichosanthin for activity and conformational stability,0.515481
+A fold-back single-chain diabody format enhances the bioactivity of an anti-monkey CD3 recombinant diphtheria toxin-based immunotoxin,"Though with constraints imposed by endosymbiosis, preferential attachment is still a plausible mechanism responsible for the evolution of the chloroplast metabolic network",0.110541
+A fold-back single-chain diabody format enhances the bioactivity of an anti-monkey CD3 recombinant diphtheria toxin-based immunotoxin,Synthesis of Crisamicin A,0.2724
+A fold-back single-chain diabody format enhances the bioactivity of an anti-monkey CD3 recombinant diphtheria toxin-based immunotoxin,Pheochromocytoma in ectopic pregnancy: a case report.,-0.088278
+A fold-back single-chain diabody format enhances the bioactivity of an anti-monkey CD3 recombinant diphtheria toxin-based immunotoxin,Synthesis of Indolylquinolin-2-ones via a Cross-Coupling-Cyclization Sequence,0.248653
+A fold-back single-chain diabody format enhances the bioactivity of an anti-monkey CD3 recombinant diphtheria toxin-based immunotoxin,[Comparative research on two different killer strains of Saccharomyces cerevisiae].,0.365567
+A fold-back single-chain diabody format enhances the bioactivity of an anti-monkey CD3 recombinant diphtheria toxin-based immunotoxin,Clinical research progress of novel bioceramics in pediatric pulp therapy,0.083104
+A fold-back single-chain diabody format enhances the bioactivity of an anti-monkey CD3 recombinant diphtheria toxin-based immunotoxin,Progression of the marginal sealability and the influencing factors of stainless steel crowns,0.011722
+A fold-back single-chain diabody format enhances the bioactivity of an anti-monkey CD3 recombinant diphtheria toxin-based immunotoxin,Sufficient and Necessary Conditions of Cubic Catmull-Rom Spline Preserving Generalized Convex Interpolation,0.019141
+A fold-back single-chain diabody format enhances the bioactivity of an anti-monkey CD3 recombinant diphtheria toxin-based immunotoxin,Construction of Precision sMDT Detector for ATLAS Muon Spectrometer Upgrade,-0.034312
+A fold-back single-chain diabody format enhances the bioactivity of an anti-monkey CD3 recombinant diphtheria toxin-based immunotoxin,Trading Method Based on ARIMA Model and Greedy Algorithm,-0.024256
+A fold-back single-chain diabody format enhances the bioactivity of an anti-monkey CD3 recombinant diphtheria toxin-based immunotoxin,Supplementary Material for: A hybrid machine learning model based on semantic information can optimize treatment decision for naïve single 3-5cm HCC patients,-0.07826
+A fold-back single-chain diabody format enhances the bioactivity of an anti-monkey CD3 recombinant diphtheria toxin-based immunotoxin,Investigation on the Flow and Heat Transfer Characteristics in a Multi-Pass Channel Using Magnetic Resonance Velocimetry and Transient Thermochromic Liquid Crystal,0.117342
+A fold-back single-chain diabody format enhances the bioactivity of an anti-monkey CD3 recombinant diphtheria toxin-based immunotoxin,Numerical simulation of transient pressure characteristics of arc discharge in water,-0.012877
+A fold-back single-chain diabody format enhances the bioactivity of an anti-monkey CD3 recombinant diphtheria toxin-based immunotoxin,Association between impaired left ventricular global longitudinal strain and B-type natriuretic peptide in obstructive hypertrophic cardiomyopathy,0.047689
+A fold-back single-chain diabody format enhances the bioactivity of an anti-monkey CD3 recombinant diphtheria toxin-based immunotoxin,Association between stent implantation results and target vessel failure after IVUS-Guided PCI: A FLAVOUR substudy,0.011051
+A fold-back single-chain diabody format enhances the bioactivity of an anti-monkey CD3 recombinant diphtheria toxin-based immunotoxin,Natural course of lung adenocarcinoma manifesting as ground-glass nodules: invasiveness assessment based on growth evaluation,0.070089
+A fold-back single-chain diabody format enhances the bioactivity of an anti-monkey CD3 recombinant diphtheria toxin-based immunotoxin,Research on the Recognition Method of Fuzzy Features in Tai Chi Force Actions,-0.01413
+A fold-back single-chain diabody format enhances the bioactivity of an anti-monkey CD3 recombinant diphtheria toxin-based immunotoxin,A searchable database of publications using fluorescent probes and flow cytometry to study antigen-specific B cells,0.415796
+Reflex sympathetic activation during static exercise is severely impaired in patients with myophosphorylase deficiency,"QM and ONIOM studies on thermally activated delayed fluorescence of copper(<scp>i</scp>) complexes in gas phase, solution, and crystal",-0.029071
+Reflex sympathetic activation during static exercise is severely impaired in patients with myophosphorylase deficiency,Experimental and Theoretical Studies on Effects of Structural Modification of Tin Nanoclusters for Third-Order Nonlinear Optical Properties,-0.036538
+Reflex sympathetic activation during static exercise is severely impaired in patients with myophosphorylase deficiency,Selenomethionine Alleviates Deoxynivalenol-Induced Oxidative Injury in Porcine Intestinal Epithelial Cells Independent of MAPK Pathway Regulation,0.181035
+Reflex sympathetic activation during static exercise is severely impaired in patients with myophosphorylase deficiency,"Laser doppler flowmetry to detect pulp vitality, clinical reference range and coincidence rate for pulpal blood flow in permanent maxillary incisors in Chinese children: a clinical study",0.023131
+Reflex sympathetic activation during static exercise is severely impaired in patients with myophosphorylase deficiency,Association between -455G/A and fibrinogen in a Chinese population,0.234507
+Reflex sympathetic activation during static exercise is severely impaired in patients with myophosphorylase deficiency,A Complete 16 μm Selected Galaxy Sample at z ∼ 1: Mid-infrared Spectral Energy Distributions,-0.021528
+Reflex sympathetic activation during static exercise is severely impaired in patients with myophosphorylase deficiency,The design and implementation of double side printed patch antenna,-0.051565
+Reflex sympathetic activation during static exercise is severely impaired in patients with myophosphorylase deficiency,Comparison of Six Machine Learning Algorithms for Stroke Risk Estimation,0.09068
+Reflex sympathetic activation during static exercise is severely impaired in patients with myophosphorylase deficiency,The diagnostic efficacy of seven autoantibodies in early detection of ground-glass nodular lung adenocarcinoma,0.038785
+Reflex sympathetic activation during static exercise is severely impaired in patients with myophosphorylase deficiency,The structural basis of Trp192 and the C-terminal region in trichosanthin for activity and conformational stability,0.052915
+Reflex sympathetic activation during static exercise is severely impaired in patients with myophosphorylase deficiency,"Though with constraints imposed by endosymbiosis, preferential attachment is still a plausible mechanism responsible for the evolution of the chloroplast metabolic network",0.065209
+Reflex sympathetic activation during static exercise is severely impaired in patients with myophosphorylase deficiency,Synthesis of Crisamicin A,0.102829
+Reflex sympathetic activation during static exercise is severely impaired in patients with myophosphorylase deficiency,Pheochromocytoma in ectopic pregnancy: a case report.,0.030493
+Reflex sympathetic activation during static exercise is severely impaired in patients with myophosphorylase deficiency,Synthesis of Indolylquinolin-2-ones via a Cross-Coupling-Cyclization Sequence,0.030139
+Reflex sympathetic activation during static exercise is severely impaired in patients with myophosphorylase deficiency,[Comparative research on two different killer strains of Saccharomyces cerevisiae].,0.022986
+Reflex sympathetic activation during static exercise is severely impaired in patients with myophosphorylase deficiency,Clinical research progress of novel bioceramics in pediatric pulp therapy,0.025902
+Reflex sympathetic activation during static exercise is severely impaired in patients with myophosphorylase deficiency,Progression of the marginal sealability and the influencing factors of stainless steel crowns,0.004325
+Reflex sympathetic activation during static exercise is severely impaired in patients with myophosphorylase deficiency,Sufficient and Necessary Conditions of Cubic Catmull-Rom Spline Preserving Generalized Convex Interpolation,0.0199
+Reflex sympathetic activation during static exercise is severely impaired in patients with myophosphorylase deficiency,Construction of Precision sMDT Detector for ATLAS Muon Spectrometer Upgrade,-0.043677
+Reflex sympathetic activation during static exercise is severely impaired in patients with myophosphorylase deficiency,Trading Method Based on ARIMA Model and Greedy Algorithm,-0.076054
+Reflex sympathetic activation during static exercise is severely impaired in patients with myophosphorylase deficiency,Supplementary Material for: A hybrid machine learning model based on semantic information can optimize treatment decision for naïve single 3-5cm HCC patients,0.020651
+Reflex sympathetic activation during static exercise is severely impaired in patients with myophosphorylase deficiency,Investigation on the Flow and Heat Transfer Characteristics in a Multi-Pass Channel Using Magnetic Resonance Velocimetry and Transient Thermochromic Liquid Crystal,-0.001459
+Reflex sympathetic activation during static exercise is severely impaired in patients with myophosphorylase deficiency,Numerical simulation of transient pressure characteristics of arc discharge in water,-0.027162
+Reflex sympathetic activation during static exercise is severely impaired in patients with myophosphorylase deficiency,Association between impaired left ventricular global longitudinal strain and B-type natriuretic peptide in obstructive hypertrophic cardiomyopathy,0.282515
+Reflex sympathetic activation during static exercise is severely impaired in patients with myophosphorylase deficiency,Association between stent implantation results and target vessel failure after IVUS-Guided PCI: A FLAVOUR substudy,0.032076
+Reflex sympathetic activation during static exercise is severely impaired in patients with myophosphorylase deficiency,Natural course of lung adenocarcinoma manifesting as ground-glass nodules: invasiveness assessment based on growth evaluation,0.03709
+Reflex sympathetic activation during static exercise is severely impaired in patients with myophosphorylase deficiency,Research on the Recognition Method of Fuzzy Features in Tai Chi Force Actions,0.126401
+Reflex sympathetic activation during static exercise is severely impaired in patients with myophosphorylase deficiency,A searchable database of publications using fluorescent probes and flow cytometry to study antigen-specific B cells,0.016005
+"QM and ONIOM studies on thermally activated delayed fluorescence of copper(<scp>i</scp>) complexes in gas phase, solution, and crystal",Experimental and Theoretical Studies on Effects of Structural Modification of Tin Nanoclusters for Third-Order Nonlinear Optical Properties,0.506575
+"QM and ONIOM studies on thermally activated delayed fluorescence of copper(<scp>i</scp>) complexes in gas phase, solution, and crystal",Selenomethionine Alleviates Deoxynivalenol-Induced Oxidative Injury in Porcine Intestinal Epithelial Cells Independent of MAPK Pathway Regulation,0.02341
+"QM and ONIOM studies on thermally activated delayed fluorescence of copper(<scp>i</scp>) complexes in gas phase, solution, and crystal","Laser doppler flowmetry to detect pulp vitality, clinical reference range and coincidence rate for pulpal blood flow in permanent maxillary incisors in Chinese children: a clinical study",0.044888
+"QM and ONIOM studies on thermally activated delayed fluorescence of copper(<scp>i</scp>) complexes in gas phase, solution, and crystal",Association between -455G/A and fibrinogen in a Chinese population,-0.073403
+"QM and ONIOM studies on thermally activated delayed fluorescence of copper(<scp>i</scp>) complexes in gas phase, solution, and crystal",A Complete 16 μm Selected Galaxy Sample at z ∼ 1: Mid-infrared Spectral Energy Distributions,0.048819
+"QM and ONIOM studies on thermally activated delayed fluorescence of copper(<scp>i</scp>) complexes in gas phase, solution, and crystal",The design and implementation of double side printed patch antenna,-0.000615
+"QM and ONIOM studies on thermally activated delayed fluorescence of copper(<scp>i</scp>) complexes in gas phase, solution, and crystal",Comparison of Six Machine Learning Algorithms for Stroke Risk Estimation,-0.07838
+"QM and ONIOM studies on thermally activated delayed fluorescence of copper(<scp>i</scp>) complexes in gas phase, solution, and crystal",The diagnostic efficacy of seven autoantibodies in early detection of ground-glass nodular lung adenocarcinoma,-0.042162
+"QM and ONIOM studies on thermally activated delayed fluorescence of copper(<scp>i</scp>) complexes in gas phase, solution, and crystal",The structural basis of Trp192 and the C-terminal region in trichosanthin for activity and conformational stability,0.279535
+"QM and ONIOM studies on thermally activated delayed fluorescence of copper(<scp>i</scp>) complexes in gas phase, solution, and crystal","Though with constraints imposed by endosymbiosis, preferential attachment is still a plausible mechanism responsible for the evolution of the chloroplast metabolic network",0.042481
+"QM and ONIOM studies on thermally activated delayed fluorescence of copper(<scp>i</scp>) complexes in gas phase, solution, and crystal",Synthesis of Crisamicin A,0.119081
+"QM and ONIOM studies on thermally activated delayed fluorescence of copper(<scp>i</scp>) complexes in gas phase, solution, and crystal",Pheochromocytoma in ectopic pregnancy: a case report.,-0.022377
+"QM and ONIOM studies on thermally activated delayed fluorescence of copper(<scp>i</scp>) complexes in gas phase, solution, and crystal",Synthesis of Indolylquinolin-2-ones via a Cross-Coupling-Cyclization Sequence,0.220428
+"QM and ONIOM studies on thermally activated delayed fluorescence of copper(<scp>i</scp>) complexes in gas phase, solution, and crystal",[Comparative research on two different killer strains of Saccharomyces cerevisiae].,-0.001051
+"QM and ONIOM studies on thermally activated delayed fluorescence of copper(<scp>i</scp>) complexes in gas phase, solution, and crystal",Clinical research progress of novel bioceramics in pediatric pulp therapy,0.065976
+"QM and ONIOM studies on thermally activated delayed fluorescence of copper(<scp>i</scp>) complexes in gas phase, solution, and crystal",Progression of the marginal sealability and the influencing factors of stainless steel crowns,0.021391
+"QM and ONIOM studies on thermally activated delayed fluorescence of copper(<scp>i</scp>) complexes in gas phase, solution, and crystal",Sufficient and Necessary Conditions of Cubic Catmull-Rom Spline Preserving Generalized Convex Interpolation,-0.001221
+"QM and ONIOM studies on thermally activated delayed fluorescence of copper(<scp>i</scp>) complexes in gas phase, solution, and crystal",Construction of Precision sMDT Detector for ATLAS Muon Spectrometer Upgrade,-0.002695
+"QM and ONIOM studies on thermally activated delayed fluorescence of copper(<scp>i</scp>) complexes in gas phase, solution, and crystal",Trading Method Based on ARIMA Model and Greedy Algorithm,-0.026217
+"QM and ONIOM studies on thermally activated delayed fluorescence of copper(<scp>i</scp>) complexes in gas phase, solution, and crystal",Supplementary Material for: A hybrid machine learning model based on semantic information can optimize treatment decision for naïve single 3-5cm HCC patients,-0.054423
+"QM and ONIOM studies on thermally activated delayed fluorescence of copper(<scp>i</scp>) complexes in gas phase, solution, and crystal",Investigation on the Flow and Heat Transfer Characteristics in a Multi-Pass Channel Using Magnetic Resonance Velocimetry and Transient Thermochromic Liquid Crystal,0.095341
+"QM and ONIOM studies on thermally activated delayed fluorescence of copper(<scp>i</scp>) complexes in gas phase, solution, and crystal",Numerical simulation of transient pressure characteristics of arc discharge in water,0.031283
+"QM and ONIOM studies on thermally activated delayed fluorescence of copper(<scp>i</scp>) complexes in gas phase, solution, and crystal",Association between impaired left ventricular global longitudinal strain and B-type natriuretic peptide in obstructive hypertrophic cardiomyopathy,-0.039051
+"QM and ONIOM studies on thermally activated delayed fluorescence of copper(<scp>i</scp>) complexes in gas phase, solution, and crystal",Association between stent implantation results and target vessel failure after IVUS-Guided PCI: A FLAVOUR substudy,-0.025761
+"QM and ONIOM studies on thermally activated delayed fluorescence of copper(<scp>i</scp>) complexes in gas phase, solution, and crystal",Natural course of lung adenocarcinoma manifesting as ground-glass nodules: invasiveness assessment based on growth evaluation,-0.020672
+"QM and ONIOM studies on thermally activated delayed fluorescence of copper(<scp>i</scp>) complexes in gas phase, solution, and crystal",Research on the Recognition Method of Fuzzy Features in Tai Chi Force Actions,-0.016377
+"QM and ONIOM studies on thermally activated delayed fluorescence of copper(<scp>i</scp>) complexes in gas phase, solution, and crystal",A searchable database of publications using fluorescent probes and flow cytometry to study antigen-specific B cells,0.052707
+Experimental and Theoretical Studies on Effects of Structural Modification of Tin Nanoclusters for Third-Order Nonlinear Optical Properties,Selenomethionine Alleviates Deoxynivalenol-Induced Oxidative Injury in Porcine Intestinal Epithelial Cells Independent of MAPK Pathway Regulation,0.023315
+Experimental and Theoretical Studies on Effects of Structural Modification of Tin Nanoclusters for Third-Order Nonlinear Optical Properties,"Laser doppler flowmetry to detect pulp vitality, clinical reference range and coincidence rate for pulpal blood flow in permanent maxillary incisors in Chinese children: a clinical study",0.000251
+Experimental and Theoretical Studies on Effects of Structural Modification of Tin Nanoclusters for Third-Order Nonlinear Optical Properties,Association between -455G/A and fibrinogen in a Chinese population,-0.048788
+Experimental and Theoretical Studies on Effects of Structural Modification of Tin Nanoclusters for Third-Order Nonlinear Optical Properties,A Complete 16 μm Selected Galaxy Sample at z ∼ 1: Mid-infrared Spectral Energy Distributions,-0.064951
+Experimental and Theoretical Studies on Effects of Structural Modification of Tin Nanoclusters for Third-Order Nonlinear Optical Properties,The design and implementation of double side printed patch antenna,0.048139
+Experimental and Theoretical Studies on Effects of Structural Modification of Tin Nanoclusters for Third-Order Nonlinear Optical Properties,Comparison of Six Machine Learning Algorithms for Stroke Risk Estimation,-0.088668
+Experimental and Theoretical Studies on Effects of Structural Modification of Tin Nanoclusters for Third-Order Nonlinear Optical Properties,The diagnostic efficacy of seven autoantibodies in early detection of ground-glass nodular lung adenocarcinoma,0.02482
+Experimental and Theoretical Studies on Effects of Structural Modification of Tin Nanoclusters for Third-Order Nonlinear Optical Properties,The structural basis of Trp192 and the C-terminal region in trichosanthin for activity and conformational stability,0.114941
+Experimental and Theoretical Studies on Effects of Structural Modification of Tin Nanoclusters for Third-Order Nonlinear Optical Properties,"Though with constraints imposed by endosymbiosis, preferential attachment is still a plausible mechanism responsible for the evolution of the chloroplast metabolic network",-0.00453
+Experimental and Theoretical Studies on Effects of Structural Modification of Tin Nanoclusters for Third-Order Nonlinear Optical Properties,Synthesis of Crisamicin A,0.047108
+Experimental and Theoretical Studies on Effects of Structural Modification of Tin Nanoclusters for Third-Order Nonlinear Optical Properties,Pheochromocytoma in ectopic pregnancy: a case report.,0.032265
+Experimental and Theoretical Studies on Effects of Structural Modification of Tin Nanoclusters for Third-Order Nonlinear Optical Properties,Synthesis of Indolylquinolin-2-ones via a Cross-Coupling-Cyclization Sequence,0.14418
+Experimental and Theoretical Studies on Effects of Structural Modification of Tin Nanoclusters for Third-Order Nonlinear Optical Properties,[Comparative research on two different killer strains of Saccharomyces cerevisiae].,-0.025112
+Experimental and Theoretical Studies on Effects of Structural Modification of Tin Nanoclusters for Third-Order Nonlinear Optical Properties,Clinical research progress of novel bioceramics in pediatric pulp therapy,0.012699
+Experimental and Theoretical Studies on Effects of Structural Modification of Tin Nanoclusters for Third-Order Nonlinear Optical Properties,Progression of the marginal sealability and the influencing factors of stainless steel crowns,-0.067437
+Experimental and Theoretical Studies on Effects of Structural Modification of Tin Nanoclusters for Third-Order Nonlinear Optical Properties,Sufficient and Necessary Conditions of Cubic Catmull-Rom Spline Preserving Generalized Convex Interpolation,0.007963
+Experimental and Theoretical Studies on Effects of Structural Modification of Tin Nanoclusters for Third-Order Nonlinear Optical Properties,Construction of Precision sMDT Detector for ATLAS Muon Spectrometer Upgrade,0.003798
+Experimental and Theoretical Studies on Effects of Structural Modification of Tin Nanoclusters for Third-Order Nonlinear Optical Properties,Trading Method Based on ARIMA Model and Greedy Algorithm,-0.025575
+Experimental and Theoretical Studies on Effects of Structural Modification of Tin Nanoclusters for Third-Order Nonlinear Optical Properties,Supplementary Material for: A hybrid machine learning model based on semantic information can optimize treatment decision for naïve single 3-5cm HCC patients,-0.053964
+Experimental and Theoretical Studies on Effects of Structural Modification of Tin Nanoclusters for Third-Order Nonlinear Optical Properties,Investigation on the Flow and Heat Transfer Characteristics in a Multi-Pass Channel Using Magnetic Resonance Velocimetry and Transient Thermochromic Liquid Crystal,0.01771
+Experimental and Theoretical Studies on Effects of Structural Modification of Tin Nanoclusters for Third-Order Nonlinear Optical Properties,Numerical simulation of transient pressure characteristics of arc discharge in water,0.012109
+Experimental and Theoretical Studies on Effects of Structural Modification of Tin Nanoclusters for Third-Order Nonlinear Optical Properties,Association between impaired left ventricular global longitudinal strain and B-type natriuretic peptide in obstructive hypertrophic cardiomyopathy,-0.004797
+Experimental and Theoretical Studies on Effects of Structural Modification of Tin Nanoclusters for Third-Order Nonlinear Optical Properties,Association between stent implantation results and target vessel failure after IVUS-Guided PCI: A FLAVOUR substudy,-0.106232
+Experimental and Theoretical Studies on Effects of Structural Modification of Tin Nanoclusters for Third-Order Nonlinear Optical Properties,Natural course of lung adenocarcinoma manifesting as ground-glass nodules: invasiveness assessment based on growth evaluation,-0.065392
+Experimental and Theoretical Studies on Effects of Structural Modification of Tin Nanoclusters for Third-Order Nonlinear Optical Properties,Research on the Recognition Method of Fuzzy Features in Tai Chi Force Actions,-0.010523
+Experimental and Theoretical Studies on Effects of Structural Modification of Tin Nanoclusters for Third-Order Nonlinear Optical Properties,A searchable database of publications using fluorescent probes and flow cytometry to study antigen-specific B cells,-0.036031
+Selenomethionine Alleviates Deoxynivalenol-Induced Oxidative Injury in Porcine Intestinal Epithelial Cells Independent of MAPK Pathway Regulation,"Laser doppler flowmetry to detect pulp vitality, clinical reference range and coincidence rate for pulpal blood flow in permanent maxillary incisors in Chinese children: a clinical study",-0.017174
+Selenomethionine Alleviates Deoxynivalenol-Induced Oxidative Injury in Porcine Intestinal Epithelial Cells Independent of MAPK Pathway Regulation,Association between -455G/A and fibrinogen in a Chinese population,0.155776
+Selenomethionine Alleviates Deoxynivalenol-Induced Oxidative Injury in Porcine Intestinal Epithelial Cells Independent of MAPK Pathway Regulation,A Complete 16 μm Selected Galaxy Sample at z ∼ 1: Mid-infrared Spectral Energy Distributions,-0.037475
+Selenomethionine Alleviates Deoxynivalenol-Induced Oxidative Injury in Porcine Intestinal Epithelial Cells Independent of MAPK Pathway Regulation,The design and implementation of double side printed patch antenna,0.029533
+Selenomethionine Alleviates Deoxynivalenol-Induced Oxidative Injury in Porcine Intestinal Epithelial Cells Independent of MAPK Pathway Regulation,Comparison of Six Machine Learning Algorithms for Stroke Risk Estimation,0.015421
+Selenomethionine Alleviates Deoxynivalenol-Induced Oxidative Injury in Porcine Intestinal Epithelial Cells Independent of MAPK Pathway Regulation,The diagnostic efficacy of seven autoantibodies in early detection of ground-glass nodular lung adenocarcinoma,-0.007289
+Selenomethionine Alleviates Deoxynivalenol-Induced Oxidative Injury in Porcine Intestinal Epithelial Cells Independent of MAPK Pathway Regulation,The structural basis of Trp192 and the C-terminal region in trichosanthin for activity and conformational stability,0.247936
+Selenomethionine Alleviates Deoxynivalenol-Induced Oxidative Injury in Porcine Intestinal Epithelial Cells Independent of MAPK Pathway Regulation,"Though with constraints imposed by endosymbiosis, preferential attachment is still a plausible mechanism responsible for the evolution of the chloroplast metabolic network",0.056458
+Selenomethionine Alleviates Deoxynivalenol-Induced Oxidative Injury in Porcine Intestinal Epithelial Cells Independent of MAPK Pathway Regulation,Synthesis of Crisamicin A,0.156745
+Selenomethionine Alleviates Deoxynivalenol-Induced Oxidative Injury in Porcine Intestinal Epithelial Cells Independent of MAPK Pathway Regulation,Pheochromocytoma in ectopic pregnancy: a case report.,0.04341
+Selenomethionine Alleviates Deoxynivalenol-Induced Oxidative Injury in Porcine Intestinal Epithelial Cells Independent of MAPK Pathway Regulation,Synthesis of Indolylquinolin-2-ones via a Cross-Coupling-Cyclization Sequence,0.145396
+Selenomethionine Alleviates Deoxynivalenol-Induced Oxidative Injury in Porcine Intestinal Epithelial Cells Independent of MAPK Pathway Regulation,[Comparative research on two different killer strains of Saccharomyces cerevisiae].,0.284018
+Selenomethionine Alleviates Deoxynivalenol-Induced Oxidative Injury in Porcine Intestinal Epithelial Cells Independent of MAPK Pathway Regulation,Clinical research progress of novel bioceramics in pediatric pulp therapy,0.119202
+Selenomethionine Alleviates Deoxynivalenol-Induced Oxidative Injury in Porcine Intestinal Epithelial Cells Independent of MAPK Pathway Regulation,Progression of the marginal sealability and the influencing factors of stainless steel crowns,0.126247
+Selenomethionine Alleviates Deoxynivalenol-Induced Oxidative Injury in Porcine Intestinal Epithelial Cells Independent of MAPK Pathway Regulation,Sufficient and Necessary Conditions of Cubic Catmull-Rom Spline Preserving Generalized Convex Interpolation,-0.020275
+Selenomethionine Alleviates Deoxynivalenol-Induced Oxidative Injury in Porcine Intestinal Epithelial Cells Independent of MAPK Pathway Regulation,Construction of Precision sMDT Detector for ATLAS Muon Spectrometer Upgrade,-0.031042
+Selenomethionine Alleviates Deoxynivalenol-Induced Oxidative Injury in Porcine Intestinal Epithelial Cells Independent of MAPK Pathway Regulation,Trading Method Based on ARIMA Model and Greedy Algorithm,0.010322
+Selenomethionine Alleviates Deoxynivalenol-Induced Oxidative Injury in Porcine Intestinal Epithelial Cells Independent of MAPK Pathway Regulation,Supplementary Material for: A hybrid machine learning model based on semantic information can optimize treatment decision for naïve single 3-5cm HCC patients,0.136999
+Selenomethionine Alleviates Deoxynivalenol-Induced Oxidative Injury in Porcine Intestinal Epithelial Cells Independent of MAPK Pathway Regulation,Investigation on the Flow and Heat Transfer Characteristics in a Multi-Pass Channel Using Magnetic Resonance Velocimetry and Transient Thermochromic Liquid Crystal,-0.041658
+Selenomethionine Alleviates Deoxynivalenol-Induced Oxidative Injury in Porcine Intestinal Epithelial Cells Independent of MAPK Pathway Regulation,Numerical simulation of transient pressure characteristics of arc discharge in water,-0.021396
+Selenomethionine Alleviates Deoxynivalenol-Induced Oxidative Injury in Porcine Intestinal Epithelial Cells Independent of MAPK Pathway Regulation,Association between impaired left ventricular global longitudinal strain and B-type natriuretic peptide in obstructive hypertrophic cardiomyopathy,0.067491
+Selenomethionine Alleviates Deoxynivalenol-Induced Oxidative Injury in Porcine Intestinal Epithelial Cells Independent of MAPK Pathway Regulation,Association between stent implantation results and target vessel failure after IVUS-Guided PCI: A FLAVOUR substudy,0.003525
+Selenomethionine Alleviates Deoxynivalenol-Induced Oxidative Injury in Porcine Intestinal Epithelial Cells Independent of MAPK Pathway Regulation,Natural course of lung adenocarcinoma manifesting as ground-glass nodules: invasiveness assessment based on growth evaluation,0.161649
+Selenomethionine Alleviates Deoxynivalenol-Induced Oxidative Injury in Porcine Intestinal Epithelial Cells Independent of MAPK Pathway Regulation,Research on the Recognition Method of Fuzzy Features in Tai Chi Force Actions,-0.078717
+Selenomethionine Alleviates Deoxynivalenol-Induced Oxidative Injury in Porcine Intestinal Epithelial Cells Independent of MAPK Pathway Regulation,A searchable database of publications using fluorescent probes and flow cytometry to study antigen-specific B cells,0.084635
+"Laser doppler flowmetry to detect pulp vitality, clinical reference range and coincidence rate for pulpal blood flow in permanent maxillary incisors in Chinese children: a clinical study",Association between -455G/A and fibrinogen in a Chinese population,0.073235
+"Laser doppler flowmetry to detect pulp vitality, clinical reference range and coincidence rate for pulpal blood flow in permanent maxillary incisors in Chinese children: a clinical study",A Complete 16 μm Selected Galaxy Sample at z ∼ 1: Mid-infrared Spectral Energy Distributions,0.015989
+"Laser doppler flowmetry to detect pulp vitality, clinical reference range and coincidence rate for pulpal blood flow in permanent maxillary incisors in Chinese children: a clinical study",The design and implementation of double side printed patch antenna,0.016205
+"Laser doppler flowmetry to detect pulp vitality, clinical reference range and coincidence rate for pulpal blood flow in permanent maxillary incisors in Chinese children: a clinical study",Comparison of Six Machine Learning Algorithms for Stroke Risk Estimation,0.144276
+"Laser doppler flowmetry to detect pulp vitality, clinical reference range and coincidence rate for pulpal blood flow in permanent maxillary incisors in Chinese children: a clinical study",The diagnostic efficacy of seven autoantibodies in early detection of ground-glass nodular lung adenocarcinoma,0.205409
+"Laser doppler flowmetry to detect pulp vitality, clinical reference range and coincidence rate for pulpal blood flow in permanent maxillary incisors in Chinese children: a clinical study",The structural basis of Trp192 and the C-terminal region in trichosanthin for activity and conformational stability,-0.036994
+"Laser doppler flowmetry to detect pulp vitality, clinical reference range and coincidence rate for pulpal blood flow in permanent maxillary incisors in Chinese children: a clinical study","Though with constraints imposed by endosymbiosis, preferential attachment is still a plausible mechanism responsible for the evolution of the chloroplast metabolic network",-0.101368
+"Laser doppler flowmetry to detect pulp vitality, clinical reference range and coincidence rate for pulpal blood flow in permanent maxillary incisors in Chinese children: a clinical study",Synthesis of Crisamicin A,-0.100178
+"Laser doppler flowmetry to detect pulp vitality, clinical reference range and coincidence rate for pulpal blood flow in permanent maxillary incisors in Chinese children: a clinical study",Pheochromocytoma in ectopic pregnancy: a case report.,-0.060225
+"Laser doppler flowmetry to detect pulp vitality, clinical reference range and coincidence rate for pulpal blood flow in permanent maxillary incisors in Chinese children: a clinical study",Synthesis of Indolylquinolin-2-ones via a Cross-Coupling-Cyclization Sequence,-0.023974
+"Laser doppler flowmetry to detect pulp vitality, clinical reference range and coincidence rate for pulpal blood flow in permanent maxillary incisors in Chinese children: a clinical study",[Comparative research on two different killer strains of Saccharomyces cerevisiae].,0.021964
+"Laser doppler flowmetry to detect pulp vitality, clinical reference range and coincidence rate for pulpal blood flow in permanent maxillary incisors in Chinese children: a clinical study",Clinical research progress of novel bioceramics in pediatric pulp therapy,0.416357
+"Laser doppler flowmetry to detect pulp vitality, clinical reference range and coincidence rate for pulpal blood flow in permanent maxillary incisors in Chinese children: a clinical study",Progression of the marginal sealability and the influencing factors of stainless steel crowns,0.325106
+"Laser doppler flowmetry to detect pulp vitality, clinical reference range and coincidence rate for pulpal blood flow in permanent maxillary incisors in Chinese children: a clinical study",Sufficient and Necessary Conditions of Cubic Catmull-Rom Spline Preserving Generalized Convex Interpolation,0.094769
+"Laser doppler flowmetry to detect pulp vitality, clinical reference range and coincidence rate for pulpal blood flow in permanent maxillary incisors in Chinese children: a clinical study",Construction of Precision sMDT Detector for ATLAS Muon Spectrometer Upgrade,-0.003183
+"Laser doppler flowmetry to detect pulp vitality, clinical reference range and coincidence rate for pulpal blood flow in permanent maxillary incisors in Chinese children: a clinical study",Trading Method Based on ARIMA Model and Greedy Algorithm,-0.054184
+"Laser doppler flowmetry to detect pulp vitality, clinical reference range and coincidence rate for pulpal blood flow in permanent maxillary incisors in Chinese children: a clinical study",Supplementary Material for: A hybrid machine learning model based on semantic information can optimize treatment decision for naïve single 3-5cm HCC patients,0.110082
+"Laser doppler flowmetry to detect pulp vitality, clinical reference range and coincidence rate for pulpal blood flow in permanent maxillary incisors in Chinese children: a clinical study",Investigation on the Flow and Heat Transfer Characteristics in a Multi-Pass Channel Using Magnetic Resonance Velocimetry and Transient Thermochromic Liquid Crystal,0.023058
+"Laser doppler flowmetry to detect pulp vitality, clinical reference range and coincidence rate for pulpal blood flow in permanent maxillary incisors in Chinese children: a clinical study",Numerical simulation of transient pressure characteristics of arc discharge in water,-0.008316
+"Laser doppler flowmetry to detect pulp vitality, clinical reference range and coincidence rate for pulpal blood flow in permanent maxillary incisors in Chinese children: a clinical study",Association between impaired left ventricular global longitudinal strain and B-type natriuretic peptide in obstructive hypertrophic cardiomyopathy,0.084752
+"Laser doppler flowmetry to detect pulp vitality, clinical reference range and coincidence rate for pulpal blood flow in permanent maxillary incisors in Chinese children: a clinical study",Association between stent implantation results and target vessel failure after IVUS-Guided PCI: A FLAVOUR substudy,0.197693
+"Laser doppler flowmetry to detect pulp vitality, clinical reference range and coincidence rate for pulpal blood flow in permanent maxillary incisors in Chinese children: a clinical study",Natural course of lung adenocarcinoma manifesting as ground-glass nodules: invasiveness assessment based on growth evaluation,0.234887
+"Laser doppler flowmetry to detect pulp vitality, clinical reference range and coincidence rate for pulpal blood flow in permanent maxillary incisors in Chinese children: a clinical study",Research on the Recognition Method of Fuzzy Features in Tai Chi Force Actions,-0.024096
+"Laser doppler flowmetry to detect pulp vitality, clinical reference range and coincidence rate for pulpal blood flow in permanent maxillary incisors in Chinese children: a clinical study",A searchable database of publications using fluorescent probes and flow cytometry to study antigen-specific B cells,0.037546
+Association between -455G/A and fibrinogen in a Chinese population,A Complete 16 μm Selected Galaxy Sample at z ∼ 1: Mid-infrared Spectral Energy Distributions,0.078548
+Association between -455G/A and fibrinogen in a Chinese population,The design and implementation of double side printed patch antenna,0.003072
+Association between -455G/A and fibrinogen in a Chinese population,Comparison of Six Machine Learning Algorithms for Stroke Risk Estimation,0.278599
+Association between -455G/A and fibrinogen in a Chinese population,The diagnostic efficacy of seven autoantibodies in early detection of ground-glass nodular lung adenocarcinoma,0.197357
+Association between -455G/A and fibrinogen in a Chinese population,The structural basis of Trp192 and the C-terminal region in trichosanthin for activity and conformational stability,0.092143
+Association between -455G/A and fibrinogen in a Chinese population,"Though with constraints imposed by endosymbiosis, preferential attachment is still a plausible mechanism responsible for the evolution of the chloroplast metabolic network",0.018781
+Association between -455G/A and fibrinogen in a Chinese population,Synthesis of Crisamicin A,-0.060346
+Association between -455G/A and fibrinogen in a Chinese population,Pheochromocytoma in ectopic pregnancy: a case report.,0.263373
+Association between -455G/A and fibrinogen in a Chinese population,Synthesis of Indolylquinolin-2-ones via a Cross-Coupling-Cyclization Sequence,-0.009053
+Association between -455G/A and fibrinogen in a Chinese population,[Comparative research on two different killer strains of Saccharomyces cerevisiae].,0.119
+Association between -455G/A and fibrinogen in a Chinese population,Clinical research progress of novel bioceramics in pediatric pulp therapy,-0.049874
+Association between -455G/A and fibrinogen in a Chinese population,Progression of the marginal sealability and the influencing factors of stainless steel crowns,0.009925
+Association between -455G/A and fibrinogen in a Chinese population,Sufficient and Necessary Conditions of Cubic Catmull-Rom Spline Preserving Generalized Convex Interpolation,-0.039847
+Association between -455G/A and fibrinogen in a Chinese population,Construction of Precision sMDT Detector for ATLAS Muon Spectrometer Upgrade,0.035114
+Association between -455G/A and fibrinogen in a Chinese population,Trading Method Based on ARIMA Model and Greedy Algorithm,0.003879
+Association between -455G/A and fibrinogen in a Chinese population,Supplementary Material for: A hybrid machine learning model based on semantic information can optimize treatment decision for naïve single 3-5cm HCC patients,0.130883
+Association between -455G/A and fibrinogen in a Chinese population,Investigation on the Flow and Heat Transfer Characteristics in a Multi-Pass Channel Using Magnetic Resonance Velocimetry and Transient Thermochromic Liquid Crystal,0.057958
+Association between -455G/A and fibrinogen in a Chinese population,Numerical simulation of transient pressure characteristics of arc discharge in water,0.018651
+Association between -455G/A and fibrinogen in a Chinese population,Association between impaired left ventricular global longitudinal strain and B-type natriuretic peptide in obstructive hypertrophic cardiomyopathy,0.347031
+Association between -455G/A and fibrinogen in a Chinese population,Association between stent implantation results and target vessel failure after IVUS-Guided PCI: A FLAVOUR substudy,0.202503
+Association between -455G/A and fibrinogen in a Chinese population,Natural course of lung adenocarcinoma manifesting as ground-glass nodules: invasiveness assessment based on growth evaluation,0.098718
+Association between -455G/A and fibrinogen in a Chinese population,Research on the Recognition Method of Fuzzy Features in Tai Chi Force Actions,0.015459
+Association between -455G/A and fibrinogen in a Chinese population,A searchable database of publications using fluorescent probes and flow cytometry to study antigen-specific B cells,0.13227
+A Complete 16 μm Selected Galaxy Sample at z ∼ 1: Mid-infrared Spectral Energy Distributions,The design and implementation of double side printed patch antenna,-0.077555
+A Complete 16 μm Selected Galaxy Sample at z ∼ 1: Mid-infrared Spectral Energy Distributions,Comparison of Six Machine Learning Algorithms for Stroke Risk Estimation,0.048998
+A Complete 16 μm Selected Galaxy Sample at z ∼ 1: Mid-infrared Spectral Energy Distributions,The diagnostic efficacy of seven autoantibodies in early detection of ground-glass nodular lung adenocarcinoma,-0.002063
+A Complete 16 μm Selected Galaxy Sample at z ∼ 1: Mid-infrared Spectral Energy Distributions,The structural basis of Trp192 and the C-terminal region in trichosanthin for activity and conformational stability,-0.000748
+A Complete 16 μm Selected Galaxy Sample at z ∼ 1: Mid-infrared Spectral Energy Distributions,"Though with constraints imposed by endosymbiosis, preferential attachment is still a plausible mechanism responsible for the evolution of the chloroplast metabolic network",0.099702
+A Complete 16 μm Selected Galaxy Sample at z ∼ 1: Mid-infrared Spectral Energy Distributions,Synthesis of Crisamicin A,0.005018
+A Complete 16 μm Selected Galaxy Sample at z ∼ 1: Mid-infrared Spectral Energy Distributions,Pheochromocytoma in ectopic pregnancy: a case report.,0.007533
+A Complete 16 μm Selected Galaxy Sample at z ∼ 1: Mid-infrared Spectral Energy Distributions,Synthesis of Indolylquinolin-2-ones via a Cross-Coupling-Cyclization Sequence,-0.057987
+A Complete 16 μm Selected Galaxy Sample at z ∼ 1: Mid-infrared Spectral Energy Distributions,[Comparative research on two different killer strains of Saccharomyces cerevisiae].,-0.049123
+A Complete 16 μm Selected Galaxy Sample at z ∼ 1: Mid-infrared Spectral Energy Distributions,Clinical research progress of novel bioceramics in pediatric pulp therapy,-0.094659
+A Complete 16 μm Selected Galaxy Sample at z ∼ 1: Mid-infrared Spectral Energy Distributions,Progression of the marginal sealability and the influencing factors of stainless steel crowns,-0.044638
+A Complete 16 μm Selected Galaxy Sample at z ∼ 1: Mid-infrared Spectral Energy Distributions,Sufficient and Necessary Conditions of Cubic Catmull-Rom Spline Preserving Generalized Convex Interpolation,-0.011996
+A Complete 16 μm Selected Galaxy Sample at z ∼ 1: Mid-infrared Spectral Energy Distributions,Construction of Precision sMDT Detector for ATLAS Muon Spectrometer Upgrade,0.149403
+A Complete 16 μm Selected Galaxy Sample at z ∼ 1: Mid-infrared Spectral Energy Distributions,Trading Method Based on ARIMA Model and Greedy Algorithm,-0.018778
+A Complete 16 μm Selected Galaxy Sample at z ∼ 1: Mid-infrared Spectral Energy Distributions,Supplementary Material for: A hybrid machine learning model based on semantic information can optimize treatment decision for naïve single 3-5cm HCC patients,0.028599
+A Complete 16 μm Selected Galaxy Sample at z ∼ 1: Mid-infrared Spectral Energy Distributions,Investigation on the Flow and Heat Transfer Characteristics in a Multi-Pass Channel Using Magnetic Resonance Velocimetry and Transient Thermochromic Liquid Crystal,-0.025966
+A Complete 16 μm Selected Galaxy Sample at z ∼ 1: Mid-infrared Spectral Energy Distributions,Numerical simulation of transient pressure characteristics of arc discharge in water,-0.001862
+A Complete 16 μm Selected Galaxy Sample at z ∼ 1: Mid-infrared Spectral Energy Distributions,Association between impaired left ventricular global longitudinal strain and B-type natriuretic peptide in obstructive hypertrophic cardiomyopathy,-0.01969
+A Complete 16 μm Selected Galaxy Sample at z ∼ 1: Mid-infrared Spectral Energy Distributions,Association between stent implantation results and target vessel failure after IVUS-Guided PCI: A FLAVOUR substudy,0.080825
+A Complete 16 μm Selected Galaxy Sample at z ∼ 1: Mid-infrared Spectral Energy Distributions,Natural course of lung adenocarcinoma manifesting as ground-glass nodules: invasiveness assessment based on growth evaluation,0.104171
+A Complete 16 μm Selected Galaxy Sample at z ∼ 1: Mid-infrared Spectral Energy Distributions,Research on the Recognition Method of Fuzzy Features in Tai Chi Force Actions,0.074904
+A Complete 16 μm Selected Galaxy Sample at z ∼ 1: Mid-infrared Spectral Energy Distributions,A searchable database of publications using fluorescent probes and flow cytometry to study antigen-specific B cells,0.029752
+The design and implementation of double side printed patch antenna,Comparison of Six Machine Learning Algorithms for Stroke Risk Estimation,0.040188
+The design and implementation of double side printed patch antenna,The diagnostic efficacy of seven autoantibodies in early detection of ground-glass nodular lung adenocarcinoma,-0.056899
+The design and implementation of double side printed patch antenna,The structural basis of Trp192 and the C-terminal region in trichosanthin for activity and conformational stability,0.063354
+The design and implementation of double side printed patch antenna,"Though with constraints imposed by endosymbiosis, preferential attachment is still a plausible mechanism responsible for the evolution of the chloroplast metabolic network",-0.00873
+The design and implementation of double side printed patch antenna,Synthesis of Crisamicin A,0.018762
+The design and implementation of double side printed patch antenna,Pheochromocytoma in ectopic pregnancy: a case report.,0.04196
+The design and implementation of double side printed patch antenna,Synthesis of Indolylquinolin-2-ones via a Cross-Coupling-Cyclization Sequence,0.046672
+The design and implementation of double side printed patch antenna,[Comparative research on two different killer strains of Saccharomyces cerevisiae].,0.04999
+The design and implementation of double side printed patch antenna,Clinical research progress of novel bioceramics in pediatric pulp therapy,-0.002365
+The design and implementation of double side printed patch antenna,Progression of the marginal sealability and the influencing factors of stainless steel crowns,-0.064376
+The design and implementation of double side printed patch antenna,Sufficient and Necessary Conditions of Cubic Catmull-Rom Spline Preserving Generalized Convex Interpolation,0.076474
+The design and implementation of double side printed patch antenna,Construction of Precision sMDT Detector for ATLAS Muon Spectrometer Upgrade,0.019784
+The design and implementation of double side printed patch antenna,Trading Method Based on ARIMA Model and Greedy Algorithm,0.032814
+The design and implementation of double side printed patch antenna,Supplementary Material for: A hybrid machine learning model based on semantic information can optimize treatment decision for naïve single 3-5cm HCC patients,0.015727
+The design and implementation of double side printed patch antenna,Investigation on the Flow and Heat Transfer Characteristics in a Multi-Pass Channel Using Magnetic Resonance Velocimetry and Transient Thermochromic Liquid Crystal,0.067303
+The design and implementation of double side printed patch antenna,Numerical simulation of transient pressure characteristics of arc discharge in water,0.044514
+The design and implementation of double side printed patch antenna,Association between impaired left ventricular global longitudinal strain and B-type natriuretic peptide in obstructive hypertrophic cardiomyopathy,-0.02002
+The design and implementation of double side printed patch antenna,Association between stent implantation results and target vessel failure after IVUS-Guided PCI: A FLAVOUR substudy,0.022925
+The design and implementation of double side printed patch antenna,Natural course of lung adenocarcinoma manifesting as ground-glass nodules: invasiveness assessment based on growth evaluation,0.068278
+The design and implementation of double side printed patch antenna,Research on the Recognition Method of Fuzzy Features in Tai Chi Force Actions,-0.081419
+The design and implementation of double side printed patch antenna,A searchable database of publications using fluorescent probes and flow cytometry to study antigen-specific B cells,-0.036708
+Comparison of Six Machine Learning Algorithms for Stroke Risk Estimation,The diagnostic efficacy of seven autoantibodies in early detection of ground-glass nodular lung adenocarcinoma,0.259651
+Comparison of Six Machine Learning Algorithms for Stroke Risk Estimation,The structural basis of Trp192 and the C-terminal region in trichosanthin for activity and conformational stability,0.005191
+Comparison of Six Machine Learning Algorithms for Stroke Risk Estimation,"Though with constraints imposed by endosymbiosis, preferential attachment is still a plausible mechanism responsible for the evolution of the chloroplast metabolic network",-0.045241
+Comparison of Six Machine Learning Algorithms for Stroke Risk Estimation,Synthesis of Crisamicin A,-0.013276
+Comparison of Six Machine Learning Algorithms for Stroke Risk Estimation,Pheochromocytoma in ectopic pregnancy: a case report.,0.052321
+Comparison of Six Machine Learning Algorithms for Stroke Risk Estimation,Synthesis of Indolylquinolin-2-ones via a Cross-Coupling-Cyclization Sequence,-0.055993
+Comparison of Six Machine Learning Algorithms for Stroke Risk Estimation,[Comparative research on two different killer strains of Saccharomyces cerevisiae].,0.019034
+Comparison of Six Machine Learning Algorithms for Stroke Risk Estimation,Clinical research progress of novel bioceramics in pediatric pulp therapy,0.031617
+Comparison of Six Machine Learning Algorithms for Stroke Risk Estimation,Progression of the marginal sealability and the influencing factors of stainless steel crowns,0.08218
+Comparison of Six Machine Learning Algorithms for Stroke Risk Estimation,Sufficient and Necessary Conditions of Cubic Catmull-Rom Spline Preserving Generalized Convex Interpolation,0.120339
+Comparison of Six Machine Learning Algorithms for Stroke Risk Estimation,Construction of Precision sMDT Detector for ATLAS Muon Spectrometer Upgrade,-0.030689
+Comparison of Six Machine Learning Algorithms for Stroke Risk Estimation,Trading Method Based on ARIMA Model and Greedy Algorithm,0.377459
+Comparison of Six Machine Learning Algorithms for Stroke Risk Estimation,Supplementary Material for: A hybrid machine learning model based on semantic information can optimize treatment decision for naïve single 3-5cm HCC patients,0.535803
+Comparison of Six Machine Learning Algorithms for Stroke Risk Estimation,Investigation on the Flow and Heat Transfer Characteristics in a Multi-Pass Channel Using Magnetic Resonance Velocimetry and Transient Thermochromic Liquid Crystal,0.021336
+Comparison of Six Machine Learning Algorithms for Stroke Risk Estimation,Numerical simulation of transient pressure characteristics of arc discharge in water,0.048181
+Comparison of Six Machine Learning Algorithms for Stroke Risk Estimation,Association between impaired left ventricular global longitudinal strain and B-type natriuretic peptide in obstructive hypertrophic cardiomyopathy,0.137924
+Comparison of Six Machine Learning Algorithms for Stroke Risk Estimation,Association between stent implantation results and target vessel failure after IVUS-Guided PCI: A FLAVOUR substudy,0.439384
+Comparison of Six Machine Learning Algorithms for Stroke Risk Estimation,Natural course of lung adenocarcinoma manifesting as ground-glass nodules: invasiveness assessment based on growth evaluation,0.017692
+Comparison of Six Machine Learning Algorithms for Stroke Risk Estimation,Research on the Recognition Method of Fuzzy Features in Tai Chi Force Actions,0.268312
+Comparison of Six Machine Learning Algorithms for Stroke Risk Estimation,A searchable database of publications using fluorescent probes and flow cytometry to study antigen-specific B cells,0.054258
+The diagnostic efficacy of seven autoantibodies in early detection of ground-glass nodular lung adenocarcinoma,The structural basis of Trp192 and the C-terminal region in trichosanthin for activity and conformational stability,0.079867
+The diagnostic efficacy of seven autoantibodies in early detection of ground-glass nodular lung adenocarcinoma,"Though with constraints imposed by endosymbiosis, preferential attachment is still a plausible mechanism responsible for the evolution of the chloroplast metabolic network",-0.094161
+The diagnostic efficacy of seven autoantibodies in early detection of ground-glass nodular lung adenocarcinoma,Synthesis of Crisamicin A,0.021552
+The diagnostic efficacy of seven autoantibodies in early detection of ground-glass nodular lung adenocarcinoma,Pheochromocytoma in ectopic pregnancy: a case report.,0.177971
+The diagnostic efficacy of seven autoantibodies in early detection of ground-glass nodular lung adenocarcinoma,Synthesis of Indolylquinolin-2-ones via a Cross-Coupling-Cyclization Sequence,0.008885
+The diagnostic efficacy of seven autoantibodies in early detection of ground-glass nodular lung adenocarcinoma,[Comparative research on two different killer strains of Saccharomyces cerevisiae].,0.047893
+The diagnostic efficacy of seven autoantibodies in early detection of ground-glass nodular lung adenocarcinoma,Clinical research progress of novel bioceramics in pediatric pulp therapy,0.021581
+The diagnostic efficacy of seven autoantibodies in early detection of ground-glass nodular lung adenocarcinoma,Progression of the marginal sealability and the influencing factors of stainless steel crowns,0.072816
+The diagnostic efficacy of seven autoantibodies in early detection of ground-glass nodular lung adenocarcinoma,Sufficient and Necessary Conditions of Cubic Catmull-Rom Spline Preserving Generalized Convex Interpolation,0.00584
+The diagnostic efficacy of seven autoantibodies in early detection of ground-glass nodular lung adenocarcinoma,Construction of Precision sMDT Detector for ATLAS Muon Spectrometer Upgrade,0.052607
+The diagnostic efficacy of seven autoantibodies in early detection of ground-glass nodular lung adenocarcinoma,Trading Method Based on ARIMA Model and Greedy Algorithm,0.109315
+The diagnostic efficacy of seven autoantibodies in early detection of ground-glass nodular lung adenocarcinoma,Supplementary Material for: A hybrid machine learning model based on semantic information can optimize treatment decision for naïve single 3-5cm HCC patients,0.386645
+The diagnostic efficacy of seven autoantibodies in early detection of ground-glass nodular lung adenocarcinoma,Investigation on the Flow and Heat Transfer Characteristics in a Multi-Pass Channel Using Magnetic Resonance Velocimetry and Transient Thermochromic Liquid Crystal,0.008324
+The diagnostic efficacy of seven autoantibodies in early detection of ground-glass nodular lung adenocarcinoma,Numerical simulation of transient pressure characteristics of arc discharge in water,0.028947
+The diagnostic efficacy of seven autoantibodies in early detection of ground-glass nodular lung adenocarcinoma,Association between impaired left ventricular global longitudinal strain and B-type natriuretic peptide in obstructive hypertrophic cardiomyopathy,0.072722
+The diagnostic efficacy of seven autoantibodies in early detection of ground-glass nodular lung adenocarcinoma,Association between stent implantation results and target vessel failure after IVUS-Guided PCI: A FLAVOUR substudy,0.284847
+The diagnostic efficacy of seven autoantibodies in early detection of ground-glass nodular lung adenocarcinoma,Natural course of lung adenocarcinoma manifesting as ground-glass nodules: invasiveness assessment based on growth evaluation,0.221341
+The diagnostic efficacy of seven autoantibodies in early detection of ground-glass nodular lung adenocarcinoma,Research on the Recognition Method of Fuzzy Features in Tai Chi Force Actions,0.074959
+The diagnostic efficacy of seven autoantibodies in early detection of ground-glass nodular lung adenocarcinoma,A searchable database of publications using fluorescent probes and flow cytometry to study antigen-specific B cells,0.246795
+The structural basis of Trp192 and the C-terminal region in trichosanthin for activity and conformational stability,"Though with constraints imposed by endosymbiosis, preferential attachment is still a plausible mechanism responsible for the evolution of the chloroplast metabolic network",0.279402
+The structural basis of Trp192 and the C-terminal region in trichosanthin for activity and conformational stability,Synthesis of Crisamicin A,0.392772
+The structural basis of Trp192 and the C-terminal region in trichosanthin for activity and conformational stability,Pheochromocytoma in ectopic pregnancy: a case report.,-0.002045
+The structural basis of Trp192 and the C-terminal region in trichosanthin for activity and conformational stability,Synthesis of Indolylquinolin-2-ones via a Cross-Coupling-Cyclization Sequence,0.25432
+The structural basis of Trp192 and the C-terminal region in trichosanthin for activity and conformational stability,[Comparative research on two different killer strains of Saccharomyces cerevisiae].,0.322834
+The structural basis of Trp192 and the C-terminal region in trichosanthin for activity and conformational stability,Clinical research progress of novel bioceramics in pediatric pulp therapy,0.100511
+The structural basis of Trp192 and the C-terminal region in trichosanthin for activity and conformational stability,Progression of the marginal sealability and the influencing factors of stainless steel crowns,0.037213
+The structural basis of Trp192 and the C-terminal region in trichosanthin for activity and conformational stability,Sufficient and Necessary Conditions of Cubic Catmull-Rom Spline Preserving Generalized Convex Interpolation,0.014366
+The structural basis of Trp192 and the C-terminal region in trichosanthin for activity and conformational stability,Construction of Precision sMDT Detector for ATLAS Muon Spectrometer Upgrade,0.016731
+The structural basis of Trp192 and the C-terminal region in trichosanthin for activity and conformational stability,Trading Method Based on ARIMA Model and Greedy Algorithm,0.021727
+The structural basis of Trp192 and the C-terminal region in trichosanthin for activity and conformational stability,Supplementary Material for: A hybrid machine learning model based on semantic information can optimize treatment decision for naïve single 3-5cm HCC patients,0.035299
+The structural basis of Trp192 and the C-terminal region in trichosanthin for activity and conformational stability,Investigation on the Flow and Heat Transfer Characteristics in a Multi-Pass Channel Using Magnetic Resonance Velocimetry and Transient Thermochromic Liquid Crystal,0.136838
+The structural basis of Trp192 and the C-terminal region in trichosanthin for activity and conformational stability,Numerical simulation of transient pressure characteristics of arc discharge in water,-0.007719
+The structural basis of Trp192 and the C-terminal region in trichosanthin for activity and conformational stability,Association between impaired left ventricular global longitudinal strain and B-type natriuretic peptide in obstructive hypertrophic cardiomyopathy,0.137947
+The structural basis of Trp192 and the C-terminal region in trichosanthin for activity and conformational stability,Association between stent implantation results and target vessel failure after IVUS-Guided PCI: A FLAVOUR substudy,-0.022113
+The structural basis of Trp192 and the C-terminal region in trichosanthin for activity and conformational stability,Natural course of lung adenocarcinoma manifesting as ground-glass nodules: invasiveness assessment based on growth evaluation,0.091507
+The structural basis of Trp192 and the C-terminal region in trichosanthin for activity and conformational stability,Research on the Recognition Method of Fuzzy Features in Tai Chi Force Actions,-0.066752
+The structural basis of Trp192 and the C-terminal region in trichosanthin for activity and conformational stability,A searchable database of publications using fluorescent probes and flow cytometry to study antigen-specific B cells,0.232553
+"Though with constraints imposed by endosymbiosis, preferential attachment is still a plausible mechanism responsible for the evolution of the chloroplast metabolic network",Synthesis of Crisamicin A,0.20922
+"Though with constraints imposed by endosymbiosis, preferential attachment is still a plausible mechanism responsible for the evolution of the chloroplast metabolic network",Pheochromocytoma in ectopic pregnancy: a case report.,-0.017121
+"Though with constraints imposed by endosymbiosis, preferential attachment is still a plausible mechanism responsible for the evolution of the chloroplast metabolic network",Synthesis of Indolylquinolin-2-ones via a Cross-Coupling-Cyclization Sequence,0.150595
+"Though with constraints imposed by endosymbiosis, preferential attachment is still a plausible mechanism responsible for the evolution of the chloroplast metabolic network",[Comparative research on two different killer strains of Saccharomyces cerevisiae].,0.175972
+"Though with constraints imposed by endosymbiosis, preferential attachment is still a plausible mechanism responsible for the evolution of the chloroplast metabolic network",Clinical research progress of novel bioceramics in pediatric pulp therapy,-0.055888
+"Though with constraints imposed by endosymbiosis, preferential attachment is still a plausible mechanism responsible for the evolution of the chloroplast metabolic network",Progression of the marginal sealability and the influencing factors of stainless steel crowns,-0.100848
+"Though with constraints imposed by endosymbiosis, preferential attachment is still a plausible mechanism responsible for the evolution of the chloroplast metabolic network",Sufficient and Necessary Conditions of Cubic Catmull-Rom Spline Preserving Generalized Convex Interpolation,-0.008495
+"Though with constraints imposed by endosymbiosis, preferential attachment is still a plausible mechanism responsible for the evolution of the chloroplast metabolic network",Construction of Precision sMDT Detector for ATLAS Muon Spectrometer Upgrade,-0.049863
+"Though with constraints imposed by endosymbiosis, preferential attachment is still a plausible mechanism responsible for the evolution of the chloroplast metabolic network",Trading Method Based on ARIMA Model and Greedy Algorithm,-0.030908
+"Though with constraints imposed by endosymbiosis, preferential attachment is still a plausible mechanism responsible for the evolution of the chloroplast metabolic network",Supplementary Material for: A hybrid machine learning model based on semantic information can optimize treatment decision for naïve single 3-5cm HCC patients,-0.042805
+"Though with constraints imposed by endosymbiosis, preferential attachment is still a plausible mechanism responsible for the evolution of the chloroplast metabolic network",Investigation on the Flow and Heat Transfer Characteristics in a Multi-Pass Channel Using Magnetic Resonance Velocimetry and Transient Thermochromic Liquid Crystal,0.094311
+"Though with constraints imposed by endosymbiosis, preferential attachment is still a plausible mechanism responsible for the evolution of the chloroplast metabolic network",Numerical simulation of transient pressure characteristics of arc discharge in water,-0.025814
+"Though with constraints imposed by endosymbiosis, preferential attachment is still a plausible mechanism responsible for the evolution of the chloroplast metabolic network",Association between impaired left ventricular global longitudinal strain and B-type natriuretic peptide in obstructive hypertrophic cardiomyopathy,-0.015378
+"Though with constraints imposed by endosymbiosis, preferential attachment is still a plausible mechanism responsible for the evolution of the chloroplast metabolic network",Association between stent implantation results and target vessel failure after IVUS-Guided PCI: A FLAVOUR substudy,0.033797
+"Though with constraints imposed by endosymbiosis, preferential attachment is still a plausible mechanism responsible for the evolution of the chloroplast metabolic network",Natural course of lung adenocarcinoma manifesting as ground-glass nodules: invasiveness assessment based on growth evaluation,0.117517
+"Though with constraints imposed by endosymbiosis, preferential attachment is still a plausible mechanism responsible for the evolution of the chloroplast metabolic network",Research on the Recognition Method of Fuzzy Features in Tai Chi Force Actions,-0.003088
+"Though with constraints imposed by endosymbiosis, preferential attachment is still a plausible mechanism responsible for the evolution of the chloroplast metabolic network",A searchable database of publications using fluorescent probes and flow cytometry to study antigen-specific B cells,0.049082
+Synthesis of Crisamicin A,Pheochromocytoma in ectopic pregnancy: a case report.,-0.0694
+Synthesis of Crisamicin A,Synthesis of Indolylquinolin-2-ones via a Cross-Coupling-Cyclization Sequence,0.373556
+Synthesis of Crisamicin A,[Comparative research on two different killer strains of Saccharomyces cerevisiae].,0.23129
+Synthesis of Crisamicin A,Clinical research progress of novel bioceramics in pediatric pulp therapy,0.148139
+Synthesis of Crisamicin A,Progression of the marginal sealability and the influencing factors of stainless steel crowns,0.084268
+Synthesis of Crisamicin A,Sufficient and Necessary Conditions of Cubic Catmull-Rom Spline Preserving Generalized Convex Interpolation,-0.064419
+Synthesis of Crisamicin A,Construction of Precision sMDT Detector for ATLAS Muon Spectrometer Upgrade,0.014865
+Synthesis of Crisamicin A,Trading Method Based on ARIMA Model and Greedy Algorithm,-0.00583
+Synthesis of Crisamicin A,Supplementary Material for: A hybrid machine learning model based on semantic information can optimize treatment decision for naïve single 3-5cm HCC patients,-0.027705
+Synthesis of Crisamicin A,Investigation on the Flow and Heat Transfer Characteristics in a Multi-Pass Channel Using Magnetic Resonance Velocimetry and Transient Thermochromic Liquid Crystal,0.019768
+Synthesis of Crisamicin A,Numerical simulation of transient pressure characteristics of arc discharge in water,-0.004647
+Synthesis of Crisamicin A,Association between impaired left ventricular global longitudinal strain and B-type natriuretic peptide in obstructive hypertrophic cardiomyopathy,-0.066146
+Synthesis of Crisamicin A,Association between stent implantation results and target vessel failure after IVUS-Guided PCI: A FLAVOUR substudy,-0.056209
+Synthesis of Crisamicin A,Natural course of lung adenocarcinoma manifesting as ground-glass nodules: invasiveness assessment based on growth evaluation,0.012402
+Synthesis of Crisamicin A,Research on the Recognition Method of Fuzzy Features in Tai Chi Force Actions,-0.070933
+Synthesis of Crisamicin A,A searchable database of publications using fluorescent probes and flow cytometry to study antigen-specific B cells,0.177107
+Pheochromocytoma in ectopic pregnancy: a case report.,Synthesis of Indolylquinolin-2-ones via a Cross-Coupling-Cyclization Sequence,0.059951
+Pheochromocytoma in ectopic pregnancy: a case report.,[Comparative research on two different killer strains of Saccharomyces cerevisiae].,-0.044967
+Pheochromocytoma in ectopic pregnancy: a case report.,Clinical research progress of novel bioceramics in pediatric pulp therapy,-0.096423
+Pheochromocytoma in ectopic pregnancy: a case report.,Progression of the marginal sealability and the influencing factors of stainless steel crowns,-0.063154
+Pheochromocytoma in ectopic pregnancy: a case report.,Sufficient and Necessary Conditions of Cubic Catmull-Rom Spline Preserving Generalized Convex Interpolation,0.01128
+Pheochromocytoma in ectopic pregnancy: a case report.,Construction of Precision sMDT Detector for ATLAS Muon Spectrometer Upgrade,0.025643
+Pheochromocytoma in ectopic pregnancy: a case report.,Trading Method Based on ARIMA Model and Greedy Algorithm,0.050933
+Pheochromocytoma in ectopic pregnancy: a case report.,Supplementary Material for: A hybrid machine learning model based on semantic information can optimize treatment decision for naïve single 3-5cm HCC patients,0.059485
+Pheochromocytoma in ectopic pregnancy: a case report.,Investigation on the Flow and Heat Transfer Characteristics in a Multi-Pass Channel Using Magnetic Resonance Velocimetry and Transient Thermochromic Liquid Crystal,-0.018363
+Pheochromocytoma in ectopic pregnancy: a case report.,Numerical simulation of transient pressure characteristics of arc discharge in water,-0.005303
+Pheochromocytoma in ectopic pregnancy: a case report.,Association between impaired left ventricular global longitudinal strain and B-type natriuretic peptide in obstructive hypertrophic cardiomyopathy,0.212685
+Pheochromocytoma in ectopic pregnancy: a case report.,Association between stent implantation results and target vessel failure after IVUS-Guided PCI: A FLAVOUR substudy,0.061684
+Pheochromocytoma in ectopic pregnancy: a case report.,Natural course of lung adenocarcinoma manifesting as ground-glass nodules: invasiveness assessment based on growth evaluation,0.018496
+Pheochromocytoma in ectopic pregnancy: a case report.,Research on the Recognition Method of Fuzzy Features in Tai Chi Force Actions,-0.119845
+Pheochromocytoma in ectopic pregnancy: a case report.,A searchable database of publications using fluorescent probes and flow cytometry to study antigen-specific B cells,-0.010577
+Synthesis of Indolylquinolin-2-ones via a Cross-Coupling-Cyclization Sequence,[Comparative research on two different killer strains of Saccharomyces cerevisiae].,0.082264
+Synthesis of Indolylquinolin-2-ones via a Cross-Coupling-Cyclization Sequence,Clinical research progress of novel bioceramics in pediatric pulp therapy,0.057179
+Synthesis of Indolylquinolin-2-ones via a Cross-Coupling-Cyclization Sequence,Progression of the marginal sealability and the influencing factors of stainless steel crowns,-0.071529
+Synthesis of Indolylquinolin-2-ones via a Cross-Coupling-Cyclization Sequence,Sufficient and Necessary Conditions of Cubic Catmull-Rom Spline Preserving Generalized Convex Interpolation,0.036767
+Synthesis of Indolylquinolin-2-ones via a Cross-Coupling-Cyclization Sequence,Construction of Precision sMDT Detector for ATLAS Muon Spectrometer Upgrade,-0.009688
+Synthesis of Indolylquinolin-2-ones via a Cross-Coupling-Cyclization Sequence,Trading Method Based on ARIMA Model and Greedy Algorithm,0.045193
+Synthesis of Indolylquinolin-2-ones via a Cross-Coupling-Cyclization Sequence,Supplementary Material for: A hybrid machine learning model based on semantic information can optimize treatment decision for naïve single 3-5cm HCC patients,-0.025945
+Synthesis of Indolylquinolin-2-ones via a Cross-Coupling-Cyclization Sequence,Investigation on the Flow and Heat Transfer Characteristics in a Multi-Pass Channel Using Magnetic Resonance Velocimetry and Transient Thermochromic Liquid Crystal,0.035841
+Synthesis of Indolylquinolin-2-ones via a Cross-Coupling-Cyclization Sequence,Numerical simulation of transient pressure characteristics of arc discharge in water,0.077178
+Synthesis of Indolylquinolin-2-ones via a Cross-Coupling-Cyclization Sequence,Association between impaired left ventricular global longitudinal strain and B-type natriuretic peptide in obstructive hypertrophic cardiomyopathy,-0.010258
+Synthesis of Indolylquinolin-2-ones via a Cross-Coupling-Cyclization Sequence,Association between stent implantation results and target vessel failure after IVUS-Guided PCI: A FLAVOUR substudy,0.002468
+Synthesis of Indolylquinolin-2-ones via a Cross-Coupling-Cyclization Sequence,Natural course of lung adenocarcinoma manifesting as ground-glass nodules: invasiveness assessment based on growth evaluation,-0.04351
+Synthesis of Indolylquinolin-2-ones via a Cross-Coupling-Cyclization Sequence,Research on the Recognition Method of Fuzzy Features in Tai Chi Force Actions,-0.026005
+Synthesis of Indolylquinolin-2-ones via a Cross-Coupling-Cyclization Sequence,A searchable database of publications using fluorescent probes and flow cytometry to study antigen-specific B cells,0.017955
+[Comparative research on two different killer strains of Saccharomyces cerevisiae].,Clinical research progress of novel bioceramics in pediatric pulp therapy,0.153362
+[Comparative research on two different killer strains of Saccharomyces cerevisiae].,Progression of the marginal sealability and the influencing factors of stainless steel crowns,0.132564
+[Comparative research on two different killer strains of Saccharomyces cerevisiae].,Sufficient and Necessary Conditions of Cubic Catmull-Rom Spline Preserving Generalized Convex Interpolation,-0.061288
+[Comparative research on two different killer strains of Saccharomyces cerevisiae].,Construction of Precision sMDT Detector for ATLAS Muon Spectrometer Upgrade,0.021344
+[Comparative research on two different killer strains of Saccharomyces cerevisiae].,Trading Method Based on ARIMA Model and Greedy Algorithm,0.014918
+[Comparative research on two different killer strains of Saccharomyces cerevisiae].,Supplementary Material for: A hybrid machine learning model based on semantic information can optimize treatment decision for naïve single 3-5cm HCC patients,0.015872
+[Comparative research on two different killer strains of Saccharomyces cerevisiae].,Investigation on the Flow and Heat Transfer Characteristics in a Multi-Pass Channel Using Magnetic Resonance Velocimetry and Transient Thermochromic Liquid Crystal,0.081316
+[Comparative research on two different killer strains of Saccharomyces cerevisiae].,Numerical simulation of transient pressure characteristics of arc discharge in water,0.120262
+[Comparative research on two different killer strains of Saccharomyces cerevisiae].,Association between impaired left ventricular global longitudinal strain and B-type natriuretic peptide in obstructive hypertrophic cardiomyopathy,0.058442
+[Comparative research on two different killer strains of Saccharomyces cerevisiae].,Association between stent implantation results and target vessel failure after IVUS-Guided PCI: A FLAVOUR substudy,0.020141
+[Comparative research on two different killer strains of Saccharomyces cerevisiae].,Natural course of lung adenocarcinoma manifesting as ground-glass nodules: invasiveness assessment based on growth evaluation,0.23001
+[Comparative research on two different killer strains of Saccharomyces cerevisiae].,Research on the Recognition Method of Fuzzy Features in Tai Chi Force Actions,-0.010909
+[Comparative research on two different killer strains of Saccharomyces cerevisiae].,A searchable database of publications using fluorescent probes and flow cytometry to study antigen-specific B cells,0.229279
+Clinical research progress of novel bioceramics in pediatric pulp therapy,Progression of the marginal sealability and the influencing factors of stainless steel crowns,0.583333
+Clinical research progress of novel bioceramics in pediatric pulp therapy,Sufficient and Necessary Conditions of Cubic Catmull-Rom Spline Preserving Generalized Convex Interpolation,0.047803
+Clinical research progress of novel bioceramics in pediatric pulp therapy,Construction of Precision sMDT Detector for ATLAS Muon Spectrometer Upgrade,-0.114268
+Clinical research progress of novel bioceramics in pediatric pulp therapy,Trading Method Based on ARIMA Model and Greedy Algorithm,-0.029462
+Clinical research progress of novel bioceramics in pediatric pulp therapy,Supplementary Material for: A hybrid machine learning model based on semantic information can optimize treatment decision for naïve single 3-5cm HCC patients,0.041079
+Clinical research progress of novel bioceramics in pediatric pulp therapy,Investigation on the Flow and Heat Transfer Characteristics in a Multi-Pass Channel Using Magnetic Resonance Velocimetry and Transient Thermochromic Liquid Crystal,0.050028
+Clinical research progress of novel bioceramics in pediatric pulp therapy,Numerical simulation of transient pressure characteristics of arc discharge in water,0.030169
+Clinical research progress of novel bioceramics in pediatric pulp therapy,Association between impaired left ventricular global longitudinal strain and B-type natriuretic peptide in obstructive hypertrophic cardiomyopathy,0.079767
+Clinical research progress of novel bioceramics in pediatric pulp therapy,Association between stent implantation results and target vessel failure after IVUS-Guided PCI: A FLAVOUR substudy,0.052951
+Clinical research progress of novel bioceramics in pediatric pulp therapy,Natural course of lung adenocarcinoma manifesting as ground-glass nodules: invasiveness assessment based on growth evaluation,0.163898
+Clinical research progress of novel bioceramics in pediatric pulp therapy,Research on the Recognition Method of Fuzzy Features in Tai Chi Force Actions,-0.077436
+Clinical research progress of novel bioceramics in pediatric pulp therapy,A searchable database of publications using fluorescent probes and flow cytometry to study antigen-specific B cells,0.064984
+Progression of the marginal sealability and the influencing factors of stainless steel crowns,Sufficient and Necessary Conditions of Cubic Catmull-Rom Spline Preserving Generalized Convex Interpolation,0.04875
+Progression of the marginal sealability and the influencing factors of stainless steel crowns,Construction of Precision sMDT Detector for ATLAS Muon Spectrometer Upgrade,-0.011753
+Progression of the marginal sealability and the influencing factors of stainless steel crowns,Trading Method Based on ARIMA Model and Greedy Algorithm,-0.025197
+Progression of the marginal sealability and the influencing factors of stainless steel crowns,Supplementary Material for: A hybrid machine learning model based on semantic information can optimize treatment decision for naïve single 3-5cm HCC patients,0.085411
+Progression of the marginal sealability and the influencing factors of stainless steel crowns,Investigation on the Flow and Heat Transfer Characteristics in a Multi-Pass Channel Using Magnetic Resonance Velocimetry and Transient Thermochromic Liquid Crystal,0.106552
+Progression of the marginal sealability and the influencing factors of stainless steel crowns,Numerical simulation of transient pressure characteristics of arc discharge in water,0.014955
+Progression of the marginal sealability and the influencing factors of stainless steel crowns,Association between impaired left ventricular global longitudinal strain and B-type natriuretic peptide in obstructive hypertrophic cardiomyopathy,0.081736
+Progression of the marginal sealability and the influencing factors of stainless steel crowns,Association between stent implantation results and target vessel failure after IVUS-Guided PCI: A FLAVOUR substudy,0.132397
+Progression of the marginal sealability and the influencing factors of stainless steel crowns,Natural course of lung adenocarcinoma manifesting as ground-glass nodules: invasiveness assessment based on growth evaluation,0.112667
+Progression of the marginal sealability and the influencing factors of stainless steel crowns,Research on the Recognition Method of Fuzzy Features in Tai Chi Force Actions,-0.061025
+Progression of the marginal sealability and the influencing factors of stainless steel crowns,A searchable database of publications using fluorescent probes and flow cytometry to study antigen-specific B cells,-0.018541
+Sufficient and Necessary Conditions of Cubic Catmull-Rom Spline Preserving Generalized Convex Interpolation,Construction of Precision sMDT Detector for ATLAS Muon Spectrometer Upgrade,0.047152
+Sufficient and Necessary Conditions of Cubic Catmull-Rom Spline Preserving Generalized Convex Interpolation,Trading Method Based on ARIMA Model and Greedy Algorithm,0.108685
+Sufficient and Necessary Conditions of Cubic Catmull-Rom Spline Preserving Generalized Convex Interpolation,Supplementary Material for: A hybrid machine learning model based on semantic information can optimize treatment decision for naïve single 3-5cm HCC patients,0.078767
+Sufficient and Necessary Conditions of Cubic Catmull-Rom Spline Preserving Generalized Convex Interpolation,Investigation on the Flow and Heat Transfer Characteristics in a Multi-Pass Channel Using Magnetic Resonance Velocimetry and Transient Thermochromic Liquid Crystal,0.064818
+Sufficient and Necessary Conditions of Cubic Catmull-Rom Spline Preserving Generalized Convex Interpolation,Numerical simulation of transient pressure characteristics of arc discharge in water,0.096254
+Sufficient and Necessary Conditions of Cubic Catmull-Rom Spline Preserving Generalized Convex Interpolation,Association between impaired left ventricular global longitudinal strain and B-type natriuretic peptide in obstructive hypertrophic cardiomyopathy,0.086731
+Sufficient and Necessary Conditions of Cubic Catmull-Rom Spline Preserving Generalized Convex Interpolation,Association between stent implantation results and target vessel failure after IVUS-Guided PCI: A FLAVOUR substudy,0.059506
+Sufficient and Necessary Conditions of Cubic Catmull-Rom Spline Preserving Generalized Convex Interpolation,Natural course of lung adenocarcinoma manifesting as ground-glass nodules: invasiveness assessment based on growth evaluation,0.044875
+Sufficient and Necessary Conditions of Cubic Catmull-Rom Spline Preserving Generalized Convex Interpolation,Research on the Recognition Method of Fuzzy Features in Tai Chi Force Actions,0.065368
+Sufficient and Necessary Conditions of Cubic Catmull-Rom Spline Preserving Generalized Convex Interpolation,A searchable database of publications using fluorescent probes and flow cytometry to study antigen-specific B cells,0.012159
+Construction of Precision sMDT Detector for ATLAS Muon Spectrometer Upgrade,Trading Method Based on ARIMA Model and Greedy Algorithm,-0.035845
+Construction of Precision sMDT Detector for ATLAS Muon Spectrometer Upgrade,Supplementary Material for: A hybrid machine learning model based on semantic information can optimize treatment decision for naïve single 3-5cm HCC patients,-0.103725
+Construction of Precision sMDT Detector for ATLAS Muon Spectrometer Upgrade,Investigation on the Flow and Heat Transfer Characteristics in a Multi-Pass Channel Using Magnetic Resonance Velocimetry and Transient Thermochromic Liquid Crystal,0.195294
+Construction of Precision sMDT Detector for ATLAS Muon Spectrometer Upgrade,Numerical simulation of transient pressure characteristics of arc discharge in water,0.108518
+Construction of Precision sMDT Detector for ATLAS Muon Spectrometer Upgrade,Association between impaired left ventricular global longitudinal strain and B-type natriuretic peptide in obstructive hypertrophic cardiomyopathy,-0.051718
+Construction of Precision sMDT Detector for ATLAS Muon Spectrometer Upgrade,Association between stent implantation results and target vessel failure after IVUS-Guided PCI: A FLAVOUR substudy,0.087169
+Construction of Precision sMDT Detector for ATLAS Muon Spectrometer Upgrade,Natural course of lung adenocarcinoma manifesting as ground-glass nodules: invasiveness assessment based on growth evaluation,0.040231
+Construction of Precision sMDT Detector for ATLAS Muon Spectrometer Upgrade,Research on the Recognition Method of Fuzzy Features in Tai Chi Force Actions,0.036761
+Construction of Precision sMDT Detector for ATLAS Muon Spectrometer Upgrade,A searchable database of publications using fluorescent probes and flow cytometry to study antigen-specific B cells,0.102831
+Trading Method Based on ARIMA Model and Greedy Algorithm,Supplementary Material for: A hybrid machine learning model based on semantic information can optimize treatment decision for naïve single 3-5cm HCC patients,0.342843
+Trading Method Based on ARIMA Model and Greedy Algorithm,Investigation on the Flow and Heat Transfer Characteristics in a Multi-Pass Channel Using Magnetic Resonance Velocimetry and Transient Thermochromic Liquid Crystal,-0.037404
+Trading Method Based on ARIMA Model and Greedy Algorithm,Numerical simulation of transient pressure characteristics of arc discharge in water,0.031871
+Trading Method Based on ARIMA Model and Greedy Algorithm,Association between impaired left ventricular global longitudinal strain and B-type natriuretic peptide in obstructive hypertrophic cardiomyopathy,-0.024959
+Trading Method Based on ARIMA Model and Greedy Algorithm,Association between stent implantation results and target vessel failure after IVUS-Guided PCI: A FLAVOUR substudy,0.196188
+Trading Method Based on ARIMA Model and Greedy Algorithm,Natural course of lung adenocarcinoma manifesting as ground-glass nodules: invasiveness assessment based on growth evaluation,-0.060124
+Trading Method Based on ARIMA Model and Greedy Algorithm,Research on the Recognition Method of Fuzzy Features in Tai Chi Force Actions,0.106542
+Trading Method Based on ARIMA Model and Greedy Algorithm,A searchable database of publications using fluorescent probes and flow cytometry to study antigen-specific B cells,-0.025935
+Supplementary Material for: A hybrid machine learning model based on semantic information can optimize treatment decision for naïve single 3-5cm HCC patients,Investigation on the Flow and Heat Transfer Characteristics in a Multi-Pass Channel Using Magnetic Resonance Velocimetry and Transient Thermochromic Liquid Crystal,-0.053218
+Supplementary Material for: A hybrid machine learning model based on semantic information can optimize treatment decision for naïve single 3-5cm HCC patients,Numerical simulation of transient pressure characteristics of arc discharge in water,0.042129
+Supplementary Material for: A hybrid machine learning model based on semantic information can optimize treatment decision for naïve single 3-5cm HCC patients,Association between impaired left ventricular global longitudinal strain and B-type natriuretic peptide in obstructive hypertrophic cardiomyopathy,0.127548
+Supplementary Material for: A hybrid machine learning model based on semantic information can optimize treatment decision for naïve single 3-5cm HCC patients,Association between stent implantation results and target vessel failure after IVUS-Guided PCI: A FLAVOUR substudy,0.38244
+Supplementary Material for: A hybrid machine learning model based on semantic information can optimize treatment decision for naïve single 3-5cm HCC patients,Natural course of lung adenocarcinoma manifesting as ground-glass nodules: invasiveness assessment based on growth evaluation,0.15821
+Supplementary Material for: A hybrid machine learning model based on semantic information can optimize treatment decision for naïve single 3-5cm HCC patients,Research on the Recognition Method of Fuzzy Features in Tai Chi Force Actions,0.121961
+Supplementary Material for: A hybrid machine learning model based on semantic information can optimize treatment decision for naïve single 3-5cm HCC patients,A searchable database of publications using fluorescent probes and flow cytometry to study antigen-specific B cells,0.077735
+Investigation on the Flow and Heat Transfer Characteristics in a Multi-Pass Channel Using Magnetic Resonance Velocimetry and Transient Thermochromic Liquid Crystal,Numerical simulation of transient pressure characteristics of arc discharge in water,0.091333
+Investigation on the Flow and Heat Transfer Characteristics in a Multi-Pass Channel Using Magnetic Resonance Velocimetry and Transient Thermochromic Liquid Crystal,Association between impaired left ventricular global longitudinal strain and B-type natriuretic peptide in obstructive hypertrophic cardiomyopathy,0.13464
+Investigation on the Flow and Heat Transfer Characteristics in a Multi-Pass Channel Using Magnetic Resonance Velocimetry and Transient Thermochromic Liquid Crystal,Association between stent implantation results and target vessel failure after IVUS-Guided PCI: A FLAVOUR substudy,0.096503
+Investigation on the Flow and Heat Transfer Characteristics in a Multi-Pass Channel Using Magnetic Resonance Velocimetry and Transient Thermochromic Liquid Crystal,Natural course of lung adenocarcinoma manifesting as ground-glass nodules: invasiveness assessment based on growth evaluation,-0.006302
+Investigation on the Flow and Heat Transfer Characteristics in a Multi-Pass Channel Using Magnetic Resonance Velocimetry and Transient Thermochromic Liquid Crystal,Research on the Recognition Method of Fuzzy Features in Tai Chi Force Actions,-0.01951
+Investigation on the Flow and Heat Transfer Characteristics in a Multi-Pass Channel Using Magnetic Resonance Velocimetry and Transient Thermochromic Liquid Crystal,A searchable database of publications using fluorescent probes and flow cytometry to study antigen-specific B cells,0.055974
+Numerical simulation of transient pressure characteristics of arc discharge in water,Association between impaired left ventricular global longitudinal strain and B-type natriuretic peptide in obstructive hypertrophic cardiomyopathy,0.038102
+Numerical simulation of transient pressure characteristics of arc discharge in water,Association between stent implantation results and target vessel failure after IVUS-Guided PCI: A FLAVOUR substudy,0.115312
+Numerical simulation of transient pressure characteristics of arc discharge in water,Natural course of lung adenocarcinoma manifesting as ground-glass nodules: invasiveness assessment based on growth evaluation,0.021545
+Numerical simulation of transient pressure characteristics of arc discharge in water,Research on the Recognition Method of Fuzzy Features in Tai Chi Force Actions,0.165777
+Numerical simulation of transient pressure characteristics of arc discharge in water,A searchable database of publications using fluorescent probes and flow cytometry to study antigen-specific B cells,0.057253
+Association between impaired left ventricular global longitudinal strain and B-type natriuretic peptide in obstructive hypertrophic cardiomyopathy,Association between stent implantation results and target vessel failure after IVUS-Guided PCI: A FLAVOUR substudy,0.252795
+Association between impaired left ventricular global longitudinal strain and B-type natriuretic peptide in obstructive hypertrophic cardiomyopathy,Natural course of lung adenocarcinoma manifesting as ground-glass nodules: invasiveness assessment based on growth evaluation,0.190854
+Association between impaired left ventricular global longitudinal strain and B-type natriuretic peptide in obstructive hypertrophic cardiomyopathy,Research on the Recognition Method of Fuzzy Features in Tai Chi Force Actions,-0.001264
+Association between impaired left ventricular global longitudinal strain and B-type natriuretic peptide in obstructive hypertrophic cardiomyopathy,A searchable database of publications using fluorescent probes and flow cytometry to study antigen-specific B cells,-0.002195
+Association between stent implantation results and target vessel failure after IVUS-Guided PCI: A FLAVOUR substudy,Natural course of lung adenocarcinoma manifesting as ground-glass nodules: invasiveness assessment based on growth evaluation,0.146933
+Association between stent implantation results and target vessel failure after IVUS-Guided PCI: A FLAVOUR substudy,Research on the Recognition Method of Fuzzy Features in Tai Chi Force Actions,0.218828
+Association between stent implantation results and target vessel failure after IVUS-Guided PCI: A FLAVOUR substudy,A searchable database of publications using fluorescent probes and flow cytometry to study antigen-specific B cells,0.081532
+Natural course of lung adenocarcinoma manifesting as ground-glass nodules: invasiveness assessment based on growth evaluation,Research on the Recognition Method of Fuzzy Features in Tai Chi Force Actions,-0.047226
+Natural course of lung adenocarcinoma manifesting as ground-glass nodules: invasiveness assessment based on growth evaluation,A searchable database of publications using fluorescent probes and flow cytometry to study antigen-specific B cells,0.147218
+Research on the Recognition Method of Fuzzy Features in Tai Chi Force Actions,A searchable database of publications using fluorescent probes and flow cytometry to study antigen-specific B cells,0.049611

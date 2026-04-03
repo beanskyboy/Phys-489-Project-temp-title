@@ -1,0 +1,4 @@
+title_i,title_j,cosine_similarity
+A novel algorithm for the edge detection and edge enhancement of medical images,Contrast enhancement of portal images by selective histogram equalization,0.54342
+A novel algorithm for the edge detection and edge enhancement of medical images,A CT- and MR-compatible reference marker box for use with stereotaxic frames.,0.240169
+Contrast enhancement of portal images by selective histogram equalization,A CT- and MR-compatible reference marker box for use with stereotaxic frames.,0.290068

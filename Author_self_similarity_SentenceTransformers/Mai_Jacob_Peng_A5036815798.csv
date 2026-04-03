@@ -1,0 +1,7 @@
+title_i,title_j,cosine_similarity
+Catalyst: a Python JIT compiler for auto-differentiablehybrid quantum programs,LAGrad: Statically Optimized Differentiable Programming in MLIR,0.273038
+Catalyst: a Python JIT compiler for auto-differentiablehybrid quantum programs,Sound and Modular Activity Analysis for Automatic Differentiation in MLIR,0.375301
+Catalyst: a Python JIT compiler for auto-differentiablehybrid quantum programs,Parallel and Customizable Equality Saturation,0.30283
+LAGrad: Statically Optimized Differentiable Programming in MLIR,Sound and Modular Activity Analysis for Automatic Differentiation in MLIR,0.628413
+LAGrad: Statically Optimized Differentiable Programming in MLIR,Parallel and Customizable Equality Saturation,0.256939
+Sound and Modular Activity Analysis for Automatic Differentiation in MLIR,Parallel and Customizable Equality Saturation,0.512822

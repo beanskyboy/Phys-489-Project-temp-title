@@ -1,0 +1,11 @@
+title_i,title_j,cosine_similarity
+Reference datasets for commissioning of model‐based dose calculation algorithms for electronic brachytherapy,Dosimetric impact of physics libraries for electronic brachytherapy Monte Carlo studies,0.624709
+Reference datasets for commissioning of model‐based dose calculation algorithms for electronic brachytherapy,The Detection of the 21st Chinese Nuclear Explosion in Eastern Canada,0.146661
+Reference datasets for commissioning of model‐based dose calculation algorithms for electronic brachytherapy,Spéciation de radionucléides dans les suspensoides du Fleuve St. Laurent,0.127471
+Reference datasets for commissioning of model‐based dose calculation algorithms for electronic brachytherapy,Water at the Outlet of the St. Lawrence River Part II - Suspended Matter and Solid Loadings from 1989 to 1991,-0.028037
+Dosimetric impact of physics libraries for electronic brachytherapy Monte Carlo studies,The Detection of the 21st Chinese Nuclear Explosion in Eastern Canada,0.030559
+Dosimetric impact of physics libraries for electronic brachytherapy Monte Carlo studies,Spéciation de radionucléides dans les suspensoides du Fleuve St. Laurent,0.113456
+Dosimetric impact of physics libraries for electronic brachytherapy Monte Carlo studies,Water at the Outlet of the St. Lawrence River Part II - Suspended Matter and Solid Loadings from 1989 to 1991,-0.041223
+The Detection of the 21st Chinese Nuclear Explosion in Eastern Canada,Spéciation de radionucléides dans les suspensoides du Fleuve St. Laurent,0.651497
+The Detection of the 21st Chinese Nuclear Explosion in Eastern Canada,Water at the Outlet of the St. Lawrence River Part II - Suspended Matter and Solid Loadings from 1989 to 1991,0.527948
+Spéciation de radionucléides dans les suspensoides du Fleuve St. Laurent,Water at the Outlet of the St. Lawrence River Part II - Suspended Matter and Solid Loadings from 1989 to 1991,0.621769

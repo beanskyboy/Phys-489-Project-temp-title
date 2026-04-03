@@ -1,0 +1,11 @@
+title_i,title_j,cosine_similarity
+Measuring the Interocular Delay and its Link to Visual Acuity in Amblyopia,Assessing the interocular delay in amblyopia and its link to visual acuity,0.864791
+Measuring the Interocular Delay and its Link to Visual Acuity in Amblyopia,Investigating the temporal dynamics of dichoptic masking,0.545875
+Measuring the Interocular Delay and its Link to Visual Acuity in Amblyopia,Binocular combination under asynchronous viewing conditions,0.633509
+Measuring the Interocular Delay and its Link to Visual Acuity in Amblyopia,No correlation between interocular delay and stereosensitvity in healthy adults,0.68296
+Assessing the interocular delay in amblyopia and its link to visual acuity,Investigating the temporal dynamics of dichoptic masking,0.585287
+Assessing the interocular delay in amblyopia and its link to visual acuity,Binocular combination under asynchronous viewing conditions,0.680897
+Assessing the interocular delay in amblyopia and its link to visual acuity,No correlation between interocular delay and stereosensitvity in healthy adults,0.707734
+Investigating the temporal dynamics of dichoptic masking,Binocular combination under asynchronous viewing conditions,0.86639
+Investigating the temporal dynamics of dichoptic masking,No correlation between interocular delay and stereosensitvity in healthy adults,0.629491
+Binocular combination under asynchronous viewing conditions,No correlation between interocular delay and stereosensitvity in healthy adults,0.662808
