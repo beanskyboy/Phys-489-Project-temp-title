@@ -11,7 +11,14 @@ from sentence_transformers import SentenceTransformer
 
 EMBED_MODEL = "embeddinggemma"
 EMBED_CACHE_PATH = "embedding_cache.json"
-SENTENCE_TRANSFORMER_MODEL = "all-mpnet-base-v2"
+SENTENCE_TRANSFORMER_MODEL = "e5"  # Change this to switch between different sentence transformer models
+SENTENCE_TRANSFORMER_MODEL_REGISTRY = {
+    "e5": "intfloat/e5-base-v2",
+    "specter": "allenai/specter2_base",
+    "all-mpnet-base-v2": "all-mpnet-base-v2",
+}
+_sentence_transformer_models = {}
+
 
 # Pick the backend for run_similarity_test_csv by changing this line.
 # TEST_SIMILARITY_BACKEND = "ollama"
@@ -40,12 +47,41 @@ def save_embedding_cache(cache, cache_path=EMBED_CACHE_PATH):
         json.dump(cache, f)
 
 
-def _embedding_cache_key(text):
-    return hashlib.sha256(text.encode("utf-8")).hexdigest()
+def _resolve_sentence_transformer_model_name(model_name):
+    return SENTENCE_TRANSFORMER_MODEL_REGISTRY.get(model_name, model_name)
+
+
+def _sentence_transformer_cache_mode(model_name):
+    resolved_model_name = _resolve_sentence_transformer_model_name(model_name)
+    if resolved_model_name.startswith("intfloat/e5"):
+        return "passage_prefix"
+    return "plain"
+
+
+def _prepare_sentence_transformer_texts(texts, model_name):
+    cache_mode = _sentence_transformer_cache_mode(model_name)
+    if cache_mode == "passage_prefix":
+        return [f"passage: {text}" for text in texts]
+    return texts
+
+
+def _embedding_cache_key(text, backend, model_name, cache_mode="plain"):
+    cache_namespace = f"{backend}:{model_name}:{cache_mode}"
+    payload = f"{cache_namespace}\n{text}"
+    return hashlib.sha256(payload.encode("utf-8")).hexdigest()
+
+
+def get_sentence_transformer_model(model_name=SENTENCE_TRANSFORMER_MODEL):
+    resolved_model_name = _resolve_sentence_transformer_model_name(model_name)
+    if resolved_model_name not in _sentence_transformer_models:
+        _sentence_transformer_models[resolved_model_name] = SentenceTransformer(
+            resolved_model_name
+        )
+    return _sentence_transformer_models[resolved_model_name]
 
 
 def get_vector(text, embedding_cache):
-    key = _embedding_cache_key(text)
+    key = _embedding_cache_key(text, "ollama", EMBED_MODEL)
     if key in embedding_cache:
         return np.array(embedding_cache[key], dtype=float)
 
@@ -74,12 +110,21 @@ def _extract_embeddings(response):
 
 
 def get_vectors_for_texts(texts, embedding_cache):
+    model_name = _resolve_sentence_transformer_model_name(
+        SENTENCE_TRANSFORMER_MODEL
+    )
+    cache_mode = _sentence_transformer_cache_mode(model_name)
     vectors = []
     missing_texts = []
     missing_keys = []
 
     for text in texts:
-        key = _embedding_cache_key(text)
+        key = _embedding_cache_key(
+            text,
+            "sentence_transformers",
+            model_name,
+            cache_mode=cache_mode,
+        )
         if key in embedding_cache:
             vectors.append(np.array(embedding_cache[key], dtype=float))
         else:
@@ -88,16 +133,20 @@ def get_vectors_for_texts(texts, embedding_cache):
             missing_keys.append(key)
 
     if missing_texts:
+        model = get_sentence_transformer_model(model_name)
+        texts_to_encode = _prepare_sentence_transformer_texts(
+            missing_texts, model_name
+        )
 
-        # Sentence-Transformers
-        model = SentenceTransformer("all-mpnet-base-v2")
-        embeddings = model.encode(missing_texts, convert_to_numpy=True)
-
-        #  Ollama 
+        embeddings = model.encode(
+            texts_to_encode,
+            convert_to_numpy=True,
+            normalize_embeddings=True
+        )
+        
+          #  Ollama 
         # response = ollama.embed(model=EMBED_MODEL, input=missing_texts)
         # embeddings = _extract_embeddings(response)
-
-       
 
         for key, embedding in zip(missing_keys, embeddings):
             embedding_cache[key] = (
@@ -110,6 +159,7 @@ def get_vectors_for_texts(texts, embedding_cache):
         vectors = [next(missing_iter) if vec is None else vec for vec in vectors]
 
     return vectors
+
 
 
 
@@ -236,11 +286,7 @@ def run_similarity_test_csv(
         .drop_duplicates()
         .tolist()
     )
-    vectors = get_vectors_with_backend(
-        combined_texts,
-        embedding_cache=embedding_cache,
-        backend=backend,
-    )
+    vectors = get_vectors_for_texts(combined_texts, embedding_cache)
     text_to_vector = {
         text: vector
         for text, vector in zip(combined_texts, vectors)
@@ -250,7 +296,7 @@ def run_similarity_test_csv(
     for _, row in working_df.iterrows():
         vec_a = text_to_vector[row[first_col]]
         vec_b = text_to_vector[row[second_col]]
-        scores.append(compute_similarity_score(vec_a, vec_b, backend=backend))
+        scores.append(cosine_similarity(vec_a, vec_b))
 
     working_df[score_col] = scores
     df.loc[working_df.index, score_col] = working_df[score_col]
@@ -259,8 +305,7 @@ def run_similarity_test_csv(
         output_path = file_path
 
     df.to_csv(output_path, index=False)
-    if get_similarity_backend_name(backend) == "ollama":
-        save_embedding_cache(embedding_cache)
+    save_embedding_cache(embedding_cache)
     return df
 
 # 3. Main Logic
@@ -380,14 +425,14 @@ def main():
     output_df = run_similarity_pipeline(
         file_path=file_path,
         top_k=5,
-        output_path="Astronomy_and_Astrophysics_top-k-neighbors(sentence-transformers).csv",
+        output_path="Astronomy_and_Astrophysics_top-k-neighbors(E5).csv",
         embedding_cache=embedding_cache,
     )
     print(f"Saved {len(output_df)} paper similarity rows.")
   
     # output_df = run_similarity_test_csv(
     #     file_path=r"C:\Users\mauth\PHYS 489\Phys-489-Project-temp-title\Similarity tests.csv",
-    #     output_path=r"C:\Users\mauth\PHYS 489\Phys-489-Project-temp-title\Similarity tests results_sentence-transformer_all-mpnet-base-v2.csv",
+    #     output_path=r"C:\Users\mauth\PHYS 489\Phys-489-Project-temp-title\Similarity tests results_sentence-transformer_e5.csv",
     #     embedding_cache=embedding_cache,
     # )
     # print(f"Updated {len(output_df)} similarity test rows in {r'C:\Users\mauth\PHYS 489\Phys-489-Project-temp-title\Similarity tests.csv'}.")
