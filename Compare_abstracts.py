@@ -7,6 +7,7 @@ import hashlib
 
 from API_Call_Code import fetch_work, fetch_top_citation_abstracts, extract_abstract
 from sentence_transformers import SentenceTransformer
+import ast
 
 
 EMBED_MODEL = "embeddinggemma"
@@ -160,7 +161,42 @@ def get_vectors_for_texts(texts, embedding_cache):
 
     return vectors
 
+def extract_author_names(affiliations_value):
+        if pd.isna(affiliations_value):
+            return set()
+        if isinstance(affiliations_value, str):
+            affiliations_value = affiliations_value.strip()
+            if not affiliations_value:
+                return set()
+        try:
+            parsed_affiliations = (
+                ast.literal_eval(affiliations_value)
+                if isinstance(affiliations_value, str)
+                else affiliations_value
+            )
+        except (ValueError, SyntaxError):
+            return set()
 
+        if not isinstance(parsed_affiliations, list):
+            return set()
+
+        author_names = set()
+        for entry in parsed_affiliations:
+            if not isinstance(entry, dict):
+                continue
+            author_name = entry.get("author_name")
+            if isinstance(author_name, str):
+                author_name = author_name.strip()
+                if author_name:
+                    author_names.add(author_name)
+        return author_names
+
+def compute_overlap_ratio(author_names_a, author_names_b):
+        if not author_names_a or not author_names_b:
+            return 0.0
+        return len(author_names_a & author_names_b) / min(
+            len(author_names_a), len(author_names_b)
+        )
 
 
 def run_similarity_pipeline(
@@ -168,10 +204,12 @@ def run_similarity_pipeline(
     top_k=5,
     output_path="dataset_top_k_similarities.csv",
     embedding_cache=None,
+    author_overlap_threshold=0,
 ):
     if embedding_cache is None:
         embedding_cache = {}
 
+    
     df = pd.read_csv(file_path, encoding="latin1")
     df = normalize_columns(df)
 
@@ -194,6 +232,11 @@ def run_similarity_pipeline(
     texts = working_df["abstract"].tolist()
     vectors = get_vectors_for_texts(texts, embedding_cache)
     matrix = np.vstack(vectors)
+    author_sets = (
+        working_df["affiliations"].apply(extract_author_names).tolist()
+        if "affiliations" in working_df.columns
+        else [set() for _ in range(len(working_df))]
+    )
 
     norms = np.linalg.norm(matrix, axis=1, keepdims=True)
     norms[norms == 0] = 1e-12
@@ -205,9 +248,25 @@ def run_similarity_pipeline(
     doi_present = "doi" in working_df.columns
 
     for idx, row in working_df.iterrows():
-        neighbor_indices = np.argsort(similarity_matrix[idx])[::-1][:top_k]
+        candidate_indices = np.argsort(similarity_matrix[idx])[::-1]
+        neighbor_indices = []
+        scores = []
+        query_author_names = author_sets[idx]
+
+        for candidate_idx in candidate_indices:
+            overlap_ratio = compute_overlap_ratio(
+                query_author_names, author_sets[candidate_idx]
+            )
+            if overlap_ratio > author_overlap_threshold:
+                continue
+
+            neighbor_indices.append(candidate_idx)
+            scores.append(float(similarity_matrix[idx, candidate_idx]))
+
+            if len(neighbor_indices) >= top_k:
+                break
+
         neighbors = working_df.iloc[neighbor_indices]
-        scores = similarity_matrix[idx, neighbor_indices]
 
         all_results.append({
             "paper_id": row["id"],
@@ -221,10 +280,10 @@ def run_similarity_pipeline(
             ),
             "neighbor_titles": json.dumps(neighbors["title"].tolist()),
             "neighbor_abstracts": json.dumps(neighbors["abstract"].tolist()),
-            "neighbor_similarity_scores": json.dumps(
-                [float(score) for score in scores]
+            "neighbor_similarity_scores": json.dumps(scores),
+            "average_neighbor_similarity": (
+                float(np.mean(scores)) if scores else np.nan
             ),
-            "average_neighbor_similarity": float(np.mean(scores)),
         })
 
     output_df = pd.DataFrame(all_results)
@@ -382,7 +441,7 @@ def run_research_pipeline(paper_id, top_n=5, embedding_cache=None):
 
 def main():
     embedding_cache = load_embedding_cache()
-    file_path = r"C:\Users\mauth\OneDrive\Desktop\School\Winter 2026\PHYS 489\Data\Astronomy and Astrophysics sample.csv"
+    file_path = r"C:\Users\mauth\PHYS 489\Phys-489-Project-temp-title\Nuclear and high energy physic_cleaned.csv"
     # df = pd.read_csv(file_path, encoding="latin1")
     # df.columns = df.columns.str.strip().str.replace("\ufeff", "", regex=False)
 
@@ -425,7 +484,7 @@ def main():
     output_df = run_similarity_pipeline(
         file_path=file_path,
         top_k=5,
-        output_path="Astronomy_and_Astrophysics_top-k-neighbors(E5).csv",
+        output_path="Nuclear and high energy physics KNN (distinct authors - 0 threshold).csv",
         embedding_cache=embedding_cache,
     )
     print(f"Saved {len(output_df)} paper similarity rows.")
